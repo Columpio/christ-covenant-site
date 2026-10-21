@@ -3,82 +3,251 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>36. Последняя неделя, понимание суда Божьего</title>
+<title>33. Мф. 23: Последняя неделя, понимание религии</title>
 <style>
-:root{--bg:#faf7f2;--fg:#2b2622;--muted:#7a6f66;--accent:#8a4b2a;--card:#fff;--line:#e6ddd2;--quote:#f3ece2}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+:root{color-scheme:light;
+--ink:#2A1C0D;--ink2:#5A4630;--stone:#E6D8BA;--parch:#EBDAB0;--sheet:#FAF3E0;--wood:#6B4426;--frame:#F1E7CE;
+--c:#2F5DA8;--cd:#2F5DA8;--sb:#2F5DA8;--sf:#FFFFFF;--mix:#000;
+--display:"Cormorant SC","Cormorant Garamond",Georgia,serif;--uni:"Cormorant Unicase","Cormorant SC",Georgia,serif;
+--serif:"Alegreya","PT Serif",Georgia,serif;--sans:"Alegreya Sans","Segoe UI",system-ui,sans-serif;
+--canon:linear-gradient(90deg,#2F5DA8 0 10%,#D8951A 10% 20%,#C2366B 20% 30%,#1F8A5B 30% 40%,#138F8F 40% 50%,#E0562C 50% 60%,#E8801E 60% 70%,#2F8FCF 70% 80%,#6C4BB6 80% 90%,#8E3B8A 90%);
+--noise:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .30 0 0 0 0 .21 0 0 0 0 .10 0 0 0 .22 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+--weave:repeating-linear-gradient(90deg,rgba(255,255,255,.11) 0 2px,rgba(0,0,0,.07) 2px 4px);
+--cdd:color-mix(in srgb,var(--cd) 55%,var(--ink));
+--px:2.4rem;--py:2.2rem}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.6 Georgia,"PT Serif","Times New Roman",serif}
-a{color:var(--accent)}
-header.top{position:sticky;top:0;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:1rem;
-padding:.6rem 1.25rem;background:var(--card);border-bottom:1px solid var(--line);font:15px/1.4 system-ui,sans-serif}
-.crumbs a{text-decoration:none}
-main{max-width:46rem;margin:0 auto;padding:1.5rem 1.25rem 7rem}
-main.wide{max-width:64rem}
-h1{font-size:1.6rem;line-height:1.25;margin:.5rem 0 1rem}
-h2{font-size:1.3rem;line-height:1.3;margin:1.8rem 0 .6rem}
-h3{font-size:1.12rem;line-height:1.35;margin:1.4rem 0 .5rem}
-h4{font-size:1rem;line-height:1.4;margin:1.1rem 0 .4rem}
-ul{padding-left:1.25rem}
-li{margin:.2rem 0}
-blockquote{margin:.6rem 0 1rem;padding:.7rem 1rem;background:var(--quote);border-left:3px solid var(--accent);
-border-radius:0 6px 6px 0;font-size:.95em}
+html{scroll-padding-top:4.5rem;overflow-x:clip}
+body{margin:0;overflow-x:clip;color:var(--ink);font:400 1.2rem/1.65 var(--serif);-webkit-font-smoothing:antialiased;min-height:100vh;
+background:#2B190C url(img/shelves.svg) 50% 0/520px 960px repeat}
+/* Свет и глубина над стеллажами: утренний луч слева сверху, виньетка по краям; на внутренних страницах темнее. */
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+background:linear-gradient(115deg,rgba(255,226,160,.5),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 45%,rgba(20,10,4,.6) 100%),rgba(30,18,8,.12)}
+body:not(.home)::before{background:linear-gradient(115deg,rgba(255,226,160,.28),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 40%,rgba(20,10,4,.55) 100%),rgba(30,18,8,.5)}
+a{color:var(--cdd)}
+.sprite{position:absolute;width:0;height:0;overflow:hidden}
+.skip{position:absolute;left:-999px;top:0;z-index:40;padding:.7rem 1.1rem;background:var(--ink);color:#fff;font:700 1rem var(--sans)}
+.skip:focus{left:.5rem;top:.5rem}
+a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible{outline:3px solid var(--ink);outline-offset:3px;border-radius:6px}
+
+/* Шапка: полоса цветов канона, на страницах книги - цвет её раздела. */
+header.top{position:sticky;top:0;z-index:30;background:rgba(247,239,218,.95);backdrop-filter:blur(6px);border-bottom:1px solid #BFA97E;box-shadow:0 .4rem .8rem -.5rem rgba(50,30,10,.45);font:700 1.02rem/1.4 var(--sans)}
+header.top::before{content:"";display:block;height:4px;background:var(--canon)}
+body[style] header.top::before{background:var(--c)}
+header.top .bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;max-width:44rem;margin:0 auto;padding:0 1.25rem}
+header.top.wide .bar{max-width:68rem}
+.crumbs{min-width:0;color:var(--ink2)}
+.crumbs a{display:inline-flex;align-items:center;min-height:44px;padding:0 .3rem;color:var(--ink);text-decoration:none}
+.crumbs a:hover{color:var(--cdd);text-decoration:underline;text-underline-offset:.25em}
+
+main{max-width:44rem;margin:0 auto;padding:2rem 1.25rem 7rem}
+main.wide{max-width:68rem;position:relative;margin:0 auto;padding:2rem 2.4rem 7rem;
+background:var(--noise),linear-gradient(90deg,rgba(60,38,16,.18),rgba(60,38,16,0) 6%,rgba(60,38,16,0) 94%,rgba(60,38,16,.18)),var(--stone);
+border-inline:1.1rem solid #A98B5E;
+box-shadow:inset .5rem 0 .8rem -.3rem rgba(50,30,10,.45),inset -.5rem 0 .8rem -.3rem rgba(50,30,10,.45),0 0 3rem 1rem rgba(15,8,3,.7)}
+.muted{color:var(--ink2)}
+
+/* Страница урока - лист пергамента на каменной стене; под текстом нет фактуры. */
+main:not(.wide){position:relative;margin:1.6rem auto 6rem;padding:var(--py) var(--px) 2.6rem;background:var(--sheet);border-radius:.3rem;
+box-shadow:inset 0 0 0 1px rgba(150,115,60,.4),inset 0 0 2.4rem rgba(150,115,60,.2),0 1.4rem 2.4rem -1rem rgba(40,25,10,.65)}
+main:not(.wide)::before{content:"";display:block;height:.55rem;margin:calc(var(--py) * -1) calc(var(--px) * -1) 1.6rem;border-radius:.3rem .3rem 0 0;background:var(--weave),var(--sb)}
+h1{font:700 clamp(1.8rem,3.4vw,2.4rem)/1.15 var(--display);letter-spacing:.015em;margin:.4rem 0 1.2rem}
+h2{font:700 1.6rem/1.25 var(--display);letter-spacing:.015em;margin:2.6rem 0 .8rem}
+h2::before{content:"";display:inline-block;width:.5em;height:.5em;margin:0 .55em .12em 0;background:var(--sb);border-radius:2px;transform:rotate(45deg)}
+h3{font:700 1.16rem/1.45 var(--serif);margin:1.6rem 0 .5rem}
+h4{font:italic 600 1.1rem/1.4 var(--serif);margin:1.2rem 0 .4rem}
+ul{padding-left:1.3rem}
+li{margin:.25rem 0}
+li::marker{color:var(--sb)}
+blockquote{margin:.9rem 0 1.3rem;padding:.9rem 1.2rem 1rem;background:#FFFBEC;border:1px solid #E2D2A8;border-left:.32rem solid var(--sb);border-radius:.2rem;box-shadow:0 .2rem 0 #E6D8B4,0 .7rem 1rem -.7rem rgba(60,40,15,.5);font-size:1.08rem}
 blockquote p{margin:0}
-blockquote cite{display:block;margin-top:.3rem;font:normal .8em/1.4 system-ui,sans-serif;color:var(--muted)}
-.muted{color:var(--muted)}
-.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:.6rem;list-style:none;padding:0;margin:0 0 1rem}
-.tiles.wide{grid-template-columns:repeat(auto-fill,minmax(15rem,1fr))}
+blockquote cite{display:block;margin-top:.4rem;font:700 .92rem/1.4 var(--sans);font-style:normal;color:var(--cdd)}
+
+/* Главная: зал. Утренний свет из окна, лампады, ниши со свитками. */
+.hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.lead{max-width:34rem;margin:0;font:400 1.25rem/1.5 var(--serif);color:var(--ink)}
+.scene{position:relative;width:17rem;height:19rem;justify-self:end}
+.window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
+background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
+box-shadow:0 0 0 .55rem var(--frame),0 0 0 .7rem #B9A57D,inset 0 1.2rem 1.6rem -.4rem rgba(40,25,10,.55),inset 1rem 0 1.2rem -.8rem rgba(40,25,10,.4)}
+.window::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent calc(50% - .2rem),#4A2D18 calc(50% - .2rem) calc(50% + .2rem),transparent calc(50% + .2rem)),linear-gradient(180deg,transparent 50%,#4A2D18 50% calc(50% + .4rem),transparent calc(50% + .4rem))}
+.sill{position:absolute;left:0;right:0;bottom:0;height:1.2rem;border-radius:.25rem .25rem .5rem .5rem;background:linear-gradient(180deg,#F6EDD3,#D6C5A0 55%,#B9A57D);box-shadow:0 .7rem .9rem -.4rem rgba(40,25,10,.55)}
+.sill>*{position:absolute;bottom:100%;margin-bottom:-.2rem}
+.sill img{display:block;width:100%;height:auto;filter:drop-shadow(.3rem .35rem .25rem rgba(40,25,10,.45))}
+.jar{left:1.2rem;width:3.1rem}
+.lamp{left:4.9rem;width:6.2rem}
+.ink{left:11.7rem;width:3.4rem}
+.glow{position:absolute;left:88%;top:66%;width:15rem;height:15rem;transform:translate(-50%,-50%);border-radius:50%;pointer-events:none;
+background:radial-gradient(circle,rgba(255,196,96,.62),rgba(255,160,60,.2) 38%,rgba(255,150,50,0) 68%);animation:glow 3.4s ease-in-out infinite}
+.flame{position:absolute;left:88.5%;top:67%;width:.75rem;height:1.35rem;transform:translate(-50%,-92%);transform-origin:50% 100%;border-radius:50% 50% 50% 50%/70% 70% 30% 30%;
+background:radial-gradient(ellipse at 50% 72%,#FFF8D0 0 18%,#FFD060 42%,#FF9A2A 72%,rgba(255,110,20,0) 100%);filter:blur(.4px);animation:flicker 2.7s ease-in-out infinite}
+.reed{position:absolute;left:46%;top:24%;width:.28rem;height:6.4rem;transform:translate(-50%,-100%) rotate(17deg);transform-origin:50% 100%;
+background:linear-gradient(90deg,#6E4F1E,#D9B866 45%,#8A6428);clip-path:polygon(0 0,100% 0,100% 94%,50% 100%,0 94%)}
+.rays{position:absolute;right:7rem;top:3rem;width:1px;height:1px;pointer-events:none;z-index:2}
+.rays i{position:absolute;top:0;right:0;width:8rem;height:48rem;transform-origin:100% 0;transform:rotate(var(--a));filter:blur(8px);mix-blend-mode:soft-light;
+background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
+.rays i:nth-child(1){--a:-40deg}
+.rays i:nth-child(2){--a:-54deg;width:5rem}
+.rays i:nth-child(3){--a:-68deg;width:10rem}
+@keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
+@keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
+.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
+.wall-lamp .lamp{position:relative;left:auto;width:100%}
+.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
+.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
+.jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
+.jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
+background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.jump a{display:inline-flex;align-items:center;min-height:44px;padding:0 1.2rem;text-decoration:none}
+.jump a:hover{background-color:#F6E9C2}
+.search{display:block;width:100%;max-width:34rem;margin:.4rem 0 1.2rem;padding:.75rem 1.1rem;font-weight:400}
+.search::placeholder{color:var(--ink2);opacity:1}
+.search:focus{border-color:var(--ink)}
+.testament{position:relative;display:flex;flex-direction:column;gap:2.4rem;margin:3rem 0 0}
+.testament>h2{display:flex;align-items:center;gap:1rem;margin:0;font:700 clamp(2rem,3.6vw,2.7rem)/1.1 var(--display);letter-spacing:.02em}
+.testament>h2::before{display:none}
+.testament>h2::after{content:"";flex:1;height:.4rem;border-top:2px solid var(--wood);border-bottom:1px solid var(--wood);opacity:.6}
+main section[hidden],.scrolls li[hidden],.tiles li[hidden]{display:none}
+
+/* Ниша раздела: драпировка цвета раздела, внутри на досках лежат свитки. */
+.group{position:relative;overflow:hidden;min-width:0;border:.55rem solid var(--frame);border-radius:1.6rem 1.6rem .3rem .3rem;
+background:linear-gradient(180deg,rgba(40,24,10,0),rgba(40,24,10,.14)),var(--noise),color-mix(in srgb,var(--c) 7%,#CDBB93);
+box-shadow:0 0 0 1px #B9A57D,inset 0 1.1rem 1.6rem -.5rem rgba(35,20,8,.55),inset 1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),inset -1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),0 .7rem 1.1rem -.5rem rgba(50,30,10,.5)}
+.group>h3{position:relative;z-index:3;display:flex;align-items:center;gap:.7rem;margin:0;padding:.65rem 1.3rem .6rem;background:var(--weave),var(--sb);color:var(--sf);font:700 1.45rem/1.15 var(--display);letter-spacing:.02em;filter:drop-shadow(0 .35rem .3rem rgba(25,12,0,.45))}
+.group>h3::after,.book-head::after{content:"";position:absolute;left:0;right:0;top:100%;height:.62rem;background:radial-gradient(circle at 50% 0,var(--sb) 0 .5rem,transparent .52rem) 0 0/1.1rem .62rem repeat-x}
+.emblem{width:1.9rem;height:1.9rem;flex:none;color:var(--sf)}
+
+/* Свиток: пергамент на двух деревянных валиках, на шипах - ленточка цвета раздела, справа - печать с числом уроков. */
+.scrolls{--h:3.4rem;--board:.62rem;display:flex;flex-wrap:wrap;align-items:flex-start;column-gap:1.3rem;row-gap:var(--board);list-style:none;margin:0;padding:1.5rem 1.2rem var(--board);
+background:repeating-linear-gradient(180deg,transparent 0 var(--h),#2C1A0C var(--h) calc(var(--h) + 1px),#8A5A32 calc(var(--h) + 1px) calc(var(--h) + 3px),#6B4426 calc(var(--h) + 3px) calc(var(--h) + var(--board))) 0 0/100% calc(100% + var(--board)) no-repeat;
+background-origin:content-box;background-clip:padding-box}
+.scrolls li{position:relative;height:var(--h);margin:0;padding:0 .95rem;max-width:100%;transition:transform .18s ease;animation:rise .45s ease backwards;animation-delay:calc(var(--i) * 12ms);filter:drop-shadow(0 .18rem .12rem rgba(20,10,0,.4))}
+.scrolls li::before,.scrolls li::after{content:"";position:absolute;top:0;bottom:0;width:.95rem;
+background:radial-gradient(circle at 50% .45rem,#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) top/100% .95rem no-repeat,
+radial-gradient(circle at 50% calc(100% - .45rem),#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) bottom/100% .95rem no-repeat,
+linear-gradient(var(--sb),var(--sb)) 50% 1rem/.56rem .3rem no-repeat,
+linear-gradient(90deg,#3F2614,#B07C48 35%,#7A4E2B 65%,#3F2614) center/.42rem 100% no-repeat}
+.scrolls li::before{left:0}
+.scrolls li::after{right:0}
+.scrolls a,.scrolls li.empty>span{display:flex;align-items:center;gap:.7rem;height:calc(var(--h) - 1rem);margin:.5rem 0;padding:0 .8rem 0 1.25rem;white-space:nowrap;font:700 1.14rem/1 var(--display);letter-spacing:.015em}
+.scrolls a{position:relative;z-index:1;color:var(--ink);text-decoration:none;animation:unroll .4s cubic-bezier(.3,.7,.3,1) backwards;animation-delay:calc(var(--i) * 12ms + 80ms);
+background:linear-gradient(180deg,rgba(104,66,22,.36),rgba(104,66,22,0) 20%,rgba(104,66,22,0) 78%,rgba(104,66,22,.44)),linear-gradient(rgba(255,248,226,.5),rgba(255,248,226,.5)),url(img/parchment.webp) #EBD8A8;
+box-shadow:inset 0 0 .7rem rgba(120,80,25,.4)}
+.scrolls a::before,.scrolls a::after{content:"";position:absolute;top:0;bottom:0;width:1.15rem;border-radius:.5rem;
+background:repeating-linear-gradient(90deg,rgba(90,60,20,.2) 0 1px,transparent 1px 3px),linear-gradient(90deg,#8E6D3A 0,#E8D3A0 30%,#F5E8C4 50%,#D8BF86 76%,#7F5F2E 100%);box-shadow:0 0 .35rem rgba(60,35,10,.5)}
+.scrolls a::before{left:-.62rem}
+.scrolls a::after{right:-.62rem}
+.scrolls li:hover,.scrolls li:has(a:focus-visible){transform:translateY(-.22rem)}
+.scrolls a:focus-visible{outline-offset:.6rem}
+.scrolls .count{position:relative;z-index:2;display:grid;place-items:center;min-width:1.85rem;height:1.85rem;padding:0 .3rem;border-radius:52% 48% 55% 45%/48% 55% 45% 52%;
+background:radial-gradient(circle at 35% 30%,var(--sb),color-mix(in srgb,var(--sb) 72%,#000));color:var(--sf);font:700 .9rem/1 var(--sans);letter-spacing:0;box-shadow:inset 0 1px 1px rgba(255,255,255,.4),0 .1rem .2rem rgba(0,0,0,.4)}
+.scrolls li.empty{padding:0 .3rem}
+.scrolls li.empty::before,.scrolls li.empty::after{display:none}
+.scrolls li.empty>span{border:1.5px dashed rgba(63,38,20,.65);border-radius:.4rem;color:var(--ink2);background:rgba(255,248,230,.22)}
+@keyframes unroll{from{clip-path:inset(0 50%)}to{clip-path:inset(0 0)}}
+@keyframes rise{from{opacity:0;transform:translateY(.6rem)}to{opacity:1;transform:none}}
+
+/* Страница книги: драпировка с названием и бирки уроков. */
+.book-head{position:relative;display:flex;align-items:center;gap:1.3rem;margin:0 0 2.2rem;padding:1.4rem 1.7rem;border-radius:.4rem .4rem 0 0;background:var(--weave),var(--sb);color:var(--sf);filter:drop-shadow(0 .45rem .35rem rgba(25,12,0,.4))}
+.book-head .emblem{width:4.2rem;height:4.2rem}
+.book-head h1{margin:0;color:var(--sf);font:700 clamp(2rem,4.4vw,3.1rem)/1.05 var(--display)}
+.meta{margin:.35rem 0 0;font:700 1.05rem/1.4 var(--sans);color:var(--sf)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));gap:.9rem;list-style:none;padding:0;margin:0 0 1rem}
 .tiles li{margin:0}
-.tiles a,.tiles li.empty{display:flex;align-items:center;justify-content:space-between;gap:.6rem;height:100%;min-height:4.5rem;
-padding:.8rem 1rem;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg);
-font:600 16px/1.35 system-ui,sans-serif}
-.tiles a{text-decoration:none;box-shadow:0 1px 2px rgba(0,0,0,.04);transition:border-color .15s,box-shadow .15s,transform .05s}
-.tiles a:hover{border-color:var(--accent);box-shadow:0 4px 14px rgba(0,0,0,.08)}
-.tiles a:active{transform:translateY(1px)}
-.tiles a>span:first-child,.tiles li.empty>span{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
-.tiles .count{color:var(--accent);font-size:.9em}
-.tiles li.empty{color:var(--muted);opacity:.55}
-.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;padding:.55rem 1.1rem;
-border:1px solid var(--accent);border-radius:10px;background:var(--card);color:var(--accent);font:600 15px/1.3 system-ui,sans-serif;
-text-decoration:none;cursor:pointer;box-shadow:0 1px 0 rgba(0,0,0,.06);transition:background .15s,color .15s,transform .05s}
-.btn:hover,details.download summary:hover{background:var(--accent);color:#fff}
-.btn:active,details.download summary:active{transform:translateY(1px)}
-.btn.primary{background:var(--accent);color:#fff}
-.btn.primary:hover{background:#6f3a20}
-.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3rem}
-.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;text-align:left}
+.tiles a{display:flex;align-items:center;height:100%;min-height:4.6rem;padding:.85rem 1rem .85rem 1.2rem;border-left:.5rem solid var(--sb);border-radius:.35rem;color:var(--ink);font:700 1.1rem/1.3 var(--serif);text-decoration:none;
+background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),url(img/parchment.webp) var(--parch);box-shadow:inset 0 0 .7rem rgba(120,85,35,.28),0 .15rem 0 #B9A276,0 .6rem .9rem -.5rem rgba(60,40,15,.55);transition:transform .15s}
+.tiles a:hover{transform:translateY(-.15rem)}
+.tiles .chapters{display:block;margin-top:.3rem;color:var(--cdd);font:700 .95rem/1.3 var(--sans)}
+
+/* Урок: содержание, кнопки. */
+.toc{margin:0 0 1.4rem;padding:.2rem 1.1rem;border:1px solid #D9C89E;border-radius:.3rem;background:#FFFBEC;font:400 1.02rem/1.5 var(--sans)}
+.toc summary{display:flex;align-items:center;min-height:44px;cursor:pointer;font-weight:700}
+.toc ol{margin:.3rem 0 .7rem;padding-left:1.4rem}
+.toc li::marker{color:var(--cdd);font-weight:700}
+.toc a{color:var(--ink);text-decoration:none}
+.toc a:hover{color:var(--cdd);text-decoration:underline}
+.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
+background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.btn:hover,details.download summary:hover{background-color:#F6E9C2}
+.btn.primary{background:var(--weave),var(--sb);border-color:color-mix(in srgb,var(--sb) 60%,#000);color:var(--sf)}
+.btn.primary:hover{background:var(--weave),color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3.5rem}
+.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;padding:.8rem 1rem;text-align:left}
 .pager .pager-next{align-items:flex-end;text-align:right}
 .pager .pager-section{align-items:center;justify-content:center;text-align:center}
-.pager .dir{font-size:.8em;font-weight:500;opacity:.85}
-.pager .name{font-weight:600}
-.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;
-pointer-events:none;z-index:5}
-.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;
-border-radius:50%;background:var(--accent);color:#fff;font:700 1.4rem/1 system-ui,sans-serif;text-decoration:none;
-cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.25);opacity:.92}
-.fab:hover{opacity:1;background:#6f3a20}
-.fab.next{margin-left:auto}
-.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);
-transition:opacity .2s,transform .2s,visibility .2s}
-.fab.top.visible{opacity:.92;visibility:visible;transform:none}
-@media(max-width:640px){.pager{grid-template-columns:1fr}.pager>span{display:none}
-.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}}
+.pager .dir{font-size:.9rem;font-weight:700}
+.pager .name{font:700 1.05rem/1.3 var(--serif);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
 details.download{position:relative}
-details.download summary{list-style:none;padding:.4rem 1rem}
+details.download summary{list-style:none}
 details.download summary::-webkit-details-marker{display:none}
-details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;
-padding:.3rem;background:var(--card);border:1px solid var(--line);border-radius:8px;box-shadow:0 6px 20px rgba(0,0,0,.08)}
-details.download .menu a{padding:.45rem .7rem;border-radius:6px;text-decoration:none;color:var(--fg)}
-details.download .menu a:hover{background:var(--quote)}
-@media print{header.top,.pager,.float{display:none}}
+details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;padding:.3rem;background:var(--sheet);border:1px solid #BFA97E;border-radius:.3rem;box-shadow:0 12px 28px -12px rgba(40,25,10,.55)}
+details.download .menu a{display:flex;align-items:center;min-height:44px;padding:.45rem .8rem;border-radius:.2rem;color:var(--ink);text-decoration:none}
+details.download .menu a:hover{background:#F0E3BE}
+
+/* Плавающие кнопки. */
+.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;pointer-events:none;z-index:25}
+.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;border-radius:50%;background:var(--sb);color:var(--sf);font:700 1.3rem/1 var(--sans);text-decoration:none;cursor:pointer;box-shadow:inset 0 1px 1px rgba(255,255,255,.35),0 8px 20px -6px rgba(40,25,10,.6)}
+.fab:hover{background:color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.fab.next{margin-left:auto}
+.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .2s,transform .2s,visibility .2s;pointer-events:auto;z-index:25}
+.fab.top.visible{opacity:1;visibility:visible;transform:none}
+.credits{max-width:68rem;margin:0 auto;padding:1.2rem 2.4rem 1.5rem;font:400 .95rem/1.5 var(--sans);color:var(--ink);background:var(--stone);border-inline:1.1rem solid #A98B5E}
+@media(max-width:1180px){.credits{padding-inline:1.25rem;border-inline-width:.5rem}}
+
+/* Скачанный документ без декора. */
+body.plain{background:#fff}
+body.plain::before{display:none}
+body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
+body.plain main::before{display:none}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+@media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
+@media(max-width:640px){
+body{font-size:1.12rem}
+:root{--px:1.1rem;--py:1.4rem}
+main:not(.wide){margin:0 auto 5rem;border-radius:0}
+.pager{grid-template-columns:1fr}.pager>span{display:none}
+.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}
+.fab{width:2.75rem;height:2.75rem}.fab.prev,.fab.next{display:none}.fab.top{bottom:1rem;right:.5rem}
+.testament{gap:2rem}
+.group{border-width:.4rem;border-radius:1.2rem 1.2rem .25rem .25rem}
+.group>h3{padding:.55rem 1rem .5rem;font-size:1.3rem}
+.scrolls{--h:3.9rem;column-gap:.8rem;padding:1.4rem .55rem var(--board)}
+.scrolls li{padding:0 .8rem}
+.scrolls li::before,.scrolls li::after{width:.8rem}
+.scrolls a,.scrolls li.empty>span{gap:.5rem;padding:0 .55rem 0 1rem;font-size:1rem}
+.scrolls a::before,.scrolls a::after{width:1rem}
+.scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
+.scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
+.book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
+@media(max-height:500px){header.top{position:static}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+@media print{body{background:#fff}body::before{display:none}header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
-<body>
+<body class="plain">
 <main>
-<h1>36. Последняя неделя, понимание суда Божьего</h1>
-<h2>1) Ин. 12:1-11, - важность Христа для человека</h2>
-<blockquote><p>За шесть дней до Пасхи пришел Иисус в Вифанию, где был Лазарь умерший, которого Он воскресил из мертвых. Там приготовили Ему вечерю, и Марфа служила, и Лазарь был одним из возлежавших с Ним. Мария же, взяв фунт нардового чистого драгоценного мира, помазала ноги Иисуса и отерла волосами своими ноги Его; и дом наполнился благоуханием от мира. Тогда один из учеников Его, Иуда Симонов Искариот, который хотел предать Его, сказал: Для чего бы не продать это миро за триста динариев и не раздать нищим? Сказал же он это не потому, чтобы заботился о нищих, но потому что был вор. Он имел <em>при</em> <em>себе</em> <em>денежный</em> ящик и носил, что туда опускали. Иисус же сказал: оставьте ее; она сберегла это на день погребения Моего. Ибо нищих всегда имеете с собою, а Меня не всегда. Многие из Иудеев узнали, что Он там, и пришли не только для Иисуса, но чтобы видеть и Лазаря, которого Он воскресил из мертвых. Первосвященники же положили убить и Лазаря, потому что ради него многие из Иудеев приходили и веровали в Иисуса.</p><cite>Ин. 12:1-11</cite></blockquote>
-<h3>(1) Ин. 12:1-3, - помазание миром, лучшее для Христа Быт. 1:27,2:7,17 (Быт. 3:1-7, - Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h3>
-<blockquote><p>За шесть дней до Пасхи пришел Иисус в Вифанию, где был Лазарь умерший, которого Он воскресил из мертвых. Там приготовили Ему вечерю, и Марфа служила, и Лазарь был одним из возлежавших с Ним. Мария же, взяв фунт нардового чистого драгоценного мира, помазала ноги Иисуса и отерла волосами своими ноги Его; и дом наполнился благоуханием от мира.</p><cite>Ин. 12:1-3</cite></blockquote>
+<h1>33. Мф. 23: Последняя неделя, понимание религии</h1>
+<h2 id="s1">1) Мф. 23:1-2, - непринятие Слово Божье, Завета, Христос, религия</h2>
+<blockquote><p>Тогда Иисус начал говорить народу и ученикам Своим и сказал: на Моисеевом седалище сели книжники и фарисеи;</p><cite>Мф. 23:1-2</cite></blockquote>
+<h3>(1) Мф. 23:1-2, - седалище Моисеево, возвещение Слово Божье</h3>
+<blockquote><p>Тогда Иисус начал говорить народу и ученикам Своим и сказал: на Моисеевом седалище сели книжники и фарисеи;</p><cite>Мф. 23:1-2</cite></blockquote>
+<h3>(2) Предназначение народа Божьего – познание и передача Слово Божье, Завета, Христос, Ханаан, Всемирная Евангелизация, ученики, приход Христа). Рим. 3:2 Быт. 1:27,2:7,17 (Быт. 3:1-7, - Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h3>
+<blockquote><p>Великое преимущество во всех отношениях, а наипаче <em>в</em> <em>том,</em> что им вверено слово Божие.</p><cite>Рим. 3:2</cite></blockquote>
 <blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
 <blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
 <blockquote><p>а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:17</cite></blockquote>
@@ -88,81 +257,114 @@ details.download .menu a:hover{background:var(--quote)}
 <blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
 <blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
 <blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<h3>(2) Ин. 12:4-6, - непринятие Слово Божье, Завета, Христос, важность видимого</h3>
-<blockquote><p>Тогда один из учеников Его, Иуда Симонов Искариот, который хотел предать Его, сказал: Для чего бы не продать это миро за триста динариев и не раздать нищим? Сказал же он это не потому, чтобы заботился о нищих, но потому что был вор. Он имел <em>при</em> <em>себе</em> <em>денежный</em> ящик и носил, что туда опускали.</p><cite>Ин. 12:4-6</cite></blockquote>
-<h3>(3) Ин. 12:7-8, - духовная проблема человека, важность смерти Христа, исполнение приговора Слово Божье вместо человека</h3>
-<blockquote><p>Иисус же сказал: оставьте ее; она сберегла это на день погребения Моего. Ибо нищих всегда имеете с собою, а Меня не всегда.</p><cite>Ин. 12:7-8</cite></blockquote>
-<h3>(4) Ин. 12:9-11, - непринятие Слово Божье, Завета, Христос, фарисеи, религия</h3>
-<blockquote><p>Многие из Иудеев узнали, что Он там, и пришли не только для Иисуса, но чтобы видеть и Лазаря, которого Он воскресил из мертвых. Первосвященники же положили убить и Лазаря, потому что ради него многие из Иудеев приходили и веровали в Иисуса.</p><cite>Ин. 12:9-11</cite></blockquote>
-<h2>2) Ин. 12:12-19 (Зах. 9:9), - исполнение Слово Божье, Завета, Христос</h2>
-<blockquote><p>На другой день множество народа, пришедшего на праздник, услышав, что Иисус идет в Иерусалим, взяли пальмовые ветви, вышли навстречу Ему и восклицали: осанна! благословен грядущий во имя Господне, Царь Израилев! Иисус же, найдя молодого осла, сел на него, как написано: Не бойся, дщерь Сионова! се, Царь твой грядет, сидя на молодом осле. Ученики Его сперва не поняли этого; но когда прославился Иисус, тогда вспомнили, что так было о Нем написано, и это сделали Ему. Народ, бывший с Ним прежде, свидетельствовал, что Он вызвал из гроба Лазаря и воскресил его из мертвых. Потому и встретил Его народ, ибо слышал, что Он сотворил это чудо. Фарисеи же говорили между собою: видите ли, что не успеваете ничего? весь мир идет за Ним.</p><cite>Ин. 12:12-19</cite></blockquote>
-<blockquote><p>Ликуй от радости, дщерь Сиона, торжествуй, дщерь Иерусалима: се Царь твой грядет к тебе, праведный и спасающий, кроткий, сидящий на ослице и на молодом осле, сыне подъяремной.</p><cite>Зах. 9:9</cite></blockquote>
-<h3>(1) Ин. 12:12-13, - знание Слово Божье, ожидание Мессии, истинного Царя всей земли</h3>
-<blockquote><p>На другой день множество народа, пришедшего на праздник, услышав, что Иисус идет в Иерусалим, взяли пальмовые ветви, вышли навстречу Ему и восклицали: осанна! благословен грядущий во имя Господне, Царь Израилев!</p><cite>Ин. 12:12-13</cite></blockquote>
-<h3>(2) Мф. 21:8-13, - важность принятия Иисуса Христа как истинного и единственного Царя, Священника и Пророка</h3>
-<blockquote><p>Множество же народа постилали свои одежды по дороге, а другие резали ветви с дерев и постилали по дороге; народ же, предшествовавший и сопровождавший, восклицал: осанна Сыну Давидову! благословен Грядущий во имя Господне! осанна в вышних! И когда вошел Он в Иерусалим, весь город пришел в движение и говорил: кто Сей? Народ же говорил: Сей есть Иисус, Пророк из Назарета Галилейского. И вошел Иисус в храм Божий и выгнал всех продающих и покупающих в храме, и опрокинул столы меновщиков и скамьи продающих голубей, и говорил им: написано, -- дом Мой домом молитвы наречется; а вы сделали его вертепом разбойников.</p><cite>Мф. 21:8-13</cite></blockquote>
-<h4>(а) Царь – забота о человеке, все ответы</h4>
-<h4>(б) Пророк – возвещение Слово Божье, понимание жизни</h4>
-<h4>(в) Священник – решение проблемы грехов, жизнь с Богом</h4>
-<h3>(3) Ин. 12:12-16, - важность понимания служения Христа, смиренность и исполнении воли Божьей, служение человеку</h3>
-<blockquote><p>На другой день множество народа, пришедшего на праздник, услышав, что Иисус идет в Иерусалим, взяли пальмовые ветви, вышли навстречу Ему и восклицали: осанна! благословен грядущий во имя Господне, Царь Израилев! Иисус же, найдя молодого осла, сел на него, как написано: Не бойся, дщерь Сионова! се, Царь твой грядет, сидя на молодом осле. Ученики Его сперва не поняли этого; но когда прославился Иисус, тогда вспомнили, что так было о Нем написано, и это сделали Ему.</p><cite>Ин. 12:12-16</cite></blockquote>
-<h3>(4) Ин. 12:17-18, - чудеса и знамения, множество людей, особенная важность осознания Слово Божье, Завета, Христос для человека. (Голгофский Крест – все оставили Иисуса Христа)</h3>
-<blockquote><p>Народ, бывший с Ним прежде, свидетельствовал, что Он вызвал из гроба Лазаря и воскресил его из мертвых. Потому и встретил Его народ, ибо слышал, что Он сотворил это чудо.</p><cite>Ин. 12:17-18</cite></blockquote>
-<h3>(5) Ин. 12:19, - непринятие Слово Божье, Завета, Христос, фарисеи, религия</h3>
-<blockquote><p>Фарисеи же говорили между собою: видите ли, что не успеваете ничего? весь мир идет за Ним.</p><cite>Ин. 12:19</cite></blockquote>
-<h3>(6) Ин. 12:20-22, - принятие Слово Божье, Завета, Христос, Всемирная Евангелизация, Еллины</h3>
-<blockquote><p>Из пришедших на поклонение в праздник были некоторые Еллины. Они подошли к Филиппу, который был из Вифсаиды Галилейской, и просили его, говоря: господин! нам хочется видеть Иисуса. Филипп идет и говорит о том Андрею; и потом Андрей и Филипп сказывают о том Иисусу.</p><cite>Ин. 12:20-22</cite></blockquote>
-<h2>3) Ин. 12:23-43, - утверждение Слово Божье, Завета, Христос</h2>
-<blockquote><p>Иисус же сказал им в ответ: пришел час прославиться Сыну Человеческому. Истинно, истинно говорю вам: если пшеничное зерно, пав в землю, не умрет, то останется одно; а если умрет, то принесет много плода. Любящий душу свою погубит ее; а ненавидящий душу свою в мире сем сохранит ее в жизнь вечную. Кто Мне служит, Мне да последует; и где Я, там и слуга Мой будет. И кто Мне служит, того почтит Отец Мой. Душа Моя теперь возмутилась; и что Мне сказать? Отче! избавь Меня от часа сего! Но на сей час Я и пришел. Отче! прославь имя Твое. Тогда пришел с неба глас: и прославил и еще прославлю. Народ, стоявший и слышавший <em>то,</em> говорил: это гром; а другие говорили: Ангел говорил Ему. Иисус на это сказал: не для Меня был глас сей, но для народа. Ныне суд миру сему; ныне князь мира сего изгнан будет вон. И когда Я вознесен буду от земли, всех привлеку к Себе. Сие говорил Он, давая разуметь, какою смертью Он умрет. Народ отвечал Ему: мы слышали из закона, что Христос пребывает вовек; как же Ты говоришь, что должно вознесену быть Сыну Человеческому? кто Этот Сын Человеческий? Тогда Иисус сказал им: еще на малое время свет есть с вами; ходите, пока есть свет, чтобы не объяла вас тьма: а ходящий во тьме не знает, куда идет. Доколе свет с вами, веруйте в свет, да будете сынами света. Сказав это, Иисус отошел и скрылся от них. Столько чудес сотворил Он пред ними, и они не веровали в Него, да сбудется слово Исаии пророка: Господи! кто поверил слышанному от нас? и кому открылась мышца Господня? Потому не могли они веровать, что, как еще сказал Исаия, народ сей ослепил глаза свои и окаменил сердце свое, да не видят глазами, и не уразумеют сердцем, и не обратятся, чтобы Я исцелил их. Сие сказал Исаия, когда видел славу Его и говорил о Нем. Впрочем и из начальников многие уверовали в Него; но ради фарисеев не исповедывали, чтобы не быть отлученными от синагоги, ибо возлюбили больше славу человеческую, нежели славу Божию.</p><cite>Ин. 12:23-43</cite></blockquote>
-<h3>(1) Ин. 12:23, - Божий суверенитет, расписания времени, важность исполнения Слово Божье, Завета, Христос, исполнение воли Бог</h3>
-<blockquote><p>Иисус же сказал им в ответ: пришел час прославиться Сыну Человеческому.</p><cite>Ин. 12:23</cite></blockquote>
-<h3>(2) Ин. 12:24, - смерть ради жизни (Христос), важность понимания Божьего принципа спасения человечества. Быт. 9:1-3</h3>
-<blockquote><p>Истинно, истинно говорю вам: если пшеничное зерно, пав в землю, не умрет, то останется одно; а если умрет, то принесет много плода.</p><cite>Ин. 12:24</cite></blockquote>
-<blockquote><p>И благословил Бог Ноя и сынов его и сказал им: плодитесь и размножайтесь, и наполняйте землю ; да страшатся и да трепещут вас все звери земные, и все птицы небесные, все, что движется на земле, и все рыбы морские: в ваши руки отданы они; все движущееся, что живет, будет вам в пищу; как зелень травную даю вам все;</p><cite>Быт. 9:1-3</cite></blockquote>
-<h3>(3) Ин. 12:25, - понимание Слово Божье, Завета, Христос, важность невидимого, важность понимания смысла жизни, правильные приоритеты</h3>
-<blockquote><p>Любящий душу свою погубит ее; а ненавидящий душу свою в мире сем сохранит ее в жизнь вечную.</p><cite>Ин. 12:25</cite></blockquote>
-<h3>(4) Ин. 12:26, - принятие и передача Слово Божье, Завета, Христос, спасение человека и Божья награда (почтение, одобрение Божье)</h3>
-<blockquote><p>Кто Мне служит, Мне да последует; и где Я, там и слуга Мой будет. И кто Мне служит, того почтит Отец Мой.</p><cite>Ин. 12:26</cite></blockquote>
-<h3>(5) Ин. 12:27, - понимание духовных законов (грехи всего мира, разделение с Отцем), самое страшное для всякого человека</h3>
-<blockquote><p>Душа Моя теперь возмутилась; и что Мне сказать? Отче! избавь Меня от часа сего! Но на сей час Я и пришел.</p><cite>Ин. 12:27</cite></blockquote>
-<h3>(6) Ин. 12:28, - прославление имени Божьего, исполнение приговора Слово Божье, важность Жертвы и Подвига Христа</h3>
-<blockquote><p>Отче! прославь имя Твое. Тогда пришел с неба глас: и прославил и еще прославлю.</p><cite>Ин. 12:28</cite></blockquote>
-<h3>(7) Ин. 12:29-30, - чудеса и знамения, множество людей, особенная важность осознания Слово Божье, Завета, Христос для человека</h3>
-<blockquote><p>Народ, стоявший и слышавший <em>то,</em> говорил: это гром; а другие говорили: Ангел говорил Ему. Иисус на это сказал: не для Меня был глас сей, но для народа.</p><cite>Ин. 12:29-30</cite></blockquote>
-<h3>(8) Ин. 12:31-33, - исполнение Слово Божье, важность понимания суда Божьего (осуждение всех грехов мира на Кресте), сокрушение сатана, действие Н.З., свободный вход в Ц.Н. для всякого человека</h3>
-<blockquote><p>Ныне суд миру сему; ныне князь мира сего изгнан будет вон. И когда Я вознесен буду от земли, всех привлеку к Себе. Сие говорил Он, давая разуметь, какою смертью Он умрет.</p><cite>Ин. 12:31-33</cite></blockquote>
-<h3>(9) Ин. 12:34, - непонимание Слово Божье, Завета, Христос Рим. 9:30-33</h3>
-<blockquote><p>Народ отвечал Ему: мы слышали из закона, что Христос пребывает вовек; как же Ты говоришь, что должно вознесену быть Сыну Человеческому? кто Этот Сын Человеческий?</p><cite>Ин. 12:34</cite></blockquote>
+<h2 id="s2">2) Мф. 23:3 (16:6,12), - важность слышания и исполнения Слово Божье</h2>
+<blockquote><p>итак все, что они велят вам соблюдать, соблюдайте и делайте; по делам же их не поступайте, ибо они говорят, и не делают:</p><cite>Мф. 23:3</cite></blockquote>
+<blockquote><p>Иисус сказал им: смотрите, берегитесь закваски фарисейской и саддукейской.</p><cite>Мф. 16:6</cite></blockquote>
+<blockquote><p>Тогда они поняли, что Он говорил им беречься не закваски хлебной, но учения фарисейского и саддукейского.</p><cite>Мф. 16:12</cite></blockquote>
+<h3>(1) Правильные слова фарисеев</h3>
+<h4>(а) Вера в Святого, Истинного Бога</h4>
+<h4>(б) Вера и ожидание Христа. Дн. 26:4-7,Гал. 3:16-17</h4>
+<blockquote><p>Жизнь мою от юности <em>моей,</em> которую сначала проводил я среди народа моего в Иерусалиме, знают все Иудеи; они издавна знают обо мне, если захотят свидетельствовать, что я жил фарисеем по строжайшему в нашем вероисповедании учению. И ныне я стою перед судом за надежду на обетование, данное от Бога нашим отцам, которого исполнение надеются увидеть наши двенадцать колен, усердно служа <em>Богу</em> день и ночь. За сию-то надежду, царь Агриппа, обвиняют меня Иудеи.</p><cite>Дн. 26:4-7</cite></blockquote>
+<blockquote><p>Но Аврааму даны были обетования и семени его. Не сказано: и потомкам, как бы о многих, но как об одном: и семени твоему, которое есть Христос. Я говорю то, что завета о Христе, прежде Богом утвержденного, закон, явившийся спустя четыреста тридцать лет, не отменяет так, чтобы обетование потеряло силу.</p><cite>Гал. 3:16-17</cite></blockquote>
+<h4>(в) Важность изучения Писаний</h4>
+<h4>(г) Важность молитвы и общения с Богом</h4>
+<h4>(д) Важность правильной жизни и соблюдения Заповедей Бога</h4>
+<h3>(2) Неправильные слова фарисеев (закваска фарисейская)</h3>
+<h4>(а) Отрицание Божественности Христа (политический лидер, который поставит Израиль во главу всех народов и будет царствовать над всей землей). Ин. 10:33</h4>
+<blockquote><p>Иудеи сказали Ему в ответ: не за доброе дело хотим побить Тебя камнями, но за богохульство и за то, что Ты, будучи человек, делаешь Себя Богом.</p><cite>Ин. 10:33</cite></blockquote>
+<h4>(б) Утверждение спасения через дела Закона, непонимание спасения и рождения свыше, непринятие Слово Божье, Завета, Христос (религия, смешанное евангелие). Рим. 9:30-33,Ин. 3:1-10</h4>
 <blockquote><p>Что же скажем? Язычники, не искавшие праведности, получили праведность, праведность от веры. А Израиль, искавший закона праведности, не достиг до закона праведности. Почему? потому что <em>искали</em> не в вере, а в делах закона. Ибо преткнулись о камень преткновения, как написано: вот, полагаю в Сионе камень преткновения и камень соблазна; но всякий, верующий в Него, не постыдится.</p><cite>Рим. 9:30-33</cite></blockquote>
-<h4>(а) Понимание Божественности Христа</h4>
-<h4>(б) Непонимание важности смерти и воскресения Христа</h4>
-<h4>(в) Непринятие Иисуса как Мессию, Христа</h4>
-<h3>(10) Ин. 12:35-36, - важность принятие Слово Божье, Завета, Христос, принятие истинного света, важность статуса человек (сыны света)</h3>
-<blockquote><p>Тогда Иисус сказал им: еще на малое время свет есть с вами; ходите, пока есть свет, чтобы не объяла вас тьма: а ходящий во тьме не знает, куда идет. Доколе свет с вами, веруйте в свет, да будете сынами света. Сказав это, Иисус отошел и скрылся от них.</p><cite>Ин. 12:35-36</cite></blockquote>
-<h3>(11) Ин. 12:37-41, - непринятие Иисуса как Христа (иудеи)</h3>
-<blockquote><p>Столько чудес сотворил Он пред ними, и они не веровали в Него, да сбудется слово Исаии пророка: Господи! кто поверил слышанному от нас? и кому открылась мышца Господня? Потому не могли они веровать, что, как еще сказал Исаия, народ сей ослепил глаза свои и окаменил сердце свое, да не видят глазами, и не уразумеют сердцем, и не обратятся, чтобы Я исцелил их. Сие сказал Исаия, когда видел славу Его и говорил о Нем.</p><cite>Ин. 12:37-41</cite></blockquote>
-<h3>(12) Ин. 12:41, - понимание Слово Божье, Завета, Христос, встреча со Христом, важность понимания служения пророка Исаи и всех пророков Ветхого Завета. 1-е Пет. 1:10-11,Дн. 10:43</h3>
-<blockquote><p>Сие сказал Исаия, когда видел славу Его и говорил о Нем.</p><cite>Ин. 12:41</cite></blockquote>
-<blockquote><p>К сему-то спасению относились изыскания и исследования пророков, которые предсказывали о назначенной вам благодати, исследывая, на которое и на какое время указывал сущий в них Дух Христов, когда Он предвозвещал Христовы страдания и последующую за ними славу.</p><cite>1-е Пет. 1:10-11</cite></blockquote>
-<blockquote><p>О Нем все пророки свидетельствуют, что всякий верующий в Него получит прощение грехов именем Его.</p><cite>Дн. 10:43</cite></blockquote>
-<h3>(13) Ин. 12:42-43, - понимание и непринятие Слово Божье, Завета, Хр, мотивы большинства людей, важность видимого Мф. 7:13-14,16:26</h3>
-<blockquote><p>Впрочем и из начальников многие уверовали в Него; но ради фарисеев не исповедывали, чтобы не быть отлученными от синагоги, ибо возлюбили больше славу человеческую, нежели славу Божию.</p><cite>Ин. 12:42-43</cite></blockquote>
-<blockquote><p>Входите тесными вратами, потому что широки врата и пространен путь, ведущие в погибель, и многие идут ими; потому что тесны врата и узок путь, ведущие в жизнь, и немногие находят их.</p><cite>Мф. 7:13-14</cite></blockquote>
-<blockquote><p>какая польза человеку, если он приобретет весь мир, а душе своей повредит? или какой выкуп даст человек за душу свою?</p><cite>Мф. 16:26</cite></blockquote>
-<h2>4) Ин. 12:44-50, - утверждение Слово Божье, Завета, Христос, понимание суда Бог</h2>
-<blockquote><p>Иисус же возгласил и сказал: верующий в Меня не в Меня верует, но в Пославшего Меня. И видящий Меня видит Пославшего Меня. Я свет пришел в мир, чтобы всякий верующий в Меня не оставался во тьме. И если кто услышит Мои слова и не поверит, Я не сужу его, ибо Я пришел не судить мир, но спасти мир. Отвергающий Меня и не принимающий слов Моих имеет судью себе: слово, которое Я говорил, оно будет судить его в последний день. Ибо Я говорил не от Себя; но пославший Меня Отец, Он дал Мне заповедь, что сказать и что говорить. И Я знаю, что заповедь Его есть жизнь вечная. Итак, что Я говорю, говорю, как сказал Мне Отец.</p><cite>Ин. 12:44-50</cite></blockquote>
-<h3>(1) Ин. 12:44-45, - принятие Христа, принятие Отца и Святой Дух</h3>
-<blockquote><p>Иисус же возгласил и сказал: верующий в Меня не в Меня верует, но в Пославшего Меня. И видящий Меня видит Пославшего Меня.</p><cite>Ин. 12:44-45</cite></blockquote>
-<h3>(2) Ин. 12:46, - истинный Свет, Бог Слово, важность понимания духовной реальности, неизменность исполнения Слово Божье</h3>
-<blockquote><p>Я свет пришел в мир, чтобы всякий верующий в Меня не оставался во тьме.</p><cite>Ин. 12:46</cite></blockquote>
-<h3>(3) Ин. 12:47, - важность правильного понимания первого прихода Христа, исполнение Слово Божье, спасение человека (выбор)</h3>
-<blockquote><p>И если кто услышит Мои слова и не поверит, Я не сужу его, ибо Я пришел не судить мир, но спасти мир.</p><cite>Ин. 12:47</cite></blockquote>
-<h3>(4) Ин. 12:48-50, - важность понимания сути Суда Божьего (принятие или непринятие Слово Божье, Завета, Христос), выбор человека в отношении вечности (где? и с Кем?)</h3>
-<blockquote><p>Отвергающий Меня и не принимающий слов Моих имеет судью себе: слово, которое Я говорил, оно будет судить его в последний день. Ибо Я говорил не от Себя; но пославший Меня Отец, Он дал Мне заповедь, что сказать и что говорить. И Я знаю, что заповедь Его есть жизнь вечная. Итак, что Я говорю, говорю, как сказал Мне Отец.</p><cite>Ин. 12:48-50</cite></blockquote>
-<h2>Заключение:</h2>
-<h3>(1) Важность принятия Слово Божье, Завета, Христос для всякого человека</h3>
-<h3>(2) Важность понимания и исполнения предназначения – познание и передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация</h3>
-<h3>(3) Важность понимания Второго пришествия Христа, важность понимания неизбежного Суда Божьего</h3>
+<blockquote><p>Между фарисеями был некто, именем Никодим, <em>один</em> из начальников Иудейских. Он пришел к Иисусу ночью и сказал Ему: Равви! мы знаем, что Ты учитель, пришедший от Бога; ибо таких чудес, какие Ты творишь, никто не может творить, если не будет с ним Бог. Иисус сказал ему в ответ: истинно, истинно говорю тебе, если кто не родится свыше, не может увидеть Царствия Божия. Никодим говорит Ему: как может человек родиться, будучи стар? неужели может он в другой раз войти в утробу матери своей и родиться? Иисус отвечал: истинно, истинно говорю тебе, если кто не родится от воды и Духа, не может войти в Царствие Божие. Рожденное от плоти есть плоть, а рожденное от Духа есть дух. Не удивляйся тому, что Я сказал тебе: должно вам родиться свыше. Дух дышит, где хочет, и голос его слышишь, а не знаешь, откуда приходит и куда уходит: так бывает со всяким, рожденным от Духа. Никодим сказал Ему в ответ: как это может быть? Иисус отвечал и сказал ему: ты -- учитель Израилев, и этого ли не знаешь?</p><cite>Ин. 3:1-10</cite></blockquote>
+<h4>(в) Непринятие Слово Божье, Завета, Христос – предания человеческие, обряды, правила, постановления. Пс. 118:113,Мф. 15:8-9</h4>
+<blockquote><p>Вымыслы <em>человеческие</em> ненавижу, а закон Твой люблю.</p><cite>Пс. 118:113</cite></blockquote>
+<blockquote><p>приближаются ко Мне люди сии устами своими, и чтут Меня языком, сердце же их далеко отстоит от Меня; но тщетно чтут Меня, уча учениям, заповедям человеческим.</p><cite>Мф. 15:8-9</cite></blockquote>
+<h4>(г) Искажение понимания греха, спасения, суда Бог Ин. 16:8-11</h4>
+<blockquote><p>и Он, придя, обличит мир о грехе и о правде и о суде: о грехе, что не веруют в Меня; о правде, что Я иду к Отцу Моему, и уже не увидите Меня; о суде же, что князь мира сего осужден.</p><cite>Ин. 16:8-11</cite></blockquote>
+<h2 id="s3">3) Мф. 23:4 (11:28), - понимание религии и Благой Вести</h2>
+<blockquote><p>связывают бремена тяжелые и неудобоносимые и возлагают на плечи людям, а сами не хотят и перстом двинуть их;</p><cite>Мф. 23:4</cite></blockquote>
+<blockquote><p>Придите ко Мне все труждающиеся и обремененные, и Я успокою вас;</p><cite>Мф. 11:28</cite></blockquote>
+<h3>(1) Мф. 23:4, - религия, тяжелое бремя для человека</h3>
+<blockquote><p>связывают бремена тяжелые и неудобоносимые и возлагают на плечи людям, а сами не хотят и перстом двинуть их;</p><cite>Мф. 23:4</cite></blockquote>
+<h4>(а) Быт. 3:7, - начало религии, действие сатана</h4>
+<blockquote><p>И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:7</cite></blockquote>
+<h4>(б) Гал. 2:16,21,5:4,3:10, - искажение и противл. Слово Божье, Завету, Христос, спасение через дела и усилия человека, суть религии</h4>
+<blockquote><p>однако же, узнав, что человек оправдывается не делами закона, а только верою в Иисуса Христа, и мы уверовали во Христа Иисуса, чтобы оправдаться верою во Христа, а не делами закона; ибо делами закона не оправдается никакая плоть.</p><cite>Гал. 2:16</cite></blockquote>
+<blockquote><p>Не отвергаю благодати Божией; а если законом оправдание, то Христос напрасно умер.</p><cite>Гал. 2:21</cite></blockquote>
+<blockquote><p>Вы, оправдывающие себя законом, остались без Христа, отпали от благодати,</p><cite>Гал. 5:4</cite></blockquote>
+<blockquote><p>а все, утверждающиеся на делах закона, находятся под клятвою. Ибо написано: проклят всяк, кто не исполняет постоянно всего, что написано в книге закона.</p><cite>Гал. 3:10</cite></blockquote>
+<h4>(в) Рим. 6:23, - конец религии, личное исполнение Слово Божье</h4>
+<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
+<h4>(г) Быт. 4:1-8, - постоянный конфликт религии и Евангелия</h4>
+<blockquote><p>Адам познал Еву, жену свою; и она зачала, и родила Каина, и сказала: приобрела я человека от Господа. И еще родила брата его, Авеля. И был Авель пастырь овец, а Каин был земледелец. Спустя несколько времени, Каин принес от плодов земли дар Господу, и Авель также принес от первородных стада своего и от тука их. И призрел Господь на Авеля и на дар его, а на Каина и на дар его не призрел. Каин сильно огорчился, и поникло лице его. И сказал Господь Каину: почему ты огорчился? и отчего поникло лице твое? если делаешь доброе, то не поднимаешь ли лица? а если не делаешь доброго, то у дверей грех лежит; он влечет тебя к себе, но ты господствуй над ним. И сказал Каин Авелю, брату своему: . И когда они были в поле, восстал Каин на Авеля, брата своего, и убил его.</p><cite>Быт. 4:1-8</cite></blockquote>
+<h3>(2) Мф. 11:28, - Евангелие, Слово Божье, Завет, Христос легкое бремя для человек</h3>
+<blockquote><p>Придите ко Мне все труждающиеся и обремененные, и Я успокою вас;</p><cite>Мф. 11:28</cite></blockquote>
+<h4>(а) Быт. 2:9,16-17 (1:31), 3:15,21, - начало Евангелия, действие Бог</h4>
+<blockquote><p>И произрастил Господь Бог из земли всякое дерево, приятное на вид и хорошее для пищи, и дерево жизни посреди рая, и дерево познания добра и зла.</p><cite>Быт. 2:9</cite></blockquote>
+<blockquote><p>И заповедал Господь Бог человеку, говоря: от всякого дерева в саду ты будешь есть, а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:16-17</cite></blockquote>
+<blockquote><p>И увидел Бог все, что Он создал, и вот, хорошо весьма. И был вечер, и было утро: день шестой.</p><cite>Быт. 1:31</cite></blockquote>
+<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
+<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
+<h4>(б) 1-е Тим. 3:16,Мф. 5:17, - суть Евангелия, исполнение Слово Божье Христос</h4>
+<blockquote><p>И беспрекословно -- великая благочестия тайна: Бог явился во плоти, оправдал Себя в Духе, показал Себя Ангелам, проповедан в народах, принят верою в мире, вознесся во славе.</p><cite>1-е Тим. 3:16</cite></blockquote>
+<blockquote><p>Не думайте, что Я пришел нарушить закон или пророков: не нарушить пришел Я, но исполнить.</p><cite>Мф. 5:17</cite></blockquote>
+<h4>(в) 1-е Ин. 2:2,Кол. 2:13,Гал. 3:10, - решение всех грехов и прокл</h4>
+<blockquote><p>Он есть умилостивление за грехи наши, и не только за наши, но и за <em>грехи</em> всего мира.</p><cite>1-е Ин. 2:2</cite></blockquote>
+<blockquote><p>и вас, которые были мертвы во грехах и в необрезании плоти вашей, оживил вместе с Ним, простив нам все грехи,</p><cite>Кол. 2:13</cite></blockquote>
+<blockquote><p>а все, утверждающиеся на делах закона, находятся под клятвою. Ибо написано: проклят всяк, кто не исполняет постоянно всего, что написано в книге закона.</p><cite>Гал. 3:10</cite></blockquote>
+<h4>(г) 1-е Тим. 2:4,Ин. 3:16, - утверждение воли Бог, суть Евангелия</h4>
+<blockquote><p>Который хочет, чтобы все люди спаслись и достигли познания истины.</p><cite>1-е Тим. 2:4</cite></blockquote>
+<blockquote><p>Ибо так возлюбил Бог мир, что отдал Сына Своего Единородного, дабы всякий верующий в Него, не погиб, но имел жизнь вечную.</p><cite>Ин. 3:16</cite></blockquote>
+<h4>(д) Ин. 3:18,36, - конец Евангелия, спасение, жизнь вечная</h4>
+<blockquote><p>Верующий в Него не судится, а неверующий уже осужден, потому что не уверовал во имя Единородного Сына Божия.</p><cite>Ин. 3:18</cite></blockquote>
+<blockquote><p>Верующий в Сына имеет жизнь вечную, а не верующий в Сына не увидит жизни, но гнев Божий пребывает на нем.</p><cite>Ин. 3:36</cite></blockquote>
+<h4>(е) Дн. 13:46,Мф. 23:23,Втор. 30:19, - право выбора человека</h4>
+<blockquote><p>Тогда Павел и Варнава с дерзновением сказали: вам первым надлежало быть проповедану слову Божию, но как вы отвергаете его и сами себя делаете недостойными вечной жизни, то вот, мы обращаемся к язычникам.</p><cite>Дн. 13:46</cite></blockquote>
+<blockquote><p>Горе вам, книжники и фарисеи, лицемеры, что даете десятину с мяты, аниса и тмина, и оставили важнейшее в законе: суд, милость и веру; сие надлежало делать, и того не оставлять.</p><cite>Мф. 23:23</cite></blockquote>
+<blockquote><p>Во свидетели пред вами призываю сегодня небо и землю: жизнь и смерть предложил я тебе, благословение и проклятие. Избери жизнь, дабы жил ты и потомство твое,</p><cite>Втор. 30:19</cite></blockquote>
+<h2 id="s4">Итог:</h2>
+<ul>
+<li>РЕЛИГИЯ: спасение своими силами (все религии – «дела»)</li>
+<li>БЛАГАЯ ВЕСТЬ: спасение от Бог (Христос умер вместо меня)</li>
+<li>В.З. – Завет, Христос, Жертва, исполнение Слово Божье (Спасение через веру в грядущего Мессию, Христа)</li>
+<li>Н.З. – Завет, Христос, Причастие, исполнение Слово Божье (Спасение через веру в пришедшего, умершего, воскресшего Христос)</li>
+<li>УТВЕРЖДЕНИЕ РЕЛИГИИ:</li>
+</ul>
+<h3>(1) Непринятие Иисуса Христа как Истинного, Святого Бога</h3>
+<h3>(2) Непринятие Вседостаточности Жертвы Христа</h3>
+<h2 id="s5">4) Мф. 23:5-36, - дела и плоды религии</h2>
+<blockquote><p>все же дела свои делают с тем, чтобы видели их люди: расширяют хранилища свои и увеличивают воскрилия одежд своих; также любят предвозлежания на пиршествах и председания в синагогах и приветствия в народных собраниях, и чтобы люди звали их: учитель! учитель! А вы не называйтесь учителями, ибо один у вас Учитель -- Христос, все же вы -- братья; и отцом себе не называйте никого на земле, ибо один у вас Отец, Который на небесах; и не называйтесь наставниками, ибо один у вас Наставник -- Христос. Больший из вас да будет вам слуга: ибо, кто возвышает себя, тот унижен будет, а кто унижает себя, тот возвысится. Горе вам, книжники и фарисеи, лицемеры, что затворяете Царство Небесное человекам, ибо сами не входите и хотящих войти не допускаете. Горе вам, книжники и фарисеи, лицемеры, что поедаете домы вдов и лицемерно долго молитесь: за то примете тем большее осуждение. Горе вам, книжники и фарисеи, лицемеры, что обходите море и сушу, дабы обратить хотя одного; и когда это случится, делаете его сыном геенны, вдвое худшим вас. Горе вам, вожди слепые, которые говорите: если кто поклянется храмом, то ничего, а если кто поклянется золотом храма, то повинен. Безумные и слепые! что больше: золото, или храм, освящающий золото? Также: если кто поклянется жертвенником, то ничего, если же кто поклянется даром, который на нем, то повинен. Безумные и слепые! что больше: дар, или жертвенник, освящающий дар? Итак клянущийся жертвенником клянется им и всем, что на нем; и клянущийся храмом клянется им и Живущим в нем; и клянущийся небом клянется Престолом Божиим и Сидящим на нем. Горе вам, книжники и фарисеи, лицемеры, что даете десятину с мяты, аниса и тмина, и оставили важнейшее в законе: суд, милость и веру; сие надлежало делать, и того не оставлять. Вожди слепые, оцеживающие комара, а верблюда поглощающие! Горе вам, книжники и фарисеи, лицемеры, что очищаете внешность чаши и блюда, между тем как внутри они полны хищения и неправды. Фарисей слепой! очисти прежде внутренность чаши и блюда, чтобы чиста была и внешность их. Горе вам, книжники и фарисеи, лицемеры, что уподобляетесь окрашенным гробам, которые снаружи кажутся красивыми, а внутри полны костей мертвых и всякой нечистоты; так и вы по наружности кажетесь людям праведными, а внутри исполнены лицемерия и беззакония. Горе вам, книжники и фарисеи, лицемеры, что строите гробницы пророкам и украшаете памятники праведников, и говорите: если бы мы были во дни отцов наших, то не были бы сообщниками их в <em>пролитии</em> крови пророков; таким образом вы сами против себя свидетельствуете, что вы сыновья тех, которые избили пророков; дополняйте же меру отцов ваших. Змии, порождения ехиднины! как убежите вы от осуждения в геенну? Посему, вот, Я посылаю к вам пророков, и мудрых, и книжников; и вы иных убьете и распнете, а иных будете бить в синагогах ваших и гнать из города в город; да придет на вас вся кровь праведная, пролитая на земле, от крови Авеля праведного до крови Захарии, сына Варахиина, которого вы убили между храмом и жертвенником. Истинно говорю вам, что все сие придет на род сей.</p><cite>Мф. 23:5-36</cite></blockquote>
+<h3>(1) Мф. 23:5-12, - превозношение над другими людьми, гордыня и чванство, преклонение перед лидерами религии</h3>
+<blockquote><p>все же дела свои делают с тем, чтобы видели их люди: расширяют хранилища свои и увеличивают воскрилия одежд своих; также любят предвозлежания на пиршествах и председания в синагогах и приветствия в народных собраниях, и чтобы люди звали их: учитель! учитель! А вы не называйтесь учителями, ибо один у вас Учитель -- Христос, все же вы -- братья; и отцом себе не называйте никого на земле, ибо один у вас Отец, Который на небесах; и не называйтесь наставниками, ибо один у вас Наставник -- Христос. Больший из вас да будет вам слуга: ибо, кто возвышает себя, тот унижен будет, а кто унижает себя, тот возвысится.</p><cite>Мф. 23:5-12</cite></blockquote>
+<h4>(а) Важность смирения и преклонения перед Богом, важность служения Богу и людям, познание и передача Слово Божье, Завета, Христос</h4>
+<h4>(б) Запрещение Христа для любого человека называться учителем, отцем и наставником – акцент на Христе. (Преподаватель – соответствие Писаниям). 1-е Кор. 15:1-3</h4>
+<blockquote><p>Напоминаю вам, братия, Евангелие, которое я благовествовал вам, которое вы и приняли, в котором и утвердились, которым и спасаетесь, если преподанное удерживаете так, как я благовествовал вам, если только не тщетно уверовали. Ибо я первоначально преподал вам, что и <em>сам</em> принял, <em>то</em> <em>есть,</em> что Христос умер за грехи наши, по Писанию,</p><cite>1-е Кор. 15:1-3</cite></blockquote>
+<h3>(2) Мф. 23:13, - невозможность спасения через религию</h3>
+<blockquote><p>Горе вам, книжники и фарисеи, лицемеры, что затворяете Царство Небесное человекам, ибо сами не входите и хотящих войти не допускаете.</p><cite>Мф. 23:13</cite></blockquote>
+<h3>(3) Мф. 23:14, - религиозный обман людей, маммона. (Отьем финансов, имущества нуждающихся ради «благих дел»)</h3>
+<blockquote><p>Горе вам, книжники и фарисеи, лицемеры, что поедаете домы вдов и лицемерно долго молитесь: за то примете тем большее осуждение.</p><cite>Мф. 23:14</cite></blockquote>
+<h3>(4) Мф. 23:15, - искажение Слово Божье, Завета, Христос, лже-ученики</h3>
+<blockquote><p>Горе вам, книжники и фарисеи, лицемеры, что обходите море и сушу, дабы обратить хотя одного; и когда это случится, делаете его сыном геенны, вдвое худшим вас.</p><cite>Мф. 23:15</cite></blockquote>
+<h3>(5) Мф. 23:16-22, - клятвы, обещания под прикрытием имени Бог</h3>
+<blockquote><p>Горе вам, вожди слепые, которые говорите: если кто поклянется храмом, то ничего, а если кто поклянется золотом храма, то повинен. Безумные и слепые! что больше: золото, или храм, освящающий золото? Также: если кто поклянется жертвенником, то ничего, если же кто поклянется даром, который на нем, то повинен. Безумные и слепые! что больше: дар, или жертвенник, освящающий дар? Итак клянущийся жертвенником клянется им и всем, что на нем; и клянущийся храмом клянется им и Живущим в нем; и клянущийся небом клянется Престолом Божиим и Сидящим на нем.</p><cite>Мф. 23:16-22</cite></blockquote>
+<h3>(6) Мф. 23:23, - неправильное применение финансов, мамонна. (Суд, милость и вера – суть Евангелия Божьего)</h3>
+<blockquote><p>Горе вам, книжники и фарисеи, лицемеры, что даете десятину с мяты, аниса и тмина, и оставили важнейшее в законе: суд, милость и веру; сие надлежало делать, и того не оставлять.</p><cite>Мф. 23:23</cite></blockquote>
+<h3>(7) Мф. 23:24-28, - лже-праведность, дела человек, непринятие Слово Божье</h3>
+<blockquote><p>Вожди слепые, оцеживающие комара, а верблюда поглощающие! Горе вам, книжники и фарисеи, лицемеры, что очищаете внешность чаши и блюда, между тем как внутри они полны хищения и неправды. Фарисей слепой! очисти прежде внутренность чаши и блюда, чтобы чиста была и внешность их. Горе вам, книжники и фарисеи, лицемеры, что уподобляетесь окрашенным гробам, которые снаружи кажутся красивыми, а внутри полны костей мертвых и всякой нечистоты; так и вы по наружности кажетесь людям праведными, а внутри исполнены лицемерия и беззакония.</p><cite>Мф. 23:24-28</cite></blockquote>
+<h3>(8) Мф. 23:29-36, - постоянное противление Слово Божье, Завет, Христос, убийства Божьих пророков, дети дьявол, действие сатана Ин. 8:44</h3>
+<blockquote><p>Горе вам, книжники и фарисеи, лицемеры, что строите гробницы пророкам и украшаете памятники праведников, и говорите: если бы мы были во дни отцов наших, то не были бы сообщниками их в <em>пролитии</em> крови пророков; таким образом вы сами против себя свидетельствуете, что вы сыновья тех, которые избили пророков; дополняйте же меру отцов ваших. Змии, порождения ехиднины! как убежите вы от осуждения в геенну? Посему, вот, Я посылаю к вам пророков, и мудрых, и книжников; и вы иных убьете и распнете, а иных будете бить в синагогах ваших и гнать из города в город; да придет на вас вся кровь праведная, пролитая на земле, от крови Авеля праведного до крови Захарии, сына Варахиина, которого вы убили между храмом и жертвенником. Истинно говорю вам, что все сие придет на род сей.</p><cite>Мф. 23:29-36</cite></blockquote>
+<blockquote><p>Ваш отец диавол; и вы хотите исполнять похоти отца вашего. Он был человекоубийца от начала и не устоял в истине, ибо нет в нем истины. Когда говорит он ложь, говорит свое, ибо он лжец и отец лжи.</p><cite>Ин. 8:44</cite></blockquote>
+<h2 id="s6">5) Мф. 23:37-39, - непринятие Слово Божье, Завета, Христос, суд Божий</h2>
+<blockquote><p>Иерусалим, Иерусалим, избивающий пророков и камнями побивающий посланных к тебе! сколько раз хотел Я собрать детей твоих, как птица собирает птенцов своих под крылья, и вы не захотели! Се, оставляется вам дом ваш пуст. Ибо сказываю вам: не увидите Меня отныне, доколе не воскликнете: благословен Грядый во имя Господне!</p><cite>Мф. 23:37-39</cite></blockquote>
+<h3>(1) Постоянный призыв Бога к человеку. 1-е Тим. 2:4,Отк. 3:20</h3>
+<blockquote><p>Который хочет, чтобы все люди спаслись и достигли познания истины.</p><cite>1-е Тим. 2:4</cite></blockquote>
+<blockquote><p>Се, стою у двери и стучу: если кто услышит голос Мой и отворит дверь, войду к нему, и буду вечерять с ним, и он со Мною.</p><cite>Отк. 3:20</cite></blockquote>
+<h3>(2) Право выбора, ответственность человек Дн. 13:46,Втор. 30:19</h3>
+<blockquote><p>Тогда Павел и Варнава с дерзновением сказали: вам первым надлежало быть проповедану слову Божию, но как вы отвергаете его и сами себя делаете недостойными вечной жизни, то вот, мы обращаемся к язычникам.</p><cite>Дн. 13:46</cite></blockquote>
+<blockquote><p>Во свидетели пред вами призываю сегодня небо и землю: жизнь и смерть предложил я тебе, благословение и проклятие. Избери жизнь, дабы жил ты и потомство твое,</p><cite>Втор. 30:19</cite></blockquote>
+<h3>(3) Второе пришествие Христа, суд Божий</h3>
+<h2 id="s7">Заключение:</h2>
+<h3>(1) Важность понимания религии</h3>
+<h3>(2) Важность исполнения предназначения народа Божьего</h3>
 </main>
 </body>
 </html>

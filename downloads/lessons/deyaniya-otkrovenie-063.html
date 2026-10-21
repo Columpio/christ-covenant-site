@@ -3,172 +3,407 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>5. Молитва, Божье освобождение от бесов</title>
+<title>11. Финансовое служение народа Божьего</title>
 <style>
-:root{--bg:#faf7f2;--fg:#2b2622;--muted:#7a6f66;--accent:#8a4b2a;--card:#fff;--line:#e6ddd2;--quote:#f3ece2}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+:root{color-scheme:light;
+--ink:#2A1C0D;--ink2:#5A4630;--stone:#E6D8BA;--parch:#EBDAB0;--sheet:#FAF3E0;--wood:#6B4426;--frame:#F1E7CE;
+--c:#2F5DA8;--cd:#2F5DA8;--sb:#2F5DA8;--sf:#FFFFFF;--mix:#000;
+--display:"Cormorant SC","Cormorant Garamond",Georgia,serif;--uni:"Cormorant Unicase","Cormorant SC",Georgia,serif;
+--serif:"Alegreya","PT Serif",Georgia,serif;--sans:"Alegreya Sans","Segoe UI",system-ui,sans-serif;
+--canon:linear-gradient(90deg,#2F5DA8 0 10%,#D8951A 10% 20%,#C2366B 20% 30%,#1F8A5B 30% 40%,#138F8F 40% 50%,#E0562C 50% 60%,#E8801E 60% 70%,#2F8FCF 70% 80%,#6C4BB6 80% 90%,#8E3B8A 90%);
+--noise:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .30 0 0 0 0 .21 0 0 0 0 .10 0 0 0 .22 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+--weave:repeating-linear-gradient(90deg,rgba(255,255,255,.11) 0 2px,rgba(0,0,0,.07) 2px 4px);
+--cdd:color-mix(in srgb,var(--cd) 55%,var(--ink));
+--px:2.4rem;--py:2.2rem}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.6 Georgia,"PT Serif","Times New Roman",serif}
-a{color:var(--accent)}
-header.top{position:sticky;top:0;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:1rem;
-padding:.6rem 1.25rem;background:var(--card);border-bottom:1px solid var(--line);font:15px/1.4 system-ui,sans-serif}
-.crumbs a{text-decoration:none}
-main{max-width:46rem;margin:0 auto;padding:1.5rem 1.25rem 7rem}
-main.wide{max-width:64rem}
-h1{font-size:1.6rem;line-height:1.25;margin:.5rem 0 1rem}
-h2{font-size:1.3rem;line-height:1.3;margin:1.8rem 0 .6rem}
-h3{font-size:1.12rem;line-height:1.35;margin:1.4rem 0 .5rem}
-h4{font-size:1rem;line-height:1.4;margin:1.1rem 0 .4rem}
-ul{padding-left:1.25rem}
-li{margin:.2rem 0}
-blockquote{margin:.6rem 0 1rem;padding:.7rem 1rem;background:var(--quote);border-left:3px solid var(--accent);
-border-radius:0 6px 6px 0;font-size:.95em}
+html{scroll-padding-top:4.5rem;overflow-x:clip}
+body{margin:0;overflow-x:clip;color:var(--ink);font:400 1.2rem/1.65 var(--serif);-webkit-font-smoothing:antialiased;min-height:100vh;
+background:#2B190C url(img/shelves.svg) 50% 0/520px 960px repeat}
+/* Свет и глубина над стеллажами: утренний луч слева сверху, виньетка по краям; на внутренних страницах темнее. */
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+background:linear-gradient(115deg,rgba(255,226,160,.5),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 45%,rgba(20,10,4,.6) 100%),rgba(30,18,8,.12)}
+body:not(.home)::before{background:linear-gradient(115deg,rgba(255,226,160,.28),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 40%,rgba(20,10,4,.55) 100%),rgba(30,18,8,.5)}
+a{color:var(--cdd)}
+.sprite{position:absolute;width:0;height:0;overflow:hidden}
+.skip{position:absolute;left:-999px;top:0;z-index:40;padding:.7rem 1.1rem;background:var(--ink);color:#fff;font:700 1rem var(--sans)}
+.skip:focus{left:.5rem;top:.5rem}
+a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible{outline:3px solid var(--ink);outline-offset:3px;border-radius:6px}
+
+/* Шапка: полоса цветов канона, на страницах книги - цвет её раздела. */
+header.top{position:sticky;top:0;z-index:30;background:rgba(247,239,218,.95);backdrop-filter:blur(6px);border-bottom:1px solid #BFA97E;box-shadow:0 .4rem .8rem -.5rem rgba(50,30,10,.45);font:700 1.02rem/1.4 var(--sans)}
+header.top::before{content:"";display:block;height:4px;background:var(--canon)}
+body[style] header.top::before{background:var(--c)}
+header.top .bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;max-width:44rem;margin:0 auto;padding:0 1.25rem}
+header.top.wide .bar{max-width:68rem}
+.crumbs{min-width:0;color:var(--ink2)}
+.crumbs a{display:inline-flex;align-items:center;min-height:44px;padding:0 .3rem;color:var(--ink);text-decoration:none}
+.crumbs a:hover{color:var(--cdd);text-decoration:underline;text-underline-offset:.25em}
+
+main{max-width:44rem;margin:0 auto;padding:2rem 1.25rem 7rem}
+main.wide{max-width:68rem;position:relative;margin:0 auto;padding:2rem 2.4rem 7rem;
+background:var(--noise),linear-gradient(90deg,rgba(60,38,16,.18),rgba(60,38,16,0) 6%,rgba(60,38,16,0) 94%,rgba(60,38,16,.18)),var(--stone);
+border-inline:1.1rem solid #A98B5E;
+box-shadow:inset .5rem 0 .8rem -.3rem rgba(50,30,10,.45),inset -.5rem 0 .8rem -.3rem rgba(50,30,10,.45),0 0 3rem 1rem rgba(15,8,3,.7)}
+.muted{color:var(--ink2)}
+
+/* Страница урока - лист пергамента на каменной стене; под текстом нет фактуры. */
+main:not(.wide){position:relative;margin:1.6rem auto 6rem;padding:var(--py) var(--px) 2.6rem;background:var(--sheet);border-radius:.3rem;
+box-shadow:inset 0 0 0 1px rgba(150,115,60,.4),inset 0 0 2.4rem rgba(150,115,60,.2),0 1.4rem 2.4rem -1rem rgba(40,25,10,.65)}
+main:not(.wide)::before{content:"";display:block;height:.55rem;margin:calc(var(--py) * -1) calc(var(--px) * -1) 1.6rem;border-radius:.3rem .3rem 0 0;background:var(--weave),var(--sb)}
+h1{font:700 clamp(1.8rem,3.4vw,2.4rem)/1.15 var(--display);letter-spacing:.015em;margin:.4rem 0 1.2rem}
+h2{font:700 1.6rem/1.25 var(--display);letter-spacing:.015em;margin:2.6rem 0 .8rem}
+h2::before{content:"";display:inline-block;width:.5em;height:.5em;margin:0 .55em .12em 0;background:var(--sb);border-radius:2px;transform:rotate(45deg)}
+h3{font:700 1.16rem/1.45 var(--serif);margin:1.6rem 0 .5rem}
+h4{font:italic 600 1.1rem/1.4 var(--serif);margin:1.2rem 0 .4rem}
+ul{padding-left:1.3rem}
+li{margin:.25rem 0}
+li::marker{color:var(--sb)}
+blockquote{margin:.9rem 0 1.3rem;padding:.9rem 1.2rem 1rem;background:#FFFBEC;border:1px solid #E2D2A8;border-left:.32rem solid var(--sb);border-radius:.2rem;box-shadow:0 .2rem 0 #E6D8B4,0 .7rem 1rem -.7rem rgba(60,40,15,.5);font-size:1.08rem}
 blockquote p{margin:0}
-blockquote cite{display:block;margin-top:.3rem;font:normal .8em/1.4 system-ui,sans-serif;color:var(--muted)}
-.muted{color:var(--muted)}
-.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:.6rem;list-style:none;padding:0;margin:0 0 1rem}
-.tiles.wide{grid-template-columns:repeat(auto-fill,minmax(15rem,1fr))}
+blockquote cite{display:block;margin-top:.4rem;font:700 .92rem/1.4 var(--sans);font-style:normal;color:var(--cdd)}
+
+/* Главная: зал. Утренний свет из окна, лампады, ниши со свитками. */
+.hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.lead{max-width:34rem;margin:0;font:400 1.25rem/1.5 var(--serif);color:var(--ink)}
+.scene{position:relative;width:17rem;height:19rem;justify-self:end}
+.window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
+background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
+box-shadow:0 0 0 .55rem var(--frame),0 0 0 .7rem #B9A57D,inset 0 1.2rem 1.6rem -.4rem rgba(40,25,10,.55),inset 1rem 0 1.2rem -.8rem rgba(40,25,10,.4)}
+.window::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent calc(50% - .2rem),#4A2D18 calc(50% - .2rem) calc(50% + .2rem),transparent calc(50% + .2rem)),linear-gradient(180deg,transparent 50%,#4A2D18 50% calc(50% + .4rem),transparent calc(50% + .4rem))}
+.sill{position:absolute;left:0;right:0;bottom:0;height:1.2rem;border-radius:.25rem .25rem .5rem .5rem;background:linear-gradient(180deg,#F6EDD3,#D6C5A0 55%,#B9A57D);box-shadow:0 .7rem .9rem -.4rem rgba(40,25,10,.55)}
+.sill>*{position:absolute;bottom:100%;margin-bottom:-.2rem}
+.sill img{display:block;width:100%;height:auto;filter:drop-shadow(.3rem .35rem .25rem rgba(40,25,10,.45))}
+.jar{left:1.2rem;width:3.1rem}
+.lamp{left:4.9rem;width:6.2rem}
+.ink{left:11.7rem;width:3.4rem}
+.glow{position:absolute;left:88%;top:66%;width:15rem;height:15rem;transform:translate(-50%,-50%);border-radius:50%;pointer-events:none;
+background:radial-gradient(circle,rgba(255,196,96,.62),rgba(255,160,60,.2) 38%,rgba(255,150,50,0) 68%);animation:glow 3.4s ease-in-out infinite}
+.flame{position:absolute;left:88.5%;top:67%;width:.75rem;height:1.35rem;transform:translate(-50%,-92%);transform-origin:50% 100%;border-radius:50% 50% 50% 50%/70% 70% 30% 30%;
+background:radial-gradient(ellipse at 50% 72%,#FFF8D0 0 18%,#FFD060 42%,#FF9A2A 72%,rgba(255,110,20,0) 100%);filter:blur(.4px);animation:flicker 2.7s ease-in-out infinite}
+.reed{position:absolute;left:46%;top:24%;width:.28rem;height:6.4rem;transform:translate(-50%,-100%) rotate(17deg);transform-origin:50% 100%;
+background:linear-gradient(90deg,#6E4F1E,#D9B866 45%,#8A6428);clip-path:polygon(0 0,100% 0,100% 94%,50% 100%,0 94%)}
+.rays{position:absolute;right:7rem;top:3rem;width:1px;height:1px;pointer-events:none;z-index:2}
+.rays i{position:absolute;top:0;right:0;width:8rem;height:48rem;transform-origin:100% 0;transform:rotate(var(--a));filter:blur(8px);mix-blend-mode:soft-light;
+background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
+.rays i:nth-child(1){--a:-40deg}
+.rays i:nth-child(2){--a:-54deg;width:5rem}
+.rays i:nth-child(3){--a:-68deg;width:10rem}
+@keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
+@keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
+.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
+.wall-lamp .lamp{position:relative;left:auto;width:100%}
+.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
+.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
+.jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
+.jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
+background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.jump a{display:inline-flex;align-items:center;min-height:44px;padding:0 1.2rem;text-decoration:none}
+.jump a:hover{background-color:#F6E9C2}
+.search{display:block;width:100%;max-width:34rem;margin:.4rem 0 1.2rem;padding:.75rem 1.1rem;font-weight:400}
+.search::placeholder{color:var(--ink2);opacity:1}
+.search:focus{border-color:var(--ink)}
+.testament{position:relative;display:flex;flex-direction:column;gap:2.4rem;margin:3rem 0 0}
+.testament>h2{display:flex;align-items:center;gap:1rem;margin:0;font:700 clamp(2rem,3.6vw,2.7rem)/1.1 var(--display);letter-spacing:.02em}
+.testament>h2::before{display:none}
+.testament>h2::after{content:"";flex:1;height:.4rem;border-top:2px solid var(--wood);border-bottom:1px solid var(--wood);opacity:.6}
+main section[hidden],.scrolls li[hidden],.tiles li[hidden]{display:none}
+
+/* Ниша раздела: драпировка цвета раздела, внутри на досках лежат свитки. */
+.group{position:relative;overflow:hidden;min-width:0;border:.55rem solid var(--frame);border-radius:1.6rem 1.6rem .3rem .3rem;
+background:linear-gradient(180deg,rgba(40,24,10,0),rgba(40,24,10,.14)),var(--noise),color-mix(in srgb,var(--c) 7%,#CDBB93);
+box-shadow:0 0 0 1px #B9A57D,inset 0 1.1rem 1.6rem -.5rem rgba(35,20,8,.55),inset 1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),inset -1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),0 .7rem 1.1rem -.5rem rgba(50,30,10,.5)}
+.group>h3{position:relative;z-index:3;display:flex;align-items:center;gap:.7rem;margin:0;padding:.65rem 1.3rem .6rem;background:var(--weave),var(--sb);color:var(--sf);font:700 1.45rem/1.15 var(--display);letter-spacing:.02em;filter:drop-shadow(0 .35rem .3rem rgba(25,12,0,.45))}
+.group>h3::after,.book-head::after{content:"";position:absolute;left:0;right:0;top:100%;height:.62rem;background:radial-gradient(circle at 50% 0,var(--sb) 0 .5rem,transparent .52rem) 0 0/1.1rem .62rem repeat-x}
+.emblem{width:1.9rem;height:1.9rem;flex:none;color:var(--sf)}
+
+/* Свиток: пергамент на двух деревянных валиках, на шипах - ленточка цвета раздела, справа - печать с числом уроков. */
+.scrolls{--h:3.4rem;--board:.62rem;display:flex;flex-wrap:wrap;align-items:flex-start;column-gap:1.3rem;row-gap:var(--board);list-style:none;margin:0;padding:1.5rem 1.2rem var(--board);
+background:repeating-linear-gradient(180deg,transparent 0 var(--h),#2C1A0C var(--h) calc(var(--h) + 1px),#8A5A32 calc(var(--h) + 1px) calc(var(--h) + 3px),#6B4426 calc(var(--h) + 3px) calc(var(--h) + var(--board))) 0 0/100% calc(100% + var(--board)) no-repeat;
+background-origin:content-box;background-clip:padding-box}
+.scrolls li{position:relative;height:var(--h);margin:0;padding:0 .95rem;max-width:100%;transition:transform .18s ease;animation:rise .45s ease backwards;animation-delay:calc(var(--i) * 12ms);filter:drop-shadow(0 .18rem .12rem rgba(20,10,0,.4))}
+.scrolls li::before,.scrolls li::after{content:"";position:absolute;top:0;bottom:0;width:.95rem;
+background:radial-gradient(circle at 50% .45rem,#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) top/100% .95rem no-repeat,
+radial-gradient(circle at 50% calc(100% - .45rem),#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) bottom/100% .95rem no-repeat,
+linear-gradient(var(--sb),var(--sb)) 50% 1rem/.56rem .3rem no-repeat,
+linear-gradient(90deg,#3F2614,#B07C48 35%,#7A4E2B 65%,#3F2614) center/.42rem 100% no-repeat}
+.scrolls li::before{left:0}
+.scrolls li::after{right:0}
+.scrolls a,.scrolls li.empty>span{display:flex;align-items:center;gap:.7rem;height:calc(var(--h) - 1rem);margin:.5rem 0;padding:0 .8rem 0 1.25rem;white-space:nowrap;font:700 1.14rem/1 var(--display);letter-spacing:.015em}
+.scrolls a{position:relative;z-index:1;color:var(--ink);text-decoration:none;animation:unroll .4s cubic-bezier(.3,.7,.3,1) backwards;animation-delay:calc(var(--i) * 12ms + 80ms);
+background:linear-gradient(180deg,rgba(104,66,22,.36),rgba(104,66,22,0) 20%,rgba(104,66,22,0) 78%,rgba(104,66,22,.44)),linear-gradient(rgba(255,248,226,.5),rgba(255,248,226,.5)),url(img/parchment.webp) #EBD8A8;
+box-shadow:inset 0 0 .7rem rgba(120,80,25,.4)}
+.scrolls a::before,.scrolls a::after{content:"";position:absolute;top:0;bottom:0;width:1.15rem;border-radius:.5rem;
+background:repeating-linear-gradient(90deg,rgba(90,60,20,.2) 0 1px,transparent 1px 3px),linear-gradient(90deg,#8E6D3A 0,#E8D3A0 30%,#F5E8C4 50%,#D8BF86 76%,#7F5F2E 100%);box-shadow:0 0 .35rem rgba(60,35,10,.5)}
+.scrolls a::before{left:-.62rem}
+.scrolls a::after{right:-.62rem}
+.scrolls li:hover,.scrolls li:has(a:focus-visible){transform:translateY(-.22rem)}
+.scrolls a:focus-visible{outline-offset:.6rem}
+.scrolls .count{position:relative;z-index:2;display:grid;place-items:center;min-width:1.85rem;height:1.85rem;padding:0 .3rem;border-radius:52% 48% 55% 45%/48% 55% 45% 52%;
+background:radial-gradient(circle at 35% 30%,var(--sb),color-mix(in srgb,var(--sb) 72%,#000));color:var(--sf);font:700 .9rem/1 var(--sans);letter-spacing:0;box-shadow:inset 0 1px 1px rgba(255,255,255,.4),0 .1rem .2rem rgba(0,0,0,.4)}
+.scrolls li.empty{padding:0 .3rem}
+.scrolls li.empty::before,.scrolls li.empty::after{display:none}
+.scrolls li.empty>span{border:1.5px dashed rgba(63,38,20,.65);border-radius:.4rem;color:var(--ink2);background:rgba(255,248,230,.22)}
+@keyframes unroll{from{clip-path:inset(0 50%)}to{clip-path:inset(0 0)}}
+@keyframes rise{from{opacity:0;transform:translateY(.6rem)}to{opacity:1;transform:none}}
+
+/* Страница книги: драпировка с названием и бирки уроков. */
+.book-head{position:relative;display:flex;align-items:center;gap:1.3rem;margin:0 0 2.2rem;padding:1.4rem 1.7rem;border-radius:.4rem .4rem 0 0;background:var(--weave),var(--sb);color:var(--sf);filter:drop-shadow(0 .45rem .35rem rgba(25,12,0,.4))}
+.book-head .emblem{width:4.2rem;height:4.2rem}
+.book-head h1{margin:0;color:var(--sf);font:700 clamp(2rem,4.4vw,3.1rem)/1.05 var(--display)}
+.meta{margin:.35rem 0 0;font:700 1.05rem/1.4 var(--sans);color:var(--sf)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));gap:.9rem;list-style:none;padding:0;margin:0 0 1rem}
 .tiles li{margin:0}
-.tiles a,.tiles li.empty{display:flex;align-items:center;justify-content:space-between;gap:.6rem;height:100%;min-height:4.5rem;
-padding:.8rem 1rem;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg);
-font:600 16px/1.35 system-ui,sans-serif}
-.tiles a{text-decoration:none;box-shadow:0 1px 2px rgba(0,0,0,.04);transition:border-color .15s,box-shadow .15s,transform .05s}
-.tiles a:hover{border-color:var(--accent);box-shadow:0 4px 14px rgba(0,0,0,.08)}
-.tiles a:active{transform:translateY(1px)}
-.tiles a>span:first-child,.tiles li.empty>span{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
-.tiles .count{color:var(--accent);font-size:.9em}
-.tiles li.empty{color:var(--muted);opacity:.55}
-.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;padding:.55rem 1.1rem;
-border:1px solid var(--accent);border-radius:10px;background:var(--card);color:var(--accent);font:600 15px/1.3 system-ui,sans-serif;
-text-decoration:none;cursor:pointer;box-shadow:0 1px 0 rgba(0,0,0,.06);transition:background .15s,color .15s,transform .05s}
-.btn:hover,details.download summary:hover{background:var(--accent);color:#fff}
-.btn:active,details.download summary:active{transform:translateY(1px)}
-.btn.primary{background:var(--accent);color:#fff}
-.btn.primary:hover{background:#6f3a20}
-.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3rem}
-.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;text-align:left}
+.tiles a{display:flex;align-items:center;height:100%;min-height:4.6rem;padding:.85rem 1rem .85rem 1.2rem;border-left:.5rem solid var(--sb);border-radius:.35rem;color:var(--ink);font:700 1.1rem/1.3 var(--serif);text-decoration:none;
+background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),url(img/parchment.webp) var(--parch);box-shadow:inset 0 0 .7rem rgba(120,85,35,.28),0 .15rem 0 #B9A276,0 .6rem .9rem -.5rem rgba(60,40,15,.55);transition:transform .15s}
+.tiles a:hover{transform:translateY(-.15rem)}
+.tiles .chapters{display:block;margin-top:.3rem;color:var(--cdd);font:700 .95rem/1.3 var(--sans)}
+
+/* Урок: содержание, кнопки. */
+.toc{margin:0 0 1.4rem;padding:.2rem 1.1rem;border:1px solid #D9C89E;border-radius:.3rem;background:#FFFBEC;font:400 1.02rem/1.5 var(--sans)}
+.toc summary{display:flex;align-items:center;min-height:44px;cursor:pointer;font-weight:700}
+.toc ol{margin:.3rem 0 .7rem;padding-left:1.4rem}
+.toc li::marker{color:var(--cdd);font-weight:700}
+.toc a{color:var(--ink);text-decoration:none}
+.toc a:hover{color:var(--cdd);text-decoration:underline}
+.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
+background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.btn:hover,details.download summary:hover{background-color:#F6E9C2}
+.btn.primary{background:var(--weave),var(--sb);border-color:color-mix(in srgb,var(--sb) 60%,#000);color:var(--sf)}
+.btn.primary:hover{background:var(--weave),color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3.5rem}
+.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;padding:.8rem 1rem;text-align:left}
 .pager .pager-next{align-items:flex-end;text-align:right}
 .pager .pager-section{align-items:center;justify-content:center;text-align:center}
-.pager .dir{font-size:.8em;font-weight:500;opacity:.85}
-.pager .name{font-weight:600}
-.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;
-pointer-events:none;z-index:5}
-.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;
-border-radius:50%;background:var(--accent);color:#fff;font:700 1.4rem/1 system-ui,sans-serif;text-decoration:none;
-cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.25);opacity:.92}
-.fab:hover{opacity:1;background:#6f3a20}
-.fab.next{margin-left:auto}
-.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);
-transition:opacity .2s,transform .2s,visibility .2s}
-.fab.top.visible{opacity:.92;visibility:visible;transform:none}
-@media(max-width:640px){.pager{grid-template-columns:1fr}.pager>span{display:none}
-.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}}
+.pager .dir{font-size:.9rem;font-weight:700}
+.pager .name{font:700 1.05rem/1.3 var(--serif);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
 details.download{position:relative}
-details.download summary{list-style:none;padding:.4rem 1rem}
+details.download summary{list-style:none}
 details.download summary::-webkit-details-marker{display:none}
-details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;
-padding:.3rem;background:var(--card);border:1px solid var(--line);border-radius:8px;box-shadow:0 6px 20px rgba(0,0,0,.08)}
-details.download .menu a{padding:.45rem .7rem;border-radius:6px;text-decoration:none;color:var(--fg)}
-details.download .menu a:hover{background:var(--quote)}
-@media print{header.top,.pager,.float{display:none}}
+details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;padding:.3rem;background:var(--sheet);border:1px solid #BFA97E;border-radius:.3rem;box-shadow:0 12px 28px -12px rgba(40,25,10,.55)}
+details.download .menu a{display:flex;align-items:center;min-height:44px;padding:.45rem .8rem;border-radius:.2rem;color:var(--ink);text-decoration:none}
+details.download .menu a:hover{background:#F0E3BE}
+
+/* Плавающие кнопки. */
+.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;pointer-events:none;z-index:25}
+.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;border-radius:50%;background:var(--sb);color:var(--sf);font:700 1.3rem/1 var(--sans);text-decoration:none;cursor:pointer;box-shadow:inset 0 1px 1px rgba(255,255,255,.35),0 8px 20px -6px rgba(40,25,10,.6)}
+.fab:hover{background:color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.fab.next{margin-left:auto}
+.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .2s,transform .2s,visibility .2s;pointer-events:auto;z-index:25}
+.fab.top.visible{opacity:1;visibility:visible;transform:none}
+.credits{max-width:68rem;margin:0 auto;padding:1.2rem 2.4rem 1.5rem;font:400 .95rem/1.5 var(--sans);color:var(--ink);background:var(--stone);border-inline:1.1rem solid #A98B5E}
+@media(max-width:1180px){.credits{padding-inline:1.25rem;border-inline-width:.5rem}}
+
+/* Скачанный документ без декора. */
+body.plain{background:#fff}
+body.plain::before{display:none}
+body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
+body.plain main::before{display:none}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+@media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
+@media(max-width:640px){
+body{font-size:1.12rem}
+:root{--px:1.1rem;--py:1.4rem}
+main:not(.wide){margin:0 auto 5rem;border-radius:0}
+.pager{grid-template-columns:1fr}.pager>span{display:none}
+.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}
+.fab{width:2.75rem;height:2.75rem}.fab.prev,.fab.next{display:none}.fab.top{bottom:1rem;right:.5rem}
+.testament{gap:2rem}
+.group{border-width:.4rem;border-radius:1.2rem 1.2rem .25rem .25rem}
+.group>h3{padding:.55rem 1rem .5rem;font-size:1.3rem}
+.scrolls{--h:3.9rem;column-gap:.8rem;padding:1.4rem .55rem var(--board)}
+.scrolls li{padding:0 .8rem}
+.scrolls li::before,.scrolls li::after{width:.8rem}
+.scrolls a,.scrolls li.empty>span{gap:.5rem;padding:0 .55rem 0 1rem;font-size:1rem}
+.scrolls a::before,.scrolls a::after{width:1rem}
+.scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
+.scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
+.book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
+@media(max-height:500px){header.top{position:static}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+@media print{body{background:#fff}body::before{display:none}header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
-<body>
+<body class="plain">
 <main>
-<h1>5. Молитва, Божье освобождение от бесов</h1>
-<ul>
-<li>Человек – душа живая, имеющая дух и живущая в теле</li>
-</ul>
-<h2>1) Важность Эммануила для человека:</h2>
-<h3>(1) Быт. 1:27,2:7,9,16-17, - Слово Божье, Завет, Христос, Эммануил. (Важность понимания триединства человека до грехопадения)</h3>
+<h1>11. Финансовое служение народа Божьего</h1>
+<h2 id="s1">1) Предназначение Ц. – сохранение и передача Слово Божье, Завета, Христос</h2>
+<h3>(1) Быт. 1:27,2:7,9,16-17,1:28, - познание, передача Слово Божье, Завета, Христос</h3>
 <blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
 <blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
 <blockquote><p>И произрастил Господь Бог из земли всякое дерево, приятное на вид и хорошее для пищи, и дерево жизни посреди рая, и дерево познания добра и зла.</p><cite>Быт. 2:9</cite></blockquote>
 <blockquote><p>И заповедал Господь Бог человеку, говоря: от всякого дерева в саду ты будешь есть, а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:16-17</cite></blockquote>
-<h4>(а) Дух – Эммануил, Божье водительство. Рим. 8:9,14 (5:12)</h4>
-<blockquote><p>Но вы не по плоти живете, а по духу, если только Дух Божий живет в вас. Если же кто Духа Христова не имеет, тот <em>и</em> не Его.</p><cite>Рим. 8:9</cite></blockquote>
-<blockquote><p>Ибо все, водимые Духом Божиим, суть сыны Божии.</p><cite>Рим. 8:14</cite></blockquote>
-<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
-<h4>(б) Душа – духовный человек, послушание Слово Божье 1-е Кор. 2:14</h4>
-<blockquote><p>Душевный человек не принимает того, что от Духа Божия, потому что он почитает это безумием; и не может разуметь, потому что о сем <em>надобно</em> судить духовно.</p><cite>1-е Кор. 2:14</cite></blockquote>
-<h4>(в) Тело – совершенное, вечное (нет болезней, старения, смерти)</h4>
-<h4>(г) Отсутствие законного основания пребывания бесы в человеке</h4>
-<h3>(2) Быт. 3:1-7 (Рим. 5:12,6:23,Еф. 2:2), - отказ от Завета, Христос, гибель. (Важность понимания триединства человек после грехопадения)</h3>
+<blockquote><p>И благословил их Бог, и сказал им Бог: плодитесь и размножайтесь, и наполняйте землю, и обладайте ею, и владычествуйте над рыбами морскими и над птицами небесными, и над всяким животным, пресмыкающимся по земле.</p><cite>Быт. 1:28</cite></blockquote>
+<h3>(2) Быт. 3:1-7 (Рим. 5:12,6:23,Еф. 2:2), - передача иного слова</h3>
 <blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
 <blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
 <blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
 <blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
-<h4>(а) Дух – мертвый, разделение с Бог, власть бесы (дух. одержимость)</h4>
-<h4>(б) Душа – душевный человек (греховная сущность), противление Бог</h4>
-<h4>(в) Тело – проклятие, болезни, старение, смерть</h4>
-<h4>(г) Наличие законного основания пребывания бесы в человеке – власть греха, смерти и ада, сатана Еф. 2:1-2,Дн. 26:18,2-е Тим. 2:25-26</h4>
-<blockquote><p>И вас, мертвых по преступлениям и грехам вашим, в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:1-2</cite></blockquote>
-<blockquote><p>открыть глаза им, чтобы они обратились от тьмы к свету и от власти сатаны к Богу, и верою в Меня получили прощение грехов и жребий с освященными".</p><cite>Дн. 26:18</cite></blockquote>
-<blockquote><p>с кротостью наставлять противников, не даст ли им Бог покаяния к познанию истины, чтобы они освободились от сети диавола, который уловил их в свою волю.</p><cite>2-е Тим. 2:25-26</cite></blockquote>
-<h4>(д) Влияние бесы из духа на душу и тело – душ. и физ. одержимость</h4>
-<h3>(3) Быт. 3:15,21,Мф. 16:16,Ин. 19:30, - Слово Божье, Завет, Христос, Эммануил. (Важность понимания триединства человек после восстановления)</h3>
+<h3>(3) Быт. 3:15,21,Исх. 20,25-30 (Скиния, Храм), Мф. 16:16,Ин. 19:30, -познание и передача Слово Божье, Завета, Христос</h3>
 <blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
 <blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
 <blockquote><p>Симон же Петр, отвечая, сказал: Ты -- Христос, Сын Бога Живаго.</p><cite>Мф. 16:16</cite></blockquote>
 <blockquote><p>Когда же Иисус вкусил уксуса, сказал: совершилось! И, преклонив главу, предал дух.</p><cite>Ин. 19:30</cite></blockquote>
-<h4>(а) Дух – возрожденный, Эммануил, Божье водительство</h4>
-<h4>(б) Душа – возрожденная, духовный человек, послушание Слово Божье</h4>
-<h4>(в) Тело – искупленное, нет проклятий, несовершенное. (Исполнение Слово Божье – воскресение мертвых, новое тело). Быт. 3:19</h4>
-<blockquote><p>в поте лица твоего будешь есть хлеб, доколе не возвратишься в землю, из которой ты взят, ибо прах ты и в прах возвратишься.</p><cite>Быт. 3:19</cite></blockquote>
-<h4>(г) Отсутствие законного основания пребывания бесы в человеке</h4>
-<h2>2) Бог метод освобождения – передача Слово Божье, Завета, Христос</h2>
-<h3>(1) Передача Слово Божье, Завета, Христос, Всемирная Евангелизация – освобождение людей, предназначение народа Божьего, воля Божья. Мк. 16:17</h3>
-<blockquote><p>Уверовавших же будут сопровождать сии знамения: именем Моим будут изгонять бесов; будут говорить новыми языками;</p><cite>Мк. 16:17</cite></blockquote>
-<h3>(2) Принятие Слово Божье, Завета, Христос – единственный Божий метод освобождения человека, 100% людей. Рим. 8:2 (Дн. 16:16-19)</h3>
-<blockquote><p>потому что закон духа жизни во Христе Иисусе освободил меня от закона греха и смерти.</p><cite>Рим. 8:2</cite></blockquote>
-<blockquote><p>Случилось, что, когда мы шли в молитвенный дом, встретилась нам одна служанка, одержимая духом прорицательным, которая через прорицание доставляла большой доход господам своим. Идя за Павлом и за нами, она кричала, говоря: сии человеки -- рабы Бога Всевышнего, которые возвещают нам путь спасения. Это она делала много дней. Павел, вознегодовав, обратился и сказал духу: именем Иисуса Христа повелеваю тебе выйти из нее. И <em>дух</em> вышел в тот же час. Тогда господа ее, видя, что исчезла надежда дохода их, схватили Павла и Силу и повлекли на площадь к начальникам.</p><cite>Дн. 16:16-19</cite></blockquote>
-<h3>(3) Истинное свидетельство освобождения – исповедание человек, познание и передача Слово Божье, Завета, Христос, исполнение предназнач. (Исповедание: Кто такой Христос?, Цель Его прихода? – уверенность в прощении всех грехов и спасении) 1-е Ин. 4:1-4,1-е Пет. 3:15,2-е Кор. 13:5, - Рим. 10:9,8:2</h3>
-<blockquote><p>Возлюбленные! не всякому духу верьте, но испытывайте духов, от Бога ли они, потому что много лжепророков появилось в мире. Духа Божия (и духа заблуждения) узнавайте так: всякий дух, который исповедует Иисуса Христа, пришедшего во плоти, есть от Бога; а всякий дух, который не исповедует Иисуса Христа, пришедшего во плоти, не есть от Бога, но это дух антихриста, о котором вы слышали, что он придет и теперь есть уже в мире. Дети! вы от Бога, и победили их; ибо Тот, Кто в вас, больше того, кто в мире.</p><cite>1-е Ин. 4:1-4</cite></blockquote>
-<blockquote><p>Господа Бога святите в сердцах ваших; <em>будьте</em> всегда готовы всякому, требующему у вас отчета в вашем уповании, дать ответ с кротостью и благоговением.</p><cite>1-е Пет. 3:15</cite></blockquote>
-<blockquote><p>Испытывайте самих себя, в вере ли вы; самих себя исследывайте. Или вы не знаете самих себя, что Иисус Христос в вас? Разве только вы не то, чем должны быть.</p><cite>2-е Кор. 13:5</cite></blockquote>
-<blockquote><p>Ибо если устами твоими будешь исповедывать Иисуса Господом и сердцем твоим веровать, что Бог воскресил Его из мертвых, то спасешься,</p><cite>Рим. 10:9</cite></blockquote>
-<blockquote><p>потому что закон духа жизни во Христе Иисусе освободил меня от закона греха и смерти.</p><cite>Рим. 8:2</cite></blockquote>
-<h3>(4) Ложное свидетельство освобождения человека – видимые проявления без принятия и исповедания Слово Божье, Завета, Христос, лже-верующие (многократные освобождения), колдуны. (Нет исповедания: Кто такой Христос?, Цель Его прихода? – нет уверенности в прощении всех грехов и спасении). Дн. 19:13</h3>
-<blockquote><p>Даже некоторые из скитающихся Иудейских заклинателей стали употреблять над имеющими злых духов имя Господа Иисуса, говоря: заклинаем вас Иисусом, Которого Павел проповедует.</p><cite>Дн. 19:13</cite></blockquote>
-<h3>(5) Освобождение человек – Бог действие, Бог суверенитет и расписание времени, выбор человека (Христос не освободил всех). Мф. 13:58</h3>
-<blockquote><p>И не совершил там многих чудес по неверию их.</p><cite>Мф. 13:58</cite></blockquote>
-<h3>(6) Пост и молитва – постоянное и глубокое пребывание в Слово Божье, Завете, Христос, понимание духовных законов. Мф. 17:14-21</h3>
-<blockquote><p>Когда они пришли к народу, то подошел к Нему человек и, преклоняя пред Ним колени, сказал: Господи! помилуй сына моего; он в новолуния <em>беснуется</em> и тяжко страдает, ибо часто бросается в огонь и часто в воду, я приводил его к ученикам Твоим, и они не могли исцелить его. Иисус же, отвечая, сказал: о, род неверный и развращенный! доколе буду с вами? доколе буду терпеть вас? приведите его ко Мне сюда. И запретил ему Иисус, и бес вышел из него; и отрок исцелился в тот час. Тогда ученики, приступив к Иисусу наедине, сказали: почему мы не могли изгнать его? Иисус же сказал им: по неверию вашему; ибо истинно говорю вам: если вы будете иметь веру с горчичное зерно и скажете горе сей: "перейди отсюда туда", и она перейдет; и ничего не будет невозможного для вас; сей же род изгоняется только молитвою и постом.</p><cite>Мф. 17:14-21</cite></blockquote>
-<h2>3) Причины доступа сатана к детям Божьим</h2>
-<h3>(1) Для славы Божьей – Божий план, действие извне</h3>
+<h2 id="s2">2) Виды финансового служения народа Божьего</h2>
+<h3>(1) Десятина – участие в деле Бог, прославление и благодарение Бог, потверждение участия в Божьем Завете, исполнение предназн</h3>
+<h3>(2) Пожертвование и обеты – участие в деле Бог, решение человек</h3>
+<h3>(3) Милостыня – поддержка нуждающихся, решение человека</h3>
+<h2 id="s3">3) Финансовое служение народа Божьего до В.З</h2>
+<h3>(1) Десятина до В.З</h3>
+<h4>(а) Быт. 14:20 (Евр. 7:1-9), - Авраам, действие Святой Дух</h4>
+<blockquote><p>и благословен Бог Всевышний, Который предал врагов твоих в руки твои. дал ему десятую часть из всего.</p><cite>Быт. 14:20</cite></blockquote>
+<blockquote><p>Ибо Мелхиседек, царь Салима, священник Бога Всевышнего, тот, который встретил Авраама и благословил его, возвращающегося после поражения царей, которому и десятину отделил Авраам от всего, -- во-первых, по знаменованию <em>имени</em> царь правды, а потом и царь Салима, то есть царь мира, без отца, без матери, без родословия, не имеющий ни начала дней, ни конца жизни, уподобляясь Сыну Божию, пребывает священником навсегда. Видите, как велик тот, которому и Авраам патриарх дал десятину из лучших добыч своих. Получающие священство из сынов Левииных имеют заповедь -- брать по закону десятину с народа, то есть со своих братьев, хотя и сии произошли от чресл Авраамовых. Но сей, не происходящий от рода их, получил десятину от Авраама и благословил имевшего обетования. Без всякого же прекословия меньший благословляется большим. И здесь десятины берут человеки смертные, а там -- имеющий о себе свидетельство, что он живет. И, так сказать, сам Левий, принимающий десятины, в <em>лице</em> Авраама дал десятину:</p><cite>Евр. 7:1-9</cite></blockquote>
+<h4>(б) Быт. 28:22, - Иаков, действие Святой Дух</h4>
+<blockquote><p>то этот камень, который я поставил памятником, будет домом Божиим; и из всего, что Ты, <em>Боже,</em> даруешь мне, я дам Тебе десятую часть.</p><cite>Быт. 28:22</cite></blockquote>
+<h4>(в) Цель десятин – прославление и благодарение Бога, потверждение участия в Божьем Завете, исполнение предназн</h4>
+<h3>(2) Пожертвования и обеты до В.З</h3>
 <ul>
-<li>Иов. 1:6-12,2:1-7,Отк. 2:10,Апостолы</li>
+<li>Назначение пожертвований и обетов до В.З. – участие в деле Божьем (предназначение), прославление и благодарение Бога, важность познания и передачи Слово Божье, Завета, Христос, Всемирная Евангелизация</li>
+<li>Быт. 23:16-18,33:18-20 (земля Ханааана)</li>
 </ul>
-<blockquote><p>И был день, когда пришли сыны Божии предстать пред Господа; между ними пришел и сатана. И сказал Господь сатане: откуда ты пришел? И отвечал сатана Господу и сказал: я ходил по земле и обошел ее. И сказал Господь сатане: обратил ли ты внимание твое на раба Моего Иова? ибо нет такого, как он, на земле: человек непорочный, справедливый, богобоязненный и удаляющийся от зла. И отвечал сатана Господу и сказал: разве даром богобоязнен Иов? Не Ты ли кругом оградил его и дом его и все, что у него? Дело рук его Ты благословил, и стада его распространяются по земле; но простри руку Твою и коснись всего, что у него, -- благословит ли он Тебя? И сказал Господь сатане: вот, все, что у него, в руке твоей; только на него не простирай руки твоей. И отошел сатана от лица Господня.</p><cite>Иов. 1:6-12</cite></blockquote>
-<blockquote><p>Был день, когда пришли сыны Божии предстать пред Господа; между ними пришел и сатана предстать пред Господа. И сказал Господь сатане: откуда ты пришел? И отвечал сатана Господу и сказал: я ходил по земле и обошел ее. И сказал Господь сатане: обратил ли ты внимание твое на раба Моего Иова? ибо нет такого, как он, на земле: человек непорочный, справедливый, богобоязненный и удаляющийся от зла, и доселе тверд в своей непорочности; а ты возбуждал Меня против него, чтобы погубить его безвинно. И отвечал сатана Господу и сказал: кожу за кожу, а за жизнь свою отдаст человек все, что есть у него; но простри руку Твою и коснись кости его и плоти его, -- благословит ли он Тебя? И сказал Господь сатане: вот, он в руке твоей, только душу его сбереги. И отошел сатана от лица Господня и поразил Иова проказою лютою от подошвы ноги его по самое темя его.</p><cite>Иов. 2:1-7</cite></blockquote>
-<blockquote><p>Не бойся ничего, что тебе надобно будет претерпеть. Вот, диавол будет ввергать из среды вас в темницу, чтобы искусить вас, и будете иметь скорбь дней десять. Будь верен до смерти, и дам тебе венец жизни.</p><cite>Отк. 2:10</cite></blockquote>
-<h3>(2) Постоянное нарушение Слово Божье – Бог разрешение сатана действовать извне, последствия греха не к смерти, воспитание человека 1-е Цар. 16:14-16,23,1-е Кор. 5:1-5,2-е Кор. 12:7-9 (Евр. 12:4-11)</h3>
-<blockquote><p>А от Саула отступил Дух Господень, и возмущал его злой дух от Господа. И сказали слуги Сауловы ему: вот, злой дух от Бога возмущает тебя; пусть господин наш прикажет слугам своим, <em>которые</em> пред тобою, поискать человека, искусного в игре на гуслях, и когда придет на тебя злой дух от Бога, то он, играя рукою своею, будет успокоивать тебя.</p><cite>1-е Цар. 16:14-16</cite></blockquote>
-<blockquote><p>И когда дух от Бога бывал на Сауле, то Давид, взяв гусли, играл, -- и отраднее и лучше становилось Саулу, и дух злой отступал от него.</p><cite>1-е Цар. 16:23</cite></blockquote>
-<blockquote><p>Есть верный слух, что у вас <em>появилось</em> блудодеяние, и притом такое блудодеяние, какого не слышно даже у язычников, что некто <em>вместо</em> <em>жены</em> имеет жену отца своего. И вы возгордились, вместо того, чтобы лучше плакать, дабы изъят был из среды вас сделавший такое дело. А я, отсутствуя телом, но присутствуя <em>у</em> <em>вас</em> духом, уже решил, как бы находясь у вас: сделавшего такое дело, в собрании вашем во имя Господа нашего Иисуса Христа, обще с моим духом, силою Господа нашего Иисуса Христа, предать сатане во измождение плоти, чтобы дух был спасен в день Господа нашего Иисуса Христа.</p><cite>1-е Кор. 5:1-5</cite></blockquote>
-<blockquote><p>И чтобы я не превозносился чрезвычайностью откровений, дано мне жало в плоть, ангел сатаны, удручать меня, чтобы я не превозносился. Трижды молил я Господа о том, чтобы удалил его от меня. Но <em>Господь</em> сказал мне: "довольно для тебя благодати Моей, ибо сила Моя совершается в немощи". И потому я гораздо охотнее буду хвалиться своими немощами, чтобы обитала во мне сила Христова.</p><cite>2-е Кор. 12:7-9</cite></blockquote>
-<blockquote><p>Вы еще не до крови сражались, подвизаясь против греха, и забыли утешение, которое предлагается вам, как сынам: сын мой! не пренебрегай наказания Господня, и не унывай, когда Он обличает тебя. Ибо Господь, кого любит, того наказывает; бьет же всякого сына, которого принимает. Если вы терпите наказание, то Бог поступает с вами, как с сынами. Ибо есть ли какой сын, которого бы не наказывал отец? Если же остаетесь без наказания, которое всем обще, то вы незаконные дети, а не сыны. Притом, <em>если</em> мы, будучи наказываемы плотскими родителями нашими, боялись их, то не гораздо ли более должны покориться Отцу духов, чтобы жить? Те наказывали нас по своему произволу для немногих дней; а Сей -- для пользы, чтобы нам иметь участие в святости Его. Всякое наказание в настоящее время кажется не радостью, а печалью; но после наученным через него доставляет мирный плод праведности.</p><cite>Евр. 12:4-11</cite></blockquote>
-<h3>(3) Грех к смерти – отказ от Слово Божье, Завета, Христос, отпадение от Бога Рим. 8:2, - Быт. 3:1-7,2-е Тим. 2:12,Мф. 10:32-33,12:43-45</h3>
-<blockquote><p>потому что закон духа жизни во Христе Иисусе освободил меня от закона греха и смерти.</p><cite>Рим. 8:2</cite></blockquote>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
-<blockquote><p>если терпим, то с Ним и царствовать будем; если отречемся, и Он отречется от нас;</p><cite>2-е Тим. 2:12</cite></blockquote>
-<blockquote><p>Итак всякого, кто исповедает Меня пред людьми, того исповедаю и Я пред Отцем Моим Небесным; а кто отречется от Меня пред людьми, отрекусь от того и Я пред Отцем Моим Небесным.</p><cite>Мф. 10:32-33</cite></blockquote>
-<blockquote><p>Когда нечистый дух выйдет из человека, то ходит по безводным местам, ища покоя, и не находит; тогда говорит: возвращусь в дом мой, откуда я вышел. И, придя, находит <em>его</em> незанятым, выметенным и убранным; тогда идет и берет с собою семь других духов, злейших себя, и, войдя, живут там; и бывает для человека того последнее хуже первого. Так будет и с этим злым родом.</p><cite>Мф. 12:43-45</cite></blockquote>
-<h2>Заключение:</h2>
-<h3>(1) Учение о возможности одержимости детей Бог – оскорбление, уничижение Христа и Его Жертвы 1-е Кор. 12:13,Еф. 4:4, - 2-е Кор. 6:15-16,Мф. 12:43-45. (Невозможность одновременного нахождения двух духов в человек)</h3>
-<blockquote><p>Ибо все мы одним Духом крестились в одно тело, Иудеи или Еллины, рабы или свободные, и все напоены одним Духом.</p><cite>1-е Кор. 12:13</cite></blockquote>
-<blockquote><p>Одно тело и один дух, как вы и призваны к одной надежде вашего звания;</p><cite>Еф. 4:4</cite></blockquote>
-<blockquote><p>Какое согласие между Христом и Велиаром? Или какое соучастие верного с неверным? Какая совместность храма Божия с идолами? Ибо вы храм Бога живаго, как сказал Бог: вселюсь в них и буду ходить <em>в</em> <em>них;</em> и буду их Богом, и они будут Моим народом.</p><cite>2-е Кор. 6:15-16</cite></blockquote>
-<blockquote><p>Когда нечистый дух выйдет из человека, то ходит по безводным местам, ища покоя, и не находит; тогда говорит: возвращусь в дом мой, откуда я вышел. И, придя, находит <em>его</em> незанятым, выметенным и убранным; тогда идет и берет с собою семь других духов, злейших себя, и, войдя, живут там; и бывает для человека того последнее хуже первого. Так будет и с этим злым родом.</p><cite>Мф. 12:43-45</cite></blockquote>
-<h3>(2) Важность понимания ложных доктрин современности</h3>
-<h4>(а) Ересь «смешанного евангелия» (Христос + дела человека), признание оставления Богом своих детей при согрешении и одержимости детей Божьих – непонимание Слово Божье, Завета, Христос, отсутствие спасения. Рим. 8:2,1-е Ин. 2:2,Кол. 2:13-14</h4>
-<blockquote><p>потому что закон духа жизни во Христе Иисусе освободил меня от закона греха и смерти.</p><cite>Рим. 8:2</cite></blockquote>
-<blockquote><p>Он есть умилостивление за грехи наши, и не только за наши, но и за <em>грехи</em> всего мира.</p><cite>1-е Ин. 2:2</cite></blockquote>
-<blockquote><p>и вас, которые были мертвы во грехах и в необрезании плоти вашей, оживил вместе с Ним, простив нам все грехи, истребив учением бывшее о нас рукописание, которое было против нас, и Он взял его от среды и пригвоздил ко кресту;</p><cite>Кол. 2:13-14</cite></blockquote>
-<h4>(б) Ересь «частичного спасения» - возрождение и спасение духа человека, а душа и тело не возрожденные и не спасенные, находятся в проклятиях и одержимости бесами. (Нет ответа в отношении способа возрождения и спасения души и тела, противоречия Слово Божье) 1-е Кор. 6:20,2-е Кор. 6:15-16</h4>
-<blockquote><p>Ибо вы куплены <em>дорогою</em> ценою. Посему прославляйте Бога и в телах ваших и в душах ваших, которые суть Божии.</p><cite>1-е Кор. 6:20</cite></blockquote>
-<blockquote><p>Какое согласие между Христом и Велиаром? Или какое соучастие верного с неверным? Какая совместность храма Божия с идолами? Ибо вы храм Бога живаго, как сказал Бог: вселюсь в них и буду ходить <em>в</em> <em>них;</em> и буду их Богом, и они будут Моим народом.</p><cite>2-е Кор. 6:15-16</cite></blockquote>
-<h3>(3) Важность принятия Слово Божье, Завета, Христос, законное освобождение от власти греха, смерти и ада, сатана, законное оправдание, усыновление и воцерковление человека. Рим. 8:2</h3>
-<blockquote><p>потому что закон духа жизни во Христе Иисусе освободил меня от закона греха и смерти.</p><cite>Рим. 8:2</cite></blockquote>
+<blockquote><p>Авраам выслушал Ефрона; и отвесил Авраам Ефрону серебра, сколько он объявил вслух сынов Хетовых, четыреста сиклей серебра, какое ходит у купцов. И стало поле Ефроново, которое при Махпеле, против Мамре, поле и пещера, которая на нем, и все деревья, которые на поле, во всех пределах его вокруг, владением Авраамовым пред очами сынов Хета, всех входящих во врата города его.</p><cite>Быт. 23:16-18</cite></blockquote>
+<blockquote><p>Иаков, возвратившись из Месопотамии, благополучно пришел в город Сихем, который в земле Ханаанской, и расположился пред городом. И купил часть поля, на котором раскинул шатер свой, у сынов Еммора, отца Сихемова, за сто монет. И поставил там жертвенник, и призвал имя Господа Бога Израилева.</p><cite>Быт. 33:18-20</cite></blockquote>
+<h3>(3) Милостыня до В.З</h3>
+<h4>(а) Важность милосердия – природа и характер Бога</h4>
+<h4>(б) Дела милосердия – возможность принятия Слово Божье, Завета, Христос, спасение человека и вечная жизнь с Богом Иов. 29:12-17,Быт. 50:20</h4>
+<blockquote><p>потому что я спасал страдальца вопиющего и сироту беспомощного. Благословение погибавшего приходило на меня, и сердцу вдовы доставлял я радость. Я облекался в правду, и суд мой одевал меня, как мантия и увясло. Я был глазами слепому и ногами хромому; отцом был я для нищих и тяжбу, которой я не знал, разбирал внимательно. Сокрушал я беззаконному челюсти и из зубов его исторгал похищенное.</p><cite>Иов. 29:12-17</cite></blockquote>
+<blockquote><p>вот, вы умышляли против меня зло; но Бог обратил это в добро, чтобы сделать то, что теперь есть: сохранить жизнь великому числу людей;</p><cite>Быт. 50:20</cite></blockquote>
+<h2 id="s4">4) Финансовое служение народа Божьего в В.З</h2>
+<h3>(1) Десятина – Божье установление и требование, заповедь обязательная к исполнению. Лев. 27:30-32</h3>
+<blockquote><p>И всякая десятина на земле из семян земли и из плодов дерева принадлежит Господу: это святыня Господня; если же кто захочет выкупить десятину свою, то пусть приложит к <em>цене</em> ее пятую долю. И всякую десятину из крупного и мелкого скота, из всего, что проходит под жезлом десятое, должно посвящать Господу;</p><cite>Лев. 27:30-32</cite></blockquote>
+<h4>(а) Чис. 18:19-28 (21), - первая десятина (маасер ришон)</h4>
+<blockquote><p>Все возносимые святыни, которые возносят сыны Израилевы Господу, отдаю тебе и сынам твоим и дочерям твоим с тобою, уставом вечным; это завет соли вечный пред Господом, данный для тебя и потомства твоего с тобою. И сказал Господь Аарону: в земле их не будешь иметь удела и части не будет тебе между ними; Я часть твоя и удел твой среди сынов Израилевых; а сынам Левия, вот, Я дал в удел десятину из всего, что у Израиля, за службу их, за то, что они отправляют службы в скинии собрания; и сыны Израилевы не должны впредь приступать к скинии собрания, чтобы не понести греха и не умереть: пусть левиты исправляют службы в скинии собрания и несут на себе грех их. Это устав вечный в роды ваши; среди же сынов Израилевых они не получат удела; так как десятину сынов Израилевых, которую они приносят в возношение Господу, Я отдаю левитам в удел, потому и сказал Я им: между сынами Израилевыми они не получат удела. И сказал Господь Моисею, говоря: объяви левитам и скажи им: когда вы будете брать от сынов Израилевых десятину, которую Я дал вам от них в удел, то возносите из нее возношение Господу, десятину из десятины, -- и вменено будет вам это возношение ваше, как хлеб с гумна и как взятое от точила; так и вы будете возносить возношение Господу из всех десятин ваших, которые будете брать от сынов Израилевых, и будете давать из них возношение Господне Аарону священнику;</p><cite>Чис. 18:19-28</cite></blockquote>
+<ul>
+<li>Назначение первой десятины – содержание левитов и священников, познание и передача Слово Божье, Завета, Христос, Всемирная Евангелизация (Участие в деле Божьем, важность исполнение предназначения, прославление и благодарение Бога, потверждение участия в Божьем Завете)</li>
+<li>Ис. Нав. 13-21</li>
+<li>Место приношения – Скиния, Храм. Втор. 12:5-7. (Устав соли, вечный завет – важность понимания важности познания и передачи Слово Божье, Завета, Христос, самообеспечение народа Бог)</li>
+</ul>
+<blockquote><p>но к месту, какое изберет Господь, Бог ваш, из всех колен ваших, чтобы пребывать имени Его там, обращайтесь и туда приходите, и туда приносите всесожжения ваши, и жертвы ваши, и десятины ваши, и возношение рук ваших, и обеты ваши, и добровольные приношения ваши, и первенцев крупного скота вашего и мелкого скота вашего; и ешьте там пред Господом, Богом вашим, и веселитесь вы и семейства ваши о всем, что делалось руками вашими, чем благословил тебя Господь, Бог твой.</p><cite>Втор. 12:5-7</cite></blockquote>
+<h4>(б) Втор. 14:22-27, - вторая десятина (маасер шени)</h4>
+<blockquote><p>Отделяй десятину от всего произведения семян твоих, которое приходит с поля каждогодно, и ешь пред Господом, Богом твоим, на том месте, которое изберет Он, чтобы пребывать имени Его там; десятину хлеба твоего, вина твоего и елея твоего, и первенцев крупного скота твоего и мелкого скота твоего, дабы ты научился бояться Господа, Бога твоего, во все дни. Если же длинна будет для тебя дорога, так что ты не можешь нести сего, потому что далеко от тебя то место, которое изберет Господь, Бог твой, чтоб положить там имя Свое, и Господь, Бог твой, благословил тебя, то променяй это на серебро и возьми серебро в руку твою и приходи на место, которое изберет Господь, Бог твой; и покупай на серебро сие всего, чего пожелает душа твоя, волов, овец, вина, сикера и всего, чего потребует от тебя душа твоя; и ешь там пред Господом, Богом твоим, и веселись ты и семейство твое. И левита, который в жилищах твоих, не оставь, ибо нет ему части и удела с тобою.</p><cite>Втор. 14:22-27</cite></blockquote>
+<ul>
+<li>Назначение второй десятины – участие в Божьих праздниках, обязательное собрание народа Божьего три раза в год, участие в деле Божьем, прославление и благодарение Бога. Втор. 16:16</li>
+</ul>
+<blockquote><p>Три раза в году весь мужеский пол должен являться пред лице Господа, Бога твоего, на место, которое изберет Он: в праздник опресноков, в праздник седмиц и в праздник кущей; и <em>никто</em> не должен являться пред лице Господа с пустыми <em>руками,</em></p><cite>Втор. 16:16</cite></blockquote>
+<ul>
+<li>Место приношения – Скиния, Храм. Втор. 12:5-7</li>
+</ul>
+<blockquote><p>но к месту, какое изберет Господь, Бог ваш, из всех колен ваших, чтобы пребывать имени Его там, обращайтесь и туда приходите, и туда приносите всесожжения ваши, и жертвы ваши, и десятины ваши, и возношение рук ваших, и обеты ваши, и добровольные приношения ваши, и первенцев крупного скота вашего и мелкого скота вашего; и ешьте там пред Господом, Богом вашим, и веселитесь вы и семейства ваши о всем, что делалось руками вашими, чем благословил тебя Господь, Бог твой.</p><cite>Втор. 12:5-7</cite></blockquote>
+<h4>(в) Втор. 14:28-29,26:12-15, - третья десятина (маасер шлиши, ани) Назначение третьей десятины (только в третий год) – забота о бедных, сиротах, вдовах и левитах, участие в деле Божьем, прославление и благодарение Бога</h4>
+<blockquote><p>По прошествии же трех лет отделяй все десятины произведений твоих в тот год и клади в жилищах твоих; и пусть придет левит, ибо ему нет части и удела с тобою, и пришелец, и сирота, и вдова, которые <em>находятся</em> в жилищах твоих, и пусть едят и насыщаются, дабы благословил тебя Господь, Бог твой, во всяком деле рук твоих, которое ты будешь делать.</p><cite>Втор. 14:28-29</cite></blockquote>
+<blockquote><p>Когда ты отделишь все десятины произведений твоей в третий год, год десятин, и отдашь левиту, пришельцу, сироте и вдове, чтоб они ели в жилищах твоих и насыщались, тогда скажи пред Господом Богом твоим: я отобрал от дома святыню и отдал ее левиту, пришельцу, сироте и вдове, по всем повелениям Твоим, которые Ты заповедал мне: я не преступил заповедей Твоих и не забыл; я не ел от нее в печали моей, и не отделял ее в нечистоте, и не давал из нее для мертвого; я повиновался гласу Господа Бога моего, исполнил все, что Ты заповедал мне; призри от святого жилища Твоего, с небес, и благослови народ Твой, Израиля, и землю, которую Ты дал нам -- так как Ты клялся отцам нашим землю, в которой течет молоко и мед.</p><cite>Втор. 26:12-15</cite></blockquote>
+<ul>
+<li>Место приношения – поместный накопитель десятин</li>
+</ul>
+<h4>(г) Мал. 3:7-10, - воровство десятин, непринятие Слово Божье, Завета, Христос, нет участия в деле Божьем, прославлении и благодарении Бога, служение маммоне, отказ от Бога, проклятие и погибель. (Мф. 23:23,Лк. 18:10-14, - Иисус Христос, утверждение В.З.)</h4>
+<blockquote><p>Со дней отцов ваших вы отступили от уставов Моих и не соблюдаете их; обратитесь ко Мне, и Я обращусь к вам, говорит Господь Саваоф. Вы скажете: "как нам обратиться?" Можно ли человеку обкрадывать Бога? А вы обкрадываете Меня. Скажете: "чем обкрадываем мы Тебя?" Десятиною и приношениями. Проклятием вы прокляты, потому что вы - весь народ - обкрадываете Меня. Принесите все десятины в дом хранилища, чтобы в доме Моем была пища, и хотя в этом испытайте Меня, говорит Господь Саваоф: не открою ли Я для вас отверстий небесных и не изолью ли на вас благословения до избытка?</p><cite>Мал. 3:7-10</cite></blockquote>
+<blockquote><p>Горе вам, книжники и фарисеи, лицемеры, что даете десятину с мяты, аниса и тмина, и оставили важнейшее в законе: суд, милость и веру; сие надлежало делать, и того не оставлять.</p><cite>Мф. 23:23</cite></blockquote>
+<blockquote><p>два человека вошли в храм помолиться: один фарисей, а другой мытарь. Фарисей, став, молился сам в себе так: Боже! благодарю Тебя, что я не таков, как прочие люди, грабители, обидчики, прелюбодеи, или как этот мытарь: пощусь два раза в неделю, даю десятую часть из всего, что приобретаю. Мытарь же, стоя вдали, не смел даже поднять глаз на небо; но, ударяя себя в грудь, говорил: Боже! будь милостив ко мне грешнику! Сказываю вам, что сей пошел оправданным в дом свой более, нежели тот: ибо всякий, возвышающий сам себя, унижен будет, а унижающий себя возвысится.</p><cite>Лк. 18:10-14</cite></blockquote>
+<h3>(2) Пожертвования и обеты в В.З</h3>
+<h4>(а) Исх. 25-30,35-40,Чис.7, - Скиния, жертва народа</h4>
+<h4>(б) 1-е Пар. 28 (Ездра), Неем. 10:32-39,12:44-45, - Храм</h4>
+<blockquote><p>И поставили мы себе в закон давать от себя по трети сикля в год на потребности для дома Бога нашего: на хлебы предложения, на всегдашнее хлебное приношение и на всегдашнее всесожжение, на субботы, на новомесячия, на праздники, на священные вещи и на жертвы за грех для очищения Израиля, и на все, совершаемое в доме Бога нашего. И бросили мы жребии о доставке дров, священники, левиты и народ, когда которому поколению нашему в назначенные времена, из года в год, привозить <em>их</em> к дому Бога нашего, чтоб они горели на жертвеннике Господа Бога нашего, по написанному в законе. <em>И</em> <em>обязались</em> <em>мы</em> каждый год приносить в дом Господень начатки с земли нашей и начатки всяких плодов со всякого дерева; также приводить в дом Бога нашего к священникам, служащим в доме Бога нашего, первенцев из сыновей наших и из скота нашего, как написано в законе, и первородное от крупного и мелкого скота нашего. И начатки из молотого хлеба нашего и приношений наших, и плодов со всякого дерева, вина и масла мы будем доставлять священникам в кладовые при доме Бога нашего и десятину с земли нашей левитам. Они, левиты, будут брать десятину во всех городах, где у нас земледелие. При левитах, когда они будут брать левитскую десятину, будет находиться священник, сын Аарона, чтобы левиты десятину из своих десятин отвозили в дом Бога нашего в комнаты, <em>отделенные</em> для кладовой, потому что в эти комнаты как сыны Израилевы, так и левиты должны доставлять приносимое в дар: хлеб, вино и масло. Там священные сосуды, и служащие священники, и привратники, и певцы. И мы не оставим дома Бога нашего.</p><cite>Неем. 10:32-39</cite></blockquote>
+<blockquote><p>В тот же день приставлены были люди к кладовым комнатам для приношений начатков и десятин, чтобы собирать с полей при городах части, положенные законом для священников и левитов, потому что Иудеям радостно было <em>смотреть</em> на стоящих священников и левитов, которые совершали службу Богу своему и дела очищения и были певцами и привратниками по установлению Давида и сына его Соломона.</p><cite>Неем. 12:44-45</cite></blockquote>
+<h4>(в) Мк. 12:41-44, – вдова</h4>
+<blockquote><p>И сел Иисус против сокровищницы и смотрел, как народ кладет деньги в сокровищницу. Многие богатые клали много. Придя же, одна бедная вдова положила две лепты, что составляет кодрант. Подозвав учеников Своих, <em>Иисус</em> сказал им: истинно говорю вам, что эта бедная вдова положила больше всех, клавших в сокровищницу, ибо все клали от избытка своего, а она от скудости своей положила все, что имела, все пропитание свое.</p><cite>Мк. 12:41-44</cite></blockquote>
+<ul>
+<li>Назначение пожертвований и обетов в В.З. – содержание левитов и священников, содержание Храма, участие в деле Божьем, прославление и благодарение Бога</li>
+<li>Место приношения – Скиния, Храм</li>
+</ul>
+<h3>(3) Милостыня в В.З</h3>
+<h4>(а) Важность милосердия – природа и характер Бога</h4>
+<h4>(б) Дела милосердия – возможность принятия Слово Божье, Завета, Христос, спасение человека и вечная жизнь с Богом. Мф. 5:42,7:12</h4>
+<blockquote><p>Просящему у тебя дай, и от хотящего занять у тебя не отвращайся.</p><cite>Мф. 5:42</cite></blockquote>
+<blockquote><p>Итак во всем, как хотите, чтобы с вами поступали люди, так поступайте и вы с ними, ибо в этом закон и пророки.</p><cite>Мф. 7:12</cite></blockquote>
+<h2 id="s5">5) Финансовое служение народа Божьего в Н.З</h2>
+<h3>(1) Десятина в Н.З</h3>
+<h4>(а) Отменение Богослужебного закона В.З</h4>
+<h4>(б) Пример Авраама (отец всех верующих) – библейское обоснование приношения десятин в Н.З Рим. 4:11-12, - Быт. 14:20,Пр. 3:9-10, - 1-е Кор. 16:1-2, - Рим. 12:13,Гал. 6:6,1-е Кор. 9:14,1-е Тим. 5:17-18</h4>
+<blockquote><p>И знак обрезания он получил, <em>как</em> печать праведности через веру, которую <em>имел</em> в необрезании, так что он стал отцом всех верующих в необрезании, чтобы и им вменилась праведность, и отцом обрезанных, не только <em>принявших</em> обрезание, но и ходящих по следам веры отца нашего Авраама, которую <em>имел</em> <em>он</em> в необрезании.</p><cite>Рим. 4:11-12</cite></blockquote>
+<blockquote><p>и благословен Бог Всевышний, Который предал врагов твоих в руки твои. дал ему десятую часть из всего.</p><cite>Быт. 14:20</cite></blockquote>
+<blockquote><p>Чти Господа от имения твоего и от начатков всех прибытков твоих, и наполнятся житницы твои до избытка, и точила твои будут переливаться новым вином.</p><cite>Пр. 3:9-10</cite></blockquote>
+<blockquote><p>При сборе же для святых поступайте так, как я установил в церквах Галатийских. В первый день недели каждый из вас пусть отлагает у себя и сберегает, сколько позволит ему состояние, чтобы не делать сборов, когда я приду.</p><cite>1-е Кор. 16:1-2</cite></blockquote>
+<blockquote><p>в нуждах святых принимайте участие; ревнуйте о странноприимстве.</p><cite>Рим. 12:13</cite></blockquote>
+<blockquote><p>Наставляемый словом, делись всяким добром с наставляющим.</p><cite>Гал. 6:6</cite></blockquote>
+<blockquote><p>Так и Господь повелел проповедующим Евангелие жить от благовествования.</p><cite>1-е Кор. 9:14</cite></blockquote>
+<blockquote><p>Достойно начальствующим пресвитерам должно оказывать сугубую честь, особенно тем, которые трудятся в слове и учении. Ибо Писание говорит: не заграждай рта у вола молотящего; и: трудящийся достоин награды своей.</p><cite>1-е Тим. 5:17-18</cite></blockquote>
+<h4>(в) Отсутствие хаоса в финансовой жизни народа Божьего – пренебрежение семьей или пренебрежение делом Божьим 1-е Тим. 5:8,Мф. 15:3-9,3-е Ин. 1:7,Иак. 2:14-17</h4>
+<blockquote><p>Если же кто о своих и особенно о домашних не печется, тот отрекся от веры и хуже неверного.</p><cite>1-е Тим. 5:8</cite></blockquote>
+<blockquote><p>Он же сказал им в ответ: зачем и вы преступаете заповедь Божию ради предания вашего? Ибо Бог заповедал: почитай отца и мать; и: злословящий отца или мать смертью да умрет. А вы говорите: если кто скажет отцу или матери: дар <em>Богу</em> то, чем бы ты от меня пользовался, тот может и не почтить отца своего или мать свою; таким образом вы устранили заповедь Божию преданием вашим. Лицемеры! хорошо пророчествовал о вас Исаия, говоря: приближаются ко Мне люди сии устами своими, и чтут Меня языком, сердце же их далеко отстоит от Меня; но тщетно чтут Меня, уча учениям, заповедям человеческим.</p><cite>Мф. 15:3-9</cite></blockquote>
+<blockquote><p>ибо они ради имени Его пошли, не взяв ничего от язычников.</p><cite>3-е Ин. 1:7</cite></blockquote>
+<blockquote><p>Что пользы, братия мои, если кто говорит, что он имеет веру, а дел не имеет? может ли эта вера спасти его? Если брат или сестра наги и не имеют дневного пропитания, а кто-нибудь из вас скажет им: "идите с миром, грейтесь и питайтесь", но не даст им потребного для тела: что пользы? Так и вера, если не имеет дел, мертва сама по себе.</p><cite>Иак. 2:14-17</cite></blockquote>
+<ul>
+<li>Назначение десятины Н.З. – содержание служителей Церкви, познание и передача Слово Божье, Завета, Христос, свершение Всемирная Евангелизация (Участие в деле Божьем, важность исполнение предназначения, прославление и благодарение Бога, потверждение участия в Божьем Завете)</li>
+<li>Место приношения – поместная Церковь</li>
+</ul>
+<h3>(2) Пожертвования и обеты в Н.З</h3>
+<h4>(а) Важность пожертвований для народа Божьего в Н.З 2-е Кор. 8:12-15,24,9:6-11,Фил. 4:10-19,Гал. 6:6,1-е Тим. 6:17-19, Тит. 3:13-14</h4>
+<blockquote><p>Ибо если есть усердие, то оно принимается смотря по тому, кто что имеет, а не по тому, чего не имеет. Не <em>требуется,</em> чтобы другим <em>было</em> облегчение, а вам тяжесть, но чтобы была равномерность. Ныне ваш избыток в <em>восполнение</em> их недостатка; а после их избыток в <em>восполнение</em> вашего недостатка, чтобы была равномерность, как написано: кто собрал много, не имел лишнего; и кто мало, не имел недостатка.</p><cite>2-е Кор. 8:12-15</cite></blockquote>
+<blockquote><p>Итак перед лицем церквей дайте им доказательство любви вашей и того, что мы <em>справедливо</em> хвалимся вами.</p><cite>2-е Кор. 8:24</cite></blockquote>
+<blockquote><p>При сем скажу: кто сеет скупо, тот скупо и пожнет; а кто сеет щедро, тот щедро и пожнет. Каждый <em>уделяй</em> по расположению сердца, не с огорчением и не с принуждением; ибо доброхотно дающего любит Бог. Бог же силен обогатить вас всякою благодатью, чтобы вы, всегда и во всем имея всякое довольство, были богаты на всякое доброе дело, как написано: расточил, раздал нищим; правда его пребывает в век. Дающий же семя сеющему и хлеб в пищу подаст обилие посеянному вами и умножит плоды правды вашей, так чтобы вы всем богаты были на всякую щедрость, которая через нас производит благодарение Богу.</p><cite>2-е Кор. 9:6-11</cite></blockquote>
+<blockquote><p>Я весьма возрадовался в Господе, что вы уже вновь начали заботиться о мне; вы и прежде заботились, но вам не благоприятствовали обстоятельства. Говорю это не потому, что нуждаюсь, ибо я научился быть довольным тем, что у меня есть. Умею жить и в скудости, умею жить и в изобилии; научился всему и во всем, насыщаться и терпеть голод, быть и в обилии и в недостатке. Все могу в укрепляющем меня Иисусе Христе. Впрочем вы хорошо поступили, приняв участие в моей скорби. Вы знаете, Филиппийцы, что в начале благовествования, когда я вышел из Македонии, ни одна церковь не оказала мне участия подаянием и принятием, кроме вас одних; вы и в Фессалонику и раз и два присылали мне на нужду. <em>Говорю</em> <em>это</em> не потому, чтобы я искал даяния; но ищу плода, умножающегося в пользу вашу. Я получил все, и избыточествую; я доволен, получив от Епафродита посланное вами, <em>как</em> благовонное курение, жертву приятную, благоугодную Богу. Бог мой да восполнит всякую нужду вашу, по богатству Своему в славе, Христом Иисусом.</p><cite>Фил. 4:10-19</cite></blockquote>
+<blockquote><p>Наставляемый словом, делись всяким добром с наставляющим.</p><cite>Гал. 6:6</cite></blockquote>
+<blockquote><p>Богатых в настоящем веке увещевай, чтобы они не высоко думали <em>о</em> <em>себе</em> и уповали не на богатство неверное, но на Бога живаго, дающего нам все обильно для наслаждения; чтобы они благодетельствовали, богатели добрыми делами, были щедры и общительны, собирая себе сокровище, доброе основание для будущего, чтобы достигнуть вечной жизни.</p><cite>1-е Тим. 6:17-19</cite></blockquote>
+<blockquote><p>Зину законника и Аполлоса позаботься отправить так, чтобы у них ни в чем не было недостатка. Пусть и наши учатся упражняться в добрых делах, <em>в</em> <em>удовлетворении</em> необходимым нуждам, дабы не были бесплодны.</p><cite>Тит. 3:13-14</cite></blockquote>
+<ul>
+<li>Назначение пожертвований и обетов в Н.З. – содержание служителей Церкви, содержание Храма, познание и передача Слово Божье, Завета, Христос, Всемирная Евангелизация, участие в деле Божьем, прославление и благодарение Бога</li>
+<li>Место приношения – поместная Церковь</li>
+</ul>
+<h3>(3) Милостыня в Н.З</h3>
+<h4>(а) Важность милосердия – природа и характер Бога</h4>
+<h4>(б) Дела милосердия – возможность принятия Слово Божье, Завета, Христос, спасение человека и вечная жизнь с Богом Мф. 5:42,Дн. 24:17,10:4,20:35,Гал. 6:10,Евр. 13:16 – Мф. 7:12</h4>
+<blockquote><p>Просящему у тебя дай, и от хотящего занять у тебя не отвращайся.</p><cite>Мф. 5:42</cite></blockquote>
+<blockquote><p>После многих лет я пришел, чтобы доставить милостыню народу моему и приношения.</p><cite>Дн. 24:17</cite></blockquote>
+<blockquote><p>Он же, взглянув на него и испугавшись, сказал: что, Господи? <em>Ангел</em> отвечал ему: молитвы твои и милостыни твои пришли на память пред Богом.</p><cite>Дн. 10:4</cite></blockquote>
+<blockquote><p>Во всем показал я вам, что, так трудясь, надобно поддерживать слабых и памятовать слова Господа Иисуса, ибо Он Сам сказал: "блаженнее давать, нежели принимать".</p><cite>Дн. 20:35</cite></blockquote>
+<blockquote><p>Итак, доколе есть время, будем делать добро всем, а наипаче своим по вере.</p><cite>Гал. 6:10</cite></blockquote>
+<blockquote><p>Не забывайте также благотворения и общительности, ибо таковые жертвы благоугодны Богу.</p><cite>Евр. 13:16</cite></blockquote>
+<blockquote><p>Итак во всем, как хотите, чтобы с вами поступали люди, так поступайте и вы с ними, ибо в этом закон и пророки.</p><cite>Мф. 7:12</cite></blockquote>
+<h2 id="s6">6) Участие человека в свершении Всемирная Евангелизация</h2>
+<h3>(1) Личная Евангелизация – неверующие, важность общения</h3>
+<h3>(2) Церковная Евангелизация – верующие, важность общения</h3>
+<h3>(3) Пребывание и служение человека в поместной Церкви – участие молитвой, финансами и проповедованием</h3>
+<h4>(а) Посланные проповедующие ученики – полная занятость</h4>
+<h4>(б) Участие финансами и молитвами – поддерживающие</h4>
+<h2 id="s7">7) Назначение финансов в Церкви</h2>
+<h3>(1) Познание и передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация (Поездки, транспорт и т.д. – исполнение предназначения Ц.Б.)</h3>
+<h3>(2) Финасовое обеспечение служителей Церкви</h3>
+<h4>(а) Самообеспечение служителей Церкви – возможность совмещения работы и служения в Церкви, частичная занятость служителя</h4>
+<h4>(б) Частичное обеспечение служителей Церкви – возможность частичного совмещения работы и служения в Церкви, частичная занятость служителя</h4>
+<h4>(в) Полное обеспечение служителей – невозможность совмещения работы и служения в Церкви, полная занятость служителя</h4>
+<h3>(3) Поддержка реально нуждающихся в народе Божьем</h3>
+<h3>(4) Содержание дома молитвы – коммуналка, ремонт и т.д</h3>
+<h2 id="s8">8) Контроль финансов Церкви – служителя Церкви, ответственность и отчет распоряжением финансами Церкви</h2>
+<h2 id="s9">Заключение:</h2>
+<h3>(1) Правильное понимание финасового служения</h3>
+<h4>(а) Все видимое и невидимое – Божья собственность</h4>
+<h4>(б) Важность понимания и исполнения воли Божьей.1-е Тим. 2:4</h4>
+<blockquote><p>Который хочет, чтобы все люди спаслись и достигли познания истины.</p><cite>1-е Тим. 2:4</cite></blockquote>
+<h4>(в) Ответственность каждого человек перед Богом в употреблении финансов – познание и передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация Мф. 28:19-20,6:33</h4>
+<blockquote><p>Итак идите, научите все народы, крестя их во имя Отца и Сына и Святаго Духа, уча их соблюдать все, что Я повелел вам; и се, Я с вами во все дни до скончания века. Аминь.</p><cite>Мф. 28:19-20</cite></blockquote>
+<blockquote><p>Ищите же прежде Царства Божия и правды Его, и это все приложится вам.</p><cite>Мф. 6:33</cite></blockquote>
+<h3>(2) Неправил. понимание финансового служения</h3>
+<h4>(а) Бизнес с Богом – получение выгоды, мотивация человека</h4>
+<h4>(б) Жадность и непотребства – воровство у Бога, право выбора Мал. 3:8, - 1-е Тим. 6:6-12,Мф. 19:16-30, - Гал. 6:7-8</h4>
+<blockquote><p>Можно ли человеку обкрадывать Бога? А вы обкрадываете Меня. Скажете: "чем обкрадываем мы Тебя?" Десятиною и приношениями.</p><cite>Мал. 3:8</cite></blockquote>
+<blockquote><p>Великое приобретение -- быть благочестивым и довольным. Ибо мы ничего не принесли в мир; явно, что ничего не можем и вынести <em>из</em> <em>него.</em> Имея пропитание и одежду, будем довольны тем. А желающие обогащаться впадают в искушение и в сеть и во многие безрассудные и вредные похоти, которые погружают людей в бедствие и пагубу; ибо корень всех зол есть сребролюбие, которому предавшись, некоторые уклонились от веры и сами себя подвергли многим скорбям. Ты же, человек Божий, убегай сего, а преуспевай в правде, благочестии, вере, любви, терпении, кротости. Подвизайся добрым подвигом веры, держись вечной жизни, к которой ты и призван, и исповедал доброе исповедание перед многими свидетелями.</p><cite>1-е Тим. 6:6-12</cite></blockquote>
+<blockquote><p>И вот, некто, подойдя, сказал Ему: Учитель благий! что сделать мне доброго, чтобы иметь жизнь вечную? Он же сказал ему: что ты называешь Меня благим? Никто не благ, как только один Бог. Если же хочешь войти в жизнь <em>вечную,</em> соблюди заповеди. Говорит Ему: какие? Иисус же сказал: не убивай; не прелюбодействуй; не кради; не лжесвидетельствуй; почитай отца и мать; и: люби ближнего твоего, как самого себя. Юноша говорит Ему: все это сохранил я от юности моей; чего еще недостает мне? Иисус сказал ему: если хочешь быть совершенным, пойди, продай имение твое и раздай нищим; и будешь иметь сокровище на небесах; и приходи и следуй за Мною. Услышав слово сие, юноша отошел с печалью, потому что у него было большое имение. Иисус же сказал ученикам Своим: истинно говорю вам, что трудно богатому войти в Царство Небесное; и еще говорю вам: удобнее верблюду пройти сквозь игольные уши, нежели богатому войти в Царство Божие. Услышав это, ученики Его весьма изумились и сказали: так кто же может спастись? А Иисус, воззрев, сказал им: человекам это невозможно, Богу же все возможно. Тогда Петр, отвечая, сказал Ему: вот, мы оставили все и последовали за Тобою; что же будет нам? Иисус же сказал им: истинно говорю вам, что вы, последовавшие за Мною, -- в пакибытии, когда сядет Сын Человеческий на престоле славы Своей, сядете и вы на двенадцати престолах судить двенадцать колен Израилевых. И всякий, кто оставит домы, или братьев, или сестер, или отца, или мать, или жену, или детей, или земли, ради имени Моего, получит во сто крат и наследует жизнь вечную. Многие же будут первые последними, и последние первыми.</p><cite>Мф. 19:16-30</cite></blockquote>
+<blockquote><p>Не обманывайтесь: Бог поругаем не бывает. Что посеет человек, то и пожнет: сеющий в плоть свою от плоти пожнет тление, а сеющий в дух от духа пожнет жизнь вечную.</p><cite>Гал. 6:7-8</cite></blockquote>
 </main>
 </body>
 </html>

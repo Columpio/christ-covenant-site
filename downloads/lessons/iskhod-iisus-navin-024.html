@@ -1,0 +1,311 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Чис. 12–14</title>
+<style>
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+:root{color-scheme:light;
+--ink:#2A1C0D;--ink2:#5A4630;--stone:#E6D8BA;--parch:#EBDAB0;--sheet:#FAF3E0;--wood:#6B4426;--frame:#F1E7CE;
+--c:#2F5DA8;--cd:#2F5DA8;--sb:#2F5DA8;--sf:#FFFFFF;--mix:#000;
+--display:"Cormorant SC","Cormorant Garamond",Georgia,serif;--uni:"Cormorant Unicase","Cormorant SC",Georgia,serif;
+--serif:"Alegreya","PT Serif",Georgia,serif;--sans:"Alegreya Sans","Segoe UI",system-ui,sans-serif;
+--canon:linear-gradient(90deg,#2F5DA8 0 10%,#D8951A 10% 20%,#C2366B 20% 30%,#1F8A5B 30% 40%,#138F8F 40% 50%,#E0562C 50% 60%,#E8801E 60% 70%,#2F8FCF 70% 80%,#6C4BB6 80% 90%,#8E3B8A 90%);
+--noise:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .30 0 0 0 0 .21 0 0 0 0 .10 0 0 0 .22 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+--weave:repeating-linear-gradient(90deg,rgba(255,255,255,.11) 0 2px,rgba(0,0,0,.07) 2px 4px);
+--cdd:color-mix(in srgb,var(--cd) 55%,var(--ink));
+--px:2.4rem;--py:2.2rem}
+*{box-sizing:border-box}
+html{scroll-padding-top:4.5rem;overflow-x:clip}
+body{margin:0;overflow-x:clip;color:var(--ink);font:400 1.2rem/1.65 var(--serif);-webkit-font-smoothing:antialiased;min-height:100vh;
+background:#2B190C url(img/shelves.svg) 50% 0/520px 960px repeat}
+/* Свет и глубина над стеллажами: утренний луч слева сверху, виньетка по краям; на внутренних страницах темнее. */
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+background:linear-gradient(115deg,rgba(255,226,160,.5),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 45%,rgba(20,10,4,.6) 100%),rgba(30,18,8,.12)}
+body:not(.home)::before{background:linear-gradient(115deg,rgba(255,226,160,.28),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 40%,rgba(20,10,4,.55) 100%),rgba(30,18,8,.5)}
+a{color:var(--cdd)}
+.sprite{position:absolute;width:0;height:0;overflow:hidden}
+.skip{position:absolute;left:-999px;top:0;z-index:40;padding:.7rem 1.1rem;background:var(--ink);color:#fff;font:700 1rem var(--sans)}
+.skip:focus{left:.5rem;top:.5rem}
+a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible{outline:3px solid var(--ink);outline-offset:3px;border-radius:6px}
+
+/* Шапка: полоса цветов канона, на страницах книги - цвет её раздела. */
+header.top{position:sticky;top:0;z-index:30;background:rgba(247,239,218,.95);backdrop-filter:blur(6px);border-bottom:1px solid #BFA97E;box-shadow:0 .4rem .8rem -.5rem rgba(50,30,10,.45);font:700 1.02rem/1.4 var(--sans)}
+header.top::before{content:"";display:block;height:4px;background:var(--canon)}
+body[style] header.top::before{background:var(--c)}
+header.top .bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;max-width:44rem;margin:0 auto;padding:0 1.25rem}
+header.top.wide .bar{max-width:68rem}
+.crumbs{min-width:0;color:var(--ink2)}
+.crumbs a{display:inline-flex;align-items:center;min-height:44px;padding:0 .3rem;color:var(--ink);text-decoration:none}
+.crumbs a:hover{color:var(--cdd);text-decoration:underline;text-underline-offset:.25em}
+
+main{max-width:44rem;margin:0 auto;padding:2rem 1.25rem 7rem}
+main.wide{max-width:68rem;position:relative;margin:0 auto;padding:2rem 2.4rem 7rem;
+background:var(--noise),linear-gradient(90deg,rgba(60,38,16,.18),rgba(60,38,16,0) 6%,rgba(60,38,16,0) 94%,rgba(60,38,16,.18)),var(--stone);
+border-inline:1.1rem solid #A98B5E;
+box-shadow:inset .5rem 0 .8rem -.3rem rgba(50,30,10,.45),inset -.5rem 0 .8rem -.3rem rgba(50,30,10,.45),0 0 3rem 1rem rgba(15,8,3,.7)}
+.muted{color:var(--ink2)}
+
+/* Страница урока - лист пергамента на каменной стене; под текстом нет фактуры. */
+main:not(.wide){position:relative;margin:1.6rem auto 6rem;padding:var(--py) var(--px) 2.6rem;background:var(--sheet);border-radius:.3rem;
+box-shadow:inset 0 0 0 1px rgba(150,115,60,.4),inset 0 0 2.4rem rgba(150,115,60,.2),0 1.4rem 2.4rem -1rem rgba(40,25,10,.65)}
+main:not(.wide)::before{content:"";display:block;height:.55rem;margin:calc(var(--py) * -1) calc(var(--px) * -1) 1.6rem;border-radius:.3rem .3rem 0 0;background:var(--weave),var(--sb)}
+h1{font:700 clamp(1.8rem,3.4vw,2.4rem)/1.15 var(--display);letter-spacing:.015em;margin:.4rem 0 1.2rem}
+h2{font:700 1.6rem/1.25 var(--display);letter-spacing:.015em;margin:2.6rem 0 .8rem}
+h2::before{content:"";display:inline-block;width:.5em;height:.5em;margin:0 .55em .12em 0;background:var(--sb);border-radius:2px;transform:rotate(45deg)}
+h3{font:700 1.16rem/1.45 var(--serif);margin:1.6rem 0 .5rem}
+h4{font:italic 600 1.1rem/1.4 var(--serif);margin:1.2rem 0 .4rem}
+ul{padding-left:1.3rem}
+li{margin:.25rem 0}
+li::marker{color:var(--sb)}
+blockquote{margin:.9rem 0 1.3rem;padding:.9rem 1.2rem 1rem;background:#FFFBEC;border:1px solid #E2D2A8;border-left:.32rem solid var(--sb);border-radius:.2rem;box-shadow:0 .2rem 0 #E6D8B4,0 .7rem 1rem -.7rem rgba(60,40,15,.5);font-size:1.08rem}
+blockquote p{margin:0}
+blockquote cite{display:block;margin-top:.4rem;font:700 .92rem/1.4 var(--sans);font-style:normal;color:var(--cdd)}
+
+/* Главная: зал. Утренний свет из окна, лампады, ниши со свитками. */
+.hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.lead{max-width:34rem;margin:0;font:400 1.25rem/1.5 var(--serif);color:var(--ink)}
+.scene{position:relative;width:17rem;height:19rem;justify-self:end}
+.window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
+background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
+box-shadow:0 0 0 .55rem var(--frame),0 0 0 .7rem #B9A57D,inset 0 1.2rem 1.6rem -.4rem rgba(40,25,10,.55),inset 1rem 0 1.2rem -.8rem rgba(40,25,10,.4)}
+.window::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent calc(50% - .2rem),#4A2D18 calc(50% - .2rem) calc(50% + .2rem),transparent calc(50% + .2rem)),linear-gradient(180deg,transparent 50%,#4A2D18 50% calc(50% + .4rem),transparent calc(50% + .4rem))}
+.sill{position:absolute;left:0;right:0;bottom:0;height:1.2rem;border-radius:.25rem .25rem .5rem .5rem;background:linear-gradient(180deg,#F6EDD3,#D6C5A0 55%,#B9A57D);box-shadow:0 .7rem .9rem -.4rem rgba(40,25,10,.55)}
+.sill>*{position:absolute;bottom:100%;margin-bottom:-.2rem}
+.sill img{display:block;width:100%;height:auto;filter:drop-shadow(.3rem .35rem .25rem rgba(40,25,10,.45))}
+.jar{left:1.2rem;width:3.1rem}
+.lamp{left:4.9rem;width:6.2rem}
+.ink{left:11.7rem;width:3.4rem}
+.glow{position:absolute;left:88%;top:66%;width:15rem;height:15rem;transform:translate(-50%,-50%);border-radius:50%;pointer-events:none;
+background:radial-gradient(circle,rgba(255,196,96,.62),rgba(255,160,60,.2) 38%,rgba(255,150,50,0) 68%);animation:glow 3.4s ease-in-out infinite}
+.flame{position:absolute;left:88.5%;top:67%;width:.75rem;height:1.35rem;transform:translate(-50%,-92%);transform-origin:50% 100%;border-radius:50% 50% 50% 50%/70% 70% 30% 30%;
+background:radial-gradient(ellipse at 50% 72%,#FFF8D0 0 18%,#FFD060 42%,#FF9A2A 72%,rgba(255,110,20,0) 100%);filter:blur(.4px);animation:flicker 2.7s ease-in-out infinite}
+.reed{position:absolute;left:46%;top:24%;width:.28rem;height:6.4rem;transform:translate(-50%,-100%) rotate(17deg);transform-origin:50% 100%;
+background:linear-gradient(90deg,#6E4F1E,#D9B866 45%,#8A6428);clip-path:polygon(0 0,100% 0,100% 94%,50% 100%,0 94%)}
+.rays{position:absolute;right:7rem;top:3rem;width:1px;height:1px;pointer-events:none;z-index:2}
+.rays i{position:absolute;top:0;right:0;width:8rem;height:48rem;transform-origin:100% 0;transform:rotate(var(--a));filter:blur(8px);mix-blend-mode:soft-light;
+background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
+.rays i:nth-child(1){--a:-40deg}
+.rays i:nth-child(2){--a:-54deg;width:5rem}
+.rays i:nth-child(3){--a:-68deg;width:10rem}
+@keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
+@keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
+.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
+.wall-lamp .lamp{position:relative;left:auto;width:100%}
+.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
+.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
+.jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
+.jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
+background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.jump a{display:inline-flex;align-items:center;min-height:44px;padding:0 1.2rem;text-decoration:none}
+.jump a:hover{background-color:#F6E9C2}
+.search{display:block;width:100%;max-width:34rem;margin:.4rem 0 1.2rem;padding:.75rem 1.1rem;font-weight:400}
+.search::placeholder{color:var(--ink2);opacity:1}
+.search:focus{border-color:var(--ink)}
+.testament{position:relative;display:flex;flex-direction:column;gap:2.4rem;margin:3rem 0 0}
+.testament>h2{display:flex;align-items:center;gap:1rem;margin:0;font:700 clamp(2rem,3.6vw,2.7rem)/1.1 var(--display);letter-spacing:.02em}
+.testament>h2::before{display:none}
+.testament>h2::after{content:"";flex:1;height:.4rem;border-top:2px solid var(--wood);border-bottom:1px solid var(--wood);opacity:.6}
+main section[hidden],.scrolls li[hidden],.tiles li[hidden]{display:none}
+
+/* Ниша раздела: драпировка цвета раздела, внутри на досках лежат свитки. */
+.group{position:relative;overflow:hidden;min-width:0;border:.55rem solid var(--frame);border-radius:1.6rem 1.6rem .3rem .3rem;
+background:linear-gradient(180deg,rgba(40,24,10,0),rgba(40,24,10,.14)),var(--noise),color-mix(in srgb,var(--c) 7%,#CDBB93);
+box-shadow:0 0 0 1px #B9A57D,inset 0 1.1rem 1.6rem -.5rem rgba(35,20,8,.55),inset 1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),inset -1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),0 .7rem 1.1rem -.5rem rgba(50,30,10,.5)}
+.group>h3{position:relative;z-index:3;display:flex;align-items:center;gap:.7rem;margin:0;padding:.65rem 1.3rem .6rem;background:var(--weave),var(--sb);color:var(--sf);font:700 1.45rem/1.15 var(--display);letter-spacing:.02em;filter:drop-shadow(0 .35rem .3rem rgba(25,12,0,.45))}
+.group>h3::after,.book-head::after{content:"";position:absolute;left:0;right:0;top:100%;height:.62rem;background:radial-gradient(circle at 50% 0,var(--sb) 0 .5rem,transparent .52rem) 0 0/1.1rem .62rem repeat-x}
+.emblem{width:1.9rem;height:1.9rem;flex:none;color:var(--sf)}
+
+/* Свиток: пергамент на двух деревянных валиках, на шипах - ленточка цвета раздела, справа - печать с числом уроков. */
+.scrolls{--h:3.4rem;--board:.62rem;display:flex;flex-wrap:wrap;align-items:flex-start;column-gap:1.3rem;row-gap:var(--board);list-style:none;margin:0;padding:1.5rem 1.2rem var(--board);
+background:repeating-linear-gradient(180deg,transparent 0 var(--h),#2C1A0C var(--h) calc(var(--h) + 1px),#8A5A32 calc(var(--h) + 1px) calc(var(--h) + 3px),#6B4426 calc(var(--h) + 3px) calc(var(--h) + var(--board))) 0 0/100% calc(100% + var(--board)) no-repeat;
+background-origin:content-box;background-clip:padding-box}
+.scrolls li{position:relative;height:var(--h);margin:0;padding:0 .95rem;max-width:100%;transition:transform .18s ease;animation:rise .45s ease backwards;animation-delay:calc(var(--i) * 12ms);filter:drop-shadow(0 .18rem .12rem rgba(20,10,0,.4))}
+.scrolls li::before,.scrolls li::after{content:"";position:absolute;top:0;bottom:0;width:.95rem;
+background:radial-gradient(circle at 50% .45rem,#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) top/100% .95rem no-repeat,
+radial-gradient(circle at 50% calc(100% - .45rem),#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) bottom/100% .95rem no-repeat,
+linear-gradient(var(--sb),var(--sb)) 50% 1rem/.56rem .3rem no-repeat,
+linear-gradient(90deg,#3F2614,#B07C48 35%,#7A4E2B 65%,#3F2614) center/.42rem 100% no-repeat}
+.scrolls li::before{left:0}
+.scrolls li::after{right:0}
+.scrolls a,.scrolls li.empty>span{display:flex;align-items:center;gap:.7rem;height:calc(var(--h) - 1rem);margin:.5rem 0;padding:0 .8rem 0 1.25rem;white-space:nowrap;font:700 1.14rem/1 var(--display);letter-spacing:.015em}
+.scrolls a{position:relative;z-index:1;color:var(--ink);text-decoration:none;animation:unroll .4s cubic-bezier(.3,.7,.3,1) backwards;animation-delay:calc(var(--i) * 12ms + 80ms);
+background:linear-gradient(180deg,rgba(104,66,22,.36),rgba(104,66,22,0) 20%,rgba(104,66,22,0) 78%,rgba(104,66,22,.44)),linear-gradient(rgba(255,248,226,.5),rgba(255,248,226,.5)),url(img/parchment.webp) #EBD8A8;
+box-shadow:inset 0 0 .7rem rgba(120,80,25,.4)}
+.scrolls a::before,.scrolls a::after{content:"";position:absolute;top:0;bottom:0;width:1.15rem;border-radius:.5rem;
+background:repeating-linear-gradient(90deg,rgba(90,60,20,.2) 0 1px,transparent 1px 3px),linear-gradient(90deg,#8E6D3A 0,#E8D3A0 30%,#F5E8C4 50%,#D8BF86 76%,#7F5F2E 100%);box-shadow:0 0 .35rem rgba(60,35,10,.5)}
+.scrolls a::before{left:-.62rem}
+.scrolls a::after{right:-.62rem}
+.scrolls li:hover,.scrolls li:has(a:focus-visible){transform:translateY(-.22rem)}
+.scrolls a:focus-visible{outline-offset:.6rem}
+.scrolls .count{position:relative;z-index:2;display:grid;place-items:center;min-width:1.85rem;height:1.85rem;padding:0 .3rem;border-radius:52% 48% 55% 45%/48% 55% 45% 52%;
+background:radial-gradient(circle at 35% 30%,var(--sb),color-mix(in srgb,var(--sb) 72%,#000));color:var(--sf);font:700 .9rem/1 var(--sans);letter-spacing:0;box-shadow:inset 0 1px 1px rgba(255,255,255,.4),0 .1rem .2rem rgba(0,0,0,.4)}
+.scrolls li.empty{padding:0 .3rem}
+.scrolls li.empty::before,.scrolls li.empty::after{display:none}
+.scrolls li.empty>span{border:1.5px dashed rgba(63,38,20,.65);border-radius:.4rem;color:var(--ink2);background:rgba(255,248,230,.22)}
+@keyframes unroll{from{clip-path:inset(0 50%)}to{clip-path:inset(0 0)}}
+@keyframes rise{from{opacity:0;transform:translateY(.6rem)}to{opacity:1;transform:none}}
+
+/* Страница книги: драпировка с названием и бирки уроков. */
+.book-head{position:relative;display:flex;align-items:center;gap:1.3rem;margin:0 0 2.2rem;padding:1.4rem 1.7rem;border-radius:.4rem .4rem 0 0;background:var(--weave),var(--sb);color:var(--sf);filter:drop-shadow(0 .45rem .35rem rgba(25,12,0,.4))}
+.book-head .emblem{width:4.2rem;height:4.2rem}
+.book-head h1{margin:0;color:var(--sf);font:700 clamp(2rem,4.4vw,3.1rem)/1.05 var(--display)}
+.meta{margin:.35rem 0 0;font:700 1.05rem/1.4 var(--sans);color:var(--sf)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));gap:.9rem;list-style:none;padding:0;margin:0 0 1rem}
+.tiles li{margin:0}
+.tiles a{display:flex;align-items:center;height:100%;min-height:4.6rem;padding:.85rem 1rem .85rem 1.2rem;border-left:.5rem solid var(--sb);border-radius:.35rem;color:var(--ink);font:700 1.1rem/1.3 var(--serif);text-decoration:none;
+background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),url(img/parchment.webp) var(--parch);box-shadow:inset 0 0 .7rem rgba(120,85,35,.28),0 .15rem 0 #B9A276,0 .6rem .9rem -.5rem rgba(60,40,15,.55);transition:transform .15s}
+.tiles a:hover{transform:translateY(-.15rem)}
+.tiles .chapters{display:block;margin-top:.3rem;color:var(--cdd);font:700 .95rem/1.3 var(--sans)}
+
+/* Урок: содержание, кнопки. */
+.toc{margin:0 0 1.4rem;padding:.2rem 1.1rem;border:1px solid #D9C89E;border-radius:.3rem;background:#FFFBEC;font:400 1.02rem/1.5 var(--sans)}
+.toc summary{display:flex;align-items:center;min-height:44px;cursor:pointer;font-weight:700}
+.toc ol{margin:.3rem 0 .7rem;padding-left:1.4rem}
+.toc li::marker{color:var(--cdd);font-weight:700}
+.toc a{color:var(--ink);text-decoration:none}
+.toc a:hover{color:var(--cdd);text-decoration:underline}
+.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
+background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.btn:hover,details.download summary:hover{background-color:#F6E9C2}
+.btn.primary{background:var(--weave),var(--sb);border-color:color-mix(in srgb,var(--sb) 60%,#000);color:var(--sf)}
+.btn.primary:hover{background:var(--weave),color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3.5rem}
+.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;padding:.8rem 1rem;text-align:left}
+.pager .pager-next{align-items:flex-end;text-align:right}
+.pager .pager-section{align-items:center;justify-content:center;text-align:center}
+.pager .dir{font-size:.9rem;font-weight:700}
+.pager .name{font:700 1.05rem/1.3 var(--serif);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
+details.download{position:relative}
+details.download summary{list-style:none}
+details.download summary::-webkit-details-marker{display:none}
+details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;padding:.3rem;background:var(--sheet);border:1px solid #BFA97E;border-radius:.3rem;box-shadow:0 12px 28px -12px rgba(40,25,10,.55)}
+details.download .menu a{display:flex;align-items:center;min-height:44px;padding:.45rem .8rem;border-radius:.2rem;color:var(--ink);text-decoration:none}
+details.download .menu a:hover{background:#F0E3BE}
+
+/* Плавающие кнопки. */
+.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;pointer-events:none;z-index:25}
+.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;border-radius:50%;background:var(--sb);color:var(--sf);font:700 1.3rem/1 var(--sans);text-decoration:none;cursor:pointer;box-shadow:inset 0 1px 1px rgba(255,255,255,.35),0 8px 20px -6px rgba(40,25,10,.6)}
+.fab:hover{background:color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.fab.next{margin-left:auto}
+.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .2s,transform .2s,visibility .2s;pointer-events:auto;z-index:25}
+.fab.top.visible{opacity:1;visibility:visible;transform:none}
+.credits{max-width:68rem;margin:0 auto;padding:1.2rem 2.4rem 1.5rem;font:400 .95rem/1.5 var(--sans);color:var(--ink);background:var(--stone);border-inline:1.1rem solid #A98B5E}
+@media(max-width:1180px){.credits{padding-inline:1.25rem;border-inline-width:.5rem}}
+
+/* Скачанный документ без декора. */
+body.plain{background:#fff}
+body.plain::before{display:none}
+body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
+body.plain main::before{display:none}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+@media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
+@media(max-width:640px){
+body{font-size:1.12rem}
+:root{--px:1.1rem;--py:1.4rem}
+main:not(.wide){margin:0 auto 5rem;border-radius:0}
+.pager{grid-template-columns:1fr}.pager>span{display:none}
+.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}
+.fab{width:2.75rem;height:2.75rem}.fab.prev,.fab.next{display:none}.fab.top{bottom:1rem;right:.5rem}
+.testament{gap:2rem}
+.group{border-width:.4rem;border-radius:1.2rem 1.2rem .25rem .25rem}
+.group>h3{padding:.55rem 1rem .5rem;font-size:1.3rem}
+.scrolls{--h:3.9rem;column-gap:.8rem;padding:1.4rem .55rem var(--board)}
+.scrolls li{padding:0 .8rem}
+.scrolls li::before,.scrolls li::after{width:.8rem}
+.scrolls a,.scrolls li.empty>span{gap:.5rem;padding:0 .55rem 0 1rem;font-size:1rem}
+.scrolls a::before,.scrolls a::after{width:1rem}
+.scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
+.scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
+.book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
+@media(max-height:500px){header.top{position:static}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+@media print{body{background:#fff}body::before{display:none}header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+</style>
+</head>
+<body class="plain">
+<main>
+<h1>Чис. 12–14</h1>
+<h2 id="s1">4.1) Предназначение народа Божьего – познание и передача Слово Божье, Завета, Христос, Ханаан, Всемирная Евангелизация, ученики, приход Христа. Рим. 3:2 Быт. 1:27,2:7,17 (Быт. 3:1-7, - Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h2>
+<blockquote><p>Великое преимущество во всех отношениях, а наипаче <em>в</em> <em>том,</em> что им вверено слово Божие.</p><cite>Рим. 3:2</cite></blockquote>
+<blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
+<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
+<blockquote><p>а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:17</cite></blockquote>
+<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
+<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
+<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
+<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
+<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
+<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
+<h2 id="s2">2) Чис. 12, - непонимание Божьего суверенитета</h2>
+<h3>(1) Чис. 12:1-3, - грех. сущ., зависть, тщеславие (Мариамь, Аарон)</h3>
+<blockquote><p>И упрекали Мариам и Аарон Моисея за жену Ефиоплянку, которую он взял, -- ибо он взял <em>за</em> <em>себя</em> Ефиоплянку, -- и сказали: одному ли Моисею говорил Господь? не говорил ли Он и нам? И услышал <em>сие</em> Господь. Моисей же был человек кротчайший из всех людей на земле.</p><cite>Чис. 12:1-3</cite></blockquote>
+<h3>(2) Чис. 12:4-8, - Божий суверенитет, избрание человека, Бог план</h3>
+<blockquote><p>И сказал Господь внезапно Моисею и Аарону и Мариами: выйдите вы трое к скинии собрания. И вышли все трое. И сошел Господь в облачном столпе, и стал у входа скинии, и позвал Аарона и Мариам, и вышли они оба. И сказал: слушайте слова Мои: если бывает у вас пророк Господень, то Я открываюсь ему в видении, во сне говорю с ним; но не так с рабом Моим Моисеем, -- он верен во всем дому Моем: устами к устам говорю Я с ним, и явно, а не в гаданиях, и образ Господа он видит; как же вы не убоялись упрекать раба Моего, Моисея?</p><cite>Чис. 12:4-8</cite></blockquote>
+<h3>(3) Чис. 12:9-15, - Божье наказание, проказа 7 дней, важность рассуждение над Слово Божье для человека. Евр. 12:5-11</h3>
+<blockquote><p>И воспламенился гнев Господа на них, и Он отошел. И облако отошло от скинии, и вот, Мариам покрылась проказою, как снегом. Аарон взглянул на Мариам, и вот, она в проказе. И сказал Аарон Моисею: господин мой! не поставь нам в грех, что мы поступили глупо и согрешили; не попусти, чтоб она была, как мертворожденный <em>младенец,</em> у которого, когда он выходит из чрева матери своей, истлела уже половина тела. И возопил Моисей к Господу, говоря: Боже, исцели ее! И сказал Господь Моисею: если бы отец ее плюнул ей в лице, то не должна ли была бы она стыдиться семь дней? итак пусть будет она в заключении семь дней вне стана, а после опять возвратится. И пробыла Мариам в заключении вне стана семь дней, и народ не отправлялся в путь, доколе не возвратилась Мариам.</p><cite>Чис. 12:9-15</cite></blockquote>
+<blockquote><p>и забыли утешение, которое предлагается вам, как сынам: сын мой! не пренебрегай наказания Господня, и не унывай, когда Он обличает тебя. Ибо Господь, кого любит, того наказывает; бьет же всякого сына, которого принимает. Если вы терпите наказание, то Бог поступает с вами, как с сынами. Ибо есть ли какой сын, которого бы не наказывал отец? Если же остаетесь без наказания, которое всем обще, то вы незаконные дети, а не сыны. Притом, <em>если</em> мы, будучи наказываемы плотскими родителями нашими, боялись их, то не гораздо ли более должны покориться Отцу духов, чтобы жить? Те наказывали нас по своему произволу для немногих дней; а Сей -- для пользы, чтобы нам иметь участие в святости Его. Всякое наказание в настоящее время кажется не радостью, а печалью; но после наученным через него доставляет мирный плод праведности.</p><cite>Евр. 12:5-11</cite></blockquote>
+<h4>(а) Проказа – прообраз греха и греховной сущности человека</h4>
+<h4>(б) Аарон – Первосвященник, прообраз Христа, невозможность получение проказы</h4>
+<h2 id="s3">3) Чис. 13, - важность Слово Божье, Завета, Христос</h2>
+<h3>(1) Чис. 13:1-26, - важность понимания Слово Божье, Завета, Христос</h3>
+<blockquote><p>После сего народ двинулся из Асирофа, и остановился в пустыне Фаран. И сказал Господь Моисею, говоря: пошли от себя людей, чтобы они высмотрели землю Ханаанскую, которую Я даю сынам Израилевым; по одному человеку от колена отцов их пошлите, главных из них. И послал их Моисей из пустыни Фаран, по повелению Господню, и все они мужи главные у сынов Израилевых. Вот имена их: из колена Рувимова Саммуа, сын Закхуров, из колена Симеонова Сафат, сын Хориев, из колена Иудина Халев, сын Иефонниин, из колена Иссахарова Игал, сын Иосифов, из колена Ефремова Осия, сын Навин, из колена Вениаминова Фалтий, сын Рафуев, из колена Завулонова Гаддиил, сын Содиев, из колена Иосифова от Манассии Гаддий, сын Сусиев, из колена Данова Аммиил, сын Гемаллиев, из колена Асирова Сефур, сын Михаилев, из колена Неффалимова Нахбий, сын Вофсиев, из колена Гадова Геуил, сын Махиев. Вот имена мужей, которых посылал Моисей высмотреть землю. И назвал Моисей Осию, сына Навина, Иисусом. И послал их Моисей высмотреть землю Ханаанскую и сказал им: пойдите в эту южную страну, и взойдите на гору, и осмотрите землю, какова она, и народ живущий на ней, силен ли он или слаб, малочислен ли он или многочислен? и какова земля, на которой он живет, хороша ли она или худа? и каковы города, в которых он живет, в шатрах ли он живет или в укреплениях? и какова земля, тучна ли она или тоща? есть ли на <em>ней</em> дерева или нет? будьте смелы, и возьмите от плодов земли. Было же это ко времени созревания винограда. Они пошли и высмотрели землю от пустыни Син даже до Рехова, близ Емафа; и пошли в южную страну, и дошли до Хеврона, где жили Ахиман, Сесай и Фалмай, дети Енаковы: Хеврон же построен был семью годами прежде Цоана, Египетского; и пришли к долине Есхол, и срезали там виноградную ветвь с одною кистью ягод, и понесли ее на шесте двое; <em>взяли</em> также гранатовых яблок и смокв; место сие назвали долиною Есхол, по причине виноградной кисти, которую срезали там сыны Израилевы. И высмотрев землю, возвратились они через сорок дней.</p><cite>Чис. 13:1-26</cite></blockquote>
+<h4>(а) Чис. 13:1-3, - важность понимания значения Ханаана. (Исполнение Слово Божье, Завета, Христос, важность прихода Христа)</h4>
+<blockquote><p>После сего народ двинулся из Асирофа, и остановился в пустыне Фаран. И сказал Господь Моисею, говоря: пошли от себя людей, чтобы они высмотрели землю Ханаанскую, которую Я даю сынам Израилевым; по одному человеку от колена отцов их пошлите, главных из них.</p><cite>Чис. 13:1-3</cite></blockquote>
+<h4>(б) Чис. 13:4-25, - соглядатаи, лидеры народа Божьего</h4>
+<blockquote><p>И послал их Моисей из пустыни Фаран, по повелению Господню, и все они мужи главные у сынов Израилевых. Вот имена их: из колена Рувимова Саммуа, сын Закхуров, из колена Симеонова Сафат, сын Хориев, из колена Иудина Халев, сын Иефонниин, из колена Иссахарова Игал, сын Иосифов, из колена Ефремова Осия, сын Навин, из колена Вениаминова Фалтий, сын Рафуев, из колена Завулонова Гаддиил, сын Содиев, из колена Иосифова от Манассии Гаддий, сын Сусиев, из колена Данова Аммиил, сын Гемаллиев, из колена Асирова Сефур, сын Михаилев, из колена Неффалимова Нахбий, сын Вофсиев, из колена Гадова Геуил, сын Махиев. Вот имена мужей, которых посылал Моисей высмотреть землю. И назвал Моисей Осию, сына Навина, Иисусом. И послал их Моисей высмотреть землю Ханаанскую и сказал им: пойдите в эту южную страну, и взойдите на гору, и осмотрите землю, какова она, и народ живущий на ней, силен ли он или слаб, малочислен ли он или многочислен? и какова земля, на которой он живет, хороша ли она или худа? и каковы города, в которых он живет, в шатрах ли он живет или в укреплениях? и какова земля, тучна ли она или тоща? есть ли на <em>ней</em> дерева или нет? будьте смелы, и возьмите от плодов земли. Было же это ко времени созревания винограда. Они пошли и высмотрели землю от пустыни Син даже до Рехова, близ Емафа; и пошли в южную страну, и дошли до Хеврона, где жили Ахиман, Сесай и Фалмай, дети Енаковы: Хеврон же построен был семью годами прежде Цоана, Египетского; и пришли к долине Есхол, и срезали там виноградную ветвь с одною кистью ягод, и понесли ее на шесте двое; <em>взяли</em> также гранатовых яблок и смокв; место сие назвали долиною Есхол, по причине виноградной кисти, которую срезали там сыны Израилевы.</p><cite>Чис. 13:4-25</cite></blockquote>
+<h4>(в) Чис. 13:26, - сорок дней в Ханаане, важность рассуждения над Слово Божье, Заветом, Христос, понимание права выбора человека</h4>
+<blockquote><p>И высмотрев землю, возвратились они через сорок дней.</p><cite>Чис. 13:26</cite></blockquote>
+<h3>(2) Чис. 13:27-34, - 10 соглядатаев, непринятие Слово Божье, Завета, Христос</h3>
+<blockquote><p>И пошли и пришли к Моисею и Аарону и ко всему обществу сынов Израилевых в пустыню Фаран, в Кадес, и принесли им и всему обществу ответ, и показали им плоды земли; и рассказывали ему и говорили: мы ходили в землю, в которую ты посылал нас; в ней подлинно течет молоко и мед, и вот плоды ее; но народ, живущий на земле той, силен, и города укрепленные, весьма большие, и сынов Енаковых мы видели там; Амалик живет на южной части земли, Хеттеи, Иевусеи и Аморреи живут на горе, Хананеи же живут при море и на берегу Иордана. Но Халев успокаивал народ пред Моисеем, говоря: пойдем и завладеем ею, потому что мы можем одолеть ее. А те, которые ходили с ним, говорили: не можем мы идти против народа сего, ибо он сильнее нас. И распускали худую молву о земле, которую они осматривали, между сынами Израилевыми, говоря: земля, которую проходили мы для осмотра, есть земля, поедающая живущих на ней, и весь народ, который видели мы среди ее, люди великорослые; там видели мы и исполинов, сынов Енаковых, от исполинского рода; и мы были в глазах наших <em>пред</em> <em>ними,</em> как саранча, такими же были мы и в глазах их.</p><cite>Чис. 13:27-34</cite></blockquote>
+<h4>(а) Плотской взгляд на Ханаан – видимые ответы</h4>
+<h4>(б) Нежелание рисковать жизнью ради видимого</h4>
+<h4>(в) Нет понимания важности исполнения Слово Божье, Завета, Христос</h4>
+<h3>(3) Чис. 13:31, - Халев и Иисус Навин, принятие Слово Божье, Завета, Христос</h3>
+<blockquote><p>Но Халев успокаивал народ пред Моисеем, говоря: пойдем и завладеем ею, потому что мы можем одолеть ее.</p><cite>Чис. 13:31</cite></blockquote>
+<h4>(а) Духовный взгляд на Ханаан – важность исполнения воли Бог</h4>
+<h4>(б) Готовность жертвовать жизнью ради исполнения воли Бог</h4>
+<h4>(в) Понимание важности исполнения Слово Божье, Завета, Христос, спасение</h4>
+<h2 id="s4">4) Чис. 14, - непринятие Слово Божье, Завета, Христос</h2>
+<h3>(1) Чис. 14:1-4, - ропот народа, желание возвращения в Египет (прообраз мира), непринятие Слово Божье, Завета, Христос, выбор человек</h3>
+<blockquote><p>И подняло все общество вопль, и плакал народ во ту ночь; и роптали на Моисея и Аарона все сыны Израилевы, и все общество сказало им: о, если бы мы умерли в земле Египетской, или умерли бы в пустыне сей! и для чего Господь ведет нас в землю сию, чтобы мы пали от меча? жены наши и дети наши достанутся в добычу <em>врагам;</em> не лучше ли нам возвратиться в Египет? И сказали друг другу: поставим себе начальника и возвратимся в Египет.</p><cite>Чис. 14:1-4</cite></blockquote>
+<h3>(2) Чис. 14:5-9, - Халев и Иисус Навин, принятие Слово Божье, Завета, Христос</h3>
+<blockquote><p>И пали Моисей и Аарон на лица свои пред всем собранием общества сынов Израилевых. И Иисус, сын Навин, и Халев, сын Иефонниин, из осматривавших землю, разодрали одежды свои и сказали всему обществу сынов Израилевых: земля, которую мы проходили для осмотра, очень, очень хороша; если Господь милостив к нам, то введет нас в землю сию и даст нам ее -- эту землю, в которой течет молоко и мед; только против Господа не восставайте и не бойтесь народа земли сей; ибо он достанется нам на съедение: защиты у них не стало, а с нами Господь; не бойтесь их.</p><cite>Чис. 14:5-9</cite></blockquote>
+<h3>(3) Чис. 14:10, - желание убить Моисея, Аарона, Иисуса Навина и Халева, непринятие Слово Божье, Завета, Христос, действие сатана</h3>
+<blockquote><p>И сказало все общество: побить их камнями! Но слава Господня явилась в скинии собрания всем сынам Израилевым.</p><cite>Чис. 14:10</cite></blockquote>
+<h3>(4) Чис. 14:11-20, - Моисей, ходатайство за народ, прообраз Христа</h3>
+<blockquote><p>И сказал Господь Моисею: доколе будет раздражать Меня народ сей? и доколе будет он не верить Мне при всех знамениях, которые делал Я среди его? поражу его язвою и истреблю его и произведу от тебя народ многочисленнее и сильнее его. Но Моисей сказал Господу: услышат Египтяне, из среды которых Ты силою Твоею вывел народ сей, и скажут жителям земли сей, которые слышали, что Ты, Господь, находишься среди народа сего, и что Ты, Господь, даешь им видеть Себя лицем к лицу, и облако Твое стоит над ними, и Ты идешь пред ними днем в столпе облачном, а ночью в столпе огненном; и если Ты истребишь народ сей, как одного человека, то народы, которые слышали славу Твою, скажут: Господь не мог ввести народ сей в землю, которую Он с клятвою обещал ему, а потому и погубил его в пустыне. Итак да возвеличится сила Господня, как Ты сказал, говоря: Господь долготерпелив и многомилостив , прощающий беззакония и преступления , и не оставляющий без наказания, но наказывающий беззаконие отцов в детях до третьего и четвертого рода. Прости грех народу сему по великой милости Твоей, как Ты прощал народ сей от Египта доселе. И сказал Господь : прощаю по слову твоему;</p><cite>Чис. 14:11-20</cite></blockquote>
+<h3>(5) Чис. 14:21-35, - непринятие Слово Божье, Завета, Христос</h3>
+<blockquote><p>но жив Я, и славы Господней полна вся земля: все, которые видели славу Мою и знамения Мои, сделанные Мною в Египте и в пустыне, и искушали Меня уже десять раз, и не слушали гласа Моего, не увидят земли, которую Я с клятвою обещал отцам их; все, раздражавшие Меня, не увидят ее; но раба Моего, Халева, за то, что в нем был иной дух, и он совершенно повиновался Мне, введу в землю, в которую он ходил, и семя его наследует ее; Амаликитяне и Хананеи живут в долине; завтра обратитесь и идите в пустыню к Чермному морю. И сказал Господь Моисею и Аарону, говоря: доколе злому обществу сему роптать на Меня? ропот сынов Израилевых, которым они ропщут на Меня, Я слышу. Скажи им: живу Я, говорит Господь: как говорили вы вслух Мне, так и сделаю вам; в пустыне сей падут тела ваши, и все вы исчисленные, сколько вас числом, от двадцати лет и выше, которые роптали на Меня, не войдете в землю, на которой Я, подъемля руку Мою, <em>клялся</em> поселить вас, кроме Халева, сына Иефонниина, и Иисуса, сына Навина; детей ваших, о которых вы говорили, что они достанутся в добычу <em>врагам,</em> Я введу <em>туда,</em> и они узнают землю, которую вы презрели, а ваши трупы падут в пустыне сей; а сыны ваши будут кочевать в пустыне сорок лет, и будут нести <em>наказание</em> за блудодейство ваше, доколе не погибнут все тела ваши в пустыне; по числу сорока дней, в которые вы осматривали землю, вы понесете наказание за грехи ваши сорок лет, год за день, дабы вы познали, <em>что</em> <em>значит</em> быть оставленным Мною. Я, Господь, говорю, и так и сделаю со всем сим злым обществом, восставшим против Меня: в пустыне сей все они погибнут и перемрут.</p><cite>Чис. 14:21-35</cite></blockquote>
+<h4>(а) Божье наказание, сорок лет в пустыне, рассуждение над Слово Божье</h4>
+<h4>(б) Нет участия в Ханаане, Всемирная Евангелизация, гибель</h4>
+<h3>(6) Чис. 14:36-37, - непринятие Слово Божье, Завета, Христос, гибель</h3>
+<blockquote><p>И те, которых посылал Моисей для осмотрения земли, и которые, возвратившись, возмутили против него все сие общество, распуская худую молву о земле, сии, распустившие худую молву о земле, умерли, быв поражены пред Господом;</p><cite>Чис. 14:36-37</cite></blockquote>
+<h3>(7) Чис. 14:38 (24,30), - принятие Слово Божье, Завета, Христос, спасение, участие в Ханаане, Всемирная Евангелизация, подготовка прихода Христа</h3>
+<blockquote><p>только Иисус, сын Навин, и Халев, сын Иефонниин, остались живы из тех мужей, которые ходили осматривать землю.</p><cite>Чис. 14:38</cite></blockquote>
+<blockquote><p>не войдете в землю, на которой Я, подъемля руку Мою, <em>клялся</em> поселить вас, кроме Халева, сына Иефонниина, и Иисуса, сына Навина;</p><cite>Чис. 14:30</cite></blockquote>
+<h3>(8) Чис. 14:39-45, - непринятие Слово Божье, Завета, Христос, попытка участия в Ханаане своими силами, гибель</h3>
+<blockquote><p>И сказал Моисей слова сии пред всеми сынами Израилевыми, и народ сильно опечалился. И, встав рано поутру, пошли на вершину горы, говоря: вот, мы пойдем на то место, о котором сказал Господь, ибо мы согрешили. Моисей сказал: для чего вы преступаете повеление Господне? это будет безуспешно; не ходите, ибо нет среди вас Господа, чтобы не поразили вас враги ваши; ибо Амаликитяне и Хананеи там пред вами, и вы падете от меча, потому что вы отступили от Господа, и не будет с вами Господа. Но они дерзнули подняться на вершину горы; ковчег же завета Господня и Моисей не оставляли стана. И сошли Амаликитяне и Хананеи, живущие на горе той, и разбили их, и гнали их до Хормы,</p><cite>Чис. 14:39-45</cite></blockquote>
+<h2 id="s5">Заключение:</h2>
+<h3>(1) Важность народа Бог – познание и передача Слово Божье, Завета, Христос (Понимания предназначения – Ханаан, ученики, Всемирная Евангелизация)</h3>
+<h3>(2) Действие сатана – остановить передачу Слово Божье, Завета, Христос (Обстоятельства, служителя, близкие люди)</h3>
+<h3>(3) Совершение Всемирная Евангелизация, Ханаан, приход Христос – Бог суверенитет. (С нами или без нас – лучше принимать участие)</h3>
+</main>
+</body>
+</html>

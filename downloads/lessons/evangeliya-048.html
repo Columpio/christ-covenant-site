@@ -3,433 +3,250 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>46. Обзор Евангелий, важность правильного понимание Христа, исполнение пророчеств В.З</title>
+<title>43. Ин. 18–19: Гефсиманский сад, суд и смерть Христа</title>
 <style>
-:root{--bg:#faf7f2;--fg:#2b2622;--muted:#7a6f66;--accent:#8a4b2a;--card:#fff;--line:#e6ddd2;--quote:#f3ece2}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+:root{color-scheme:light;
+--ink:#2A1C0D;--ink2:#5A4630;--stone:#E6D8BA;--parch:#EBDAB0;--sheet:#FAF3E0;--wood:#6B4426;--frame:#F1E7CE;
+--c:#2F5DA8;--cd:#2F5DA8;--sb:#2F5DA8;--sf:#FFFFFF;--mix:#000;
+--display:"Cormorant SC","Cormorant Garamond",Georgia,serif;--uni:"Cormorant Unicase","Cormorant SC",Georgia,serif;
+--serif:"Alegreya","PT Serif",Georgia,serif;--sans:"Alegreya Sans","Segoe UI",system-ui,sans-serif;
+--canon:linear-gradient(90deg,#2F5DA8 0 10%,#D8951A 10% 20%,#C2366B 20% 30%,#1F8A5B 30% 40%,#138F8F 40% 50%,#E0562C 50% 60%,#E8801E 60% 70%,#2F8FCF 70% 80%,#6C4BB6 80% 90%,#8E3B8A 90%);
+--noise:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .30 0 0 0 0 .21 0 0 0 0 .10 0 0 0 .22 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+--weave:repeating-linear-gradient(90deg,rgba(255,255,255,.11) 0 2px,rgba(0,0,0,.07) 2px 4px);
+--cdd:color-mix(in srgb,var(--cd) 55%,var(--ink));
+--px:2.4rem;--py:2.2rem}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.6 Georgia,"PT Serif","Times New Roman",serif}
-a{color:var(--accent)}
-header.top{position:sticky;top:0;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:1rem;
-padding:.6rem 1.25rem;background:var(--card);border-bottom:1px solid var(--line);font:15px/1.4 system-ui,sans-serif}
-.crumbs a{text-decoration:none}
-main{max-width:46rem;margin:0 auto;padding:1.5rem 1.25rem 7rem}
-main.wide{max-width:64rem}
-h1{font-size:1.6rem;line-height:1.25;margin:.5rem 0 1rem}
-h2{font-size:1.3rem;line-height:1.3;margin:1.8rem 0 .6rem}
-h3{font-size:1.12rem;line-height:1.35;margin:1.4rem 0 .5rem}
-h4{font-size:1rem;line-height:1.4;margin:1.1rem 0 .4rem}
-ul{padding-left:1.25rem}
-li{margin:.2rem 0}
-blockquote{margin:.6rem 0 1rem;padding:.7rem 1rem;background:var(--quote);border-left:3px solid var(--accent);
-border-radius:0 6px 6px 0;font-size:.95em}
+html{scroll-padding-top:4.5rem;overflow-x:clip}
+body{margin:0;overflow-x:clip;color:var(--ink);font:400 1.2rem/1.65 var(--serif);-webkit-font-smoothing:antialiased;min-height:100vh;
+background:#2B190C url(img/shelves.svg) 50% 0/520px 960px repeat}
+/* Свет и глубина над стеллажами: утренний луч слева сверху, виньетка по краям; на внутренних страницах темнее. */
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+background:linear-gradient(115deg,rgba(255,226,160,.5),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 45%,rgba(20,10,4,.6) 100%),rgba(30,18,8,.12)}
+body:not(.home)::before{background:linear-gradient(115deg,rgba(255,226,160,.28),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 40%,rgba(20,10,4,.55) 100%),rgba(30,18,8,.5)}
+a{color:var(--cdd)}
+.sprite{position:absolute;width:0;height:0;overflow:hidden}
+.skip{position:absolute;left:-999px;top:0;z-index:40;padding:.7rem 1.1rem;background:var(--ink);color:#fff;font:700 1rem var(--sans)}
+.skip:focus{left:.5rem;top:.5rem}
+a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible{outline:3px solid var(--ink);outline-offset:3px;border-radius:6px}
+
+/* Шапка: полоса цветов канона, на страницах книги - цвет её раздела. */
+header.top{position:sticky;top:0;z-index:30;background:rgba(247,239,218,.95);backdrop-filter:blur(6px);border-bottom:1px solid #BFA97E;box-shadow:0 .4rem .8rem -.5rem rgba(50,30,10,.45);font:700 1.02rem/1.4 var(--sans)}
+header.top::before{content:"";display:block;height:4px;background:var(--canon)}
+body[style] header.top::before{background:var(--c)}
+header.top .bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;max-width:44rem;margin:0 auto;padding:0 1.25rem}
+header.top.wide .bar{max-width:68rem}
+.crumbs{min-width:0;color:var(--ink2)}
+.crumbs a{display:inline-flex;align-items:center;min-height:44px;padding:0 .3rem;color:var(--ink);text-decoration:none}
+.crumbs a:hover{color:var(--cdd);text-decoration:underline;text-underline-offset:.25em}
+
+main{max-width:44rem;margin:0 auto;padding:2rem 1.25rem 7rem}
+main.wide{max-width:68rem;position:relative;margin:0 auto;padding:2rem 2.4rem 7rem;
+background:var(--noise),linear-gradient(90deg,rgba(60,38,16,.18),rgba(60,38,16,0) 6%,rgba(60,38,16,0) 94%,rgba(60,38,16,.18)),var(--stone);
+border-inline:1.1rem solid #A98B5E;
+box-shadow:inset .5rem 0 .8rem -.3rem rgba(50,30,10,.45),inset -.5rem 0 .8rem -.3rem rgba(50,30,10,.45),0 0 3rem 1rem rgba(15,8,3,.7)}
+.muted{color:var(--ink2)}
+
+/* Страница урока - лист пергамента на каменной стене; под текстом нет фактуры. */
+main:not(.wide){position:relative;margin:1.6rem auto 6rem;padding:var(--py) var(--px) 2.6rem;background:var(--sheet);border-radius:.3rem;
+box-shadow:inset 0 0 0 1px rgba(150,115,60,.4),inset 0 0 2.4rem rgba(150,115,60,.2),0 1.4rem 2.4rem -1rem rgba(40,25,10,.65)}
+main:not(.wide)::before{content:"";display:block;height:.55rem;margin:calc(var(--py) * -1) calc(var(--px) * -1) 1.6rem;border-radius:.3rem .3rem 0 0;background:var(--weave),var(--sb)}
+h1{font:700 clamp(1.8rem,3.4vw,2.4rem)/1.15 var(--display);letter-spacing:.015em;margin:.4rem 0 1.2rem}
+h2{font:700 1.6rem/1.25 var(--display);letter-spacing:.015em;margin:2.6rem 0 .8rem}
+h2::before{content:"";display:inline-block;width:.5em;height:.5em;margin:0 .55em .12em 0;background:var(--sb);border-radius:2px;transform:rotate(45deg)}
+h3{font:700 1.16rem/1.45 var(--serif);margin:1.6rem 0 .5rem}
+h4{font:italic 600 1.1rem/1.4 var(--serif);margin:1.2rem 0 .4rem}
+ul{padding-left:1.3rem}
+li{margin:.25rem 0}
+li::marker{color:var(--sb)}
+blockquote{margin:.9rem 0 1.3rem;padding:.9rem 1.2rem 1rem;background:#FFFBEC;border:1px solid #E2D2A8;border-left:.32rem solid var(--sb);border-radius:.2rem;box-shadow:0 .2rem 0 #E6D8B4,0 .7rem 1rem -.7rem rgba(60,40,15,.5);font-size:1.08rem}
 blockquote p{margin:0}
-blockquote cite{display:block;margin-top:.3rem;font:normal .8em/1.4 system-ui,sans-serif;color:var(--muted)}
-.muted{color:var(--muted)}
-.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:.6rem;list-style:none;padding:0;margin:0 0 1rem}
-.tiles.wide{grid-template-columns:repeat(auto-fill,minmax(15rem,1fr))}
+blockquote cite{display:block;margin-top:.4rem;font:700 .92rem/1.4 var(--sans);font-style:normal;color:var(--cdd)}
+
+/* Главная: зал. Утренний свет из окна, лампады, ниши со свитками. */
+.hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.lead{max-width:34rem;margin:0;font:400 1.25rem/1.5 var(--serif);color:var(--ink)}
+.scene{position:relative;width:17rem;height:19rem;justify-self:end}
+.window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
+background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
+box-shadow:0 0 0 .55rem var(--frame),0 0 0 .7rem #B9A57D,inset 0 1.2rem 1.6rem -.4rem rgba(40,25,10,.55),inset 1rem 0 1.2rem -.8rem rgba(40,25,10,.4)}
+.window::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent calc(50% - .2rem),#4A2D18 calc(50% - .2rem) calc(50% + .2rem),transparent calc(50% + .2rem)),linear-gradient(180deg,transparent 50%,#4A2D18 50% calc(50% + .4rem),transparent calc(50% + .4rem))}
+.sill{position:absolute;left:0;right:0;bottom:0;height:1.2rem;border-radius:.25rem .25rem .5rem .5rem;background:linear-gradient(180deg,#F6EDD3,#D6C5A0 55%,#B9A57D);box-shadow:0 .7rem .9rem -.4rem rgba(40,25,10,.55)}
+.sill>*{position:absolute;bottom:100%;margin-bottom:-.2rem}
+.sill img{display:block;width:100%;height:auto;filter:drop-shadow(.3rem .35rem .25rem rgba(40,25,10,.45))}
+.jar{left:1.2rem;width:3.1rem}
+.lamp{left:4.9rem;width:6.2rem}
+.ink{left:11.7rem;width:3.4rem}
+.glow{position:absolute;left:88%;top:66%;width:15rem;height:15rem;transform:translate(-50%,-50%);border-radius:50%;pointer-events:none;
+background:radial-gradient(circle,rgba(255,196,96,.62),rgba(255,160,60,.2) 38%,rgba(255,150,50,0) 68%);animation:glow 3.4s ease-in-out infinite}
+.flame{position:absolute;left:88.5%;top:67%;width:.75rem;height:1.35rem;transform:translate(-50%,-92%);transform-origin:50% 100%;border-radius:50% 50% 50% 50%/70% 70% 30% 30%;
+background:radial-gradient(ellipse at 50% 72%,#FFF8D0 0 18%,#FFD060 42%,#FF9A2A 72%,rgba(255,110,20,0) 100%);filter:blur(.4px);animation:flicker 2.7s ease-in-out infinite}
+.reed{position:absolute;left:46%;top:24%;width:.28rem;height:6.4rem;transform:translate(-50%,-100%) rotate(17deg);transform-origin:50% 100%;
+background:linear-gradient(90deg,#6E4F1E,#D9B866 45%,#8A6428);clip-path:polygon(0 0,100% 0,100% 94%,50% 100%,0 94%)}
+.rays{position:absolute;right:7rem;top:3rem;width:1px;height:1px;pointer-events:none;z-index:2}
+.rays i{position:absolute;top:0;right:0;width:8rem;height:48rem;transform-origin:100% 0;transform:rotate(var(--a));filter:blur(8px);mix-blend-mode:soft-light;
+background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
+.rays i:nth-child(1){--a:-40deg}
+.rays i:nth-child(2){--a:-54deg;width:5rem}
+.rays i:nth-child(3){--a:-68deg;width:10rem}
+@keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
+@keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
+.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
+.wall-lamp .lamp{position:relative;left:auto;width:100%}
+.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
+.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
+.jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
+.jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
+background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.jump a{display:inline-flex;align-items:center;min-height:44px;padding:0 1.2rem;text-decoration:none}
+.jump a:hover{background-color:#F6E9C2}
+.search{display:block;width:100%;max-width:34rem;margin:.4rem 0 1.2rem;padding:.75rem 1.1rem;font-weight:400}
+.search::placeholder{color:var(--ink2);opacity:1}
+.search:focus{border-color:var(--ink)}
+.testament{position:relative;display:flex;flex-direction:column;gap:2.4rem;margin:3rem 0 0}
+.testament>h2{display:flex;align-items:center;gap:1rem;margin:0;font:700 clamp(2rem,3.6vw,2.7rem)/1.1 var(--display);letter-spacing:.02em}
+.testament>h2::before{display:none}
+.testament>h2::after{content:"";flex:1;height:.4rem;border-top:2px solid var(--wood);border-bottom:1px solid var(--wood);opacity:.6}
+main section[hidden],.scrolls li[hidden],.tiles li[hidden]{display:none}
+
+/* Ниша раздела: драпировка цвета раздела, внутри на досках лежат свитки. */
+.group{position:relative;overflow:hidden;min-width:0;border:.55rem solid var(--frame);border-radius:1.6rem 1.6rem .3rem .3rem;
+background:linear-gradient(180deg,rgba(40,24,10,0),rgba(40,24,10,.14)),var(--noise),color-mix(in srgb,var(--c) 7%,#CDBB93);
+box-shadow:0 0 0 1px #B9A57D,inset 0 1.1rem 1.6rem -.5rem rgba(35,20,8,.55),inset 1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),inset -1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),0 .7rem 1.1rem -.5rem rgba(50,30,10,.5)}
+.group>h3{position:relative;z-index:3;display:flex;align-items:center;gap:.7rem;margin:0;padding:.65rem 1.3rem .6rem;background:var(--weave),var(--sb);color:var(--sf);font:700 1.45rem/1.15 var(--display);letter-spacing:.02em;filter:drop-shadow(0 .35rem .3rem rgba(25,12,0,.45))}
+.group>h3::after,.book-head::after{content:"";position:absolute;left:0;right:0;top:100%;height:.62rem;background:radial-gradient(circle at 50% 0,var(--sb) 0 .5rem,transparent .52rem) 0 0/1.1rem .62rem repeat-x}
+.emblem{width:1.9rem;height:1.9rem;flex:none;color:var(--sf)}
+
+/* Свиток: пергамент на двух деревянных валиках, на шипах - ленточка цвета раздела, справа - печать с числом уроков. */
+.scrolls{--h:3.4rem;--board:.62rem;display:flex;flex-wrap:wrap;align-items:flex-start;column-gap:1.3rem;row-gap:var(--board);list-style:none;margin:0;padding:1.5rem 1.2rem var(--board);
+background:repeating-linear-gradient(180deg,transparent 0 var(--h),#2C1A0C var(--h) calc(var(--h) + 1px),#8A5A32 calc(var(--h) + 1px) calc(var(--h) + 3px),#6B4426 calc(var(--h) + 3px) calc(var(--h) + var(--board))) 0 0/100% calc(100% + var(--board)) no-repeat;
+background-origin:content-box;background-clip:padding-box}
+.scrolls li{position:relative;height:var(--h);margin:0;padding:0 .95rem;max-width:100%;transition:transform .18s ease;animation:rise .45s ease backwards;animation-delay:calc(var(--i) * 12ms);filter:drop-shadow(0 .18rem .12rem rgba(20,10,0,.4))}
+.scrolls li::before,.scrolls li::after{content:"";position:absolute;top:0;bottom:0;width:.95rem;
+background:radial-gradient(circle at 50% .45rem,#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) top/100% .95rem no-repeat,
+radial-gradient(circle at 50% calc(100% - .45rem),#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) bottom/100% .95rem no-repeat,
+linear-gradient(var(--sb),var(--sb)) 50% 1rem/.56rem .3rem no-repeat,
+linear-gradient(90deg,#3F2614,#B07C48 35%,#7A4E2B 65%,#3F2614) center/.42rem 100% no-repeat}
+.scrolls li::before{left:0}
+.scrolls li::after{right:0}
+.scrolls a,.scrolls li.empty>span{display:flex;align-items:center;gap:.7rem;height:calc(var(--h) - 1rem);margin:.5rem 0;padding:0 .8rem 0 1.25rem;white-space:nowrap;font:700 1.14rem/1 var(--display);letter-spacing:.015em}
+.scrolls a{position:relative;z-index:1;color:var(--ink);text-decoration:none;animation:unroll .4s cubic-bezier(.3,.7,.3,1) backwards;animation-delay:calc(var(--i) * 12ms + 80ms);
+background:linear-gradient(180deg,rgba(104,66,22,.36),rgba(104,66,22,0) 20%,rgba(104,66,22,0) 78%,rgba(104,66,22,.44)),linear-gradient(rgba(255,248,226,.5),rgba(255,248,226,.5)),url(img/parchment.webp) #EBD8A8;
+box-shadow:inset 0 0 .7rem rgba(120,80,25,.4)}
+.scrolls a::before,.scrolls a::after{content:"";position:absolute;top:0;bottom:0;width:1.15rem;border-radius:.5rem;
+background:repeating-linear-gradient(90deg,rgba(90,60,20,.2) 0 1px,transparent 1px 3px),linear-gradient(90deg,#8E6D3A 0,#E8D3A0 30%,#F5E8C4 50%,#D8BF86 76%,#7F5F2E 100%);box-shadow:0 0 .35rem rgba(60,35,10,.5)}
+.scrolls a::before{left:-.62rem}
+.scrolls a::after{right:-.62rem}
+.scrolls li:hover,.scrolls li:has(a:focus-visible){transform:translateY(-.22rem)}
+.scrolls a:focus-visible{outline-offset:.6rem}
+.scrolls .count{position:relative;z-index:2;display:grid;place-items:center;min-width:1.85rem;height:1.85rem;padding:0 .3rem;border-radius:52% 48% 55% 45%/48% 55% 45% 52%;
+background:radial-gradient(circle at 35% 30%,var(--sb),color-mix(in srgb,var(--sb) 72%,#000));color:var(--sf);font:700 .9rem/1 var(--sans);letter-spacing:0;box-shadow:inset 0 1px 1px rgba(255,255,255,.4),0 .1rem .2rem rgba(0,0,0,.4)}
+.scrolls li.empty{padding:0 .3rem}
+.scrolls li.empty::before,.scrolls li.empty::after{display:none}
+.scrolls li.empty>span{border:1.5px dashed rgba(63,38,20,.65);border-radius:.4rem;color:var(--ink2);background:rgba(255,248,230,.22)}
+@keyframes unroll{from{clip-path:inset(0 50%)}to{clip-path:inset(0 0)}}
+@keyframes rise{from{opacity:0;transform:translateY(.6rem)}to{opacity:1;transform:none}}
+
+/* Страница книги: драпировка с названием и бирки уроков. */
+.book-head{position:relative;display:flex;align-items:center;gap:1.3rem;margin:0 0 2.2rem;padding:1.4rem 1.7rem;border-radius:.4rem .4rem 0 0;background:var(--weave),var(--sb);color:var(--sf);filter:drop-shadow(0 .45rem .35rem rgba(25,12,0,.4))}
+.book-head .emblem{width:4.2rem;height:4.2rem}
+.book-head h1{margin:0;color:var(--sf);font:700 clamp(2rem,4.4vw,3.1rem)/1.05 var(--display)}
+.meta{margin:.35rem 0 0;font:700 1.05rem/1.4 var(--sans);color:var(--sf)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));gap:.9rem;list-style:none;padding:0;margin:0 0 1rem}
 .tiles li{margin:0}
-.tiles a,.tiles li.empty{display:flex;align-items:center;justify-content:space-between;gap:.6rem;height:100%;min-height:4.5rem;
-padding:.8rem 1rem;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg);
-font:600 16px/1.35 system-ui,sans-serif}
-.tiles a{text-decoration:none;box-shadow:0 1px 2px rgba(0,0,0,.04);transition:border-color .15s,box-shadow .15s,transform .05s}
-.tiles a:hover{border-color:var(--accent);box-shadow:0 4px 14px rgba(0,0,0,.08)}
-.tiles a:active{transform:translateY(1px)}
-.tiles a>span:first-child,.tiles li.empty>span{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
-.tiles .count{color:var(--accent);font-size:.9em}
-.tiles li.empty{color:var(--muted);opacity:.55}
-.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;padding:.55rem 1.1rem;
-border:1px solid var(--accent);border-radius:10px;background:var(--card);color:var(--accent);font:600 15px/1.3 system-ui,sans-serif;
-text-decoration:none;cursor:pointer;box-shadow:0 1px 0 rgba(0,0,0,.06);transition:background .15s,color .15s,transform .05s}
-.btn:hover,details.download summary:hover{background:var(--accent);color:#fff}
-.btn:active,details.download summary:active{transform:translateY(1px)}
-.btn.primary{background:var(--accent);color:#fff}
-.btn.primary:hover{background:#6f3a20}
-.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3rem}
-.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;text-align:left}
+.tiles a{display:flex;align-items:center;height:100%;min-height:4.6rem;padding:.85rem 1rem .85rem 1.2rem;border-left:.5rem solid var(--sb);border-radius:.35rem;color:var(--ink);font:700 1.1rem/1.3 var(--serif);text-decoration:none;
+background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),url(img/parchment.webp) var(--parch);box-shadow:inset 0 0 .7rem rgba(120,85,35,.28),0 .15rem 0 #B9A276,0 .6rem .9rem -.5rem rgba(60,40,15,.55);transition:transform .15s}
+.tiles a:hover{transform:translateY(-.15rem)}
+.tiles .chapters{display:block;margin-top:.3rem;color:var(--cdd);font:700 .95rem/1.3 var(--sans)}
+
+/* Урок: содержание, кнопки. */
+.toc{margin:0 0 1.4rem;padding:.2rem 1.1rem;border:1px solid #D9C89E;border-radius:.3rem;background:#FFFBEC;font:400 1.02rem/1.5 var(--sans)}
+.toc summary{display:flex;align-items:center;min-height:44px;cursor:pointer;font-weight:700}
+.toc ol{margin:.3rem 0 .7rem;padding-left:1.4rem}
+.toc li::marker{color:var(--cdd);font-weight:700}
+.toc a{color:var(--ink);text-decoration:none}
+.toc a:hover{color:var(--cdd);text-decoration:underline}
+.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
+background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.btn:hover,details.download summary:hover{background-color:#F6E9C2}
+.btn.primary{background:var(--weave),var(--sb);border-color:color-mix(in srgb,var(--sb) 60%,#000);color:var(--sf)}
+.btn.primary:hover{background:var(--weave),color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3.5rem}
+.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;padding:.8rem 1rem;text-align:left}
 .pager .pager-next{align-items:flex-end;text-align:right}
 .pager .pager-section{align-items:center;justify-content:center;text-align:center}
-.pager .dir{font-size:.8em;font-weight:500;opacity:.85}
-.pager .name{font-weight:600}
-.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;
-pointer-events:none;z-index:5}
-.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;
-border-radius:50%;background:var(--accent);color:#fff;font:700 1.4rem/1 system-ui,sans-serif;text-decoration:none;
-cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.25);opacity:.92}
-.fab:hover{opacity:1;background:#6f3a20}
-.fab.next{margin-left:auto}
-.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);
-transition:opacity .2s,transform .2s,visibility .2s}
-.fab.top.visible{opacity:.92;visibility:visible;transform:none}
-@media(max-width:640px){.pager{grid-template-columns:1fr}.pager>span{display:none}
-.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}}
+.pager .dir{font-size:.9rem;font-weight:700}
+.pager .name{font:700 1.05rem/1.3 var(--serif);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
 details.download{position:relative}
-details.download summary{list-style:none;padding:.4rem 1rem}
+details.download summary{list-style:none}
 details.download summary::-webkit-details-marker{display:none}
-details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;
-padding:.3rem;background:var(--card);border:1px solid var(--line);border-radius:8px;box-shadow:0 6px 20px rgba(0,0,0,.08)}
-details.download .menu a{padding:.45rem .7rem;border-radius:6px;text-decoration:none;color:var(--fg)}
-details.download .menu a:hover{background:var(--quote)}
-@media print{header.top,.pager,.float{display:none}}
+details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;padding:.3rem;background:var(--sheet);border:1px solid #BFA97E;border-radius:.3rem;box-shadow:0 12px 28px -12px rgba(40,25,10,.55)}
+details.download .menu a{display:flex;align-items:center;min-height:44px;padding:.45rem .8rem;border-radius:.2rem;color:var(--ink);text-decoration:none}
+details.download .menu a:hover{background:#F0E3BE}
+
+/* Плавающие кнопки. */
+.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;pointer-events:none;z-index:25}
+.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;border-radius:50%;background:var(--sb);color:var(--sf);font:700 1.3rem/1 var(--sans);text-decoration:none;cursor:pointer;box-shadow:inset 0 1px 1px rgba(255,255,255,.35),0 8px 20px -6px rgba(40,25,10,.6)}
+.fab:hover{background:color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.fab.next{margin-left:auto}
+.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .2s,transform .2s,visibility .2s;pointer-events:auto;z-index:25}
+.fab.top.visible{opacity:1;visibility:visible;transform:none}
+.credits{max-width:68rem;margin:0 auto;padding:1.2rem 2.4rem 1.5rem;font:400 .95rem/1.5 var(--sans);color:var(--ink);background:var(--stone);border-inline:1.1rem solid #A98B5E}
+@media(max-width:1180px){.credits{padding-inline:1.25rem;border-inline-width:.5rem}}
+
+/* Скачанный документ без декора. */
+body.plain{background:#fff}
+body.plain::before{display:none}
+body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
+body.plain main::before{display:none}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+@media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
+@media(max-width:640px){
+body{font-size:1.12rem}
+:root{--px:1.1rem;--py:1.4rem}
+main:not(.wide){margin:0 auto 5rem;border-radius:0}
+.pager{grid-template-columns:1fr}.pager>span{display:none}
+.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}
+.fab{width:2.75rem;height:2.75rem}.fab.prev,.fab.next{display:none}.fab.top{bottom:1rem;right:.5rem}
+.testament{gap:2rem}
+.group{border-width:.4rem;border-radius:1.2rem 1.2rem .25rem .25rem}
+.group>h3{padding:.55rem 1rem .5rem;font-size:1.3rem}
+.scrolls{--h:3.9rem;column-gap:.8rem;padding:1.4rem .55rem var(--board)}
+.scrolls li{padding:0 .8rem}
+.scrolls li::before,.scrolls li::after{width:.8rem}
+.scrolls a,.scrolls li.empty>span{gap:.5rem;padding:0 .55rem 0 1rem;font-size:1rem}
+.scrolls a::before,.scrolls a::after{width:1rem}
+.scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
+.scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
+.book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
+@media(max-height:500px){header.top{position:static}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+@media print{body{background:#fff}body::before{display:none}header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
-<body>
+<body class="plain">
 <main>
-<h1>46. Обзор Евангелий, важность правильного понимание Христа, исполнение пророчеств В.З</h1>
-<h2>1.1) Важность правильного понимания Христа</h2>
-<h3>(1) Предназначение народа Божьего – сохранение и передача Слово Божье, Завета, Христос, Ханаан - Всемирная Евангелизация (Церковь) Рим. 3:2 Быт. 1:27,2:7,17 (Быт. 3:1-7, - Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h3>
-<blockquote><p>Великое преимущество во всех отношениях, а наипаче <em>в</em> <em>том,</em> что им вверено слово Божие.</p><cite>Рим. 3:2</cite></blockquote>
-<blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
-<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<blockquote><p>а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:17</cite></blockquote>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
-<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<h3>(2) Ожидание Мессии, Христа народом Божьим Дн. 26:4-8,Гал. 3:16-17, - 1-е Пет. 1:10-11,Дн. 10:43</h3>
-<blockquote><p>Жизнь мою от юности <em>моей,</em> которую сначала проводил я среди народа моего в Иерусалиме, знают все Иудеи; они издавна знают обо мне, если захотят свидетельствовать, что я жил фарисеем по строжайшему в нашем вероисповедании учению. И ныне я стою перед судом за надежду на обетование, данное от Бога нашим отцам, которого исполнение надеются увидеть наши двенадцать колен, усердно служа <em>Богу</em> день и ночь. За сию-то надежду, царь Агриппа, обвиняют меня Иудеи. Что же? Неужели вы невероятным почитаете, что Бог воскрешает мертвых?</p><cite>Дн. 26:4-8</cite></blockquote>
-<blockquote><p>Но Аврааму даны были обетования и семени его. Не сказано: и потомкам, как бы о многих, но как об одном: и семени твоему, которое есть Христос. Я говорю то, что завета о Христе, прежде Богом утвержденного, закон, явившийся спустя четыреста тридцать лет, не отменяет так, чтобы обетование потеряло силу.</p><cite>Гал. 3:16-17</cite></blockquote>
-<blockquote><p>К сему-то спасению относились изыскания и исследования пророков, которые предсказывали о назначенной вам благодати, исследывая, на которое и на какое время указывал сущий в них Дух Христов, когда Он предвозвещал Христовы страдания и последующую за ними славу.</p><cite>1-е Пет. 1:10-11</cite></blockquote>
-<blockquote><p>О Нем все пророки свидетельствуют, что всякий верующий в Него получит прощение грехов именем Его.</p><cite>Дн. 10:43</cite></blockquote>
-<h3>(3) Непринятие Слово Божье, Завета, Христос, большинство Иудеев, непринятие Божественности Христа и Вседостаточности Его Жертвы. Ин. 10:33, - Рим. 9:30-33</h3>
-<blockquote><p>Иудеи сказали Ему в ответ: не за доброе дело хотим побить Тебя камнями, но за богохульство и за то, что Ты, будучи человек, делаешь Себя Богом.</p><cite>Ин. 10:33</cite></blockquote>
-<blockquote><p>Что же скажем? Язычники, не искавшие праведности, получили праведность, праведность от веры. А Израиль, искавший закона праведности, не достиг до закона праведности. Почему? потому что <em>искали</em> не в вере, а в делах закона. Ибо преткнулись о камень преткновения, как написано: вот, полагаю в Сионе камень преткновения и камень соблазна; но всякий, верующий в Него, не постыдится.</p><cite>Рим. 9:30-33</cite></blockquote>
-<h3>(4) Важность понимания Божьего суверенитета и контроля, неизбежность исполнения Слово Божье, Завета, Христос, Божий план</h3>
-<h2>2) Важность соответствия Христа пророчествам Бог</h2>
-<h3>(1) Рождение Христа от семени жены, без участия мужчины Быт. 3:15, - Лк. 1:30-34</h3>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сказал Ей Ангел: не бойся, Мария, ибо Ты обрела благодать у Бога; и вот, зачнешь во чреве, и родишь Сына, и наречешь Ему имя: Иисус. Он будет велик и наречется Сыном Всевышнего, и даст Ему Господь Бог престол Давида, отца Его; и будет царствовать над домом Иакова во веки, и Царству Его не будет конца. Мария же сказала Ангелу: как будет это, когда Я мужа не знаю?</p><cite>Лк. 1:30-34</cite></blockquote>
-<h4>(а) Отсутствие греха и греховной природы, не потомок Адама</h4>
-<h4>(б) Бог и Человек в одной Личности, второй Адам</h4>
-<h3>(2) Рождение Христа от девственницы Ис. 7:14, - Лк. 1:30-34</h3>
-<blockquote><p>Итак Сам Господь даст вам знамение: се, Дева во чреве приимет и родит Сына, и нарекут имя Ему: Еммануил.</p><cite>Ис. 7:14</cite></blockquote>
-<blockquote><p>И сказал Ей Ангел: не бойся, Мария, ибо Ты обрела благодать у Бога; и вот, зачнешь во чреве, и родишь Сына, и наречешь Ему имя: Иисус. Он будет велик и наречется Сыном Всевышнего, и даст Ему Господь Бог престол Давида, отца Его; и будет царствовать над домом Иакова во веки, и Царству Его не будет конца. Мария же сказала Ангелу: как будет это, когда Я мужа не знаю?</p><cite>Лк. 1:30-34</cite></blockquote>
-<h4>(а) Отсутствие греха и греховной природы, не потомок Адама</h4>
-<h4>(б) Бог и Человек в одной Личности, второй Адам</h4>
-<h3>(3) Христос существовал до своего земного рождения Мих. 5:2, - Кол. 1:15-17,Ин. 1:1-3</h3>
-<blockquote><p>И ты, Вифлеем-Ефрафа, мал ли ты между тысячами Иудиными? из тебя произойдет Мне Тот, Который должен быть Владыкою в Израиле и Которого происхождение из начала, от дней вечных.</p><cite>Мих. 5:2</cite></blockquote>
-<blockquote><p>Который есть образ Бога невидимого, рожденный прежде всякой твари; ибо Им создано все, что на небесах и что на земле, видимое и невидимое: престолы ли, господства ли, начальства ли, власти ли, -- все Им и для Него создано; и Он есть прежде всего, и все Им стоит.</p><cite>Кол. 1:15-17</cite></blockquote>
-<blockquote><p>В начале было Слово, и Слово было у Бога, и Слово было Бог. Оно было в начале у Бога. Все чрез Него начало быть, и без Него ничто не начало быть, что начало быть.</p><cite>Ин. 1:1-3</cite></blockquote>
-<h4>(а) Человеческая природа Христа – прославленное тело</h4>
-<h4>(б) Божественная природа Христа – Святой, Триединный Бог, функциональный приоритет действия – Бог Слово</h4>
-<h4>(в) Божественная и человеческая природа были нераздельно соединены в одной личности, без преобразования или смешения</h4>
-<h4>(г) Богочеловек – истинный Бог и истинный человек, но при этом один и тот же Христос, единая личность. (Приоритет Божественной природы над человек – Бог во плоти)</h4>
-<ul>
-<li>Ин. 1:1,14, 6:62,17:5,Кол. 1:15-20,2:9,Еф. 3:9,Евр. 1:2-3, Отк. 13:8,22:13,1-е Пет. 1:20,Мф. 17:2,2-е Кор. 4:4, - важность Христа как полнота образа Бог для человек (видеть и понимать Бога)</li>
-</ul>
-<blockquote><p>В начале было Слово, и Слово было у Бога, и Слово было Бог.</p><cite>Ин. 1:1</cite></blockquote>
-<blockquote><p>И Слово стало плотию, и обитало с нами, полное благодати и истины; и мы видели славу Его, славу, как Единородного от Отца.</p><cite>Ин. 1:14</cite></blockquote>
-<blockquote><p>Что ж, если увидите Сына Человеческого восходящего <em>туда,</em> где был прежде?</p><cite>Ин. 6:62</cite></blockquote>
-<blockquote><p>И ныне прославь Меня Ты, Отче, у Тебя Самого славою, которую Я имел у Тебя прежде бытия мира.</p><cite>Ин. 17:5</cite></blockquote>
-<blockquote><p>Который есть образ Бога невидимого, рожденный прежде всякой твари; ибо Им создано все, что на небесах и что на земле, видимое и невидимое: престолы ли, господства ли, начальства ли, власти ли, -- все Им и для Него создано; и Он есть прежде всего, и все Им стоит. И Он есть глава тела Церкви; Он -- начаток, первенец из мертвых, дабы иметь Ему во всем первенство, ибо благоугодно было <em>Отцу,</em> чтобы в Нем обитала всякая полнота, и чтобы посредством Его примирить с Собою все, умиротворив через Него, Кровию креста Его, и земное и небесное.</p><cite>Кол. 1:15-20</cite></blockquote>
-<blockquote><p>ибо в Нем обитает вся полнота Божества телесно,</p><cite>Кол. 2:9</cite></blockquote>
-<blockquote><p>и открыть всем, в чем состоит домостроительство тайны, сокрывавшейся от вечности в Боге, создавшем все Иисусом Христом,</p><cite>Еф. 3:9</cite></blockquote>
-<blockquote><p>в последние дни сии говорил нам в Сыне, Которого поставил наследником всего, чрез Которого и веки сотворил. Сей, будучи сияние славы и образ ипостаси Его и держа все словом силы Своей, совершив Собою очищение грехов наших, воссел одесную (престола) величия на высоте,</p><cite>Евр. 1:2-3</cite></blockquote>
-<blockquote><p>И поклонятся ему все живущие на земле, которых имена не написаны в книге жизни у Агнца, закланного от создания мира.</p><cite>Отк. 13:8</cite></blockquote>
-<blockquote><p>Я есмь Альфа и Омега, начало и конец, Первый и Последний.</p><cite>Отк. 22:13</cite></blockquote>
-<blockquote><p>предназначенного еще прежде создания мира, но явившегося в последние времена для вас,</p><cite>1-е Пет. 1:20</cite></blockquote>
-<blockquote><p>и преобразился пред ними: и просияло лице Его, как солнце, одежды же Его сделались белыми, как свет.</p><cite>Мф. 17:2</cite></blockquote>
-<blockquote><p>для неверующих, у которых бог века сего ослепил умы, чтобы для них не воссиял свет благовествования о славе Христа, Который есть образ Бога невидимого.</p><cite>2-е Кор. 4:4</cite></blockquote>
-<h3>(4) Христос – единородный Сын Божий Пс. 2:7, - Мф. 3:17,Ин. 3:16</h3>
-<blockquote><p>возвещу определение: Господь сказал Мне: Ты Сын Мой; Я ныне родил Тебя;</p><cite>Пс. 2:7</cite></blockquote>
-<blockquote><p>И се, глас с небес глаголющий: Сей есть Сын Мой возлюбленный, в Котором Мое благоволение.</p><cite>Мф. 3:17</cite></blockquote>
-<blockquote><p>Ибо так возлюбил Бог мир, что отдал Сына Своего Единородного, дабы всякий верующий в Него, не погиб, но имел жизнь вечную.</p><cite>Ин. 3:16</cite></blockquote>
-<h4>(а) Христос рожденный от Бога, Адам сотворенный (творение)</h4>
-<h4>(б) Христос – Человеческая и Божественная природа в одной Личности, Адам – только человеческая природа и личность, а Личность Бога присутствует вместе с личностью Адама</h4>
-<h3>(5) Христос есть Истинный Бог и Господь Пс. 109:1, - Мф. 22:43-45,Ин. 8:25,56-58,Рим. 9:5,1-е Тим. 3:16</h3>
-<blockquote><p>Сказал Господь Господу моему: седи одесную Меня, доколе положу врагов Твоих в подножие ног Твоих.</p><cite>Пс. 109:1</cite></blockquote>
-<blockquote><p>Говорит им: как же Давид, по вдохновению, называет Его Господом, когда говорит: сказал Господь Господу моему: седи одесную Меня, доколе положу врагов Твоих в подножие ног Твоих? Итак, если Давид называет Его Господом, как же Он сын ему?</p><cite>Мф. 22:43-45</cite></blockquote>
-<blockquote><p>Тогда сказали Ему: кто же Ты? Иисус сказал им: от начала Сущий, как и говорю вам.</p><cite>Ин. 8:25</cite></blockquote>
-<blockquote><p>Авраам, отец ваш, рад был увидеть день Мой; и увидел и возрадовался. На это сказали Ему Иудеи: Тебе нет еще пятидесяти лет, -- и Ты видел Авраама? Иисус сказал им: истинно, истинно говорю вам: прежде нежели был Авраам, Я есмь.</p><cite>Ин. 8:56-58</cite></blockquote>
-<blockquote><p>их и отцы, и от них Христос по плоти, сущий над всем Бог, благословенный во веки, аминь.</p><cite>Рим. 9:5</cite></blockquote>
-<blockquote><p>И беспрекословно -- великая благочестия тайна: Бог явился во плоти, оправдал Себя в Духе, показал Себя Ангелам, проповедан в народах, принят верою в мире, вознесся во славе.</p><cite>1-е Тим. 3:16</cite></blockquote>
-<h4>(а) Приоритет Божественной природы над человеческой</h4>
-<h4>(б) Единственный, Истинный Образ Святого, Триединного Бога</h4>
-<h3>(6) Смерть Христа, Агнец Божий, пролитие крови Быт. 3:21, - Ин. 1:29,19:30</h3>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<blockquote><p>На другой день видит Иоанн идущего к нему Иисуса и говорит: вот Агнец Божий, Который берет <em>на</em> <em>Себя</em> грех мира.</p><cite>Ин. 1:29</cite></blockquote>
-<blockquote><p>Когда же Иисус вкусил уксуса, сказал: совершилось! И, преклонив главу, предал дух.</p><cite>Ин. 19:30</cite></blockquote>
-<h4>(а) Заместительная Жертва – ответственный за все грехи всех людей (все грехи человечества)</h4>
-<h4>(б) Важность искупления грехов мира – наказание греха, утверждение Святости и Справедливости Божьей, единственное основание для вменения прощения всякому человеку</h4>
-<h3>(7) Христос утвердит Н.З Быт. 14:18, - Мф. 26:26-28</h3>
-<blockquote><p>и Мелхиседек, царь Салимский, вынес хлеб и вино, -- он был священник Бога Всевышнего, --</p><cite>Быт. 14:18</cite></blockquote>
-<blockquote><p>И когда они ели, Иисус взял хлеб и, благословив, преломил и, раздавая ученикам, сказал: приимите, ядите: сие есть Тело Мое. И, взяв чашу и благодарив, подал им и сказал: пейте из нее все, ибо сие есть Кровь Моя Нового Завета, за многих изливаемая во оставление грехов.</p><cite>Мф. 26:26-28</cite></blockquote>
-<h4>(а) Второй и третий Завет (В.З.) – вера в грядущего Христа</h4>
-<h4>(б) Н.З. – исполнение Слово Божье, Завета, Христос, верность Божья</h4>
-<h3>(8) Христос будет принесен в Жертву Своим Отцем Быт. 22:1-19, - Ин. 3:16</h3>
-<blockquote><p>И было, после сих происшествий Бог искушал Авраама и сказал ему: Авраам! Он сказал: вот я. <em>Бог</em> сказал: возьми сына твоего, единственного твоего, которого ты любишь, Исаака; и пойди в землю Мориа и там принеси его во всесожжение на одной из гор, о которой Я скажу тебе. Авраам встал рано утром, оседлал осла своего, взял с собою двоих из отроков своих и Исаака, сына своего; наколол дров для всесожжения, и встав пошел на место, о котором сказал ему Бог. На третий день Авраам возвел очи свои, и увидел то место издалека. И сказал Авраам отрокам своим: останьтесь вы здесь с ослом, а я и сын пойдем туда и поклонимся, и возвратимся к вам. И взял Авраам дрова для всесожжения, и возложил на Исаака, сына своего; взял в руки огонь и нож, и пошли оба вместе. И начал Исаак говорить Аврааму, отцу своему, и сказал: отец мой! Он отвечал: вот я, сын мой. Он сказал: вот огонь и дрова, где же агнец для всесожжения? Авраам сказал: Бог усмотрит Себе агнца для всесожжения, сын мой. И шли <em>далее</em> оба вместе. И пришли на место, о котором сказал ему Бог; и устроил там Авраам жертвенник, разложил дрова и, связав сына своего Исаака, положил его на жертвенник поверх дров. И простер Авраам руку свою и взял нож, чтобы заколоть сына своего. Но Ангел Господень воззвал к нему с неба и сказал: Авраам! Авраам! Он сказал: вот я. <em>Ангел</em> сказал: не поднимай руки твоей на отрока и не делай над ним ничего, ибо теперь Я знаю, что боишься ты Бога и не пожалел сына твоего, единственного твоего, для Меня. И возвел Авраам очи свои и увидел: и вот, позади овен, запутавшийся в чаще рогами своими. Авраам пошел, взял овна и принес его во всесожжение вместо , сына своего. И нарек Авраам имя месту тому: Иегова-ире. Посему <em>и</em> ныне говорится: на горе Иеговы усмотрится. И вторично воззвал к Аврааму Ангел Господень с неба и сказал: Мною клянусь, говорит Господь, что, так как ты сделал сие дело, и не пожалел сына твоего, единственного твоего,  то Я благословляя благословлю тебя и умножая умножу семя твое, как звезды небесные и как песок на берегу моря; и овладеет семя твое городами врагов своих; и благословятся в семени твоем все народы земли за то, что ты послушался гласа Моего. И возвратился Авраам к отрокам своим, и встали и пошли вместе в Вирсавию; и жил Авраам в Вирсавии.</p><cite>Быт. 22:1-19</cite></blockquote>
-<blockquote><p>Ибо так возлюбил Бог мир, что отдал Сына Своего Единородного, дабы всякий верующий в Него, не погиб, но имел жизнь вечную.</p><cite>Ин. 3:16</cite></blockquote>
-<h4>(а) Важность понимания Божьего суверенитета и контроля – назначенный Божий план для спасения человека</h4>
-<h4>(б) Отсутствие иной возможности спасения человека</h4>
-<h3>(9) Христос родится от семени Авраама, т.е. потомок Авраама Быт. 22:18, - Мф. 1:1,Гал. 3:16</h3>
-<blockquote><p>и благословятся в семени твоем все народы земли за то, что ты послушался гласа Моего.</p><cite>Быт. 22:18</cite></blockquote>
-<blockquote><p>Родословие Иисуса Христа, Сына Давидова, Сына Авраамова.</p><cite>Мф. 1:1</cite></blockquote>
-<blockquote><p>Но Аврааму даны были обетования и семени его. Не сказано: и потомкам, как бы о многих, но как об одном: и семени твоему, которое есть Христос.</p><cite>Гал. 3:16</cite></blockquote>
-<h4>(а) Понимание Божьего суверенитета и предузнания человека</h4>
-<h4>(б) Авраам, понимание Слово Божье, Завета, Христос, исполнение воли Божьей Гал. 3:16-17,Евр. 11:8-16</h4>
-<blockquote><p>Но Аврааму даны были обетования и семени его. Не сказано: и потомкам, как бы о многих, но как об одном: и семени твоему, которое есть Христос. Я говорю то, что завета о Христе, прежде Богом утвержденного, закон, явившийся спустя четыреста тридцать лет, не отменяет так, чтобы обетование потеряло силу.</p><cite>Гал. 3:16-17</cite></blockquote>
-<blockquote><p>Верою Авраам повиновался призванию идти в страну, которую имел получить в наследие, и пошел, не зная, куда идет. Верою обитал он на земле обетованной, как на чужой, и жил в шатрах с Исааком и Иаковом, сонаследниками того же обетования; ибо он ожидал города, имеющего основание, которого художник и строитель Бог. Верою и сама Сарра (будучи неплодна) получила силу к принятию семени, и не по времени возраста родила, ибо знала, что верен Обещавший. И потому от одного, и притом омертвелого, родилось так много, как <em>много</em> звезд на небе и как бесчислен песок на берегу морском. Все сии умерли в вере, не получив обетований, а только издали видели оные, и радовались, и говорили о себе, что они странники и пришельцы на земле; ибо те, которые так говорят, показывают, что они ищут отечества. И если бы они в мыслях имели то <em>отечество,</em> из которого вышли, то имели бы время возвратиться; но они стремились к лучшему, то есть к небесному; посему и Бог не стыдится их, называя Себя их Богом: ибо Он приготовил им город.</p><cite>Евр. 11:8-16</cite></blockquote>
-<h3>(10) Христос также будет потомком Исаака (не Измаила) Быт. 21:12, - Лк. 3:34</h3>
-<blockquote><p>Но Бог сказал Аврааму: не огорчайся ради отрока и рабыни твоей; во всем, что скажет тебе Сарра, слушайся голоса ее, ибо в Исааке наречется тебе семя;</p><cite>Быт. 21:12</cite></blockquote>
-<blockquote><p>Иаковлев, Исааков, Авраамов, Фаррин, Нахоров,</p><cite>Лк. 3:34</cite></blockquote>
-<h4>(а) Исаак – дитя обетования, Божье действие, сын свободной, Измаил – собственные усилия (прообраз религии), сын рабы</h4>
-<h4>(б) Спасение во Христе – Божье действие, а не усилия человека</h4>
-<h3>(11) Христос также будет потомком Иакова (не Исава) Чис. 24:17, - Лк. 3:34</h3>
-<blockquote><p>Вижу Его, но ныне еще нет; зрю Его, но не близко. Восходит звезда от Иакова и восстает жезл от Израиля, и разит князей Моава и сокрушает всех сынов Сифовых.</p><cite>Чис. 24:17</cite></blockquote>
-<blockquote><p>Иаковлев, Исааков, Авраамов, Фаррин, Нахоров,</p><cite>Лк. 3:34</cite></blockquote>
-<h4>(а) Понимание Божьего суверенитета и предузнания человека, отношение к первородству (продолжение дела отца)</h4>
-<h4>(б) Исав – пренебрежение первородством, пренебрежение делом Божьим</h4>
-<h3>(12) Христос воссияет из колена Иудина Быт. 49:10, - Лк. 3:33,Евр. 7:14</h3>
-<blockquote><p>Не отойдет скипетр от Иуды и законодатель от чресл его, доколе не приидет Примиритель, и Ему покорность народов.</p><cite>Быт. 49:10</cite></blockquote>
-<blockquote><p>Аминадавов, Арамов, Есромов, Фаресов, Иудин,</p><cite>Лк. 3:33</cite></blockquote>
-<blockquote><p>Ибо известно, что Господь наш воссиял из колена Иудина, о котором Моисей ничего не сказал относительно священства.</p><cite>Евр. 7:14</cite></blockquote>
-<h4>(а) Понимание Божьего суверенитета и предузнания человека</h4>
-<h4>(б) Фамарь, понимание Слово Божье, Завета, Христос, исполнение воли Божьей</h4>
-<h2>Заключение:</h2>
-<h3>(1) Важность правильного понимания Писаний В.З Ин. 5:39, - Лк. 24:25-27,44-47,Ин. 5:45-47,1-е Кор. 15:1-4</h3>
-<blockquote><p>Исследуйте Писания, ибо вы думаете чрез них иметь жизнь вечную; а они свидетельствуют о Мне.</p><cite>Ин. 5:39</cite></blockquote>
-<blockquote><p>Тогда Он сказал им: о, несмысленные и медлительные сердцем, чтобы веровать всему, что предсказывали пророки! Не так ли надлежало пострадать Христу и войти в славу Свою? И, начав от Моисея, из всех пророков изъяснял им сказанное о Нем во всем Писании.</p><cite>Лк. 24:25-27</cite></blockquote>
-<blockquote><p>И сказал им: вот то, о чем Я вам говорил, еще быв с вами, что надлежит исполниться всему, написанному о Мне в законе Моисеевом и в пророках и псалмах. Тогда отверз им ум к уразумению Писаний. И сказал им: так написано, и так надлежало пострадать Христу, и воскреснуть из мертвых в третий день, и проповедану быть во имя Его покаянию и прощению грехов во всех народах, начиная с Иерусалима.</p><cite>Лк. 24:44-47</cite></blockquote>
-<blockquote><p>Не думайте, что Я буду обвинять вас пред Отцем: есть на вас обвинитель Моисей, на которого вы уповаете. Ибо если бы вы верили Моисею, то поверили бы и Мне, потому что он писал о Мне. Если же его писаниям не верите, как поверите Моим словам?</p><cite>Ин. 5:45-47</cite></blockquote>
-<blockquote><p>Напоминаю вам, братия, Евангелие, которое я благовествовал вам, которое вы и приняли, в котором и утвердились, которым и спасаетесь, если преподанное удерживаете так, как я благовествовал вам, если только не тщетно уверовали. Ибо я первоначально преподал вам, что и <em>сам</em> принял, <em>то</em> <em>есть,</em> что Христос умер за грехи наши, по Писанию, и что Он погребен был, и что воскрес в третий день, по Писанию,</p><cite>1-е Кор. 15:1-4</cite></blockquote>
-<h3>(2) Важность понимания законного способа получения дара веры Божьей и понимания Слово Божье Рим. 10:17,1-е Тим. 4:16</h3>
-<blockquote><p>Итак вера от слышания, а слышание от слова Божия.</p><cite>Рим. 10:17</cite></blockquote>
-<blockquote><p>Вникай в себя и в учение; занимайся сим постоянно: ибо, так поступая, и себя спасешь и слушающих тебя.</p><cite>1-е Тим. 4:16</cite></blockquote>
-<h3>(3) Важность понимания миссии Христа</h3>
-<h4>(а) Умереть за все грехи всех людей – искупление человек</h4>
-<h4>(б) Подготовить учеников - важность познания и передачи Слово Божье, Завета, Христос, Всемирная Евангелизация, подготовка второго прихода Христа</h4>
-<h4>(в) Показать людям Святого, Истинного Бога</h4>
-<h3>(4) Важность исполнения предназначения народа Божьего</h3>
-<h3>(5) Важность понимания действия сатана</h3>
-<h2>2.1) Важность правильного понимания Христа</h2>
-<h3>(1) Предназначение народа Божьего – сохранение и передача Слово Божье, Завета, Христос, Ханаан - Всемирная Евангелизация (Церковь) Рим. 3:2 Быт. 1:27,2:7,17 (Быт. 3:1-7, - Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h3>
-<blockquote><p>Великое преимущество во всех отношениях, а наипаче <em>в</em> <em>том,</em> что им вверено слово Божие.</p><cite>Рим. 3:2</cite></blockquote>
-<blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
-<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<blockquote><p>а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:17</cite></blockquote>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
-<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<h3>(2) Ожидание Мессии, Христа народом Божьим Дн. 26:4-8,Гал. 3:16-17, - 1-е Пет. 1:10-11,Дн. 10:43</h3>
-<blockquote><p>Жизнь мою от юности <em>моей,</em> которую сначала проводил я среди народа моего в Иерусалиме, знают все Иудеи; они издавна знают обо мне, если захотят свидетельствовать, что я жил фарисеем по строжайшему в нашем вероисповедании учению. И ныне я стою перед судом за надежду на обетование, данное от Бога нашим отцам, которого исполнение надеются увидеть наши двенадцать колен, усердно служа <em>Богу</em> день и ночь. За сию-то надежду, царь Агриппа, обвиняют меня Иудеи. Что же? Неужели вы невероятным почитаете, что Бог воскрешает мертвых?</p><cite>Дн. 26:4-8</cite></blockquote>
-<blockquote><p>Но Аврааму даны были обетования и семени его. Не сказано: и потомкам, как бы о многих, но как об одном: и семени твоему, которое есть Христос. Я говорю то, что завета о Христе, прежде Богом утвержденного, закон, явившийся спустя четыреста тридцать лет, не отменяет так, чтобы обетование потеряло силу.</p><cite>Гал. 3:16-17</cite></blockquote>
-<blockquote><p>К сему-то спасению относились изыскания и исследования пророков, которые предсказывали о назначенной вам благодати, исследывая, на которое и на какое время указывал сущий в них Дух Христов, когда Он предвозвещал Христовы страдания и последующую за ними славу.</p><cite>1-е Пет. 1:10-11</cite></blockquote>
-<blockquote><p>О Нем все пророки свидетельствуют, что всякий верующий в Него получит прощение грехов именем Его.</p><cite>Дн. 10:43</cite></blockquote>
-<h3>(3) Непринятие Слово Божье, Завета, Христос, большинство Иудеев, непринятие Божественности Христа и Вседостаточности Его Жертвы. Ин. 10:33, - Рим. 9:30-33</h3>
-<blockquote><p>Иудеи сказали Ему в ответ: не за доброе дело хотим побить Тебя камнями, но за богохульство и за то, что Ты, будучи человек, делаешь Себя Богом.</p><cite>Ин. 10:33</cite></blockquote>
-<blockquote><p>Что же скажем? Язычники, не искавшие праведности, получили праведность, праведность от веры. А Израиль, искавший закона праведности, не достиг до закона праведности. Почему? потому что <em>искали</em> не в вере, а в делах закона. Ибо преткнулись о камень преткновения, как написано: вот, полагаю в Сионе камень преткновения и камень соблазна; но всякий, верующий в Него, не постыдится.</p><cite>Рим. 9:30-33</cite></blockquote>
-<h3>(4) Важность понимания Божьего суверенитета и контроля, неизбежность исполнения Слово Божье, Завета, Христос, Божий план</h3>
-<h2>2) Важность соответствия Христа пророчествам Бог</h2>
-<h3>(1) Христос будет Искупителем Иов. 19:25-27, - 1-е Пет. 1:18-19</h3>
-<blockquote><p>А я знаю, Искупитель мой жив, и Он в последний день восставит из праха распадающуюся кожу мою сию, и я во плоти моей узрю Бога. Я узрю Его сам; мои глаза, не глаза другого, увидят Его. Истаевает сердце мое в груди моей!</p><cite>Иов. 19:25-27</cite></blockquote>
-<blockquote><p>зная, что не тленным серебром или золотом искуплены вы от суетной жизни, преданной вам от отцов, но драгоценною Кровию Христа, как непорочного и чистого Агнца,</p><cite>1-е Пет. 1:18-19</cite></blockquote>
-<h4>(а) Важность понимания Божьего суверенитета и контроля – назначенный Божий план для спасения человека</h4>
-<h4>(б) Отсутствие иной возможности спасения человека</h4>
-<h3>(2) Христос будет Пасхой Господней Исх. 12, - Ин. 1:29,1-е Кор. 5:7</h3>
-<blockquote><p>На другой день видит Иоанн идущего к нему Иисуса и говорит: вот Агнец Божий, Который берет <em>на</em> <em>Себя</em> грех мира.</p><cite>Ин. 1:29</cite></blockquote>
-<blockquote><p>Итак очистите старую закваску, чтобы быть вам новым тестом, так как вы бесквасны, ибо Пасха наша, Христос, заклан за нас.</p><cite>1-е Кор. 5:7</cite></blockquote>
-<h4>(а) Пасха – прохождение мимо, избавление от беды</h4>
-<h4>(б) Пасха – единственный Божий метод законного освобождения от власти рабства, Египта и фараона (чудеса и знамения – крах)</h4>
-<h3>(3) Христос также будет потомком Иессея Ис. 11:1, - Мф. 1:6,Лк. 3:32 (внук Руфи, отец Давида)</h3>
-<blockquote><p>И произойдет отрасль от корня Иессеева, и ветвь произрастет от корня его;</p><cite>Ис. 11:1</cite></blockquote>
-<blockquote><p>Иессей родил Давида царя; Давид царь родил Соломона от бывшей за Уриею;</p><cite>Мф. 1:6</cite></blockquote>
-<blockquote><p>Иессеев, Овидов, Воозов, Салмонов, Наассонов,</p><cite>Лк. 3:32</cite></blockquote>
-<h4>(а) Понимание Божьего суверенитета и предузнания человека</h4>
-<h4>(б) Руфь, язычница, принятие Слово Божье, Завета, Христос, исполнение воли Бог</h4>
-<h4>(в) Иессей, понимание Слово Божье, Завета, Христос, исполнение воли Божьей</h4>
-<h3>(4) Христос также будет потомком Давида Иер. 23:5,2-е Цар. 7:12-16,Пс. 131:11, - Лк. 3:31,Мф. 9:27,22:43-45</h3>
-<blockquote><p>Вот, наступают дни, говорит Господь, и восставлю Давиду Отрасль праведную, и воцарится Царь, и будет поступать мудро, и будет производить суд и правду на земле.</p><cite>Иер. 23:5</cite></blockquote>
-<blockquote><p>Когда же исполнятся дни твои, и ты почиешь с отцами твоими, то Я восставлю после тебя семя твое, которое произойдет из чресл твоих, и упрочу царство его. Он построит дом имени Моему, и Я утвержу престол царства его на веки. Я буду ему отцом, и он будет Мне сыном; и если он согрешит, Я накажу его жезлом мужей и ударами сынов человеческих; но милости Моей не отниму от него, как Я отнял от Саула, которого Я отверг пред лицем твоим. И будет непоколебим дом твой и царство твое на веки пред лицем Моим, и престол твой устоит во веки.</p><cite>2-е Цар. 7:12-16</cite></blockquote>
-<blockquote><p>Клялся Господь Давиду в истине, и не отречется ее: "от плода чрева твоего посажу на престоле твоем.</p><cite>Пс. 131:11</cite></blockquote>
-<blockquote><p>Мелеаев, Маинанов, Маттафаев, Нафанов, Давидов,</p><cite>Лк. 3:31</cite></blockquote>
-<blockquote><p>Когда Иисус шел оттуда, за Ним следовали двое слепых и кричали: помилуй нас, Иисус, сын Давидов!</p><cite>Мф. 9:27</cite></blockquote>
-<blockquote><p>Говорит им: как же Давид, по вдохновению, называет Его Господом, когда говорит: сказал Господь Господу моему: седи одесную Меня, доколе положу врагов Твоих в подножие ног Твоих? Итак, если Давид называет Его Господом, как же Он сын ему?</p><cite>Мф. 22:43-45</cite></blockquote>
-<h4>(а) Понимание Божьего суверенитета и предузнания человека</h4>
-<h4>(б) Давид, понимание Слово Божье, Завета, Христос, исполнение воли Божьей</h4>
-<h3>(5) Христос простит все беззакония и покроет все грехи людей, которые уверуют в Него Пс. 31:1-2, - Кол. 2:13,2-е Кор. 5:17-21</h3>
-<blockquote><p>Блажен, кому отпущены беззакония, и чьи грехи покрыты! Блажен человек, которому Господь не вменит греха, и в чьем духе нет лукавства!</p><cite>Пс. 31:1-2</cite></blockquote>
-<blockquote><p>и вас, которые были мертвы во грехах и в необрезании плоти вашей, оживил вместе с Ним, простив нам все грехи,</p><cite>Кол. 2:13</cite></blockquote>
-<blockquote><p>Итак, кто во Христе, <em>тот</em> новая тварь; древнее прошло, теперь все новое. Все же от Бога, Иисусом Христом примирившего нас с Собою и давшего нам служение примирения, потому что Бог во Христе примирил с Собою мир, не вменяя <em>людям</em> преступлений их, и дал нам слово примирения. Итак мы -- посланники от имени Христова, и как бы Сам Бог увещевает через нас; от имени Христова просим: примиритесь с Богом. Ибо не знавшего греха Он сделал для нас <em>жертвою</em> <em>за</em> грех, чтобы мы в Нем сделались праведными пред Богом.</p><cite>2-е Кор. 5:17-21</cite></blockquote>
-<h4>(а) Важность понимания Божьего суверенитета и контроля – назначенный Божий план для спасения человека</h4>
-<h4>(б) Отсутствие иной возможности спасения человека</h4>
-<h3>(6) Христос будет пасти свой народ Мих. 5:2-4, - Мф. 2:2-6</h3>
-<blockquote><p>И ты, Вифлеем-Ефрафа, мал ли ты между тысячами Иудиными? из тебя произойдет Мне Тот, Который должен быть Владыкою в Израиле и Которого происхождение из начала, от дней вечных. Посему Он оставит их до времени, доколе не родит имеющая родить; тогда возвратятся к сынам Израиля и оставшиеся братья их. И станет Он, и будет пасти в силе Господней, в величии имени Господа Бога Своего, и они будут жить безопасно, ибо тогда Он будет великим до краев земли.</p><cite>Мих. 5:2-4</cite></blockquote>
-<blockquote><p>где родившийся Царь Иудейский? ибо мы видели звезду Его на востоке и пришли поклониться Ему. Услышав это, Ирод царь встревожился, и весь Иерусалим с ним. И, собрав всех первосвященников и книжников народных, спрашивал у них: где должно родиться Христу? Они же сказали ему: в Вифлееме Иудейском, ибо так написано через пророка: и ты, Вифлеем, земля Иудина, ничем не меньше воеводств Иудиных, ибо из тебя произойдет Вождь, Который упасет народ Мой, Израиля.</p><cite>Мф. 2:2-6</cite></blockquote>
-<h4>(а) Важность понимания Божьего суверенитета и контроля – Божий план, Божье водительство народа Божьего</h4>
-<h4>(б) Важность понимания Эммануила – Христос с человек Рим. 8:9,14</h4>
-<blockquote><p>Но вы не по плоти живете, а по духу, если только Дух Божий живет в вас. Если же кто Духа Христова не имеет, тот <em>и</em> не Его.</p><cite>Рим. 8:9</cite></blockquote>
-<blockquote><p>Ибо все, водимые Духом Божиим, суть сыны Божии.</p><cite>Рим. 8:14</cite></blockquote>
-<h3>(7) Христос родится в Вифлееме</h3>
-<ul>
-<li>Мх. 5:2, - Мф. 2:1</li>
-</ul>
-<blockquote><p>Когда же Иисус родился в Вифлееме Иудейском во дни царя Ирода, пришли в Иерусалим волхвы с востока и говорят:</p><cite>Мф. 2:1</cite></blockquote>
-<h4>(а) Понимание важности Ханаана – приход Христа</h4>
-<h4>(б) Важность понимания Божьего суверенитета и контроля – назначенный Божий план для спасения человека</h4>
-<h3>(8) Христос будет иметь имя – Эммануил Ис. 7:14, - Мф. 1:22</h3>
-<blockquote><p>Итак Сам Господь даст вам знамение: се, Дева во чреве приимет и родит Сына, и нарекут имя Ему: Еммануил.</p><cite>Ис. 7:14</cite></blockquote>
-<blockquote><p>А все сие произошло, да сбудется реченное Господом через пророка, который говорит:</p><cite>Мф. 1:22</cite></blockquote>
-<h4>(а) Имя Христа – понимание предназначения Христа, единственный метод пребывания с Богом</h4>
-<h4>(б) Имя Христа – понимание предназначения Христа, возвращение человека в первоначальный вид</h4>
-<h3>(9) При рождении Христа будет истребление детей Иер. 31:15, - Мф. 2:16</h3>
-<blockquote><p>Так говорит Господь: голос слышен в Раме, вопль и горькое рыдание; Рахиль плачет о детях своих и не хочет утешиться о детях своих, ибо их нет.</p><cite>Иер. 31:15</cite></blockquote>
-<blockquote><p>Тогда Ирод, увидев себя осмеянным волхвами, весьма разгневался, и послал избить всех младенцев в Вифлееме и во всех пределах его, от двух лет и ниже, по времени, которое выведал от волхвов.</p><cite>Мф. 2:16</cite></blockquote>
-<h4>(а) Понимание действия сатана – остановить приход Христа, остановить законное искупление человечества</h4>
-<h4>(б) Понимание действия сатана – ненависть к человеку</h4>
-<h3>(10) О приходе Христа возвестит особый Предтеча Мал. 3:1,4:5,Ис. 40:3-5, - Мф. 3:1,11:10</h3>
-<blockquote><p>Вот, Я посылаю Ангела Моего, и он приготовит путь предо Мною, и внезапно придет в храм Свой Господь, Которого вы ищете, и Ангел завета, Которого вы желаете; вот, Он идет, говорит Господь Саваоф.</p><cite>Мал. 3:1</cite></blockquote>
-<blockquote><p>Вот, Я пошлю к вам Илию пророка пред наступлением дня Господня, великого и страшного.</p><cite>Мал. 4:5</cite></blockquote>
-<blockquote><p>Глас вопиющего в пустыне: приготовьте путь Господу, прямыми сделайте в степи стези Богу нашему; всякий дол да наполнится, и всякая гора и холм да понизятся, кривизны выпрямятся и неровные пути сделаются гладкими; и явится слава Господня, и узрит всякая плоть ; ибо уста Господни изрекли это.</p><cite>Ис. 40:3-5</cite></blockquote>
-<blockquote><p>В те дни приходит Иоанн Креститель и проповедует в пустыне Иудейской</p><cite>Мф. 3:1</cite></blockquote>
-<blockquote><p>Ибо он тот, о котором написано: се, Я посылаю Ангела Моего пред лицем Твоим, который приготовит путь Твой пред Тобою.</p><cite>Мф. 11:10</cite></blockquote>
-<h4>(а) Важность прихода Христа для человека</h4>
-<h4>(б) Желание Бога максимально проинформировать человека</h4>
-<h3>(11) Христос будет крещен Святым Духом Ис. 11:1-2, - Мф. 3:16-17</h3>
-<blockquote><p>И произойдет отрасль от корня Иессеева, и ветвь произрастет от корня его; и почиет на нем Дух Господень, дух премудрости и разума, дух совета и крепости, дух ведения и благочестия;</p><cite>Ис. 11:1-2</cite></blockquote>
-<blockquote><p>И, крестившись, Иисус тотчас вышел из воды, -- и се, отверзлись Ему небеса, и увидел <em>Иоанн</em> Духа Божия, Который сходил, как голубь, и ниспускался на Него. И се, глас с небес глаголющий: Сей есть Сын Мой возлюбленный, в Котором Мое благоволение.</p><cite>Мф. 3:16-17</cite></blockquote>
-<h4>(а) Христос – Истинный Мессия, Помазанник</h4>
-<h4>(б) Христос – Истинный Царь, Священник, Пророк</h4>
-<h3>(12) Христос будет Истинным Царем Зах. 9:9, - Мф. 27:37</h3>
-<blockquote><p>Ликуй от радости, дщерь Сиона, торжествуй, дщерь Иерусалима: се Царь твой грядет к тебе, праведный и спасающий, кроткий, сидящий на ослице и на молодом осле, сыне подъяремной.</p><cite>Зах. 9:9</cite></blockquote>
-<blockquote><p>и поставили над головою Его надпись, означающую вину Его: Сей есть Иисус, Царь Иудейский.</p><cite>Мф. 27:37</cite></blockquote>
-<h4>(а) Статус Христа от создания мира – Царь Царей</h4>
-<h4>(б) Истиный Царь – забота и защита человека</h4>
-<h2>Заключение:</h2>
-<h3>(1) Важность правильного понимания Писаний В.З Ин. 5:39, - Лк. 24:25-27,44-47,Ин. 5:45-47,1-е Кор. 15:1-4</h3>
-<blockquote><p>Исследуйте Писания, ибо вы думаете чрез них иметь жизнь вечную; а они свидетельствуют о Мне.</p><cite>Ин. 5:39</cite></blockquote>
-<blockquote><p>Тогда Он сказал им: о, несмысленные и медлительные сердцем, чтобы веровать всему, что предсказывали пророки! Не так ли надлежало пострадать Христу и войти в славу Свою? И, начав от Моисея, из всех пророков изъяснял им сказанное о Нем во всем Писании.</p><cite>Лк. 24:25-27</cite></blockquote>
-<blockquote><p>И сказал им: вот то, о чем Я вам говорил, еще быв с вами, что надлежит исполниться всему, написанному о Мне в законе Моисеевом и в пророках и псалмах. Тогда отверз им ум к уразумению Писаний. И сказал им: так написано, и так надлежало пострадать Христу, и воскреснуть из мертвых в третий день, и проповедану быть во имя Его покаянию и прощению грехов во всех народах, начиная с Иерусалима.</p><cite>Лк. 24:44-47</cite></blockquote>
-<blockquote><p>Не думайте, что Я буду обвинять вас пред Отцем: есть на вас обвинитель Моисей, на которого вы уповаете. Ибо если бы вы верили Моисею, то поверили бы и Мне, потому что он писал о Мне. Если же его писаниям не верите, как поверите Моим словам?</p><cite>Ин. 5:45-47</cite></blockquote>
-<blockquote><p>Напоминаю вам, братия, Евангелие, которое я благовествовал вам, которое вы и приняли, в котором и утвердились, которым и спасаетесь, если преподанное удерживаете так, как я благовествовал вам, если только не тщетно уверовали. Ибо я первоначально преподал вам, что и <em>сам</em> принял, <em>то</em> <em>есть,</em> что Христос умер за грехи наши, по Писанию, и что Он погребен был, и что воскрес в третий день, по Писанию,</p><cite>1-е Кор. 15:1-4</cite></blockquote>
-<h3>(2) Важность понимания законного способа получения дара веры Божьей и понимания Слово Божье Рим. 10:17,1-е Тим. 4:16</h3>
-<blockquote><p>Итак вера от слышания, а слышание от слова Божия.</p><cite>Рим. 10:17</cite></blockquote>
-<blockquote><p>Вникай в себя и в учение; занимайся сим постоянно: ибо, так поступая, и себя спасешь и слушающих тебя.</p><cite>1-е Тим. 4:16</cite></blockquote>
-<h3>(3) Важность понимания миссии Христа</h3>
-<h4>(а) Умереть за все грехи всех людей – искупление человек</h4>
-<h4>(б) Подготовить учеников - важность познания и передачи Слово Божье, Завета, Христос, Всемирная Евангелизация, подготовка второго прихода Христа</h4>
-<h4>(в) Показать людям Святого, Истинного Бога</h4>
-<h3>(4) Важность исполнения предназначения народа Божьего</h3>
-<h3>(5) Важность понимания действия сатана</h3>
-<h2>3.1) Важность правильного понимания Христа</h2>
-<h3>(1) Предназначение народа Божьего – сохранение и передача Слово Божье, Завета, Христос, Ханаан - Всемирная Евангелизация (Церковь) Рим. 3:2 Быт. 1:27,2:7,17 (Быт. 3:1-7, - Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h3>
-<blockquote><p>Великое преимущество во всех отношениях, а наипаче <em>в</em> <em>том,</em> что им вверено слово Божие.</p><cite>Рим. 3:2</cite></blockquote>
-<blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
-<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<blockquote><p>а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:17</cite></blockquote>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
-<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<h3>(2) Ожидание Мессии, Христа народом Божьим Дн. 26:4-8,Гал. 3:16-17, - 1-е Пет. 1:10-11,Дн. 10:43</h3>
-<blockquote><p>Жизнь мою от юности <em>моей,</em> которую сначала проводил я среди народа моего в Иерусалиме, знают все Иудеи; они издавна знают обо мне, если захотят свидетельствовать, что я жил фарисеем по строжайшему в нашем вероисповедании учению. И ныне я стою перед судом за надежду на обетование, данное от Бога нашим отцам, которого исполнение надеются увидеть наши двенадцать колен, усердно служа <em>Богу</em> день и ночь. За сию-то надежду, царь Агриппа, обвиняют меня Иудеи. Что же? Неужели вы невероятным почитаете, что Бог воскрешает мертвых?</p><cite>Дн. 26:4-8</cite></blockquote>
-<blockquote><p>Но Аврааму даны были обетования и семени его. Не сказано: и потомкам, как бы о многих, но как об одном: и семени твоему, которое есть Христос. Я говорю то, что завета о Христе, прежде Богом утвержденного, закон, явившийся спустя четыреста тридцать лет, не отменяет так, чтобы обетование потеряло силу.</p><cite>Гал. 3:16-17</cite></blockquote>
-<blockquote><p>К сему-то спасению относились изыскания и исследования пророков, которые предсказывали о назначенной вам благодати, исследывая, на которое и на какое время указывал сущий в них Дух Христов, когда Он предвозвещал Христовы страдания и последующую за ними славу.</p><cite>1-е Пет. 1:10-11</cite></blockquote>
-<blockquote><p>О Нем все пророки свидетельствуют, что всякий верующий в Него получит прощение грехов именем Его.</p><cite>Дн. 10:43</cite></blockquote>
-<h3>(3) Непринятие Слово Божье, Завета, Христос, большинство Иудеев, непринятие Божественности Христа и Вседостаточности Его Жертвы. Ин. 10:33, - Рим. 9:30-33</h3>
-<blockquote><p>Иудеи сказали Ему в ответ: не за доброе дело хотим побить Тебя камнями, но за богохульство и за то, что Ты, будучи человек, делаешь Себя Богом.</p><cite>Ин. 10:33</cite></blockquote>
-<blockquote><p>Что же скажем? Язычники, не искавшие праведности, получили праведность, праведность от веры. А Израиль, искавший закона праведности, не достиг до закона праведности. Почему? потому что <em>искали</em> не в вере, а в делах закона. Ибо преткнулись о камень преткновения, как написано: вот, полагаю в Сионе камень преткновения и камень соблазна; но всякий, верующий в Него, не постыдится.</p><cite>Рим. 9:30-33</cite></blockquote>
-<h3>(4) Важность понимания Божьего суверенитета и контроля, неизбежность исполнения Слово Божье, Завета, Христос, Божий план</h3>
-<h2>2) Важность соответствия Христа пророчествам Бог</h2>
-<h3>(1) Христос будет Истинным Священником Пс. 109:4, - Евр. 3:1,5:5-6</h3>
-<blockquote><p>Клялся Господь и не раскается: Ты священник вовек по чину Мелхиседека.</p><cite>Пс. 109:4</cite></blockquote>
-<blockquote><p>Итак, братия святые, участники в небесном звании, уразумейте Посланника и Первосвященника исповедания нашего, Иисуса Христа,</p><cite>Евр. 3:1</cite></blockquote>
-<blockquote><p>Так и Христос не Сам Себе присвоил славу быть первосвященником, но Тот, Кто сказал Ему: Ты Сын Мой, Я ныне родил Тебя; как и в другом <em>месте</em> говорит: Ты священник вовек по чину Мелхиседека.</p><cite>Евр. 5:5-6</cite></blockquote>
-<h4>(а) Статус Христа от создания мира – Первосвященник по чину Мелхиседека</h4>
-<h4>(б) Истиный Священник – решение всех грехов человека</h4>
-<h3>(2) Христос будет Истинным Пророком Втор. 18:18, - Мф. 21:11</h3>
-<blockquote><p>Я воздвигну им Пророка из среды братьев их, такого как ты, и вложу слова Мои в уста Его, и Он будет говорить им все, что Я повелю Ему;</p><cite>Втор. 18:18</cite></blockquote>
-<blockquote><p>Народ же говорил: Сей есть Иисус, Пророк из Назарета Галилейского.</p><cite>Мф. 21:11</cite></blockquote>
-<h4>(а) Статус Христа от создания мира – Слово Божье во плоти</h4>
-<h4>(б) Истиный Пророк – постоянное возвещение слова от Бога для человека</h4>
-<h3>(3) Христос будет Истинным Примирителем Быт. 49:10, - 2-е Кор. 5:19-21</h3>
-<blockquote><p>Не отойдет скипетр от Иуды и законодатель от чресл его, доколе не приидет Примиритель, и Ему покорность народов.</p><cite>Быт. 49:10</cite></blockquote>
-<blockquote><p>потому что Бог во Христе примирил с Собою мир, не вменяя <em>людям</em> преступлений их, и дал нам слово примирения. Итак мы -- посланники от имени Христова, и как бы Сам Бог увещевает через нас; от имени Христова просим: примиритесь с Богом. Ибо не знавшего греха Он сделал для нас <em>жертвою</em> <em>за</em> грех, чтобы мы в Нем сделались праведными пред Богом.</p><cite>2-е Кор. 5:19-21</cite></blockquote>
-<h4>(а) Важность понимания причины вражды человека с Богом</h4>
-<h4>(б) Законное решение проблемы греха – единственный метод примирения человека с Богом</h4>
-<h3>(4) Христос будет Истинным Судьей Ис. 33:22, - Ин. 5:22,27</h3>
-<blockquote><p>Ибо Господь - судия наш, Господь - законодатель наш, Господь - царь наш; Он спасет нас.</p><cite>Ис. 33:22</cite></blockquote>
-<blockquote><p>Ибо Отец и не судит никого, но весь суд отдал Сыну,</p><cite>Ин. 5:22</cite></blockquote>
-<blockquote><p>И дал Ему власть производить и суд, потому что Он есть Сын Человеческий.</p><cite>Ин. 5:27</cite></blockquote>
-<h4>(а) Важность понимания суда Божьего – проблема греха</h4>
-<h4>(б) Право прощать грехи Бог дал тому, Кто за них заплатил</h4>
-<h3>(5) Христос восстановит Храм Божий Зах. 6:12-13, - Ин. 2:18-22,1-е Кор. 3:16,6:19,2-е Кор. 13:5</h3>
-<blockquote><p>и скажи ему: так говорит Господь Саваоф: вот Муж, - имя Ему ОТРАСЛЬ, Он произрастет из Своего корня и создаст храм Господень. Он создаст храм Господень и примет славу, и воссядет, и будет владычествовать на престоле Своем; будет и священником на престоле Своем, и совет мира будет между тем и другим.</p><cite>Зах. 6:12-13</cite></blockquote>
-<blockquote><p>На это Иудеи сказали: каким знамением докажешь Ты нам, что <em>имеешь</em> <em>власть</em> так поступать? Иисус сказал им в ответ: разрушьте храм сей, и Я в три дня воздвигну его. На это сказали Иудеи: сей храм строился сорок шесть лет, и Ты в три дня воздвигнешь его? А Он говорил о храме тела Своего. Когда же воскрес Он из мертвых, то ученики Его вспомнили, что Он говорил это, и поверили Писанию и слову, которое сказал Иисус.</p><cite>Ин. 2:18-22</cite></blockquote>
-<blockquote><p>Разве не знаете, что вы храм Божий, и Дух Божий живет в вас?</p><cite>1-е Кор. 3:16</cite></blockquote>
-<blockquote><p>Не знаете ли, что тела ваши суть храм живущего в вас Святаго Духа, Которого имеете вы от Бога, и вы не свои?</p><cite>1-е Кор. 6:19</cite></blockquote>
-<blockquote><p>Испытывайте самих себя, в вере ли вы; самих себя исследывайте. Или вы не знаете самих себя, что Иисус Христос в вас? Разве только вы не то, чем должны быть.</p><cite>2-е Кор. 13:5</cite></blockquote>
-<h4>(а) Важность понимания грехопадения человечества – власть греха, смерти и ада, сатана, разрушение Истинного Храма Божьего (человек), законное и вечное разделение человека с Богом</h4>
-<h4>(б) Важность понимания работы Христа – решение всех проблем человек, законное освобождение от власти греха, смерти и ада, сатана, восстановление человека в первоначальный вид, восстановление Истинного Храма Божьего (Эмммануил)</h4>
-<h3>(6) Христос будет «камнем преткновения» для евреев Пс. 117:22, - Рим. 9:30-33,1-е Пет. 2:4-8</h3>
-<blockquote><p>Камень, который отвергли строители, соделался главою угла:</p><cite>Пс. 117:22</cite></blockquote>
-<blockquote><p>Что же скажем? Язычники, не искавшие праведности, получили праведность, праведность от веры. А Израиль, искавший закона праведности, не достиг до закона праведности. Почему? потому что <em>искали</em> не в вере, а в делах закона. Ибо преткнулись о камень преткновения, как написано: вот, полагаю в Сионе камень преткновения и камень соблазна; но всякий, верующий в Него, не постыдится.</p><cite>Рим. 9:30-33</cite></blockquote>
-<blockquote><p>Приступая к Нему, камню живому, человеками отверженному, но Богом избранному, драгоценному, и сами, как живые камни, устрояйте из себя дом духовный, священство святое, чтобы приносить духовные жертвы, благоприятные Богу Иисусом Христом. Ибо сказано в Писании: вот, Я полагаю в Сионе камень краеугольный, избранный, драгоценный; и верующий в Него не постыдится. Итак Он для вас, верующих, драгоценность, а для неверующих камень, который отвергли строители, но который сделался главою угла, камень претыкания и камень соблазна, о который они претыкаются, не покоряясь слову, на что они и оставлены.</p><cite>1-е Пет. 2:4-8</cite></blockquote>
-<h4>(а) Важность правильного понимания Слово Божье с позиции Завета, Христос</h4>
-<h4>(б) Понимание действия сатана – противление Слово Божье, Завет, Христос, утверждение религии (зарабатывание спасения), видимое</h4>
-<h3>(7) Христос въедет в Иерусалим на осле Зах. 9:9, - Мф. 21:6-11</h3>
-<blockquote><p>Ликуй от радости, дщерь Сиона, торжествуй, дщерь Иерусалима: се Царь твой грядет к тебе, праведный и спасающий, кроткий, сидящий на ослице и на молодом осле, сыне подъяремной.</p><cite>Зах. 9:9</cite></blockquote>
-<blockquote><p>Ученики пошли и поступили так, как повелел им Иисус: привели ослицу и молодого осла и положили на них одежды свои, и Он сел поверх их. Множество же народа постилали свои одежды по дороге, а другие резали ветви с дерев и постилали по дороге; народ же, предшествовавший и сопровождавший, восклицал: осанна Сыну Давидову! благословен Грядущий во имя Господне! осанна в вышних! И когда вошел Он в Иерусалим, весь город пришел в движение и говорил: кто Сей? Народ же говорил: Сей есть Иисус, Пророк из Назарета Галилейского.</p><cite>Мф. 21:6-11</cite></blockquote>
-<h4>(а) Важность понимания миссии Христа – служение человеку, исполнение приговора Слово Божье вместо каждого человека</h4>
-<h4>(б) Важность понимания и исполнения предназначения народа Божьего – служение человеку, донесение Слово Божье, Завета, Христос (Важность познания и передачи Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация)</h4>
-<h3>(8) Христос войдет в Храм Мал. 3:1,Пс. 68:10, - Ин. 2:15-17,Мф. 21:12</h3>
-<blockquote><p>Вот, Я посылаю Ангела Моего, и он приготовит путь предо Мною, и внезапно придет в храм Свой Господь, Которого вы ищете, и Ангел завета, Которого вы желаете; вот, Он идет, говорит Господь Саваоф.</p><cite>Мал. 3:1</cite></blockquote>
-<blockquote><p>ибо ревность по доме Твоем снедает меня, и злословия злословящих Тебя падают на меня;</p><cite>Пс. 68:10</cite></blockquote>
-<blockquote><p>И, сделав бич из веревок, выгнал из храма всех, <em>также</em> и овец и волов; и деньги у меновщиков рассыпал, а столы их опрокинул. И сказал продающим голубей: возьмите это отсюда и дома Отца Моего не делайте домом торговли. При сем ученики Его вспомнили, что написано: ревность по доме Твоем снедает Меня.</p><cite>Ин. 2:15-17</cite></blockquote>
-<blockquote><p>И вошел Иисус в храм Божий и выгнал всех продающих и покупающих в храме, и опрокинул столы меновщиков и скамьи продающих голубей,</p><cite>Мф. 21:12</cite></blockquote>
-<h4>(а) Важность понимания значения Скинии и Храма – Христос, решение проблемы греха, Эммануил</h4>
-<h4>(б) Вхождение в Храм – фактическое решение проблемы греха, Эммануил, восстановление истинного Храма (человек)</h4>
-<h3>(9) Христос будет предан близким человеком Пс. 40:10, - Мф. 10:4,Ин. 17:12</h3>
-<blockquote><p>Даже человек мирный со мною, на которого я полагался, который ел хлеб мой, поднял на меня пяту.</p><cite>Пс. 40:10</cite></blockquote>
-<blockquote><p>Симон Кананит и Иуда Искариот, который и предал Его.</p><cite>Мф. 10:4</cite></blockquote>
-<blockquote><p>Когда Я был с ними в мире, Я соблюдал их во имя Твое; тех, которых Ты дал Мне, Я сохранил, и никто из них не погиб, кроме сына погибели, да сбудется Писание.</p><cite>Ин. 17:12</cite></blockquote>
-<h4>(а) Понимание Божьего предузнания выбора человека</h4>
-<h4>(б) Предательство Иуды, важность понимание причины Жертвы Христа (предательство человечества, грех Адама)</h4>
-<h3>(10) Христа предадут за тридцать серебренников и деньги за предательство Христа будут брошены в доме Божьем, и на них купят поле горшечника Зах. 11:12-13, - Мф. 26:15,27:5-7</h3>
-<blockquote><p>И скажу им: если угодно вам, то дайте Мне плату Мою; если же нет, - не давайте; и они отвесят в уплату Мне тридцать сребренников. И сказал мне Господь: брось их в церковное хранилище, - высокая цена, в какую они оценили Меня! И взял Я тридцать сребренников и бросил их в дом Господень для горшечника.</p><cite>Зах. 11:12-13</cite></blockquote>
-<blockquote><p>и сказал: что вы дадите мне, и я вам предам Его? Они предложили ему тридцать сребренников;</p><cite>Мф. 26:15</cite></blockquote>
-<blockquote><p>И, бросив сребренники в храме, он вышел, пошел и удавился. Первосвященники, взяв сребренники, сказали: непозволительно положить их в сокровищницу церковную, потому что это цена крови. Сделав же совещание, купили на них землю горшечника, для погребения странников;</p><cite>Мф. 27:5-7</cite></blockquote>
-<h4>(а) Важность понимания грехопадения, предательство Бога ради ничего нестоящих вещей, действие сатана, выбор человека</h4>
-<h4>(б) Предательство Бога через действие религии, иное слово</h4>
-<h4>(в) Земля горшечника для погребения странников – логический конец всякого человека предавшего Бога. Рим. 6:23</h4>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<h3>(11) Христос будет оставлен учениками Зах. 13:7, - Мф. 26:31,Мк. 14:50</h3>
+<h1>43. Ин. 18–19: Гефсиманский сад, суд и смерть Христа</h1>
+<h2 id="s1">1) Мф. 26:30-35, - утверждение Слово Божье, Завета, Христос</h2>
+<blockquote><p>И, воспев, пошли на гору Елеонскую. Тогда говорит им Иисус: все вы соблазнитесь о Мне в эту ночь, ибо написано: поражу пастыря, и рассеются овцы стада; по воскресении же Моем предварю вас в Галилее. Петр сказал Ему в ответ: если и все соблазнятся о Тебе, я никогда не соблазнюсь. Иисус сказал ему: истинно говорю тебе, что в эту ночь, прежде нежели пропоет петух, трижды отречешься от Меня. Говорит Ему Петр: хотя бы надлежало мне и умереть с Тобою, не отрекусь от Тебя. Подобное говорили и все ученики.</p><cite>Мф. 26:30-35</cite></blockquote>
+<h3>(1) Понимание Христа – неточное понимание Слово Божье, ученики</h3>
+<h3>(2) Утверждение Слово Божье – смерть Христа, исполнение Слово Божье Зах. 13:7 Быт. 1:27,2:7,17 (Быт. 3:1-7, - Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h3>
 <blockquote><p>О, меч! поднимись на пастыря Моего и на ближнего Моего, говорит Господь Саваоф: порази пастыря, и рассеются овцы! И Я обращу руку Мою на малых.</p><cite>Зах. 13:7</cite></blockquote>
-<blockquote><p>Тогда говорит им Иисус: все вы соблазнитесь о Мне в эту ночь, ибо написано: поражу пастыря, и рассеются овцы стада;</p><cite>Мф. 26:31</cite></blockquote>
-<blockquote><p>Тогда, оставив Его, все бежали.</p><cite>Мк. 14:50</cite></blockquote>
-<h4>(а) Важность понимания и принятия Слово Божье, Завета, Христос для человек</h4>
-<h4>(б) Важность понимания верности Христа Богу и человеку 2-е Тим. 2:13,Фил. 2:7-8</h4>
-<blockquote><p>если мы неверны, Он пребывает верен, ибо Себя отречься не может.</p><cite>2-е Тим. 2:13</cite></blockquote>
-<blockquote><p>но уничижил Себя Самого, приняв образ раба, сделавшись подобным человекам и по виду став как человек; смирил Себя, быв послушным даже до смерти, и смерти крестной.</p><cite>Фил. 2:7-8</cite></blockquote>
-<h3>(12) Христа будут обвинять лжесвидетели Пс. 34:11, - Мф. 26:59-60</h3>
-<blockquote><p>Восстали на меня свидетели неправедные: чего я не знаю, о том допрашивают меня;</p><cite>Пс. 34:11</cite></blockquote>
-<blockquote><p>Первосвященники и старейшины и весь синедрион искали лжесвидетельства против Иисуса, чтобы предать Его смерти, и не находили; и, хотя много лжесвидетелей приходило, не нашли. Но наконец пришли два лжесвидетеля</p><cite>Мф. 26:59-60</cite></blockquote>
-<h4>(а) Божественность Христа – полное исполнение всех требований закона, идеальная и безгрешная жизнь</h4>
-<h4>(б) Действие сатана – постоянное утверждение лжи</h4>
-<h2>Заключение:</h2>
-<h3>(1) Важность правильного понимания Писаний В.З Ин. 5:39, - Лк. 24:25-27,44-47,Ин. 5:45-47,1-е Кор. 15:1-4</h3>
-<blockquote><p>Исследуйте Писания, ибо вы думаете чрез них иметь жизнь вечную; а они свидетельствуют о Мне.</p><cite>Ин. 5:39</cite></blockquote>
-<blockquote><p>Тогда Он сказал им: о, несмысленные и медлительные сердцем, чтобы веровать всему, что предсказывали пророки! Не так ли надлежало пострадать Христу и войти в славу Свою? И, начав от Моисея, из всех пророков изъяснял им сказанное о Нем во всем Писании.</p><cite>Лк. 24:25-27</cite></blockquote>
-<blockquote><p>И сказал им: вот то, о чем Я вам говорил, еще быв с вами, что надлежит исполниться всему, написанному о Мне в законе Моисеевом и в пророках и псалмах. Тогда отверз им ум к уразумению Писаний. И сказал им: так написано, и так надлежало пострадать Христу, и воскреснуть из мертвых в третий день, и проповедану быть во имя Его покаянию и прощению грехов во всех народах, начиная с Иерусалима.</p><cite>Лк. 24:44-47</cite></blockquote>
-<blockquote><p>Не думайте, что Я буду обвинять вас пред Отцем: есть на вас обвинитель Моисей, на которого вы уповаете. Ибо если бы вы верили Моисею, то поверили бы и Мне, потому что он писал о Мне. Если же его писаниям не верите, как поверите Моим словам?</p><cite>Ин. 5:45-47</cite></blockquote>
-<blockquote><p>Напоминаю вам, братия, Евангелие, которое я благовествовал вам, которое вы и приняли, в котором и утвердились, которым и спасаетесь, если преподанное удерживаете так, как я благовествовал вам, если только не тщетно уверовали. Ибо я первоначально преподал вам, что и <em>сам</em> принял, <em>то</em> <em>есть,</em> что Христос умер за грехи наши, по Писанию, и что Он погребен был, и что воскрес в третий день, по Писанию,</p><cite>1-е Кор. 15:1-4</cite></blockquote>
-<h3>(2) Важность понимания законного способа получения дара веры Божьей и понимания Слово Божье Рим. 10:17,1-е Тим. 4:16</h3>
-<blockquote><p>Итак вера от слышания, а слышание от слова Божия.</p><cite>Рим. 10:17</cite></blockquote>
-<blockquote><p>Вникай в себя и в учение; занимайся сим постоянно: ибо, так поступая, и себя спасешь и слушающих тебя.</p><cite>1-е Тим. 4:16</cite></blockquote>
-<h3>(3) Важность понимания миссии Христа</h3>
-<h4>(а) Умереть за все грехи всех людей – искупление человек</h4>
-<h4>(б) Подготовить учеников - важность познания и передачи Слово Божье, Завета, Христос, Всемирная Евангелизация, подготовка второго прихода Христа</h4>
-<h4>(в) Показать людям Святого, Истинного Бога</h4>
-<h3>(4) Важность исполнения предназначения народа Божьего</h3>
-<h3>(5) Важность понимания действия сатана</h3>
-<h2>4.1) Важность правильного понимания Христа</h2>
-<h3>(1) Предназначение народа Божьего – сохранение и передача Слово Божье, Завета, Христос, Ханаан - Всемирная Евангелизация (Церковь) Рим. 3:2 Быт. 1:27,2:7,17 (Быт. 3:1-7, - Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h3>
-<blockquote><p>Великое преимущество во всех отношениях, а наипаче <em>в</em> <em>том,</em> что им вверено слово Божие.</p><cite>Рим. 3:2</cite></blockquote>
 <blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
 <blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
 <blockquote><p>а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:17</cite></blockquote>
@@ -439,221 +256,97 @@ details.download .menu a:hover{background:var(--quote)}
 <blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
 <blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
 <blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<h3>(2) Ожидание Мессии, Христа народом Божьим Дн. 26:4-8,Гал. 3:16-17, - 1-е Пет. 1:10-11,Дн. 10:43</h3>
-<blockquote><p>Жизнь мою от юности <em>моей,</em> которую сначала проводил я среди народа моего в Иерусалиме, знают все Иудеи; они издавна знают обо мне, если захотят свидетельствовать, что я жил фарисеем по строжайшему в нашем вероисповедании учению. И ныне я стою перед судом за надежду на обетование, данное от Бога нашим отцам, которого исполнение надеются увидеть наши двенадцать колен, усердно служа <em>Богу</em> день и ночь. За сию-то надежду, царь Агриппа, обвиняют меня Иудеи. Что же? Неужели вы невероятным почитаете, что Бог воскрешает мертвых?</p><cite>Дн. 26:4-8</cite></blockquote>
-<blockquote><p>Но Аврааму даны были обетования и семени его. Не сказано: и потомкам, как бы о многих, но как об одном: и семени твоему, которое есть Христос. Я говорю то, что завета о Христе, прежде Богом утвержденного, закон, явившийся спустя четыреста тридцать лет, не отменяет так, чтобы обетование потеряло силу.</p><cite>Гал. 3:16-17</cite></blockquote>
-<blockquote><p>К сему-то спасению относились изыскания и исследования пророков, которые предсказывали о назначенной вам благодати, исследывая, на которое и на какое время указывал сущий в них Дух Христов, когда Он предвозвещал Христовы страдания и последующую за ними славу.</p><cite>1-е Пет. 1:10-11</cite></blockquote>
-<blockquote><p>О Нем все пророки свидетельствуют, что всякий верующий в Него получит прощение грехов именем Его.</p><cite>Дн. 10:43</cite></blockquote>
-<h3>(3) Непринятие Слово Божье, Завета, Христос, большинство Иудеев, непринятие Божественности Христа и Вседостаточности Его Жертвы. Ин. 10:33, - Рим. 9:30-33</h3>
-<blockquote><p>Иудеи сказали Ему в ответ: не за доброе дело хотим побить Тебя камнями, но за богохульство и за то, что Ты, будучи человек, делаешь Себя Богом.</p><cite>Ин. 10:33</cite></blockquote>
-<blockquote><p>Что же скажем? Язычники, не искавшие праведности, получили праведность, праведность от веры. А Израиль, искавший закона праведности, не достиг до закона праведности. Почему? потому что <em>искали</em> не в вере, а в делах закона. Ибо преткнулись о камень преткновения, как написано: вот, полагаю в Сионе камень преткновения и камень соблазна; но всякий, верующий в Него, не постыдится.</p><cite>Рим. 9:30-33</cite></blockquote>
-<h3>(4) Важность понимания Божьего суверенитета и контроля, неизбежность исполнения Слово Божье, Завета, Христос, Божий план</h3>
-<h2>2) Важность соответствия Христа пророчествам Бог</h2>
-<h3>(1) Христос будет молчать перед обвинителями Ис. 53:7, - Мф. 27:12</h3>
-<blockquote><p>Он истязуем был, но страдал добровольно и не открывал уст Своих; как овца, веден был Он на заклание, и как агнец пред стригущим его безгласен, так Он не отверзал уст Своих.</p><cite>Ис. 53:7</cite></blockquote>
-<blockquote><p>И когда обвиняли Его первосвященники и старейшины, Он ничего не отвечал.</p><cite>Мф. 27:12</cite></blockquote>
-<h4>(а) Божественность Христа – осуждение любого человека, если бы Христос отвечал обвинителям (все согрешили) и легионы Ангелов (сокрушение любого войска или страны), Величие и Всемогущество Истинного и Святого Бога</h4>
-<h4>(б) Понимание цели прихода Христа – умереть за все грехи всех людей, исполнение приговора Слово Божье, искупление человеч</h4>
-<h3>(2) Христос будет избит и оплеван Ис. 50:6, - Мф. 26:67</h3>
-<blockquote><p>Я предал хребет Мой биющим и ланиты Мои поражающим; лица Моего не закрывал от поруганий и оплевания.</p><cite>Ис. 50:6</cite></blockquote>
-<blockquote><p>Тогда плевали Ему в лице и заушали Его; другие же ударяли Его по ланитам</p><cite>Мф. 26:67</cite></blockquote>
-<h4>(а) Избиение и оплевание Христа – следствие непринятия Слово Божье, Завета, Христос, осознанный выбор человека</h4>
-<h4>(б) Важность понимания сути непринятия Слово Божье, Завета, Христос – отвержение и противление Истинному и Святому Богу</h4>
-<h3>(3) Христос будет отвержен собственным народом Ис. 53:3, - Ин. 1:11,Мф. 27:15-26</h3>
-<blockquote><p>Он был презрен и умален пред людьми, муж скорбей и изведавший болезни, и мы отвращали от Него лице свое; Он был презираем, и мы ни во что ставили Его.</p><cite>Ис. 53:3</cite></blockquote>
-<blockquote><p>Пришел к своим, и свои Его не приняли.</p><cite>Ин. 1:11</cite></blockquote>
-<blockquote><p>На праздник же <em>Пасхи</em> правитель имел обычай отпускать народу одного узника, которого хотели. Был тогда у них известный узник, называемый Варавва; итак, когда собрались они, сказал им Пилат: кого хотите, чтобы я отпустил вам: Варавву, или Иисуса, называемого Христом? ибо знал, что предали Его из зависти. Между тем, как сидел он на судейском месте, жена его послала ему сказать: не делай ничего Праведнику Тому, потому что я ныне во сне много пострадала за Него. Но первосвященники и старейшины возбудили народ просить Варавву, а Иисуса погубить. Тогда правитель спросил их: кого из двух хотите, чтобы я отпустил вам? Они сказали: Варавву. Пилат говорит им: что же я сделаю Иисусу, называемому Христом? Говорят ему все: да будет распят. Правитель сказал: какое же зло сделал Он? Но они еще сильнее кричали: да будет распят. Пилат, видя, что ничто не помогает, но смятение увеличивается, взял воды и умыл руки перед народом, и сказал: невиновен я в крови Праведника Сего; смотрите вы. И, отвечая, весь народ сказал: кровь Его на нас и на детях наших. Тогда отпустил им Варавву, а Иисуса, бив, предал на распятие.</p><cite>Мф. 27:15-26</cite></blockquote>
-<h4>(а) Иудеи – непринятие Слово Божье, Завета, Христос (большинство), дети дьявол, потомки Авраама по плоти, но не по духу Рим. 2:28-29,3:2,9:30-33, - Гал. 3:7,29</h4>
-<blockquote><p>Ибо не тот Иудей, кто <em>таков</em> по наружности, и не то обрезание, которое наружно, на плоти; но <em>тот</em> Иудей, кто внутренно <em>таков,</em> и <em>то</em> обрезание, <em>которое</em> в сердце, по духу, <em>а</em> не по букве: ему и похвала не от людей, но от Бога.</p><cite>Рим. 2:28-29</cite></blockquote>
-<blockquote><p>Великое преимущество во всех отношениях, а наипаче <em>в</em> <em>том,</em> что им вверено слово Божие.</p><cite>Рим. 3:2</cite></blockquote>
-<blockquote><p>Что же скажем? Язычники, не искавшие праведности, получили праведность, праведность от веры. А Израиль, искавший закона праведности, не достиг до закона праведности. Почему? потому что <em>искали</em> не в вере, а в делах закона. Ибо преткнулись о камень преткновения, как написано: вот, полагаю в Сионе камень преткновения и камень соблазна; но всякий, верующий в Него, не постыдится.</p><cite>Рим. 9:30-33</cite></blockquote>
-<blockquote><p>Познайте же, что верующие суть сыны Авраама.</p><cite>Гал. 3:7</cite></blockquote>
-<blockquote><p>Если же вы Христовы, то вы семя Авраамово и по обетованию наследники.</p><cite>Гал. 3:29</cite></blockquote>
-<h4>(б) Важность понимания истинных потомков Авраама – принятие Слово Божье, Завета, Христос, рождение свыше. Рим. 2:28-29</h4>
-<blockquote><p>Ибо не тот Иудей, кто <em>таков</em> по наружности, и не то обрезание, которое наружно, на плоти; но <em>тот</em> Иудей, кто внутренно <em>таков,</em> и <em>то</em> обрезание, <em>которое</em> в сердце, по духу, <em>а</em> не по букве: ему и похвала не от людей, но от Бога.</p><cite>Рим. 2:28-29</cite></blockquote>
-<h3>(4) Христос будет ненавидим людьми Пс. 68:5, - Ин. 15:25</h3>
-<blockquote><p>Ненавидящих меня без вины больше, нежели волос на голове моей; враги мои, преследующие меня несправедливо, усилились; чего я не отнимал, то должен отдать.</p><cite>Пс. 68:5</cite></blockquote>
-<blockquote><p>Но да сбудется слово, написанное в законе их: возненавидели Меня напрасно.</p><cite>Ин. 15:25</cite></blockquote>
-<h4>(а) Понимание духовной проблемы – власть греха, смерти, сатана</h4>
-<h4>(б) Непринятие Слово Божье, Завета, Христос – выбор человека, дитя дьявол</h4>
-<h3>(5) Христос будет причтен к злодеям Ис. 53:12, - Мф. 27:38</h3>
-<blockquote><p>Посему Я дам Ему часть между великими, и с сильными будет делить добычу, за то, что предал душу Свою на смерть, и к злодеям причтен был, тогда как Он понес на Себе грех многих и за преступников сделался ходатаем.</p><cite>Ис. 53:12</cite></blockquote>
-<blockquote><p>Тогда распяты с Ним два разбойника: один по правую сторону, а другой по левую.</p><cite>Мф. 27:38</cite></blockquote>
-<h4>(а) Праведность Христа – полное исполнение всех требований закона, идеальная и безгрешная жизнь</h4>
-<h4>(б) Понимание предназначения Христа – ответственный за грехи и злодеяния всего мира, но не злодей или грешник</h4>
-<h4>(в) Причтен к злодеям – свидетельство принятия Богом заместительной Жертвы Христа за все грехи и злодеяния человек</h4>
-<h3>(6) Руки и ноги Христа будут пронзенны Пс. 21:17, - Лк. 23:33</h3>
-<blockquote><p>Ибо псы окружили меня, скопище злых обступило меня, пронзили руки мои и ноги мои.</p><cite>Пс. 21:17</cite></blockquote>
-<blockquote><p>И когда пришли на место, называемое Лобное, там распяли Его и злодеев, одного по правую, а другого по левую сторону.</p><cite>Лк. 23:33</cite></blockquote>
-<h4>(а) Важность понимания предназначения Христа – смерть за все грехи всех людей, искупление человечества</h4>
-<h4>(б) Важность Креста (смерть на древе) – решение всех последствий греха (проблема проклятия и смерти человека), полное исполнение Слово Божье Гал. 3:10-12</h4>
-<blockquote><p>а все, утверждающиеся на делах закона, находятся под клятвою. Ибо написано: проклят всяк, кто не исполняет постоянно всего, что написано в книге закона. А что законом никто не оправдывается пред Богом, это ясно, потому что праведный верою жив будет. А закон не по вере; но кто исполняет его, тот жив будет им.</p><cite>Гал. 3:10-12</cite></blockquote>
-<h3>(7) Христос будет ходатайствовать за своих палачей Ис. 53:12, - Лк. 23:34</h3>
-<blockquote><p>Посему Я дам Ему часть между великими, и с сильными будет делить добычу, за то, что предал душу Свою на смерть, и к злодеям причтен был, тогда как Он понес на Себе грех многих и за преступников сделался ходатаем.</p><cite>Ис. 53:12</cite></blockquote>
-<blockquote><p>Иисус же говорил: Отче! прости им, ибо не знают, что делают. И делили одежды Его, бросая жребий.</p><cite>Лк. 23:34</cite></blockquote>
-<h4>(а) Важность понимания предназначения Христа – смерть за все грехи всех людей, искупление человечества</h4>
-<h4>(б) Важность понимания Божьей любви и милости к каждому человеку. Ин. 3:16,Рим. 5:8,Рим. 2:11</h4>
-<blockquote><p>Ибо так возлюбил Бог мир, что отдал Сына Своего Единородного, дабы всякий верующий в Него, не погиб, но имел жизнь вечную.</p><cite>Ин. 3:16</cite></blockquote>
-<blockquote><p>Но Бог Свою любовь к нам доказывает тем, что Христос умер за нас, когда мы были еще грешниками.</p><cite>Рим. 5:8</cite></blockquote>
-<blockquote><p>Ибо нет лицеприятия у Бога.</p><cite>Рим. 2:11</cite></blockquote>
-<h4>(в) Важность понимания воли Божьей в отношении каждого человека. 1-е Тим. 2:4,Рим. 2:11</h4>
-<blockquote><p>Который хочет, чтобы все люди спаслись и достигли познания истины.</p><cite>1-е Тим. 2:4</cite></blockquote>
-<blockquote><p>Ибо нет лицеприятия у Бога.</p><cite>Рим. 2:11</cite></blockquote>
-<h3>(8) Христос будет весь в ранах Ис. 53:5, - Мф. 27:26</h3>
-<blockquote><p>Но Он изъязвлен был за грехи наши и мучим за беззакония наши; наказание мира нашего <em>было</em> на Нем, и ранами Его мы исцелились.</p><cite>Ис. 53:5</cite></blockquote>
-<blockquote><p>Тогда отпустил им Варавву, а Иисуса, бив, предал на распятие.</p><cite>Мф. 27:26</cite></blockquote>
-<h4>(а) Важность понимания предназначения Христа – смерть и страдания за все грехи всех людей, искупление человечества</h4>
-<h4>(б) Раны Христа – искупление тела, законное право детей Божьих на воскресение из мертвых в новых и прославленных телах (отсутствие болезней, страданий, старения и смерти) 1-е Кор. 6:15,20,Отк. 21:2-4</h4>
-<blockquote><p>Разве не знаете, что тела ваши суть члены Христовы? Итак отниму ли члены у Христа, чтобы сделать <em>их</em> членами блудницы? Да не будет!</p><cite>1-е Кор. 6:15</cite></blockquote>
-<blockquote><p>Ибо вы куплены <em>дорогою</em> ценою. Посему прославляйте Бога и в телах ваших и в душах ваших, которые суть Божии.</p><cite>1-е Кор. 6:20</cite></blockquote>
-<blockquote><p>И я, Иоанн, увидел святый город Иерусалим, новый, сходящий от Бога с неба, приготовленный как невеста, украшенная для мужа своего. И услышал я громкий голос с неба, говорящий: се, скиния Бога с человеками, и Он будет обитать с ними; они будут Его народом, и Сам Бог с ними будет Богом их. И отрет Бог всякую слезу с очей их, и смерти не будет уже; ни плача, ни вопля, ни болезни уже не будет, ибо прежнее прошло.</p><cite>Отк. 21:2-4</cite></blockquote>
-<h3>(9) Над Христом будут насмехаться, издеваться и кивать головами Пс. 108:25,21:8-9, - Мф. 27:39-43</h3>
-<blockquote><p>Я стал для них посмешищем: увидев меня, кивают головами .</p><cite>Пс. 108:25</cite></blockquote>
-<blockquote><p>Все, видящие меня, ругаются надо мною, говорят устами, кивая головою: "он уповал на Господа; пусть избавит его, пусть спасет, если он угоден Ему".</p><cite>Пс. 21:8-9</cite></blockquote>
-<blockquote><p>Проходящие же злословили Его, кивая головами своими и говоря: Разрушающий храм и в три дня Созидающий! спаси Себя Самого; если Ты Сын Божий, сойди с креста. Подобно и первосвященники с книжниками и старейшинами и фарисеями, насмехаясь, говорили: других спасал, а Себя Самого не может спасти; если Он Царь Израилев, пусть теперь сойдет с креста, и уверуем в Него; уповал на Бога; пусть теперь избавит Его, если Он угоден Ему. Ибо Он сказал: Я Божий Сын.</p><cite>Мф. 27:39-43</cite></blockquote>
-<h4>(а) Важность понимания и исполнения предназначения – познание и передача Слово Божье, Завета, Христос, Всемирная Евангелизация, приход Христа</h4>
-<h4>(б) Свидетельство людей против себя (грех к смерти) – непринятие и противление Слово Божье, Завету, Христос, дети дьявол</h4>
-<h3>(10) Вокруг Христа соберутся зеваки и Его одежду будут делить, бросая жребий Пс. 21:18-19, - Лк. 23:35,Ин. 19:23-24</h3>
-<blockquote><p>Можно было бы перечесть все кости мои; а они смотрят и делают из меня зрелище; делят ризы мои между собою и об одежде моей бросают жребий.</p><cite>Пс. 21:18-19</cite></blockquote>
-<blockquote><p>И стоял народ и смотрел. Насмехались же вместе с ними и начальники, говоря: других спасал; пусть спасет Себя Самого, если Он Христос, избранный Божий.</p><cite>Лк. 23:35</cite></blockquote>
-<blockquote><p>Воины же, когда распяли Иисуса, взяли одежды Его и разделили на четыре части, каждому воину по части, и хитон; хитон же был не сшитый, а весь тканый сверху. Итак сказали друг другу: не станем раздирать его, а бросим о нем жребий, чей будет, -- да сбудется реченное в Писании: разделили ризы Мои между собою и об одежде Моей бросали жребий. Так поступили воины.</p><cite>Ин. 19:23-24</cite></blockquote>
-<h4>(а) Важность понимания и исполнения предназначения – познание и передача Слово Божье, Завета, Христос, Всемирная Евангелизация, приход Христа</h4>
-<h4>(б) Свидетельство людей против себя (грех к смерти) – непринятие и противление Слово Божье, Завету, Христос, дети дьявол, важность видимого для многих людей (хлеба и зрелищ)</h4>
-<h3>(11) Друзья и близкие Христа будут стоять в отдалении Пс. 37:12, - Мф. 27:55-56</h3>
-<blockquote><p>Друзья мои и искренние отступили от язвы моей, и ближние мои стоят вдали.</p><cite>Пс. 37:12</cite></blockquote>
-<blockquote><p>Там были также и смотрели издали многие женщины, которые следовали за Иисусом из Галилеи, служа Ему; между ними были Мария Магдалина и Мария, мать Иакова и Иосии, и мать сыновей Зеведеевых.</p><cite>Мф. 27:55-56</cite></blockquote>
-<h4>(а) Понимание невозможности для человека совершить самому, или помочь Богу в деле искупления и спасения рода человеч</h4>
-<h4>(б) Спасение – Божьй суверенитет и контроль. (Божья воля, Божий план и Божье действие)</h4>
-<h3>(12) Христос будет страдать от жажды, и Его напоят уксусом с желчью Пс. 68:22, - Мф. 27:34</h3>
-<blockquote><p>И дали мне в пищу желчь, и в жажде моей напоили меня уксусом.</p><cite>Пс. 68:22</cite></blockquote>
-<blockquote><p>дали Ему пить уксуса, смешанного с желчью; и, отведав, не хотел пить.</p><cite>Мф. 27:34</cite></blockquote>
-<h4>(а) Важность понимания предназначения Христа – смерть и страдания за все грехи всех людей, искупление человечества</h4>
-<h4>(б) Страдания и смерть на Кресте, исполнение Слово Божье, решение всех проблем человека, важность принятия Иисуса как Христа. (Обьяснение мельчайших деталей через пророчество Слово Божье, важность принятия Слово Божье, Завета, Христос для каждого человека)</h4>
-<h2>Заключение:</h2>
-<h3>(1) Важность правильного понимания Писаний В.З Ин. 5:39, - Лк. 24:25-27,44-47,Ин. 5:45-47,1-е Кор. 15:1-4</h3>
-<blockquote><p>Исследуйте Писания, ибо вы думаете чрез них иметь жизнь вечную; а они свидетельствуют о Мне.</p><cite>Ин. 5:39</cite></blockquote>
-<blockquote><p>Тогда Он сказал им: о, несмысленные и медлительные сердцем, чтобы веровать всему, что предсказывали пророки! Не так ли надлежало пострадать Христу и войти в славу Свою? И, начав от Моисея, из всех пророков изъяснял им сказанное о Нем во всем Писании.</p><cite>Лк. 24:25-27</cite></blockquote>
-<blockquote><p>И сказал им: вот то, о чем Я вам говорил, еще быв с вами, что надлежит исполниться всему, написанному о Мне в законе Моисеевом и в пророках и псалмах. Тогда отверз им ум к уразумению Писаний. И сказал им: так написано, и так надлежало пострадать Христу, и воскреснуть из мертвых в третий день, и проповедану быть во имя Его покаянию и прощению грехов во всех народах, начиная с Иерусалима.</p><cite>Лк. 24:44-47</cite></blockquote>
-<blockquote><p>Не думайте, что Я буду обвинять вас пред Отцем: есть на вас обвинитель Моисей, на которого вы уповаете. Ибо если бы вы верили Моисею, то поверили бы и Мне, потому что он писал о Мне. Если же его писаниям не верите, как поверите Моим словам?</p><cite>Ин. 5:45-47</cite></blockquote>
-<blockquote><p>Напоминаю вам, братия, Евангелие, которое я благовествовал вам, которое вы и приняли, в котором и утвердились, которым и спасаетесь, если преподанное удерживаете так, как я благовествовал вам, если только не тщетно уверовали. Ибо я первоначально преподал вам, что и <em>сам</em> принял, <em>то</em> <em>есть,</em> что Христос умер за грехи наши, по Писанию, и что Он погребен был, и что воскрес в третий день, по Писанию,</p><cite>1-е Кор. 15:1-4</cite></blockquote>
-<h3>(2) Важность понимания законного способа получения дара веры Божьей и понимания Слово Божье Рим. 10:17,1-е Тим. 4:16</h3>
-<blockquote><p>Итак вера от слышания, а слышание от слова Божия.</p><cite>Рим. 10:17</cite></blockquote>
-<blockquote><p>Вникай в себя и в учение; занимайся сим постоянно: ибо, так поступая, и себя спасешь и слушающих тебя.</p><cite>1-е Тим. 4:16</cite></blockquote>
-<h3>(3) Важность понимания миссии Христа</h3>
-<h4>(а) Умереть за все грехи всех людей – искупление человек</h4>
-<h4>(б) Подготовить учеников - важность познания и передачи Слово Божье, Завета, Христос, Всемирная Евангелизация, подготовка второго прихода Христа</h4>
-<h4>(в) Показать людям Святого, Истинного Бога</h4>
-<h3>(4) Важность исполнения предназначения народа Божьего</h3>
-<h3>(5) Важность понимания действия сатана</h3>
-<h2>5.1) Важность правильного понимания Христа</h2>
-<h3>(1) Предназначение народа Божьего – сохранение и передача Слово Божье, Завета, Христос, Ханаан - Всемирная Евангелизация (Церковь) Рим. 3:2 Быт. 1:27,2:7,17 (Быт. 3:1-7, - Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h3>
-<blockquote><p>Великое преимущество во всех отношениях, а наипаче <em>в</em> <em>том,</em> что им вверено слово Божие.</p><cite>Рим. 3:2</cite></blockquote>
-<blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
-<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<blockquote><p>а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:17</cite></blockquote>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
-<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
+<h3>(3) Утверждение Слово Божье – воскресение Христа. Пс. 15:8-11</h3>
+<blockquote><p>Всегда видел я пред собою Господа, ибо Он одесную меня; не поколеблюсь. Оттого возрадовалось сердце мое и возвеселился язык мой; даже и плоть моя успокоится в уповании, ибо Ты не оставишь души моей в аде и не дашь святому Твоему увидеть тление, Ты укажешь мне путь жизни: полнота радостей пред лицем Твоим, блаженство в деснице Твоей вовек.</p><cite>Пс. 15:8-11</cite></blockquote>
+<h3>(4) Неточное понимание Слово Божье, Завета, Христос – отречение человека, нет спасения и рождения свыше, понимание духовный реальности</h3>
+<h2 id="s2">2) Мф. 26:36-46, - понимание Слово Божье, Завета, Христос, важность Эм-ила</h2>
+<blockquote><p>Потом приходит с ними Иисус на место, называемое Гефсимания, и говорит ученикам: посидите тут, пока Я пойду, помолюсь там. И, взяв с Собою Петра и обоих сыновей Зеведеевых, начал скорбеть и тосковать. Тогда говорит им Иисус: душа Моя скорбит смертельно; побудьте здесь и бодрствуйте со Мною. И, отойдя немного, пал на лице Свое, молился и говорил: Отче Мой! если возможно, да минует Меня чаша сия; впрочем не как Я хочу, но как Ты. И приходит к ученикам и находит их спящими, и говорит Петру: так ли не могли вы один час бодрствовать со Мною? бодрствуйте и молитесь, чтобы не впасть в искушение: дух бодр, плоть же немощна. Еще, отойдя в другой раз, молился, говоря: Отче Мой! если не может чаша сия миновать Меня, чтобы Мне не пить ее, да будет воля Твоя. И, придя, находит их опять спящими, ибо у них глаза отяжелели. И, оставив их, отошел опять и помолился в третий раз, сказав то же слово. Тогда приходит к ученикам Своим и говорит им: вы все еще спите и почиваете? вот, приблизился час, и Сын Человеческий предается в руки грешников; встаньте, пойдем: вот, приблизился предающий Меня.</p><cite>Мф. 26:36-46</cite></blockquote>
+<h3>(1) Исполнение Слово Божье, Завета, Христос, ответственность за грехи всего мира – скорбь и тоска, следствие грехов мира (кровавый пот)</h3>
+<h3>(2) Молитва Христа, понимание следствия ответственности за грехи всего мира – разделение с Отцем, нарушение Эм-ила, пример самого страшного события для всякого человека. (Отсутствие страха, совершенство Христа, Богочеловек)</h3>
+<h3>(3) Сон учеников – невозможность участия человека в искуплении рода человеческого, работа Христа</h3>
+<h3>(4) Важность понимания и утверждения Слово Божье, Завета, Христос, понимание и исполнение предназначения народа Божьего</h3>
+<h2 id="s3">3) Мф. 26:47-56 (Ин. 18:10-12), - исполнение Слово Божье, Завета, Христос</h2>
+<blockquote><p>И, когда еще говорил Он, вот Иуда, один из двенадцати, пришел, и с ним множество народа с мечами и кольями, от первосвященников и старейшин народных. Предающий же Его дал им знак, сказав: Кого я поцелую, Тот и есть, возьмите Его. И, тотчас подойдя к Иисусу, сказал: радуйся, Равви! И поцеловал Его. Иисус же сказал ему: друг, для чего ты пришел? Тогда подошли и возложили руки на Иисуса, и взяли Его. И вот, один из бывших с Иисусом, простерши руку, извлек меч свой и, ударив раба первосвященникова, отсек ему ухо. Тогда говорит ему Иисус: возврати меч твой в его место, ибо все, взявшие меч, мечом погибнут; или думаешь, что Я не могу теперь умолить Отца Моего, и Он представит Мне более, нежели двенадцать легионов Ангелов? как же сбудутся Писания, что так должно быть? В тот час сказал Иисус народу: как будто на разбойника вышли вы с мечами и кольями взять Меня; каждый день с вами сидел Я, уча в храме, и вы не брали Меня. Сие же все было, да сбудутся писания пророков. Тогда все ученики, оставив Его, бежали.</p><cite>Мф. 26:47-56</cite></blockquote>
+<blockquote><p>Симон же Петр, имея меч, извлек его, и ударил первосвященнического раба, и отсек ему правое ухо. Имя рабу было Малх. Но Иисус сказал Петру: вложи меч в ножны; неужели Мне не пить чаши, которую дал Мне Отец? Тогда воины и тысяченачальник и служители Иудейские взяли Иисуса и связали Его,</p><cite>Ин. 18:10-12</cite></blockquote>
+<h3>(1) Петр – непонимание Слово Божье, Завета, Христос, противление Слово Божье</h3>
+<h3>(2) Христос – важность исполнения Слово Божье, Завета, Христос, Всемогущий Бог, важность искупления человечества</h3>
+<h2 id="s4">4) Мф. 26:57-68 (Ин. 18:13-24), - исполнение Слово Божье, Завета, Христос</h2>
+<blockquote><p>А взявшие Иисуса отвели Его к Каиафе первосвященнику, куда собрались книжники и старейшины. Петр же следовал за Ним издали, до двора первосвященникова; и, войдя внутрь, сел со служителями, чтобы видеть конец. Первосвященники и старейшины и весь синедрион искали лжесвидетельства против Иисуса, чтобы предать Его смерти, и не находили; и, хотя много лжесвидетелей приходило, не нашли. Но наконец пришли два лжесвидетеля и сказали: Он говорил: могу разрушить храм Божий и в три дня создать его. И, встав, первосвященник сказал Ему: <em>что</em> <em>же</em> ничего не отвечаешь? что они против Тебя свидетельствуют? Иисус молчал. И первосвященник сказал Ему: заклинаю Тебя Богом живым, скажи нам, Ты ли Христос, Сын Божий? Иисус говорит ему: ты сказал; даже сказываю вам: отныне узрите Сына Человеческого, сидящего одесную силы и грядущего на облаках небесных. Тогда первосвященник разодрал одежды свои и сказал: Он богохульствует! на что еще нам свидетелей? вот, теперь вы слышали богохульство Его! как вам кажется? Они же сказали в ответ: повинен смерти. Тогда плевали Ему в лице и заушали Его; другие же ударяли Его по ланитам и говорили: прореки нам, Христос, кто ударил Тебя?</p><cite>Мф. 26:57-68</cite></blockquote>
+<blockquote><p>и отвели Его сперва к Анне, ибо он был тесть Каиафе, который был на тот год первосвященником. Это был Каиафа, который подал совет Иудеям, что лучше одному человеку умереть за народ. За Иисусом следовали Симон Петр и другой ученик; ученик же сей был знаком первосвященнику и вошел с Иисусом во двор первосвященнический. А Петр стоял вне за дверями. Потом другой ученик, который был знаком первосвященнику, вышел, и сказал придвернице, и ввел Петра. Тут раба придверница говорит Петру: и ты не из учеников ли Этого Человека? Он сказал: нет. Между тем рабы и служители, разведя огонь, потому что было холодно, стояли и грелись. Петр также стоял с ними и грелся. Первосвященник же спросил Иисуса об учениках Его и об учении Его. Иисус отвечал ему: Я говорил явно миру; Я всегда учил в синагоге и в храме, где всегда Иудеи сходятся, и тайно не говорил ничего. Что спрашиваешь Меня? спроси слышавших, что Я говорил им; вот, они знают, что Я говорил. Когда Он сказал это, один из служителей, стоявший близко, ударил Иисуса по щеке, сказав: так отвечаешь Ты первосвященнику? Иисус отвечал ему: если Я сказал худо, покажи, что худо; а если хорошо, что ты бьешь Меня? Анна послал Его связанного к первосвященнику Каиафе.</p><cite>Ин. 18:13-24</cite></blockquote>
+<h3>(1) Первосвященник Анна и Каиафа, старейшины, синедрион – непринятие и противление Слово Божье, Завета, Христос, религия</h3>
+<h3>(2) Причина обвинения и осуждения Иисуса из Назарета – неприятие Его как Мессию Христа, обвинение в богохульстве</h3>
+<h2 id="s5">5) Мф. 26:69-75, - неточное понимание Слово Божье, Завета, Христос</h2>
+<blockquote><p>Петр же сидел вне на дворе. И подошла к нему одна служанка и сказала: и ты был с Иисусом Галилеянином. Но он отрекся перед всеми, сказав: не знаю, что ты говоришь. Когда же он выходил за ворота, увидела его другая, и говорит бывшим там: и этот был с Иисусом Назореем. И он опять отрекся с клятвою, что не знает Сего Человека. Немного спустя подошли стоявшие там и сказали Петру: точно и ты из них, ибо и речь твоя обличает тебя. Тогда он начал клясться и божиться, что не знает Сего Человека. И вдруг запел петух. И вспомнил Петр слово, сказанное ему Иисусом: прежде нежели пропоет петух, трижды отречешься от Меня. И выйдя вон, плакал горько.</p><cite>Мф. 26:69-75</cite></blockquote>
+<h3>(1) Петр – отказ от Христа, неизменное исполнение Слово Божье</h3>
+<h3>(2) Причина – непонимание Слово Божье, Завета, Христос, противление Слово Божье</h3>
+<h4>(а) Противление Слово Божье – дерзновение Петра. Мф. 16:23,26:35,51</h4>
+<blockquote><p>Он же, обратившись, сказал Петру: отойди от Меня, сатана! ты Мне соблазн! потому что думаешь не о том, что Божие, но что человеческое.</p><cite>Мф. 16:23</cite></blockquote>
+<blockquote><p>Говорит Ему Петр: хотя бы надлежало мне и умереть с Тобою, не отрекусь от Тебя. Подобное говорили и все ученики.</p><cite>Мф. 26:35</cite></blockquote>
+<blockquote><p>И вот, один из бывших с Иисусом, простерши руку, извлек меч свой и, ударив раба первосвященникова, отсек ему ухо.</p><cite>Мф. 26:51</cite></blockquote>
+<h4>(б) Утверждение Слово Божье – страх Петра, отказ от Христа</h4>
+<h4>(в) Правильное понимание и принятие Слово Божье, Завета, Христос – дерзновение и храбрость Петра (Деяния), мученическая смерть</h4>
+<h2 id="s6">6) Мф. 27:1-10, - исполнение Слово Божье, Завета, Христос</h2>
+<blockquote><p>Когда же настало утро, все первосвященники и старейшины народа имели совещание об Иисусе, чтобы предать Его смерти; и, связав Его, отвели и предали Его Понтию Пилату, правителю. Тогда Иуда, предавший Его, увидев, что Он осужден, и, раскаявшись, возвратил тридцать сребренников первосвященникам и старейшинам, говоря: согрешил я, предав кровь невинную. Они же сказали ему: что нам до того? смотри сам. И, бросив сребренники в храме, он вышел, пошел и удавился. Первосвященники, взяв сребренники, сказали: непозволительно положить их в сокровищницу церковную, потому что это цена крови. Сделав же совещание, купили на них землю горшечника, для погребения странников; посему и называется земля та "землею крови" до сего дня. Тогда сбылось реченное через пророка Иеремию, который говорит: и взяли тридцать сребренников, цену Оцененного, Которого оценили сыны Израиля, и дали их за землю горшечника, как сказал мне Господь.</p><cite>Мф. 27:1-10</cite></blockquote>
+<h3>(1) Иуда – сын Погибели, судьба человека. Ин. 17:12,18:9</h3>
+<blockquote><p>Когда Я был с ними в мире, Я соблюдал их во имя Твое; тех, которых Ты дал Мне, Я сохранил, и никто из них не погиб, кроме сына погибели, да сбудется Писание.</p><cite>Ин. 17:12</cite></blockquote>
+<blockquote><p>да сбудется слово, реченное Им: из тех, которых Ты Мне дал, Я не погубил никого.</p><cite>Ин. 18:9</cite></blockquote>
+<h3>(2) Божье предузнание и избрание, право выбора человек Пс. 138:16</h3>
+<blockquote><p>Зародыш мой видели очи Твои; в Твоей книге записаны все дни, для меня назначенные, когда ни одного из них еще не было.</p><cite>Пс. 138:16</cite></blockquote>
+<h3>(3) Грех Иуды (грех к смерти) – непринятие Слово Божье, Завета, Христос, непринятие Иисуса из Назарета как Мессию Христа Господня</h3>
+<h3>(4) Раскаяние Иуды, не покаяние – отчаяние, самоубийство, нет спасения и рождения свыше</h3>
+<h2 id="s7">7) Мф. 27:11-26,Лк. 23:1-16, - исполнение Слово Божье, Завета, Христос</h2>
+<blockquote><p>Иисус же стал пред правителем. И спросил Его правитель: Ты Царь Иудейский? Иисус сказал ему: ты говоришь. И когда обвиняли Его первосвященники и старейшины, Он ничего не отвечал. Тогда говорит Ему Пилат: не слышишь, сколько свидетельствуют против Тебя? И не отвечал ему ни на одно слово, так что правитель весьма дивился. На праздник же <em>Пасхи</em> правитель имел обычай отпускать народу одного узника, которого хотели. Был тогда у них известный узник, называемый Варавва; итак, когда собрались они, сказал им Пилат: кого хотите, чтобы я отпустил вам: Варавву, или Иисуса, называемого Христом? ибо знал, что предали Его из зависти. Между тем, как сидел он на судейском месте, жена его послала ему сказать: не делай ничего Праведнику Тому, потому что я ныне во сне много пострадала за Него. Но первосвященники и старейшины возбудили народ просить Варавву, а Иисуса погубить. Тогда правитель спросил их: кого из двух хотите, чтобы я отпустил вам? Они сказали: Варавву. Пилат говорит им: что же я сделаю Иисусу, называемому Христом? Говорят ему все: да будет распят. Правитель сказал: какое же зло сделал Он? Но они еще сильнее кричали: да будет распят. Пилат, видя, что ничто не помогает, но смятение увеличивается, взял воды и умыл руки перед народом, и сказал: невиновен я в крови Праведника Сего; смотрите вы. И, отвечая, весь народ сказал: кровь Его на нас и на детях наших. Тогда отпустил им Варавву, а Иисуса, бив, предал на распятие.</p><cite>Мф. 27:11-26</cite></blockquote>
+<blockquote><p>И поднялось все множество их, и повели Его к Пилату, и начали обвинять Его, говоря: мы нашли, что Он развращает народ наш и запрещает давать подать кесарю, называя Себя Христом Царем. Пилат спросил Его: Ты Царь Иудейский? Он сказал ему в ответ: ты говоришь. Пилат сказал первосвященникам и народу: я не нахожу никакой вины в этом человеке. Но они настаивали, говоря, что Он возмущает народ, уча по всей Иудее, начиная от Галилеи до сего места. Пилат, услышав о Галилее, спросил: разве Он Галилеянин? И, узнав, что Он из области Иродовой, послал Его к Ироду, который в эти дни был также в Иерусалиме. Ирод, увидев Иисуса, очень обрадовался, ибо давно желал видеть Его, потому что много слышал о Нем, и надеялся увидеть от Него какое-нибудь чудо, и предлагал Ему многие вопросы, но Он ничего не отвечал ему. Первосвященники же и книжники стояли и усильно обвиняли Его. Но Ирод со своими воинами, уничижив Его и насмеявшись над Ним, одел Его в светлую одежду и отослал обратно к Пилату. И сделались в тот день Пилат и Ирод друзьями между собою, ибо прежде были во вражде друг с другом. Пилат же, созвав первосвященников и начальников и народ, сказал им: вы привели ко мне человека сего, как развращающего народ; и вот, я при вас исследовал и не нашел человека сего виновным ни в чем том, в чем вы обвиняете Его; и Ирод также, ибо я посылал Его к нему; и ничего не найдено в Нем достойного смерти; итак, наказав Его, отпущу.</p><cite>Лк. 23:1-16</cite></blockquote>
+<h3>(1) Пилат, язычник – признание невиновности Иисуса Христа</h3>
+<h3>(2) Ирод Антипа, сын Ирода Великого, идумей – признание невиновности Иисуса Христа</h3>
+<h3>(3) Мф. 27:15-23, - Божий суверенитет, разьяснение воли Божьей, смерть Христа за преступников и грешников</h3>
+<blockquote><p>На праздник же <em>Пасхи</em> правитель имел обычай отпускать народу одного узника, которого хотели. Был тогда у них известный узник, называемый Варавва; итак, когда собрались они, сказал им Пилат: кого хотите, чтобы я отпустил вам: Варавву, или Иисуса, называемого Христом? ибо знал, что предали Его из зависти. Между тем, как сидел он на судейском месте, жена его послала ему сказать: не делай ничего Праведнику Тому, потому что я ныне во сне много пострадала за Него. Но первосвященники и старейшины возбудили народ просить Варавву, а Иисуса погубить. Тогда правитель спросил их: кого из двух хотите, чтобы я отпустил вам? Они сказали: Варавву. Пилат говорит им: что же я сделаю Иисусу, называемому Христом? Говорят ему все: да будет распят. Правитель сказал: какое же зло сделал Он? Но они еще сильнее кричали: да будет распят.</p><cite>Мф. 27:15-23</cite></blockquote>
+<h3>(4) Мф. 27:24-26, - фарисеи (религия), осуждение Иисуса Христа, принятие всех последствий на себя и своих потомков</h3>
+<blockquote><p>Пилат, видя, что ничто не помогает, но смятение увеличивается, взял воды и умыл руки перед народом, и сказал: невиновен я в крови Праведника Сего; смотрите вы. И, отвечая, весь народ сказал: кровь Его на нас и на детях наших. Тогда отпустил им Варавву, а Иисуса, бив, предал на распятие.</p><cite>Мф. 27:24-26</cite></blockquote>
+<h2 id="s8">8) Мф. 27:27-44, - исполнение Слово Божье, Завета, Христос</h2>
+<blockquote><p>Тогда воины правителя, взяв Иисуса в преторию, собрали на Него весь полк и, раздев Его, надели на Него багряницу; и, сплетши венец из терна, возложили Ему на голову и дали Ему в правую руку трость; и, становясь пред Ним на колени, насмехались над Ним, говоря: радуйся, Царь Иудейский! и плевали на Него и, взяв трость, били Его по голове. И когда насмеялись над Ним, сняли с Него багряницу, и одели Его в одежды Его, и повели Его на распятие. Выходя, они встретили одного Киринеянина, по имени Симона; сего заставили нести крест Его. И, придя на место, называемое Голгофа, что значит: Лобное место, дали Ему пить уксуса, смешанного с желчью; и, отведав, не хотел пить. Распявшие же Его делили одежды Его, бросая жребий; и, сидя, стерегли Его там; и поставили над головою Его надпись, означающую вину Его: Сей есть Иисус, Царь Иудейский. Тогда распяты с Ним два разбойника: один по правую сторону, а другой по левую. Проходящие же злословили Его, кивая головами своими и говоря: Разрушающий храм и в три дня Созидающий! спаси Себя Самого; если Ты Сын Божий, сойди с креста. Подобно и первосвященники с книжниками и старейшинами и фарисеями, насмехаясь, говорили: других спасал, а Себя Самого не может спасти; если Он Царь Израилев, пусть теперь сойдет с креста, и уверуем в Него; уповал на Бога; пусть теперь избавит Его, если Он угоден Ему. Ибо Он сказал: Я Божий Сын. Также и разбойники, распятые с Ним, поносили Его.</p><cite>Мф. 27:27-44</cite></blockquote>
+<h3>(1) Мф. 27:27-31, - страдания Христа, исполнение Слово Божье</h3>
+<blockquote><p>Тогда воины правителя, взяв Иисуса в преторию, собрали на Него весь полк и, раздев Его, надели на Него багряницу; и, сплетши венец из терна, возложили Ему на голову и дали Ему в правую руку трость; и, становясь пред Ним на колени, насмехались над Ним, говоря: радуйся, Царь Иудейский! и плевали на Него и, взяв трость, били Его по голове. И когда насмеялись над Ним, сняли с Него багряницу, и одели Его в одежды Его, и повели Его на распятие.</p><cite>Мф. 27:27-31</cite></blockquote>
+<h3>(2) Мф. 27:32, - Симон Киринеянин, важность несения креста для народа Божьего (исполнения воли Божьей). Мф. 16:24</h3>
+<blockquote><p>Выходя, они встретили одного Киринеянина, по имени Симона; сего заставили нести крест Его.</p><cite>Мф. 27:32</cite></blockquote>
+<blockquote><p>Тогда Иисус сказал ученикам Своим: если кто хочет идти за Мною, отвергнись себя, и возьми крест свой, и следуй за Мною,</p><cite>Мф. 16:24</cite></blockquote>
+<h3>(3) Мф. 27:33-37 (Пс. 21:17-19), - утверждение и исполнение Слово Божье</h3>
+<blockquote><p>И, придя на место, называемое Голгофа, что значит: Лобное место, дали Ему пить уксуса, смешанного с желчью; и, отведав, не хотел пить. Распявшие же Его делили одежды Его, бросая жребий; и, сидя, стерегли Его там; и поставили над головою Его надпись, означающую вину Его: Сей есть Иисус, Царь Иудейский.</p><cite>Мф. 27:33-37</cite></blockquote>
+<blockquote><p>Ибо псы окружили меня, скопище злых обступило меня, пронзили руки мои и ноги мои. Можно было бы перечесть все кости мои; а они смотрят и делают из меня зрелище; делят ризы мои между собою и об одежде моей бросают жребий.</p><cite>Пс. 21:17-19</cite></blockquote>
+<h3>(4) Мф. 27:38-40, - непонимание Слово Божье, Завета, Христос, народ</h3>
+<blockquote><p>Тогда распяты с Ним два разбойника: один по правую сторону, а другой по левую. Проходящие же злословили Его, кивая головами своими и говоря: Разрушающий храм и в три дня Созидающий! спаси Себя Самого; если Ты Сын Божий, сойди с креста.</p><cite>Мф. 27:38-40</cite></blockquote>
+<h3>(5) Мф. 27:41-44, - непонимание Слово Божье, Завета, Христос, фарисеи</h3>
+<blockquote><p>Подобно и первосвященники с книжниками и старейшинами и фарисеями, насмехаясь, говорили: других спасал, а Себя Самого не может спасти; если Он Царь Израилев, пусть теперь сойдет с креста, и уверуем в Него; уповал на Бога; пусть теперь избавит Его, если Он угоден Ему. Ибо Он сказал: Я Божий Сын. Также и разбойники, распятые с Ним, поносили Его.</p><cite>Мф. 27:41-44</cite></blockquote>
+<h3>(6) Лк. 23:33-38, - молитва Христа, исполнение воли Божьей, искупление человечества, проблема непонимания Слово Божье</h3>
+<blockquote><p>И когда пришли на место, называемое Лобное, там распяли Его и злодеев, одного по правую, а другого по левую сторону. Иисус же говорил: Отче! прости им, ибо не знают, что делают. И делили одежды Его, бросая жребий. И стоял народ и смотрел. Насмехались же вместе с ними и начальники, говоря: других спасал; пусть спасет Себя Самого, если Он Христос, избранный Божий. Также и воины ругались над Ним, подходя и поднося Ему уксус и говоря: если Ты Царь Иудейский, спаси Себя Самого. И была над Ним надпись, написанная словами греческими, римскими и еврейскими: Сей есть Царь Иудейский.</p><cite>Лк. 23:33-38</cite></blockquote>
+<h3>(7) Лк. 23:39-42, - принятие Слово Божье, Завета, Христос (разбойники)</h3>
+<blockquote><p>Один из повешенных злодеев злословил Его и говорил: если Ты Христос, спаси Себя и нас. Другой же, напротив, унимал его и говорил: или ты не боишься Бога, когда и сам осужден на то же? и мы <em>осуждены</em> справедливо, потому что достойное по делам нашим приняли, а Он ничего худого не сделал. И сказал Иисусу: помяни меня, Господи, когда приидешь в Царствие Твое!</p><cite>Лк. 23:39-42</cite></blockquote>
+<h4>(а) Мф. 27:44, - поношение Христа разбойниками, хуление Бога, знание, но непринятие Слово Божье, Завета, Христос</h4>
+<blockquote><p>Также и разбойники, распятые с Ним, поносили Его.</p><cite>Мф. 27:44</cite></blockquote>
+<h4>(б) Просьба о спасении от казни – знание, но не понимание предназначения Христа, непонимание Слово Божье, Завета, Христос, важность видимого, непонимание происходящего (1-ый)</h4>
+<h4>(в) Действие и благодать Святого Духа – признание себя грешником, признание Иисуса Господом (Бог во плоти), признание незаслуженной смерти и страданий Иисуса Христа, просьба о спасении в вечности – принятие Слово Божье, спасение и рождение свыше, действие благодати Божьей (2-ой)</h4>
+<h4>(г) Отсутствие противоречий в Евангелиях, точное обьяснение порядка происходящих событий</h4>
+<h2 id="s9">9) Мф. 27:45-54, - исполнение Слово Божье, Завета, Христос</h2>
+<blockquote><p>От шестого же часа тьма была по всей земле до часа девятого; а около девятого часа возопил Иисус громким голосом: Или, Или! лама савахфани? то есть: Боже Мой, Боже Мой! для чего Ты Меня оставил? Некоторые из стоявших там, слыша это, говорили: Илию зовет Он. И тотчас побежал один из них, взял губку, наполнил уксусом и, наложив на трость, давал Ему пить; а другие говорили: постой, посмотрим, придет ли Илия спасти Его. Иисус же, опять возопив громким голосом, испустил дух. И вот, завеса в храме раздралась надвое, сверху донизу; и земля потряслась; и камни расселись; и гробы отверзлись; и многие тела усопших святых воскресли и, выйдя из гробов по воскресении Его, вошли во святый град и явились многим. Сотник же и те, которые с ним стерегли Иисуса, видя землетрясение и все бывшее, устрашились весьма и говорили: воистину Он был Сын Божий.</p><cite>Мф. 27:45-54</cite></blockquote>
+<h3>(1) Мф. 27:45-49, - исполнение Слово Божье, Завета, Христос, переживание состояния разделения с Богом, следствие грехов всего мира</h3>
+<blockquote><p>От шестого же часа тьма была по всей земле до часа девятого; а около девятого часа возопил Иисус громким голосом: Или, Или! лама савахфани? то есть: Боже Мой, Боже Мой! для чего Ты Меня оставил? Некоторые из стоявших там, слыша это, говорили: Илию зовет Он. И тотчас побежал один из них, взял губку, наполнил уксусом и, наложив на трость, давал Ему пить; а другие говорили: постой, посмотрим, придет ли Илия спасти Его.</p><cite>Мф. 27:45-49</cite></blockquote>
+<h3>(2) Мф. 27:50-53, - исполнение Слово Божье, Завета, Христос, смерть Христа, восстановление Скинии Давидовой (свободный вход в Ц.Н.), начало действия Н.З., право на воскресение из мертвых</h3>
+<blockquote><p>Иисус же, опять возопив громким голосом, испустил дух. И вот, завеса в храме раздралась надвое, сверху донизу; и земля потряслась; и камни расселись; и гробы отверзлись; и многие тела усопших святых воскресли и, выйдя из гробов по воскресении Его, вошли во святый град и явились многим.</p><cite>Мф. 27:50-53</cite></blockquote>
+<h2 id="s10">10) Мф. 27:54-66, - важность исполнения Слово Божье, Завета, Христос</h2>
+<blockquote><p>Сотник же и те, которые с ним стерегли Иисуса, видя землетрясение и все бывшее, устрашились весьма и говорили: воистину Он был Сын Божий. Там были также и смотрели издали многие женщины, которые следовали за Иисусом из Галилеи, служа Ему; между ними были Мария Магдалина и Мария, мать Иакова и Иосии, и мать сыновей Зеведеевых. Когда же настал вечер, пришел богатый человек из Аримафеи, именем Иосиф, который также учился у Иисуса; он, придя к Пилату, просил тела Иисусова. Тогда Пилат приказал отдать тело; и, взяв тело, Иосиф обвил его чистою плащаницею и положил его в новом своем гробе, который высек он в скале; и, привалив большой камень к двери гроба, удалился. Была же там Мария Магдалина и другая Мария, которые сидели против гроба. На другой день, который следует за пятницею, собрались первосвященники и фарисеи к Пилату и говорили: господин! Мы вспомнили, что обманщик тот, еще будучи в живых, сказал: после трех дней воскресну; итак прикажи охранять гроб до третьего дня, чтобы ученики Его, придя ночью, не украли Его и не сказали народу: воскрес из мертвых; и будет последний обман хуже первого. Пилат сказал им: имеете стражу; пойдите, охраняйте, как знаете. Они пошли и поставили у гроба стражу, и приложили к камню печать.</p><cite>Мф. 27:54-66</cite></blockquote>
+<h3>(1) Мф. 27:54-61, - важность учеников, подтверждение смерти Иисуса Христа за грехи всего мира, исполнение Слово Божье</h3>
+<blockquote><p>Сотник же и те, которые с ним стерегли Иисуса, видя землетрясение и все бывшее, устрашились весьма и говорили: воистину Он был Сын Божий. Там были также и смотрели издали многие женщины, которые следовали за Иисусом из Галилеи, служа Ему; между ними были Мария Магдалина и Мария, мать Иакова и Иосии, и мать сыновей Зеведеевых. Когда же настал вечер, пришел богатый человек из Аримафеи, именем Иосиф, который также учился у Иисуса; он, придя к Пилату, просил тела Иисусова. Тогда Пилат приказал отдать тело; и, взяв тело, Иосиф обвил его чистою плащаницею и положил его в новом своем гробе, который высек он в скале; и, привалив большой камень к двери гроба, удалился. Была же там Мария Магдалина и другая Мария, которые сидели против гроба.</p><cite>Мф. 27:54-61</cite></blockquote>
+<h3>(2) Мф. 27:62-66, - важность фарисеев, подтверждение смерти Иисуса Христа за грехи всего мира, исполнение Слово Божье</h3>
+<blockquote><p>На другой день, который следует за пятницею, собрались первосвященники и фарисеи к Пилату и говорили: господин! Мы вспомнили, что обманщик тот, еще будучи в живых, сказал: после трех дней воскресну; итак прикажи охранять гроб до третьего дня, чтобы ученики Его, придя ночью, не украли Его и не сказали народу: воскрес из мертвых; и будет последний обман хуже первого. Пилат сказал им: имеете стражу; пойдите, охраняйте, как знаете. Они пошли и поставили у гроба стражу, и приложили к камню печать.</p><cite>Мф. 27:62-66</cite></blockquote>
+<h2 id="s11">Заключение:</h2>
+<h3>(1) Важность правильного понимания Слово Божье, Завета, Христос</h3>
+<h3>(2) Важность понимания Божьего суверенитета и контроля – смерть Христа, исполнение Слово Божье, искупление человечества Быт. 3:15,21, - Мф. 16:16 (1-е Тим. 3:16), Ин. 19:30 (Мф. 5:17)</h3>
 <blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
 <blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<h3>(2) Ожидание Мессии, Христа народом Божьим Дн. 26:4-8,Гал. 3:16-17, - 1-е Пет. 1:10-11,Дн. 10:43</h3>
-<blockquote><p>Жизнь мою от юности <em>моей,</em> которую сначала проводил я среди народа моего в Иерусалиме, знают все Иудеи; они издавна знают обо мне, если захотят свидетельствовать, что я жил фарисеем по строжайшему в нашем вероисповедании учению. И ныне я стою перед судом за надежду на обетование, данное от Бога нашим отцам, которого исполнение надеются увидеть наши двенадцать колен, усердно служа <em>Богу</em> день и ночь. За сию-то надежду, царь Агриппа, обвиняют меня Иудеи. Что же? Неужели вы невероятным почитаете, что Бог воскрешает мертвых?</p><cite>Дн. 26:4-8</cite></blockquote>
-<blockquote><p>Но Аврааму даны были обетования и семени его. Не сказано: и потомкам, как бы о многих, но как об одном: и семени твоему, которое есть Христос. Я говорю то, что завета о Христе, прежде Богом утвержденного, закон, явившийся спустя четыреста тридцать лет, не отменяет так, чтобы обетование потеряло силу.</p><cite>Гал. 3:16-17</cite></blockquote>
-<blockquote><p>К сему-то спасению относились изыскания и исследования пророков, которые предсказывали о назначенной вам благодати, исследывая, на которое и на какое время указывал сущий в них Дух Христов, когда Он предвозвещал Христовы страдания и последующую за ними славу.</p><cite>1-е Пет. 1:10-11</cite></blockquote>
-<blockquote><p>О Нем все пророки свидетельствуют, что всякий верующий в Него получит прощение грехов именем Его.</p><cite>Дн. 10:43</cite></blockquote>
-<h3>(3) Непринятие Слово Божье, Завета, Христос, большинство Иудеев, непринятие Божественности Христа и Вседостаточности Его Жертвы. Ин. 10:33, - Рим. 9:30-33</h3>
-<blockquote><p>Иудеи сказали Ему в ответ: не за доброе дело хотим побить Тебя камнями, но за богохульство и за то, что Ты, будучи человек, делаешь Себя Богом.</p><cite>Ин. 10:33</cite></blockquote>
-<blockquote><p>Что же скажем? Язычники, не искавшие праведности, получили праведность, праведность от веры. А Израиль, искавший закона праведности, не достиг до закона праведности. Почему? потому что <em>искали</em> не в вере, а в делах закона. Ибо преткнулись о камень преткновения, как написано: вот, полагаю в Сионе камень преткновения и камень соблазна; но всякий, верующий в Него, не постыдится.</p><cite>Рим. 9:30-33</cite></blockquote>
-<h3>(4) Важность понимания Божьего суверенитета и контроля, неизбежность исполнения Слово Божье, Завета, Христос, Божий план</h3>
-<h2>2) Важность соответствия Христа пророчествам Бог</h2>
-<h3>(1) Христос переживет чувствование разделения с Богом Пс. 21:2, - Мф. 27:46</h3>
-<blockquote><p>Боже мой! Боже мой! для чего Ты оставил меня? Далеки от спасения моего слова вопля моего.</p><cite>Пс. 21:2</cite></blockquote>
-<blockquote><p>а около девятого часа возопил Иисус громким голосом: Или, Или! лама савахфани? то есть: Боже Мой, Боже Мой! для чего Ты Меня оставил?</p><cite>Мф. 27:46</cite></blockquote>
-<h4>(а) Понимание Христа – Человеческая и Божественная природа в одной Личности Христа без преобразования или смешения</h4>
-<h4>(б) Понимание предназначения Христа – ответственный за грехи и злодеяния всего мира, но не злодей или грешник</h4>
-<h4>(в) Разделение с Богом – участь грешника, исполнение Слово Божье, свидетельство принятия Богом заместительной Жертвы Христа за все грехи и злодеяния человечества</h4>
-<h3>(2) Христос вверит Себя в руки Божьи Пс. 30:6, - Лк. 23:46</h3>
-<blockquote><p>В Твою руку предаю дух мой; Ты избавлял меня, Господи, Боже истины.</p><cite>Пс. 30:6</cite></blockquote>
-<blockquote><p>Иисус, возгласив громким голосом, сказал: Отче! в руки Твои предаю дух Мой. И, сие сказав, испустил дух.</p><cite>Лк. 23:46</cite></blockquote>
-<h4>(а) Понимание Христа – Человеческая и Божественная природа в одной Личности Христа без преобразования или смешения</h4>
-<h4>(б) Христос показал нам пример как Человек проживший земную жизнь в подобии плоти греховной – служение Богу и человеку, важность исполнения воли Божьей</h4>
-<h4>(в) Важность любви и доверия Истинному и Святому Богу, важность понимания Божьего суверенитета и контроля</h4>
-<h3>(3) Кости Христа не сокрушатся Пс. 33:21, - Ин. 19:33</h3>
-<blockquote><p>Он хранит все кости его; ни одна из них не сокрушится.</p><cite>Пс. 33:21</cite></blockquote>
-<blockquote><p>Но, придя к Иисусу, как увидели Его уже умершим, не перебили у Него голеней,</p><cite>Ин. 19:33</cite></blockquote>
-<h4>(а) Важность понимания предназначения Христа – смерть и страдания за все грехи всех людей, искупление человечества</h4>
-<h4>(б) Важность понимания способа казни Христа (древо, крест) – полное исполнение приговора Слово Божье, решение всех проблем человек (Пролите крови без сокрушения костей – нельзя сжечь, утопить, обезглавить, важность древа, важность исполнения Слово Божье)</h4>
-<h3>(4) Христос будет пронзен Зах. 12:10, - Ин. 19:34</h3>
-<blockquote><p>А на дом Давида и на жителей Иерусалима изолью дух благодати и умиления, и они воззрят на Него, Которого пронзили, и будут рыдать о Нем, как рыдают об единородном сыне, и скорбеть, как скорбят о первенце.</p><cite>Зах. 12:10</cite></blockquote>
-<blockquote><p>но один из воинов копьем пронзил Ему ребра, и тотчас истекла кровь и вода.</p><cite>Ин. 19:34</cite></blockquote>
-<h4>(а) Важность понимания предназначения Христа – смерть и страдания за все грехи всех людей, искупление человечества</h4>
-<h4>(б) Страдания и смерть на Кресте, исполнение Слово Божье, решение всех проблем человека, важность принятия Иисуса как Христа</h4>
-<h4>(в) Важность понимания смерти Христа – исполнение Слово Божье, потверждение действием солдат (неверующие люди)</h4>
-<h3>(5) Христос будет похоронен в гробнице богача Ис. 53:9, - Мф. 27:57-60</h3>
-<blockquote><p>Ему назначали гроб со злодеями, но Он погребен у богатого, потому что не сделал греха, и не было лжи в устах Его.</p><cite>Ис. 53:9</cite></blockquote>
-<blockquote><p>Когда же настал вечер, пришел богатый человек из Аримафеи, именем Иосиф, который также учился у Иисуса; он, придя к Пилату, просил тела Иисусова. Тогда Пилат приказал отдать тело; и, взяв тело, Иосиф обвил его чистою плащаницею и положил его в новом своем гробе, который высек он в скале; и, привалив большой камень к двери гроба, удалился.</p><cite>Мф. 27:57-60</cite></blockquote>
-<h4>(а) Важность понимания предназначения Христа – смерть и страдания за все грехи всех людей, искупление человечества</h4>
-<h4>(б) Страдания и смерть на Кресте, исполнение Слово Божье, решение всех проблем человека, важность принятия Иисуса как Христа. (Обьяснение мельчайших деталей через пророчество Слово Божье, важность принятия Слово Божье, Завета, Христос для каждого человека)</h4>
-<h4>(в) Свидетельство смерти Христа – место погребения, стража, фарисеи (потверждение действиями неверующих людей)</h4>
-<h3>(6) Христос будет в сердце земли три дня и три ночи</h3>
-<ul>
-<li>Иона. 2:1, - Мф. 12:40</li>
-</ul>
-<blockquote><p>ибо как Иона был во чреве кита три дня и три ночи, так и Сын Человеческий будет в сердце земли три дня и три ночи.</p><cite>Мф. 12:40</cite></blockquote>
-<h4>(а) Важность понимания продолжения работы Христа после физической смерти – сошествие в ад</h4>
-<h4>(б) Важность понимания проблемы народа Божьего в В.З. – нет фактического исполнение приговора Слово Божье Христом, закрытый доступ в царство Небесное (лоно Авраамово)</h4>
-<h3>(7) Христос сокрушит власть смерти и ада Ос. 13:14, - 1-е Кор. 15:20-23,51-55</h3>
-<blockquote><p>От власти ада Я искуплю их, от смерти избавлю их. Смерть! где твое жало? ад! где твоя победа? Раскаяния в том не будет у Меня.</p><cite>Ос. 13:14</cite></blockquote>
-<blockquote><p>Но Христос воскрес из мертвых, первенец из умерших. Ибо, как смерть через человека, <em>так</em> через человека и воскресение мертвых. Как в Адаме все умирают, так во Христе все оживут, каждый в своем порядке: первенец Христос, потом Христовы, в пришествие Его.</p><cite>1-е Кор. 15:20-23</cite></blockquote>
-<blockquote><p>Говорю вам тайну: не все мы умрем, но все изменимся вдруг, во мгновение ока, при последней трубе; ибо вострубит, и мертвые воскреснут нетленными, а мы изменимся. Ибо тленному сему надлежит облечься в нетление, и смертному сему облечься в бессмертие. Когда же тленное сие облечется в нетление и смертное сие облечется в бессмертие, тогда сбудется слово написанное: поглощена смерть победою. Смерть! где твое жало? ад! где твоя победа?</p><cite>1-е Кор. 15:51-55</cite></blockquote>
-<h4>(а) Важность понимания действий Иисуса Христа в аду – вошел в темницы (часть ада) и проповедовал Слово Божье, Завет, Христос (Люди не имевшие возможность слышать Слово Божье, Завета, Христос, в течении своей земной жизни, важность выбора человека)</h4>
-<h4>(б) Сокрушил власть смерти и ада над народом Божьим В.З., вывел народ Божий из «лона Авраамова» (часть ада) и ввел в Царство Небесное (решение всех проблем народа Божьего В.З.)</h4>
-<h3>(8) Христос воскреснет Пс. 15:10, - Дн. 2:31</h3>
-<blockquote><p>ибо Ты не оставишь души моей в аде и не дашь святому Твоему увидеть тление,</p><cite>Пс. 15:10</cite></blockquote>
-<blockquote><p>Он прежде сказал о воскресении Христа, что не оставлена душа Его в аде, и плоть Его не видела тления.</p><cite>Дн. 2:31</cite></blockquote>
-<h4>(а) Понимание Христа – Человеческая и Божественная природа в одной Личности Христа без преобразования или смешения</h4>
-<h4>(б) Праведность Христа – полное исполнение всех требований закона, идеальная и безгрешная жизнь</h4>
-<h4>(в) Понимание предназначения Христа – ответственный за грехи и злодеяния всего мира, но не злодей или грешник. (Смерть и ад не имеют власти удерживать безгрешного Чел.)</h4>
-<h4>(г) Воскресение Христа – доказательство Его Божественности, Его праведности и совершение дела искупления человечества</h4>
-<h3>(9) Христос будет вознесен Пс. 67:19, - Дн. 1:9</h3>
-<blockquote><p>Ты восшел на высоту, пленил плен, принял дары для человеков, так чтоб и из противящихся могли обитать у Господа Бога.</p><cite>Пс. 67:19</cite></blockquote>
-<blockquote><p>Сказав сие, Он поднялся в глазах их, и облако взяло Его из вида их.</p><cite>Дн. 1:9</cite></blockquote>
-<h4>(а) Вознесение Христа – полное исполнение Его предназначения, искупленное человечество, подготовленные ученики</h4>
-<h4>(б) Вознесение Христа – важность исполнения служения Посредника, Ходатая и Первосвященника народа Божьего</h4>
-<h3>(10) Христос воссядет по правую руку Бога Пс. 109:1, - Евр. 1:3</h3>
-<blockquote><p>Сказал Господь Господу моему: седи одесную Меня, доколе положу врагов Твоих в подножие ног Твоих.</p><cite>Пс. 109:1</cite></blockquote>
-<blockquote><p>Сей, будучи сияние славы и образ ипостаси Его и держа все словом силы Своей, совершив Собою очищение грехов наших, воссел одесную (престола) величия на высоте,</p><cite>Евр. 1:3</cite></blockquote>
-<h4>(а) Христос – Единородный Сын Божий</h4>
-<h4>(б) Христос – Царь Царей и Господь Господствующих</h4>
-<h4>(в) Христос – Истинный Судья всех людей и всего творения</h4>
-<h3>(11) Христос придет второй раз судить мир Иуд. 1:14, - Мф. 24:30-31,35-39</h3>
-<blockquote><p>О них пророчествовал и Енох, седьмый от Адама, говоря: "се, идет Господь со тьмами святых Ангелов Своих --</p><cite>Иуд. 1:14</cite></blockquote>
-<blockquote><p>тогда явится знамение Сына Человеческого на небе; и тогда восплачутся все племена земные и увидят Сына Человеческого, грядущего на облаках небесных с силою и славою великою; и пошлет Ангелов Своих с трубою громогласною, и соберут избранных Его от четырех ветров, от края небес до края их.</p><cite>Мф. 24:30-31</cite></blockquote>
-<blockquote><p>небо и земля прейдут, но слова Мои не прейдут. О дне же том и часе никто не знает, ни Ангелы небесные, а только Отец Мой один; но, как было во дни Ноя, так будет и в пришествие Сына Человеческого: ибо, как во дни перед потопом ели, пили, женились и выходили замуж, до того дня, как вошел Ной в ковчег, и не думали, пока не пришел потоп и не истребил всех, -- так будет и пришествие Сына Человеческого;</p><cite>Мф. 24:35-39</cite></blockquote>
-<h4>(а) Важность завершения спасения человека – воскресение из мертвых в новых и прославленных телах, завершение возвращения человека в первоначальный вид</h4>
-<h4>(б) Важность 1000-его царства, награда народа Божьего (важность служения и посвящение Богу всей жизни человека), утверждение Божественной воли и справедливости</h4>
-<h4>(в) Важность суда у великого белого престола – неизменное исполение Слово Божье, Завета, Христос Пс. 137:2,Рим. 6:23</h4>
-<blockquote><p>Поклоняюсь пред святым храмом Твоим и славлю имя Твое за милость Твою и за истину Твою, ибо Ты возвеличил слово Твое превыше всякого имени Твоего.</p><cite>Пс. 137:2</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<h4>(г) Важность нового неба и земли – продолжение жизни и продолжения Божьего процесса творения. 1-е Кор. 2:9</h4>
-<blockquote><p>Но, как написано: не видел того глаз, не слышало ухо, и не приходило то на сердце человеку, что приготовил Бог любящим Его.</p><cite>1-е Кор. 2:9</cite></blockquote>
-<h2>Заключение:</h2>
-<h3>(1) Важность правильного понимания Писаний В.З Ин. 5:39, - Лк. 24:25-27,44-47,Ин. 5:45-47,1-е Кор. 15:1-4</h3>
-<blockquote><p>Исследуйте Писания, ибо вы думаете чрез них иметь жизнь вечную; а они свидетельствуют о Мне.</p><cite>Ин. 5:39</cite></blockquote>
-<blockquote><p>Тогда Он сказал им: о, несмысленные и медлительные сердцем, чтобы веровать всему, что предсказывали пророки! Не так ли надлежало пострадать Христу и войти в славу Свою? И, начав от Моисея, из всех пророков изъяснял им сказанное о Нем во всем Писании.</p><cite>Лк. 24:25-27</cite></blockquote>
-<blockquote><p>И сказал им: вот то, о чем Я вам говорил, еще быв с вами, что надлежит исполниться всему, написанному о Мне в законе Моисеевом и в пророках и псалмах. Тогда отверз им ум к уразумению Писаний. И сказал им: так написано, и так надлежало пострадать Христу, и воскреснуть из мертвых в третий день, и проповедану быть во имя Его покаянию и прощению грехов во всех народах, начиная с Иерусалима.</p><cite>Лк. 24:44-47</cite></blockquote>
-<blockquote><p>Не думайте, что Я буду обвинять вас пред Отцем: есть на вас обвинитель Моисей, на которого вы уповаете. Ибо если бы вы верили Моисею, то поверили бы и Мне, потому что он писал о Мне. Если же его писаниям не верите, как поверите Моим словам?</p><cite>Ин. 5:45-47</cite></blockquote>
-<blockquote><p>Напоминаю вам, братия, Евангелие, которое я благовествовал вам, которое вы и приняли, в котором и утвердились, которым и спасаетесь, если преподанное удерживаете так, как я благовествовал вам, если только не тщетно уверовали. Ибо я первоначально преподал вам, что и <em>сам</em> принял, <em>то</em> <em>есть,</em> что Христос умер за грехи наши, по Писанию, и что Он погребен был, и что воскрес в третий день, по Писанию,</p><cite>1-е Кор. 15:1-4</cite></blockquote>
-<h3>(2) Важность понимания законного способа получения дара веры Божьей и понимания Слово Божье Рим. 10:17,1-е Тим. 4:16</h3>
-<blockquote><p>Итак вера от слышания, а слышание от слова Божия.</p><cite>Рим. 10:17</cite></blockquote>
-<blockquote><p>Вникай в себя и в учение; занимайся сим постоянно: ибо, так поступая, и себя спасешь и слушающих тебя.</p><cite>1-е Тим. 4:16</cite></blockquote>
-<h3>(3) Важность понимания миссии Христа</h3>
-<h4>(а) Умереть за все грехи всех людей – искупление человек</h4>
-<h4>(б) Подготовить учеников - важность познания и передачи Слово Божье, Завета, Христос, Всемирная Евангелизация, подготовка второго прихода Христа</h4>
-<h4>(в) Показать людям Святого, Истинного Бога</h4>
-<h3>(4) Важность исполнения предназначения народа Божьего</h3>
-<h3>(5) Важность понимания действия сатана</h3>
+<blockquote><p>Симон же Петр, отвечая, сказал: Ты -- Христос, Сын Бога Живаго.</p><cite>Мф. 16:16</cite></blockquote>
+<blockquote><p>И беспрекословно -- великая благочестия тайна: Бог явился во плоти, оправдал Себя в Духе, показал Себя Ангелам, проповедан в народах, принят верою в мире, вознесся во славе.</p><cite>1-е Тим. 3:16</cite></blockquote>
+<blockquote><p>Когда же Иисус вкусил уксуса, сказал: совершилось! И, преклонив главу, предал дух.</p><cite>Ин. 19:30</cite></blockquote>
+<blockquote><p>Не думайте, что Я пришел нарушить закон или пророков: не нарушить пришел Я, но исполнить.</p><cite>Мф. 5:17</cite></blockquote>
 </main>
 </body>
 </html>

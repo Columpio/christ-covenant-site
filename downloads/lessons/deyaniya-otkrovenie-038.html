@@ -3,81 +3,252 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>11. Филипийцам</title>
+<title>Рим. 4</title>
 <style>
-:root{--bg:#faf7f2;--fg:#2b2622;--muted:#7a6f66;--accent:#8a4b2a;--card:#fff;--line:#e6ddd2;--quote:#f3ece2}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+:root{color-scheme:light;
+--ink:#2A1C0D;--ink2:#5A4630;--stone:#E6D8BA;--parch:#EBDAB0;--sheet:#FAF3E0;--wood:#6B4426;--frame:#F1E7CE;
+--c:#2F5DA8;--cd:#2F5DA8;--sb:#2F5DA8;--sf:#FFFFFF;--mix:#000;
+--display:"Cormorant SC","Cormorant Garamond",Georgia,serif;--uni:"Cormorant Unicase","Cormorant SC",Georgia,serif;
+--serif:"Alegreya","PT Serif",Georgia,serif;--sans:"Alegreya Sans","Segoe UI",system-ui,sans-serif;
+--canon:linear-gradient(90deg,#2F5DA8 0 10%,#D8951A 10% 20%,#C2366B 20% 30%,#1F8A5B 30% 40%,#138F8F 40% 50%,#E0562C 50% 60%,#E8801E 60% 70%,#2F8FCF 70% 80%,#6C4BB6 80% 90%,#8E3B8A 90%);
+--noise:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .30 0 0 0 0 .21 0 0 0 0 .10 0 0 0 .22 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+--weave:repeating-linear-gradient(90deg,rgba(255,255,255,.11) 0 2px,rgba(0,0,0,.07) 2px 4px);
+--cdd:color-mix(in srgb,var(--cd) 55%,var(--ink));
+--px:2.4rem;--py:2.2rem}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.6 Georgia,"PT Serif","Times New Roman",serif}
-a{color:var(--accent)}
-header.top{position:sticky;top:0;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:1rem;
-padding:.6rem 1.25rem;background:var(--card);border-bottom:1px solid var(--line);font:15px/1.4 system-ui,sans-serif}
-.crumbs a{text-decoration:none}
-main{max-width:46rem;margin:0 auto;padding:1.5rem 1.25rem 7rem}
-main.wide{max-width:64rem}
-h1{font-size:1.6rem;line-height:1.25;margin:.5rem 0 1rem}
-h2{font-size:1.3rem;line-height:1.3;margin:1.8rem 0 .6rem}
-h3{font-size:1.12rem;line-height:1.35;margin:1.4rem 0 .5rem}
-h4{font-size:1rem;line-height:1.4;margin:1.1rem 0 .4rem}
-ul{padding-left:1.25rem}
-li{margin:.2rem 0}
-blockquote{margin:.6rem 0 1rem;padding:.7rem 1rem;background:var(--quote);border-left:3px solid var(--accent);
-border-radius:0 6px 6px 0;font-size:.95em}
+html{scroll-padding-top:4.5rem;overflow-x:clip}
+body{margin:0;overflow-x:clip;color:var(--ink);font:400 1.2rem/1.65 var(--serif);-webkit-font-smoothing:antialiased;min-height:100vh;
+background:#2B190C url(img/shelves.svg) 50% 0/520px 960px repeat}
+/* Свет и глубина над стеллажами: утренний луч слева сверху, виньетка по краям; на внутренних страницах темнее. */
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+background:linear-gradient(115deg,rgba(255,226,160,.5),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 45%,rgba(20,10,4,.6) 100%),rgba(30,18,8,.12)}
+body:not(.home)::before{background:linear-gradient(115deg,rgba(255,226,160,.28),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 40%,rgba(20,10,4,.55) 100%),rgba(30,18,8,.5)}
+a{color:var(--cdd)}
+.sprite{position:absolute;width:0;height:0;overflow:hidden}
+.skip{position:absolute;left:-999px;top:0;z-index:40;padding:.7rem 1.1rem;background:var(--ink);color:#fff;font:700 1rem var(--sans)}
+.skip:focus{left:.5rem;top:.5rem}
+a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible{outline:3px solid var(--ink);outline-offset:3px;border-radius:6px}
+
+/* Шапка: полоса цветов канона, на страницах книги - цвет её раздела. */
+header.top{position:sticky;top:0;z-index:30;background:rgba(247,239,218,.95);backdrop-filter:blur(6px);border-bottom:1px solid #BFA97E;box-shadow:0 .4rem .8rem -.5rem rgba(50,30,10,.45);font:700 1.02rem/1.4 var(--sans)}
+header.top::before{content:"";display:block;height:4px;background:var(--canon)}
+body[style] header.top::before{background:var(--c)}
+header.top .bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;max-width:44rem;margin:0 auto;padding:0 1.25rem}
+header.top.wide .bar{max-width:68rem}
+.crumbs{min-width:0;color:var(--ink2)}
+.crumbs a{display:inline-flex;align-items:center;min-height:44px;padding:0 .3rem;color:var(--ink);text-decoration:none}
+.crumbs a:hover{color:var(--cdd);text-decoration:underline;text-underline-offset:.25em}
+
+main{max-width:44rem;margin:0 auto;padding:2rem 1.25rem 7rem}
+main.wide{max-width:68rem;position:relative;margin:0 auto;padding:2rem 2.4rem 7rem;
+background:var(--noise),linear-gradient(90deg,rgba(60,38,16,.18),rgba(60,38,16,0) 6%,rgba(60,38,16,0) 94%,rgba(60,38,16,.18)),var(--stone);
+border-inline:1.1rem solid #A98B5E;
+box-shadow:inset .5rem 0 .8rem -.3rem rgba(50,30,10,.45),inset -.5rem 0 .8rem -.3rem rgba(50,30,10,.45),0 0 3rem 1rem rgba(15,8,3,.7)}
+.muted{color:var(--ink2)}
+
+/* Страница урока - лист пергамента на каменной стене; под текстом нет фактуры. */
+main:not(.wide){position:relative;margin:1.6rem auto 6rem;padding:var(--py) var(--px) 2.6rem;background:var(--sheet);border-radius:.3rem;
+box-shadow:inset 0 0 0 1px rgba(150,115,60,.4),inset 0 0 2.4rem rgba(150,115,60,.2),0 1.4rem 2.4rem -1rem rgba(40,25,10,.65)}
+main:not(.wide)::before{content:"";display:block;height:.55rem;margin:calc(var(--py) * -1) calc(var(--px) * -1) 1.6rem;border-radius:.3rem .3rem 0 0;background:var(--weave),var(--sb)}
+h1{font:700 clamp(1.8rem,3.4vw,2.4rem)/1.15 var(--display);letter-spacing:.015em;margin:.4rem 0 1.2rem}
+h2{font:700 1.6rem/1.25 var(--display);letter-spacing:.015em;margin:2.6rem 0 .8rem}
+h2::before{content:"";display:inline-block;width:.5em;height:.5em;margin:0 .55em .12em 0;background:var(--sb);border-radius:2px;transform:rotate(45deg)}
+h3{font:700 1.16rem/1.45 var(--serif);margin:1.6rem 0 .5rem}
+h4{font:italic 600 1.1rem/1.4 var(--serif);margin:1.2rem 0 .4rem}
+ul{padding-left:1.3rem}
+li{margin:.25rem 0}
+li::marker{color:var(--sb)}
+blockquote{margin:.9rem 0 1.3rem;padding:.9rem 1.2rem 1rem;background:#FFFBEC;border:1px solid #E2D2A8;border-left:.32rem solid var(--sb);border-radius:.2rem;box-shadow:0 .2rem 0 #E6D8B4,0 .7rem 1rem -.7rem rgba(60,40,15,.5);font-size:1.08rem}
 blockquote p{margin:0}
-blockquote cite{display:block;margin-top:.3rem;font:normal .8em/1.4 system-ui,sans-serif;color:var(--muted)}
-.muted{color:var(--muted)}
-.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:.6rem;list-style:none;padding:0;margin:0 0 1rem}
-.tiles.wide{grid-template-columns:repeat(auto-fill,minmax(15rem,1fr))}
+blockquote cite{display:block;margin-top:.4rem;font:700 .92rem/1.4 var(--sans);font-style:normal;color:var(--cdd)}
+
+/* Главная: зал. Утренний свет из окна, лампады, ниши со свитками. */
+.hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.lead{max-width:34rem;margin:0;font:400 1.25rem/1.5 var(--serif);color:var(--ink)}
+.scene{position:relative;width:17rem;height:19rem;justify-self:end}
+.window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
+background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
+box-shadow:0 0 0 .55rem var(--frame),0 0 0 .7rem #B9A57D,inset 0 1.2rem 1.6rem -.4rem rgba(40,25,10,.55),inset 1rem 0 1.2rem -.8rem rgba(40,25,10,.4)}
+.window::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent calc(50% - .2rem),#4A2D18 calc(50% - .2rem) calc(50% + .2rem),transparent calc(50% + .2rem)),linear-gradient(180deg,transparent 50%,#4A2D18 50% calc(50% + .4rem),transparent calc(50% + .4rem))}
+.sill{position:absolute;left:0;right:0;bottom:0;height:1.2rem;border-radius:.25rem .25rem .5rem .5rem;background:linear-gradient(180deg,#F6EDD3,#D6C5A0 55%,#B9A57D);box-shadow:0 .7rem .9rem -.4rem rgba(40,25,10,.55)}
+.sill>*{position:absolute;bottom:100%;margin-bottom:-.2rem}
+.sill img{display:block;width:100%;height:auto;filter:drop-shadow(.3rem .35rem .25rem rgba(40,25,10,.45))}
+.jar{left:1.2rem;width:3.1rem}
+.lamp{left:4.9rem;width:6.2rem}
+.ink{left:11.7rem;width:3.4rem}
+.glow{position:absolute;left:88%;top:66%;width:15rem;height:15rem;transform:translate(-50%,-50%);border-radius:50%;pointer-events:none;
+background:radial-gradient(circle,rgba(255,196,96,.62),rgba(255,160,60,.2) 38%,rgba(255,150,50,0) 68%);animation:glow 3.4s ease-in-out infinite}
+.flame{position:absolute;left:88.5%;top:67%;width:.75rem;height:1.35rem;transform:translate(-50%,-92%);transform-origin:50% 100%;border-radius:50% 50% 50% 50%/70% 70% 30% 30%;
+background:radial-gradient(ellipse at 50% 72%,#FFF8D0 0 18%,#FFD060 42%,#FF9A2A 72%,rgba(255,110,20,0) 100%);filter:blur(.4px);animation:flicker 2.7s ease-in-out infinite}
+.reed{position:absolute;left:46%;top:24%;width:.28rem;height:6.4rem;transform:translate(-50%,-100%) rotate(17deg);transform-origin:50% 100%;
+background:linear-gradient(90deg,#6E4F1E,#D9B866 45%,#8A6428);clip-path:polygon(0 0,100% 0,100% 94%,50% 100%,0 94%)}
+.rays{position:absolute;right:7rem;top:3rem;width:1px;height:1px;pointer-events:none;z-index:2}
+.rays i{position:absolute;top:0;right:0;width:8rem;height:48rem;transform-origin:100% 0;transform:rotate(var(--a));filter:blur(8px);mix-blend-mode:soft-light;
+background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
+.rays i:nth-child(1){--a:-40deg}
+.rays i:nth-child(2){--a:-54deg;width:5rem}
+.rays i:nth-child(3){--a:-68deg;width:10rem}
+@keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
+@keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
+.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
+.wall-lamp .lamp{position:relative;left:auto;width:100%}
+.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
+.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
+.jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
+.jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
+background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.jump a{display:inline-flex;align-items:center;min-height:44px;padding:0 1.2rem;text-decoration:none}
+.jump a:hover{background-color:#F6E9C2}
+.search{display:block;width:100%;max-width:34rem;margin:.4rem 0 1.2rem;padding:.75rem 1.1rem;font-weight:400}
+.search::placeholder{color:var(--ink2);opacity:1}
+.search:focus{border-color:var(--ink)}
+.testament{position:relative;display:flex;flex-direction:column;gap:2.4rem;margin:3rem 0 0}
+.testament>h2{display:flex;align-items:center;gap:1rem;margin:0;font:700 clamp(2rem,3.6vw,2.7rem)/1.1 var(--display);letter-spacing:.02em}
+.testament>h2::before{display:none}
+.testament>h2::after{content:"";flex:1;height:.4rem;border-top:2px solid var(--wood);border-bottom:1px solid var(--wood);opacity:.6}
+main section[hidden],.scrolls li[hidden],.tiles li[hidden]{display:none}
+
+/* Ниша раздела: драпировка цвета раздела, внутри на досках лежат свитки. */
+.group{position:relative;overflow:hidden;min-width:0;border:.55rem solid var(--frame);border-radius:1.6rem 1.6rem .3rem .3rem;
+background:linear-gradient(180deg,rgba(40,24,10,0),rgba(40,24,10,.14)),var(--noise),color-mix(in srgb,var(--c) 7%,#CDBB93);
+box-shadow:0 0 0 1px #B9A57D,inset 0 1.1rem 1.6rem -.5rem rgba(35,20,8,.55),inset 1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),inset -1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),0 .7rem 1.1rem -.5rem rgba(50,30,10,.5)}
+.group>h3{position:relative;z-index:3;display:flex;align-items:center;gap:.7rem;margin:0;padding:.65rem 1.3rem .6rem;background:var(--weave),var(--sb);color:var(--sf);font:700 1.45rem/1.15 var(--display);letter-spacing:.02em;filter:drop-shadow(0 .35rem .3rem rgba(25,12,0,.45))}
+.group>h3::after,.book-head::after{content:"";position:absolute;left:0;right:0;top:100%;height:.62rem;background:radial-gradient(circle at 50% 0,var(--sb) 0 .5rem,transparent .52rem) 0 0/1.1rem .62rem repeat-x}
+.emblem{width:1.9rem;height:1.9rem;flex:none;color:var(--sf)}
+
+/* Свиток: пергамент на двух деревянных валиках, на шипах - ленточка цвета раздела, справа - печать с числом уроков. */
+.scrolls{--h:3.4rem;--board:.62rem;display:flex;flex-wrap:wrap;align-items:flex-start;column-gap:1.3rem;row-gap:var(--board);list-style:none;margin:0;padding:1.5rem 1.2rem var(--board);
+background:repeating-linear-gradient(180deg,transparent 0 var(--h),#2C1A0C var(--h) calc(var(--h) + 1px),#8A5A32 calc(var(--h) + 1px) calc(var(--h) + 3px),#6B4426 calc(var(--h) + 3px) calc(var(--h) + var(--board))) 0 0/100% calc(100% + var(--board)) no-repeat;
+background-origin:content-box;background-clip:padding-box}
+.scrolls li{position:relative;height:var(--h);margin:0;padding:0 .95rem;max-width:100%;transition:transform .18s ease;animation:rise .45s ease backwards;animation-delay:calc(var(--i) * 12ms);filter:drop-shadow(0 .18rem .12rem rgba(20,10,0,.4))}
+.scrolls li::before,.scrolls li::after{content:"";position:absolute;top:0;bottom:0;width:.95rem;
+background:radial-gradient(circle at 50% .45rem,#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) top/100% .95rem no-repeat,
+radial-gradient(circle at 50% calc(100% - .45rem),#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) bottom/100% .95rem no-repeat,
+linear-gradient(var(--sb),var(--sb)) 50% 1rem/.56rem .3rem no-repeat,
+linear-gradient(90deg,#3F2614,#B07C48 35%,#7A4E2B 65%,#3F2614) center/.42rem 100% no-repeat}
+.scrolls li::before{left:0}
+.scrolls li::after{right:0}
+.scrolls a,.scrolls li.empty>span{display:flex;align-items:center;gap:.7rem;height:calc(var(--h) - 1rem);margin:.5rem 0;padding:0 .8rem 0 1.25rem;white-space:nowrap;font:700 1.14rem/1 var(--display);letter-spacing:.015em}
+.scrolls a{position:relative;z-index:1;color:var(--ink);text-decoration:none;animation:unroll .4s cubic-bezier(.3,.7,.3,1) backwards;animation-delay:calc(var(--i) * 12ms + 80ms);
+background:linear-gradient(180deg,rgba(104,66,22,.36),rgba(104,66,22,0) 20%,rgba(104,66,22,0) 78%,rgba(104,66,22,.44)),linear-gradient(rgba(255,248,226,.5),rgba(255,248,226,.5)),url(img/parchment.webp) #EBD8A8;
+box-shadow:inset 0 0 .7rem rgba(120,80,25,.4)}
+.scrolls a::before,.scrolls a::after{content:"";position:absolute;top:0;bottom:0;width:1.15rem;border-radius:.5rem;
+background:repeating-linear-gradient(90deg,rgba(90,60,20,.2) 0 1px,transparent 1px 3px),linear-gradient(90deg,#8E6D3A 0,#E8D3A0 30%,#F5E8C4 50%,#D8BF86 76%,#7F5F2E 100%);box-shadow:0 0 .35rem rgba(60,35,10,.5)}
+.scrolls a::before{left:-.62rem}
+.scrolls a::after{right:-.62rem}
+.scrolls li:hover,.scrolls li:has(a:focus-visible){transform:translateY(-.22rem)}
+.scrolls a:focus-visible{outline-offset:.6rem}
+.scrolls .count{position:relative;z-index:2;display:grid;place-items:center;min-width:1.85rem;height:1.85rem;padding:0 .3rem;border-radius:52% 48% 55% 45%/48% 55% 45% 52%;
+background:radial-gradient(circle at 35% 30%,var(--sb),color-mix(in srgb,var(--sb) 72%,#000));color:var(--sf);font:700 .9rem/1 var(--sans);letter-spacing:0;box-shadow:inset 0 1px 1px rgba(255,255,255,.4),0 .1rem .2rem rgba(0,0,0,.4)}
+.scrolls li.empty{padding:0 .3rem}
+.scrolls li.empty::before,.scrolls li.empty::after{display:none}
+.scrolls li.empty>span{border:1.5px dashed rgba(63,38,20,.65);border-radius:.4rem;color:var(--ink2);background:rgba(255,248,230,.22)}
+@keyframes unroll{from{clip-path:inset(0 50%)}to{clip-path:inset(0 0)}}
+@keyframes rise{from{opacity:0;transform:translateY(.6rem)}to{opacity:1;transform:none}}
+
+/* Страница книги: драпировка с названием и бирки уроков. */
+.book-head{position:relative;display:flex;align-items:center;gap:1.3rem;margin:0 0 2.2rem;padding:1.4rem 1.7rem;border-radius:.4rem .4rem 0 0;background:var(--weave),var(--sb);color:var(--sf);filter:drop-shadow(0 .45rem .35rem rgba(25,12,0,.4))}
+.book-head .emblem{width:4.2rem;height:4.2rem}
+.book-head h1{margin:0;color:var(--sf);font:700 clamp(2rem,4.4vw,3.1rem)/1.05 var(--display)}
+.meta{margin:.35rem 0 0;font:700 1.05rem/1.4 var(--sans);color:var(--sf)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));gap:.9rem;list-style:none;padding:0;margin:0 0 1rem}
 .tiles li{margin:0}
-.tiles a,.tiles li.empty{display:flex;align-items:center;justify-content:space-between;gap:.6rem;height:100%;min-height:4.5rem;
-padding:.8rem 1rem;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg);
-font:600 16px/1.35 system-ui,sans-serif}
-.tiles a{text-decoration:none;box-shadow:0 1px 2px rgba(0,0,0,.04);transition:border-color .15s,box-shadow .15s,transform .05s}
-.tiles a:hover{border-color:var(--accent);box-shadow:0 4px 14px rgba(0,0,0,.08)}
-.tiles a:active{transform:translateY(1px)}
-.tiles a>span:first-child,.tiles li.empty>span{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
-.tiles .count{color:var(--accent);font-size:.9em}
-.tiles li.empty{color:var(--muted);opacity:.55}
-.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;padding:.55rem 1.1rem;
-border:1px solid var(--accent);border-radius:10px;background:var(--card);color:var(--accent);font:600 15px/1.3 system-ui,sans-serif;
-text-decoration:none;cursor:pointer;box-shadow:0 1px 0 rgba(0,0,0,.06);transition:background .15s,color .15s,transform .05s}
-.btn:hover,details.download summary:hover{background:var(--accent);color:#fff}
-.btn:active,details.download summary:active{transform:translateY(1px)}
-.btn.primary{background:var(--accent);color:#fff}
-.btn.primary:hover{background:#6f3a20}
-.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3rem}
-.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;text-align:left}
+.tiles a{display:flex;align-items:center;height:100%;min-height:4.6rem;padding:.85rem 1rem .85rem 1.2rem;border-left:.5rem solid var(--sb);border-radius:.35rem;color:var(--ink);font:700 1.1rem/1.3 var(--serif);text-decoration:none;
+background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),url(img/parchment.webp) var(--parch);box-shadow:inset 0 0 .7rem rgba(120,85,35,.28),0 .15rem 0 #B9A276,0 .6rem .9rem -.5rem rgba(60,40,15,.55);transition:transform .15s}
+.tiles a:hover{transform:translateY(-.15rem)}
+.tiles .chapters{display:block;margin-top:.3rem;color:var(--cdd);font:700 .95rem/1.3 var(--sans)}
+
+/* Урок: содержание, кнопки. */
+.toc{margin:0 0 1.4rem;padding:.2rem 1.1rem;border:1px solid #D9C89E;border-radius:.3rem;background:#FFFBEC;font:400 1.02rem/1.5 var(--sans)}
+.toc summary{display:flex;align-items:center;min-height:44px;cursor:pointer;font-weight:700}
+.toc ol{margin:.3rem 0 .7rem;padding-left:1.4rem}
+.toc li::marker{color:var(--cdd);font-weight:700}
+.toc a{color:var(--ink);text-decoration:none}
+.toc a:hover{color:var(--cdd);text-decoration:underline}
+.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
+background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.btn:hover,details.download summary:hover{background-color:#F6E9C2}
+.btn.primary{background:var(--weave),var(--sb);border-color:color-mix(in srgb,var(--sb) 60%,#000);color:var(--sf)}
+.btn.primary:hover{background:var(--weave),color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3.5rem}
+.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;padding:.8rem 1rem;text-align:left}
 .pager .pager-next{align-items:flex-end;text-align:right}
 .pager .pager-section{align-items:center;justify-content:center;text-align:center}
-.pager .dir{font-size:.8em;font-weight:500;opacity:.85}
-.pager .name{font-weight:600}
-.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;
-pointer-events:none;z-index:5}
-.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;
-border-radius:50%;background:var(--accent);color:#fff;font:700 1.4rem/1 system-ui,sans-serif;text-decoration:none;
-cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.25);opacity:.92}
-.fab:hover{opacity:1;background:#6f3a20}
-.fab.next{margin-left:auto}
-.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);
-transition:opacity .2s,transform .2s,visibility .2s}
-.fab.top.visible{opacity:.92;visibility:visible;transform:none}
-@media(max-width:640px){.pager{grid-template-columns:1fr}.pager>span{display:none}
-.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}}
+.pager .dir{font-size:.9rem;font-weight:700}
+.pager .name{font:700 1.05rem/1.3 var(--serif);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
 details.download{position:relative}
-details.download summary{list-style:none;padding:.4rem 1rem}
+details.download summary{list-style:none}
 details.download summary::-webkit-details-marker{display:none}
-details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;
-padding:.3rem;background:var(--card);border:1px solid var(--line);border-radius:8px;box-shadow:0 6px 20px rgba(0,0,0,.08)}
-details.download .menu a{padding:.45rem .7rem;border-radius:6px;text-decoration:none;color:var(--fg)}
-details.download .menu a:hover{background:var(--quote)}
-@media print{header.top,.pager,.float{display:none}}
+details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;padding:.3rem;background:var(--sheet);border:1px solid #BFA97E;border-radius:.3rem;box-shadow:0 12px 28px -12px rgba(40,25,10,.55)}
+details.download .menu a{display:flex;align-items:center;min-height:44px;padding:.45rem .8rem;border-radius:.2rem;color:var(--ink);text-decoration:none}
+details.download .menu a:hover{background:#F0E3BE}
+
+/* Плавающие кнопки. */
+.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;pointer-events:none;z-index:25}
+.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;border-radius:50%;background:var(--sb);color:var(--sf);font:700 1.3rem/1 var(--sans);text-decoration:none;cursor:pointer;box-shadow:inset 0 1px 1px rgba(255,255,255,.35),0 8px 20px -6px rgba(40,25,10,.6)}
+.fab:hover{background:color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.fab.next{margin-left:auto}
+.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .2s,transform .2s,visibility .2s;pointer-events:auto;z-index:25}
+.fab.top.visible{opacity:1;visibility:visible;transform:none}
+.credits{max-width:68rem;margin:0 auto;padding:1.2rem 2.4rem 1.5rem;font:400 .95rem/1.5 var(--sans);color:var(--ink);background:var(--stone);border-inline:1.1rem solid #A98B5E}
+@media(max-width:1180px){.credits{padding-inline:1.25rem;border-inline-width:.5rem}}
+
+/* Скачанный документ без декора. */
+body.plain{background:#fff}
+body.plain::before{display:none}
+body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
+body.plain main::before{display:none}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+@media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
+@media(max-width:640px){
+body{font-size:1.12rem}
+:root{--px:1.1rem;--py:1.4rem}
+main:not(.wide){margin:0 auto 5rem;border-radius:0}
+.pager{grid-template-columns:1fr}.pager>span{display:none}
+.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}
+.fab{width:2.75rem;height:2.75rem}.fab.prev,.fab.next{display:none}.fab.top{bottom:1rem;right:.5rem}
+.testament{gap:2rem}
+.group{border-width:.4rem;border-radius:1.2rem 1.2rem .25rem .25rem}
+.group>h3{padding:.55rem 1rem .5rem;font-size:1.3rem}
+.scrolls{--h:3.9rem;column-gap:.8rem;padding:1.4rem .55rem var(--board)}
+.scrolls li{padding:0 .8rem}
+.scrolls li::before,.scrolls li::after{width:.8rem}
+.scrolls a,.scrolls li.empty>span{gap:.5rem;padding:0 .55rem 0 1rem;font-size:1rem}
+.scrolls a::before,.scrolls a::after{width:1rem}
+.scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
+.scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
+.book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
+@media(max-height:500px){header.top{position:static}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+@media print{body{background:#fff}body::before{display:none}header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
-<body>
+<body class="plain">
 <main>
-<h1>11. Филипийцам</h1>
-<h2>1.1) Фил. 1:1-2, - важность Слово Божье, Завета, Христос</h2>
-<blockquote><p>Павел и Тимофей, рабы Иисуса Христа, всем святым во Христе Иисусе, находящимся в Филиппах, с епископами и диаконами: благодать вам и мир от Бога Отца нашего и Господа Иисуса Христа.</p><cite>Фил. 1:1-2</cite></blockquote>
-<h3>(1) Важность понимания и исполнения предназначения – познание и передача Слово Божье, Завета, Христос (Павел, Тимофей, рабы Христос) Быт. 1:27,2:7,9,16-17, - Быт. 3:1-7 (Рим. 5:12,6:23,Еф. 2:2), -Быт. 3:15,21,Мф. 16:16 (1-е Тим. 3:16), Ин. 19:30, - Рим. 10:9</h3>
+<h1>Рим. 4</h1>
+<h2 id="s1">3.1) Рим. 4:1-12, - важность правильного понимания оправдания</h2>
+<blockquote><p>Что же, скажем, Авраам, отец наш, приобрел по плоти? Если Авраам оправдался делами, он имеет похвалу, но не пред Богом. Ибо что говорит Писание? Поверил Авраам Богу, и это вменилось ему в праведность. Воздаяние делающему вменяется не по милости, но по долгу. А не делающему, но верующему в Того, Кто оправдывает нечестивого, вера его вменяется в праведность. Так и Давид называет блаженным человека, которому Бог вменяет праведность независимо от дел: Блаженны, чьи беззакония прощены и чьи грехи покрыты. Блажен человек, которому Господь не вменит греха. Блаженство сие <em>относится</em> к обрезанию, или к необрезанию? Мы говорим, что Аврааму вера вменилась в праведность. Когда вменилась? по обрезании или до обрезания? Не по обрезании, а до обрезания. И знак обрезания он получил, <em>как</em> печать праведности через веру, которую <em>имел</em> в необрезании, так что он стал отцом всех верующих в необрезании, чтобы и им вменилась праведность, и отцом обрезанных, не только <em>принявших</em> обрезание, но и ходящих по следам веры отца нашего Авраама, которую <em>имел</em> <em>он</em> в необрезании.</p><cite>Рим. 4:1-12</cite></blockquote>
+<h3>(1) Рим. 4:1-3, - понимание оправдания Авраама, принятие Слово Божье, Завета, Христос, вера в грядущего Христа, принятие Его Жертвы 1-е Пет. 1:10-11,Дн. 10:43, - Быт. 20:7 Быт. 1:27,2:7,9,16-17, - Быт. 3:1-7 (Рим. 5:12,6:23,Еф. 2:2), -Быт. 3:15,21,Мф. 16:16,Ин. 19:30, - Рим. 10:9</h3>
+<blockquote><p>Что же, скажем, Авраам, отец наш, приобрел по плоти? Если Авраам оправдался делами, он имеет похвалу, но не пред Богом. Ибо что говорит Писание? Поверил Авраам Богу, и это вменилось ему в праведность.</p><cite>Рим. 4:1-3</cite></blockquote>
+<blockquote><p>К сему-то спасению относились изыскания и исследования пророков, которые предсказывали о назначенной вам благодати, исследывая, на которое и на какое время указывал сущий в них Дух Христов, когда Он предвозвещал Христовы страдания и последующую за ними славу.</p><cite>1-е Пет. 1:10-11</cite></blockquote>
+<blockquote><p>О Нем все пророки свидетельствуют, что всякий верующий в Него получит прощение грехов именем Его.</p><cite>Дн. 10:43</cite></blockquote>
+<blockquote><p>теперь же возврати жену мужу, ибо он пророк и помолится о тебе, и ты будешь жив; а если не возвратишь, то знай, что непременно умрешь ты и все твои.</p><cite>Быт. 20:7</cite></blockquote>
 <blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
 <blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
 <blockquote><p>И произрастил Господь Бог из земли всякое дерево, приятное на вид и хорошее для пищи, и дерево жизни посреди рая, и дерево познания добра и зла.</p><cite>Быт. 2:9</cite></blockquote>
@@ -89,219 +260,56 @@ details.download .menu a:hover{background:var(--quote)}
 <blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
 <blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
 <blockquote><p>Симон же Петр, отвечая, сказал: Ты -- Христос, Сын Бога Живаго.</p><cite>Мф. 16:16</cite></blockquote>
-<blockquote><p>И беспрекословно -- великая благочестия тайна: Бог явился во плоти, оправдал Себя в Духе, показал Себя Ангелам, проповедан в народах, принят верою в мире, вознесся во славе.</p><cite>1-е Тим. 3:16</cite></blockquote>
 <blockquote><p>Когда же Иисус вкусил уксуса, сказал: совершилось! И, преклонив главу, предал дух.</p><cite>Ин. 19:30</cite></blockquote>
 <blockquote><p>Ибо если устами твоими будешь исповедывать Иисуса Господом и сердцем твоим веровать, что Бог воскресил Его из мертвых, то спасешься,</p><cite>Рим. 10:9</cite></blockquote>
-<h3>(2) Важность понимания единственной причины святости народа Божьего – принятие Слово Божье, Завета, Христос (Жертва Христа)</h3>
-<h3>(3) Важность благодати и мира от Бога – правильная жизнь, служение Богу, исполнение предназначения</h3>
-<h2>2) Фил. 1:3-11, - важность исполнения предназначения</h2>
-<blockquote><p>Благодарю Бога моего при всяком воспоминании о вас, всегда во всякой молитве моей за всех вас принося с радостью молитву мою, за ваше участие в благовествовании от первого дня даже доныне, будучи уверен в том, что начавший в вас доброе дело будет совершать его даже до дня Иисуса Христа, как и должно мне помышлять о всех вас, потому что я имею вас в сердце в узах моих, при защищении и утверждении благовествования, вас всех, как соучастников моих в благодати. Бог -- свидетель, что я люблю всех вас любовью Иисуса Христа; и молюсь о том, чтобы любовь ваша еще более и более возрастала в познании и всяком чувстве, чтобы, познавая лучшее, вы были чисты и непреткновенны в день Христов, исполнены плодов праведности Иисусом Христом, в славу и похвалу Божию.</p><cite>Фил. 1:3-11</cite></blockquote>
-<h3>(1) Фил. 1:3-5, - важность молитвы за народ Божий, важность исполнения предназначения (благовествование)</h3>
-<blockquote><p>Благодарю Бога моего при всяком воспоминании о вас, всегда во всякой молитве моей за всех вас принося с радостью молитву мою, за ваше участие в благовествовании от первого дня даже доныне,</p><cite>Фил. 1:3-5</cite></blockquote>
-<h3>(2) Фил. 1:6, - важность понимания действия благодати Божьей – познание и передача Слово Божье, Завета, Христос (доброе дело), свершение правильных действий в жизни всякого человека</h3>
-<blockquote><p>будучи уверен в том, что начавший в вас доброе дело будет совершать его даже до дня Иисуса Христа,</p><cite>Фил. 1:6</cite></blockquote>
-<h3>(3) Фил. 1:7, - важность правильного мышления и понимания предназначения жизни народа Божьего (соучастники в деле Бог)</h3>
-<blockquote><p>как и должно мне помышлять о всех вас, потому что я имею вас в сердце в узах моих, при защищении и утверждении благовествования, вас всех, как соучастников моих в благодати.</p><cite>Фил. 1:7</cite></blockquote>
-<h3>(4) Фил. 1:8, - важность правильного понимания любви Божьей, познание и передача Слово Божье, Завета, Христос, важность спасения человек, ответсвенность и небезразличие</h3>
-<blockquote><p>Бог -- свидетель, что я люблю всех вас любовью Иисуса Христа;</p><cite>Фил. 1:8</cite></blockquote>
-<h3>(5) Фил. 1:9-10, - важность возрастания в любви Божьей, познание Слово Божье, Завета, Христос, исполнение предназначения, быть чистым и непреткновенным (глубокая вера Божья)</h3>
-<blockquote><p>и молюсь о том, чтобы любовь ваша еще более и более возрастала в познании и всяком чувстве, чтобы, познавая лучшее, вы были чисты и непреткновенны в день Христов,</p><cite>Фил. 1:9-10</cite></blockquote>
-<h3>(6) Фил. 1:11, - важность плодов праведности, следствие принятия Слово Божье, Завета, Христос, правильная жизнь детей Божьих</h3>
-<blockquote><p>исполнены плодов праведности Иисусом Христом, в славу и похвалу Божию.</p><cite>Фил. 1:11</cite></blockquote>
-<h2>3) Фил. 1:12-19, - важность познания и передачи Слово Божье, Завета, Христос</h2>
-<blockquote><p>Желаю, братия, чтобы вы знали, что обстоятельства мои послужили к большему успеху благовествования, так что узы мои о Христе сделались известными всей претории и всем прочим, и большая часть из братьев в Господе, ободрившись узами моими, начали с большею смелостью, безбоязненно проповедывать слово Божие. Некоторые, правда, по зависти и любопрению, а другие с добрым расположением проповедуют Христа. Одни по любопрению проповедуют Христа не чисто, думая увеличить тяжесть уз моих; а другие -- из любви, зная, что я поставлен защищать благовествование. Но что до того? Как бы ни проповедали Христа, притворно или искренно, я и тому радуюсь и буду радоваться, ибо знаю, что это послужит мне во спасение по вашей молитве и содействием Духа Иисуса Христа,</p><cite>Фил. 1:12-19</cite></blockquote>
-<h3>(1) Фил. 1:12-14, - важность исполнения предназначения, Божий контроль обстоятельств (все ко благу). Рим. 8:28</h3>
-<blockquote><p>Желаю, братия, чтобы вы знали, что обстоятельства мои послужили к большему успеху благовествования, так что узы мои о Христе сделались известными всей претории и всем прочим, и большая часть из братьев в Господе, ободрившись узами моими, начали с большею смелостью, безбоязненно проповедывать слово Божие.</p><cite>Фил. 1:12-14</cite></blockquote>
-<blockquote><p>Притом знаем, что любящим Бога, призванным по <em>Его</em> изволению, все содействует ко благу.</p><cite>Рим. 8:28</cite></blockquote>
-<h3>(2) Фил. 1:14, - важность личного примера исполнения предназначения, исполнения воли Божьей в любых ситуациях</h3>
-<blockquote><p>и большая часть из братьев в Господе, ободрившись узами моими, начали с большею смелостью, безбоязненно проповедывать слово Божие.</p><cite>Фил. 1:14</cite></blockquote>
-<h3>(3) Фил. 1:15-17, - важность правильных мотивов проповеди</h3>
-<blockquote><p>Некоторые, правда, по зависти и любопрению, а другие с добрым расположением проповедуют Христа. Одни по любопрению проповедуют Христа не чисто, думая увеличить тяжесть уз моих; а другие -- из любви, зная, что я поставлен защищать благовествование.</p><cite>Фил. 1:15-17</cite></blockquote>
-<h4>(а) Зависть и любопрение, нет чистоты учения – желание выделиться, амбиции человека (попытка сравнения с Павлом)</h4>
-<h4>(б) Любовь – утверждение Слово Божье, Завета, Христос, чистота учения, поддержка Павла в защите Истины Божьей</h4>
-<h3>(4) Фил. 1:18, - важность проповеди о Христе, возможность вникнуть в Слово Божье, получение понимания от Бога</h3>
-<blockquote><p>Но что до того? Как бы ни проповедали Христа, притворно или искренно, я и тому радуюсь и буду радоваться,</p><cite>Фил. 1:18</cite></blockquote>
-<h4>(а) Проблема религий мира – увод человека от Христа</h4>
-<h4>(б) Неправильное христианство (смешанное евангелие) – детоводитель ко Христу для всякого человека. Гал. 3:24</h4>
-<blockquote><p>Итак закон был для нас детоводителем ко Христу, дабы нам оправдаться верою;</p><cite>Гал. 3:24</cite></blockquote>
-<h3>(5) Фил. 1:19, - важность исполнения предназначения народа Бог</h3>
-<blockquote><p>ибо знаю, что это послужит мне во спасение по вашей молитве и содействием Духа Иисуса Христа,</p><cite>Фил. 1:19</cite></blockquote>
-<h4>(а) Проповедь о Христе – исповедание и выбор Павла</h4>
-<h4>(б) Молитва народа Божьего – поддержка Павла, важность сохранения веры Божьей до момента разделения души и тела</h4>
-<h4>(в) Содействие Духа Иисуса Христа – действие благодати Бог</h4>
-<h2>4) Фил. 1:20-26, - важность познания и передачи Слово Божье, Завета, Христос</h2>
-<blockquote><p>при уверенности и надежде моей, что я ни в чем посрамлен не буду, но при всяком дерзновении, и ныне, как и всегда, возвеличится Христос в теле моем, жизнью ли то, или смертью. Ибо для меня жизнь -- Христос, и смерть -- приобретение. Если же жизнь во плоти <em>доставляет</em> плод моему делу, то не знаю, что избрать. Влечет меня то и другое: имею желание разрешиться и быть со Христом, потому что это несравненно лучше; а оставаться во плоти нужнее для вас. И я верно знаю, что останусь и пребуду со всеми вами для вашего успеха и радости в вере, дабы похвала ваша во Христе Иисусе умножилась через меня, при моем вторичном к вам пришествии.</p><cite>Фил. 1:20-26</cite></blockquote>
-<h3>(1) Фил. 1:20, - важность прослаления и возвеличивания Христа (жизнью или смертью), предназначение народа Божьего</h3>
-<blockquote><p>при уверенности и надежде моей, что я ни в чем посрамлен не буду, но при всяком дерзновении, и ныне, как и всегда, возвеличится Христос в теле моем, жизнью ли то, или смертью.</p><cite>Фил. 1:20</cite></blockquote>
-<h3>(2) Фил. 1:21-26, - важность уверенности в прощении всех грехов и спасении (исповедание апостола Павла)</h3>
-<blockquote><p>Ибо для меня жизнь -- Христос, и смерть -- приобретение. Если же жизнь во плоти <em>доставляет</em> плод моему делу, то не знаю, что избрать. Влечет меня то и другое: имею желание разрешиться и быть со Христом, потому что это несравненно лучше; а оставаться во плоти нужнее для вас. И я верно знаю, что останусь и пребуду со всеми вами для вашего успеха и радости в вере, дабы похвала ваша во Христе Иисусе умножилась через меня, при моем вторичном к вам пришествии.</p><cite>Фил. 1:21-26</cite></blockquote>
-<h4>(а) Жизнь – Христос (Эммануил, исполнение воли Божьей)</h4>
-<h4>(б) Смерть – приобретение (Царство Небесное)</h4>
-<h4>(в) Разрешиться и быть со Христом – уверенность Павла</h4>
-<h4>(г) Остваться во плоти нужнее для верующих – понимание и желание исполнения предназначения, служение людям</h4>
-<h2>5) Фил. 1:27-30, - важность познания и передачи Слово Божье, Завета, Христос</h2>
-<blockquote><p>Только живите достойно благовествования Христова, чтобы мне, приду ли я и увижу вас, или не приду, слышать о вас, что вы стоите в одном духе, подвизаясь единодушно за веру Евангельскую, и не страшитесь ни в чем противников: это для них есть предзнаменование погибели, а для вас -- спасения. И сие от Бога, потому что вам дано ради Христа не только веровать в Него, но и страдать за Него таким же подвигом, какой вы видели во мне и ныне слышите о мне.</p><cite>Фил. 1:27-30</cite></blockquote>
-<h3>(1) Фил. 1:27, - важность правильной жизни народа Божьего, важность исполнения предназначения</h3>
-<blockquote><p>Только живите достойно благовествования Христова, чтобы мне, приду ли я и увижу вас, или не приду, слышать о вас, что вы стоите в одном духе, подвизаясь единодушно за веру Евангельскую,</p><cite>Фил. 1:27</cite></blockquote>
-<h3>(2) Фил. 1:28-30, - важность исполнения предназначения, важность правильного отношения к обстоятельствам</h3>
-<blockquote><p>и не страшитесь ни в чем противников: это для них есть предзнаменование погибели, а для вас -- спасения. И сие от Бога, потому что вам дано ради Христа не только веровать в Него, но и страдать за Него таким же подвигом, какой вы видели во мне и ныне слышите о мне.</p><cite>Фил. 1:28-30</cite></blockquote>
-<h4>(а) Страдания народа Божьего – прославление Христа, понимание спасения и жизни будущего века</h4>
-<h4>(б) Страдания противников веры Божьей – прообраз и предзнаменование погибели (озеро огненное)</h4>
-<h4>(в) Пример Павла – важность познания и передачи Слово Божье, Завета, Христос, дело всей жизни народа Божьего</h4>
-<h2>Заключение:</h2>
-<h3>(1) Важность принятия Слово Божье, Завета, Христос</h3>
-<h3>(2) Важность понимания и исполнения предназначения</h3>
-<h3>(3) Важность уверенности в прощении грехов и спасении</h3>
-<h2>2.1) Фил. 2:1-11, - важность понимания Слово Божье, Завета, Христос</h2>
-<blockquote><p>Итак, если <em>есть</em> какое утешение во Христе, если <em>есть</em> какая отрада любви, если <em>есть</em> какое общение духа, если <em>есть</em> какое милосердие и сострадательность, то дополните мою радость: имейте одни мысли, имейте ту же любовь, будьте единодушны и единомысленны; ничего <em>не</em> <em>делайте</em> по любопрению или по тщеславию, но по смиренномудрию почитайте один другого высшим себя. Не о себе <em>только</em> каждый заботься, но каждый и о других. Ибо в вас должны быть те же чувствования, какие и во Христе Иисусе: Он, будучи образом Божиим, не почитал хищением быть равным Богу; но уничижил Себя Самого, приняв образ раба, сделавшись подобным человекам и по виду став как человек; смирил Себя, быв послушным даже до смерти, и смерти крестной. Посему и Бог превознес Его и дал Ему имя выше всякого имени, дабы пред именем Иисуса преклонилось всякое колено небесных, земных и преисподних, и всякий язык исповедал, что Господь Иисус Христос в славу Бога Отца.</p><cite>Фил. 2:1-11</cite></blockquote>
-<h3>(1) Фил. 2:1-2, - важность жизни в Слово Божье, Завете, Христос, важность понимания и исполнения предназначения народа Божьего. (Познание и передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация) Быт. 1:27,2:7,9,16-17, - Быт. 3:1-7 (Рим. 5:12,6:23,Еф. 2:2), -Быт. 3:15,21,Мф. 16:16 (1-е Тим. 3:16), Ин. 19:30, - Рим. 10:9</h3>
-<blockquote><p>Итак, если <em>есть</em> какое утешение во Христе, если <em>есть</em> какая отрада любви, если <em>есть</em> какое общение духа, если <em>есть</em> какое милосердие и сострадательность, то дополните мою радость: имейте одни мысли, имейте ту же любовь, будьте единодушны и единомысленны;</p><cite>Фил. 2:1-2</cite></blockquote>
-<blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
-<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<blockquote><p>И произрастил Господь Бог из земли всякое дерево, приятное на вид и хорошее для пищи, и дерево жизни посреди рая, и дерево познания добра и зла.</p><cite>Быт. 2:9</cite></blockquote>
-<blockquote><p>И заповедал Господь Бог человеку, говоря: от всякого дерева в саду ты будешь есть, а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:16-17</cite></blockquote>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
-<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
+<h3>(2) Рим. 4:4-8 (Пс. 31:1-2), - понимание Слово Божье, Завета, Христос, понимание и вера Давида, оправдание человека по вере во Христа</h3>
+<blockquote><p>Воздаяние делающему вменяется не по милости, но по долгу. А не делающему, но верующему в Того, Кто оправдывает нечестивого, вера его вменяется в праведность. Так и Давид называет блаженным человека, которому Бог вменяет праведность независимо от дел: Блаженны, чьи беззакония прощены и чьи грехи покрыты. Блажен человек, которому Господь не вменит греха.</p><cite>Рим. 4:4-8</cite></blockquote>
+<blockquote><p>Блажен, кому отпущены беззакония, и чьи грехи покрыты! Блажен человек, которому Господь не вменит греха, и в чьем духе нет лукавства!</p><cite>Пс. 31:1-2</cite></blockquote>
+<h4>(а) Понимание прощения всех грехов – прошлых, настоящих, будущее</h4>
+<h4>(б) Понимание полного оправдания человека через Христа</h4>
+<h3>(3) Рим. 4:9-12, - важность правильного понимания, исполнения Слово Божье, Завета, Христос, вера Божья, понимание Авраама</h3>
+<blockquote><p>Блаженство сие <em>относится</em> к обрезанию, или к необрезанию? Мы говорим, что Аврааму вера вменилась в праведность. Когда вменилась? по обрезании или до обрезания? Не по обрезании, а до обрезания. И знак обрезания он получил, <em>как</em> печать праведности через веру, которую <em>имел</em> в необрезании, так что он стал отцом всех верующих в необрезании, чтобы и им вменилась праведность, и отцом обрезанных, не только <em>принявших</em> обрезание, но и ходящих по следам веры отца нашего Авраама, которую <em>имел</em> <em>он</em> в необрезании.</p><cite>Рим. 4:9-12</cite></blockquote>
+<h4>(а) Вера Авраама вменилась ему в праведность до обрезания. (Обряд не может дать спасения и рождения свыше)</h4>
+<h4>(б) Обрезание (печать праведности) – следствие веры Божьей</h4>
+<h4>(в) Авраам – отец всех верующих в необрезании (язычники), важность правильного понимания народа Божьего. (Народ Божий – не плотское, а духовное рождение от семени Слово Божье, иудеи и язычники, важность принятия Слово Божье, Завета, Христос)</h4>
+<h4>(в) Авраам – отец всех верующих в обрезании (иудеи), важность правильного понимания народа Божьего</h4>
+<h2 id="s2">2) Рим. 4:13-15, - разница Бог обетования спасения и Закона</h2>
+<blockquote><p>Ибо не законом <em>даровано</em> Аврааму, или семени его, обетование -- быть наследником мира, но праведностью веры. Если утверждающиеся на законе суть наследники, то тщетна вера, бездейственно обетование; ибо закон производит гнев, потому что, где нет закона, нет и преступления.</p><cite>Рим. 4:13-15</cite></blockquote>
+<h3>(1) Рим. 4:13, - обетование спасения раньше Закона. Быт. 3:15,12</h3>
+<blockquote><p>Ибо не законом <em>даровано</em> Аврааму, или семени его, обетование -- быть наследником мира, но праведностью веры.</p><cite>Рим. 4:13</cite></blockquote>
 <blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<blockquote><p>Симон же Петр, отвечая, сказал: Ты -- Христос, Сын Бога Живаго.</p><cite>Мф. 16:16</cite></blockquote>
-<blockquote><p>И беспрекословно -- великая благочестия тайна: Бог явился во плоти, оправдал Себя в Духе, показал Себя Ангелам, проповедан в народах, принят верою в мире, вознесся во славе.</p><cite>1-е Тим. 3:16</cite></blockquote>
-<blockquote><p>Когда же Иисус вкусил уксуса, сказал: совершилось! И, преклонив главу, предал дух.</p><cite>Ин. 19:30</cite></blockquote>
-<blockquote><p>Ибо если устами твоими будешь исповедывать Иисуса Господом и сердцем твоим веровать, что Бог воскресил Его из мертвых, то спасешься,</p><cite>Рим. 10:9</cite></blockquote>
-<h3>(2) Фил. 2:3-4, - важность правильных мотивов жизни, служение Богу, исполнение предназначения народа Божьего. (Познание и передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация)</h3>
-<blockquote><p>ничего <em>не</em> <em>делайте</em> по любопрению или по тщеславию, но по смиренномудрию почитайте один другого высшим себя. Не о себе <em>только</em> каждый заботься, но каждый и о других.</p><cite>Фил. 2:3-4</cite></blockquote>
-<h3>(3) Фил. 2:5-11, - важность понимания Хрриста и Его Жертвы</h3>
-<blockquote><p>Ибо в вас должны быть те же чувствования, какие и во Христе Иисусе: Он, будучи образом Божиим, не почитал хищением быть равным Богу; но уничижил Себя Самого, приняв образ раба, сделавшись подобным человекам и по виду став как человек; смирил Себя, быв послушным даже до смерти, и смерти крестной. Посему и Бог превознес Его и дал Ему имя выше всякого имени, дабы пред именем Иисуса преклонилось всякое колено небесных, земных и преисподних, и всякий язык исповедал, что Господь Иисус Христос в славу Бога Отца.</p><cite>Фил. 2:5-11</cite></blockquote>
-<h4>(а) Фил. 2:5, - важность понимания и принятия воли Божьей</h4>
-<blockquote><p>Ибо в вас должны быть те же чувствования, какие и во Христе Иисусе:</p><cite>Фил. 2:5</cite></blockquote>
-<h4>(б) Фил. 2:6, - Христос есть Бог пришедший во плоти</h4>
-<blockquote><p>Он, будучи образом Божиим, не почитал хищением быть равным Богу;</p><cite>Фил. 2:6</cite></blockquote>
-<h4>(в) Фил. 2:7, - способность Христа испытывать боль, смерть и страдания не по причине первородного греха, а по благодати Божьей, ради спасения рода человеческого. (Подобный человек – оставление прославленного тела Христа)</h4>
-<blockquote><p>но уничижил Себя Самого, приняв образ раба, сделавшись подобным человекам и по виду став как человек;</p><cite>Фил. 2:7</cite></blockquote>
-<h4>(г) Фил. 2:8, - важность понимания смысла смерти Христа, искупление всех грехов, исполнение приговора Слово Божье</h4>
-<blockquote><p>смирил Себя, быв послушным даже до смерти, и смерти крестной.</p><cite>Фил. 2:8</cite></blockquote>
-<h4>(д) Фил. 2:9-11, - важность преклонения и прославления Христа, воля Божья для всего творения</h4>
-<blockquote><p>Посему и Бог превознес Его и дал Ему имя выше всякого имени, дабы пред именем Иисуса преклонилось всякое колено небесных, земных и преисподних, и всякий язык исповедал, что Господь Иисус Христос в славу Бога Отца.</p><cite>Фил. 2:9-11</cite></blockquote>
-<h2>2) Фил. 2:12-17, - важность исполнения предназначения</h2>
-<blockquote><p>Итак, возлюбленные мои, как вы всегда были послушны, не только в присутствии моем, но гораздо более ныне во время отсутствия моего, со страхом и трепетом совершайте свое спасение, потому что Бог производит в вас и хотение и действие по <em>Своему</em> благоволению. Все делайте без ропота и сомнения, чтобы вам быть неукоризненными и чистыми, чадами Божиими непорочными среди строптивого и развращенного рода, в котором вы сияете, как светила в мире, содержа слово жизни, к похвале моей в день Христов, что я не тщетно подвизался и не тщетно трудился. Но если я и соделываюсь жертвою за жертву и служение веры вашей, то радуюсь и сорадуюсь всем вам.</p><cite>Фил. 2:12-17</cite></blockquote>
-<h3>(1) Фил. 2:12, - важность послушания Слово Божье, Завету, Христос, важность сохранения чистоты учения, спасение человека</h3>
-<blockquote><p>Итак, возлюбленные мои, как вы всегда были послушны, не только в присутствии моем, но гораздо более ныне во время отсутствия моего, со страхом и трепетом совершайте свое спасение,</p><cite>Фил. 2:12</cite></blockquote>
-<h3>(2) Фил. 2:12, - понимание этапов спасения с позиции времени</h3>
-<blockquote><p>Итак, возлюбленные мои, как вы всегда были послушны, не только в присутствии моем, но гораздо более ныне во время отсутствия моего, со страхом и трепетом совершайте свое спасение,</p><cite>Фил. 2:12</cite></blockquote>
-<h4>(а) Человек спасен (совершенное время, свершившийся факт) – принятие Слово Божье, Завета, Христос, уверенность в спасении</h4>
-<h4>(б) Человек спасается (настоящее длительное время, процесс) – важность сохранения Слово Божье, Завета, Христос, потеря спасения</h4>
-<h3>(3) Фил. 2:13, - важность понимания Божьего суверенитета и контроля, важность Эммануила и исполнения воли Божьей</h3>
-<blockquote><p>потому что Бог производит в вас и хотение и действие по <em>Своему</em> благоволению.</p><cite>Фил. 2:13</cite></blockquote>
-<h3>(4) Фил. 2:14-16, - важность исполнение предназначения, быть чадами Божьими содержа Слово Жизни. (Познание и передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация)</h3>
-<blockquote><p>Все делайте без ропота и сомнения, чтобы вам быть неукоризненными и чистыми, чадами Божиими непорочными среди строптивого и развращенного рода, в котором вы сияете, как светила в мире, содержа слово жизни, к похвале моей в день Христов, что я не тщетно подвизался и не тщетно трудился.</p><cite>Фил. 2:14-16</cite></blockquote>
-<h3>(5) Фил. 2:17, - важность исполнение предназначения, пример апостола Павла (принести себя в жертву для служения Богу), понимание правильной причины радости для детей Божьих</h3>
-<blockquote><p>Но если я и соделываюсь жертвою за жертву и служение веры вашей, то радуюсь и сорадуюсь всем вам.</p><cite>Фил. 2:17</cite></blockquote>
-<h2>3) Фил. 2:19-30, - важность познания и передачи Слово Божье</h2>
-<blockquote><p>Надеюсь же в Господе Иисусе вскоре послать к вам Тимофея, дабы и я, узнав о ваших обстоятельствах, утешился духом. Ибо я не имею никого равно усердного, кто бы столь искренно заботился о вас, потому что все ищут своего, а не того, что <em>угодно</em> Иисусу Христу. А его верность вам известна, потому что он, как сын отцу, служил мне в благовествовании. Итак я надеюсь послать его тотчас же, как скоро узнаю, что будет со мною. Я уверен в Господе, что и сам скоро приду к вам. Впрочем я почел нужным послать к вам Епафродита, брата и сотрудника и сподвижника моего, а вашего посланника и служителя в нужде моей, потому что он сильно желал видеть всех вас и тяжко скорбел о том, что до вас дошел слух о его болезни. Ибо он был болен при смерти; но Бог помиловал его, и не его только, но и меня, чтобы не прибавилась мне печаль к печали. Посему я скорее послал его, чтобы вы, увидев его снова, возрадовались, и я был менее печален. Примите же его в Господе со всякою радостью, и таких имейте в уважении, ибо он за дело Христово был близок к смерти, подвергая опасности жизнь, дабы восполнить недостаток ваших услуг мне.</p><cite>Фил. 2:19-30</cite></blockquote>
-<h3>(1) Фил. 2:19-23, - важность исполнения предназначения, важность учеников (Тимофей)</h3>
-<blockquote><p>Надеюсь же в Господе Иисусе вскоре послать к вам Тимофея, дабы и я, узнав о ваших обстоятельствах, утешился духом. Ибо я не имею никого равно усердного, кто бы столь искренно заботился о вас, потому что все ищут своего, а не того, что <em>угодно</em> Иисусу Христу. А его верность вам известна, потому что он, как сын отцу, служил мне в благовествовании. Итак я надеюсь послать его тотчас же, как скоро узнаю, что будет со мною.</p><cite>Фил. 2:19-23</cite></blockquote>
-<h3>(2) Фил. 2:24, - важность личного общения народа Божьего, важность утверждения Слово Божье, Завета, Христос (Павел)</h3>
-<blockquote><p>Я уверен в Господе, что и сам скоро приду к вам.</p><cite>Фил. 2:24</cite></blockquote>
-<h3>(3) Фил. 2:25-30, - важность исполнения предназначения, важность учеников (Епафродит)</h3>
-<blockquote><p>Впрочем я почел нужным послать к вам Епафродита, брата и сотрудника и сподвижника моего, а вашего посланника и служителя в нужде моей, потому что он сильно желал видеть всех вас и тяжко скорбел о том, что до вас дошел слух о его болезни. Ибо он был болен при смерти; но Бог помиловал его, и не его только, но и меня, чтобы не прибавилась мне печаль к печали. Посему я скорее послал его, чтобы вы, увидев его снова, возрадовались, и я был менее печален. Примите же его в Господе со всякою радостью, и таких имейте в уважении, ибо он за дело Христово был близок к смерти, подвергая опасности жизнь, дабы восполнить недостаток ваших услуг мне.</p><cite>Фил. 2:25-30</cite></blockquote>
-<h3>(4) Фил. 2:21, - желание исполнения воли человека, проблема человечества, важность исполнения воли Божьей</h3>
-<blockquote><p>потому что все ищут своего, а не того, что <em>угодно</em> Иисусу Христу.</p><cite>Фил. 2:21</cite></blockquote>
-<h2>4) Фил. 3:1-11, - важность понимания Слово Божье, Завета, Христос</h2>
-<blockquote><p>Впрочем, братия мои, радуйтесь о Господе. Писать вам о том же для меня не тягостно, а для вас назидательно. Берегитесь псов, берегитесь злых делателей, берегитесь обрезания, потому что обрезание -- мы, служащие Богу духом и хвалящиеся Христом Иисусом, и не на плоть надеющиеся, хотя я могу надеяться и на плоть. Если кто другой думает надеяться на плоть, то более я, обрезанный в восьмой день, из рода Израилева, колена Вениаминова, Еврей от Евреев, по учению фарисей, по ревности -- гонитель Церкви Божией, по правде законной -- непорочный. Но что для меня было преимуществом, то ради Христа я почел тщетою. Да и все почитаю тщетою ради превосходства познания Христа Иисуса, Господа моего: для Него я от всего отказался, и все почитаю за сор, чтобы приобрести Христа и найтись в Нем не со своею праведностью, которая от закона, но с тою, которая через веру во Христа, с праведностью от Бога по вере; чтобы познать Его, и силу воскресения Его, и участие в страданиях Его, сообразуясь смерти Его, чтобы достигнуть воскресения мертвых.</p><cite>Фил. 3:1-11</cite></blockquote>
-<h3>(1) Фил. 3:1, - важность понимания Слово Божье, Завета, Хр, исполнение предназначения (истинная причина радости народа Божьего)</h3>
-<blockquote><p>Впрочем, братия мои, радуйтесь о Господе. Писать вам о том же для меня не тягостно, а для вас назидательно.</p><cite>Фил. 3:1</cite></blockquote>
-<h3>(2) Фил. 3:2-3, - важность чистоты Слово Божье, Завета, Христос, лже-учения (смешанное евангелие, обрезание, упование на плоть). Иер. 17:5</h3>
-<blockquote><p>Берегитесь псов, берегитесь злых делателей, берегитесь обрезания, потому что обрезание -- мы, служащие Богу духом и хвалящиеся Христом Иисусом, и не на плоть надеющиеся,</p><cite>Фил. 3:2-3</cite></blockquote>
-<blockquote><p>Так говорит Господь: проклят человек, который надеется на человека и плоть делает своею опорою, и которого сердце удаляется от Господа.</p><cite>Иер. 17:5</cite></blockquote>
-<h3>(3) Фил. 3:4-9, - важность правильного упования, понимание единственной причины истинной праведности человека</h3>
-<blockquote><p>хотя я могу надеяться и на плоть. Если кто другой думает надеяться на плоть, то более я, обрезанный в восьмой день, из рода Израилева, колена Вениаминова, Еврей от Евреев, по учению фарисей, по ревности -- гонитель Церкви Божией, по правде законной -- непорочный. Но что для меня было преимуществом, то ради Христа я почел тщетою. Да и все почитаю тщетою ради превосходства познания Христа Иисуса, Господа моего: для Него я от всего отказался, и все почитаю за сор, чтобы приобрести Христа и найтись в Нем не со своею праведностью, которая от закона, но с тою, которая через веру во Христа, с праведностью от Бога по вере;</p><cite>Фил. 3:4-9</cite></blockquote>
-<h3>(4) Фил. 3:10, - важность познания Слово Божье, Завета, Христос (познание Христа), важность исполнения предназначения (страдания и смерть ради Христа)</h3>
-<blockquote><p>чтобы познать Его, и силу воскресения Его, и участие в страданиях Его, сообразуясь смерти Его,</p><cite>Фил. 3:10</cite></blockquote>
-<h3>(5) Фил. 3:11, - важность воскресения мертвых, фактическое завершение спасения народа Божьего (прославленные тела)</h3>
-<blockquote><p>чтобы достигнуть воскресения мертвых.</p><cite>Фил. 3:11</cite></blockquote>
-<h2>Заключение:</h2>
-<h3>(1) Важность понимания Слово Божье, Завета, Христос, предназначение</h3>
-<h3>(2) Важность понимания Христа – Бог во плоти</h3>
-<h3>(3) Важность понимания этапов спасения с позиции времени</h3>
-<h3>(4) Важность учеников – познание и передача Слово Божье, Завета, Христос</h3>
-<h3>(5) Важность правильного понимания причины праведности человека, понимания проблемы лже-учений и действия сатана</h3>
-<h2>3.1) Фил. 3:8-16, - важность познания Слово Божье, Завета, Христос</h2>
-<blockquote><p>Да и все почитаю тщетою ради превосходства познания Христа Иисуса, Господа моего: для Него я от всего отказался, и все почитаю за сор, чтобы приобрести Христа и найтись в Нем не со своею праведностью, которая от закона, но с тою, которая через веру во Христа, с праведностью от Бога по вере; чтобы познать Его, и силу воскресения Его, и участие в страданиях Его, сообразуясь смерти Его, чтобы достигнуть воскресения мертвых. <em>Говорю</em> <em>так</em> не потому, чтобы я уже достиг, или усовершился; но стремлюсь, не достигну ли я, как достиг меня Христос Иисус. Братия, я не почитаю себя достигшим; а только, забывая заднее и простираясь вперед, стремлюсь к цели, к почести вышнего звания Божия во Христе Иисусе. Итак, кто из нас совершен, так должен мыслить; если же вы о чем иначе мыслите, то и это Бог вам откроет. Впрочем, до чего мы достигли, так и должны мыслить и по тому правилу жить.</p><cite>Фил. 3:8-16</cite></blockquote>
-<h3>(1) Фил. 3:8-9, - важность познания Слово Божье, Завета, Христос, понимание единственной причины праведности человека Быт. 1:27,2:7,9,16-17, - Быт. 3:1-7 (Рим. 5:12,6:23,Еф. 2:2), -Быт. 3:15,21,Мф. 16:16 (1-е Тим. 3:16), Ин. 19:30, - Рим. 10:9</h3>
-<blockquote><p>Да и все почитаю тщетою ради превосходства познания Христа Иисуса, Господа моего: для Него я от всего отказался, и все почитаю за сор, чтобы приобрести Христа и найтись в Нем не со своею праведностью, которая от закона, но с тою, которая через веру во Христа, с праведностью от Бога по вере;</p><cite>Фил. 3:8-9</cite></blockquote>
-<blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
-<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<blockquote><p>И произрастил Господь Бог из земли всякое дерево, приятное на вид и хорошее для пищи, и дерево жизни посреди рая, и дерево познания добра и зла.</p><cite>Быт. 2:9</cite></blockquote>
-<blockquote><p>И заповедал Господь Бог человеку, говоря: от всякого дерева в саду ты будешь есть, а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:16-17</cite></blockquote>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
+<blockquote><p>Адам сказал: жена, которую Ты мне дал, она дала мне от дерева, и я ел.</p><cite>Быт. 3:12</cite></blockquote>
+<h3>(2) Рим. 4:13, - спасение только по обетованию через веру, но не по Закону</h3>
+<blockquote><p>Ибо не законом <em>даровано</em> Аврааму, или семени его, обетование -- быть наследником мира, но праведностью веры.</p><cite>Рим. 4:13</cite></blockquote>
+<h3>(3) Рим. 4:14, - понимание спасения через Закон, упразднение и бессмысленность Божьего обетования и веры. Гал. 2:21</h3>
+<blockquote><p>Если утверждающиеся на законе суть наследники, то тщетна вера, бездейственно обетование;</p><cite>Рим. 4:14</cite></blockquote>
+<blockquote><p>Не отвергаю благодати Божией; а если законом оправдание, то Христос напрасно умер.</p><cite>Гал. 2:21</cite></blockquote>
+<h3>(4) Рим. 4:15, - наличие Закона, обьяснение греховности и виновности всякого человека перед Богом (первородный грех), понимание справедливого требования Закона (гнев Божий), невозможность спасения через Закон. Рим. 5:12,3:10,23,6:23</h3>
+<blockquote><p>ибо закон производит гнев, потому что, где нет закона, нет и преступления.</p><cite>Рим. 4:15</cite></blockquote>
 <blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
+<blockquote><p>как написано: нет праведного ни одного;</p><cite>Рим. 3:10</cite></blockquote>
+<blockquote><p>потому что все согрешили и лишены славы Божией,</p><cite>Рим. 3:23</cite></blockquote>
 <blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<blockquote><p>Симон же Петр, отвечая, сказал: Ты -- Христос, Сын Бога Живаго.</p><cite>Мф. 16:16</cite></blockquote>
-<blockquote><p>И беспрекословно -- великая благочестия тайна: Бог явился во плоти, оправдал Себя в Духе, показал Себя Ангелам, проповедан в народах, принят верою в мире, вознесся во славе.</p><cite>1-е Тим. 3:16</cite></blockquote>
-<blockquote><p>Когда же Иисус вкусил уксуса, сказал: совершилось! И, преклонив главу, предал дух.</p><cite>Ин. 19:30</cite></blockquote>
+<h2 id="s3">3) Рим. 4:16-22, - понимание сути обетования (Христос)</h2>
+<blockquote><p>Итак по вере, чтобы <em>было</em> по милости, дабы обетование было непреложно для всех, не только по закону, но и по вере потомков Авраама, который есть отец всем нам (как написано: Я поставил тебя отцом многих народов) пред Богом, Которому он поверил, животворящим мертвых и называющим несуществующее, как существующее. Он, сверх надежды, поверил с надеждою, через что сделался отцом многих народов, по сказанному: "так <em>многочисленно</em> будет семя твое". И, не изнемогши в вере, он не помышлял, что тело его, почти столетнего, уже омертвело, и утроба Саррина в омертвении; не поколебался в обетовании Божием неверием, но пребыл тверд в вере, воздав славу Богу и будучи вполне уверен, что Он силен и исполнить обещанное. Потому и вменилось ему в праведность.</p><cite>Рим. 4:16-22</cite></blockquote>
+<h3>(1) Важность Исаака – приход Христа, спасение человечества</h3>
+<h3>(2) Гал. 3:16-17, - важность правильного понимания сути Божьего обетования для народа Божьего (Христос)</h3>
+<blockquote><p>Но Аврааму даны были обетования и семени его. Не сказано: и потомкам, как бы о многих, но как об одном: и семени твоему, которое есть Христос. Я говорю то, что завета о Христе, прежде Богом утвержденного, закон, явившийся спустя четыреста тридцать лет, не отменяет так, чтобы обетование потеряло силу.</p><cite>Гал. 3:16-17</cite></blockquote>
+<h3>(3) Вера Авраама – познание и передача Слово Божье, Завета, Христос, Ханаан, Всемирная Евангелизация, подготовка прихода Христа. Евр. 11:8-19</h3>
+<blockquote><p>Верою Авраам повиновался призванию идти в страну, которую имел получить в наследие, и пошел, не зная, куда идет. Верою обитал он на земле обетованной, как на чужой, и жил в шатрах с Исааком и Иаковом, сонаследниками того же обетования; ибо он ожидал города, имеющего основание, которого художник и строитель Бог. Верою и сама Сарра (будучи неплодна) получила силу к принятию семени, и не по времени возраста родила, ибо знала, что верен Обещавший. И потому от одного, и притом омертвелого, родилось так много, как <em>много</em> звезд на небе и как бесчислен песок на берегу морском. Все сии умерли в вере, не получив обетований, а только издали видели оные, и радовались, и говорили о себе, что они странники и пришельцы на земле; ибо те, которые так говорят, показывают, что они ищут отечества. И если бы они в мыслях имели то <em>отечество,</em> из которого вышли, то имели бы время возвратиться; но они стремились к лучшему, то есть к небесному; посему и Бог не стыдится их, называя Себя их Богом: ибо Он приготовил им город. Верою Авраам, будучи искушаем, принес в жертву Исаака и, имея обетование, принес единородного, о котором было сказано: в Исааке наречется тебе семя. Ибо он думал, что Бог силен и из мертвых воскресить, почему и получил его в предзнаменование.</p><cite>Евр. 11:8-19</cite></blockquote>
+<h2 id="s4">4) Рим. 4:23-25, - понимание Бог условий для спасения человека</h2>
+<blockquote><p>А впрочем не в отношении к нему одному написано, что вменилось ему, но и в отношении к нам; вменится и нам, верующим в Того, Кто воскресил из мертвых Иисуса Христа, Господа нашего, Который предан за грехи наши и воскрес для оправдания нашего.</p><cite>Рим. 4:23-25</cite></blockquote>
+<h3>(1) Бог метод спасения и вменение праведности Христа человеку. (Признание Иисуса из Назарета Христом, т.е. Богом во плоти умершим за все грехи всего мира и воскрешим для нашего оправдания) Рим. 10:9</h3>
 <blockquote><p>Ибо если устами твоими будешь исповедывать Иисуса Господом и сердцем твоим веровать, что Бог воскресил Его из мертвых, то спасешься,</p><cite>Рим. 10:9</cite></blockquote>
-<h4>(а) Человеческая праведность (праведность от закона) – запачканная одежда, непринятие Богом. Ис</h4>
-<h4>(б) Божья праведность (праведность от Христа через веру) – истинная праведность, принятие Богом</h4>
-<h3>(2) Фил. 3:10, - важность познания Слово Божье, Завета, Христос (познание Христа), важность исполнения предназначения (страдания и смерть ради Христа)</h3>
-<blockquote><p>чтобы познать Его, и силу воскресения Его, и участие в страданиях Его, сообразуясь смерти Его,</p><cite>Фил. 3:10</cite></blockquote>
-<h3>(3) Фил. 3:11, - важность воскресения мертвых, фактическое завершение спасения народа Божьего (прославленные тела)</h3>
-<blockquote><p>чтобы достигнуть воскресения мертвых.</p><cite>Фил. 3:11</cite></blockquote>
-<h3>(4) Фил. 3:12-14, - важность понимания действия благодати Божьей, важность служения Богу, исполнения предназначен. (Божья награда – познание и передача Слово Божье, Завета, Христос, Всемирная Евангелизация)</h3>
-<blockquote><p><em>Говорю</em> <em>так</em> не потому, чтобы я уже достиг, или усовершился; но стремлюсь, не достигну ли я, как достиг меня Христос Иисус. Братия, я не почитаю себя достигшим; а только, забывая заднее и простираясь вперед, стремлюсь к цели, к почести вышнего звания Божия во Христе Иисусе.</p><cite>Фил. 3:12-14</cite></blockquote>
-<h3>(5) Фил. 3:15-16, - важность понимания Божьего суверенитета, этапы духовного роста народа Божьего, правильная молитва</h3>
-<blockquote><p>Итак, кто из нас совершен, так должен мыслить; если же вы о чем иначе мыслите, то и это Бог вам откроет. Впрочем, до чего мы достигли, так и должны мыслить и по тому правилу жить.</p><cite>Фил. 3:15-16</cite></blockquote>
-<h2>2) Фил. 3:17-21, - важность исполнение предназначения</h2>
-<blockquote><p>Подражайте, братия, мне и смотрите на тех, которые поступают по образу, какой имеете в нас. Ибо многие, о которых я часто говорил вам, а теперь даже со слезами говорю, поступают как враги креста Христова. Их конец -- погибель, их бог -- чрево, и слава их -- в сраме, они мыслят о земном. Наше же жительство -- на небесах, откуда мы ожидаем и Спасителя, Господа нашего Иисуса Христа, Который уничиженное тело наше преобразит так, что оно будет сообразно славному телу Его, силою, <em>которою</em> Он действует и покоряет Себе все.</p><cite>Фил. 3:17-21</cite></blockquote>
-<h3>(1) Фил. 3:17, - важность исполнения предназначения народа Божьего, подражание апостолам и ученикам Христа. (Познание и передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация)</h3>
-<blockquote><p>Подражайте, братия, мне и смотрите на тех, которые поступают по образу, какой имеете в нас.</p><cite>Фил. 3:17</cite></blockquote>
-<h3>(2) Фил. 3:18-19, - отказ от Слово Божье, Завета, Христос, видимое, важность понимания действия сатана (право выбора до конца жизни)</h3>
-<blockquote><p>Ибо многие, о которых я часто говорил вам, а теперь даже со слезами говорю, поступают как враги креста Христова. Их конец -- погибель, их бог -- чрево, и слава их -- в сраме, они мыслят о земном.</p><cite>Фил. 3:18-19</cite></blockquote>
-<h3>(3) Фил. 3:20, - важность понимания невидимого (вечность вместе с Богом), важность понимания будущего, уверенность в прощении всех грехов и спасении (важность веры Божьей)</h3>
-<blockquote><p>Наше же жительство -- на небесах, откуда мы ожидаем и Спасителя, Господа нашего Иисуса Христа,</p><cite>Фил. 3:20</cite></blockquote>
-<h3>(4) Фил. 3:20-21, - важность Второго пришествия Христа (воскресение мертвых, прославленные тела), фактическое завершение спасения, исполнение Слово Божье, Завета, Христос</h3>
-<blockquote><p>Наше же жительство -- на небесах, откуда мы ожидаем и Спасителя, Господа нашего Иисуса Христа, Который уничиженное тело наше преобразит так, что оно будет сообразно славному телу Его, силою, <em>которою</em> Он действует и покоряет Себе все.</p><cite>Фил. 3:20-21</cite></blockquote>
-<h2>3) Фил. 4:1-5, - важность понимания Слово Божье, Завета, Христос</h2>
-<blockquote><p>Итак, братия мои возлюбленные и вожделенные, радость и венец мой, стойте так в Господе, возлюбленные. Умоляю Еводию, умоляю Синтихию мыслить то же о Господе. Ей, прошу и тебя, искренний сотрудник, помогай им, подвизавшимся в благовествовании вместе со мною и с Климентом и с прочими сотрудниками моими, которых имена -- в книге жизни. Радуйтесь всегда в Господе; и еще говорю: радуйтесь. Кротость ваша да будет известна всем человекам. Господь близко.</p><cite>Фил. 4:1-5</cite></blockquote>
-<h3>(1) Фил. 4:1-3, - важность исполнения предназначения народа Божьего, познание и передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация</h3>
-<blockquote><p>Итак, братия мои возлюбленные и вожделенные, радость и венец мой, стойте так в Господе, возлюбленные. Умоляю Еводию, умоляю Синтихию мыслить то же о Господе. Ей, прошу и тебя, искренний сотрудник, помогай им, подвизавшимся в благовествовании вместе со мною и с Климентом и с прочими сотрудниками моими, которых имена -- в книге жизни.</p><cite>Фил. 4:1-3</cite></blockquote>
-<h3>(2) Фил. 4:3, - важность уверенности в прощении всех грехов и спасении, понимание Слово Божье, Завета, Христос (имена в книге жизни)</h3>
-<blockquote><p>Ей, прошу и тебя, искренний сотрудник, помогай им, подвизавшимся в благовествовании вместе со мною и с Климентом и с прочими сотрудниками моими, которых имена -- в книге жизни.</p><cite>Фил. 4:3</cite></blockquote>
-<h3>(3) Фил. 4:4, - важность понимания причины радости народа Божьего (Эммануил, спасение, Божье водительство и контроль)</h3>
-<blockquote><p>Радуйтесь всегда в Господе; и еще говорю: радуйтесь.</p><cite>Фил. 4:4</cite></blockquote>
-<h3>(4) Фил. 4:5, - важность кротости перед Богом и Его Словом, важность правильной жизни, исполнение предназначения</h3>
-<blockquote><p>Кротость ваша да будет известна всем человекам. Господь близко.</p><cite>Фил. 4:5</cite></blockquote>
-<h2>4) Фил. 4:6-9, - важность понимания Слово Божье, Завета, Христос</h2>
-<blockquote><p>Не заботьтесь ни о чем, но всегда в молитве и прошении с благодарением открывайте свои желания пред Богом, и мир Божий, который превыше всякого ума, соблюдет сердца ваши и помышления ваши во Христе Иисусе. Наконец, братия мои, что только истинно, что честно, что справедливо, что чисто, что любезно, что достославно, что только добродетель и похвала, о том помышляйте. Чему вы научились, что приняли и слышали и видели во мне, то исполняйте, -- и Бог мира будет с вами.</p><cite>Фил. 4:6-9</cite></blockquote>
-<h3>(1) Фил. 4:6-7, - важность правильной молитвы народа Божьего</h3>
-<blockquote><p>Не заботьтесь ни о чем, но всегда в молитве и прошении с благодарением открывайте свои желания пред Богом, и мир Божий, который превыше всякого ума, соблюдет сердца ваши и помышления ваши во Христе Иисусе.</p><cite>Фил. 4:6-7</cite></blockquote>
-<h4>(а) Не заботьтесь не о чем – доверие Богу, понимание Божьей любви и заботы, понимание Божьего суверенитета и контроля</h4>
-<h4>(б) Открывать свои желания перед Богом – важность осознания своего мировозрения и системы ценностей (акцент жизни)</h4>
-<h4>(в) Божий суверенитет и контроль – соблюдение наших сердец и помышлений во Христе Иисусе, воля Божья. (Правильная молитва – желание исполнения воли Божьей)</h4>
-<h3>(2) Фил. 4:8-9, - важность правильного мышления народа Божьего, понимание Слово Божье, Завета, Христос, важность предназначения</h3>
-<blockquote><p>Наконец, братия мои, что только истинно, что честно, что справедливо, что чисто, что любезно, что достославно, что только добродетель и похвала, о том помышляйте. Чему вы научились, что приняли и слышали и видели во мне, то исполняйте, -- и Бог мира будет с вами.</p><cite>Фил. 4:8-9</cite></blockquote>
-<h2>5) Фил. 4:10-23, - важность исполнения предназначения</h2>
-<blockquote><p>Я весьма возрадовался в Господе, что вы уже вновь начали заботиться о мне; вы и прежде заботились, но вам не благоприятствовали обстоятельства. Говорю это не потому, что нуждаюсь, ибо я научился быть довольным тем, что у меня есть. Умею жить и в скудости, умею жить и в изобилии; научился всему и во всем, насыщаться и терпеть голод, быть и в обилии и в недостатке. Все могу в укрепляющем меня Иисусе Христе. Впрочем вы хорошо поступили, приняв участие в моей скорби. Вы знаете, Филиппийцы, что в начале благовествования, когда я вышел из Македонии, ни одна церковь не оказала мне участия подаянием и принятием, кроме вас одних; вы и в Фессалонику и раз и два присылали мне на нужду. <em>Говорю</em> <em>это</em> не потому, чтобы я искал даяния; но ищу плода, умножающегося в пользу вашу. Я получил все, и избыточествую; я доволен, получив от Епафродита посланное вами, <em>как</em> благовонное курение, жертву приятную, благоугодную Богу. Бог мой да восполнит всякую нужду вашу, по богатству Своему в славе, Христом Иисусом. Богу же и Отцу нашему слава во веки веков! Аминь. Приветствуйте всякого святого во Христе Иисусе. Приветствуют вас находящиеся со мною братия. Приветствуют вас все святые, а наипаче из кесарева дома. Благодать Господа нашего Иисуса Христа со всеми вами. Аминь.</p><cite>Фил. 4:10-23</cite></blockquote>
-<h3>(1) Фил. 4:10-20, - важность финансового служения народа Божьего, исполнение предназначения</h3>
-<blockquote><p>Я весьма возрадовался в Господе, что вы уже вновь начали заботиться о мне; вы и прежде заботились, но вам не благоприятствовали обстоятельства. Говорю это не потому, что нуждаюсь, ибо я научился быть довольным тем, что у меня есть. Умею жить и в скудости, умею жить и в изобилии; научился всему и во всем, насыщаться и терпеть голод, быть и в обилии и в недостатке. Все могу в укрепляющем меня Иисусе Христе. Впрочем вы хорошо поступили, приняв участие в моей скорби. Вы знаете, Филиппийцы, что в начале благовествования, когда я вышел из Македонии, ни одна церковь не оказала мне участия подаянием и принятием, кроме вас одних; вы и в Фессалонику и раз и два присылали мне на нужду. <em>Говорю</em> <em>это</em> не потому, чтобы я искал даяния; но ищу плода, умножающегося в пользу вашу. Я получил все, и избыточествую; я доволен, получив от Епафродита посланное вами, <em>как</em> благовонное курение, жертву приятную, благоугодную Богу. Бог мой да восполнит всякую нужду вашу, по богатству Своему в славе, Христом Иисусом. Богу же и Отцу нашему слава во веки веков! Аминь.</p><cite>Фил. 4:10-20</cite></blockquote>
-<h4>(а) Важность заботы о деле Божьем – познание и передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация, подготовка прихода Христа</h4>
-<h4>(б) Важность уметь жить и в скудости и изобилии – Божий суверенитет и контроль, мотивация человека</h4>
-<h4>(в) Важность понимания Божьего суверенитета и контроля – все могу в укрепляющем меня Иисусе Христе</h4>
-<h4>(г) Финансовое служение Филипийцев – жертва приятная и благоугодная Богу, плод спасения многих людей, вера Божья. (Единственная Церковь поддержавшая Павла, важность понимания и исполнения предназначения, награда Божья)</h4>
-<h3>(2) Фил. 4:21-23, - важность учеников и действие благодати Божьей, важность исполнения воли Божьей</h3>
-<blockquote><p>Приветствуйте всякого святого во Христе Иисусе. Приветствуют вас находящиеся со мною братия. Приветствуют вас все святые, а наипаче из кесарева дома. Благодать Господа нашего Иисуса Христа со всеми вами. Аминь.</p><cite>Фил. 4:21-23</cite></blockquote>
-<h2>Заключение:</h2>
-<h3>(1) Важность понимания единственной причины праведности</h3>
-<h3>(2) Важность исполнения предназначения народа Божьего</h3>
-<h3>(3) Важность сохранения веры Божьей до конца жизни</h3>
-<h3>(4) Важность уверенности в прощении всех грехов и спасении, важность подготовки Второго пришествия Христа</h3>
-<h3>(5) Важность правильного мышления и молитвы, утверждение воли Божьей, важность познания Слово Божье, Завета, Христос</h3>
-<h3>(6) Важность финансового служения народа Божьего</h3>
-<h3>(7) Важность понимания Божьего суверенитета и контроля, важность умения жить в скудости и изобилии</h3>
+<h3>(2) Важность принятия Слово Божье, Завет, Христос (суть и смысл)</h3>
+<h2 id="s5">Заключение:</h2>
+<h3>(1) Важность понимания Божьего метода оправдания человека</h3>
+<h3>(2) Важность принятия Слово Божье, Завета, Христос. право выбора</h3>
+<h3>(3) Важность уверенности в прощении всех грехов и спасении</h3>
+<h3>(4) Важность понимания обрезания (следствие веры Божьей)</h3>
+<h3>(5) Важность правильного понимания народа Божьего</h3>
+<h3>(6) Важность понимания разницы Бог обетования и Закона</h3>
+<h3>(7) Важность понимания Божьих условий для спасения человек</h3>
 </main>
 </body>
 </html>

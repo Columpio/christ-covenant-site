@@ -3,80 +3,246 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>4. Пророк Аввакум</title>
+<title>Неем. 7–13</title>
 <style>
-:root{--bg:#faf7f2;--fg:#2b2622;--muted:#7a6f66;--accent:#8a4b2a;--card:#fff;--line:#e6ddd2;--quote:#f3ece2}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+:root{color-scheme:light;
+--ink:#2A1C0D;--ink2:#5A4630;--stone:#E6D8BA;--parch:#EBDAB0;--sheet:#FAF3E0;--wood:#6B4426;--frame:#F1E7CE;
+--c:#2F5DA8;--cd:#2F5DA8;--sb:#2F5DA8;--sf:#FFFFFF;--mix:#000;
+--display:"Cormorant SC","Cormorant Garamond",Georgia,serif;--uni:"Cormorant Unicase","Cormorant SC",Georgia,serif;
+--serif:"Alegreya","PT Serif",Georgia,serif;--sans:"Alegreya Sans","Segoe UI",system-ui,sans-serif;
+--canon:linear-gradient(90deg,#2F5DA8 0 10%,#D8951A 10% 20%,#C2366B 20% 30%,#1F8A5B 30% 40%,#138F8F 40% 50%,#E0562C 50% 60%,#E8801E 60% 70%,#2F8FCF 70% 80%,#6C4BB6 80% 90%,#8E3B8A 90%);
+--noise:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .30 0 0 0 0 .21 0 0 0 0 .10 0 0 0 .22 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+--weave:repeating-linear-gradient(90deg,rgba(255,255,255,.11) 0 2px,rgba(0,0,0,.07) 2px 4px);
+--cdd:color-mix(in srgb,var(--cd) 55%,var(--ink));
+--px:2.4rem;--py:2.2rem}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.6 Georgia,"PT Serif","Times New Roman",serif}
-a{color:var(--accent)}
-header.top{position:sticky;top:0;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:1rem;
-padding:.6rem 1.25rem;background:var(--card);border-bottom:1px solid var(--line);font:15px/1.4 system-ui,sans-serif}
-.crumbs a{text-decoration:none}
-main{max-width:46rem;margin:0 auto;padding:1.5rem 1.25rem 7rem}
-main.wide{max-width:64rem}
-h1{font-size:1.6rem;line-height:1.25;margin:.5rem 0 1rem}
-h2{font-size:1.3rem;line-height:1.3;margin:1.8rem 0 .6rem}
-h3{font-size:1.12rem;line-height:1.35;margin:1.4rem 0 .5rem}
-h4{font-size:1rem;line-height:1.4;margin:1.1rem 0 .4rem}
-ul{padding-left:1.25rem}
-li{margin:.2rem 0}
-blockquote{margin:.6rem 0 1rem;padding:.7rem 1rem;background:var(--quote);border-left:3px solid var(--accent);
-border-radius:0 6px 6px 0;font-size:.95em}
+html{scroll-padding-top:4.5rem;overflow-x:clip}
+body{margin:0;overflow-x:clip;color:var(--ink);font:400 1.2rem/1.65 var(--serif);-webkit-font-smoothing:antialiased;min-height:100vh;
+background:#2B190C url(img/shelves.svg) 50% 0/520px 960px repeat}
+/* Свет и глубина над стеллажами: утренний луч слева сверху, виньетка по краям; на внутренних страницах темнее. */
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+background:linear-gradient(115deg,rgba(255,226,160,.5),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 45%,rgba(20,10,4,.6) 100%),rgba(30,18,8,.12)}
+body:not(.home)::before{background:linear-gradient(115deg,rgba(255,226,160,.28),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 40%,rgba(20,10,4,.55) 100%),rgba(30,18,8,.5)}
+a{color:var(--cdd)}
+.sprite{position:absolute;width:0;height:0;overflow:hidden}
+.skip{position:absolute;left:-999px;top:0;z-index:40;padding:.7rem 1.1rem;background:var(--ink);color:#fff;font:700 1rem var(--sans)}
+.skip:focus{left:.5rem;top:.5rem}
+a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible{outline:3px solid var(--ink);outline-offset:3px;border-radius:6px}
+
+/* Шапка: полоса цветов канона, на страницах книги - цвет её раздела. */
+header.top{position:sticky;top:0;z-index:30;background:rgba(247,239,218,.95);backdrop-filter:blur(6px);border-bottom:1px solid #BFA97E;box-shadow:0 .4rem .8rem -.5rem rgba(50,30,10,.45);font:700 1.02rem/1.4 var(--sans)}
+header.top::before{content:"";display:block;height:4px;background:var(--canon)}
+body[style] header.top::before{background:var(--c)}
+header.top .bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;max-width:44rem;margin:0 auto;padding:0 1.25rem}
+header.top.wide .bar{max-width:68rem}
+.crumbs{min-width:0;color:var(--ink2)}
+.crumbs a{display:inline-flex;align-items:center;min-height:44px;padding:0 .3rem;color:var(--ink);text-decoration:none}
+.crumbs a:hover{color:var(--cdd);text-decoration:underline;text-underline-offset:.25em}
+
+main{max-width:44rem;margin:0 auto;padding:2rem 1.25rem 7rem}
+main.wide{max-width:68rem;position:relative;margin:0 auto;padding:2rem 2.4rem 7rem;
+background:var(--noise),linear-gradient(90deg,rgba(60,38,16,.18),rgba(60,38,16,0) 6%,rgba(60,38,16,0) 94%,rgba(60,38,16,.18)),var(--stone);
+border-inline:1.1rem solid #A98B5E;
+box-shadow:inset .5rem 0 .8rem -.3rem rgba(50,30,10,.45),inset -.5rem 0 .8rem -.3rem rgba(50,30,10,.45),0 0 3rem 1rem rgba(15,8,3,.7)}
+.muted{color:var(--ink2)}
+
+/* Страница урока - лист пергамента на каменной стене; под текстом нет фактуры. */
+main:not(.wide){position:relative;margin:1.6rem auto 6rem;padding:var(--py) var(--px) 2.6rem;background:var(--sheet);border-radius:.3rem;
+box-shadow:inset 0 0 0 1px rgba(150,115,60,.4),inset 0 0 2.4rem rgba(150,115,60,.2),0 1.4rem 2.4rem -1rem rgba(40,25,10,.65)}
+main:not(.wide)::before{content:"";display:block;height:.55rem;margin:calc(var(--py) * -1) calc(var(--px) * -1) 1.6rem;border-radius:.3rem .3rem 0 0;background:var(--weave),var(--sb)}
+h1{font:700 clamp(1.8rem,3.4vw,2.4rem)/1.15 var(--display);letter-spacing:.015em;margin:.4rem 0 1.2rem}
+h2{font:700 1.6rem/1.25 var(--display);letter-spacing:.015em;margin:2.6rem 0 .8rem}
+h2::before{content:"";display:inline-block;width:.5em;height:.5em;margin:0 .55em .12em 0;background:var(--sb);border-radius:2px;transform:rotate(45deg)}
+h3{font:700 1.16rem/1.45 var(--serif);margin:1.6rem 0 .5rem}
+h4{font:italic 600 1.1rem/1.4 var(--serif);margin:1.2rem 0 .4rem}
+ul{padding-left:1.3rem}
+li{margin:.25rem 0}
+li::marker{color:var(--sb)}
+blockquote{margin:.9rem 0 1.3rem;padding:.9rem 1.2rem 1rem;background:#FFFBEC;border:1px solid #E2D2A8;border-left:.32rem solid var(--sb);border-radius:.2rem;box-shadow:0 .2rem 0 #E6D8B4,0 .7rem 1rem -.7rem rgba(60,40,15,.5);font-size:1.08rem}
 blockquote p{margin:0}
-blockquote cite{display:block;margin-top:.3rem;font:normal .8em/1.4 system-ui,sans-serif;color:var(--muted)}
-.muted{color:var(--muted)}
-.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:.6rem;list-style:none;padding:0;margin:0 0 1rem}
-.tiles.wide{grid-template-columns:repeat(auto-fill,minmax(15rem,1fr))}
+blockquote cite{display:block;margin-top:.4rem;font:700 .92rem/1.4 var(--sans);font-style:normal;color:var(--cdd)}
+
+/* Главная: зал. Утренний свет из окна, лампады, ниши со свитками. */
+.hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.lead{max-width:34rem;margin:0;font:400 1.25rem/1.5 var(--serif);color:var(--ink)}
+.scene{position:relative;width:17rem;height:19rem;justify-self:end}
+.window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
+background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
+box-shadow:0 0 0 .55rem var(--frame),0 0 0 .7rem #B9A57D,inset 0 1.2rem 1.6rem -.4rem rgba(40,25,10,.55),inset 1rem 0 1.2rem -.8rem rgba(40,25,10,.4)}
+.window::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent calc(50% - .2rem),#4A2D18 calc(50% - .2rem) calc(50% + .2rem),transparent calc(50% + .2rem)),linear-gradient(180deg,transparent 50%,#4A2D18 50% calc(50% + .4rem),transparent calc(50% + .4rem))}
+.sill{position:absolute;left:0;right:0;bottom:0;height:1.2rem;border-radius:.25rem .25rem .5rem .5rem;background:linear-gradient(180deg,#F6EDD3,#D6C5A0 55%,#B9A57D);box-shadow:0 .7rem .9rem -.4rem rgba(40,25,10,.55)}
+.sill>*{position:absolute;bottom:100%;margin-bottom:-.2rem}
+.sill img{display:block;width:100%;height:auto;filter:drop-shadow(.3rem .35rem .25rem rgba(40,25,10,.45))}
+.jar{left:1.2rem;width:3.1rem}
+.lamp{left:4.9rem;width:6.2rem}
+.ink{left:11.7rem;width:3.4rem}
+.glow{position:absolute;left:88%;top:66%;width:15rem;height:15rem;transform:translate(-50%,-50%);border-radius:50%;pointer-events:none;
+background:radial-gradient(circle,rgba(255,196,96,.62),rgba(255,160,60,.2) 38%,rgba(255,150,50,0) 68%);animation:glow 3.4s ease-in-out infinite}
+.flame{position:absolute;left:88.5%;top:67%;width:.75rem;height:1.35rem;transform:translate(-50%,-92%);transform-origin:50% 100%;border-radius:50% 50% 50% 50%/70% 70% 30% 30%;
+background:radial-gradient(ellipse at 50% 72%,#FFF8D0 0 18%,#FFD060 42%,#FF9A2A 72%,rgba(255,110,20,0) 100%);filter:blur(.4px);animation:flicker 2.7s ease-in-out infinite}
+.reed{position:absolute;left:46%;top:24%;width:.28rem;height:6.4rem;transform:translate(-50%,-100%) rotate(17deg);transform-origin:50% 100%;
+background:linear-gradient(90deg,#6E4F1E,#D9B866 45%,#8A6428);clip-path:polygon(0 0,100% 0,100% 94%,50% 100%,0 94%)}
+.rays{position:absolute;right:7rem;top:3rem;width:1px;height:1px;pointer-events:none;z-index:2}
+.rays i{position:absolute;top:0;right:0;width:8rem;height:48rem;transform-origin:100% 0;transform:rotate(var(--a));filter:blur(8px);mix-blend-mode:soft-light;
+background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
+.rays i:nth-child(1){--a:-40deg}
+.rays i:nth-child(2){--a:-54deg;width:5rem}
+.rays i:nth-child(3){--a:-68deg;width:10rem}
+@keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
+@keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
+.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
+.wall-lamp .lamp{position:relative;left:auto;width:100%}
+.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
+.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
+.jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
+.jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
+background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.jump a{display:inline-flex;align-items:center;min-height:44px;padding:0 1.2rem;text-decoration:none}
+.jump a:hover{background-color:#F6E9C2}
+.search{display:block;width:100%;max-width:34rem;margin:.4rem 0 1.2rem;padding:.75rem 1.1rem;font-weight:400}
+.search::placeholder{color:var(--ink2);opacity:1}
+.search:focus{border-color:var(--ink)}
+.testament{position:relative;display:flex;flex-direction:column;gap:2.4rem;margin:3rem 0 0}
+.testament>h2{display:flex;align-items:center;gap:1rem;margin:0;font:700 clamp(2rem,3.6vw,2.7rem)/1.1 var(--display);letter-spacing:.02em}
+.testament>h2::before{display:none}
+.testament>h2::after{content:"";flex:1;height:.4rem;border-top:2px solid var(--wood);border-bottom:1px solid var(--wood);opacity:.6}
+main section[hidden],.scrolls li[hidden],.tiles li[hidden]{display:none}
+
+/* Ниша раздела: драпировка цвета раздела, внутри на досках лежат свитки. */
+.group{position:relative;overflow:hidden;min-width:0;border:.55rem solid var(--frame);border-radius:1.6rem 1.6rem .3rem .3rem;
+background:linear-gradient(180deg,rgba(40,24,10,0),rgba(40,24,10,.14)),var(--noise),color-mix(in srgb,var(--c) 7%,#CDBB93);
+box-shadow:0 0 0 1px #B9A57D,inset 0 1.1rem 1.6rem -.5rem rgba(35,20,8,.55),inset 1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),inset -1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),0 .7rem 1.1rem -.5rem rgba(50,30,10,.5)}
+.group>h3{position:relative;z-index:3;display:flex;align-items:center;gap:.7rem;margin:0;padding:.65rem 1.3rem .6rem;background:var(--weave),var(--sb);color:var(--sf);font:700 1.45rem/1.15 var(--display);letter-spacing:.02em;filter:drop-shadow(0 .35rem .3rem rgba(25,12,0,.45))}
+.group>h3::after,.book-head::after{content:"";position:absolute;left:0;right:0;top:100%;height:.62rem;background:radial-gradient(circle at 50% 0,var(--sb) 0 .5rem,transparent .52rem) 0 0/1.1rem .62rem repeat-x}
+.emblem{width:1.9rem;height:1.9rem;flex:none;color:var(--sf)}
+
+/* Свиток: пергамент на двух деревянных валиках, на шипах - ленточка цвета раздела, справа - печать с числом уроков. */
+.scrolls{--h:3.4rem;--board:.62rem;display:flex;flex-wrap:wrap;align-items:flex-start;column-gap:1.3rem;row-gap:var(--board);list-style:none;margin:0;padding:1.5rem 1.2rem var(--board);
+background:repeating-linear-gradient(180deg,transparent 0 var(--h),#2C1A0C var(--h) calc(var(--h) + 1px),#8A5A32 calc(var(--h) + 1px) calc(var(--h) + 3px),#6B4426 calc(var(--h) + 3px) calc(var(--h) + var(--board))) 0 0/100% calc(100% + var(--board)) no-repeat;
+background-origin:content-box;background-clip:padding-box}
+.scrolls li{position:relative;height:var(--h);margin:0;padding:0 .95rem;max-width:100%;transition:transform .18s ease;animation:rise .45s ease backwards;animation-delay:calc(var(--i) * 12ms);filter:drop-shadow(0 .18rem .12rem rgba(20,10,0,.4))}
+.scrolls li::before,.scrolls li::after{content:"";position:absolute;top:0;bottom:0;width:.95rem;
+background:radial-gradient(circle at 50% .45rem,#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) top/100% .95rem no-repeat,
+radial-gradient(circle at 50% calc(100% - .45rem),#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) bottom/100% .95rem no-repeat,
+linear-gradient(var(--sb),var(--sb)) 50% 1rem/.56rem .3rem no-repeat,
+linear-gradient(90deg,#3F2614,#B07C48 35%,#7A4E2B 65%,#3F2614) center/.42rem 100% no-repeat}
+.scrolls li::before{left:0}
+.scrolls li::after{right:0}
+.scrolls a,.scrolls li.empty>span{display:flex;align-items:center;gap:.7rem;height:calc(var(--h) - 1rem);margin:.5rem 0;padding:0 .8rem 0 1.25rem;white-space:nowrap;font:700 1.14rem/1 var(--display);letter-spacing:.015em}
+.scrolls a{position:relative;z-index:1;color:var(--ink);text-decoration:none;animation:unroll .4s cubic-bezier(.3,.7,.3,1) backwards;animation-delay:calc(var(--i) * 12ms + 80ms);
+background:linear-gradient(180deg,rgba(104,66,22,.36),rgba(104,66,22,0) 20%,rgba(104,66,22,0) 78%,rgba(104,66,22,.44)),linear-gradient(rgba(255,248,226,.5),rgba(255,248,226,.5)),url(img/parchment.webp) #EBD8A8;
+box-shadow:inset 0 0 .7rem rgba(120,80,25,.4)}
+.scrolls a::before,.scrolls a::after{content:"";position:absolute;top:0;bottom:0;width:1.15rem;border-radius:.5rem;
+background:repeating-linear-gradient(90deg,rgba(90,60,20,.2) 0 1px,transparent 1px 3px),linear-gradient(90deg,#8E6D3A 0,#E8D3A0 30%,#F5E8C4 50%,#D8BF86 76%,#7F5F2E 100%);box-shadow:0 0 .35rem rgba(60,35,10,.5)}
+.scrolls a::before{left:-.62rem}
+.scrolls a::after{right:-.62rem}
+.scrolls li:hover,.scrolls li:has(a:focus-visible){transform:translateY(-.22rem)}
+.scrolls a:focus-visible{outline-offset:.6rem}
+.scrolls .count{position:relative;z-index:2;display:grid;place-items:center;min-width:1.85rem;height:1.85rem;padding:0 .3rem;border-radius:52% 48% 55% 45%/48% 55% 45% 52%;
+background:radial-gradient(circle at 35% 30%,var(--sb),color-mix(in srgb,var(--sb) 72%,#000));color:var(--sf);font:700 .9rem/1 var(--sans);letter-spacing:0;box-shadow:inset 0 1px 1px rgba(255,255,255,.4),0 .1rem .2rem rgba(0,0,0,.4)}
+.scrolls li.empty{padding:0 .3rem}
+.scrolls li.empty::before,.scrolls li.empty::after{display:none}
+.scrolls li.empty>span{border:1.5px dashed rgba(63,38,20,.65);border-radius:.4rem;color:var(--ink2);background:rgba(255,248,230,.22)}
+@keyframes unroll{from{clip-path:inset(0 50%)}to{clip-path:inset(0 0)}}
+@keyframes rise{from{opacity:0;transform:translateY(.6rem)}to{opacity:1;transform:none}}
+
+/* Страница книги: драпировка с названием и бирки уроков. */
+.book-head{position:relative;display:flex;align-items:center;gap:1.3rem;margin:0 0 2.2rem;padding:1.4rem 1.7rem;border-radius:.4rem .4rem 0 0;background:var(--weave),var(--sb);color:var(--sf);filter:drop-shadow(0 .45rem .35rem rgba(25,12,0,.4))}
+.book-head .emblem{width:4.2rem;height:4.2rem}
+.book-head h1{margin:0;color:var(--sf);font:700 clamp(2rem,4.4vw,3.1rem)/1.05 var(--display)}
+.meta{margin:.35rem 0 0;font:700 1.05rem/1.4 var(--sans);color:var(--sf)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));gap:.9rem;list-style:none;padding:0;margin:0 0 1rem}
 .tiles li{margin:0}
-.tiles a,.tiles li.empty{display:flex;align-items:center;justify-content:space-between;gap:.6rem;height:100%;min-height:4.5rem;
-padding:.8rem 1rem;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg);
-font:600 16px/1.35 system-ui,sans-serif}
-.tiles a{text-decoration:none;box-shadow:0 1px 2px rgba(0,0,0,.04);transition:border-color .15s,box-shadow .15s,transform .05s}
-.tiles a:hover{border-color:var(--accent);box-shadow:0 4px 14px rgba(0,0,0,.08)}
-.tiles a:active{transform:translateY(1px)}
-.tiles a>span:first-child,.tiles li.empty>span{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
-.tiles .count{color:var(--accent);font-size:.9em}
-.tiles li.empty{color:var(--muted);opacity:.55}
-.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;padding:.55rem 1.1rem;
-border:1px solid var(--accent);border-radius:10px;background:var(--card);color:var(--accent);font:600 15px/1.3 system-ui,sans-serif;
-text-decoration:none;cursor:pointer;box-shadow:0 1px 0 rgba(0,0,0,.06);transition:background .15s,color .15s,transform .05s}
-.btn:hover,details.download summary:hover{background:var(--accent);color:#fff}
-.btn:active,details.download summary:active{transform:translateY(1px)}
-.btn.primary{background:var(--accent);color:#fff}
-.btn.primary:hover{background:#6f3a20}
-.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3rem}
-.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;text-align:left}
+.tiles a{display:flex;align-items:center;height:100%;min-height:4.6rem;padding:.85rem 1rem .85rem 1.2rem;border-left:.5rem solid var(--sb);border-radius:.35rem;color:var(--ink);font:700 1.1rem/1.3 var(--serif);text-decoration:none;
+background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),url(img/parchment.webp) var(--parch);box-shadow:inset 0 0 .7rem rgba(120,85,35,.28),0 .15rem 0 #B9A276,0 .6rem .9rem -.5rem rgba(60,40,15,.55);transition:transform .15s}
+.tiles a:hover{transform:translateY(-.15rem)}
+.tiles .chapters{display:block;margin-top:.3rem;color:var(--cdd);font:700 .95rem/1.3 var(--sans)}
+
+/* Урок: содержание, кнопки. */
+.toc{margin:0 0 1.4rem;padding:.2rem 1.1rem;border:1px solid #D9C89E;border-radius:.3rem;background:#FFFBEC;font:400 1.02rem/1.5 var(--sans)}
+.toc summary{display:flex;align-items:center;min-height:44px;cursor:pointer;font-weight:700}
+.toc ol{margin:.3rem 0 .7rem;padding-left:1.4rem}
+.toc li::marker{color:var(--cdd);font-weight:700}
+.toc a{color:var(--ink);text-decoration:none}
+.toc a:hover{color:var(--cdd);text-decoration:underline}
+.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
+background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.btn:hover,details.download summary:hover{background-color:#F6E9C2}
+.btn.primary{background:var(--weave),var(--sb);border-color:color-mix(in srgb,var(--sb) 60%,#000);color:var(--sf)}
+.btn.primary:hover{background:var(--weave),color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3.5rem}
+.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;padding:.8rem 1rem;text-align:left}
 .pager .pager-next{align-items:flex-end;text-align:right}
 .pager .pager-section{align-items:center;justify-content:center;text-align:center}
-.pager .dir{font-size:.8em;font-weight:500;opacity:.85}
-.pager .name{font-weight:600}
-.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;
-pointer-events:none;z-index:5}
-.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;
-border-radius:50%;background:var(--accent);color:#fff;font:700 1.4rem/1 system-ui,sans-serif;text-decoration:none;
-cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.25);opacity:.92}
-.fab:hover{opacity:1;background:#6f3a20}
-.fab.next{margin-left:auto}
-.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);
-transition:opacity .2s,transform .2s,visibility .2s}
-.fab.top.visible{opacity:.92;visibility:visible;transform:none}
-@media(max-width:640px){.pager{grid-template-columns:1fr}.pager>span{display:none}
-.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}}
+.pager .dir{font-size:.9rem;font-weight:700}
+.pager .name{font:700 1.05rem/1.3 var(--serif);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
 details.download{position:relative}
-details.download summary{list-style:none;padding:.4rem 1rem}
+details.download summary{list-style:none}
 details.download summary::-webkit-details-marker{display:none}
-details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;
-padding:.3rem;background:var(--card);border:1px solid var(--line);border-radius:8px;box-shadow:0 6px 20px rgba(0,0,0,.08)}
-details.download .menu a{padding:.45rem .7rem;border-radius:6px;text-decoration:none;color:var(--fg)}
-details.download .menu a:hover{background:var(--quote)}
-@media print{header.top,.pager,.float{display:none}}
+details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;padding:.3rem;background:var(--sheet);border:1px solid #BFA97E;border-radius:.3rem;box-shadow:0 12px 28px -12px rgba(40,25,10,.55)}
+details.download .menu a{display:flex;align-items:center;min-height:44px;padding:.45rem .8rem;border-radius:.2rem;color:var(--ink);text-decoration:none}
+details.download .menu a:hover{background:#F0E3BE}
+
+/* Плавающие кнопки. */
+.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;pointer-events:none;z-index:25}
+.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;border-radius:50%;background:var(--sb);color:var(--sf);font:700 1.3rem/1 var(--sans);text-decoration:none;cursor:pointer;box-shadow:inset 0 1px 1px rgba(255,255,255,.35),0 8px 20px -6px rgba(40,25,10,.6)}
+.fab:hover{background:color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.fab.next{margin-left:auto}
+.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .2s,transform .2s,visibility .2s;pointer-events:auto;z-index:25}
+.fab.top.visible{opacity:1;visibility:visible;transform:none}
+.credits{max-width:68rem;margin:0 auto;padding:1.2rem 2.4rem 1.5rem;font:400 .95rem/1.5 var(--sans);color:var(--ink);background:var(--stone);border-inline:1.1rem solid #A98B5E}
+@media(max-width:1180px){.credits{padding-inline:1.25rem;border-inline-width:.5rem}}
+
+/* Скачанный документ без декора. */
+body.plain{background:#fff}
+body.plain::before{display:none}
+body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
+body.plain main::before{display:none}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+@media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
+@media(max-width:640px){
+body{font-size:1.12rem}
+:root{--px:1.1rem;--py:1.4rem}
+main:not(.wide){margin:0 auto 5rem;border-radius:0}
+.pager{grid-template-columns:1fr}.pager>span{display:none}
+.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}
+.fab{width:2.75rem;height:2.75rem}.fab.prev,.fab.next{display:none}.fab.top{bottom:1rem;right:.5rem}
+.testament{gap:2rem}
+.group{border-width:.4rem;border-radius:1.2rem 1.2rem .25rem .25rem}
+.group>h3{padding:.55rem 1rem .5rem;font-size:1.3rem}
+.scrolls{--h:3.9rem;column-gap:.8rem;padding:1.4rem .55rem var(--board)}
+.scrolls li{padding:0 .8rem}
+.scrolls li::before,.scrolls li::after{width:.8rem}
+.scrolls a,.scrolls li.empty>span{gap:.5rem;padding:0 .55rem 0 1rem;font-size:1rem}
+.scrolls a::before,.scrolls a::after{width:1rem}
+.scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
+.scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
+.book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
+@media(max-height:500px){header.top{position:static}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+@media print{body{background:#fff}body::before{display:none}header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
-<body>
+<body class="plain">
 <main>
-<h1>4. Пророк Аввакум</h1>
-<h2>1) Малые пророки Иудейского (Южного) царства: Иоиль, Авдий, Михей, Аввакум, Софония, Аггей, Захария, Малахия. (Амос – жил в Иуд. ц., пророчествовал для Израильского ц.)</h2>
-<h2>2) Предназначение народа Божьего – познание и передача Слово Божье, Завета, Христос, Ханаан, Всемирная Евангелизация, ученики, приход Христа. Рим. 3:2 Быт. 1:27,2:7,17 (Быт. 3:1-7, - Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h2>
+<h1>Неем. 7–13</h1>
+<h2 id="s1">2.1) Предназначение народа Божьего – сохранение и передача Слово Божье, Завета, Христос, Ханаан - Всемирная Евангелизация (Церковь) Рим. 3:2 Быт. 1:27,2:7,17 (Быт. 3:1-7, - Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h2>
 <blockquote><p>Великое преимущество во всех отношениях, а наипаче <em>в</em> <em>том,</em> что им вверено слово Божие.</p><cite>Рим. 3:2</cite></blockquote>
 <blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
 <blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
@@ -87,81 +253,63 @@ details.download .menu a:hover{background:var(--quote)}
 <blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
 <blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
 <blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<h2>3) Служение пророков – утверждение Слово Божье, Завета, Христос, важность понимания и исполнение предназначения народа Божьего. (Познание, передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация, приход Христос)</h2>
-<h3>(1) Пророки В.З. – понимание и принятие Слово Божье, Завета, Христос, спасение и рождение свыше, действие Святой Дух 1-е Пет. 1:10-11,Дн. 10:43, - 2-е Пет. 1:19-21,Ин. 16:8-11</h3>
-<blockquote><p>К сему-то спасению относились изыскания и исследования пророков, которые предсказывали о назначенной вам благодати, исследывая, на которое и на какое время указывал сущий в них Дух Христов, когда Он предвозвещал Христовы страдания и последующую за ними славу.</p><cite>1-е Пет. 1:10-11</cite></blockquote>
-<blockquote><p>О Нем все пророки свидетельствуют, что всякий верующий в Него получит прощение грехов именем Его.</p><cite>Дн. 10:43</cite></blockquote>
-<blockquote><p>И притом мы имеем вернейшее пророческое слово; и вы хорошо делаете, что обращаетесь к нему, как к светильнику, сияющему в темном месте, доколе не начнет рассветать день и не взойдет утренняя звезда в сердцах ваших, зная прежде всего то, что никакого пророчества в Писании нельзя разрешить самому собою. Ибо никогда пророчество не было произносимо по воле человеческой, но изрекали его святые Божии человеки, будучи движимы Духом Святым.</p><cite>2-е Пет. 1:19-21</cite></blockquote>
-<blockquote><p>и Он, придя, обличит мир о грехе и о правде и о суде: о грехе, что не веруют в Меня; о правде, что Я иду к Отцу Моему, и уже не увидите Меня; о суде же, что князь мира сего осужден.</p><cite>Ин. 16:8-11</cite></blockquote>
-<h4>(а) Отказ от Слово Божье, Завета, Христос – проблема человека, народа. (Следствие – идолопоклонство, маммона, аморальность)</h4>
-<h4>(б) Важность познания и передачи Слово Божье, Завета, Христос, Всемирная Евангелизация (Эммануил, предназначение человека, подготовка прихода Христос)</h4>
-<h4>(в) Суды Божьи – неизбежное исполнение приговора Слово Божье, понимание права выбора человека. Рим. 6:23,Втор. 30:19</h4>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>Во свидетели пред вами призываю сегодня небо и землю: жизнь и смерть предложил я тебе, благословение и проклятие. Избери жизнь, дабы жил ты и потомство твое,</p><cite>Втор. 30:19</cite></blockquote>
-<h3>(2) Современный народ Божий, продолжение пророческого служения – утверждение Слово Божье, Завета, Христос, важность понимания и исполнения предназначения народа Божьего. Ин. 16:8-11. (Познание, передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация, приход Христос)</h3>
-<blockquote><p>и Он, придя, обличит мир о грехе и о правде и о суде: о грехе, что не веруют в Меня; о правде, что Я иду к Отцу Моему, и уже не увидите Меня; о суде же, что князь мира сего осужден.</p><cite>Ин. 16:8-11</cite></blockquote>
-<h2>4) Авк.1 (около 626 г. до Р.Х.), - Божий суверенитет и контроль</h2>
-<h3>(1) Авк. 1:1-4, - непринятие Слово Божье, Завета, Христос, амморальность, тяжелая жизнь народа, проблема общества. (Насилие, грабительство, искажение правосудия, неправда)</h3>
-<blockquote><p>Пророческое видение, которое видел пророк Аввакум. Доколе, Господи, я буду взывать, и Ты не слышишь, буду вопиять к Тебе о насилии, и Ты не спасаешь? Для чего даешь мне видеть злодейство и смотреть на бедствия? Грабительство и насилие предо мною, и восстает вражда и поднимается раздор. От этого закон потерял силу, и суда правильного нет: так как нечестивый одолевает праведного, то и суд происходит превратный.</p><cite>Авк. 1:1-4</cite></blockquote>
-<h3>(2) Авк. 1:5-12, - Божий суверенитет и контроль (все народы), Халдеи, Вавилонское царство, приготовление суда Божьего</h3>
-<blockquote><p>Посмотрите между народами и внимательно вглядитесь, и вы сильно изумитесь; ибо Я сделаю во дни ваши такое дело, которому вы не поверили бы, если бы вам рассказывали. Ибо вот, Я подниму Халдеев, народ жестокий и необузданный, который ходит по широтам земли, чтобы завладеть не принадлежащими ему селениями. Страшен и грозен он; от него самого происходит суд его и власть его. Быстрее барсов кони его и прытче вечерних волков; скачет в разные стороны конница его; издалека приходят всадники его, прилетают как орел, бросающийся на добычу. Весь он идет для грабежа; устремив лице свое вперед, он забирает пленников, как песок. И над царями он издевается, и князья служат ему посмешищем; над всякою крепостью он смеется: насыплет осадный вал и берет ее. Тогда надмевается дух его, и он ходит и буйствует; сила его - бог его. Но не Ты ли издревле Господь Бог мой, Святый мой? мы не умрем! Ты, Господи, только для суда попустил его. Скала моя! для наказания Ты назначил его.</p><cite>Авк. 1:5-12</cite></blockquote>
-<h4>(а) Навуходоносор (Халдеи) – раб Бога. Иер. 25:8-14,27:5-8</h4>
-<blockquote><p>Посему так говорит Господь Саваоф: за то, что вы не слушали слов Моих, вот, Я пошлю и возьму все племена северные, говорит Господь, и пошлю к Навуходоносору, царю Вавилонскому, рабу Моему, и приведу их на землю сию и на жителей ее и на все окрестные народы; и совершенно истреблю их и сделаю их ужасом и посмеянием и вечным запустением. И прекращу у них голос радости и голос веселия, голос жениха и голос невесты, звук жерновов и свет светильника. И вся земля эта будет пустынею и ужасом; и народы сии будут служить царю Вавилонскому семьдесят лет. И будет: когда исполнится семьдесят лет, накажу царя Вавилонского и тот народ, говорит Господь, за их нечестие, и землю Халдейскую, и сделаю ее вечною пустынею. И совершу над тою землею все слова Мои, которые Я произнес на нее, все написанное в сей книге, что Иеремия пророчески изрек на все народы. Ибо и их поработят многочисленные народы и цари великие; и Я воздам им по их поступкам и по делам рук их.</p><cite>Иер. 25:8-14</cite></blockquote>
-<blockquote><p>Я сотворил землю, человека и животных, которые на лице земли, великим могуществом Моим и простертою мышцею Моею, и отдал ее, кому Мне благоугодно было. И ныне Я отдаю все земли сии в руку Навуходоносора, царя Вавилонского, раба Моего, и даже зверей полевых отдаю ему на служение. И все народы будут служить ему и сыну его и сыну сына его, доколе не придет время и его земле и ему самому; и будут служить ему народы многие и цари великие. И если какой народ и царство не захочет служить ему, Навуходоносору, царю Вавилонскому, и не подклонит выи своей под ярмо царя Вавилонского, - этот народ Я накажу мечом, голодом и моровою язвою, говорит Господь, доколе не истреблю их рукою его.</p><cite>Иер. 27:5-8</cite></blockquote>
-<h4>(б) Кир (Мидо-Персы) – помазанник Бога. Ис. 45:1,Езд. 1:1-4</h4>
-<blockquote><p>Так говорит Господь помазаннику Своему Киру: Я держу тебя за правую руку, чтобы покорить тебе народы, и сниму поясы с чресл царей, чтоб отворялись для тебя двери, и ворота не затворялись;</p><cite>Ис. 45:1</cite></blockquote>
-<blockquote><p>В первый год Кира, царя Персидского, во исполнение слова Господня из уст Иеремии, возбудил Господь дух Кира, царя Персидского, и он повелел объявить по всему царству своему, словесно и письменно: так говорит Кир, царь Персидский: все царства земли дал мне Господь Бог небесный, и Он повелел мне построить Ему дом в Иерусалиме, что в Иудее. Кто есть из вас, из всего народа Его, -- да будет Бог его с ним, -- и пусть он идет в Иерусалим, что в Иудее, и строит дом Господа Бога Израилева, Того Бога, Который в Иерусалиме. А все оставшиеся во всех местах, где бы тот ни жил, пусть помогут ему жители места того серебром и золотом и <em>иным</em> имуществом, и скотом, с доброхотным даянием для дома Божия, что в Иерусалиме.</p><cite>Езд. 1:1-4</cite></blockquote>
-<h3>(3) Авк. 1:13-17, - Божий суверенитет и контроль, понимание допустимой воли Божьей, право выбора человека. (Непринятие Слово Божье, Завета, Христос, отказ от предназначения – обстоятельства и последствия для всякого человек или народа)</h3>
-<blockquote><p>Чистым очам Твоим не свойственно глядеть на злодеяния, и смотреть на притеснение Ты не можешь; для чего же Ты смотришь на злодеев и безмолвствуешь, когда нечестивец поглощает того, кто праведнее его, и оставляешь людей как рыбу в море, как пресмыкающихся, у которых нет властителя? Всех их таскает удою, захватывает в сеть свою и забирает их в неводы свои, и оттого радуется и торжествует. За то приносит жертвы сети своей и кадит неводу своему, потому что от них тучна часть его и роскошна пища его. Неужели для этого он должен опорожнять свою сеть и непрестанно избивать народы без пощады?</p><cite>Авк. 1:13-17</cite></blockquote>
-<h2>5) Авк.2, - важность понимания Слово Божье, Завета, Христос</h2>
-<h3>(1) Авк. 2:1, - важность Эммануила для человека (Он во мне), важность понимания спасения и рождения свыше в В.З 1-е Пет. 1:10-11,Дн. 10:43, - Быт. 41:38,Чис. 27:18,2-е Цар. 23:2, Ис. 63:11 (1-е Кор. 3:16,2-е Кор. 13:5,Еф. 3:17,Кол. 1:27)</h3>
-<blockquote><p>На стражу мою стал я и, стоя на башне, наблюдал, чтобы узнать, что скажет Он во мне, и что мне отвечать по жалобе моей?</p><cite>Авк. 2:1</cite></blockquote>
-<blockquote><p>К сему-то спасению относились изыскания и исследования пророков, которые предсказывали о назначенной вам благодати, исследывая, на которое и на какое время указывал сущий в них Дух Христов, когда Он предвозвещал Христовы страдания и последующую за ними славу.</p><cite>1-е Пет. 1:10-11</cite></blockquote>
-<blockquote><p>О Нем все пророки свидетельствуют, что всякий верующий в Него получит прощение грехов именем Его.</p><cite>Дн. 10:43</cite></blockquote>
-<blockquote><p>И сказал фараон слугам своим: найдем ли мы такого, как он, человека, в котором был бы Дух Божий?</p><cite>Быт. 41:38</cite></blockquote>
-<blockquote><p>И сказал Господь Моисею: возьми себе Иисуса, сына Навина, человека, в котором есть Дух, и возложи на него руку твою,</p><cite>Чис. 27:18</cite></blockquote>
-<blockquote><p>Дух Господень говорит во мне, и слово Его на языке у меня.</p><cite>2-е Цар. 23:2</cite></blockquote>
-<blockquote><p>Тогда народ Его вспомнил древние дни, Моисеевы: где Тот, Который вывел их из моря с пастырем овец Своих? где Тот, Который вложил в сердце его Святаго Духа Своего,</p><cite>Ис. 63:11</cite></blockquote>
-<blockquote><p>Разве не знаете, что вы храм Божий, и Дух Божий живет в вас?</p><cite>1-е Кор. 3:16</cite></blockquote>
-<blockquote><p>Испытывайте самих себя, в вере ли вы; самих себя исследывайте. Или вы не знаете самих себя, что Иисус Христос в вас? Разве только вы не то, чем должны быть.</p><cite>2-е Кор. 13:5</cite></blockquote>
-<blockquote><p>верою вселиться Христу в сердца ваши,</p><cite>Еф. 3:17</cite></blockquote>
-<blockquote><p>Которым благоволил Бог показать, какое богатство славы в тайне сей для язычников, которая есть Христос в вас, упование славы,</p><cite>Кол. 1:27</cite></blockquote>
-<h3>(2) Авк. 2:1-3, - Бог всегда отвечает на молитву детей Божьих</h3>
-<blockquote><p>На стражу мою стал я и, стоя на башне, наблюдал, чтобы узнать, что скажет Он во мне, и что мне отвечать по жалобе моей? И отвечал мне Господь и сказал: запиши видение и начертай ясно на скрижалях, чтобы читающий легко мог прочитать, ибо видение относится еще к определенному времени и говорит о конце и не обманет; и хотя бы и замедлило, жди его, ибо непременно сбудется, не отменится.</p><cite>Авк. 2:1-3</cite></blockquote>
-<h4>(а) Да, нет, подожди или подробное обьяснение ситуации</h4>
-<h4>(б) Важность слушания Бога, важность непрестанной молитвы</h4>
-<h3>(3) Авк. 2:4, - важность принятия Слово Божье, Завета, Христос, вера Божья, спасение, мир и покой Божий, все ответы для человека. Рим. 1:17</h3>
-<blockquote><p>Вот, душа надменная не успокоится, а праведный своею верою жив будет.</p><cite>Авк. 2:4</cite></blockquote>
-<blockquote><p>В нем открывается правда Божия от веры в веру, как написано: праведный верою жив будет.</p><cite>Рим. 1:17</cite></blockquote>
-<h3>(4) Авк. 2:5-13, - непринятие Слово Божье, Завета, Христос, видимое как цель и смысл, бесполезная и бессмысленная жизнь. Екл.2,Мф. 16:28</h3>
-<blockquote><p>Надменный человек, как бродящее вино, не успокаивается, так что расширяет душу свою как ад, и как смерть он ненасытен, и собирает к себе все народы, и захватывает себе все племена. Но не все ли они будут произносить о нем притчу и насмешливую песнь: "горе тому, кто без меры обогащает себя не своим, - на долго ли? - и обременяет себя залогами!" Не восстанут ли внезапно те, которые будут терзать тебя, и не поднимутся ли против тебя грабители, и ты достанешься им на расхищение? Так как ты ограбил многие народы, то и тебя ограбят все остальные народы за пролитие крови человеческой, за разорение страны, города и всех живущих в нем. Горе тому, кто жаждет неправедных приобретений для дома своего, чтобы устроить гнездо свое на высоте и тем обезопасить себя от руки несчастья! Бесславие измыслил ты для твоего дома, истребляя многие народы, и согрешил против души твоей. Камни из стен возопиют и перекладины из дерева будут отвечать им: "горе строящему город на крови и созидающему крепости неправдою!" Вот, не от Господа ли Саваофа это, что народы трудятся для огня и племена мучат себя напрасно?</p><cite>Авк. 2:5-13</cite></blockquote>
-<blockquote><p>Истинно говорю вам: есть некоторые из стоящих здесь, которые не вкусят смерти, как уже увидят Сына Человеческого, грядущего в Царствии Своем.</p><cite>Мф. 16:28</cite></blockquote>
-<h3>(5) Авк. 2:14, - Божий суверенитет и контроль, исполнение воли Божьей, важность уверенности в Божьем водительстве и победе</h3>
-<blockquote><p>Ибо земля наполнится познанием славы Господа, как воды наполняют море.</p><cite>Авк. 2:14</cite></blockquote>
-<h3>(6) Авк. 2:15-17, - Божий суд над Халдеями (будущее), непринятие Слово Божье, Завета, Христос (завоевание Вавилона Мидо-Персами)</h3>
-<blockquote><p>Горе тебе, который подаешь ближнему твоему питье с примесью злобы твоей и делаешь его пьяным, чтобы видеть срамоту его! Ты пресытился стыдом вместо славы; пей же и ты и показывай срамоту, - обратится и к тебе чаша десницы Господней и посрамление на славу твою. Ибо злодейство твое на Ливане обрушится на тебя за истребление устрашенных животных, за пролитие крови человеческой, за опустошение страны, города и всех живущих в нем.</p><cite>Авк. 2:15-17</cite></blockquote>
-<h3>(7) Авк. 2:18-20, - мезость идолопоклонства, вера Халдеев, неизбежный суд Божий, исполнение Слово Божье Рим. 6:23</h3>
-<blockquote><p>Что за польза от истукана, сделанного художником, этого литаго лжеучителя, хотя ваятель, делая немые кумиры, полагается на свое произведение? Горе тому, кто говорит дереву: "встань!" и бессловесному камню: "пробудись!" Научит ли он чему-нибудь? Вот, он обложен золотом и серебром, но дыхания в нем нет. А Господь - во святом храме Своем: да молчит вся земля пред лицем Его!</p><cite>Авк. 2:18-20</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<h3>(8) Служение пророка Даниила, возвещение Слово Божье, Завета, Христос, возможность покаяния – Божья любовь и милость. Рим. 2:11</h3>
-<blockquote><p>Ибо нет лицеприятия у Бога.</p><cite>Рим. 2:11</cite></blockquote>
-<h2>6) Авк.3, - важность понимания Бог суверенитета и контроля</h2>
-<h3>(1) Авк. 3:1-11, - важность возвеличивания и прославления Бога, важность познания и передачи Слово Божье, Завета, Христос, Всемирная Евангелизация</h3>
-<blockquote><p>Молитва Аввакума пророка, для пения. Господи! услышал я слух Твой и убоялся. Господи! соверши дело Твое среди лет, среди лет яви его; во гневе вспомни о милости. Бог от Фемана грядет и Святый - от горы Фаран. Покрыло небеса величие Его, и славою Его наполнилась земля. Блеск ее - как солнечный свет; от руки Его лучи, и здесь тайник Его силы! Пред лицем Его идет язва, а по стопам Его - жгучий ветер. Он стал и поколебал землю; воззрел, и в трепет привел народы; вековые горы распались, первобытные холмы опали; пути Его вечные. Грустными видел я шатры Ефиопские; сотряслись палатки земли Мадиамской. Разве на реки воспылал, Господи, гнев Твой? разве на реки - негодование Твое, или на море - ярость Твоя, что Ты восшел на коней Твоих, на колесницы Твои спасительные? Ты обнажил лук Твой по клятвенному обетованию, данному коленам. Ты потоками рассек землю. Увидев Тебя, вострепетали горы, ринулись воды; бездна дала голос свой, высоко подняла руки свои; солнце и луна остановились на месте своем пред светом летающих стрел Твоих, пред сиянием сверкающих копьев Твоих.</p><cite>Авк. 3:1-11</cite></blockquote>
-<h3>(2) Авк. 3:12-15, - важность понимания Господства Божьего, жизнь и смерть всякого человека и народа</h3>
-<blockquote><p>Во гневе шествуешь Ты по земле и в негодовании попираешь народы. Ты выступаешь для спасения народа Твоего, для спасения помазанного Твоего. Ты сокрушаешь главу нечестивого дома, обнажая его от основания до верха. Ты пронзаешь копьями его главу вождей его, когда они как вихрь ринулись разбить меня, в радости, как бы думая поглотить бедного скрытно. Ты с конями Твоими проложил путь по морю, через пучину великих вод.</p><cite>Авк. 3:12-15</cite></blockquote>
-<h3>(3) Авк. 3:16, - важность доверия Богу, важность понимания Божьего суверенитета и контроля всех обстоятельств (Бог план)</h3>
-<blockquote><p>Я услышал, и вострепетала внутренность моя; при вести о сем задрожали губы мои, боль проникла в кости мои, и колеблется место подо мною; а я должен быть спокоен в день бедствия, когда придет на народ мой грабитель его.</p><cite>Авк. 3:16</cite></blockquote>
-<h3>(4) Авк. 3:17-18, - важность любви и верности Богу, важность правильных мотивов человека (проверка обстоятельствами)</h3>
-<blockquote><p>Хотя бы не расцвела смоковница и не было плода на виноградных лозах, и маслина изменила, и нива не дала пищи, хотя бы не стало овец в загоне и рогатого скота в стойлах, - но и тогда я буду радоваться о Господе и веселиться о Боге спасения моего.</p><cite>Авк. 3:17-18</cite></blockquote>
-<h3>(5) Авк. 3:19, - важность правильного упования для народа Божьего, важность уверенности в Божьем водительстве, победе</h3>
-<blockquote><p>Господь Бог - сила моя: Он сделает ноги мои как у оленя и на высоты мои возведет меня!</p><cite>Авк. 3:19</cite></blockquote>
-<h2>Заключение:</h2>
-<h3>(1) Важность принятия Слово Божье, Завета, Христос, предназначение – познание и передача Слово Божье, Завета, Христос, Всемирная Евангелизация, приход Христа</h3>
-<h3>(2) Важность понимания бессмысленности жизни без Бога</h3>
-<h3>(3) Важность понимания мерзости идолопоклонства – суд Бог</h3>
-<h3>(4) Важность правильных мотивов во взаимоотношениях с Богом, понимание неизбежной проверки через обстоятельства</h3>
-<h3>(5) Важность понимания Божьего суверенитета и контроля – уверенность в Божьем водительстве и победе, доверие Богу</h3>
+<h3>(1) Непринятие Слово Божье, Завет, Христос, потеря предназначения – рабство</h3>
+<h3>(2) Сохранение рода Завета, Христос – познание и передача Слово Божье (Даниил, Седрах, Месах, Авденаго, Ездра, Неемия. Мардохей и т.д.)</h3>
+<h2 id="s2">2) Этапы возвращения народа Божьего</h2>
+<h3>(1) 1-ый этап – Зоровавель, Храм (538 г. до Р.Х.)</h3>
+<h4>(а) Кир 2-ой Великий (539-536 г. до Р.Х.) – исполнение Слово Божье, Завета, Христос, возвращение Иудеев в Ханаан, приход Христа</h4>
+<h4>(б) Камбиз 2-ой или Артаксеркс (536-522 г. до Р.Х.) – действие сатана, остановка строительства Храма, противление исполнению Слово Божье</h4>
+<h4>(в) Дарий 1-ый (522-486 г. до Р.Х.) – достройка Храма (516 г.)</h4>
+<h4>(г) Ксеркс 1-ый или Артаксеркс (485-464 г. до Р.Х.), муж Есфири</h4>
+<h3>(2) 2-ой этап – Ездра, Писания В.З. (458 г. до Р.Х.) (Царь Артаксеркс 1,464-423 г. до Р.Х.)</h3>
+<h3>(3) 3-ий этап – Неемия, стены Иерусалима (444 г. до Р.Х.) (Царь Артаксеркс 1,464-423 г. до Р.Х.)</h3>
+<h2 id="s3">4) Неемия – третье возвращение иудеев (444 г. до Р.Х.)</h2>
+<h3>(1) Неем.7, - перепись народа Божьего, 1-ое возвращение иудеев. (Зоровавель, Иисус сын Иоседеков, Захария, Аггей, народ Божий)</h3>
+<h4>(а) Важность народа Бог – сохранение и передача Слово Божье, Завета, Христос</h4>
+<h4>(б) Исполнение предназначения – право выбора человека</h4>
+<h4>(в) Важность финансового служения народа Божьего</h4>
+<h3>(2) Неем.8 (8,13,18), - передача Слово Божье, Завета, Христос, служение Ездры</h3>
+<h4>(а) Ездра – священник (потомок Аарона), книжник, понимание важности познания и передачи Слово Божье, Завета, Христос, приход Христос</h4>
+<h4>(б) 1 и 2 Пар., Ездра, канон В.З. (Танах), борьба с апокрифами – важность чистоты Слово Божье, исполнение предназначения народа Бог</h4>
+<h4>(в) Книга Закона, постоянное пребывание народа в Слово Божье</h4>
+<h4>(г) Важность правильного понимания Слово Божье, Завета, Христос, обучение</h4>
+<h4>(д) Праздник Кущей – временность видимого, важность Слово Божье</h4>
+<h3>(3) Неем.9, - исповедание грехов, утверждение Слово Божье, Завета, Христос</h3>
+<h4>(а) Смысл исповедания – признание отступление от Бога (грех), понимание причины всех проблем народа Божьего</h4>
+<h4>(б) Понимание важности возвращения к Богу, познание, передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация, подготовка прихода Христа</h4>
+<h4>(в) Сохранение народа Бог – благодать, милость и любовь Божья</h4>
+<h3>(4) Неем. 10, - утверждение Слово Божье, Завета, Христос</h3>
+<h4>(а) Перечень участников утверждения Слово Божье, Завета, Христос – отделенность народа Божьего, исполнение предназначения, правильная идеология и мировозрение, чистота учения</h4>
+<h4>(б) Важность браков, седьмого дня и десятин народа Божьего</h4>
+<h3>(5) Неем. 11 (1-19,20-36), - важность передачи Слово Божье, Завета, Христос (Важность заселения Иерусалима и Ханаана, Храм, Всемирная Евангелизация, подготовка прихода Христа, исполнение предназначения)</h3>
+<h3>(6) Неем. 12, - важность передачи Слово Божье, Завета, Христос</h3>
+<h4>(а) Неем. 12 (1-26), - важность священников, утверждение Слово Божье, Завета, Христос, исполнение предназначения народа Божьего</h4>
+<h4>(б) Неем. 12 (27-43), - освящение отстроенных стен Иерусалима, восхваление Бога, Жертва, понимание Слово Божье, Завета, Христос</h4>
+<h4>(в) Неем. 12 (44-47), - важность финансового служения народа Бог, важность исполнения предназначения</h4>
+<h3>(7) Неем. 13, - утверждение Слово Божье, Завета, Христос, реформы Неемии</h3>
+<h4>(а) Неем. 13:1-3, - отделение иноплеменного, важность народа Бог, чистота учения, понимание и исполнение предназначения</h4>
+<blockquote><p>В тот день читано было из книги Моисеевой вслух народа и найдено написанное в ней: Аммонитянин и Моавитянин не может войти в общество Божие во веки, потому что они не встретили сынов Израиля с хлебом и водою и наняли против него Валаама, чтобы проклясть его, но Бог наш обратил проклятие в благословение. Услышав этот закон, они отделили все иноплеменное от Израиля.</p><cite>Неем. 13:1-3</cite></blockquote>
+<h4>(б) Неем. 13:4-9, - важность Храма и Богослужения, важность точного исполнения Слово Божье для народа Бог (Товия – аммонитянин)</h4>
+<blockquote><p>А прежде того священник Елиашив, приставленный к комнатам при доме Бога нашего, близкий родственник Товии, отделал для него большую комнату, в которую прежде клали хлебное приношение, ладан и сосуды, и десятины хлеба, вина и масла, положенные законом для левитов, певцов и привратников, и приношения для священников. Когда все это <em>происходило,</em> я не был в Иерусалиме, потому что в тридцать втором году Вавилонского царя Артаксеркса я ходил к царю, и по прошествии нескольких дней <em>опять</em> выпросился у царя. Когда я пришел в Иерусалим и узнал о худом деле, которое сделал Елиашив, отделав для Товии комнату на дворах дома Божия, тогда мне было весьма неприятно, и я выбросил все домашние вещи Товиины вон из комнаты и сказал, чтобы очистили комнаты, и велел опять внести туда сосуды дома Божия, хлебное приношение и ладан.</p><cite>Неем. 13:4-9</cite></blockquote>
+<h4>(в) Неем. 13:10-14, - важность финансового служения народа Бог, важность понимания и исполнения предназначения</h4>
+<blockquote><p>Еще узнал я, что части левитам не отдаются, и что левиты и певцы, делавшие <em>свое</em> дело, разбежались, каждый на свое поле. Я сделал <em>за</em> <em>это</em> выговор начальствующим и сказал: зачем оставлен нами дом Божий? И я собрал их и поставил их на место их. И все Иудеи стали приносить десятины хлеба, вина и масла в кладовые. И приставил я к кладовым Шелемию священника и Садока книжника и Федаию из левитов, и при них Ханана, сына Закхура, сына Матфании, потому что они считались верными. И на них <em>возложено</em> раздавать части братьям своим. Помяни меня за это, Боже мой, и не изгладь усердных дел моих, которые я сделал для дома Бога моего и для служения при нем!</p><cite>Неем. 13:10-14</cite></blockquote>
+<h4>(г) Неем. 13:15-22, - важность седьмого дня для народа Божьего, важность Богослужения и точного исполнения Слово Божье</h4>
+<blockquote><p>В те дни я увидел в Иудее, что в субботу топчут точила, возят снопы и навьючивают ослов вином, виноградом, смоквами и всяким грузом, и отвозят в субботний день в Иерусалим. И я строго выговорил <em>им</em> в тот же день, когда они продавали съестное. И Тиряне жили в <em>Иудее</em> и привозили рыбу и всякий товар и продавали в субботу жителям Иудеи и в Иерусалиме. И я сделал выговор знатнейшим из Иудеев и сказал им: зачем вы делаете такое зло и оскверняете день субботний? Не так ли поступали отцы ваши, и за то Бог наш навел на нас и на город сей все это бедствие? А вы увеличиваете гнев <em>Его</em> на Израиля, оскверняя субботу. После сего, когда смеркалось у ворот Иерусалимских, перед субботою, я велел запирать двери и сказал, чтобы не отпирали их до <em>утра</em> после субботы. И слуг моих я ставил у ворот, чтобы никакая ноша не проходила в день субботний. И ночевали торговцы и продавцы всякого товара вне Иерусалима раз и два. Но я строго выговорил им и сказал им: зачем вы ночуете возле стены? Если сделаете это в другой раз, я наложу руку на вас. С того времени они не приходили в субботу. И сказал я левитам, чтобы они очистились и пришли содержать стражу у ворот, дабы святить день субботний. И за сие помяни меня, Боже мой, и пощади меня по великой милости Твоей!</p><cite>Неем. 13:15-22</cite></blockquote>
+<h4>(д) Неем. 13:23-31, - важность правильных браков для народа Бог, исполнение предназначения, идеология и система ценностей, важность правильного воспитания потомков</h4>
+<blockquote><p>Еще в те дни я видел Иудеев, которые взяли себе жен из Азотянок, Аммонитянок и Моавитянок; и оттого сыновья их в половину говорят по-азотски, или языком других народов, и не умеют говорить по-иудейски. Я сделал за это выговор и проклинал их, и некоторых из мужей бил, рвал у них волоса и заклинал их Богом, чтобы они не отдавали дочерей своих за сыновей их и не брали дочерей их за сыновей своих и за себя. Не из-за них ли, <em>говорил</em> <em>я,</em> грешил Соломон, царь Израилев? У многих народов не было такого царя, как он. Он был любим Богом своим, и Бог поставил его царем над всеми Израильтянами; и однако же чужеземные жены ввели в грех и его. И можно ли нам слышать о вас, что вы делаете все сие великое зло, грешите пред Богом нашим, принимая в сожительство чужеземных жен? И из сыновей Иоиады, сына великого священника Елиашива, один был зятем Санаваллата, Хоронита. Я прогнал его от себя. Воспомяни им, Боже мой, что они опорочили священство и завет священнический и левитский! Так очистил я их от всего чужеземного и восстановил службы священников и левитов, каждого в деле его, и доставку дров в назначенные времена и начатки. Помяни меня, Боже мой, во благо <em>мне!</em></p><cite>Неем. 13:23-31</cite></blockquote>
+<h2 id="s4">5) Важность понимания значения книг Ездра, Есфирь, Неемия для народа Божьего в Н.З</h2>
+<h3>(1) Важность завоевания Ханаана, важность восстановления Жертвенника, Храма и Иерусалима – познание и передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация, подготовка прихода Христа</h3>
+<h3>(2) Ханаан в Н.З. – весь мир, важность поместных Церквей до края земли, Всемирная Евангелизация, исполнение предназначения</h3>
+<h3>(3) Жертвенник и Жертва в Н.З. – важность понимания Иисуса Христа и Его Жертвы на Голгофском Кресте, важность правильного понимания Слово Божье, Завета, Христос для человека</h3>
+<h3>(4) Храм и Иерусалим в Н.З. – дом молитвы, поместные Церкви, центральное место веры Божьей, самоосознание народа Божьего, важность исполнение предназначения</h3>
+<h3>(5) Стены Иерусалима в Н.З. – духовная брань, защита веры Божьей, важность правильной Литургии в Н.З. Дн. 2:42</h3>
+<blockquote><p>И они постоянно пребывали в учении Апостолов, в общении и преломлении хлеба и в молитвах.</p><cite>Дн. 2:42</cite></blockquote>
+<h3>(6) Книга Есфирь в Н.З. – понимание неизменного действия сатана, попытка уничтожения народа Божьего, остановка познания и передачи Слово Божье, Завета, Христос (Божий суверенитет и контроль)</h3>
+<h2 id="s5">Заключение:</h2>
+<h3>(1) Важность понимания Божьего суверенитета и контроля – восстановление Храма и Иерусалима, исполнение Слово Божье Дан. 9:25</h3>
+<blockquote><p>Итак знай и разумей: с того времени, как выйдет повеление о восстановлении Иерусалима, до Христа Владыки семь седмин и шестьдесят две седмины; и возвратится <em>народ</em> и обстроятся улицы и стены, но в трудные времена.</p><cite>Дан. 9:25</cite></blockquote>
+<h3>(2) Неемия – исполнение предназначения народа Божьего, утверждение и передача Слово Божье, Завета, Христос, стены Иерусалима</h3>
+<h3>(3) Действие сатана – остановить передачу Слово Божье, Завета, Христос, Всемирная Евангелизация</h3>
 </main>
 </body>
 </html>

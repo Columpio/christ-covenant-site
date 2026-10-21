@@ -3,79 +3,246 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>59. Обзор книги Бытие, важность понимания Христа в книге Бытие</title>
+<title>Обзор книги Бытие, важность понимания Христа в книге Бытие, часть 1</title>
 <style>
-:root{--bg:#faf7f2;--fg:#2b2622;--muted:#7a6f66;--accent:#8a4b2a;--card:#fff;--line:#e6ddd2;--quote:#f3ece2}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+:root{color-scheme:light;
+--ink:#2A1C0D;--ink2:#5A4630;--stone:#E6D8BA;--parch:#EBDAB0;--sheet:#FAF3E0;--wood:#6B4426;--frame:#F1E7CE;
+--c:#2F5DA8;--cd:#2F5DA8;--sb:#2F5DA8;--sf:#FFFFFF;--mix:#000;
+--display:"Cormorant SC","Cormorant Garamond",Georgia,serif;--uni:"Cormorant Unicase","Cormorant SC",Georgia,serif;
+--serif:"Alegreya","PT Serif",Georgia,serif;--sans:"Alegreya Sans","Segoe UI",system-ui,sans-serif;
+--canon:linear-gradient(90deg,#2F5DA8 0 10%,#D8951A 10% 20%,#C2366B 20% 30%,#1F8A5B 30% 40%,#138F8F 40% 50%,#E0562C 50% 60%,#E8801E 60% 70%,#2F8FCF 70% 80%,#6C4BB6 80% 90%,#8E3B8A 90%);
+--noise:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .30 0 0 0 0 .21 0 0 0 0 .10 0 0 0 .22 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+--weave:repeating-linear-gradient(90deg,rgba(255,255,255,.11) 0 2px,rgba(0,0,0,.07) 2px 4px);
+--cdd:color-mix(in srgb,var(--cd) 55%,var(--ink));
+--px:2.4rem;--py:2.2rem}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.6 Georgia,"PT Serif","Times New Roman",serif}
-a{color:var(--accent)}
-header.top{position:sticky;top:0;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:1rem;
-padding:.6rem 1.25rem;background:var(--card);border-bottom:1px solid var(--line);font:15px/1.4 system-ui,sans-serif}
-.crumbs a{text-decoration:none}
-main{max-width:46rem;margin:0 auto;padding:1.5rem 1.25rem 7rem}
-main.wide{max-width:64rem}
-h1{font-size:1.6rem;line-height:1.25;margin:.5rem 0 1rem}
-h2{font-size:1.3rem;line-height:1.3;margin:1.8rem 0 .6rem}
-h3{font-size:1.12rem;line-height:1.35;margin:1.4rem 0 .5rem}
-h4{font-size:1rem;line-height:1.4;margin:1.1rem 0 .4rem}
-ul{padding-left:1.25rem}
-li{margin:.2rem 0}
-blockquote{margin:.6rem 0 1rem;padding:.7rem 1rem;background:var(--quote);border-left:3px solid var(--accent);
-border-radius:0 6px 6px 0;font-size:.95em}
+html{scroll-padding-top:4.5rem;overflow-x:clip}
+body{margin:0;overflow-x:clip;color:var(--ink);font:400 1.2rem/1.65 var(--serif);-webkit-font-smoothing:antialiased;min-height:100vh;
+background:#2B190C url(img/shelves.svg) 50% 0/520px 960px repeat}
+/* Свет и глубина над стеллажами: утренний луч слева сверху, виньетка по краям; на внутренних страницах темнее. */
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+background:linear-gradient(115deg,rgba(255,226,160,.5),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 45%,rgba(20,10,4,.6) 100%),rgba(30,18,8,.12)}
+body:not(.home)::before{background:linear-gradient(115deg,rgba(255,226,160,.28),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 40%,rgba(20,10,4,.55) 100%),rgba(30,18,8,.5)}
+a{color:var(--cdd)}
+.sprite{position:absolute;width:0;height:0;overflow:hidden}
+.skip{position:absolute;left:-999px;top:0;z-index:40;padding:.7rem 1.1rem;background:var(--ink);color:#fff;font:700 1rem var(--sans)}
+.skip:focus{left:.5rem;top:.5rem}
+a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible{outline:3px solid var(--ink);outline-offset:3px;border-radius:6px}
+
+/* Шапка: полоса цветов канона, на страницах книги - цвет её раздела. */
+header.top{position:sticky;top:0;z-index:30;background:rgba(247,239,218,.95);backdrop-filter:blur(6px);border-bottom:1px solid #BFA97E;box-shadow:0 .4rem .8rem -.5rem rgba(50,30,10,.45);font:700 1.02rem/1.4 var(--sans)}
+header.top::before{content:"";display:block;height:4px;background:var(--canon)}
+body[style] header.top::before{background:var(--c)}
+header.top .bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;max-width:44rem;margin:0 auto;padding:0 1.25rem}
+header.top.wide .bar{max-width:68rem}
+.crumbs{min-width:0;color:var(--ink2)}
+.crumbs a{display:inline-flex;align-items:center;min-height:44px;padding:0 .3rem;color:var(--ink);text-decoration:none}
+.crumbs a:hover{color:var(--cdd);text-decoration:underline;text-underline-offset:.25em}
+
+main{max-width:44rem;margin:0 auto;padding:2rem 1.25rem 7rem}
+main.wide{max-width:68rem;position:relative;margin:0 auto;padding:2rem 2.4rem 7rem;
+background:var(--noise),linear-gradient(90deg,rgba(60,38,16,.18),rgba(60,38,16,0) 6%,rgba(60,38,16,0) 94%,rgba(60,38,16,.18)),var(--stone);
+border-inline:1.1rem solid #A98B5E;
+box-shadow:inset .5rem 0 .8rem -.3rem rgba(50,30,10,.45),inset -.5rem 0 .8rem -.3rem rgba(50,30,10,.45),0 0 3rem 1rem rgba(15,8,3,.7)}
+.muted{color:var(--ink2)}
+
+/* Страница урока - лист пергамента на каменной стене; под текстом нет фактуры. */
+main:not(.wide){position:relative;margin:1.6rem auto 6rem;padding:var(--py) var(--px) 2.6rem;background:var(--sheet);border-radius:.3rem;
+box-shadow:inset 0 0 0 1px rgba(150,115,60,.4),inset 0 0 2.4rem rgba(150,115,60,.2),0 1.4rem 2.4rem -1rem rgba(40,25,10,.65)}
+main:not(.wide)::before{content:"";display:block;height:.55rem;margin:calc(var(--py) * -1) calc(var(--px) * -1) 1.6rem;border-radius:.3rem .3rem 0 0;background:var(--weave),var(--sb)}
+h1{font:700 clamp(1.8rem,3.4vw,2.4rem)/1.15 var(--display);letter-spacing:.015em;margin:.4rem 0 1.2rem}
+h2{font:700 1.6rem/1.25 var(--display);letter-spacing:.015em;margin:2.6rem 0 .8rem}
+h2::before{content:"";display:inline-block;width:.5em;height:.5em;margin:0 .55em .12em 0;background:var(--sb);border-radius:2px;transform:rotate(45deg)}
+h3{font:700 1.16rem/1.45 var(--serif);margin:1.6rem 0 .5rem}
+h4{font:italic 600 1.1rem/1.4 var(--serif);margin:1.2rem 0 .4rem}
+ul{padding-left:1.3rem}
+li{margin:.25rem 0}
+li::marker{color:var(--sb)}
+blockquote{margin:.9rem 0 1.3rem;padding:.9rem 1.2rem 1rem;background:#FFFBEC;border:1px solid #E2D2A8;border-left:.32rem solid var(--sb);border-radius:.2rem;box-shadow:0 .2rem 0 #E6D8B4,0 .7rem 1rem -.7rem rgba(60,40,15,.5);font-size:1.08rem}
 blockquote p{margin:0}
-blockquote cite{display:block;margin-top:.3rem;font:normal .8em/1.4 system-ui,sans-serif;color:var(--muted)}
-.muted{color:var(--muted)}
-.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:.6rem;list-style:none;padding:0;margin:0 0 1rem}
-.tiles.wide{grid-template-columns:repeat(auto-fill,minmax(15rem,1fr))}
+blockquote cite{display:block;margin-top:.4rem;font:700 .92rem/1.4 var(--sans);font-style:normal;color:var(--cdd)}
+
+/* Главная: зал. Утренний свет из окна, лампады, ниши со свитками. */
+.hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.lead{max-width:34rem;margin:0;font:400 1.25rem/1.5 var(--serif);color:var(--ink)}
+.scene{position:relative;width:17rem;height:19rem;justify-self:end}
+.window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
+background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
+box-shadow:0 0 0 .55rem var(--frame),0 0 0 .7rem #B9A57D,inset 0 1.2rem 1.6rem -.4rem rgba(40,25,10,.55),inset 1rem 0 1.2rem -.8rem rgba(40,25,10,.4)}
+.window::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent calc(50% - .2rem),#4A2D18 calc(50% - .2rem) calc(50% + .2rem),transparent calc(50% + .2rem)),linear-gradient(180deg,transparent 50%,#4A2D18 50% calc(50% + .4rem),transparent calc(50% + .4rem))}
+.sill{position:absolute;left:0;right:0;bottom:0;height:1.2rem;border-radius:.25rem .25rem .5rem .5rem;background:linear-gradient(180deg,#F6EDD3,#D6C5A0 55%,#B9A57D);box-shadow:0 .7rem .9rem -.4rem rgba(40,25,10,.55)}
+.sill>*{position:absolute;bottom:100%;margin-bottom:-.2rem}
+.sill img{display:block;width:100%;height:auto;filter:drop-shadow(.3rem .35rem .25rem rgba(40,25,10,.45))}
+.jar{left:1.2rem;width:3.1rem}
+.lamp{left:4.9rem;width:6.2rem}
+.ink{left:11.7rem;width:3.4rem}
+.glow{position:absolute;left:88%;top:66%;width:15rem;height:15rem;transform:translate(-50%,-50%);border-radius:50%;pointer-events:none;
+background:radial-gradient(circle,rgba(255,196,96,.62),rgba(255,160,60,.2) 38%,rgba(255,150,50,0) 68%);animation:glow 3.4s ease-in-out infinite}
+.flame{position:absolute;left:88.5%;top:67%;width:.75rem;height:1.35rem;transform:translate(-50%,-92%);transform-origin:50% 100%;border-radius:50% 50% 50% 50%/70% 70% 30% 30%;
+background:radial-gradient(ellipse at 50% 72%,#FFF8D0 0 18%,#FFD060 42%,#FF9A2A 72%,rgba(255,110,20,0) 100%);filter:blur(.4px);animation:flicker 2.7s ease-in-out infinite}
+.reed{position:absolute;left:46%;top:24%;width:.28rem;height:6.4rem;transform:translate(-50%,-100%) rotate(17deg);transform-origin:50% 100%;
+background:linear-gradient(90deg,#6E4F1E,#D9B866 45%,#8A6428);clip-path:polygon(0 0,100% 0,100% 94%,50% 100%,0 94%)}
+.rays{position:absolute;right:7rem;top:3rem;width:1px;height:1px;pointer-events:none;z-index:2}
+.rays i{position:absolute;top:0;right:0;width:8rem;height:48rem;transform-origin:100% 0;transform:rotate(var(--a));filter:blur(8px);mix-blend-mode:soft-light;
+background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
+.rays i:nth-child(1){--a:-40deg}
+.rays i:nth-child(2){--a:-54deg;width:5rem}
+.rays i:nth-child(3){--a:-68deg;width:10rem}
+@keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
+@keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
+.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
+.wall-lamp .lamp{position:relative;left:auto;width:100%}
+.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
+.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
+.jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
+.jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
+background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.jump a{display:inline-flex;align-items:center;min-height:44px;padding:0 1.2rem;text-decoration:none}
+.jump a:hover{background-color:#F6E9C2}
+.search{display:block;width:100%;max-width:34rem;margin:.4rem 0 1.2rem;padding:.75rem 1.1rem;font-weight:400}
+.search::placeholder{color:var(--ink2);opacity:1}
+.search:focus{border-color:var(--ink)}
+.testament{position:relative;display:flex;flex-direction:column;gap:2.4rem;margin:3rem 0 0}
+.testament>h2{display:flex;align-items:center;gap:1rem;margin:0;font:700 clamp(2rem,3.6vw,2.7rem)/1.1 var(--display);letter-spacing:.02em}
+.testament>h2::before{display:none}
+.testament>h2::after{content:"";flex:1;height:.4rem;border-top:2px solid var(--wood);border-bottom:1px solid var(--wood);opacity:.6}
+main section[hidden],.scrolls li[hidden],.tiles li[hidden]{display:none}
+
+/* Ниша раздела: драпировка цвета раздела, внутри на досках лежат свитки. */
+.group{position:relative;overflow:hidden;min-width:0;border:.55rem solid var(--frame);border-radius:1.6rem 1.6rem .3rem .3rem;
+background:linear-gradient(180deg,rgba(40,24,10,0),rgba(40,24,10,.14)),var(--noise),color-mix(in srgb,var(--c) 7%,#CDBB93);
+box-shadow:0 0 0 1px #B9A57D,inset 0 1.1rem 1.6rem -.5rem rgba(35,20,8,.55),inset 1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),inset -1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),0 .7rem 1.1rem -.5rem rgba(50,30,10,.5)}
+.group>h3{position:relative;z-index:3;display:flex;align-items:center;gap:.7rem;margin:0;padding:.65rem 1.3rem .6rem;background:var(--weave),var(--sb);color:var(--sf);font:700 1.45rem/1.15 var(--display);letter-spacing:.02em;filter:drop-shadow(0 .35rem .3rem rgba(25,12,0,.45))}
+.group>h3::after,.book-head::after{content:"";position:absolute;left:0;right:0;top:100%;height:.62rem;background:radial-gradient(circle at 50% 0,var(--sb) 0 .5rem,transparent .52rem) 0 0/1.1rem .62rem repeat-x}
+.emblem{width:1.9rem;height:1.9rem;flex:none;color:var(--sf)}
+
+/* Свиток: пергамент на двух деревянных валиках, на шипах - ленточка цвета раздела, справа - печать с числом уроков. */
+.scrolls{--h:3.4rem;--board:.62rem;display:flex;flex-wrap:wrap;align-items:flex-start;column-gap:1.3rem;row-gap:var(--board);list-style:none;margin:0;padding:1.5rem 1.2rem var(--board);
+background:repeating-linear-gradient(180deg,transparent 0 var(--h),#2C1A0C var(--h) calc(var(--h) + 1px),#8A5A32 calc(var(--h) + 1px) calc(var(--h) + 3px),#6B4426 calc(var(--h) + 3px) calc(var(--h) + var(--board))) 0 0/100% calc(100% + var(--board)) no-repeat;
+background-origin:content-box;background-clip:padding-box}
+.scrolls li{position:relative;height:var(--h);margin:0;padding:0 .95rem;max-width:100%;transition:transform .18s ease;animation:rise .45s ease backwards;animation-delay:calc(var(--i) * 12ms);filter:drop-shadow(0 .18rem .12rem rgba(20,10,0,.4))}
+.scrolls li::before,.scrolls li::after{content:"";position:absolute;top:0;bottom:0;width:.95rem;
+background:radial-gradient(circle at 50% .45rem,#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) top/100% .95rem no-repeat,
+radial-gradient(circle at 50% calc(100% - .45rem),#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) bottom/100% .95rem no-repeat,
+linear-gradient(var(--sb),var(--sb)) 50% 1rem/.56rem .3rem no-repeat,
+linear-gradient(90deg,#3F2614,#B07C48 35%,#7A4E2B 65%,#3F2614) center/.42rem 100% no-repeat}
+.scrolls li::before{left:0}
+.scrolls li::after{right:0}
+.scrolls a,.scrolls li.empty>span{display:flex;align-items:center;gap:.7rem;height:calc(var(--h) - 1rem);margin:.5rem 0;padding:0 .8rem 0 1.25rem;white-space:nowrap;font:700 1.14rem/1 var(--display);letter-spacing:.015em}
+.scrolls a{position:relative;z-index:1;color:var(--ink);text-decoration:none;animation:unroll .4s cubic-bezier(.3,.7,.3,1) backwards;animation-delay:calc(var(--i) * 12ms + 80ms);
+background:linear-gradient(180deg,rgba(104,66,22,.36),rgba(104,66,22,0) 20%,rgba(104,66,22,0) 78%,rgba(104,66,22,.44)),linear-gradient(rgba(255,248,226,.5),rgba(255,248,226,.5)),url(img/parchment.webp) #EBD8A8;
+box-shadow:inset 0 0 .7rem rgba(120,80,25,.4)}
+.scrolls a::before,.scrolls a::after{content:"";position:absolute;top:0;bottom:0;width:1.15rem;border-radius:.5rem;
+background:repeating-linear-gradient(90deg,rgba(90,60,20,.2) 0 1px,transparent 1px 3px),linear-gradient(90deg,#8E6D3A 0,#E8D3A0 30%,#F5E8C4 50%,#D8BF86 76%,#7F5F2E 100%);box-shadow:0 0 .35rem rgba(60,35,10,.5)}
+.scrolls a::before{left:-.62rem}
+.scrolls a::after{right:-.62rem}
+.scrolls li:hover,.scrolls li:has(a:focus-visible){transform:translateY(-.22rem)}
+.scrolls a:focus-visible{outline-offset:.6rem}
+.scrolls .count{position:relative;z-index:2;display:grid;place-items:center;min-width:1.85rem;height:1.85rem;padding:0 .3rem;border-radius:52% 48% 55% 45%/48% 55% 45% 52%;
+background:radial-gradient(circle at 35% 30%,var(--sb),color-mix(in srgb,var(--sb) 72%,#000));color:var(--sf);font:700 .9rem/1 var(--sans);letter-spacing:0;box-shadow:inset 0 1px 1px rgba(255,255,255,.4),0 .1rem .2rem rgba(0,0,0,.4)}
+.scrolls li.empty{padding:0 .3rem}
+.scrolls li.empty::before,.scrolls li.empty::after{display:none}
+.scrolls li.empty>span{border:1.5px dashed rgba(63,38,20,.65);border-radius:.4rem;color:var(--ink2);background:rgba(255,248,230,.22)}
+@keyframes unroll{from{clip-path:inset(0 50%)}to{clip-path:inset(0 0)}}
+@keyframes rise{from{opacity:0;transform:translateY(.6rem)}to{opacity:1;transform:none}}
+
+/* Страница книги: драпировка с названием и бирки уроков. */
+.book-head{position:relative;display:flex;align-items:center;gap:1.3rem;margin:0 0 2.2rem;padding:1.4rem 1.7rem;border-radius:.4rem .4rem 0 0;background:var(--weave),var(--sb);color:var(--sf);filter:drop-shadow(0 .45rem .35rem rgba(25,12,0,.4))}
+.book-head .emblem{width:4.2rem;height:4.2rem}
+.book-head h1{margin:0;color:var(--sf);font:700 clamp(2rem,4.4vw,3.1rem)/1.05 var(--display)}
+.meta{margin:.35rem 0 0;font:700 1.05rem/1.4 var(--sans);color:var(--sf)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));gap:.9rem;list-style:none;padding:0;margin:0 0 1rem}
 .tiles li{margin:0}
-.tiles a,.tiles li.empty{display:flex;align-items:center;justify-content:space-between;gap:.6rem;height:100%;min-height:4.5rem;
-padding:.8rem 1rem;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg);
-font:600 16px/1.35 system-ui,sans-serif}
-.tiles a{text-decoration:none;box-shadow:0 1px 2px rgba(0,0,0,.04);transition:border-color .15s,box-shadow .15s,transform .05s}
-.tiles a:hover{border-color:var(--accent);box-shadow:0 4px 14px rgba(0,0,0,.08)}
-.tiles a:active{transform:translateY(1px)}
-.tiles a>span:first-child,.tiles li.empty>span{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
-.tiles .count{color:var(--accent);font-size:.9em}
-.tiles li.empty{color:var(--muted);opacity:.55}
-.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;padding:.55rem 1.1rem;
-border:1px solid var(--accent);border-radius:10px;background:var(--card);color:var(--accent);font:600 15px/1.3 system-ui,sans-serif;
-text-decoration:none;cursor:pointer;box-shadow:0 1px 0 rgba(0,0,0,.06);transition:background .15s,color .15s,transform .05s}
-.btn:hover,details.download summary:hover{background:var(--accent);color:#fff}
-.btn:active,details.download summary:active{transform:translateY(1px)}
-.btn.primary{background:var(--accent);color:#fff}
-.btn.primary:hover{background:#6f3a20}
-.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3rem}
-.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;text-align:left}
+.tiles a{display:flex;align-items:center;height:100%;min-height:4.6rem;padding:.85rem 1rem .85rem 1.2rem;border-left:.5rem solid var(--sb);border-radius:.35rem;color:var(--ink);font:700 1.1rem/1.3 var(--serif);text-decoration:none;
+background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),url(img/parchment.webp) var(--parch);box-shadow:inset 0 0 .7rem rgba(120,85,35,.28),0 .15rem 0 #B9A276,0 .6rem .9rem -.5rem rgba(60,40,15,.55);transition:transform .15s}
+.tiles a:hover{transform:translateY(-.15rem)}
+.tiles .chapters{display:block;margin-top:.3rem;color:var(--cdd);font:700 .95rem/1.3 var(--sans)}
+
+/* Урок: содержание, кнопки. */
+.toc{margin:0 0 1.4rem;padding:.2rem 1.1rem;border:1px solid #D9C89E;border-radius:.3rem;background:#FFFBEC;font:400 1.02rem/1.5 var(--sans)}
+.toc summary{display:flex;align-items:center;min-height:44px;cursor:pointer;font-weight:700}
+.toc ol{margin:.3rem 0 .7rem;padding-left:1.4rem}
+.toc li::marker{color:var(--cdd);font-weight:700}
+.toc a{color:var(--ink);text-decoration:none}
+.toc a:hover{color:var(--cdd);text-decoration:underline}
+.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
+background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.btn:hover,details.download summary:hover{background-color:#F6E9C2}
+.btn.primary{background:var(--weave),var(--sb);border-color:color-mix(in srgb,var(--sb) 60%,#000);color:var(--sf)}
+.btn.primary:hover{background:var(--weave),color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3.5rem}
+.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;padding:.8rem 1rem;text-align:left}
 .pager .pager-next{align-items:flex-end;text-align:right}
 .pager .pager-section{align-items:center;justify-content:center;text-align:center}
-.pager .dir{font-size:.8em;font-weight:500;opacity:.85}
-.pager .name{font-weight:600}
-.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;
-pointer-events:none;z-index:5}
-.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;
-border-radius:50%;background:var(--accent);color:#fff;font:700 1.4rem/1 system-ui,sans-serif;text-decoration:none;
-cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.25);opacity:.92}
-.fab:hover{opacity:1;background:#6f3a20}
-.fab.next{margin-left:auto}
-.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);
-transition:opacity .2s,transform .2s,visibility .2s}
-.fab.top.visible{opacity:.92;visibility:visible;transform:none}
-@media(max-width:640px){.pager{grid-template-columns:1fr}.pager>span{display:none}
-.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}}
+.pager .dir{font-size:.9rem;font-weight:700}
+.pager .name{font:700 1.05rem/1.3 var(--serif);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
 details.download{position:relative}
-details.download summary{list-style:none;padding:.4rem 1rem}
+details.download summary{list-style:none}
 details.download summary::-webkit-details-marker{display:none}
-details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;
-padding:.3rem;background:var(--card);border:1px solid var(--line);border-radius:8px;box-shadow:0 6px 20px rgba(0,0,0,.08)}
-details.download .menu a{padding:.45rem .7rem;border-radius:6px;text-decoration:none;color:var(--fg)}
-details.download .menu a:hover{background:var(--quote)}
-@media print{header.top,.pager,.float{display:none}}
+details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;padding:.3rem;background:var(--sheet);border:1px solid #BFA97E;border-radius:.3rem;box-shadow:0 12px 28px -12px rgba(40,25,10,.55)}
+details.download .menu a{display:flex;align-items:center;min-height:44px;padding:.45rem .8rem;border-radius:.2rem;color:var(--ink);text-decoration:none}
+details.download .menu a:hover{background:#F0E3BE}
+
+/* Плавающие кнопки. */
+.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;pointer-events:none;z-index:25}
+.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;border-radius:50%;background:var(--sb);color:var(--sf);font:700 1.3rem/1 var(--sans);text-decoration:none;cursor:pointer;box-shadow:inset 0 1px 1px rgba(255,255,255,.35),0 8px 20px -6px rgba(40,25,10,.6)}
+.fab:hover{background:color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.fab.next{margin-left:auto}
+.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .2s,transform .2s,visibility .2s;pointer-events:auto;z-index:25}
+.fab.top.visible{opacity:1;visibility:visible;transform:none}
+.credits{max-width:68rem;margin:0 auto;padding:1.2rem 2.4rem 1.5rem;font:400 .95rem/1.5 var(--sans);color:var(--ink);background:var(--stone);border-inline:1.1rem solid #A98B5E}
+@media(max-width:1180px){.credits{padding-inline:1.25rem;border-inline-width:.5rem}}
+
+/* Скачанный документ без декора. */
+body.plain{background:#fff}
+body.plain::before{display:none}
+body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
+body.plain main::before{display:none}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+@media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
+@media(max-width:640px){
+body{font-size:1.12rem}
+:root{--px:1.1rem;--py:1.4rem}
+main:not(.wide){margin:0 auto 5rem;border-radius:0}
+.pager{grid-template-columns:1fr}.pager>span{display:none}
+.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}
+.fab{width:2.75rem;height:2.75rem}.fab.prev,.fab.next{display:none}.fab.top{bottom:1rem;right:.5rem}
+.testament{gap:2rem}
+.group{border-width:.4rem;border-radius:1.2rem 1.2rem .25rem .25rem}
+.group>h3{padding:.55rem 1rem .5rem;font-size:1.3rem}
+.scrolls{--h:3.9rem;column-gap:.8rem;padding:1.4rem .55rem var(--board)}
+.scrolls li{padding:0 .8rem}
+.scrolls li::before,.scrolls li::after{width:.8rem}
+.scrolls a,.scrolls li.empty>span{gap:.5rem;padding:0 .55rem 0 1rem;font-size:1rem}
+.scrolls a::before,.scrolls a::after{width:1rem}
+.scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
+.scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
+.book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
+@media(max-height:500px){header.top{position:static}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+@media print{body{background:#fff}body::before{display:none}header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
-<body>
+<body class="plain">
 <main>
-<h1>59. Обзор книги Бытие, важность понимания Христа в книге Бытие</h1>
-<h2>1.1) Важность понимания Христа в В.З</h2>
+<h1>Обзор книги Бытие, важность понимания Христа в книге Бытие, часть 1</h1>
+<h2 id="s1">1.1) Важность понимания Христа в В.З</h2>
 <h3>(1) Ин. 5:39, - все Писания говорят о Христе</h3>
 <blockquote><p>Исследуйте Писания, ибо вы думаете чрез них иметь жизнь вечную; а они свидетельствуют о Мне.</p><cite>Ин. 5:39</cite></blockquote>
 <h3>(2) Кол. 1:26-27,Еф. 3:8-9, - Христос, тайна Божья которую открывает Сам Бог, Божий суверенитет и контроль. (Невозможность понимания Слово Божье, Завета, Христос без благодати Бог)</h3>
@@ -84,7 +251,7 @@ details.download .menu a:hover{background:var(--quote)}
 <h3>(3) Проповедь Первоапостольской Церкви – книга Бытие Гал.3 (Авраам), 2-е Кор. 11:3,2-е Тим. 3:15</h3>
 <blockquote><p>Но боюсь, чтобы, как змий хитростью своею прельстил Еву, так и ваши умы не повредились, <em>уклонившись</em> от простоты во Христе.</p><cite>2-е Кор. 11:3</cite></blockquote>
 <blockquote><p>Притом же ты из детства знаешь священные писания, которые могут умудрить тебя во спасение верою во Христа Иисуса.</p><cite>2-е Тим. 3:15</cite></blockquote>
-<h2>2) Важность понимания Христа в книге Бытие</h2>
+<h2 id="s2">2) Важность понимания Христа в книге Бытие</h2>
 <h3>(1) Христос как Начало и Творец</h3>
 <h4>(а) Важность понимания рождения Христа как Единородного Сына Божьего прежде всякой твари. Кол. 1:15-16,Еф. 3:8-9</h4>
 <blockquote><p>Который есть образ Бога невидимого, рожденный прежде всякой твари; ибо Им создано все, что на небесах и что на земле, видимое и невидимое: престолы ли, господства ли, начальства ли, власти ли, -- все Им и для Него создано;</p><cite>Кол. 1:15-16</cite></blockquote>
@@ -208,361 +375,7 @@ details.download .menu a:hover{background:var(--quote)}
 <h4>(б) Полное восстановление человека в первоначальный вид 1-е Фес. 5:23, - Быт. 1:31</h4>
 <blockquote><p>Сам же Бог мира да освятит вас во всей полноте, и ваш дух и душа и тело во всей целости да сохранится без порока в пришествие Господа нашего Иисуса Христа.</p><cite>1-е Фес. 5:23</cite></blockquote>
 <blockquote><p>И увидел Бог все, что Он создал, и вот, хорошо весьма. И был вечер, и было утро: день шестой.</p><cite>Быт. 1:31</cite></blockquote>
-<h2>Заключение:</h2>
-<h3>(1) Важность изучение Священных Писаний</h3>
-<h3>(2) Важность понимания Слово Божье, Завета, Христос Ин. 5:39</h3>
-<blockquote><p>Исследуйте Писания, ибо вы думаете чрез них иметь жизнь вечную; а они свидетельствуют о Мне.</p><cite>Ин. 5:39</cite></blockquote>
-<h3>(3) Важность понимания Христа от Начала, важность понимания Божьего плана для человечества Ам. 3:7,Иер. 29:11</h3>
-<blockquote><p>Ибо Господь Бог ничего не делает, не открыв Своей тайны рабам Своим, пророкам.</p><cite>Ам. 3:7</cite></blockquote>
-<blockquote><p>Ибо <em>только</em> Я знаю намерения, какие имею о вас, говорит Господь, намерения во благо, а не на зло, чтобы дать вам будущность и надежду.</p><cite>Иер. 29:11</cite></blockquote>
-<h2>2.1) Важность понимания Христа в В.З</h2>
-<h3>(1) Ин. 5:39, - все Писания говорят о Христе</h3>
-<blockquote><p>Исследуйте Писания, ибо вы думаете чрез них иметь жизнь вечную; а они свидетельствуют о Мне.</p><cite>Ин. 5:39</cite></blockquote>
-<h3>(2) Кол. 1:26-27,Еф. 3:8-9, - Христос, тайна Божья которую открывает Сам Бог, Божий суверенитет и контроль. (Невозможность понимания Слово Божье, Завета, Христос без благодати Бог)</h3>
-<blockquote><p>тайну, сокрытую от веков и родов, ныне же открытую святым Его, Которым благоволил Бог показать, какое богатство славы в тайне сей для язычников, которая есть Христос в вас, упование славы,</p><cite>Кол. 1:26-27</cite></blockquote>
-<blockquote><p>Мне, наименьшему из всех святых, дана благодать сия -- благовествовать язычникам неисследимое богатство Христово и открыть всем, в чем состоит домостроительство тайны, сокрывавшейся от вечности в Боге, создавшем все Иисусом Христом,</p><cite>Еф. 3:8-9</cite></blockquote>
-<h3>(3) Проповедь Первоапостольской Церкви – книга Бытие Гал.3 (Авраам), 2-е Кор. 11:3,2-е Тим. 3:15</h3>
-<blockquote><p>Но боюсь, чтобы, как змий хитростью своею прельстил Еву, так и ваши умы не повредились, <em>уклонившись</em> от простоты во Христе.</p><cite>2-е Кор. 11:3</cite></blockquote>
-<blockquote><p>Притом же ты из детства знаешь священные писания, которые могут умудрить тебя во спасение верою во Христа Иисуса.</p><cite>2-е Тим. 3:15</cite></blockquote>
-<h2>2) Важность понимания Христа в книге Бытие</h2>
-<h3>(1) Христос как Тот Кто умрет от рук верующих (Авель)</h3>
-<h4>(а) Важность понимания религии и Благой Вести Быт. 2:7,9,16-17, - Быт. 3:1-7 (Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h4>
-<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<blockquote><p>И произрастил Господь Бог из земли всякое дерево, приятное на вид и хорошее для пищи, и дерево жизни посреди рая, и дерево познания добра и зла.</p><cite>Быт. 2:9</cite></blockquote>
-<blockquote><p>И заповедал Господь Бог человеку, говоря: от всякого дерева в саду ты будешь есть, а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:16-17</cite></blockquote>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
-<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<h4>(б) Важность понимания постоянного конфликта между Религией и Благой Вестью, остановить познание и передачу Слово Божье, Завета, Христос, действие сатана (Каин и Авель) Быт. 4:8,1-е Ин. 3:12, - Ин. 8:44,10:33,Рим. 9:30-33</h4>
-<blockquote><p>И сказал Каин Авелю, брату своему: . И когда они были в поле, восстал Каин на Авеля, брата своего, и убил его.</p><cite>Быт. 4:8</cite></blockquote>
-<blockquote><p>не так, как Каин, <em>который</em> был от лукавого и убил брата своего. А за что убил его? За то, что дела его были злы, а дела брата его праведны.</p><cite>1-е Ин. 3:12</cite></blockquote>
-<blockquote><p>Ваш отец диавол; и вы хотите исполнять похоти отца вашего. Он был человекоубийца от начала и не устоял в истине, ибо нет в нем истины. Когда говорит он ложь, говорит свое, ибо он лжец и отец лжи.</p><cite>Ин. 8:44</cite></blockquote>
-<blockquote><p>Иудеи сказали Ему в ответ: не за доброе дело хотим побить Тебя камнями, но за богохульство и за то, что Ты, будучи человек, делаешь Себя Богом.</p><cite>Ин. 10:33</cite></blockquote>
-<blockquote><p>Что же скажем? Язычники, не искавшие праведности, получили праведность, праведность от веры. А Израиль, искавший закона праведности, не достиг до закона праведности. Почему? потому что <em>искали</em> не в вере, а в делах закона. Ибо преткнулись о камень преткновения, как написано: вот, полагаю в Сионе камень преткновения и камень соблазна; но всякий, верующий в Него, не постыдится.</p><cite>Рим. 9:30-33</cite></blockquote>
-<h3>(2) Христос как Милость для грешника</h3>
-<h4>(а) Обличение грешника, Божье действие. Ин. 16:8-11</h4>
-<blockquote><p>и Он, придя, обличит мир о грехе и о правде и о суде: о грехе, что не веруют в Меня; о правде, что Я иду к Отцу Моему, и уже не увидите Меня; о суде же, что князь мира сего осужден.</p><cite>Ин. 16:8-11</cite></blockquote>
-<h4>(б) Долготерпение грешника и желание спасения всякого человека. 1-е Тим. 2:4,2-е Пет. 3:9</h4>
-<blockquote><p>Который хочет, чтобы все люди спаслись и достигли познания истины.</p><cite>1-е Тим. 2:4</cite></blockquote>
-<blockquote><p>Не медлит Господь <em>исполнением</em> обетования, как некоторые почитают то медлением; но долготерпит нас, не желая, чтобы кто погиб, но чтобы все пришли к покаянию.</p><cite>2-е Пет. 3:9</cite></blockquote>
-<h3>(3) Христос как Совершитель Божьего плана и Хранитель народа Божьего (Сиф, род Завета, Христа)</h3>
-<h4>(а) Важность понимания Божьего плана – приход Христа, возвращение человека в первоначальный вид. 1-е Тим. 2:4</h4>
-<blockquote><p>Который хочет, чтобы все люди спаслись и достигли познания истины.</p><cite>1-е Тим. 2:4</cite></blockquote>
-<h4>(б) Важность сохранения народа Божьего – Божья любовь и милость. Ис. 1:9 (святой остаток), Евр. 13:5</h4>
-<blockquote><p>Если бы Господь Саваоф не оставил нам небольшого остатка, то мы были бы то же, что Содом, уподобились бы Гоморре.</p><cite>Ис. 1:9</cite></blockquote>
-<blockquote><p>Имейте нрав несребролюбивый, довольствуясь тем, что есть. Ибо Сам сказал: не оставлю тебя и не покину тебя,</p><cite>Евр. 13:5</cite></blockquote>
-<h3>(4) Христос как Первое Пришествие</h3>
-<h4>(а) Важность понимания смысла «семени жены» и поражения сатана</h4>
-<h4>(б) Важность понимания смысла жертвы и пролития крови 1-е Пет. 1:10-11,Дн. 10:43</h4>
-<blockquote><p>К сему-то спасению относились изыскания и исследования пророков, которые предсказывали о назначенной вам благодати, исследывая, на которое и на какое время указывал сущий в них Дух Христов, когда Он предвозвещал Христовы страдания и последующую за ними славу.</p><cite>1-е Пет. 1:10-11</cite></blockquote>
-<blockquote><p>О Нем все пророки свидетельствуют, что всякий верующий в Него получит прощение грехов именем Его.</p><cite>Дн. 10:43</cite></blockquote>
-<h3>(5) Христос как Второе Пришествие и Вознесение народа Бог</h3>
-<h4>(а) Решение проблемы смерти для народа Божьего</h4>
-<h4>(б) Второе Пришествие Христа – вознесение народа Божьего Иуд. 1:14</h4>
-<blockquote><p>О них пророчествовал и Енох, седьмый от Адама, говоря: "се, идет Господь со тьмами святых Ангелов Своих --</p><cite>Иуд. 1:14</cite></blockquote>
-<h3>(6) Христос как Суд Божий</h3>
-<h4>(а) Суд водою, Потоп – непринятие Слово Божье, Завета, Христос</h4>
-<h4>(б) Суд Кровью, Голгофа – важность принятия Слово Божье, Завета, Христос</h4>
-<h4>(в) Суд огнем, Великий престол – непринятие Слово Божье, Завета, Христос Ин. 12:48, - Втор. 30:19</h4>
-<blockquote><p>Отвергающий Меня и не принимающий слов Моих имеет судью себе: слово, которое Я говорил, оно будет судить его в последний день.</p><cite>Ин. 12:48</cite></blockquote>
-<blockquote><p>Во свидетели пред вами призываю сегодня небо и землю: жизнь и смерть предложил я тебе, благословение и проклятие. Избери жизнь, дабы жил ты и потомство твое,</p><cite>Втор. 30:19</cite></blockquote>
-<h3>(7) Христос как Сокрушитель исполинов</h3>
-<h4>(а) Гордыня и безбожие человечества, отрицание Творца, упование на свои силы</h4>
-<h4>(б) Глупость исполинов, невозможность решения духовной проблемы, погибель людей</h4>
-<h4>(в) Сокрушение исполинов – Божья любовь и милость, важность правильного упования для человека. Еф. 1:20-22</h4>
-<blockquote><p>которою Он воздействовал во Христе, воскресив Его из мертвых и посадив одесную Себя на небесах, превыше всякого Начальства, и Власти, и Силы, и Господства, и всякого имени, именуемого не только в сем веке, но и в будущем, и все покорил под ноги Его, и поставил Его выше всего, главою Церкви,</p><cite>Еф. 1:20-22</cite></blockquote>
-<h3>(8) Христос как Спасение</h3>
-<h4>(а) Ковчег – прообраз Христа, возможность спасения при суде Бог</h4>
-<h4>(б) Ковчег – следствие принятия Слово Божье, Завета, Христос</h4>
-<h4>(в) Ковчег – Божий суверенитет и контроль (нет руля, паруса, весел), Божье водительство, полная безопастность в Ковчеге</h4>
-<h3>(9) Христос как Новая Жизнь для детей Божьих на новой земле и небе (жизнь после Суда Божьего)</h3>
-<h4>(а) Важность понимания Божьего плана – жизнь будущего века</h4>
-<h4>(б) Важность понимания цели и смысла жизни на земле во времени (выбор в отношении вечности). 1-е Кор. 2:9</h4>
-<blockquote><p>Но, как написано: не видел того глаз, не слышало ухо, и не приходило то на сердце человеку, что приготовил Бог любящим Его.</p><cite>1-е Кор. 2:9</cite></blockquote>
-<h3>(10) Христос как смерть ради жизни</h3>
-<h4>(а) Важность понимания принципа жизни – смерть ради жизни, важность понимания Грехопадения</h4>
-<h4>(б) Важность понимания возможности вечной жизни – понимание Христа и смысла Его смерти, важность понимания принципа Восстановления</h4>
-<h3>(11) Христос как Радуга</h3>
-<h4>(а) Радуга – Божье обещание сохранения земли, невозможность Всемирной катастрофы и исчезновения человечества</h4>
-<h4>(б) Важность понимания Божьего плана будущего – Первое и Второе Пришествие Христа, жизнь будущего века, важность принятия Слово Божье, Завета, Христос Быт. 9:8-16</h4>
-<blockquote><p>И сказал Бог Ною и сынам его с ним: вот, Я поставляю завет Мой с вами и с потомством вашим после вас, и со всякою душею живою, которая с вами, с птицами и со скотами, и со всеми зверями земными, которые у вас, со всеми вышедшими из ковчега, со всеми животными земными; поставляю завет Мой с вами, что не будет более истреблена всякая плоть водами потопа, и не будет уже потопа на опустошение земли. И сказал Бог: вот знамение завета, который Я поставляю между Мною и между вами и между всякою душею живою, которая с вами, в роды навсегда: Я полагаю радугу Мою в облаке, чтоб она была знамением завета между Мною и между землею. И будет, когда Я наведу облако на землю, то явится радуга в облаке; и Я вспомню завет Мой, который между Мною и между вами и между всякою душею живою во всякой плоти; и не будет более вода потопом на истребление всякой плоти. И будет радуга в облаке, и Я увижу ее, и вспомню завет вечный между Богом и между всякою душею живою во всякой плоти, которая на земле.</p><cite>Быт. 9:8-16</cite></blockquote>
-<h4>(в) Действие сатана – искажение смысла радуги (мужеложники), желание непонимания Слово Божье, Завета, Христос для человечества</h4>
-<h3>(12) Христос как Божье предузнание и избрание</h3>
-<h4>(а) Важность понимания Божьего предузнания и избрания всякого человека – сыновья Ноя. Рим. 8:29</h4>
-<blockquote><p>Ибо кого Он предузнал, тем и предопределил быть подобными образу Сына Своего, дабы Он был первородным между многими братиями.</p><cite>Рим. 8:29</cite></blockquote>
-<h4>(б) Важность понимания Божьего предузнания и избрания потомков Сима – еврейский народ, Первое Пришествие Христа</h4>
-<h4>(в) Важность понимания Божьего предузнания и избрания потомков Иафета – принятие эстафеты от еврейского народа, возвещение Слово Божье, Завета, Христос, подготовка Второго Пришествия Христа ( «войдут в шатры Симовы», т.е. продолжат домостроительство потомков Сима). Ин. 10:16</h4>
-<blockquote><p>Есть у Меня и другие овцы, которые не сего двора, и тех надлежит Мне привести: и они услышат голос Мой, и будет одно стадо и один Пастырь.</p><cite>Ин. 10:16</cite></blockquote>
-<h3>(13) Христос как Разрушитель Религии</h3>
-<h4>(а) Вавилонская башня – прообраз религии («сделать себе имя», дойти до небес своими силами)</h4>
-<h4>(б) Важность понимания различия Религии и Благой Вести</h4>
-<h4>(в) Религия – нет решения духовной проблемы, погибель человечества</h4>
-<h4>(г) Сокрушение религии – Божья любовь и милость, важность правильного упования для человека</h4>
-<h2>Заключение:</h2>
-<h3>(1) Важность изучение Священных Писаний</h3>
-<h3>(2) Важность понимания Слово Божье, Завета, Христос Ин. 5:39</h3>
-<blockquote><p>Исследуйте Писания, ибо вы думаете чрез них иметь жизнь вечную; а они свидетельствуют о Мне.</p><cite>Ин. 5:39</cite></blockquote>
-<h3>(3) Важность понимания Христа от Начала, важность понимания Божьего плана для человечества Ам. 3:7,Иер. 29:11</h3>
-<blockquote><p>Ибо Господь Бог ничего не делает, не открыв Своей тайны рабам Своим, пророкам.</p><cite>Ам. 3:7</cite></blockquote>
-<blockquote><p>Ибо <em>только</em> Я знаю намерения, какие имею о вас, говорит Господь, намерения во благо, а не на зло, чтобы дать вам будущность и надежду.</p><cite>Иер. 29:11</cite></blockquote>
-<h2>3.1) Важность понимания Христа в В.З</h2>
-<h3>(1) Ин. 5:39, - все Писания говорят о Христе</h3>
-<blockquote><p>Исследуйте Писания, ибо вы думаете чрез них иметь жизнь вечную; а они свидетельствуют о Мне.</p><cite>Ин. 5:39</cite></blockquote>
-<h3>(2) Кол. 1:26-27,Еф. 3:8-9, - Христос, тайна Божья которую открывает Сам Бог, Божий суверенитет и контроль. (Невозможность понимания Слово Божье, Завета, Христос без благодати Бог)</h3>
-<blockquote><p>тайну, сокрытую от веков и родов, ныне же открытую святым Его, Которым благоволил Бог показать, какое богатство славы в тайне сей для язычников, которая есть Христос в вас, упование славы,</p><cite>Кол. 1:26-27</cite></blockquote>
-<blockquote><p>Мне, наименьшему из всех святых, дана благодать сия -- благовествовать язычникам неисследимое богатство Христово и открыть всем, в чем состоит домостроительство тайны, сокрывавшейся от вечности в Боге, создавшем все Иисусом Христом,</p><cite>Еф. 3:8-9</cite></blockquote>
-<h3>(3) Проповедь Первоапостольской Церкви – книга Бытие Гал.3 (Авраам), 2-е Кор. 11:3,2-е Тим. 3:15</h3>
-<blockquote><p>Но боюсь, чтобы, как змий хитростью своею прельстил Еву, так и ваши умы не повредились, <em>уклонившись</em> от простоты во Христе.</p><cite>2-е Кор. 11:3</cite></blockquote>
-<blockquote><p>Притом же ты из детства знаешь священные писания, которые могут умудрить тебя во спасение верою во Христа Иисуса.</p><cite>2-е Тим. 3:15</cite></blockquote>
-<h2>2) Важность понимания Христа в книге Бытие</h2>
-<h3>(1) Христос как Призывающий</h3>
-<h4>(а) Призвание Авраама – Божье действие</h4>
-<h4>(б) Важность Ханаана – подготовка прихода Христа, исполнение воли Божьей, важность понимания Божьего плана Быт. 2:7,9,16-17, - Быт. 3:1-7 (Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h4>
-<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<blockquote><p>И произрастил Господь Бог из земли всякое дерево, приятное на вид и хорошее для пищи, и дерево жизни посреди рая, и дерево познания добра и зла.</p><cite>Быт. 2:9</cite></blockquote>
-<blockquote><p>И заповедал Господь Бог человеку, говоря: от всякого дерева в саду ты будешь есть, а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:16-17</cite></blockquote>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
-<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<h4>(в) Призвание апостолов – Божье действие. Мф. 4:18-22</h4>
-<blockquote><p>Проходя же близ моря Галилейского, Он увидел двух братьев: Симона, называемого Петром, и Андрея, брата его, закидывающих сети в море, ибо они были рыболовы, и говорит им: идите за Мною, и Я сделаю вас ловцами человеков. И они тотчас, оставив сети, последовали за Ним. Оттуда, идя далее, увидел Он других двух братьев, Иакова Зеведеева и Иоанна, брата его, в лодке с Зеведеем, отцом их, починивающих сети свои, и призвал их. И они тотчас, оставив лодку и отца своего, последовали за Ним.</p><cite>Мф. 4:18-22</cite></blockquote>
-<h3>(2) Христос как Надежда для отпавших (Фарра)</h3>
-<h4>(а) Важность понимания цели и смысла земной жизни</h4>
-<h4>(б) Важность понимания права выбора человека. Ис. Нав. 24:2</h4>
-<blockquote><p>И сказал Иисус всему народу: так говорит Господь Бог Израилев: "за рекою жили отцы ваши издревле, Фарра, отец Авраама и отец Нахора, и служили иным богам.</p><cite>Ис.Нав. 24:2</cite></blockquote>
-<h4>(в) Важность понимания ответственности человека Втор. 30:19, - Мф. 23:37,Дн. 13:46,Евр. 3:14, - Мф. 10:32-33, 2-е Тим. 2:11-13,Исх. 32:31-33 (грех к смерти), Отк. 3:5, -2-е Пет. 3:17,Кол. 1:21-23, - Гал. 5:4</h4>
-<blockquote><p>Во свидетели пред вами призываю сегодня небо и землю: жизнь и смерть предложил я тебе, благословение и проклятие. Избери жизнь, дабы жил ты и потомство твое,</p><cite>Втор. 30:19</cite></blockquote>
-<blockquote><p>Иерусалим, Иерусалим, избивающий пророков и камнями побивающий посланных к тебе! сколько раз хотел Я собрать детей твоих, как птица собирает птенцов своих под крылья, и вы не захотели!</p><cite>Мф. 23:37</cite></blockquote>
-<blockquote><p>Тогда Павел и Варнава с дерзновением сказали: вам первым надлежало быть проповедану слову Божию, но как вы отвергаете его и сами себя делаете недостойными вечной жизни, то вот, мы обращаемся к язычникам.</p><cite>Дн. 13:46</cite></blockquote>
-<blockquote><p>Ибо мы сделались причастниками Христу, если только начатую жизнь твердо сохраним до конца,</p><cite>Евр. 3:14</cite></blockquote>
-<blockquote><p>Итак всякого, кто исповедает Меня пред людьми, того исповедаю и Я пред Отцем Моим Небесным; а кто отречется от Меня пред людьми, отрекусь от того и Я пред Отцем Моим Небесным.</p><cite>Мф. 10:32-33</cite></blockquote>
-<blockquote><p>Верно слово: если мы с Ним умерли, то с Ним и оживем; если терпим, то с Ним и царствовать будем; если отречемся, и Он отречется от нас; если мы неверны, Он пребывает верен, ибо Себя отречься не может.</p><cite>2-е Тим. 2:11-13</cite></blockquote>
-<blockquote><p>И возвратился Моисей к Господу и сказал: о, народ сей сделал великий грех: сделал себе золотого бога;  прости им грех их, а если нет, то изгладь и меня из книги Твоей, в которую Ты вписал.  Господь сказал Моисею: того, кто согрешил предо Мною, изглажу из книги Моей;</p><cite>Исх. 32:31-33</cite></blockquote>
-<blockquote><p>Побеждающий облечется в белые одежды; и не изглажу имени его из книги жизни, и исповедаю имя его пред Отцем Моим и пред Ангелами Его.</p><cite>Отк. 3:5</cite></blockquote>
-<blockquote><p>Итак вы, возлюбленные, будучи предварены о сем, берегитесь, чтобы вам не увлечься заблуждением беззаконников и не отпасть от своего утверждения,</p><cite>2-е Пет. 3:17</cite></blockquote>
-<blockquote><p>И вас, бывших некогда отчужденными и врагами, по расположению к злым делам, ныне примирил в теле Плоти Его, смертью Его, <em>чтобы</em> представить вас святыми и непорочными и неповинными пред Собою, если только пребываете тверды и непоколебимы в вере и не отпадаете от надежды благовествования, которое вы слышали, которое возвещено всей твари поднебесной, которого я, Павел, сделался служителем.</p><cite>Кол. 1:21-23</cite></blockquote>
-<blockquote><p>Вы, оправдывающие себя законом, остались без Христа, отпали от благодати,</p><cite>Гал. 5:4</cite></blockquote>
-<h3>(3) Христос как Ханаан, истинный Израиль</h3>
-<h4>(а) Важность Ханаана – Божий план, приход Христа</h4>
-<h4>(б) Важность понимания истинного Израиля и Его главы (истинные потомки Авраама) – народ Божий рожденный от Бога, принятие Слово Божье, Завета, Христос Гал. 3:7,29</h4>
-<blockquote><p>Познайте же, что верующие суть сыны Авраама.</p><cite>Гал. 3:7</cite></blockquote>
-<blockquote><p>Если же вы Христовы, то вы семя Авраамово и по обетованию наследники.</p><cite>Гал. 3:29</cite></blockquote>
-<h3>(4) Христос как Заступник и Защитник детей Божьих (Сарра)</h3>
-<h4>(а) Христос как вечный Ходатай человечества. 1-е Ин. 2:1-2</h4>
-<blockquote><p>Дети мои! сие пишу вам, чтобы вы не согрешали; а если бы кто согрешил, то мы имеем ходатая пред Отцем, Иисуса Христа, праведника; Он есть умилостивление за грехи наши, и не только за наши, но и за <em>грехи</em> всего мира.</p><cite>1-е Ин. 2:1-2</cite></blockquote>
-<h4>(б) Важность понимания обещания Бога – не оставлю и не покину тебя Евр. 13:5</h4>
-<blockquote><p>Имейте нрав несребролюбивый, довольствуясь тем, что есть. Ибо Сам сказал: не оставлю тебя и не покину тебя,</p><cite>Евр. 13:5</cite></blockquote>
-<h3>(5) Христос как Истинный Царь и Вечный Первосвященник по чину Мелхиседека</h3>
-<h4>(а) Мелхиседек – царь Салима, Бог во плоти, Христос. Пс. 75:2-3</h4>
-<blockquote><p>Ведом в Иудее Бог; у Израиля велико имя Его. И было в Салиме жилище Его и пребывание Его на Сионе.</p><cite>Пс. 75:2-3</cite></blockquote>
-<h4>(б) Христос – Царь Царей и Господь Господствующих. Отк. 19:16</h4>
-<blockquote><p>На одежде и на бедре Его написано имя: "Царь царей и Господь господствующих".</p><cite>Отк. 19:16</cite></blockquote>
-<h4>(в) Христос вечный Первосвященник человечества. Евр. 5:1-12</h4>
-<blockquote><p>Ибо всякий первосвященник, из человеков избираемый, для человеков поставляется на служение Богу, чтобы приносить дары и жертвы за грехи, могущий снисходить невежествующим и заблуждающим, потому что и сам обложен немощью, и посему он должен как за народ, так и за себя приносить <em>жертвы</em> о грехах. И никто сам собою не приемлет этой чести, но призываемый Богом, как и Аарон. Так и Христос не Сам Себе присвоил славу быть первосвященником, но Тот, Кто сказал Ему: Ты Сын Мой, Я ныне родил Тебя; как и в другом <em>месте</em> говорит: Ты священник вовек по чину Мелхиседека. Он, во дни плоти Своей, с сильным воплем и со слезами принес молитвы и моления Могущему спасти Его от смерти; и услышан был за <em>Свое</em> благоговение; хотя Он и Сын, однако страданиями навык послушанию, и, совершившись, сделался для всех послушных Ему виновником спасения вечного, быв наречен от Бога Первосвященником по чину Мелхиседека. О сем надлежало бы нам говорить много; но трудно истолковать, потому что вы сделались неспособны слушать. Ибо, <em>судя</em> по времени, вам надлежало быть учителями; но вас снова нужно учить первым началам слова Божия, и для вас нужно молоко, а не твердая пища.</p><cite>Евр. 5:1-12</cite></blockquote>
-<h3>(6) Христос как Новый Завет (хлеб и вино)</h3>
-<h4>(а) Важность понимания Ветхого Завета – грядущий Христос (Бог во плоти) и Его Вседостаточная Жертва Быт. 3:15,21 (все жертвы В.З.), - Пс. 109:1,Ис. 9:6,53:5,Дан. 9:26, -Ин. 10:33 (30), Рим. 9:30-33</h4>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<blockquote><p>Сказал Господь Господу моему: седи одесную Меня, доколе положу врагов Твоих в подножие ног Твоих.</p><cite>Пс. 109:1</cite></blockquote>
-<blockquote><p>Ибо младенец родился нам - Сын дан нам; владычество на раменах Его, и нарекут имя Ему: Чудный, Советник, Бог крепкий, Отец вечности, Князь мира.</p><cite>Ис. 9:6</cite></blockquote>
-<blockquote><p>Но Он изъязвлен был за грехи наши и мучим за беззакония наши; наказание мира нашего <em>было</em> на Нем, и ранами Его мы исцелились.</p><cite>Ис. 53:5</cite></blockquote>
-<blockquote><p>И по истечении шестидесяти двух седмин предан будет смерти Христос, и не будет; а город и святилище разрушены будут народом вождя, который придет, и конец его будет как от наводнения, и до конца войны будут опустошения.</p><cite>Дан. 9:26</cite></blockquote>
-<blockquote><p>Иудеи сказали Ему в ответ: не за доброе дело хотим побить Тебя камнями, но за богохульство и за то, что Ты, будучи человек, делаешь Себя Богом.</p><cite>Ин. 10:33</cite></blockquote>
-<blockquote><p>Что же скажем? Язычники, не искавшие праведности, получили праведность, праведность от веры. А Израиль, искавший закона праведности, не достиг до закона праведности. Почему? потому что <em>искали</em> не в вере, а в делах закона. Ибо преткнулись о камень преткновения, как написано: вот, полагаю в Сионе камень преткновения и камень соблазна; но всякий, верующий в Него, не постыдится.</p><cite>Рим. 9:30-33</cite></blockquote>
-<h4>(б) Важность понимания Нового Завета – пришедший Иисус Христос (Бог во плоти) и Его Вседостаточная Жертва Мф. 16:16,Ин. 19:30, - Ин. 8:56,Мф. 26:26-28</h4>
-<blockquote><p>Симон же Петр, отвечая, сказал: Ты -- Христос, Сын Бога Живаго.</p><cite>Мф. 16:16</cite></blockquote>
-<blockquote><p>Когда же Иисус вкусил уксуса, сказал: совершилось! И, преклонив главу, предал дух.</p><cite>Ин. 19:30</cite></blockquote>
-<blockquote><p>Авраам, отец ваш, рад был увидеть день Мой; и увидел и возрадовался.</p><cite>Ин. 8:56</cite></blockquote>
-<blockquote><p>И когда они ели, Иисус взял хлеб и, благословив, преломил и, раздавая ученикам, сказал: приимите, ядите: сие есть Тело Мое. И, взяв чашу и благодарив, подал им и сказал: пейте из нее все, ибо сие есть Кровь Моя Нового Завета, за многих изливаемая во оставление грехов.</p><cite>Мф. 26:26-28</cite></blockquote>
-<h3>(7) Христос как Правильное Богослужение (Авраам)</h3>
-<h4>(а) Важность правильного понимания Жертвы Христа</h4>
-<h4>(б) Неточное донесение о Жертве Христа – рабство. (Ересь «смешанного евангелия» и «частичного спасения»)</h4>
-<h3>(8) Христос как рождающий детей Свободы (Измаил, Исаак)</h3>
-<h4>(а) Важность понимания рождения от плоти – духовный рабство</h4>
-<h4>(б) Важность понимания рождения от Бога – духовный свобода</h4>
-<h4>(в) Важность понимания Божьих условий для рождения от Бога. (Принятие Божественности Христа и Вседостаточности Его Жертвы)</h4>
-<h3>(9) Христос как Обрезание (совлечение греховного)</h3>
-<h4>(а) Важность понимания рождения от плоти – духовный проблема</h4>
-<h4>(б) Важность смерти греховного и рождения духовного. (Мужской половой орган – семя Адама, смерть через пролитие крови – Жертва Христа). Кол. 2:11-13</h4>
-<blockquote><p>В Нем вы и обрезаны обрезанием нерукотворенным, совлечением греховного тела плоти, обрезанием Христовым; быв погребены с Ним в крещении, в Нем вы и совоскресли верою в силу Бога, Который воскресил Его из мертвых, и вас, которые были мертвы во грехах и в необрезании плоти вашей, оживил вместе с Ним, простив нам все грехи,</p><cite>Кол. 2:11-13</cite></blockquote>
-<h4>(в) Важность «знака» пребывания в Завете Божьем. Рим. 4:11</h4>
-<blockquote><p>И знак обрезания он получил, <em>как</em> печать праведности через веру, которую <em>имел</em> в необрезании, так что он стал отцом всех верующих в необрезании, чтобы и им вменилась праведность,</p><cite>Рим. 4:11</cite></blockquote>
-<h3>(10) Христос как Господь и Владыка (явление Аврааму)</h3>
-<h4>(а) Христос – Царь Царей и Господь Господствующих Ин. 8:25,Отк. 19:16</h4>
-<blockquote><p>Тогда сказали Ему: кто же Ты? Иисус сказал им: от начала Сущий, как и говорю вам.</p><cite>Ин. 8:25</cite></blockquote>
-<blockquote><p>На одежде и на бедре Его написано имя: "Царь царей и Господь господствующих".</p><cite>Отк. 19:16</cite></blockquote>
-<h4>(б) Христос – Образ Бога Невидимого, полнота Божества телесно. Кол. 1:15-16,2:9</h4>
-<blockquote><p>Который есть образ Бога невидимого, рожденный прежде всякой твари; ибо Им создано все, что на небесах и что на земле, видимое и невидимое: престолы ли, господства ли, начальства ли, власти ли, -- все Им и для Него создано;</p><cite>Кол. 1:15-16</cite></blockquote>
-<blockquote><p>ибо в Нем обитает вся полнота Божества телесно,</p><cite>Кол. 2:9</cite></blockquote>
-<h3>(11) Христос как утверждающий Слово Божье (неверие Сарры)</h3>
-<h4>(а) Христос – Слово Божье во плоти. Ин. 1:1-3,14</h4>
-<blockquote><p>В начале было Слово, и Слово было у Бога, и Слово было Бог. Оно было в начале у Бога. Все чрез Него начало быть, и без Него ничто не начало быть, что начало быть.</p><cite>Ин. 1:1-3</cite></blockquote>
-<blockquote><p>И Слово стало плотию, и обитало с нами, полное благодати и истины; и мы видели славу Его, славу, как Единородного от Отца.</p><cite>Ин. 1:14</cite></blockquote>
-<h4>(б) Христос – Личность которая озвучивает, утверждает и исполняет Слово Божье. Ин. 5:39</h4>
-<blockquote><p>Исследуйте Писания, ибо вы думаете чрез них иметь жизнь вечную; а они свидетельствуют о Мне.</p><cite>Ин. 5:39</cite></blockquote>
-<h3>(12) Христос как милость для родственников детей Божьих (Божий призыв к спасению родственников Лота)</h3>
-<h4>(а) Важность понимания совершенной воли Божьей. 1-е Тим. 2:4</h4>
-<blockquote><p>Который хочет, чтобы все люди спаслись и достигли познания истины.</p><cite>1-е Тим. 2:4</cite></blockquote>
-<h4>(б) Важность понимания действия благодати Божьей для родственников народа Божьего. Дн. 10:6,16:30-31,1-е Кор. 7:14</h4>
-<blockquote><p>Он гостит у некоего Симона кожевника, которого дом находится при море; он скажет тебе слова, которыми спасешься ты и весь дом твой.</p><cite>Дн. 10:6</cite></blockquote>
-<blockquote><p>и, выведя их вон, сказал: государи <em>мои!</em> что мне делать, чтобы спастись? Они же сказали: веруй в Господа Иисуса Христа, и спасешься ты и весь дом твой.</p><cite>Дн. 16:30-31</cite></blockquote>
-<blockquote><p>Ибо неверующий муж освящается женою верующею, и жена неверующая освящается мужем верующим. Иначе дети ваши были бы нечисты, а теперь святы.</p><cite>1-е Кор. 7:14</cite></blockquote>
-<h4>(в) Важность понимания свободной воли и права выбора человек Втор. 30:19, - Мф. 23:37,Дн. 13:46</h4>
-<blockquote><p>Во свидетели пред вами призываю сегодня небо и землю: жизнь и смерть предложил я тебе, благословение и проклятие. Избери жизнь, дабы жил ты и потомство твое,</p><cite>Втор. 30:19</cite></blockquote>
-<blockquote><p>Иерусалим, Иерусалим, избивающий пророков и камнями побивающий посланных к тебе! сколько раз хотел Я собрать детей твоих, как птица собирает птенцов своих под крылья, и вы не захотели!</p><cite>Мф. 23:37</cite></blockquote>
-<blockquote><p>Тогда Павел и Варнава с дерзновением сказали: вам первым надлежало быть проповедану слову Божию, но как вы отвергаете его и сами себя делаете недостойными вечной жизни, то вот, мы обращаемся к язычникам.</p><cite>Дн. 13:46</cite></blockquote>
-<h3>(13) Христос как Огонь Поядающий</h3>
-<h4>(а) Понимания одной из сторон Бога – Огонь Поядающий, Божья реакция на грех и зло. Евр. 12:29</h4>
-<blockquote><p>потому что Бог наш есть огнь поядающий.</p><cite>Евр. 12:29</cite></blockquote>
-<h4>(б) Понимания смысла Суда Божьего – огонь, озеро огненное, вечная жизнь в присутствии Бога как Огня Поядающего Мф. 19:25,Лк. 16:24,2-е Пет. 3:10,Отк. 20:10,14-15</h4>
-<blockquote><p>Услышав это, ученики Его весьма изумились и сказали: так кто же может спастись?</p><cite>Мф. 19:25</cite></blockquote>
-<blockquote><p>и, возопив, сказал: отче Аврааме! умилосердись надо мною и пошли Лазаря, чтобы омочил конец перста своего в воде и прохладил язык мой, ибо я мучаюсь в пламени сем.</p><cite>Лк. 16:24</cite></blockquote>
-<blockquote><p>Придет же день Господень, как тать ночью, и тогда небеса с шумом прейдут, стихии же, разгоревшись, разрушатся, земля и все дела на ней сгорят.</p><cite>2-е Пет. 3:10</cite></blockquote>
-<blockquote><p>а диавол, прельщавший их, ввержен в озеро огненное и серное, где зверь и лжепророк, и будут мучиться день и ночь во веки веков.</p><cite>Отк. 20:10</cite></blockquote>
-<blockquote><p>И смерть и ад повержены в озеро огненное. Это смерть вторая. И кто не был записан в книге жизни, тот был брошен в озеро огненное.</p><cite>Отк. 20:14-15</cite></blockquote>
-<h3>(14) Христос как Предназначение и Успех Жизни человека (Авраам и Лот)</h3>
-<h4>(а) Лот – жизнь для себя, видимое (гордыня, крах, потомки)</h4>
-<h4>(б) Авраам – жизнь для Бог, невидимое (смирение, успех, потомки) Евр. 11:8-16</h4>
-<blockquote><p>Верою Авраам повиновался призванию идти в страну, которую имел получить в наследие, и пошел, не зная, куда идет. Верою обитал он на земле обетованной, как на чужой, и жил в шатрах с Исааком и Иаковом, сонаследниками того же обетования; ибо он ожидал города, имеющего основание, которого художник и строитель Бог. Верою и сама Сарра (будучи неплодна) получила силу к принятию семени, и не по времени возраста родила, ибо знала, что верен Обещавший. И потому от одного, и притом омертвелого, родилось так много, как <em>много</em> звезд на небе и как бесчислен песок на берегу морском. Все сии умерли в вере, не получив обетований, а только издали видели оные, и радовались, и говорили о себе, что они странники и пришельцы на земле; ибо те, которые так говорят, показывают, что они ищут отечества. И если бы они в мыслях имели то <em>отечество,</em> из которого вышли, то имели бы время возвратиться; но они стремились к лучшему, то есть к небесному; посему и Бог не стыдится их, называя Себя их Богом: ибо Он приготовил им город.</p><cite>Евр. 11:8-16</cite></blockquote>
-<h3>(15) Христос как Покрывающий грехи детей Божьих (Авраам)</h3>
-<h4>(а) Предательства Сарры, остатки греховной сущности</h4>
-<h4>(б) Христос – покрытие и прощение всех грехов человечества Быт. 3:15,21,Пс. 31:1-2,Ис. 53:5, - 1-е Ин. 2:1-2,Рим. 4:6-8,Кол. 2:13, Евр. 10:4</h4>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<blockquote><p>Блажен, кому отпущены беззакония, и чьи грехи покрыты! Блажен человек, которому Господь не вменит греха, и в чьем духе нет лукавства!</p><cite>Пс. 31:1-2</cite></blockquote>
-<blockquote><p>Но Он изъязвлен был за грехи наши и мучим за беззакония наши; наказание мира нашего <em>было</em> на Нем, и ранами Его мы исцелились.</p><cite>Ис. 53:5</cite></blockquote>
-<blockquote><p>Дети мои! сие пишу вам, чтобы вы не согрешали; а если бы кто согрешил, то мы имеем ходатая пред Отцем, Иисуса Христа, праведника; Он есть умилостивление за грехи наши, и не только за наши, но и за <em>грехи</em> всего мира.</p><cite>1-е Ин. 2:1-2</cite></blockquote>
-<blockquote><p>Так и Давид называет блаженным человека, которому Бог вменяет праведность независимо от дел: Блаженны, чьи беззакония прощены и чьи грехи покрыты. Блажен человек, которому Господь не вменит греха.</p><cite>Рим. 4:6-8</cite></blockquote>
-<blockquote><p>и вас, которые были мертвы во грехах и в необрезании плоти вашей, оживил вместе с Ним, простив нам все грехи,</p><cite>Кол. 2:13</cite></blockquote>
-<blockquote><p>ибо невозможно, чтобы кровь тельцов и козлов уничтожала грехи.</p><cite>Евр. 10:4</cite></blockquote>
-<h4>(в) Важность понимания смысла прощения всех грехов – Эммануил (духовная немощь человека), новая жизнь для Бога в исполнении предназначения народа Божьего 2-е Кор. 5:17</h4>
-<blockquote><p>Итак, кто во Христе, <em>тот</em> новая тварь; древнее прошло, теперь все новое.</p><cite>2-е Кор. 5:17</cite></blockquote>
-<h2>Заключение:</h2>
-<h3>(1) Важность изучение Священных Писаний</h3>
-<h3>(2) Важность понимания Слово Божье, Завета, Христос Ин. 5:39</h3>
-<blockquote><p>Исследуйте Писания, ибо вы думаете чрез них иметь жизнь вечную; а они свидетельствуют о Мне.</p><cite>Ин. 5:39</cite></blockquote>
-<h3>(3) Важность понимания Христа от Начала, важность понимания Божьего плана для человечества Ам. 3:7,Иер. 29:11</h3>
-<blockquote><p>Ибо Господь Бог ничего не делает, не открыв Своей тайны рабам Своим, пророкам.</p><cite>Ам. 3:7</cite></blockquote>
-<blockquote><p>Ибо <em>только</em> Я знаю намерения, какие имею о вас, говорит Господь, намерения во благо, а не на зло, чтобы дать вам будущность и надежду.</p><cite>Иер. 29:11</cite></blockquote>
-<h2>4.1) Важность понимания Христа в В.З</h2>
-<h3>(1) Ин. 5:39, - все Писания говорят о Христе</h3>
-<blockquote><p>Исследуйте Писания, ибо вы думаете чрез них иметь жизнь вечную; а они свидетельствуют о Мне.</p><cite>Ин. 5:39</cite></blockquote>
-<h3>(2) Кол. 1:26-27,Еф. 3:8-9, - Христос, тайна Божья которую открывает Сам Бог, Божий суверенитет и контроль. (Невозможность понимания Слово Божье, Завета, Христос без благодати Бог)</h3>
-<blockquote><p>тайну, сокрытую от веков и родов, ныне же открытую святым Его, Которым благоволил Бог показать, какое богатство славы в тайне сей для язычников, которая есть Христос в вас, упование славы,</p><cite>Кол. 1:26-27</cite></blockquote>
-<blockquote><p>Мне, наименьшему из всех святых, дана благодать сия -- благовествовать язычникам неисследимое богатство Христово и открыть всем, в чем состоит домостроительство тайны, сокрывавшейся от вечности в Боге, создавшем все Иисусом Христом,</p><cite>Еф. 3:8-9</cite></blockquote>
-<h3>(3) Проповедь Первоапостольской Церкви – книга Бытие Гал.3 (Авраам), 2-е Кор. 11:3,2-е Тим. 3:15</h3>
-<blockquote><p>Но боюсь, чтобы, как змий хитростью своею прельстил Еву, так и ваши умы не повредились, <em>уклонившись</em> от простоты во Христе.</p><cite>2-е Кор. 11:3</cite></blockquote>
-<blockquote><p>Притом же ты из детства знаешь священные писания, которые могут умудрить тебя во спасение верою во Христа Иисуса.</p><cite>2-е Тим. 3:15</cite></blockquote>
-<h2>2) Важность понимания Христа в книге Бытие</h2>
-<h3>(1) Христос как Тот, Кто примет страдания и смерть по воле Отца (Исаак на жертвеннике)</h3>
-<h4>(а) Важность понимания Божьего плана спасения Быт. 2:7,9,16-17, - Быт. 3:1-7 (Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h4>
-<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<blockquote><p>И произрастил Господь Бог из земли всякое дерево, приятное на вид и хорошее для пищи, и дерево жизни посреди рая, и дерево познания добра и зла.</p><cite>Быт. 2:9</cite></blockquote>
-<blockquote><p>И заповедал Господь Бог человеку, говоря: от всякого дерева в саду ты будешь есть, а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:16-17</cite></blockquote>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
-<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<h4>(б) Невозможность спасения человека без Жертвы Христа – важность понимания духовных Законов Рим. 6:23,Евр. 9:22</h4>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>Да и все почти по закону очищается кровью, и без пролития крови не бывает прощения.</p><cite>Евр. 9:22</cite></blockquote>
-<h3>(2) Христос как Спаситель язычников и свершитель Всемирная Евангелизация (Египтяне, Аммореи, Хеттеи, Филистимляне и т.д.)</h3>
-<h4>(а) Важность понимания совершенной воли Божьей. 1-е Тим. 2:4</h4>
-<blockquote><p>Который хочет, чтобы все люди спаслись и достигли познания истины.</p><cite>1-е Тим. 2:4</cite></blockquote>
-<h4>(б) Важность понимания нелицеприятия Бога. Рим. 2:11</h4>
-<blockquote><p>Ибо нет лицеприятия у Бога.</p><cite>Рим. 2:11</cite></blockquote>
-<h4>(в) Важность понимания Божьего повеления. Мф. 28:19-20</h4>
-<blockquote><p>Итак идите, научите все народы, крестя их во имя Отца и Сына и Святаго Духа, уча их соблюдать все, что Я повелел вам; и се, Я с вами во все дни до скончания века. Аминь.</p><cite>Мф. 28:19-20</cite></blockquote>
-<h3>(3) Христос как Источник Воды Живой (колодцы)</h3>
-<h4>(а) Важность понимания Воды Живой – Христос. Иер. 2:13</h4>
-<blockquote><p>Ибо два зла сделал народ Мой: Меня, источник воды живой, оставили, и высекли себе водоемы разбитые, которые не могут держать воды.</p><cite>Иер. 2:13</cite></blockquote>
-<h4>(б) Важность Эммануила – Источник Воды Живой в человеке Ин. 4:14,7:37-38</h4>
-<blockquote><p>а кто будет пить воду, которую Я дам ему, тот не будет жаждать вовек; но вода, которую Я дам ему, сделается в нем источником воды, текущей в жизнь вечную.</p><cite>Ин. 4:14</cite></blockquote>
-<blockquote><p>В последний же великий день праздника стоял Иисус и возгласил, говоря: кто жаждет, иди ко Мне и пей. Кто верует в Меня, у того, как сказано в Писании, из чрева потекут реки воды живой.</p><cite>Ин. 7:37-38</cite></blockquote>
-<h3>(4) Христос как Первородство (Исав и Иаков)</h3>
-<h4>(а) Важность понимания Первородства – продолжение дела Отца (познание и передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация)</h4>
-<h4>(б) Важность понимания примера Иисуса Христа. Ин. 17:4</h4>
-<blockquote><p>Я прославил Тебя на земле, совершил дело, которое Ты поручил Мне исполнить.</p><cite>Ин. 17:4</cite></blockquote>
-<h4>(в) Отказ от Первородства – тяжкий грех. Евр. 12:16</h4>
-<blockquote><p>чтобы не было <em>между</em> <em>вами</em> какого блудника, или нечестивца, который бы, как Исав, за одну снедь отказался от своего первородства.</p><cite>Евр. 12:16</cite></blockquote>
-<h3>(5) Христос как Лестница между землей и небом (сон Иакова)</h3>
-<h4>(а) Важность соединения земного и небесного – Христос (важность понимания Божьего плана). 1-е Тим. 2:5,Еф. 1:10</h4>
-<blockquote><p>Ибо един Бог, един и посредник между Богом и человеками, человек Христос Иисус,</p><cite>1-е Тим. 2:5</cite></blockquote>
-<blockquote><p>в устроении полноты времен, дабы все небесное и земное соединить под главою Христом.</p><cite>Еф. 1:10</cite></blockquote>
-<h4>(б) Важность понимания Единственности Пути – Христос Ин. 14:6</h4>
-<blockquote><p>Иисус сказал ему: Я есмь путь и истина и жизнь; никто не приходит к Отцу, как только через Меня.</p><cite>Ин. 14:6</cite></blockquote>
-<h3>(6) Христос как Тот, Кто борется с неверием (борьба Иакова)</h3>
-<h4>(а) Неверие, жизнь вне Слово Божье – действие сатана, право выбора человек</h4>
-<h4>(в) Сокрушение неверия – благодать Божья, слышания Слово Божье, право выбора человека Отк. 3:20,Рим. 10:17, - Ин. 8:31-32,1-е Тим. 4:16, - Ин. 1:1,14</h4>
-<blockquote><p>Се, стою у двери и стучу: если кто услышит голос Мой и отворит дверь, войду к нему, и буду вечерять с ним, и он со Мною.</p><cite>Отк. 3:20</cite></blockquote>
-<blockquote><p>Итак вера от слышания, а слышание от слова Божия.</p><cite>Рим. 10:17</cite></blockquote>
-<blockquote><p>Тогда сказал Иисус к уверовавшим в Него Иудеям: если пребудете в слове Моем, то вы истинно Мои ученики, и познаете истину, и истина сделает вас свободными.</p><cite>Ин. 8:31-32</cite></blockquote>
-<blockquote><p>Вникай в себя и в учение; занимайся сим постоянно: ибо, так поступая, и себя спасешь и слушающих тебя.</p><cite>1-е Тим. 4:16</cite></blockquote>
-<blockquote><p>В начале было Слово, и Слово было у Бога, и Слово было Бог.</p><cite>Ин. 1:1</cite></blockquote>
-<blockquote><p>И Слово стало плотию, и обитало с нами, полное благодати и истины; и мы видели славу Его, славу, как Единородного от Отца.</p><cite>Ин. 1:14</cite></blockquote>
-<h3>(7) Христос как Любимый Сын Отца (Иосиф)</h3>
-<h4>(а) Важность понимания Христа как Единородного Сына Божия – Бог во плоти (рожденный, не сотворенный). Ин. 1:18</h4>
-<blockquote><p>Бога не видел никто никогда; Единородный Сын, сущий в недре Отчем, Он явил.</p><cite>Ин. 1:18</cite></blockquote>
-<h4>(б) Важность понимания человека – творение, усыновленное Богом (вечная разница – Творец и творение). Быт. 2:7</h4>
-<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<h4>(в) Важность понимания Божьей любви и милости. Ин. 3:16</h4>
-<blockquote><p>Ибо так возлюбил Бог мир, что отдал Сына Своего Единородного, дабы всякий верующий в Него, не погиб, но имел жизнь вечную.</p><cite>Ин. 3:16</cite></blockquote>
-<h3>(8) Христос как иная Одежда для человека (одежды Иосифа)</h3>
-<h4>(а) Нагота – духовная проблема человека. Быт. 3:1-7</h4>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
-<h4>(б) Неправильная, запачканая одежда – дела человека. Ис. 64:6</h4>
-<blockquote><p>Все мы сделались - как нечистый, и вся праведность наша - как запачканная одежда; и все мы поблекли, как лист, и беззакония наши, как ветер, уносят нас.</p><cite>Ис. 64:6</cite></blockquote>
-<h4>(в) Правильная одежда – праведность Христа, дар Божий Ис. 61:10,Отк. 3:18, - Гал. 3:27</h4>
-<blockquote><p>Радостью буду радоваться о Господе, возвеселится душа моя о Боге моем; ибо Он облек меня в ризы спасения, одеждою правды одел меня, как на жениха возложил венец и, как невесту, украсил убранством.</p><cite>Ис. 61:10</cite></blockquote>
-<blockquote><p>Советую тебе купить у Меня золото, огнем очищенное, чтобы тебе обогатиться, и белую одежду, чтобы одеться и чтобы не видна была срамота наготы твоей, и глазною мазью помажь глаза твои, чтобы видеть.</p><cite>Отк. 3:18</cite></blockquote>
-<blockquote><p>все вы, во Христа крестившиеся, во Христа облеклись.</p><cite>Гал. 3:27</cite></blockquote>
-<h3>(9) Христос как Тот, Которого ненавидят люди, которые знают о Нем (ненависть братьев к Иосифу)</h3>
-<h4>(а) Знание о Христе – весь мир, действие благодати Божьей</h4>
-<h4>(б) Непонимание Христа, Божье обличение человека (совесть) – ненависть ко Христу, действие сатана, право выбора человека Быт. 37:3-5, - Ин. 15:25</h4>
-<blockquote><p>Израиль любил Иосифа более всех сыновей своих, потому что он был сын старости его, -- и сделал ему разноцветную одежду. И увидели братья его, что отец их любит его более всех братьев его; и возненавидели его и не могли говорить с ним дружелюбно. И видел Иосиф сон, и рассказал братьям своим: и они возненавидели его еще более.</p><cite>Быт. 37:3-5</cite></blockquote>
-<blockquote><p>Но да сбудется слово, написанное в законе их: возненавидели Меня напрасно.</p><cite>Ин. 15:25</cite></blockquote>
-<h3>(10) Христос как Тот, Которого предадут и продадут (предательство и продажа Иосифа братьями)</h3>
-<h4>(а) Предательство Христа – выбор человека в Эдеме</h4>
-<h4>(б) Предательство Христа ради ничего не значащих вещей – выбор Иуды Искариота. Мф. 26:14-16</h4>
-<blockquote><p>Тогда один из двенадцати, называемый Иуда Искариот, пошел к первосвященникам и сказал: что вы дадите мне, и я вам предам Его? Они предложили ему тридцать сребренников; и с того времени он искал удобного случая предать Его.</p><cite>Мф. 26:14-16</cite></blockquote>
-<h4>(в) Предательство Христа ради ничего не значащих вещей – выбор большинства людей. Мф. 7:13-14</h4>
-<blockquote><p>Входите тесными вратами, потому что широки врата и пространен путь, ведущие в погибель, и многие идут ими; потому что тесны врата и узок путь, ведущие в жизнь, и немногие находят их.</p><cite>Мф. 7:13-14</cite></blockquote>
-<h3>(11) Христос как Тот, Кто дает Хлеб Жизни (служение Иосифа)</h3>
-<h4>(а) Истинный Хлеб Жизни – Иисус Христос. Ин. 6:33-35</h4>
-<blockquote><p>Ибо хлеб Божий есть тот, который сходит с небес и дает жизнь миру. На это сказали Ему: Господи! подавай нам всегда такой хлеб. Иисус же сказал им: Я есмь хлеб жизни; приходящий ко Мне не будет алкать, и верующий в Меня не будет жаждать никогда.</p><cite>Ин. 6:33-35</cite></blockquote>
-<h4>(б) Важность Истинного Хлеба Жизни для человека – важность познания и передачи Слово Божье, Завета, Христос</h4>
-<h3>(12) Христос как Тот, Кто незаслуженно пострадает для спасения многих людей (судьба Иосифа)</h3>
-<h4>(а) Важность понимания Бог плана спасения – судьба Христа Мф. 16:21,Евр. 2:9</h4>
-<blockquote><p>С того времени Иисус начал открывать ученикам Своим, что Ему должно идти в Иерусалим и много пострадать от старейшин и первосвященников и книжников, и быть убиту, и в третий день воскреснуть.</p><cite>Мф. 16:21</cite></blockquote>
-<blockquote><p>но видим, что за претерпение смерти увенчан славою и честью Иисус, Который не много был унижен пред Ангелами, дабы Ему, по благодати Божией, вкусить смерть за всех.</p><cite>Евр. 2:9</cite></blockquote>
-<h4>(б) Важность понимания Божьей любви и милости. Ин. 3:16</h4>
-<blockquote><p>Ибо так возлюбил Бог мир, что отдал Сына Своего Единородного, дабы всякий верующий в Него, не погиб, но имел жизнь вечную.</p><cite>Ин. 3:16</cite></blockquote>
-<h3>(13) Христос как Примиритель (приход Христа, колено Иудино)</h3>
-<h4>(а) Важность понимания вражды между человеком и Богом – Грехопадение. Рим. 5:12,6:23,Еф. 2:2</h4>
-<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
-<h4>(б) Важность примирения человека с Богом – воля Божья, Эммануил. Быт. 3:15,21,49:10, - 2-е Кор. 5:19-21</h4>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<blockquote><p>Не отойдет скипетр от Иуды и законодатель от чресл его, доколе не приидет Примиритель, и Ему покорность народов.</p><cite>Быт. 49:10</cite></blockquote>
-<blockquote><p>потому что Бог во Христе примирил с Собою мир, не вменяя <em>людям</em> преступлений их, и дал нам слово примирения. Итак мы -- посланники от имени Христова, и как бы Сам Бог увещевает через нас; от имени Христова просим: примиритесь с Богом. Ибо не знавшего греха Он сделал для нас <em>жертвою</em> <em>за</em> грех, чтобы мы в Нем сделались праведными пред Богом.</p><cite>2-е Кор. 5:19-21</cite></blockquote>
-<h3>(14) Христос как Тот, Кто прощает Предателей (выбор Иосифа)</h3>
-<h4>(а) Предательство Христа – выбор человека в Эдеме</h4>
-<h4>(б) Предательство Христа ради ничего не значащих вещей – выбор большинства людей. Мф. 7:13-14</h4>
-<blockquote><p>Входите тесными вратами, потому что широки врата и пространен путь, ведущие в погибель, и многие идут ими; потому что тесны врата и узок путь, ведущие в жизнь, и немногие находят их.</p><cite>Мф. 7:13-14</cite></blockquote>
-<h4>(в) Предательство Христа народом Божьим – Адам, Фарра, золотой телец, Соломон, Петр, Галаты</h4>
-<h4>(г) Важность понимания выбора и решения Божьего – прощение во Христе всякого человека. Ин. 3:16</h4>
-<blockquote><p>Ибо так возлюбил Бог мир, что отдал Сына Своего Единородного, дабы всякий верующий в Него, не погиб, но имел жизнь вечную.</p><cite>Ин. 3:16</cite></blockquote>
-<h2>Заключение:</h2>
+<h2 id="s3">Заключение:</h2>
 <h3>(1) Важность изучение Священных Писаний</h3>
 <h3>(2) Важность понимания Слово Божье, Завета, Христос Ин. 5:39</h3>
 <blockquote><p>Исследуйте Писания, ибо вы думаете чрез них иметь жизнь вечную; а они свидетельствуют о Мне.</p><cite>Ин. 5:39</cite></blockquote>

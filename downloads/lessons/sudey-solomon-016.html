@@ -3,79 +3,246 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>16. Соломон (990 – 928 г. до Р.Х.)</title>
+<title>11. 1-е Цар. 27–31: Грех Давида, смерть Самуила и Саула</title>
 <style>
-:root{--bg:#faf7f2;--fg:#2b2622;--muted:#7a6f66;--accent:#8a4b2a;--card:#fff;--line:#e6ddd2;--quote:#f3ece2}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+:root{color-scheme:light;
+--ink:#2A1C0D;--ink2:#5A4630;--stone:#E6D8BA;--parch:#EBDAB0;--sheet:#FAF3E0;--wood:#6B4426;--frame:#F1E7CE;
+--c:#2F5DA8;--cd:#2F5DA8;--sb:#2F5DA8;--sf:#FFFFFF;--mix:#000;
+--display:"Cormorant SC","Cormorant Garamond",Georgia,serif;--uni:"Cormorant Unicase","Cormorant SC",Georgia,serif;
+--serif:"Alegreya","PT Serif",Georgia,serif;--sans:"Alegreya Sans","Segoe UI",system-ui,sans-serif;
+--canon:linear-gradient(90deg,#2F5DA8 0 10%,#D8951A 10% 20%,#C2366B 20% 30%,#1F8A5B 30% 40%,#138F8F 40% 50%,#E0562C 50% 60%,#E8801E 60% 70%,#2F8FCF 70% 80%,#6C4BB6 80% 90%,#8E3B8A 90%);
+--noise:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .30 0 0 0 0 .21 0 0 0 0 .10 0 0 0 .22 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+--weave:repeating-linear-gradient(90deg,rgba(255,255,255,.11) 0 2px,rgba(0,0,0,.07) 2px 4px);
+--cdd:color-mix(in srgb,var(--cd) 55%,var(--ink));
+--px:2.4rem;--py:2.2rem}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.6 Georgia,"PT Serif","Times New Roman",serif}
-a{color:var(--accent)}
-header.top{position:sticky;top:0;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:1rem;
-padding:.6rem 1.25rem;background:var(--card);border-bottom:1px solid var(--line);font:15px/1.4 system-ui,sans-serif}
-.crumbs a{text-decoration:none}
-main{max-width:46rem;margin:0 auto;padding:1.5rem 1.25rem 7rem}
-main.wide{max-width:64rem}
-h1{font-size:1.6rem;line-height:1.25;margin:.5rem 0 1rem}
-h2{font-size:1.3rem;line-height:1.3;margin:1.8rem 0 .6rem}
-h3{font-size:1.12rem;line-height:1.35;margin:1.4rem 0 .5rem}
-h4{font-size:1rem;line-height:1.4;margin:1.1rem 0 .4rem}
-ul{padding-left:1.25rem}
-li{margin:.2rem 0}
-blockquote{margin:.6rem 0 1rem;padding:.7rem 1rem;background:var(--quote);border-left:3px solid var(--accent);
-border-radius:0 6px 6px 0;font-size:.95em}
+html{scroll-padding-top:4.5rem;overflow-x:clip}
+body{margin:0;overflow-x:clip;color:var(--ink);font:400 1.2rem/1.65 var(--serif);-webkit-font-smoothing:antialiased;min-height:100vh;
+background:#2B190C url(img/shelves.svg) 50% 0/520px 960px repeat}
+/* Свет и глубина над стеллажами: утренний луч слева сверху, виньетка по краям; на внутренних страницах темнее. */
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+background:linear-gradient(115deg,rgba(255,226,160,.5),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 45%,rgba(20,10,4,.6) 100%),rgba(30,18,8,.12)}
+body:not(.home)::before{background:linear-gradient(115deg,rgba(255,226,160,.28),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 40%,rgba(20,10,4,.55) 100%),rgba(30,18,8,.5)}
+a{color:var(--cdd)}
+.sprite{position:absolute;width:0;height:0;overflow:hidden}
+.skip{position:absolute;left:-999px;top:0;z-index:40;padding:.7rem 1.1rem;background:var(--ink);color:#fff;font:700 1rem var(--sans)}
+.skip:focus{left:.5rem;top:.5rem}
+a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible{outline:3px solid var(--ink);outline-offset:3px;border-radius:6px}
+
+/* Шапка: полоса цветов канона, на страницах книги - цвет её раздела. */
+header.top{position:sticky;top:0;z-index:30;background:rgba(247,239,218,.95);backdrop-filter:blur(6px);border-bottom:1px solid #BFA97E;box-shadow:0 .4rem .8rem -.5rem rgba(50,30,10,.45);font:700 1.02rem/1.4 var(--sans)}
+header.top::before{content:"";display:block;height:4px;background:var(--canon)}
+body[style] header.top::before{background:var(--c)}
+header.top .bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;max-width:44rem;margin:0 auto;padding:0 1.25rem}
+header.top.wide .bar{max-width:68rem}
+.crumbs{min-width:0;color:var(--ink2)}
+.crumbs a{display:inline-flex;align-items:center;min-height:44px;padding:0 .3rem;color:var(--ink);text-decoration:none}
+.crumbs a:hover{color:var(--cdd);text-decoration:underline;text-underline-offset:.25em}
+
+main{max-width:44rem;margin:0 auto;padding:2rem 1.25rem 7rem}
+main.wide{max-width:68rem;position:relative;margin:0 auto;padding:2rem 2.4rem 7rem;
+background:var(--noise),linear-gradient(90deg,rgba(60,38,16,.18),rgba(60,38,16,0) 6%,rgba(60,38,16,0) 94%,rgba(60,38,16,.18)),var(--stone);
+border-inline:1.1rem solid #A98B5E;
+box-shadow:inset .5rem 0 .8rem -.3rem rgba(50,30,10,.45),inset -.5rem 0 .8rem -.3rem rgba(50,30,10,.45),0 0 3rem 1rem rgba(15,8,3,.7)}
+.muted{color:var(--ink2)}
+
+/* Страница урока - лист пергамента на каменной стене; под текстом нет фактуры. */
+main:not(.wide){position:relative;margin:1.6rem auto 6rem;padding:var(--py) var(--px) 2.6rem;background:var(--sheet);border-radius:.3rem;
+box-shadow:inset 0 0 0 1px rgba(150,115,60,.4),inset 0 0 2.4rem rgba(150,115,60,.2),0 1.4rem 2.4rem -1rem rgba(40,25,10,.65)}
+main:not(.wide)::before{content:"";display:block;height:.55rem;margin:calc(var(--py) * -1) calc(var(--px) * -1) 1.6rem;border-radius:.3rem .3rem 0 0;background:var(--weave),var(--sb)}
+h1{font:700 clamp(1.8rem,3.4vw,2.4rem)/1.15 var(--display);letter-spacing:.015em;margin:.4rem 0 1.2rem}
+h2{font:700 1.6rem/1.25 var(--display);letter-spacing:.015em;margin:2.6rem 0 .8rem}
+h2::before{content:"";display:inline-block;width:.5em;height:.5em;margin:0 .55em .12em 0;background:var(--sb);border-radius:2px;transform:rotate(45deg)}
+h3{font:700 1.16rem/1.45 var(--serif);margin:1.6rem 0 .5rem}
+h4{font:italic 600 1.1rem/1.4 var(--serif);margin:1.2rem 0 .4rem}
+ul{padding-left:1.3rem}
+li{margin:.25rem 0}
+li::marker{color:var(--sb)}
+blockquote{margin:.9rem 0 1.3rem;padding:.9rem 1.2rem 1rem;background:#FFFBEC;border:1px solid #E2D2A8;border-left:.32rem solid var(--sb);border-radius:.2rem;box-shadow:0 .2rem 0 #E6D8B4,0 .7rem 1rem -.7rem rgba(60,40,15,.5);font-size:1.08rem}
 blockquote p{margin:0}
-blockquote cite{display:block;margin-top:.3rem;font:normal .8em/1.4 system-ui,sans-serif;color:var(--muted)}
-.muted{color:var(--muted)}
-.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:.6rem;list-style:none;padding:0;margin:0 0 1rem}
-.tiles.wide{grid-template-columns:repeat(auto-fill,minmax(15rem,1fr))}
+blockquote cite{display:block;margin-top:.4rem;font:700 .92rem/1.4 var(--sans);font-style:normal;color:var(--cdd)}
+
+/* Главная: зал. Утренний свет из окна, лампады, ниши со свитками. */
+.hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.lead{max-width:34rem;margin:0;font:400 1.25rem/1.5 var(--serif);color:var(--ink)}
+.scene{position:relative;width:17rem;height:19rem;justify-self:end}
+.window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
+background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
+box-shadow:0 0 0 .55rem var(--frame),0 0 0 .7rem #B9A57D,inset 0 1.2rem 1.6rem -.4rem rgba(40,25,10,.55),inset 1rem 0 1.2rem -.8rem rgba(40,25,10,.4)}
+.window::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent calc(50% - .2rem),#4A2D18 calc(50% - .2rem) calc(50% + .2rem),transparent calc(50% + .2rem)),linear-gradient(180deg,transparent 50%,#4A2D18 50% calc(50% + .4rem),transparent calc(50% + .4rem))}
+.sill{position:absolute;left:0;right:0;bottom:0;height:1.2rem;border-radius:.25rem .25rem .5rem .5rem;background:linear-gradient(180deg,#F6EDD3,#D6C5A0 55%,#B9A57D);box-shadow:0 .7rem .9rem -.4rem rgba(40,25,10,.55)}
+.sill>*{position:absolute;bottom:100%;margin-bottom:-.2rem}
+.sill img{display:block;width:100%;height:auto;filter:drop-shadow(.3rem .35rem .25rem rgba(40,25,10,.45))}
+.jar{left:1.2rem;width:3.1rem}
+.lamp{left:4.9rem;width:6.2rem}
+.ink{left:11.7rem;width:3.4rem}
+.glow{position:absolute;left:88%;top:66%;width:15rem;height:15rem;transform:translate(-50%,-50%);border-radius:50%;pointer-events:none;
+background:radial-gradient(circle,rgba(255,196,96,.62),rgba(255,160,60,.2) 38%,rgba(255,150,50,0) 68%);animation:glow 3.4s ease-in-out infinite}
+.flame{position:absolute;left:88.5%;top:67%;width:.75rem;height:1.35rem;transform:translate(-50%,-92%);transform-origin:50% 100%;border-radius:50% 50% 50% 50%/70% 70% 30% 30%;
+background:radial-gradient(ellipse at 50% 72%,#FFF8D0 0 18%,#FFD060 42%,#FF9A2A 72%,rgba(255,110,20,0) 100%);filter:blur(.4px);animation:flicker 2.7s ease-in-out infinite}
+.reed{position:absolute;left:46%;top:24%;width:.28rem;height:6.4rem;transform:translate(-50%,-100%) rotate(17deg);transform-origin:50% 100%;
+background:linear-gradient(90deg,#6E4F1E,#D9B866 45%,#8A6428);clip-path:polygon(0 0,100% 0,100% 94%,50% 100%,0 94%)}
+.rays{position:absolute;right:7rem;top:3rem;width:1px;height:1px;pointer-events:none;z-index:2}
+.rays i{position:absolute;top:0;right:0;width:8rem;height:48rem;transform-origin:100% 0;transform:rotate(var(--a));filter:blur(8px);mix-blend-mode:soft-light;
+background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
+.rays i:nth-child(1){--a:-40deg}
+.rays i:nth-child(2){--a:-54deg;width:5rem}
+.rays i:nth-child(3){--a:-68deg;width:10rem}
+@keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
+@keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
+.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
+.wall-lamp .lamp{position:relative;left:auto;width:100%}
+.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
+.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
+.jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
+.jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
+background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.jump a{display:inline-flex;align-items:center;min-height:44px;padding:0 1.2rem;text-decoration:none}
+.jump a:hover{background-color:#F6E9C2}
+.search{display:block;width:100%;max-width:34rem;margin:.4rem 0 1.2rem;padding:.75rem 1.1rem;font-weight:400}
+.search::placeholder{color:var(--ink2);opacity:1}
+.search:focus{border-color:var(--ink)}
+.testament{position:relative;display:flex;flex-direction:column;gap:2.4rem;margin:3rem 0 0}
+.testament>h2{display:flex;align-items:center;gap:1rem;margin:0;font:700 clamp(2rem,3.6vw,2.7rem)/1.1 var(--display);letter-spacing:.02em}
+.testament>h2::before{display:none}
+.testament>h2::after{content:"";flex:1;height:.4rem;border-top:2px solid var(--wood);border-bottom:1px solid var(--wood);opacity:.6}
+main section[hidden],.scrolls li[hidden],.tiles li[hidden]{display:none}
+
+/* Ниша раздела: драпировка цвета раздела, внутри на досках лежат свитки. */
+.group{position:relative;overflow:hidden;min-width:0;border:.55rem solid var(--frame);border-radius:1.6rem 1.6rem .3rem .3rem;
+background:linear-gradient(180deg,rgba(40,24,10,0),rgba(40,24,10,.14)),var(--noise),color-mix(in srgb,var(--c) 7%,#CDBB93);
+box-shadow:0 0 0 1px #B9A57D,inset 0 1.1rem 1.6rem -.5rem rgba(35,20,8,.55),inset 1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),inset -1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),0 .7rem 1.1rem -.5rem rgba(50,30,10,.5)}
+.group>h3{position:relative;z-index:3;display:flex;align-items:center;gap:.7rem;margin:0;padding:.65rem 1.3rem .6rem;background:var(--weave),var(--sb);color:var(--sf);font:700 1.45rem/1.15 var(--display);letter-spacing:.02em;filter:drop-shadow(0 .35rem .3rem rgba(25,12,0,.45))}
+.group>h3::after,.book-head::after{content:"";position:absolute;left:0;right:0;top:100%;height:.62rem;background:radial-gradient(circle at 50% 0,var(--sb) 0 .5rem,transparent .52rem) 0 0/1.1rem .62rem repeat-x}
+.emblem{width:1.9rem;height:1.9rem;flex:none;color:var(--sf)}
+
+/* Свиток: пергамент на двух деревянных валиках, на шипах - ленточка цвета раздела, справа - печать с числом уроков. */
+.scrolls{--h:3.4rem;--board:.62rem;display:flex;flex-wrap:wrap;align-items:flex-start;column-gap:1.3rem;row-gap:var(--board);list-style:none;margin:0;padding:1.5rem 1.2rem var(--board);
+background:repeating-linear-gradient(180deg,transparent 0 var(--h),#2C1A0C var(--h) calc(var(--h) + 1px),#8A5A32 calc(var(--h) + 1px) calc(var(--h) + 3px),#6B4426 calc(var(--h) + 3px) calc(var(--h) + var(--board))) 0 0/100% calc(100% + var(--board)) no-repeat;
+background-origin:content-box;background-clip:padding-box}
+.scrolls li{position:relative;height:var(--h);margin:0;padding:0 .95rem;max-width:100%;transition:transform .18s ease;animation:rise .45s ease backwards;animation-delay:calc(var(--i) * 12ms);filter:drop-shadow(0 .18rem .12rem rgba(20,10,0,.4))}
+.scrolls li::before,.scrolls li::after{content:"";position:absolute;top:0;bottom:0;width:.95rem;
+background:radial-gradient(circle at 50% .45rem,#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) top/100% .95rem no-repeat,
+radial-gradient(circle at 50% calc(100% - .45rem),#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) bottom/100% .95rem no-repeat,
+linear-gradient(var(--sb),var(--sb)) 50% 1rem/.56rem .3rem no-repeat,
+linear-gradient(90deg,#3F2614,#B07C48 35%,#7A4E2B 65%,#3F2614) center/.42rem 100% no-repeat}
+.scrolls li::before{left:0}
+.scrolls li::after{right:0}
+.scrolls a,.scrolls li.empty>span{display:flex;align-items:center;gap:.7rem;height:calc(var(--h) - 1rem);margin:.5rem 0;padding:0 .8rem 0 1.25rem;white-space:nowrap;font:700 1.14rem/1 var(--display);letter-spacing:.015em}
+.scrolls a{position:relative;z-index:1;color:var(--ink);text-decoration:none;animation:unroll .4s cubic-bezier(.3,.7,.3,1) backwards;animation-delay:calc(var(--i) * 12ms + 80ms);
+background:linear-gradient(180deg,rgba(104,66,22,.36),rgba(104,66,22,0) 20%,rgba(104,66,22,0) 78%,rgba(104,66,22,.44)),linear-gradient(rgba(255,248,226,.5),rgba(255,248,226,.5)),url(img/parchment.webp) #EBD8A8;
+box-shadow:inset 0 0 .7rem rgba(120,80,25,.4)}
+.scrolls a::before,.scrolls a::after{content:"";position:absolute;top:0;bottom:0;width:1.15rem;border-radius:.5rem;
+background:repeating-linear-gradient(90deg,rgba(90,60,20,.2) 0 1px,transparent 1px 3px),linear-gradient(90deg,#8E6D3A 0,#E8D3A0 30%,#F5E8C4 50%,#D8BF86 76%,#7F5F2E 100%);box-shadow:0 0 .35rem rgba(60,35,10,.5)}
+.scrolls a::before{left:-.62rem}
+.scrolls a::after{right:-.62rem}
+.scrolls li:hover,.scrolls li:has(a:focus-visible){transform:translateY(-.22rem)}
+.scrolls a:focus-visible{outline-offset:.6rem}
+.scrolls .count{position:relative;z-index:2;display:grid;place-items:center;min-width:1.85rem;height:1.85rem;padding:0 .3rem;border-radius:52% 48% 55% 45%/48% 55% 45% 52%;
+background:radial-gradient(circle at 35% 30%,var(--sb),color-mix(in srgb,var(--sb) 72%,#000));color:var(--sf);font:700 .9rem/1 var(--sans);letter-spacing:0;box-shadow:inset 0 1px 1px rgba(255,255,255,.4),0 .1rem .2rem rgba(0,0,0,.4)}
+.scrolls li.empty{padding:0 .3rem}
+.scrolls li.empty::before,.scrolls li.empty::after{display:none}
+.scrolls li.empty>span{border:1.5px dashed rgba(63,38,20,.65);border-radius:.4rem;color:var(--ink2);background:rgba(255,248,230,.22)}
+@keyframes unroll{from{clip-path:inset(0 50%)}to{clip-path:inset(0 0)}}
+@keyframes rise{from{opacity:0;transform:translateY(.6rem)}to{opacity:1;transform:none}}
+
+/* Страница книги: драпировка с названием и бирки уроков. */
+.book-head{position:relative;display:flex;align-items:center;gap:1.3rem;margin:0 0 2.2rem;padding:1.4rem 1.7rem;border-radius:.4rem .4rem 0 0;background:var(--weave),var(--sb);color:var(--sf);filter:drop-shadow(0 .45rem .35rem rgba(25,12,0,.4))}
+.book-head .emblem{width:4.2rem;height:4.2rem}
+.book-head h1{margin:0;color:var(--sf);font:700 clamp(2rem,4.4vw,3.1rem)/1.05 var(--display)}
+.meta{margin:.35rem 0 0;font:700 1.05rem/1.4 var(--sans);color:var(--sf)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));gap:.9rem;list-style:none;padding:0;margin:0 0 1rem}
 .tiles li{margin:0}
-.tiles a,.tiles li.empty{display:flex;align-items:center;justify-content:space-between;gap:.6rem;height:100%;min-height:4.5rem;
-padding:.8rem 1rem;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg);
-font:600 16px/1.35 system-ui,sans-serif}
-.tiles a{text-decoration:none;box-shadow:0 1px 2px rgba(0,0,0,.04);transition:border-color .15s,box-shadow .15s,transform .05s}
-.tiles a:hover{border-color:var(--accent);box-shadow:0 4px 14px rgba(0,0,0,.08)}
-.tiles a:active{transform:translateY(1px)}
-.tiles a>span:first-child,.tiles li.empty>span{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
-.tiles .count{color:var(--accent);font-size:.9em}
-.tiles li.empty{color:var(--muted);opacity:.55}
-.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;padding:.55rem 1.1rem;
-border:1px solid var(--accent);border-radius:10px;background:var(--card);color:var(--accent);font:600 15px/1.3 system-ui,sans-serif;
-text-decoration:none;cursor:pointer;box-shadow:0 1px 0 rgba(0,0,0,.06);transition:background .15s,color .15s,transform .05s}
-.btn:hover,details.download summary:hover{background:var(--accent);color:#fff}
-.btn:active,details.download summary:active{transform:translateY(1px)}
-.btn.primary{background:var(--accent);color:#fff}
-.btn.primary:hover{background:#6f3a20}
-.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3rem}
-.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;text-align:left}
+.tiles a{display:flex;align-items:center;height:100%;min-height:4.6rem;padding:.85rem 1rem .85rem 1.2rem;border-left:.5rem solid var(--sb);border-radius:.35rem;color:var(--ink);font:700 1.1rem/1.3 var(--serif);text-decoration:none;
+background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),url(img/parchment.webp) var(--parch);box-shadow:inset 0 0 .7rem rgba(120,85,35,.28),0 .15rem 0 #B9A276,0 .6rem .9rem -.5rem rgba(60,40,15,.55);transition:transform .15s}
+.tiles a:hover{transform:translateY(-.15rem)}
+.tiles .chapters{display:block;margin-top:.3rem;color:var(--cdd);font:700 .95rem/1.3 var(--sans)}
+
+/* Урок: содержание, кнопки. */
+.toc{margin:0 0 1.4rem;padding:.2rem 1.1rem;border:1px solid #D9C89E;border-radius:.3rem;background:#FFFBEC;font:400 1.02rem/1.5 var(--sans)}
+.toc summary{display:flex;align-items:center;min-height:44px;cursor:pointer;font-weight:700}
+.toc ol{margin:.3rem 0 .7rem;padding-left:1.4rem}
+.toc li::marker{color:var(--cdd);font-weight:700}
+.toc a{color:var(--ink);text-decoration:none}
+.toc a:hover{color:var(--cdd);text-decoration:underline}
+.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
+background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.btn:hover,details.download summary:hover{background-color:#F6E9C2}
+.btn.primary{background:var(--weave),var(--sb);border-color:color-mix(in srgb,var(--sb) 60%,#000);color:var(--sf)}
+.btn.primary:hover{background:var(--weave),color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3.5rem}
+.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;padding:.8rem 1rem;text-align:left}
 .pager .pager-next{align-items:flex-end;text-align:right}
 .pager .pager-section{align-items:center;justify-content:center;text-align:center}
-.pager .dir{font-size:.8em;font-weight:500;opacity:.85}
-.pager .name{font-weight:600}
-.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;
-pointer-events:none;z-index:5}
-.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;
-border-radius:50%;background:var(--accent);color:#fff;font:700 1.4rem/1 system-ui,sans-serif;text-decoration:none;
-cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.25);opacity:.92}
-.fab:hover{opacity:1;background:#6f3a20}
-.fab.next{margin-left:auto}
-.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);
-transition:opacity .2s,transform .2s,visibility .2s}
-.fab.top.visible{opacity:.92;visibility:visible;transform:none}
-@media(max-width:640px){.pager{grid-template-columns:1fr}.pager>span{display:none}
-.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}}
+.pager .dir{font-size:.9rem;font-weight:700}
+.pager .name{font:700 1.05rem/1.3 var(--serif);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
 details.download{position:relative}
-details.download summary{list-style:none;padding:.4rem 1rem}
+details.download summary{list-style:none}
 details.download summary::-webkit-details-marker{display:none}
-details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;
-padding:.3rem;background:var(--card);border:1px solid var(--line);border-radius:8px;box-shadow:0 6px 20px rgba(0,0,0,.08)}
-details.download .menu a{padding:.45rem .7rem;border-radius:6px;text-decoration:none;color:var(--fg)}
-details.download .menu a:hover{background:var(--quote)}
-@media print{header.top,.pager,.float{display:none}}
+details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;padding:.3rem;background:var(--sheet);border:1px solid #BFA97E;border-radius:.3rem;box-shadow:0 12px 28px -12px rgba(40,25,10,.55)}
+details.download .menu a{display:flex;align-items:center;min-height:44px;padding:.45rem .8rem;border-radius:.2rem;color:var(--ink);text-decoration:none}
+details.download .menu a:hover{background:#F0E3BE}
+
+/* Плавающие кнопки. */
+.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;pointer-events:none;z-index:25}
+.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;border-radius:50%;background:var(--sb);color:var(--sf);font:700 1.3rem/1 var(--sans);text-decoration:none;cursor:pointer;box-shadow:inset 0 1px 1px rgba(255,255,255,.35),0 8px 20px -6px rgba(40,25,10,.6)}
+.fab:hover{background:color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.fab.next{margin-left:auto}
+.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .2s,transform .2s,visibility .2s;pointer-events:auto;z-index:25}
+.fab.top.visible{opacity:1;visibility:visible;transform:none}
+.credits{max-width:68rem;margin:0 auto;padding:1.2rem 2.4rem 1.5rem;font:400 .95rem/1.5 var(--sans);color:var(--ink);background:var(--stone);border-inline:1.1rem solid #A98B5E}
+@media(max-width:1180px){.credits{padding-inline:1.25rem;border-inline-width:.5rem}}
+
+/* Скачанный документ без декора. */
+body.plain{background:#fff}
+body.plain::before{display:none}
+body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
+body.plain main::before{display:none}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+@media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
+@media(max-width:640px){
+body{font-size:1.12rem}
+:root{--px:1.1rem;--py:1.4rem}
+main:not(.wide){margin:0 auto 5rem;border-radius:0}
+.pager{grid-template-columns:1fr}.pager>span{display:none}
+.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}
+.fab{width:2.75rem;height:2.75rem}.fab.prev,.fab.next{display:none}.fab.top{bottom:1rem;right:.5rem}
+.testament{gap:2rem}
+.group{border-width:.4rem;border-radius:1.2rem 1.2rem .25rem .25rem}
+.group>h3{padding:.55rem 1rem .5rem;font-size:1.3rem}
+.scrolls{--h:3.9rem;column-gap:.8rem;padding:1.4rem .55rem var(--board)}
+.scrolls li{padding:0 .8rem}
+.scrolls li::before,.scrolls li::after{width:.8rem}
+.scrolls a,.scrolls li.empty>span{gap:.5rem;padding:0 .55rem 0 1rem;font-size:1rem}
+.scrolls a::before,.scrolls a::after{width:1rem}
+.scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
+.scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
+.book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
+@media(max-height:500px){header.top{position:static}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+@media print{body{background:#fff}body::before{display:none}header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
-<body>
+<body class="plain">
 <main>
-<h1>16. Соломон (990 – 928 г. до Р.Х.)</h1>
-<h2>1) Предназначение народа Божьего – познание и передача Слово Божье, Завета, Христос, Ханаан, Всемирная Евангелизация, ученики, приход Христа. Рим. 3:2 Быт. 1:27,2:7,17 (Быт. 3:1-7, - Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h2>
+<h1>11. 1-е Цар. 27–31: Грех Давида, смерть Самуила и Саула</h1>
+<h2 id="s1">1) Предназначение народа Божьего – познание и передача Слово Божье, Завета, Христос, Ханаан, Всемирная Евангелизация, ученики, приход Христа. Рим. 3:2 Быт. 1:27,2:7,17 (Быт. 3:1-7, - Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h2>
 <blockquote><p>Великое преимущество во всех отношениях, а наипаче <em>в</em> <em>том,</em> что им вверено слово Божие.</p><cite>Рим. 3:2</cite></blockquote>
 <blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
 <blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
@@ -86,69 +253,78 @@ details.download .menu a:hover{background:var(--quote)}
 <blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
 <blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
 <blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<ul>
-<li>Адам – Сиф – Ной – Авраам – 12 колен Израиля – Моисей – Иисус Навин – Самуил – Давид – Соломон (род Завета, Христос)</li>
-</ul>
-<h2>2) 3-е Цар.1-2 (2:12-46), - действие сатана, противление Слово Божье</h2>
-<blockquote><p>И сел Соломон на престоле Давида, отца своего, и царствование его было очень твердо. И пришел Адония, сын Аггифы, к Вирсавии, матери Соломона, . Она сказала: с миром ли приход твой? И сказал он: с миром. И сказал он: у меня есть слово к тебе. Она сказала: говори. И сказал он: ты знаешь, что царство принадлежало мне, и весь Израиль обращал на меня взоры свои, как на будущего царя; но царство отошло от меня и досталось брату моему, ибо от Господа это было ему; теперь я прошу тебя об одном, не откажи мне. Она сказала ему: говори. И сказал он: прошу тебя, поговори царю Соломону, ибо он не откажет тебе, чтоб он дал мне Ависагу Сунамитянку в жену. И сказала Вирсавия: хорошо, я поговорю о тебе царю. И вошла Вирсавия к царю Соломону говорить ему об Адонии. Царь встал перед нею, и поклонился ей, и сел на престоле своем. Поставили престол и для матери царя, и она села по правую руку его и сказала: я имею к тебе одну небольшую просьбу, не откажи мне. И сказал ей царь: проси, мать моя; я не откажу тебе. И сказала она: дай Ависагу Сунамитянку Адонии, брату твоему, в жену. И отвечал царь Соломон и сказал матери своей: а зачем ты просишь Ависагу Сунамитянку для Адонии? проси ему <em>также</em> и царства; ибо он мой старший брат, и ему священник Авиафар и Иоав, сын Саруин, . И поклялся царь Соломон Господом, говоря: то и то пусть сделает со мною Бог и еще больше сделает, если не на свою душу сказал Адония такое слово; ныне же, -- жив Господь, укрепивший меня и посадивший меня на престоле Давида, отца моего, и устроивший мне дом, как говорил Он, -- ныне же Адония должен умереть. И послал царь Соломон Ванею, сына Иодаева, который поразил его, и он умер. А священнику Авиафару царь сказал: ступай в Анафоф на твое поле; ты достоин смерти, но в настоящее время я не умерщвлю тебя, ибо ты носил ковчег Владыки Господа пред Давидом, отцом моим, и терпел все, что терпел отец мой. И удалил Соломон Авиафара от священства Господня, и исполнилось слово Господа, которое сказал Он о доме Илия в Силоме. Слух <em>об</em> <em>этом</em> дошел до Иоава, -- так как Иоав склонялся на сторону Адонии, а на сторону Соломона не склонялся, -- и убежал Иоав в скинию Господню и ухватился за роги жертвенника. И донесли царю Соломону, что Иоав убежал в скинию Господню и что он у жертвенника. И послал Соломон Ванею, сына Иодаева, говоря: пойди, умертви его . И пришел Ванея в скинию Господню и сказал ему: так сказал царь: выходи. И сказал тот: нет, я хочу умереть здесь. Ванея передал это царю, говоря: так сказал Иоав, и так отвечал мне. Царь сказал ему: сделай, как он сказал, и умертви его и похорони его, и сними невинную кровь, пролитую Иоавом, с меня и с дома отца моего; да обратит Господь кровь его на голову его за то, что он убил двух мужей невинных и лучших его: поразил мечом, без ведома отца моего Давида, Авенира, сына Нирова, военачальника Израильского, и Амессая, сына Иеферова, военачальника Иудейского; да обратится кровь их на голову Иоава и на голову потомства его на веки, а Давиду и потомству его, и дому его и престолу его да будет мир на веки от Господа! И пошел Ванея, сын Иодаев, и поразил Иоава, и умертвил его, и он был похоронен в доме своем в пустыне. И поставил царь Соломон Ванею, сына Иодаева, вместо его над войском; а Садока священника поставил царь вместо Авиафара.  И послав царь призвал Семея и сказал ему: построй себе дом в Иерусалиме и живи здесь, и никуда не выходи отсюда; и знай, что в тот день, в который ты выйдешь и перейдешь поток Кедрон, непременно умрешь; кровь твоя будет на голове твоей. И сказал Семей царю: хорошо; как приказал господин мой царь, так сделает раб твой. И жил Семей в Иерусалиме долгое время. Но через три года случилось, что у Семея двое рабов убежали к Анхусу, сыну Маахи, царю Гефскому. И сказали Семею, говоря: вот, рабы твои в Гефе. И встал Семей, и оседлал осла своего, и отправился в Геф к Анхусу искать рабов своих. И возвратился Семей и привел рабов своих из Гефа. И донесли Соломону, что Семей ходил из Иерусалима в Геф и возвратился. И послав призвал царь Семея и сказал ему: не клялся ли я тебе Господом и не объявлял ли тебе, говоря: "знай, что в тот день, в который ты выйдешь и пойдешь куда-нибудь, непременно умрешь"? и ты сказал мне: "хорошо"; зачем же ты не соблюл приказания, которое я дал тебе пред Господом с клятвою? И сказал царь Семею: ты знаешь и знает сердце твое все зло, какое ты сделал отцу моему Давиду; да обратит же Господь злобу твою на голову твою! а царь Соломон да будет благословен, и престол Давида да будет непоколебим пред Господом во веки! и повелел царь Ванее, сыну Иодаеву, и он пошел и поразил Семея, и тот умер.</p><cite>3-е Цар. 2:12-46</cite></blockquote>
-<h3>(1) Адония, Иоав, Авиафар – противление Слово Божье, политич. интриги, действие сатана, исполнение Слово Божье</h3>
-<h4>(а) Адония, сын Давида – последствия поступка Давида</h4>
-<h4>(б) Иоав – военачальник Давида, свои мотивы</h4>
-<h4>(в) Авиафар – род священника Илии, исполнение Слово Божье</h4>
-<h3>(2) Садок, Ванея, Нафан – понимание и исполнение Слово Божье</h3>
-<h4>(а) Садок – Первосвященник</h4>
-<h4>(б) Ванея – военачальник Давида</h4>
-<h4>(в) Нафан – Божий пророк</h4>
-<h3>(3) 3-е Цар. 2:1-3,1-е Пар. 28, - завещание Давида</h3>
-<blockquote><p>Приблизилось время умереть Давиду, и завещал он сыну своему Соломону, говоря: вот, я отхожу в путь всей земли, ты же будь тверд и будь мужествен и храни завет Господа Бога твоего, ходя путями Его и соблюдая уставы Его и заповеди Его, и определения Его и постановления Его, как написано в законе Моисеевом, чтобы быть тебе благоразумным во всем, что ни будешь делать, и везде, куда ни обратишься;</p><cite>3-е Цар. 2:1-3</cite></blockquote>
-<h4>(а) Важность Слово Божье, Завета, Христос, чистота учения</h4>
-<h4>(б) Важность понимания и исполнения предназначения</h4>
-<h2>3) 2-е Пар.1-7, - понимание Слово Божье, Завета, Христос</h2>
-<h3>(1) 2-е Пар. 1:1-6, - понимание Слово Божье, Завета, Христос</h3>
-<blockquote><p>И утвердился Соломон, сын Давидов, в царстве своем; и Господь Бог его <em>был</em> с ним, и вознес его высоко. И приказал Соломон <em>собраться</em> всему Израилю: тысяченачальникам и стоначальникам, и судьям, и всем начальствующим во всем Израиле -- главам поколений. И пошли Соломон и все собрание с ним на высоту, что в Гаваоне, ибо там была Божия скиния собрания, которую устроил Моисей, раб Господень, в пустыне. Ковчег Божий принес Давид из Кириаф-Иарима на место, которое приготовил для него Давид, устроив для него скинию в Иерусалиме. А медный жертвенник, который сделал Веселеил, сын Урия, сына Орова, <em>оставался</em> там, пред скиниею Господнею, и взыскал его Соломон с собранием. И там пред лицем Господа, на медном жертвеннике, который пред скиниею собрания, вознес Соломон тысячу всесожжений.</p><cite>2-е Пар. 1:1-6</cite></blockquote>
-<h4>(а) Важность правильного Богослужения – утверждение народа</h4>
-<h4>(б) Жертвенник, Жертва – понимание Жертвы, Подвига Христа</h4>
-<h3>(2) 2-е Пар. 1:7-13, - важность понимания Слово Божье, Завета, Христос</h3>
-<blockquote><p>В ту ночь явился Бог Соломону и сказал ему: проси, что Мне дать тебе. И сказал Соломон Богу: Ты сотворил Давиду, отцу моему, великую милость и поставил меня царем вместо него. Да исполнится же, Господи Боже, слово Твое к Давиду, отцу моему. Так как Ты воцарил меня над народом многочисленным, как прах земной, то ныне дай мне премудрость и знание, чтобы я <em>умел</em> выходить пред народом сим и входить, ибо кто может управлять сим народом Твоим великим? И сказал Бог Соломону: за то, что это было на сердце твоем, и ты не просил богатства, имения и славы и души неприятелей твоих, и также не просил ты многих дней, а просил себе премудрости и знания, чтобы управлять народом Моим, над которым Я воцарил тебя, премудрость и знание дается тебе, а богатство и имение и славу Я дам тебе такие, подобных которым не бывало у царей прежде тебя и не будет после тебя. И пришел Соломон с высоты, что в Гаваоне, от скинии собрания, в Иерусалим и царствовал над Израилем.</p><cite>2-е Пар. 1:7-13</cite></blockquote>
-<h4>(а) Важность правильной молитвы – исполнение предназнач</h4>
-<h4>(б) Служение Бог, исполнение предназнач. – все ответы. Мф. 6:33</h4>
-<blockquote><p>Ищите же прежде Царства Божия и правды Его, и это все приложится вам.</p><cite>Мф. 6:33</cite></blockquote>
-<h3>(3) 2-е Пар.2-6, - понимание и исполнение Слово Божье, Завета, Христос</h3>
-<h4>(а) Постройка Храма – познание, передача Слово Божье, Завета, Христос, Всемирная Евангелизация</h4>
-<h4>(б) Внесение Ковчега Завета в Храм – понимание Слово Божье, Завета, Христос</h4>
-<h4>(в) Прекращение существования Скинии Моисея – Храм</h4>
-<h4>(г) Прекращение существования Скинии Давида – Храм</h4>
-<h4>(д) Восстановление Скинии Давида в будущем – Жертва Христа, свободный доступ в Ц.Н. для всякого человека. Дн. 15:13-17</h4>
-<blockquote><p>После же того, как они умолкли, начал речь Иаков и сказал: мужи братия! послушайте меня. Симон изъяснил, как Бог первоначально призрел на язычников, чтобы составить из них народ во имя Свое. И с сим согласны слова пророков, как написано: Потом обращусь и воссоздам скинию Давидову падшую, и то, что в ней разрушено, воссоздам, и исправлю ее, чтобы взыскали Господа прочие человеки и все народы, между которыми возвестится имя Мое, говорит Господь, творящий все сие.</p><cite>Дн. 15:13-17</cite></blockquote>
-<h3>(4) 2-е Пар.6, - важность Слово Божье, Завета, Христос для человека</h3>
-<h4>(а) Понимание проблемы человека. 2-е Пар. 6:32,36 (32)</h4>
-<blockquote><p>Даже и иноплеменник, который не от народа Твоего Израиля, когда он придет из земли далекой ради имени Твоего великого и руки Твоей могущественной и мышцы Твоей простертой, и придет и будет молиться у храма сего,</p><cite>2-е Пар. 6:32</cite></blockquote>
-<h4>(б) Принятие Слово Божье, Завета, Христос – решение всех проблем человека</h4>
-<h3>(5) 2-е Пар.7, - важность понимания и исполнения предназач</h3>
-<h4>(а) Освящение Храма – Жертва, Христос, Всемирная Евангелизация 2-е Пар. 7:5</h4>
-<blockquote><p>И принес царь Соломон в жертву двадцать две тысячи волов и сто двадцать тысяч овец: так освятили дом Божий царь и весь народ.</p><cite>2-е Пар. 7:5</cite></blockquote>
-<h4>(б) Важность исполнение предназначения. 2-е Пар. 7:19-22</h4>
-<blockquote><p>Если же вы отступите и оставите уставы Мои и заповеди Мои, которые Я дал вам, и пойдете и станете служить богам иным и поклоняться им, то Я истреблю <em>Израиля</em> с лица земли Моей, которую Я дал им, и храм сей, который Я освятил имени Моему, отвергну от лица Моего и сделаю его притчею и посмешищем у всех народов. И о храме сем высоком всякий, проходящий мимо него, ужаснется и скажет: за что поступил так Господь с землею сею и с храмом сим? И скажут: за то, что они оставили Господа, Бога отцов своих, Который вывел их из земли Египетской, и прилепились к богам иным, и поклонялись им, и служили им, -- за то Он навел на них все это бедствие.</p><cite>2-е Пар. 7:19-22</cite></blockquote>
-<h2>4) 3-е Цар. 11:1-11 (Исх. 34:11-16,Втор. 7:1-5), - «свои методы»</h2>
-<blockquote><p>И полюбил царь Соломон многих чужестранных женщин, кроме дочери фараоновой, Моавитянок, Аммонитянок, Идумеянок, Сидонянок, Хеттеянок, из тех народов, о которых Господь сказал сынам Израилевым: "не входите к ним, и они пусть не входят к вам, чтобы они не склонили сердца вашего к своим богам"; к ним прилепился Соломон любовью. И было у него семьсот жен и триста наложниц; и развратили жены его сердце его. Во время старости Соломона жены его склонили сердце его к иным богам, и сердце его не было вполне предано Господу Богу своему, как сердце Давида, отца его. И стал Соломон служить Астарте, божеству Сидонскому, и Милхому, мерзости Аммонитской. И делал Соломон неугодное пред очами Господа и не вполне последовал Господу, как Давид, отец его. Тогда построил Соломон капище Хамосу, мерзости Моавитской, на горе, которая пред Иерусалимом, и Молоху, мерзости Аммонитской. Так сделал он для всех своих чужестранных жен, которые кадили и приносили жертвы своим богам. И разгневался Господь на Соломона за то, что он уклонил сердце свое от Господа Бога Израилева, Который два раза являлся ему и заповедал ему, чтобы он не следовал иным богам; но он не исполнил того, что заповедал ему Господь . И сказал Господь Соломону: за то, что так у тебя делается, и ты не сохранил завета Моего и уставов Моих, которые Я заповедал тебе, Я отторгну от тебя царство и отдам его рабу твоему;</p><cite>3-е Цар. 11:1-11</cite></blockquote>
-<blockquote><p>сохрани то, что повелеваю тебе ныне: вот, Я изгоняю от лица твоего Аморреев, Хананеев, Хеттеев, Ферезеев, Евеев, и Иевусеев;  смотри, не вступай в союз с жителями той земли, в которую ты войдешь, дабы они не сделались сетью среди вас.  Жертвенники их разрушьте, столбы их сокрушите, вырубите <em>священные</em> рощи их, ,  ибо ты не должен поклоняться богу иному, кроме Господа , потому что имя Его -- ревнитель; Он Бог ревнитель.  Не вступай в союз с жителями той земли, чтобы, когда они будут блудодействовать вслед богов своих и приносить жертвы богам своим, не пригласили и тебя, и ты не вкусил бы жертвы их;  и не бери из дочерей их жен сынам своим , дабы дочери их, блудодействуя вслед богов своих, не ввели и сынов твоих в блужение вслед богов своих.</p><cite>Исх. 34:11-16</cite></blockquote>
-<blockquote><p>Когда введет тебя Господь, Бог твой, в землю, в которую ты идешь, чтоб овладеть ею, и изгонит от лица твоего многочисленные народы, Хеттеев, Гергесеев, Аморреев, Хананеев, Ферезеев, Евеев и Иевусеев, семь народов, которые многочисленнее и сильнее тебя, и предаст их тебе Господь, Бог твой, и поразишь их, тогда предай их заклятию, не вступай с ними в союз и не щади их; и не вступай с ними в родство: дочери твоей не отдавай за сына его, и дочери его не бери за сына твоего; ибо они отвратят сынов твоих от Меня, чтобы служить иным богам, и <em>тогда</em> воспламенится на вас гнев Господа, и Он скоро истребит тебя. Но поступите с ними так: жертвенники их разрушьте, столбы их сокрушите, и рощи их вырубите, и истуканов их сожгите огнем;</p><cite>Втор. 7:1-5</cite></blockquote>
-<h3>(1) Всемирная Евангелизация через политику – крах (действие сатана)</h3>
-<h3>(2) Грехопадение Соломона – отказ от Слово Божье, Завета, Христос (Поклонение иным богам, отступничество, мерзость пред Богом)</h3>
-<h3>(3) Отказ от Слово Божье, Завета, Христос – проблемы потомкам</h3>
-<ul>
-<li>Грех к смерти – непринятие (отказ) от Слово Божье, Завета, Христос</li>
-<li>Грех не к смерти – нарушение Заповедей Закона</li>
-</ul>
-<h2>Заключение:</h2>
-<h3>(1) Важность понимания и исполнения предназначения. (Познание, передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация, приход Христос)</h3>
-<h3>(2) Важность точного исполнения Слово Божье для человека (будущее)</h3>
-<h3>(3) Важность понимания великой любви Бога к человеку – восстановление Соломона в спасении (Адам, Соломон, Галаты)</h3>
-<h4>(а) 2-е Цар. 7:12-15 (Пс. 137:2), - Божьи обетования Давиду</h4>
-<blockquote><p>Когда же исполнятся дни твои, и ты почиешь с отцами твоими, то Я восставлю после тебя семя твое, которое произойдет из чресл твоих, и упрочу царство его. Он построит дом имени Моему, и Я утвержу престол царства его на веки. Я буду ему отцом, и он будет Мне сыном; и если он согрешит, Я накажу его жезлом мужей и ударами сынов человеческих; но милости Моей не отниму от него, как Я отнял от Саула, которого Я отверг пред лицем твоим.</p><cite>2-е Цар. 7:12-15</cite></blockquote>
-<blockquote><p>Поклоняюсь пред святым храмом Твоим и славлю имя Твое за милость Твою и за истину Твою, ибо Ты возвеличил слово Твое превыше всякого имени Твоего.</p><cite>Пс. 137:2</cite></blockquote>
-<h4>(б) 2-е Пет. 1:21, - книги Соломона, канон Библии</h4>
-<blockquote><p>Ибо никогда пророчество не было произносимо по воле человеческой, но изрекали его святые Божии человеки, будучи движимы Духом Святым.</p><cite>2-е Пет. 1:21</cite></blockquote>
+<h2 id="s2">2) 1-е Цар. 27, - Божий суверенитет и контроль</h2>
+<h3>(1) 1-е Цар. 27:1-7, - филистимляне, Анхус, Секелаг. (Влияние остатков греховной сущности Давида, страх)</h3>
+<blockquote><p>И сказал Давид в сердце своем: когда-нибудь попаду я в руки Саула, и нет для меня ничего лучшего, как убежать в землю Филистимскую; и отстанет от меня Саул <em>и</em> <em>не</em> <em>будет</em> искать меня более по всем пределам Израильским, и я спасусь от руки его. И встал Давид, и отправился сам и шестьсот мужей, бывших с ним, к Анхусу, сыну Маоха, царю Гефскому. И жил Давид у Анхуса в Гефе, сам и люди его, каждый с семейством своим, Давид и обе жены его -- Ахиноама Изреелитянка и Авигея, <em>бывшая</em> жена Навала, Кармилитянка. И донесли Саулу, что Давид убежал в Геф, и не стал он более искать его. И сказал Давид Анхусу: если я приобрел благоволение в глазах твоих, то пусть дано будет мне место в одном из малых городов, и я буду жить там; для чего рабу твоему жить в царском городе вместе с тобою? Тогда дал ему Анхус Секелаг, посему Секелаг и остался за царями Иудейскими доныне. Всего времени, какое прожил Давид в стране Филистимской, было год и четыре месяца.</p><cite>1-е Цар. 27:1-7</cite></blockquote>
+<h3>(2) 1-е Цар. 27:8, - война Давида с языческими народами в Ханаане враждебными иудеям и филистимлянам</h3>
+<blockquote><p>И выходил Давид с людьми своими и нападал на Гессурян и Гирзеян и Амаликитян, которые издавна населяли эту страну до Сура и даже до земли Египетской.</p><cite>1-е Цар. 27:8</cite></blockquote>
+<h3>(3) 1-е Цар. 27:9, - непринятие Слово Божье, Завета, Христос, суд Божий над языческими народами Ханаана, исполнение Слово Божье Рим. 6:23</h3>
+<blockquote><p>И опустошал Давид ту страну, и не оставлял в живых ни мужчины, ни женщины, и забирал овец, и волов, и ослов, и верблюдов, и одежду; и возвращался, и приходил к Анхусу.</p><cite>1-е Цар. 27:9</cite></blockquote>
+<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
+<h3>(4) 1-е Цар. 27:10-11, - обман Давида Анхуса (война с иудеями), Божье допущение и суд над языч. (обстоятельства Давида)</h3>
+<blockquote><p>И сказал Анхус Давиду: на кого нападали ныне? Давид сказал: на полуденную страну Иудеи и на полуденную страну Иерахмеела и на полуденную страну Кенеи. И не оставлял Давид в живых ни мужчины, ни женщины, и не приводил в Геф, говоря: они могут донести на нас и сказать: "так поступил Давид, и таков образ действий его во все время пребывания в стране Филистимской".</p><cite>1-е Цар. 27:10-11</cite></blockquote>
+<h3>(5) 1-е Цар. 27:12, - радость Анхуса (дитя дьявол), война с народом Божьим (действие сатана, остановить передачу Слово Божье, Завета, Христос)</h3>
+<blockquote><p>И доверился Анхус Давиду, говоря: он опротивел народу своему Израилю и будет слугою моим вовек.</p><cite>1-е Цар. 27:12</cite></blockquote>
+<h2 id="s3">3) 1-е Цар. 28, - Божий суверенитет и контроль, судьба человека</h2>
+<h3>(1) 1-е Цар. 28:1-2, - действие сатана, остановить передачу Завета, Христос</h3>
+<blockquote><p>В то время Филистимляне собрали войска свои для войны, чтобы воевать с Израилем. И сказал Анхус Давиду: да будет тебе известно, что ты пойдешь со мною в ополчение, ты и люди твои. И сказал Давид Анхусу: ныне ты узнаешь, что сделает раб твой. И сказал Анхус Давиду: за то я сделаю тебя хранителем головы моей на все время.</p><cite>1-е Цар. 28:1-2</cite></blockquote>
+<h4>(а) Обольщение Давида, понимание права выбора человека</h4>
+<h4>(б) Грех Давида – попытка участия в войне против народа Бог</h4>
+<h3>(2) 1-е Цар. 28:3 (25:1), - смерть Самуила, исполнение предназнач</h3>
+<blockquote><p>И умер Самуил, и оплакивали его все Израильтяне и погребли его в Раме, в городе его. Саул же изгнал волшебников и гадателей из страны.</p><cite>1-е Цар. 28:3</cite></blockquote>
+<blockquote><p>И умер Самуил; и собрались все Израильтяне, и плакали по нем, и погребли его в доме его, в Раме. Давид встал и сошел к пустыне Фаран.</p><cite>1-е Цар. 25:1</cite></blockquote>
+<h4>(а) Сохранение и передача Слово Божье, Завета, Христос – Судей, Руфь, 1-е Цар</h4>
+<h4>(б) Ученик Давид (крах в детях – Бог избрание, ответствен. человек)</h4>
+<h4>(в) Самуил – прообраз Христа (Пророк, Судья и Священник)</h4>
+<h4>(г) Смерть Самуила – отсутствие духовного лидера</h4>
+<h3>(3) 1-е Цар. 28:4-25 (10:6,9,11:15) - Божий контроль спасения</h3>
+<blockquote><p>И собрались Филистимляне и пошли и стали станом в Сонаме; собрал и Саул весь народ Израильский, и стали станом на Гелвуе. И увидел Саул стан Филистимский и испугался, и крепко дрогнуло сердце его. И вопросил Саул Господа; но Господь не отвечал ему ни во сне, ни чрез урим, ни чрез пророков. Тогда Саул сказал слугам своим: сыщите мне женщину волшебницу, и я пойду к ней и спрошу ее. И отвечали ему слуги его: здесь в Аэндоре есть женщина волшебница. И снял с себя Саул одежды свои и надел другие, и пошел сам и два человека с ним, и пришли они к женщине ночью. И сказал ей <em>Саул:</em> прошу тебя, поворожи мне и выведи мне, о ком я скажу тебе. Но женщина отвечала ему: ты знаешь, что сделал Саул, как выгнал он из страны волшебников и гадателей; для чего же ты расставляешь сеть душе моей на погибель мне? И поклялся ей Саул Господом, говоря: жив Господь! не будет тебе беды за это дело. Тогда женщина спросила: кого же вывесть тебе? И отвечал он: Самуила выведи мне. И увидела женщина Самуила и громко вскрикнула; и обратилась женщина к Саулу, говоря: зачем ты обманул меня? ты -- Саул. И сказал ей царь: не бойся; что ты видишь? И отвечала женщина: вижу как бы бога, выходящего из земли. Какой он видом? -- спросил у нее <em>Саул.</em> Она сказала: выходит из земли муж престарелый, одетый в длинную одежду. Тогда узнал Саул, что это Самуил, и пал лицем на землю и поклонился. И сказал Самуил Саулу: для чего ты тревожишь меня, чтобы я вышел? И отвечал Саул: тяжело мне очень; Филистимляне воюют против меня, а Бог отступил от меня и более не отвечает мне ни чрез пророков, ни во сне, ; потому я вызвал тебя, чтобы ты научил меня, что мне делать. И сказал Самуил: для чего же ты спрашиваешь меня, когда Господь отступил от тебя и сделался врагом твоим? Господь сделает то, что говорил чрез меня; отнимет Господь царство из рук твоих и отдаст его ближнему твоему, Давиду. Так как ты не послушал гласа Господня и не выполнил ярости гнева Его на Амалика, то Господь и делает это над тобою ныне. И предаст Господь Израиля вместе с тобою в руки Филистимлян: завтра ты и сыны твои <em>будете</em> со мною, и стан Израильский предаст Господь в руки Филистимлян. Тогда Саул вдруг пал всем телом своим на землю, ибо сильно испугался слов Самуила; притом и силы не стало в нем, ибо он не ел хлеба весь тот день и всю ночь. И подошла женщина та к Саулу, и увидела, что он очень испугался, и сказала: вот, раба твоя послушалась голоса твоего и подвергала жизнь свою опасности и исполнила приказание, которое ты дал мне; теперь прошу, послушайся и ты голоса рабы твоей: я предложу тебе кусок хлеба, поешь, и будет в тебе крепость, когда пойдешь в путь. Но он отказался и сказал: не буду есть. И стали уговаривать его слуги его, а также и женщина; и он послушался голоса их, и встал с земли и сел на ложе. У женщины же был в доме откормленный теленок, и она поспешила заколоть его и, взяв муки, замесила и испекла опресноки, и предложила Саулу и слугам его, и они поели, и встали, и ушли в ту же ночь.</p><cite>1-е Цар. 28:4-25</cite></blockquote>
+<blockquote><p>и найдет на тебя Дух Господень, и ты будешь пророчествовать с ними и сделаешься иным человеком.</p><cite>1-е Цар. 10:6</cite></blockquote>
+<blockquote><p>Как скоро Саул обратился, чтоб идти от Самуила, Бог дал ему иное сердце, и сбылись все те знамения в тот же день.</p><cite>1-е Цар. 10:9</cite></blockquote>
+<blockquote><p>И пошел весь народ в Галгал, и поставили там Саула царем пред Господом в Галгале, и принесли там мирные жертвы пред Господом. И весьма веселились там Саул и все Израильтяне.</p><cite>1-е Цар. 11:15</cite></blockquote>
+<h4>(а) 1-е Цар. 28:4-6, - действия Саула, вера в Бога</h4>
+<blockquote><p>И собрались Филистимляне и пошли и стали станом в Сонаме; собрал и Саул весь народ Израильский, и стали станом на Гелвуе. И увидел Саул стан Филистимский и испугался, и крепко дрогнуло сердце его. И вопросил Саул Господа; но Господь не отвечал ему ни во сне, ни чрез урим, ни чрез пророков.</p><cite>1-е Цар. 28:4-6</cite></blockquote>
+<h4>(б) 1-е Цар. 28:7-15, - вера Саула, встреча с Самуилом, Бог допущ</h4>
+<blockquote><p>Тогда Саул сказал слугам своим: сыщите мне женщину волшебницу, и я пойду к ней и спрошу ее. И отвечали ему слуги его: здесь в Аэндоре есть женщина волшебница. И снял с себя Саул одежды свои и надел другие, и пошел сам и два человека с ним, и пришли они к женщине ночью. И сказал ей <em>Саул:</em> прошу тебя, поворожи мне и выведи мне, о ком я скажу тебе. Но женщина отвечала ему: ты знаешь, что сделал Саул, как выгнал он из страны волшебников и гадателей; для чего же ты расставляешь сеть душе моей на погибель мне? И поклялся ей Саул Господом, говоря: жив Господь! не будет тебе беды за это дело. Тогда женщина спросила: кого же вывесть тебе? И отвечал он: Самуила выведи мне. И увидела женщина Самуила и громко вскрикнула; и обратилась женщина к Саулу, говоря: зачем ты обманул меня? ты -- Саул. И сказал ей царь: не бойся; что ты видишь? И отвечала женщина: вижу как бы бога, выходящего из земли. Какой он видом? -- спросил у нее <em>Саул.</em> Она сказала: выходит из земли муж престарелый, одетый в длинную одежду. Тогда узнал Саул, что это Самуил, и пал лицем на землю и поклонился. И сказал Самуил Саулу: для чего ты тревожишь меня, чтобы я вышел? И отвечал Саул: тяжело мне очень; Филистимляне воюют против меня, а Бог отступил от меня и более не отвечает мне ни чрез пророков, ни во сне, ; потому я вызвал тебя, чтобы ты научил меня, что мне делать.</p><cite>1-е Цар. 28:7-15</cite></blockquote>
+<h4>(в) 1-е Цар. 28:16-19, - спасение Саула и его сыновей. (Завтра ты и сыны твои будете со мной, т.е. вместе с Самуилом)</h4>
+<blockquote><p>И сказал Самуил: для чего же ты спрашиваешь меня, когда Господь отступил от тебя и сделался врагом твоим? Господь сделает то, что говорил чрез меня; отнимет Господь царство из рук твоих и отдаст его ближнему твоему, Давиду. Так как ты не послушал гласа Господня и не выполнил ярости гнева Его на Амалика, то Господь и делает это над тобою ныне. И предаст Господь Израиля вместе с тобою в руки Филистимлян: завтра ты и сыны твои <em>будете</em> со мною, и стан Израильский предаст Господь в руки Филистимлян.</p><cite>1-е Цар. 28:16-19</cite></blockquote>
+<h4>(г) 1-е Цар. 28:20-25, - отказ от предназначения, тяжелая жизнь. (Судьба – Бог суверенитет, ответственность человека). Евр. 13:5</h4>
+<blockquote><p>Тогда Саул вдруг пал всем телом своим на землю, ибо сильно испугался слов Самуила; притом и силы не стало в нем, ибо он не ел хлеба весь тот день и всю ночь. И подошла женщина та к Саулу, и увидела, что он очень испугался, и сказала: вот, раба твоя послушалась голоса твоего и подвергала жизнь свою опасности и исполнила приказание, которое ты дал мне; теперь прошу, послушайся и ты голоса рабы твоей: я предложу тебе кусок хлеба, поешь, и будет в тебе крепость, когда пойдешь в путь. Но он отказался и сказал: не буду есть. И стали уговаривать его слуги его, а также и женщина; и он послушался голоса их, и встал с земли и сел на ложе. У женщины же был в доме откормленный теленок, и она поспешила заколоть его и, взяв муки, замесила и испекла опресноки, и предложила Саулу и слугам его, и они поели, и встали, и ушли в ту же ночь.</p><cite>1-е Цар. 28:20-25</cite></blockquote>
+<blockquote><p>Имейте нрав несребролюбивый, довольствуясь тем, что есть. Ибо Сам сказал: не оставлю тебя и не покину тебя,</p><cite>Евр. 13:5</cite></blockquote>
+<h2 id="s4">4) 1-е Цар. 29, - важность понимания Божьего суверенитета, понимание Божьего контроля жизни детей Божьих. Быт. 20:6</h2>
+<blockquote><p>И сказал ему Бог во сне: и Я знаю, что ты сделал сие в простоте сердца твоего, и удержал тебя от греха предо Мною, потому и не допустил тебя прикоснуться к ней;</p><cite>Быт. 20:6</cite></blockquote>
+<h3>(1) Грех Давида – попытка участия в войне против народа Бог</h3>
+<h3>(2) Изгнание Давида из войска Филистимлян – Бог контроль</h3>
+<h2 id="s5">5) 1-е Цар. 30, - понимание Божьего суверенитета и контроля</h2>
+<h3>(1) 1-е Цар. 30:1-6, - плен народа, Бог вразумление и воспитание</h3>
+<blockquote><p>В третий день после того, как Давид и люди его пошли в Секелаг, Амаликитяне напали с юга на Секелаг и взяли Секелаг и сожгли его огнем, а женщин , бывших в нем, от малого до большого, не умертвили, но увели в плен, и ушли своим путем. И пришел Давид и люди его к городу, и вот, он сожжен огнем, а жены их и сыновья их и дочери их взяты в плен. И поднял Давид и народ, бывший с ним, вопль, и плакали, доколе не стало в них силы плакать. Взяты были в плен и обе жены Давида: Ахиноама Изреелитянка и Авигея, <em>бывшая</em> жена Навала, Кармилитянка. Давид сильно был смущен, так как народ хотел побить его камнями; ибо скорбел душею весь народ, каждый о сыновьях своих и дочерях своих.</p><cite>1-е Цар. 30:1-6</cite></blockquote>
+<h3>(2) 1-е Цар. 30:7-20, - победа Давида, важность предназначения. (Познание и передача Слово Божье, Завета, Христос, Храм, приход Христа)</h3>
+<blockquote><p>Но Давид укрепился <em>надеждою</em> на Господа Бога своего, и сказал Давид Авиафару священнику, сыну Ахимелехову: принеси мне ефод. И принес Авиафар ефод к Давиду. И вопросил Давид Господа, говоря: преследовать ли мне это полчище, и догоню ли их? И сказано ему: преследуй, догонишь и отнимешь. И пошел Давид сам и шестьсот мужей, бывших с ним; и пришли к потоку Восор и усталые остановились там. И преследовал Давид сам и четыреста человек; двести же человек остановились, потому что были не в силах перейти поток Восорский. И нашли Египтянина в поле, и привели его к Давиду, и дали ему хлеба, и он ел, и напоили его водою; и дали ему часть связки смокв и две связки изюму, и он ел и укрепился, ибо он не ел хлеба и не пил воды три дня и три ночи. И сказал ему Давид: чей ты и откуда ты? И сказал он: я -- отрок Египтянина, раб одного Амаликитянина, и бросил меня господин мой, ибо уже три дня, как я заболел; мы вторгались в полуденную часть Керети и в область Иудину и в полуденную часть Халева, а Секелаг сожгли огнем. И сказал ему Давид: доведешь ли меня до этого полчища? И сказал он: поклянись мне Богом, что ты не умертвишь меня и не предашь меня в руки господина моего, и я доведу тебя до этого полчища.  и он повел его; и вот, <em>Амаликитяне,</em> рассыпавшись по всей той стране, едят и пьют и празднуют по причине великой добычи, которую они взяли из земли Филистимской и из земли Иудейской.  и поражал их Давид от сумерек до вечера другого дня, и никто из них не спасся, кроме четырехсот юношей, которые сели на верблюдов и убежали. И отнял Давид все, что взяли Амаликитяне, и обеих жен своих отнял Давид. И не пропало у них ничего, ни малого, ни большого, ни из сыновей, ни из дочерей, ни из добычи, ни из всего, что <em>Амаликитяне</em> взяли у них; все возвратил Давид, и взял Давид весь мелкий и крупный скот, и гнали его пред своим скотом и говорили: это -- добыча Давида.</p><cite>1-е Цар. 30:7-20</cite></blockquote>
+<h3>(3) 1-е Цар. 30:21-31, - важность участия в духовной войне, равная награда детей Божьих (передний край или тыл), важность понимания и исполнения предназначения. (Познание и передача Слово Божье, Завета, Христос, Всемирная Евангелизация, приход Христа)</h3>
+<blockquote><p>И пришел Давид к тем двум стам человек, которые не были в силах идти за ним, и <em>которых</em> он оставил у потока Восор, и вышли они навстречу Давиду и навстречу людям, бывшим с ним. И подошел Давид к этим людям и приветствовал их. Тогда злые и негодные из людей, ходивших с Давидом, стали говорить: за то, что они не ходили с нами, не дадим им из добычи, которую мы отняли; пусть каждый возьмет только свою жену и детей и идет. Но Давид сказал: не делайте так, братья мои, после того, как Господь дал нам это и сохранил нас и предал в руки наши полчище, приходившее против нас. И кто послушает вас в этом деле? Какова часть ходившим на войну, такова часть должна быть и оставшимся при обозе: на всех должно разделить. Так было с этого времени и после; и поставил он это в закон и в правило для Израиля до сего дня. И пришел Давид в Секелаг и послал из добычи к старейшинам Иудиным, друзьям своим, говоря: "вот вам подарок из добычи, <em>взятой</em> у врагов Господних", -- тем, которые в Вефиле, и в Рамофе южном, и в Иаттире,  и в Ароере, и в Шифмофе, и в Естемоа,   и в Рахале, и в городах Иерахмеельских, и в городах Кенейских, и в Хорме, и в Хорашане, и в Атахе, и в Хевроне, и во всех местах, где ходил Давид сам и люди его.</p><cite>1-е Цар. 30:21-31</cite></blockquote>
+<h2 id="s6">6) 1-е Цар. 31, - смерть Саула и Ионафана, исполнение Слово Божье, важность понимания Божьего контроля жизни. Пс. 138:16</h2>
+<blockquote><p>Зародыш мой видели очи Твои; в Твоей книге записаны все дни, для меня назначенные, когда ни одного из них еще не было.</p><cite>Пс. 138:16</cite></blockquote>
+<h3>(1) Вера Саула, нет отказа от Слово Божье, Завета, Христос</h3>
+<h3>(2) Отказ от предназначения, противление воле Божьей, утверждение своей воли (действие сатана извне, обольщение Саула)</h3>
+<h3>(3) Важность понимания статуса Саула (Божий помазанник), спасенное дитя Божье, доказательства Слово Божье</h3>
+<h4>(а) 1-е Цар. 19:22-24, - невозможность сошествия Святой Дух не на детей Божьих, духовный статус Саула</h4>
+<blockquote><p>Саул сам пошел в Раму, и дошел до большого источника, что в Сефе, и спросил, говоря: где Самуил и Давид? И сказали: вот, в Навафе, в Раме. И пошел он туда в Наваф в Раме, и на него сошел Дух Божий, и он шел и пророчествовал, доколе не пришел в Наваф в Раме. И снял и он одежды свои, и пророчествовал пред Самуилом, и весь день тот и всю ту ночь лежал неодетый; поэтому говорят: "неужели и Саул во пророках?"</p><cite>1-е Цар. 19:22-24</cite></blockquote>
+<h4>(б) 1-е Цар. 24:7, - помазанник Божий (спасенное дитя Божье)</h4>
+<blockquote><p>И сказал он людям своим: да не попустит мне Господь сделать это господину моему, помазаннику Господню, чтобы наложить руку мою на него, ибо он помазанник Господень.</p><cite>1-е Цар. 24:7</cite></blockquote>
+<h4>(в) 1-е Цар. 26:7-10, - помазанник Божий</h4>
+<blockquote><p>И пришел Давид с Авессою к людям ночью; и вот, Саул лежит, спит в шатре, и копье его воткнуто в землю у изголовья его; Авенир же и народ лежат вокруг него. Авесса сказал Давиду: предал Бог ныне врага твоего в руки твои; итак позволь, я пригвожду его копьем к земле одним ударом и не повторю <em>удара.</em> Но Давид сказал Авессе: не убивай его; ибо кто, подняв руку на помазанника Господня, останется ненаказанным? И сказал Давид: жив Господь! пусть поразит его Господь, или придет день его, и он умрет, или пойдет на войну и погибнет; меня же да не попустит Господь поднять руку мою на помазанника Господня;</p><cite>1-е Цар. 26:7-10</cite></blockquote>
+<h4>(г) 1-е Цар. 28:19, - будете вместе с Самуилом</h4>
+<blockquote><p>И предаст Господь Израиля вместе с тобою в руки Филистимлян: завтра ты и сыны твои <em>будете</em> со мною, и стан Израильский предаст Господь в руки Филистимлян.</p><cite>1-е Цар. 28:19</cite></blockquote>
+<h4>(д) 2-е Цар. 1:14, - помазанник Божий</h4>
+<blockquote><p>Тогда Давид сказал ему: как не побоялся ты поднять руку, чтобы убить помазанника Господня?</p><cite>2-е Цар. 1:14</cite></blockquote>
+<h3>(4) Саул – пример Божьей любви, милости и долготерпения ко всякому человеку и к Своим детям. Евр. 13:5</h3>
+<blockquote><p>Имейте нрав несребролюбивый, довольствуясь тем, что есть. Ибо Сам сказал: не оставлю тебя и не покину тебя,</p><cite>Евр. 13:5</cite></blockquote>
+<h2 id="s7">Заключение:</h2>
+<h3>(1) Важность понимания и исполнения предназначения народа Божьего (Саул, Самуил, Давид)</h3>
+<h3>(2) Важность понимания и принятия Божьего суверенитета</h3>
+<h3>(3) Важность воспитания и подготовки человека</h3>
+<h3>(4) Важность Божьего водительства для человека</h3>
+<h3>(5) Важность понимания Божьего контроля жизни детей Божьих, важность понимания Божьего расписания времени</h3>
 </main>
 </body>
 </html>

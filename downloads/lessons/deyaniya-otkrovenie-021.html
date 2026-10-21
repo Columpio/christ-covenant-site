@@ -3,209 +3,248 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>8. Божий суверенитет, судьба человека</title>
+<title>Иак. 5</title>
 <style>
-:root{--bg:#faf7f2;--fg:#2b2622;--muted:#7a6f66;--accent:#8a4b2a;--card:#fff;--line:#e6ddd2;--quote:#f3ece2}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+:root{color-scheme:light;
+--ink:#2A1C0D;--ink2:#5A4630;--stone:#E6D8BA;--parch:#EBDAB0;--sheet:#FAF3E0;--wood:#6B4426;--frame:#F1E7CE;
+--c:#2F5DA8;--cd:#2F5DA8;--sb:#2F5DA8;--sf:#FFFFFF;--mix:#000;
+--display:"Cormorant SC","Cormorant Garamond",Georgia,serif;--uni:"Cormorant Unicase","Cormorant SC",Georgia,serif;
+--serif:"Alegreya","PT Serif",Georgia,serif;--sans:"Alegreya Sans","Segoe UI",system-ui,sans-serif;
+--canon:linear-gradient(90deg,#2F5DA8 0 10%,#D8951A 10% 20%,#C2366B 20% 30%,#1F8A5B 30% 40%,#138F8F 40% 50%,#E0562C 50% 60%,#E8801E 60% 70%,#2F8FCF 70% 80%,#6C4BB6 80% 90%,#8E3B8A 90%);
+--noise:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .30 0 0 0 0 .21 0 0 0 0 .10 0 0 0 .22 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+--weave:repeating-linear-gradient(90deg,rgba(255,255,255,.11) 0 2px,rgba(0,0,0,.07) 2px 4px);
+--cdd:color-mix(in srgb,var(--cd) 55%,var(--ink));
+--px:2.4rem;--py:2.2rem}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.6 Georgia,"PT Serif","Times New Roman",serif}
-a{color:var(--accent)}
-header.top{position:sticky;top:0;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:1rem;
-padding:.6rem 1.25rem;background:var(--card);border-bottom:1px solid var(--line);font:15px/1.4 system-ui,sans-serif}
-.crumbs a{text-decoration:none}
-main{max-width:46rem;margin:0 auto;padding:1.5rem 1.25rem 7rem}
-main.wide{max-width:64rem}
-h1{font-size:1.6rem;line-height:1.25;margin:.5rem 0 1rem}
-h2{font-size:1.3rem;line-height:1.3;margin:1.8rem 0 .6rem}
-h3{font-size:1.12rem;line-height:1.35;margin:1.4rem 0 .5rem}
-h4{font-size:1rem;line-height:1.4;margin:1.1rem 0 .4rem}
-ul{padding-left:1.25rem}
-li{margin:.2rem 0}
-blockquote{margin:.6rem 0 1rem;padding:.7rem 1rem;background:var(--quote);border-left:3px solid var(--accent);
-border-radius:0 6px 6px 0;font-size:.95em}
+html{scroll-padding-top:4.5rem;overflow-x:clip}
+body{margin:0;overflow-x:clip;color:var(--ink);font:400 1.2rem/1.65 var(--serif);-webkit-font-smoothing:antialiased;min-height:100vh;
+background:#2B190C url(img/shelves.svg) 50% 0/520px 960px repeat}
+/* Свет и глубина над стеллажами: утренний луч слева сверху, виньетка по краям; на внутренних страницах темнее. */
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+background:linear-gradient(115deg,rgba(255,226,160,.5),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 45%,rgba(20,10,4,.6) 100%),rgba(30,18,8,.12)}
+body:not(.home)::before{background:linear-gradient(115deg,rgba(255,226,160,.28),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 40%,rgba(20,10,4,.55) 100%),rgba(30,18,8,.5)}
+a{color:var(--cdd)}
+.sprite{position:absolute;width:0;height:0;overflow:hidden}
+.skip{position:absolute;left:-999px;top:0;z-index:40;padding:.7rem 1.1rem;background:var(--ink);color:#fff;font:700 1rem var(--sans)}
+.skip:focus{left:.5rem;top:.5rem}
+a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible{outline:3px solid var(--ink);outline-offset:3px;border-radius:6px}
+
+/* Шапка: полоса цветов канона, на страницах книги - цвет её раздела. */
+header.top{position:sticky;top:0;z-index:30;background:rgba(247,239,218,.95);backdrop-filter:blur(6px);border-bottom:1px solid #BFA97E;box-shadow:0 .4rem .8rem -.5rem rgba(50,30,10,.45);font:700 1.02rem/1.4 var(--sans)}
+header.top::before{content:"";display:block;height:4px;background:var(--canon)}
+body[style] header.top::before{background:var(--c)}
+header.top .bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;max-width:44rem;margin:0 auto;padding:0 1.25rem}
+header.top.wide .bar{max-width:68rem}
+.crumbs{min-width:0;color:var(--ink2)}
+.crumbs a{display:inline-flex;align-items:center;min-height:44px;padding:0 .3rem;color:var(--ink);text-decoration:none}
+.crumbs a:hover{color:var(--cdd);text-decoration:underline;text-underline-offset:.25em}
+
+main{max-width:44rem;margin:0 auto;padding:2rem 1.25rem 7rem}
+main.wide{max-width:68rem;position:relative;margin:0 auto;padding:2rem 2.4rem 7rem;
+background:var(--noise),linear-gradient(90deg,rgba(60,38,16,.18),rgba(60,38,16,0) 6%,rgba(60,38,16,0) 94%,rgba(60,38,16,.18)),var(--stone);
+border-inline:1.1rem solid #A98B5E;
+box-shadow:inset .5rem 0 .8rem -.3rem rgba(50,30,10,.45),inset -.5rem 0 .8rem -.3rem rgba(50,30,10,.45),0 0 3rem 1rem rgba(15,8,3,.7)}
+.muted{color:var(--ink2)}
+
+/* Страница урока - лист пергамента на каменной стене; под текстом нет фактуры. */
+main:not(.wide){position:relative;margin:1.6rem auto 6rem;padding:var(--py) var(--px) 2.6rem;background:var(--sheet);border-radius:.3rem;
+box-shadow:inset 0 0 0 1px rgba(150,115,60,.4),inset 0 0 2.4rem rgba(150,115,60,.2),0 1.4rem 2.4rem -1rem rgba(40,25,10,.65)}
+main:not(.wide)::before{content:"";display:block;height:.55rem;margin:calc(var(--py) * -1) calc(var(--px) * -1) 1.6rem;border-radius:.3rem .3rem 0 0;background:var(--weave),var(--sb)}
+h1{font:700 clamp(1.8rem,3.4vw,2.4rem)/1.15 var(--display);letter-spacing:.015em;margin:.4rem 0 1.2rem}
+h2{font:700 1.6rem/1.25 var(--display);letter-spacing:.015em;margin:2.6rem 0 .8rem}
+h2::before{content:"";display:inline-block;width:.5em;height:.5em;margin:0 .55em .12em 0;background:var(--sb);border-radius:2px;transform:rotate(45deg)}
+h3{font:700 1.16rem/1.45 var(--serif);margin:1.6rem 0 .5rem}
+h4{font:italic 600 1.1rem/1.4 var(--serif);margin:1.2rem 0 .4rem}
+ul{padding-left:1.3rem}
+li{margin:.25rem 0}
+li::marker{color:var(--sb)}
+blockquote{margin:.9rem 0 1.3rem;padding:.9rem 1.2rem 1rem;background:#FFFBEC;border:1px solid #E2D2A8;border-left:.32rem solid var(--sb);border-radius:.2rem;box-shadow:0 .2rem 0 #E6D8B4,0 .7rem 1rem -.7rem rgba(60,40,15,.5);font-size:1.08rem}
 blockquote p{margin:0}
-blockquote cite{display:block;margin-top:.3rem;font:normal .8em/1.4 system-ui,sans-serif;color:var(--muted)}
-.muted{color:var(--muted)}
-.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:.6rem;list-style:none;padding:0;margin:0 0 1rem}
-.tiles.wide{grid-template-columns:repeat(auto-fill,minmax(15rem,1fr))}
+blockquote cite{display:block;margin-top:.4rem;font:700 .92rem/1.4 var(--sans);font-style:normal;color:var(--cdd)}
+
+/* Главная: зал. Утренний свет из окна, лампады, ниши со свитками. */
+.hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.lead{max-width:34rem;margin:0;font:400 1.25rem/1.5 var(--serif);color:var(--ink)}
+.scene{position:relative;width:17rem;height:19rem;justify-self:end}
+.window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
+background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
+box-shadow:0 0 0 .55rem var(--frame),0 0 0 .7rem #B9A57D,inset 0 1.2rem 1.6rem -.4rem rgba(40,25,10,.55),inset 1rem 0 1.2rem -.8rem rgba(40,25,10,.4)}
+.window::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent calc(50% - .2rem),#4A2D18 calc(50% - .2rem) calc(50% + .2rem),transparent calc(50% + .2rem)),linear-gradient(180deg,transparent 50%,#4A2D18 50% calc(50% + .4rem),transparent calc(50% + .4rem))}
+.sill{position:absolute;left:0;right:0;bottom:0;height:1.2rem;border-radius:.25rem .25rem .5rem .5rem;background:linear-gradient(180deg,#F6EDD3,#D6C5A0 55%,#B9A57D);box-shadow:0 .7rem .9rem -.4rem rgba(40,25,10,.55)}
+.sill>*{position:absolute;bottom:100%;margin-bottom:-.2rem}
+.sill img{display:block;width:100%;height:auto;filter:drop-shadow(.3rem .35rem .25rem rgba(40,25,10,.45))}
+.jar{left:1.2rem;width:3.1rem}
+.lamp{left:4.9rem;width:6.2rem}
+.ink{left:11.7rem;width:3.4rem}
+.glow{position:absolute;left:88%;top:66%;width:15rem;height:15rem;transform:translate(-50%,-50%);border-radius:50%;pointer-events:none;
+background:radial-gradient(circle,rgba(255,196,96,.62),rgba(255,160,60,.2) 38%,rgba(255,150,50,0) 68%);animation:glow 3.4s ease-in-out infinite}
+.flame{position:absolute;left:88.5%;top:67%;width:.75rem;height:1.35rem;transform:translate(-50%,-92%);transform-origin:50% 100%;border-radius:50% 50% 50% 50%/70% 70% 30% 30%;
+background:radial-gradient(ellipse at 50% 72%,#FFF8D0 0 18%,#FFD060 42%,#FF9A2A 72%,rgba(255,110,20,0) 100%);filter:blur(.4px);animation:flicker 2.7s ease-in-out infinite}
+.reed{position:absolute;left:46%;top:24%;width:.28rem;height:6.4rem;transform:translate(-50%,-100%) rotate(17deg);transform-origin:50% 100%;
+background:linear-gradient(90deg,#6E4F1E,#D9B866 45%,#8A6428);clip-path:polygon(0 0,100% 0,100% 94%,50% 100%,0 94%)}
+.rays{position:absolute;right:7rem;top:3rem;width:1px;height:1px;pointer-events:none;z-index:2}
+.rays i{position:absolute;top:0;right:0;width:8rem;height:48rem;transform-origin:100% 0;transform:rotate(var(--a));filter:blur(8px);mix-blend-mode:soft-light;
+background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
+.rays i:nth-child(1){--a:-40deg}
+.rays i:nth-child(2){--a:-54deg;width:5rem}
+.rays i:nth-child(3){--a:-68deg;width:10rem}
+@keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
+@keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
+.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
+.wall-lamp .lamp{position:relative;left:auto;width:100%}
+.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
+.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
+.jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
+.jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
+background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.jump a{display:inline-flex;align-items:center;min-height:44px;padding:0 1.2rem;text-decoration:none}
+.jump a:hover{background-color:#F6E9C2}
+.search{display:block;width:100%;max-width:34rem;margin:.4rem 0 1.2rem;padding:.75rem 1.1rem;font-weight:400}
+.search::placeholder{color:var(--ink2);opacity:1}
+.search:focus{border-color:var(--ink)}
+.testament{position:relative;display:flex;flex-direction:column;gap:2.4rem;margin:3rem 0 0}
+.testament>h2{display:flex;align-items:center;gap:1rem;margin:0;font:700 clamp(2rem,3.6vw,2.7rem)/1.1 var(--display);letter-spacing:.02em}
+.testament>h2::before{display:none}
+.testament>h2::after{content:"";flex:1;height:.4rem;border-top:2px solid var(--wood);border-bottom:1px solid var(--wood);opacity:.6}
+main section[hidden],.scrolls li[hidden],.tiles li[hidden]{display:none}
+
+/* Ниша раздела: драпировка цвета раздела, внутри на досках лежат свитки. */
+.group{position:relative;overflow:hidden;min-width:0;border:.55rem solid var(--frame);border-radius:1.6rem 1.6rem .3rem .3rem;
+background:linear-gradient(180deg,rgba(40,24,10,0),rgba(40,24,10,.14)),var(--noise),color-mix(in srgb,var(--c) 7%,#CDBB93);
+box-shadow:0 0 0 1px #B9A57D,inset 0 1.1rem 1.6rem -.5rem rgba(35,20,8,.55),inset 1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),inset -1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),0 .7rem 1.1rem -.5rem rgba(50,30,10,.5)}
+.group>h3{position:relative;z-index:3;display:flex;align-items:center;gap:.7rem;margin:0;padding:.65rem 1.3rem .6rem;background:var(--weave),var(--sb);color:var(--sf);font:700 1.45rem/1.15 var(--display);letter-spacing:.02em;filter:drop-shadow(0 .35rem .3rem rgba(25,12,0,.45))}
+.group>h3::after,.book-head::after{content:"";position:absolute;left:0;right:0;top:100%;height:.62rem;background:radial-gradient(circle at 50% 0,var(--sb) 0 .5rem,transparent .52rem) 0 0/1.1rem .62rem repeat-x}
+.emblem{width:1.9rem;height:1.9rem;flex:none;color:var(--sf)}
+
+/* Свиток: пергамент на двух деревянных валиках, на шипах - ленточка цвета раздела, справа - печать с числом уроков. */
+.scrolls{--h:3.4rem;--board:.62rem;display:flex;flex-wrap:wrap;align-items:flex-start;column-gap:1.3rem;row-gap:var(--board);list-style:none;margin:0;padding:1.5rem 1.2rem var(--board);
+background:repeating-linear-gradient(180deg,transparent 0 var(--h),#2C1A0C var(--h) calc(var(--h) + 1px),#8A5A32 calc(var(--h) + 1px) calc(var(--h) + 3px),#6B4426 calc(var(--h) + 3px) calc(var(--h) + var(--board))) 0 0/100% calc(100% + var(--board)) no-repeat;
+background-origin:content-box;background-clip:padding-box}
+.scrolls li{position:relative;height:var(--h);margin:0;padding:0 .95rem;max-width:100%;transition:transform .18s ease;animation:rise .45s ease backwards;animation-delay:calc(var(--i) * 12ms);filter:drop-shadow(0 .18rem .12rem rgba(20,10,0,.4))}
+.scrolls li::before,.scrolls li::after{content:"";position:absolute;top:0;bottom:0;width:.95rem;
+background:radial-gradient(circle at 50% .45rem,#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) top/100% .95rem no-repeat,
+radial-gradient(circle at 50% calc(100% - .45rem),#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) bottom/100% .95rem no-repeat,
+linear-gradient(var(--sb),var(--sb)) 50% 1rem/.56rem .3rem no-repeat,
+linear-gradient(90deg,#3F2614,#B07C48 35%,#7A4E2B 65%,#3F2614) center/.42rem 100% no-repeat}
+.scrolls li::before{left:0}
+.scrolls li::after{right:0}
+.scrolls a,.scrolls li.empty>span{display:flex;align-items:center;gap:.7rem;height:calc(var(--h) - 1rem);margin:.5rem 0;padding:0 .8rem 0 1.25rem;white-space:nowrap;font:700 1.14rem/1 var(--display);letter-spacing:.015em}
+.scrolls a{position:relative;z-index:1;color:var(--ink);text-decoration:none;animation:unroll .4s cubic-bezier(.3,.7,.3,1) backwards;animation-delay:calc(var(--i) * 12ms + 80ms);
+background:linear-gradient(180deg,rgba(104,66,22,.36),rgba(104,66,22,0) 20%,rgba(104,66,22,0) 78%,rgba(104,66,22,.44)),linear-gradient(rgba(255,248,226,.5),rgba(255,248,226,.5)),url(img/parchment.webp) #EBD8A8;
+box-shadow:inset 0 0 .7rem rgba(120,80,25,.4)}
+.scrolls a::before,.scrolls a::after{content:"";position:absolute;top:0;bottom:0;width:1.15rem;border-radius:.5rem;
+background:repeating-linear-gradient(90deg,rgba(90,60,20,.2) 0 1px,transparent 1px 3px),linear-gradient(90deg,#8E6D3A 0,#E8D3A0 30%,#F5E8C4 50%,#D8BF86 76%,#7F5F2E 100%);box-shadow:0 0 .35rem rgba(60,35,10,.5)}
+.scrolls a::before{left:-.62rem}
+.scrolls a::after{right:-.62rem}
+.scrolls li:hover,.scrolls li:has(a:focus-visible){transform:translateY(-.22rem)}
+.scrolls a:focus-visible{outline-offset:.6rem}
+.scrolls .count{position:relative;z-index:2;display:grid;place-items:center;min-width:1.85rem;height:1.85rem;padding:0 .3rem;border-radius:52% 48% 55% 45%/48% 55% 45% 52%;
+background:radial-gradient(circle at 35% 30%,var(--sb),color-mix(in srgb,var(--sb) 72%,#000));color:var(--sf);font:700 .9rem/1 var(--sans);letter-spacing:0;box-shadow:inset 0 1px 1px rgba(255,255,255,.4),0 .1rem .2rem rgba(0,0,0,.4)}
+.scrolls li.empty{padding:0 .3rem}
+.scrolls li.empty::before,.scrolls li.empty::after{display:none}
+.scrolls li.empty>span{border:1.5px dashed rgba(63,38,20,.65);border-radius:.4rem;color:var(--ink2);background:rgba(255,248,230,.22)}
+@keyframes unroll{from{clip-path:inset(0 50%)}to{clip-path:inset(0 0)}}
+@keyframes rise{from{opacity:0;transform:translateY(.6rem)}to{opacity:1;transform:none}}
+
+/* Страница книги: драпировка с названием и бирки уроков. */
+.book-head{position:relative;display:flex;align-items:center;gap:1.3rem;margin:0 0 2.2rem;padding:1.4rem 1.7rem;border-radius:.4rem .4rem 0 0;background:var(--weave),var(--sb);color:var(--sf);filter:drop-shadow(0 .45rem .35rem rgba(25,12,0,.4))}
+.book-head .emblem{width:4.2rem;height:4.2rem}
+.book-head h1{margin:0;color:var(--sf);font:700 clamp(2rem,4.4vw,3.1rem)/1.05 var(--display)}
+.meta{margin:.35rem 0 0;font:700 1.05rem/1.4 var(--sans);color:var(--sf)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));gap:.9rem;list-style:none;padding:0;margin:0 0 1rem}
 .tiles li{margin:0}
-.tiles a,.tiles li.empty{display:flex;align-items:center;justify-content:space-between;gap:.6rem;height:100%;min-height:4.5rem;
-padding:.8rem 1rem;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg);
-font:600 16px/1.35 system-ui,sans-serif}
-.tiles a{text-decoration:none;box-shadow:0 1px 2px rgba(0,0,0,.04);transition:border-color .15s,box-shadow .15s,transform .05s}
-.tiles a:hover{border-color:var(--accent);box-shadow:0 4px 14px rgba(0,0,0,.08)}
-.tiles a:active{transform:translateY(1px)}
-.tiles a>span:first-child,.tiles li.empty>span{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
-.tiles .count{color:var(--accent);font-size:.9em}
-.tiles li.empty{color:var(--muted);opacity:.55}
-.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;padding:.55rem 1.1rem;
-border:1px solid var(--accent);border-radius:10px;background:var(--card);color:var(--accent);font:600 15px/1.3 system-ui,sans-serif;
-text-decoration:none;cursor:pointer;box-shadow:0 1px 0 rgba(0,0,0,.06);transition:background .15s,color .15s,transform .05s}
-.btn:hover,details.download summary:hover{background:var(--accent);color:#fff}
-.btn:active,details.download summary:active{transform:translateY(1px)}
-.btn.primary{background:var(--accent);color:#fff}
-.btn.primary:hover{background:#6f3a20}
-.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3rem}
-.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;text-align:left}
+.tiles a{display:flex;align-items:center;height:100%;min-height:4.6rem;padding:.85rem 1rem .85rem 1.2rem;border-left:.5rem solid var(--sb);border-radius:.35rem;color:var(--ink);font:700 1.1rem/1.3 var(--serif);text-decoration:none;
+background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),url(img/parchment.webp) var(--parch);box-shadow:inset 0 0 .7rem rgba(120,85,35,.28),0 .15rem 0 #B9A276,0 .6rem .9rem -.5rem rgba(60,40,15,.55);transition:transform .15s}
+.tiles a:hover{transform:translateY(-.15rem)}
+.tiles .chapters{display:block;margin-top:.3rem;color:var(--cdd);font:700 .95rem/1.3 var(--sans)}
+
+/* Урок: содержание, кнопки. */
+.toc{margin:0 0 1.4rem;padding:.2rem 1.1rem;border:1px solid #D9C89E;border-radius:.3rem;background:#FFFBEC;font:400 1.02rem/1.5 var(--sans)}
+.toc summary{display:flex;align-items:center;min-height:44px;cursor:pointer;font-weight:700}
+.toc ol{margin:.3rem 0 .7rem;padding-left:1.4rem}
+.toc li::marker{color:var(--cdd);font-weight:700}
+.toc a{color:var(--ink);text-decoration:none}
+.toc a:hover{color:var(--cdd);text-decoration:underline}
+.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
+background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.btn:hover,details.download summary:hover{background-color:#F6E9C2}
+.btn.primary{background:var(--weave),var(--sb);border-color:color-mix(in srgb,var(--sb) 60%,#000);color:var(--sf)}
+.btn.primary:hover{background:var(--weave),color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3.5rem}
+.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;padding:.8rem 1rem;text-align:left}
 .pager .pager-next{align-items:flex-end;text-align:right}
 .pager .pager-section{align-items:center;justify-content:center;text-align:center}
-.pager .dir{font-size:.8em;font-weight:500;opacity:.85}
-.pager .name{font-weight:600}
-.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;
-pointer-events:none;z-index:5}
-.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;
-border-radius:50%;background:var(--accent);color:#fff;font:700 1.4rem/1 system-ui,sans-serif;text-decoration:none;
-cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.25);opacity:.92}
-.fab:hover{opacity:1;background:#6f3a20}
-.fab.next{margin-left:auto}
-.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);
-transition:opacity .2s,transform .2s,visibility .2s}
-.fab.top.visible{opacity:.92;visibility:visible;transform:none}
-@media(max-width:640px){.pager{grid-template-columns:1fr}.pager>span{display:none}
-.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}}
+.pager .dir{font-size:.9rem;font-weight:700}
+.pager .name{font:700 1.05rem/1.3 var(--serif);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
 details.download{position:relative}
-details.download summary{list-style:none;padding:.4rem 1rem}
+details.download summary{list-style:none}
 details.download summary::-webkit-details-marker{display:none}
-details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;
-padding:.3rem;background:var(--card);border:1px solid var(--line);border-radius:8px;box-shadow:0 6px 20px rgba(0,0,0,.08)}
-details.download .menu a{padding:.45rem .7rem;border-radius:6px;text-decoration:none;color:var(--fg)}
-details.download .menu a:hover{background:var(--quote)}
-@media print{header.top,.pager,.float{display:none}}
+details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;padding:.3rem;background:var(--sheet);border:1px solid #BFA97E;border-radius:.3rem;box-shadow:0 12px 28px -12px rgba(40,25,10,.55)}
+details.download .menu a{display:flex;align-items:center;min-height:44px;padding:.45rem .8rem;border-radius:.2rem;color:var(--ink);text-decoration:none}
+details.download .menu a:hover{background:#F0E3BE}
+
+/* Плавающие кнопки. */
+.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;pointer-events:none;z-index:25}
+.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;border-radius:50%;background:var(--sb);color:var(--sf);font:700 1.3rem/1 var(--sans);text-decoration:none;cursor:pointer;box-shadow:inset 0 1px 1px rgba(255,255,255,.35),0 8px 20px -6px rgba(40,25,10,.6)}
+.fab:hover{background:color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.fab.next{margin-left:auto}
+.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .2s,transform .2s,visibility .2s;pointer-events:auto;z-index:25}
+.fab.top.visible{opacity:1;visibility:visible;transform:none}
+.credits{max-width:68rem;margin:0 auto;padding:1.2rem 2.4rem 1.5rem;font:400 .95rem/1.5 var(--sans);color:var(--ink);background:var(--stone);border-inline:1.1rem solid #A98B5E}
+@media(max-width:1180px){.credits{padding-inline:1.25rem;border-inline-width:.5rem}}
+
+/* Скачанный документ без декора. */
+body.plain{background:#fff}
+body.plain::before{display:none}
+body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
+body.plain main::before{display:none}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+@media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
+@media(max-width:640px){
+body{font-size:1.12rem}
+:root{--px:1.1rem;--py:1.4rem}
+main:not(.wide){margin:0 auto 5rem;border-radius:0}
+.pager{grid-template-columns:1fr}.pager>span{display:none}
+.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}
+.fab{width:2.75rem;height:2.75rem}.fab.prev,.fab.next{display:none}.fab.top{bottom:1rem;right:.5rem}
+.testament{gap:2rem}
+.group{border-width:.4rem;border-radius:1.2rem 1.2rem .25rem .25rem}
+.group>h3{padding:.55rem 1rem .5rem;font-size:1.3rem}
+.scrolls{--h:3.9rem;column-gap:.8rem;padding:1.4rem .55rem var(--board)}
+.scrolls li{padding:0 .8rem}
+.scrolls li::before,.scrolls li::after{width:.8rem}
+.scrolls a,.scrolls li.empty>span{gap:.5rem;padding:0 .55rem 0 1rem;font-size:1rem}
+.scrolls a::before,.scrolls a::after{width:1rem}
+.scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
+.scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
+.book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
+@media(max-height:500px){header.top{position:static}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+@media print{body{background:#fff}body::before{display:none}header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
-<body>
+<body class="plain">
 <main>
-<h1>8. Божий суверенитет, судьба человека</h1>
-<h2>1) Рим. 8:28-30, - важность понимания Божьего суверенитета</h2>
-<blockquote><p>Притом знаем, что любящим Бога, призванным по <em>Его</em> изволению, все содействует ко благу. Ибо кого Он предузнал, тем и предопределил быть подобными образу Сына Своего, дабы Он был первородным между многими братиями. А кого Он предопределил, тех и призвал, а кого призвал, тех и оправдал; а кого оправдал, тех и прославил.</p><cite>Рим. 8:28-30</cite></blockquote>
-<h3>(1) Быт. 1:27,2:7,9,16-17, - право выбора, инициатор Бог</h3>
-<blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
-<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<blockquote><p>И произрастил Господь Бог из земли всякое дерево, приятное на вид и хорошее для пищи, и дерево жизни посреди рая, и дерево познания добра и зла.</p><cite>Быт. 2:9</cite></blockquote>
-<blockquote><p>И заповедал Господь Бог человеку, говоря: от всякого дерева в саду ты будешь есть, а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:16-17</cite></blockquote>
-<h4>(а) «Право выбора» - принимать, или не принимать Слово Божье (Родители, страна, раса, социум, эпоха – нет права выбора)</h4>
-<h4>(б) «Право выбора» - в момент предложения, инициатор Бог. (Бог суверенитет – выбор «де-юре» и выбор «де-факто»)</h4>
-<h4>(в) Понимание совершенной и допустимой воли Божьей. (Утверждение дара свободной воли, принятие Бог выбора человек)</h4>
-<h3>(2) Быт. 3:1-7 (Рим. 5:12,6:23,Еф. 2:2), - Бог допуск, право выбора</h3>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
-<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
-<h4>(а) Допуск сатана, право выбора - человек для сатана, сатана для человека</h4>
-<h4>(б) Действие сатана в Эдеме – утверждение права выбора человека</h4>
-<h4>(в) Власть сатана, контроль человека – ограничение права выбора</h4>
-<h4>(г) Бог допущения действия сатана – следствие выбора человека. (Законное действие сатана, служение Бог, утверждение права выбора)</h4>
-<h3>(3) Быт. 3:15,21,Мф. 16:16,Ин. 19:30, - право выбора, инициатор Бог</h3>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<blockquote><p>Симон же Петр, отвечая, сказал: Ты -- Христос, Сын Бога Живаго.</p><cite>Мф. 16:16</cite></blockquote>
-<blockquote><p>Когда же Иисус вкусил уксуса, сказал: совершилось! И, преклонив главу, предал дух.</p><cite>Ин. 19:30</cite></blockquote>
-<h4>(а) Воля Бог – спасение всех людей. 1-е Тим. 2:4,Дн. 17:30,Ин. 3:16</h4>
-<blockquote><p>Который хочет, чтобы все люди спаслись и достигли познания истины.</p><cite>1-е Тим. 2:4</cite></blockquote>
-<blockquote><p>Итак, оставляя времена неведения, Бог ныне повелевает людям всем повсюду покаяться,</p><cite>Дн. 17:30</cite></blockquote>
-<blockquote><p>Ибо так возлюбил Бог мир, что отдал Сына Своего Единородного, дабы всякий верующий в Него, не погиб, но имел жизнь вечную.</p><cite>Ин. 3:16</cite></blockquote>
-<h4>(б) Христос умер за всех. 1-е Ин. 2:2,1-е Тим. 4:10,2-е Кор. 5:19</h4>
-<blockquote><p>Он есть умилостивление за грехи наши, и не только за наши, но и за <em>грехи</em> всего мира.</p><cite>1-е Ин. 2:2</cite></blockquote>
-<blockquote><p>Ибо мы для того и трудимся и поношения терпим, что уповаем на Бога живаго, Который есть Спаситель всех человеков, а наипаче верных.</p><cite>1-е Тим. 4:10</cite></blockquote>
-<blockquote><p>потому что Бог во Христе примирил с Собою мир, не вменяя <em>людям</em> преступлений их, и дал нам слово примирения.</p><cite>2-е Кор. 5:19</cite></blockquote>
-<h4>(в) Бог действует своей благодатью. Еф. 2:8,Ин. 15:5</h4>
-<blockquote><p>Ибо благодатью вы спасены через веру, и сие не от вас, Божий дар:</p><cite>Еф. 2:8</cite></blockquote>
-<blockquote><p>Я есмь лоза, а вы ветви; кто пребывает во Мне, и Я в нем, тот приносит много плода; ибо без Меня не можете делать ничего.</p><cite>Ин. 15:5</cite></blockquote>
-<h2>2) Судьба человек – Бог суверенитет, ответственность человек Рим. 8:29-31</h2>
-<blockquote><p>Ибо кого Он предузнал, тем и предопределил быть подобными образу Сына Своего, дабы Он был первородным между многими братиями. А кого Он предопределил, тех и призвал, а кого призвал, тех и оправдал; а кого оправдал, тех и прославил. Что же сказать на это? Если Бог за нас, кто против нас?</p><cite>Рим. 8:29-31</cite></blockquote>
-<h3>(1) Божье предузнание – знание выбора человека в отношении Слово Божье до сотворения мира (свободная воля человека). Еф. 1:4</h3>
-<blockquote><p>так как Он избрал нас в Нем прежде создания мира, чтобы мы были святы и непорочны пред Ним в любви,</p><cite>Еф. 1:4</cite></blockquote>
-<h4>(а) «Предопределенные к спасению» - Божье предузнание и избрание (выбор и ответственность каждого человека) Рим. 8:29,1-е Пет. 1:2,Иер. 1:5, - Еф. 1:4,2-е Фес. 2:13,Дн. 13:48, Гал. 1:15,Рим. 11:25, - Мф. 1:21</h4>
-<blockquote><p>Ибо кого Он предузнал, тем и предопределил быть подобными образу Сына Своего, дабы Он был первородным между многими братиями.</p><cite>Рим. 8:29</cite></blockquote>
-<blockquote><p>по предведению Бога Отца, при освящении от Духа, к послушанию и окроплению Кровию Иисуса Христа: благодать вам и мир да умножится.</p><cite>1-е Пет. 1:2</cite></blockquote>
-<blockquote><p>прежде нежели Я образовал тебя во чреве, Я познал тебя, и прежде нежели ты вышел из утробы, Я освятил тебя: пророком для народов поставил тебя.</p><cite>Иер. 1:5</cite></blockquote>
-<blockquote><p>так как Он избрал нас в Нем прежде создания мира, чтобы мы были святы и непорочны пред Ним в любви,</p><cite>Еф. 1:4</cite></blockquote>
-<blockquote><p>Мы же всегда должны благодарить Бога за вас, возлюбленные Господом братия, что Бог от начала, через освящение Духа и веру истине, избрал вас ко спасению,</p><cite>2-е Фес. 2:13</cite></blockquote>
-<blockquote><p>Язычники, слыша это, радовались и прославляли слово Господне, и уверовали все, которые были предуставлены к вечной жизни.</p><cite>Дн. 13:48</cite></blockquote>
-<blockquote><p>Когда же Бог, избравший меня от утробы матери моей и призвавший благодатью Своею, благоволил</p><cite>Гал. 1:15</cite></blockquote>
-<blockquote><p>Ибо не хочу оставить вас, братия, в неведении о тайне сей, -- чтобы вы не мечтали о себе, -- что ожесточение произошло в Израиле отчасти, <em>до</em> <em>времени,</em> пока войдет полное <em>число</em> язычников;</p><cite>Рим. 11:25</cite></blockquote>
-<blockquote><p>родит же Сына, и наречешь Ему имя Иисус, ибо Он спасет людей Своих от грехов их.</p><cite>Мф. 1:21</cite></blockquote>
-<h4>(б) «Предопределенные к погибели» - Божье предузнание и избрание (выбор и ответственность каждого человека) Мф. 23:37,Дн. 13:46,7:51,Ос. 4:6,2-е Фес. 2:10,Ис. 66:1-4 (Гал. 6:7-8), Ин. 17:12,1-е Ин. 3:12,Рим. 9:17, - Мф. 7:13-14 (большинство)</h4>
-<blockquote><p>Иерусалим, Иерусалим, избивающий пророков и камнями побивающий посланных к тебе! сколько раз хотел Я собрать детей твоих, как птица собирает птенцов своих под крылья, и вы не захотели!</p><cite>Мф. 23:37</cite></blockquote>
-<blockquote><p>Тогда Павел и Варнава с дерзновением сказали: вам первым надлежало быть проповедану слову Божию, но как вы отвергаете его и сами себя делаете недостойными вечной жизни, то вот, мы обращаемся к язычникам.</p><cite>Дн. 13:46</cite></blockquote>
-<blockquote><p>Жестоковыйные! люди с необрезанным сердцем и ушами! вы всегда противитесь Духу Святому, как отцы ваши, так и вы.</p><cite>Дн. 7:51</cite></blockquote>
-<blockquote><p>Истреблен будет народ Мой за недостаток ведения: так как ты отверг ведение, то и Я отвергну тебя от священнодействия предо Мною; и как ты забыл закон Бога твоего то и Я забуду детей твоих.</p><cite>Ос. 4:6</cite></blockquote>
-<blockquote><p>и со всяким неправедным обольщением погибающих за то, что они не приняли любви истины для своего спасения.</p><cite>2-е Фес. 2:10</cite></blockquote>
-<blockquote><p>Так говорит Господь: небо - престол Мой, а земля - подножие ног Моих; где же построите вы дом для Меня, и где место покоя Моего? Ибо все это соделала рука Моя, и все сие было, говорит Господь. А вот на кого Я призрю: на смиренного и сокрушенного духом и на трепещущего пред словом Моим.  заколающий вола - то же, что убивающий человека; приносящий агнца в жертву - то же, что задушающий пса; приносящий семидал - то же, что приносящий свиную кровь; воскуряющий фимиам - то же, что молящийся идолу; и как они избрали собственные свои пути, и душа их находит удовольствие в мерзостях их, - так и Я употреблю их обольщение и наведу на них ужасное для них: потому что Я звал, и не было отвечающего, говорил, и они не слушали, а делали злое в очах Моих и избирали то, что неугодно Мне.</p><cite>Ис. 66:1-4</cite></blockquote>
-<blockquote><p>Не обманывайтесь: Бог поругаем не бывает. Что посеет человек, то и пожнет: сеющий в плоть свою от плоти пожнет тление, а сеющий в дух от духа пожнет жизнь вечную.</p><cite>Гал. 6:7-8</cite></blockquote>
-<blockquote><p>Когда Я был с ними в мире, Я соблюдал их во имя Твое; тех, которых Ты дал Мне, Я сохранил, и никто из них не погиб, кроме сына погибели, да сбудется Писание.</p><cite>Ин. 17:12</cite></blockquote>
-<blockquote><p>не так, как Каин, <em>который</em> был от лукавого и убил брата своего. А за что убил его? За то, что дела его были злы, а дела брата его праведны.</p><cite>1-е Ин. 3:12</cite></blockquote>
-<blockquote><p>Ибо Писание говорит фараону: для того самого Я и поставил тебя, чтобы показать над тобою силу Мою и чтобы проповедано было имя Мое по всей земле.</p><cite>Рим. 9:17</cite></blockquote>
-<blockquote><p>Входите тесными вратами, потому что широки врата и пространен путь, ведущие в погибель, и многие идут ими; потому что тесны врата и узок путь, ведущие в жизнь, и немногие находят их.</p><cite>Мф. 7:13-14</cite></blockquote>
-<h4>(в) Предопределение каждого человека – Божья тайна, важность возвещения Слово Божье, Завета, Христос (разбойник, Иуда) 1-е Кор. 6:2</h4>
-<blockquote><p>Разве не знаете, что святые будут судить мир? Если же вами будет судим мир, то неужели вы недостойны судить маловажные <em>дела?</em></p><cite>1-е Кор. 6:2</cite></blockquote>
-<h3>(2) Правильное понимание судьбы человека</h3>
-<h4>(а) Божье понимание судьбы – жизнь человека с или вне Бога</h4>
-<h4>(б) Человеческое понимание судьбы – качество или количество лет жизни на земле</h4>
-<h4>(в) Принятие или непринятие Слово Божье, Завета, Христос – суть судьбы человек</h4>
-<h4>(г) Судьба и обстоятельства жизни – Божье предузнание и план, выбор и ответственность человека Быт. 2:9,16-17 (Втор. 30:19), - Пс. 138:16,Пр. 29:26,19:21</h4>
-<blockquote><p>И произрастил Господь Бог из земли всякое дерево, приятное на вид и хорошее для пищи, и дерево жизни посреди рая, и дерево познания добра и зла.</p><cite>Быт. 2:9</cite></blockquote>
-<blockquote><p>И заповедал Господь Бог человеку, говоря: от всякого дерева в саду ты будешь есть, а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:16-17</cite></blockquote>
-<blockquote><p>Во свидетели пред вами призываю сегодня небо и землю: жизнь и смерть предложил я тебе, благословение и проклятие. Избери жизнь, дабы жил ты и потомство твое,</p><cite>Втор. 30:19</cite></blockquote>
-<blockquote><p>Зародыш мой видели очи Твои; в Твоей книге записаны все дни, для меня назначенные, когда ни одного из них еще не было.</p><cite>Пс. 138:16</cite></blockquote>
-<blockquote><p>Многие ищут <em>благосклонного</em> лица правителя, но судьба человека - от Господа.</p><cite>Пр. 29:26</cite></blockquote>
-<blockquote><p>Много замыслов в сердце человека, но состоится только определенное Господом.</p><cite>Пр. 19:21</cite></blockquote>
-<h2>3) Понимание обстоятельств в жизни человека</h2>
-<h3>(1) Обстоятельства – причинно-следственная связь (выбор человек)</h3>
-<h4>(а) Важность правильных поступков и действий в жизни человек</h4>
-<h4>(б) Важность понимания Слово Божье, Завета, Христос, Божья мудрость</h4>
-<h3>(2) Понимание причин трудных обстоятельств</h3>
-<h4>(а) Нарушение Слово Божье (законы жизни) – последствия. Гал. 6:7-8</h4>
-<blockquote><p>Не обманывайтесь: Бог поругаем не бывает. Что посеет человек, то и пожнет: сеющий в плоть свою от плоти пожнет тление, а сеющий в дух от духа пожнет жизнь вечную.</p><cite>Гал. 6:7-8</cite></blockquote>
-<h4>(б) Для славы Божьей, испытание веры, Бог план. 1-е Пет. 4:12-13</h4>
-<blockquote><p>Возлюбленные! огненного искушения, для испытания вам посылаемого, не чуждайтесь, как приключения для вас странного, но как вы участвуете в Христовых страданиях, радуйтесь, да и в явление славы Его возрадуетесь и восторжествуете.</p><cite>1-е Пет. 4:12-13</cite></blockquote>
-<h3>(3) Все обстоятельства – Божий план, нет плохих обстоятельств</h3>
-<h4>(а) Дети Божьи – все обстоятельства во благо. Рим. 8:28</h4>
-<blockquote><p>Притом знаем, что любящим Бога, призванным по <em>Его</em> изволению, все содействует ко благу.</p><cite>Рим. 8:28</cite></blockquote>
-<h4>(б) Дети дьявол – все обстоятельства во зло. Гал. 6:7-8</h4>
-<blockquote><p>Не обманывайтесь: Бог поругаем не бывает. Что посеет человек, то и пожнет: сеющий в плоть свою от плоти пожнет тление, а сеющий в дух от духа пожнет жизнь вечную.</p><cite>Гал. 6:7-8</cite></blockquote>
-<h4>(в) Бог контроль обстоятельств. Мф. 10:28,1-е Кор. 10:13,Евр. 13:5</h4>
-<blockquote><p>И не бойтесь убивающих тело, души же не могущих убить; а бойтесь более того, кто может и душу и тело погубить в геенне.</p><cite>Мф. 10:28</cite></blockquote>
-<blockquote><p>Вас постигло искушение не иное, как человеческое; и верен Бог, Который не попустит вам быть искушаемыми сверх сил, но при искушении даст и облегчение, так чтобы вы могли перенести.</p><cite>1-е Кор. 10:13</cite></blockquote>
-<blockquote><p>Имейте нрав несребролюбивый, довольствуясь тем, что есть. Ибо Сам сказал: не оставлю тебя и не покину тебя,</p><cite>Евр. 13:5</cite></blockquote>
-<h3>(4) Важность увидеть и понять Божий план в обстоятельствах</h3>
-<h4>(а) Доверие Богу – происходит самое лучшее для меня. Фил. 2:21</h4>
-<blockquote><p>потому что все ищут своего, а не того, что <em>угодно</em> Иисусу Христу.</p><cite>Фил. 2:21</cite></blockquote>
-<h4>(б) Непринятие Божьих обстоятельств – ропот. 1-е Кор. 10:1-13</h4>
-<blockquote><p>Не хочу оставить вас, братия, в неведении, что отцы наши все были под облаком, и все прошли сквозь море; и все крестились в Моисея в облаке и в море; и все ели одну и ту же духовную пищу; и все пили одно и то же духовное питие: ибо пили из духовного последующего камня; камень же был Христос. Но не о многих из них благоволил Бог, ибо они поражены были в пустыне. А это были образы для нас, чтобы мы не были похотливы на злое, как они были похотливы. Не будьте также идолопоклонниками, как некоторые из них, о которых написано: народ сел есть и пить, и встал играть. Не станем блудодействовать, как некоторые из них блудодействовали, и в один день погибло их двадцать три тысячи. Не станем искушать Христа, как некоторые из них искушали и погибли от змей. Не ропщите, как некоторые из них роптали и погибли от истребителя. Все это происходило с ними, <em>как</em> образы; а описано в наставление нам, достигшим последних веков. Посему, кто думает, что он стоит, берегись, чтобы не упасть. Вас постигло искушение не иное, как человеческое; и верен Бог, Который не попустит вам быть искушаемыми сверх сил, но при искушении даст и облегчение, так чтобы вы могли перенести.</p><cite>1-е Кор. 10:1-13</cite></blockquote>
-<h3>(5) Исполнение Бог плана, судьба человека. Рим. 8:29-30,Иер. 29:11</h3>
-<blockquote><p>Ибо кого Он предузнал, тем и предопределил быть подобными образу Сына Своего, дабы Он был первородным между многими братиями. А кого Он предопределил, тех и призвал, а кого призвал, тех и оправдал; а кого оправдал, тех и прославил.</p><cite>Рим. 8:29-30</cite></blockquote>
-<blockquote><p>Ибо <em>только</em> Я знаю намерения, какие имею о вас, говорит Господь, намерения во благо, а не на зло, чтобы дать вам будущность и надежду.</p><cite>Иер. 29:11</cite></blockquote>
-<h4>(а) Эпоха, рождение и смерть, жизненные обстоятельства</h4>
-<h4>(б) Бог призвание – Бог суверенитет, расписание времени и встреч</h4>
-<h4>(в) Бог оправдание – донесение Завета, Христос, прощение всех грехов</h4>
-<h4>(г) Бог прославление – введение человека в славу Бог (предназнач.)</h4>
-<h3>(6) Важность понимания секрета судьбы человека</h3>
-<h4>(а) Принятие Слово Божье, Завета, Христос – хорошая судьба человека</h4>
-<h4>(б) Непринятие Слово Божье, Завета, Христос – плохая судьба человека</h4>
-<h2>4) Рим. 8:31-39, - понимание и уверенность в спасении</h2>
-<blockquote><p>Что же сказать на это? Если Бог за нас, кто против нас? Тот, Который Сына Своего не пощадил, но предал Его за всех нас, как с Ним не дарует нам и всего? Кто будет обвинять избранных Божиих? Бог оправдывает <em>их.</em> Кто осуждает? Христос Иисус умер, но и воскрес: Он и одесную Бога, Он и ходатайствует за нас. Кто отлучит нас от любви Божией: скорбь, или теснота, или гонение, или голод, или нагота, или опасность, или меч? как написано: за Тебя умерщвляют нас всякий день, считают нас за овец, <em>обреченных</em> на заклание. Но все сие преодолеваем силою Возлюбившего нас. Ибо я уверен, что ни смерть, ни жизнь, ни Ангелы, ни Начала, ни Силы, ни настоящее, ни будущее, ни высота, ни глубина, ни другая какая тварь не может отлучить нас от любви Божией во Христе Иисусе, Господе нашем.</p><cite>Рим. 8:31-39</cite></blockquote>
-<h3>(1) Рим. 8:31-32, - основание уверенности человека в спасении</h3>
-<blockquote><p>Что же сказать на это? Если Бог за нас, кто против нас? Тот, Который Сына Своего не пощадил, но предал Его за всех нас, как с Ним не дарует нам и всего?</p><cite>Рим. 8:31-32</cite></blockquote>
-<h4>(а) Жертва и Подвиг Христа, очевидная любовь Божья. Рим. 5:8</h4>
-<blockquote><p>Но Бог Свою любовь к нам доказывает тем, что Христос умер за нас, когда мы были еще грешниками.</p><cite>Рим. 5:8</cite></blockquote>
-<h4>(б) Понимание Слово Божье, Завета, Христос – спасение человечества, центральная мысль Писаний и истории человечества</h4>
-<h3>(2) Рим. 8:33-34, - понимание оправдания и ходатайства Христос</h3>
-<blockquote><p>Кто будет обвинять избранных Божиих? Бог оправдывает <em>их.</em> Кто осуждает? Христос Иисус умер, но и воскрес: Он и одесную Бога, Он и ходатайствует за нас.</p><cite>Рим. 8:33-34</cite></blockquote>
-<h4>(а) Понимание действия сатана – обвинение и осуждение человека</h4>
-<h4>(б) Понимание действия Христос – Ходатай и Первосвященник человек (Исполнение приговора Слово Божье – искупление всякого человека)</h4>
-<h3>(3) Рим. 8:35-39, - важность понимания Божьего суверенитета</h3>
-<blockquote><p>Кто отлучит нас от любви Божией: скорбь, или теснота, или гонение, или голод, или нагота, или опасность, или меч? как написано: за Тебя умерщвляют нас всякий день, считают нас за овец, <em>обреченных</em> на заклание. Но все сие преодолеваем силою Возлюбившего нас. Ибо я уверен, что ни смерть, ни жизнь, ни Ангелы, ни Начала, ни Силы, ни настоящее, ни будущее, ни высота, ни глубина, ни другая какая тварь не может отлучить нас от любви Божией во Христе Иисусе, Господе нашем.</p><cite>Рим. 8:35-39</cite></blockquote>
-<h4>(а) Понимание обстоятельств жизни и Бог сохраняющ. благодати</h4>
-<h4>(б) Важность понимания Бог суверенитета (Бог любовь и контроль)</h4>
-<h2>Заключение:</h2>
-<h3>(1) Важность понимания секрета судьбы человека</h3>
-<h4>(а) Принятие Слово Божье, Завета, Христос – хорошая судьба человека</h4>
-<h4>(б) Непринятие Слово Божье, Завета, Христос – плохая судьба человека</h4>
-<h3>(2) Важность понимания Божьего суверенитета и контроля</h3>
-<h3>(3) Важность понимания и уверенности в спасении</h3>
-<h2>9.1) Рим.9, - понимание Божьего суверенитета и спасения</h2>
-<h3>(1) Рим. 9:1-5, - понимание предназначения народа Божьего. (Познание и передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация, подготовка прихода Христа – Ханаан, Закон, Скиния, Храм) Быт. 1:27,2:7,9,16-17, - Быт. 3:1-7 (Рим. 5:12,6:23,Еф. 2:2), -Быт. 3:15,21,Мф. 16:16,Ин. 19:30, - Рим. 10:9</h3>
-<blockquote><p>Истину говорю во Христе, не лгу, свидетельствует мне совесть моя в Духе Святом, что великая для меня печаль и непрестанное мучение сердцу моему: я желал бы сам быть отлученным от Христа за братьев моих, родных мне по плоти, то есть Израильтян, которым принадлежат усыновление и слава, и заветы, и законоположение, и богослужение, и обетования; их и отцы, и от них Христос по плоти, сущий над всем Бог, благословенный во веки, аминь.</p><cite>Рим. 9:1-5</cite></blockquote>
+<h1>Иак. 5</h1>
+<h2 id="s1">4.1) Иак. 5:1-6, - непринятие Слово Божье, Завета, Христос</h2>
+<blockquote><p>Послушайте вы, богатые: плачьте и рыдайте о бедствиях ваших, находящих на вас. Богатство ваше сгнило, и одежды ваши изъедены молью. Золото ваше и серебро изоржавело, и ржавчина их будет свидетельством против вас и съест плоть вашу, как огонь: вы собрали себе сокровище на последние дни. Вот, плата, удержанная вами у работников, пожавших поля ваши, вопиет, и вопли жнецов дошли до слуха Господа Саваофа. Вы роскошествовали на земле и наслаждались; напитали сердца ваши, как бы на день заклания. Вы осудили, убили Праведника; Он не противился вам.</p><cite>Иак. 5:1-6</cite></blockquote>
+<h3>(1) Неправильное упование человек – маммона, видимое, гибель Быт. 1:27,2:7,9,16-17, - Быт. 3:1-7 (Рим. 5:12,6:23,Еф. 2:2), -Быт. 3:15,21,Мф. 16:16 (1-е Тим. 3:16), Ин. 19:30, - Рим. 10:9</h3>
 <blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
 <blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
 <blockquote><p>И произрастил Господь Бог из земли всякое дерево, приятное на вид и хорошее для пищи, и дерево жизни посреди рая, и дерево познания добра и зла.</p><cite>Быт. 2:9</cite></blockquote>
@@ -217,519 +256,78 @@ details.download .menu a:hover{background:var(--quote)}
 <blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
 <blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
 <blockquote><p>Симон же Петр, отвечая, сказал: Ты -- Христос, Сын Бога Живаго.</p><cite>Мф. 16:16</cite></blockquote>
+<blockquote><p>И беспрекословно -- великая благочестия тайна: Бог явился во плоти, оправдал Себя в Духе, показал Себя Ангелам, проповедан в народах, принят верою в мире, вознесся во славе.</p><cite>1-е Тим. 3:16</cite></blockquote>
 <blockquote><p>Когда же Иисус вкусил уксуса, сказал: совершилось! И, преклонив главу, предал дух.</p><cite>Ин. 19:30</cite></blockquote>
 <blockquote><p>Ибо если устами твоими будешь исповедывать Иисуса Господом и сердцем твоим веровать, что Бог воскресил Его из мертвых, то спасешься,</p><cite>Рим. 10:9</cite></blockquote>
-<h4>(а) Рим. 9:1-3, - печаль Павла об иудеях, непринятие, отказ от Слово Божье, Завета, Христос, отказ от предназначения. Мф. 22:41-46,Рим. 9:30</h4>
-<blockquote><p>Истину говорю во Христе, не лгу, свидетельствует мне совесть моя в Духе Святом, что великая для меня печаль и непрестанное мучение сердцу моему: я желал бы сам быть отлученным от Христа за братьев моих, родных мне по плоти,</p><cite>Рим. 9:1-3</cite></blockquote>
-<blockquote><p>Когда же собрались фарисеи, Иисус спросил их: что вы думаете о Христе? чей Он Сын? Говорят Ему: Давидов. Говорит им: как же Давид, по вдохновению, называет Его Господом, когда говорит: сказал Господь Господу моему: седи одесную Меня, доколе положу врагов Твоих в подножие ног Твоих? Итак, если Давид называет Его Господом, как же Он сын ему? И никто не мог отвечать Ему ни слова; и с того дня никто уже не смел спрашивать Его.</p><cite>Мф. 22:41-46</cite></blockquote>
-<blockquote><p>Что же скажем? Язычники, не искавшие праведности, получили праведность, праведность от веры.</p><cite>Рим. 9:30</cite></blockquote>
-<h4>(б) Рим. 9:4-5, - отвержение Божьей любви и милости, отвержение Слово Божье, Завета, Христос, отвержение Бога, отвержение Божественности Иисуса Христа (современный иудаизм)</h4>
-<blockquote><p>то есть Израильтян, которым принадлежат усыновление и слава, и заветы, и законоположение, и богослужение, и обетования; их и отцы, и от них Христос по плоти, сущий над всем Бог, благословенный во веки, аминь.</p><cite>Рим. 9:4-5</cite></blockquote>
-<h3>(2) Рим. 9:6-8, - понимание принадлежности к народу Божьему</h3>
-<blockquote><p>Но не то, чтобы слово Божие не сбылось: ибо не все те Израильтяне, которые от Израиля; и не все дети Авраама, которые от семени его, но сказано: в Исааке наречется тебе семя. То есть не плотские дети суть дети Божии, но дети обетования признаются за семя.</p><cite>Рим. 9:6-8</cite></blockquote>
-<h4>(а) Истинные потомки Авраама, истинный Израиль – принятие Христа. Рим. 9:6-8,Гал. 3:7,29</h4>
-<blockquote><p>Но не то, чтобы слово Божие не сбылось: ибо не все те Израильтяне, которые от Израиля; и не все дети Авраама, которые от семени его, но сказано: в Исааке наречется тебе семя. То есть не плотские дети суть дети Божии, но дети обетования признаются за семя.</p><cite>Рим. 9:6-8</cite></blockquote>
-<blockquote><p>Познайте же, что верующие суть сыны Авраама.</p><cite>Гал. 3:7</cite></blockquote>
-<blockquote><p>Если же вы Христовы, то вы семя Авраамово и по обетованию наследники.</p><cite>Гал. 3:29</cite></blockquote>
-<h4>(б) Ложные потомки Авраама, ложный Израиль – непринятие Христа. Рим. 9:6-8,2:28-29, - Ин. 8:39-44,Отк. 2:9,3:9. (Видимый успех иудеев – Божье допущение, исполнение Слово Божье, постройка третьего Храма, воцарение антихриста)</h4>
-<blockquote><p>Но не то, чтобы слово Божие не сбылось: ибо не все те Израильтяне, которые от Израиля; и не все дети Авраама, которые от семени его, но сказано: в Исааке наречется тебе семя. То есть не плотские дети суть дети Божии, но дети обетования признаются за семя.</p><cite>Рим. 9:6-8</cite></blockquote>
-<blockquote><p>Ибо не тот Иудей, кто <em>таков</em> по наружности, и не то обрезание, которое наружно, на плоти; но <em>тот</em> Иудей, кто внутренно <em>таков,</em> и <em>то</em> обрезание, <em>которое</em> в сердце, по духу, <em>а</em> не по букве: ему и похвала не от людей, но от Бога.</p><cite>Рим. 2:28-29</cite></blockquote>
-<blockquote><p>Сказали Ему в ответ: отец наш есть Авраам. Иисус сказал им: если бы вы были дети Авраама, то дела Авраамовы делали бы. А теперь ищете убить Меня, Человека, сказавшего вам истину, которую слышал от Бога: Авраам этого не делал. Вы делаете дела отца вашего. На это сказали Ему: мы не от любодеяния рождены; одного Отца имеем, Бога. Иисус сказал им: если бы Бог был Отец ваш, то вы любили бы Меня, потому что Я от Бога исшел и пришел; ибо Я не Сам от Себя пришел, но Он послал Меня. Почему вы не понимаете речи Моей? Потому что не можете слышать слова Моего. Ваш отец диавол; и вы хотите исполнять похоти отца вашего. Он был человекоубийца от начала и не устоял в истине, ибо нет в нем истины. Когда говорит он ложь, говорит свое, ибо он лжец и отец лжи.</p><cite>Ин. 8:39-44</cite></blockquote>
-<blockquote><p>Знаю твои дела, и скорбь, и нищету (впрочем ты богат), и злословие от тех, которые говорят о себе, что они Иудеи, а они не таковы, но сборище сатанинское.</p><cite>Отк. 2:9</cite></blockquote>
-<blockquote><p>Вот, Я сделаю, что из сатанинского сборища, из тех, которые говорят о себе, что они Иудеи, но не суть таковы, а лгут, -- вот, Я сделаю то, что они придут и поклонятся пред ногами твоими, и познают, что Я возлюбил тебя.</p><cite>Отк. 3:9</cite></blockquote>
-<h4>(в) Сокрытие истинных потомков Авраама среди иудеев и языч Рим. 9:6-8, - Ин. 10:14-16,Рим. 11:25-26 (2:11)</h4>
-<blockquote><p>Но не то, чтобы слово Божие не сбылось: ибо не все те Израильтяне, которые от Израиля; и не все дети Авраама, которые от семени его, но сказано: в Исааке наречется тебе семя. То есть не плотские дети суть дети Божии, но дети обетования признаются за семя.</p><cite>Рим. 9:6-8</cite></blockquote>
-<blockquote><p>Я есмь пастырь добрый; и знаю Моих, и Мои знают Меня. Как Отец знает Меня, <em>так</em> и Я знаю Отца; и жизнь Мою полагаю за овец. Есть у Меня и другие овцы, которые не сего двора, и тех надлежит Мне привести: и они услышат голос Мой, и будет одно стадо и один Пастырь.</p><cite>Ин. 10:14-16</cite></blockquote>
-<blockquote><p>Ибо не хочу оставить вас, братия, в неведении о тайне сей, -- чтобы вы не мечтали о себе, -- что ожесточение произошло в Израиле отчасти, <em>до</em> <em>времени,</em> пока войдет полное <em>число</em> язычников; и так весь Израиль спасется, как написано: придет от Сиона Избавитель, и отвратит нечестие от Иакова.</p><cite>Рим. 11:25-26</cite></blockquote>
-<blockquote><p>Ибо нет лицеприятия у Бога.</p><cite>Рим. 2:11</cite></blockquote>
-<h4>(г) Непонимание истинных потомков Авраама, истинного Израиля – гордыня, превозношение над другими народами. (2000 лет народ Божий – 2000 лет иудеи – 2000 лет язычники) Быт. 9:26-27,Рим. 2:11</h4>
-<blockquote><p>Потом сказал: благословен Господь Бог Симов; Ханаан же будет рабом ему; да распространит Бог Иафета, и да вселится он в шатрах Симовых; Ханаан же будет рабом ему.</p><cite>Быт. 9:26-27</cite></blockquote>
-<blockquote><p>Ибо нет лицеприятия у Бога.</p><cite>Рим. 2:11</cite></blockquote>
-<h2>2) Рим. 9:8-24, - понимание Божьего предузнания и избрания</h2>
-<blockquote><p>То есть не плотские дети суть дети Божии, но дети обетования признаются за семя. А слово обетования таково: в это же время приду, и у Сарры будет сын. И не одно это; но <em>так</em> <em>было</em> и с Ревеккою, когда она зачала в одно время <em>двух</em> <em>сыновей</em> от Исаака, отца нашего. Ибо, когда они еще не родились и не сделали ничего доброго или худого (дабы изволение Божие в избрании происходило не от дел, но от Призывающего), сказано было ей: больший будет в порабощении у меньшего, как и написано: Иакова Я возлюбил, а Исава возненавидел. Что же скажем? Неужели неправда у Бога? Никак. Ибо Он говорит Моисею: кого миловать, помилую; кого жалеть, пожалею. Итак <em>помилование</em> <em>зависит</em> не от желающего и не от подвизающегося, но от Бога милующего. Ибо Писание говорит фараону: для того самого Я и поставил тебя, чтобы показать над тобою силу Мою и чтобы проповедано было имя Мое по всей земле. Итак, кого хочет, милует; а кого хочет, ожесточает. Ты скажешь мне: "за что же еще обвиняет? Ибо кто противостанет воле Его?" А ты кто, человек, что споришь с Богом? Изделие скажет ли сделавшему его: "зачем ты меня так сделал?" Не властен ли горшечник над глиною, чтобы из той же смеси сделать один сосуд для почетного <em>употребления,</em> а другой для низкого? Что же, если Бог, желая показать гнев и явить могущество Свое, с великим долготерпением щадил сосуды гнева, готовые к погибели, дабы вместе явить богатство славы Своей над сосудами милосердия, которые Он приготовил к славе, над нами, которых Он призвал не только из Иудеев, но и из язычников?</p><cite>Рим. 9:8-24</cite></blockquote>
-<h3>(1) Рим. 9:8-9, - Божий суверенитет, избрание Исаака</h3>
-<blockquote><p>То есть не плотские дети суть дети Божии, но дети обетования признаются за семя. А слово обетования таково: в это же время приду, и у Сарры будет сын.</p><cite>Рим. 9:8-9</cite></blockquote>
-<h4>(а) Измаил – непринятие Слово Божье, Завета, Христос, выбор потвержденный жизнью человека</h4>
-<h4>(б) Исаак – принятие Слово Божье, Завета, Христос, выбор потвержденный жизнью человека</h4>
-<h3>(2) Рим. 9:10-14, - Божий суверенитет, избрание Иакова</h3>
-<blockquote><p>И не одно это; но <em>так</em> <em>было</em> и с Ревеккою, когда она зачала в одно время <em>двух</em> <em>сыновей</em> от Исаака, отца нашего. Ибо, когда они еще не родились и не сделали ничего доброго или худого (дабы изволение Божие в избрании происходило не от дел, но от Призывающего), сказано было ей: больший будет в порабощении у меньшего, как и написано: Иакова Я возлюбил, а Исава возненавидел. Что же скажем? Неужели неправда у Бога? Никак.</p><cite>Рим. 9:10-14</cite></blockquote>
-<h4>(а) Исав – непринятие Слово Божье, Завета, Христос, выбор потвержденный жизнью человека. Евр. 12:16-17</h4>
-<blockquote><p>чтобы не было <em>между</em> <em>вами</em> какого блудника, или нечестивца, который бы, как Исав, за одну снедь отказался от своего первородства. Ибо вы знаете, что после того он, желая наследовать благословение, был отвержен; не мог переменить мыслей <em>отца,</em> хотя и просил о том со слезами.</p><cite>Евр. 12:16-17</cite></blockquote>
-<h4>(б) Иаков – принятие Слово Божье, Завета, Христос, выбор потвержденный жизнью человека</h4>
-<h4>(в) Важность понимания абсолютной справедливости Бога</h4>
-<h3>(3) Рим. 9:15-16, - Божий суверенитет, справедливость Божья</h3>
-<blockquote><p>Ибо Он говорит Моисею: кого миловать, помилую; кого жалеть, пожалею. Итак <em>помилование</em> <em>зависит</em> не от желающего и не от подвизающегося, но от Бога милующего.</p><cite>Рим. 9:15-16</cite></blockquote>
-<h4>(а) Смысл Божьей любви и милости к человек – Слово Божье, Завет, Христос</h4>
-<h4>(б) Важность понимания предузнания Божьего и действия Божьей благодати. Отк. 3:20,Ин. 6:44,65,15:5</h4>
-<blockquote><p>Се, стою у двери и стучу: если кто услышит голос Мой и отворит дверь, войду к нему, и буду вечерять с ним, и он со Мною.</p><cite>Отк. 3:20</cite></blockquote>
-<blockquote><p>Никто не может придти ко Мне, если не привлечет его Отец, пославший Меня; и Я воскрешу его в последний день.</p><cite>Ин. 6:44</cite></blockquote>
-<blockquote><p>И сказал: для того-то и говорил Я вам, что никто не может придти ко Мне, если то не дано будет ему от Отца Моего.</p><cite>Ин. 6:65</cite></blockquote>
-<blockquote><p>Я есмь лоза, а вы ветви; кто пребывает во Мне, и Я в нем, тот приносит много плода; ибо без Меня не можете делать ничего.</p><cite>Ин. 15:5</cite></blockquote>
-<h3>(4) Рим. 9:17, - Божий суверенитет, отвержение фараона</h3>
-<blockquote><p>Ибо Писание говорит фараону: для того самого Я и поставил тебя, чтобы показать над тобою силу Мою и чтобы проповедано было имя Мое по всей земле.</p><cite>Рим. 9:17</cite></blockquote>
-<h4>(а) Фараон – непринятие Слово Божье, Завета, Христос, выбор потвержденный жизнью человека (суды Божьи, мудрецы фараона и т.д.)</h4>
-<h4>(б) Понимание Божьего предузнания и судьбы человека</h4>
-<h3>(5) Рим. 9:18-20, - понимание абсолютной справедливости Божьей – принятие или непринятие Слово Божье, Завета, Христос</h3>
-<blockquote><p>Итак, кого хочет, милует; а кого хочет, ожесточает. Ты скажешь мне: "за что же еще обвиняет? Ибо кто противостанет воле Его?" А ты кто, человек, что споришь с Богом? Изделие скажет ли сделавшему его: "зачем ты меня так сделал?"</p><cite>Рим. 9:18-20</cite></blockquote>
-<h4>(а) Важность понимания воли Божьей. 1-е Тим. 2:4</h4>
-<blockquote><p>Который хочет, чтобы все люди спаслись и достигли познания истины.</p><cite>1-е Тим. 2:4</cite></blockquote>
-<h4>(б) Важность понимания Божьего предузнания и судьбы человек (Ожесточение человек – разрешение сатана действовать, выбор человек)</h4>
-<h4>(в) Важность понимания ответственности человек в отношении следования за Богом и своей судьбы. Дн. 13:43,Евр. 2:1</h4>
-<blockquote><p>Когда же собрание было распущено, то многие Иудеи и чтители <em>Бога,</em> обращенные из язычников, последовали за Павлом и Варнавою, которые, беседуя с ними, убеждали их пребывать в благодати Божией.</p><cite>Дн. 13:43</cite></blockquote>
-<blockquote><p>Посему мы должны быть особенно внимательны к слышанному, чтобы не отпасть.</p><cite>Евр. 2:1</cite></blockquote>
-<h4>(г) Потверждение Божьего предузнания, избрания и судьбы – выбор потвержденный жизнью человека (ответственность человек)</h4>
-<h3>(6) Рим. 9:21-24, - важность понимания Божьего суверенитета</h3>
-<blockquote><p>Не властен ли горшечник над глиною, чтобы из той же смеси сделать один сосуд для почетного <em>употребления,</em> а другой для низкого? Что же, если Бог, желая показать гнев и явить могущество Свое, с великим долготерпением щадил сосуды гнева, готовые к погибели, дабы вместе явить богатство славы Своей над сосудами милосердия, которые Он приготовил к славе, над нами, которых Он призвал не только из Иудеев, но и из язычников?</p><cite>Рим. 9:21-24</cite></blockquote>
-<h4>(а) Все люди – Божьи творения, одна и таже глина</h4>
-<h4>(б) Сосуды высокого употребления – принятие Слово Божье, Завета, Христос, дети Божьи, Божье предузнание и избрание (Авраам, Павел)</h4>
-<h4>(в) Сосуды низкого употребления – непринятие Слово Божье, Завета, Христос, дети дьявол, Божье предузнание и избрание (фараон, Иуда). Пс. 72</h4>
-<h4>(г) Все люди и все творение служит Богу независимо от своего желания – понимание Божьего Господства и Всевластия</h4>
-<h4>(д) Важность понимания долготерпения Божьего – желание покаяния человека. 2-е Пет. 3:9,2-е Кор. 5:19-21</h4>
-<blockquote><p>Не медлит Господь <em>исполнением</em> обетования, как некоторые почитают то медлением; но долготерпит нас, не желая, чтобы кто погиб, но чтобы все пришли к покаянию.</p><cite>2-е Пет. 3:9</cite></blockquote>
-<blockquote><p>потому что Бог во Христе примирил с Собою мир, не вменяя <em>людям</em> преступлений их, и дал нам слово примирения. Итак мы -- посланники от имени Христова, и как бы Сам Бог увещевает через нас; от имени Христова просим: примиритесь с Богом. Ибо не знавшего греха Он сделал для нас <em>жертвою</em> <em>за</em> грех, чтобы мы в Нем сделались праведными пред Богом.</p><cite>2-е Кор. 5:19-21</cite></blockquote>
-<h4>(е) Важность понимания цели и смысла жизни человека – выбор в отношении вечной жизни (с кем? и где?)</h4>
-<h4>(ж) Важность понимания неизменного суда Божьего, понимание неизбежного исполнения Слово Божье Рим. 6:23</h4>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<h2>3) Рим. 9:24-33, - важность понимания народа Божьего</h2>
-<blockquote><p>над нами, которых Он призвал не только из Иудеев, но и из язычников? Как и у Осии говорит: не Мой народ назову Моим народом, и не возлюбленную -- возлюбленною. И на том месте, где сказано им: вы не Мой народ, там названы будут сынами Бога живаго. А Исаия провозглашает об Израиле: хотя бы сыны Израилевы были числом, как песок морской, <em>только</em> остаток спасется; ибо дело оканчивает и скоро решит по правде, дело решительное совершит Господь на земле. И, как предсказал Исаия: если бы Господь Саваоф не оставил нам семени, то мы сделались бы, как Содом, и были бы подобны Гоморре. Что же скажем? Язычники, не искавшие праведности, получили праведность, праведность от веры. А Израиль, искавший закона праведности, не достиг до закона праведности. Почему? потому что <em>искали</em> не в вере, а в делах закона. Ибо преткнулись о камень преткновения, как написано: вот, полагаю в Сионе камень преткновения и камень соблазна; но всякий, верующий в Него, не постыдится.</p><cite>Рим. 9:24-33</cite></blockquote>
-<h3>(1) Рим. 9:24-29 (27), - понимание народа Бог (иудеи и язычники)</h3>
-<blockquote><p>над нами, которых Он призвал не только из Иудеев, но и из язычников? Как и у Осии говорит: не Мой народ назову Моим народом, и не возлюбленную -- возлюбленною. И на том месте, где сказано им: вы не Мой народ, там названы будут сынами Бога живаго. А Исаия провозглашает об Израиле: хотя бы сыны Израилевы были числом, как песок морской, <em>только</em> остаток спасется; ибо дело оканчивает и скоро решит по правде, дело решительное совершит Господь на земле. И, как предсказал Исаия: если бы Господь Саваоф не оставил нам семени, то мы сделались бы, как Содом, и были бы подобны Гоморре.</p><cite>Рим. 9:24-29</cite></blockquote>
-<h4>(а) Понимание сокрытия народа Божьего в язычниках</h4>
-<h4>(б) Понимание сокрытия народа Божьего в иудеях (остаток)</h4>
-<h4>(в) Важность понимания преемственности исполнения предназначения народа Божьего в истории человечества. (2000 лет народ Божий – 2000 лет иудеи – 2000 лет язычники)</h4>
-<h4>(г) Важность понимания неизменного спасения всех людей народа Божьего в истории человечества. Рим. 11:25-26</h4>
-<blockquote><p>Ибо не хочу оставить вас, братия, в неведении о тайне сей, -- чтобы вы не мечтали о себе, -- что ожесточение произошло в Израиле отчасти, <em>до</em> <em>времени,</em> пока войдет полное <em>число</em> язычников; и так весь Израиль спасется, как написано: придет от Сиона Избавитель, и отвратит нечестие от Иакова.</p><cite>Рим. 11:25-26</cite></blockquote>
-<h3>(2) Рим. 9:30-33, - важность понимания единственного способа вхождения в народ Божий для человек – принятие Слово Божье, Завета, Христос, принятие Христа как Бога, принятие полноты Его Жертвы для спасения и решения всех проблем человека</h3>
-<blockquote><p>Что же скажем? Язычники, не искавшие праведности, получили праведность, праведность от веры. А Израиль, искавший закона праведности, не достиг до закона праведности. Почему? потому что <em>искали</em> не в вере, а в делах закона. Ибо преткнулись о камень преткновения, как написано: вот, полагаю в Сионе камень преткновения и камень соблазна; но всякий, верующий в Него, не постыдится.</p><cite>Рим. 9:30-33</cite></blockquote>
-<h4>(а) Принятие Слово Божье, Завета, Христос, Благая Весть – язычники</h4>
-<h4>(б) Непринятие Слово Божье, Завета, Христос, дела закона – иудеи</h4>
-<h4>(в) Важность принятия истинной праведности Божьей – принятия Жертвы и Подвига Христа, праведность по вере</h4>
-<h4>(г) Понимание действия сатана – противление Слово Божье, Завету, Христос</h4>
-<h2>Заключение:</h2>
-<h3>(1) Важность понимания, исполнения предназначения народа Бог (Познание и передача Слово Божье, Завета, Христос, Всемирная Евангелизация, приход Христа)</h3>
-<h3>(2) Важность понимания истинных потомков Авраама</h3>
-<h3>(3) Важность понимания Божьего предузнания и избрания</h3>
-<h3>(4) Важность понимания Божьих условий спасения человека</h3>
-<h3>(5) Важность понимания права выбора человека</h3>
-<h2>10.1) Рим. 10:1-2, - важность понимания спасения</h2>
-<blockquote><p>Братия! желание моего сердца и молитва к Богу об Израиле во спасение. Ибо свидетельствую им, что имеют ревность по Боге, но не по рассуждению.</p><cite>Рим. 10:1-2</cite></blockquote>
-<h3>(1) Рим. 10:1, - важность понимания и принятия Бог суверенитета, важность понимания предназначения народа Божьего. Рим. 3:2 Быт. 1:27,2:7,9,16-17, - Быт. 3:1-7 (Рим. 5:12,6:23,Еф. 2:2), -Быт. 3:15,21,Мф. 16:16,Ин. 19:30, - Мф. 22:41-46,Рим. 9:30-33</h3>
-<blockquote><p>Братия! желание моего сердца и молитва к Богу об Израиле во спасение.</p><cite>Рим. 10:1</cite></blockquote>
-<blockquote><p>Великое преимущество во всех отношениях, а наипаче <em>в</em> <em>том,</em> что им вверено слово Божие.</p><cite>Рим. 3:2</cite></blockquote>
-<blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
-<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<blockquote><p>И произрастил Господь Бог из земли всякое дерево, приятное на вид и хорошее для пищи, и дерево жизни посреди рая, и дерево познания добра и зла.</p><cite>Быт. 2:9</cite></blockquote>
-<blockquote><p>И заповедал Господь Бог человеку, говоря: от всякого дерева в саду ты будешь есть, а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:16-17</cite></blockquote>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
-<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<blockquote><p>Симон же Петр, отвечая, сказал: Ты -- Христос, Сын Бога Живаго.</p><cite>Мф. 16:16</cite></blockquote>
-<blockquote><p>Когда же Иисус вкусил уксуса, сказал: совершилось! И, преклонив главу, предал дух.</p><cite>Ин. 19:30</cite></blockquote>
-<blockquote><p>Когда же собрались фарисеи, Иисус спросил их: что вы думаете о Христе? чей Он Сын? Говорят Ему: Давидов. Говорит им: как же Давид, по вдохновению, называет Его Господом, когда говорит: сказал Господь Господу моему: седи одесную Меня, доколе положу врагов Твоих в подножие ног Твоих? Итак, если Давид называет Его Господом, как же Он сын ему? И никто не мог отвечать Ему ни слова; и с того дня никто уже не смел спрашивать Его.</p><cite>Мф. 22:41-46</cite></blockquote>
-<blockquote><p>Что же скажем? Язычники, не искавшие праведности, получили праведность, праведность от веры. А Израиль, искавший закона праведности, не достиг до закона праведности. Почему? потому что <em>искали</em> не в вере, а в делах закона. Ибо преткнулись о камень преткновения, как написано: вот, полагаю в Сионе камень преткновения и камень соблазна; но всякий, верующий в Него, не постыдится.</p><cite>Рим. 9:30-33</cite></blockquote>
-<h3>(2) Рим. 10:2, - важность обучения и рассуждения над Слово Божье, важность правильного понимания Слово Божье, Завета, Христос Ин. 5:39. (Проблема традиций, преданий и т.д., искажение Слово Божье, Завета, Христос)</h3>
-<blockquote><p>Ибо свидетельствую им, что имеют ревность по Боге, но не по рассуждению.</p><cite>Рим. 10:2</cite></blockquote>
-<blockquote><p>Исследуйте Писания, ибо вы думаете чрез них иметь жизнь вечную; а они свидетельствуют о Мне.</p><cite>Ин. 5:39</cite></blockquote>
-<h2>2) Рим. 10:3, - оправдание делами человека, религия</h2>
-<blockquote><p>Ибо, не разумея праведности Божией и усиливаясь поставить собственную праведность, они не покорились праведности Божией,</p><cite>Рим. 10:3</cite></blockquote>
-<h3>(1) Рим. 10:3 (9:30-33), - лицемерие, невозможность исполнения закона, понимание последствий. Рим. 6:23,Гал. 3:10</h3>
-<blockquote><p>Ибо, не разумея праведности Божией и усиливаясь поставить собственную праведность, они не покорились праведности Божией,</p><cite>Рим. 10:3</cite></blockquote>
-<blockquote><p>Что же скажем? Язычники, не искавшие праведности, получили праведность, праведность от веры. А Израиль, искавший закона праведности, не достиг до закона праведности. Почему? потому что <em>искали</em> не в вере, а в делах закона. Ибо преткнулись о камень преткновения, как написано: вот, полагаю в Сионе камень преткновения и камень соблазна; но всякий, верующий в Него, не постыдится.</p><cite>Рим. 9:30-33</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>а все, утверждающиеся на делах закона, находятся под клятвою. Ибо написано: проклят всяк, кто не исполняет постоянно всего, что написано в книге закона.</p><cite>Гал. 3:10</cite></blockquote>
-<h3>(2) Рим. 10:3, - непонимание предназн. закона (Закон – Скиния)</h3>
-<blockquote><p>Ибо, не разумея праведности Божией и усиливаясь поставить собственную праведность, они не покорились праведности Божией,</p><cite>Рим. 10:3</cite></blockquote>
-<h3>(3) Появление религии – выбор Денницы (сам буду как Бог) 1-е Ин. 3:8, - Иез. 28:12-17,Ис. 14:12-14</h3>
-<blockquote><p>Кто делает грех, тот от диавола, потому что сначала диавол согрешил. Для сего-то и явился Сын Божий, чтобы разрушить дела диавола.</p><cite>1-е Ин. 3:8</cite></blockquote>
-<blockquote><p>сын человеческий! плачь о царе Тирском и скажи ему: так говорит Господь Бог: ты печать совершенства, полнота мудрости и венец красоты. Ты находился в Едеме, в саду Божием; твои одежды были украшены всякими драгоценными камнями; рубин, топаз и алмаз, хризолит, оникс, яспис, сапфир, карбункул и изумруд и золото, все, искусно усаженное у тебя в гнездышках и нанизанное на тебе, приготовлено было в день сотворения твоего. Ты был помазанным херувимом, чтобы осенять, и Я поставил тебя на то; ты был на святой горе Божией, ходил среди огнистых камней. Ты совершен был в путях твоих со дня сотворения твоего, доколе не нашлось в тебе беззакония. От обширности торговли твоей внутреннее твое исполнилось неправды, и ты согрешил; и Я низвергнул тебя, как нечистого, с горы Божией, изгнал тебя, херувим осеняющий, из среды огнистых камней. От красоты твоей возгордилось сердце твое, от тщеславия твоего ты погубил мудрость твою; за то Я повергну тебя на землю, перед царями отдам тебя на позор.</p><cite>Иез. 28:12-17</cite></blockquote>
-<blockquote><p>Как упал ты с неба, денница, сын зари! разбился о землю, попиравший народы. А говорил в сердце своем: "взойду на небо, выше звезд Божиих вознесу престол мой и сяду на горе в сонме богов, на краю севера; взойду на высоты облачные, буду подобен Всевышнему".</p><cite>Ис. 14:12-14</cite></blockquote>
-<h3>(4) Действие сатана, утверждение религии – Эдемский сад (будете как боги, знающие добро и зло). Быт. 3:5</h3>
-<blockquote><p>но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло.</p><cite>Быт. 3:5</cite></blockquote>
-<h3>(5) Религия – единственно действенный метод противления Слово Божье, Завету, Христос (листья, жертва Каина, Вавилон. Башня и т.д.)</h3>
-<h3>(6) Непринятие Слово Божье, Завета, Христос – 100% нахождение человека в религии (идолы, дела и усилия человека, действие и обман сатана)</h3>
-<h2>3) Рим. 10:4, - исполнение Закона Христом (заповеди, приговор)</h2>
-<blockquote><p>потому что конец закона -- Христос, к праведности всякого верующего.</p><cite>Рим. 10:4</cite></blockquote>
-<h3>(1) Требование Закона – исполнение стандартов Божьих</h3>
-<h3>(2) Справедливость Закона – исполнение приговора Слово Божье</h3>
-<h3>(3) 100% исполнение всех требований и справедливости Закона Иисусом Христом, 100% исполнение Слово Божье Мф. 5:17</h3>
-<blockquote><p>Не думайте, что Я пришел нарушить закон или пророков: не нарушить пришел Я, но исполнить.</p><cite>Мф. 5:17</cite></blockquote>
-<h3>(4) Полное оправдание человека через Подвиг и Жертву Христа, полное исполнение Закона Христом вместо человека</h3>
-<h2>4) Важность понимания В.З. – Закон, Скиния, Праздники</h2>
-<h3>(1) Закон – объяснение проблемы (грех Адама,«грех. сущ.» человек)</h3>
-<h3>(2) Скиния – объяснение решения (Завет, Христос)</h3>
-<h3>(3) Праздники – объяснение плана спасения (Завет, Христос)</h3>
+<h3>(2) Невозможность служения Богу и маммоне, противоположная идеология и система ценностей (видимое), неправильная жизнь человека Мф. 6:24, - Екл.2,Пс. 72,1-е Тим. 6:6-10,Мф. 16:26</h3>
+<blockquote><p>Никто не может служить двум господам: ибо или одного будет ненавидеть, а другого любить; или одному станет усердствовать, а о другом нерадеть. Не можете служить Богу и маммоне.</p><cite>Мф. 6:24</cite></blockquote>
+<blockquote><p>Великое приобретение -- быть благочестивым и довольным. Ибо мы ничего не принесли в мир; явно, что ничего не можем и вынести <em>из</em> <em>него.</em> Имея пропитание и одежду, будем довольны тем. А желающие обогащаться впадают в искушение и в сеть и во многие безрассудные и вредные похоти, которые погружают людей в бедствие и пагубу; ибо корень всех зол есть сребролюбие, которому предавшись, некоторые уклонились от веры и сами себя подвергли многим скорбям.</p><cite>1-е Тим. 6:6-10</cite></blockquote>
+<blockquote><p>какая польза человеку, если он приобретет весь мир, а душе своей повредит? или какой выкуп даст человек за душу свою?</p><cite>Мф. 16:26</cite></blockquote>
+<h3>(3) Неправильное отношение к человеку (угнетение и обман), важность выгоды, мерзость перед Богом (влияние маммоны)</h3>
+<h3>(4) Иак. 5:6, - служение маммоне, противление Слово Божье, Завету, Христос (Фарисеи – ложное осуждение и убийство Христа, действие сатана)</h3>
+<blockquote><p>Вы осудили, убили Праведника; Он не противился вам.</p><cite>Иак. 5:6</cite></blockquote>
+<h2 id="s2">2) Иак. 5:7-11, - важность терпения для народа Божьего</h2>
+<blockquote><p>Итак, братия, будьте долготерпеливы до пришествия Господня. Вот, земледелец ждет драгоценного плода от земли и для него терпит долго, пока получит дождь ранний и поздний. Долготерпите и вы, укрепите сердца ваши, потому что пришествие Господне приближается. Не сетуйте, братия, друг на друга, чтобы не быть осужденными: вот, Судия стоит у дверей. В пример злострадания и долготерпения возьмите, братия мои, пророков, которые говорили именем Господним. Вот, мы ублажаем тех, которые терпели. Вы слышали о терпении Иова и видели конец <em>оного</em> от Господа, ибо Господь весьма милосерд и сострадателен.</p><cite>Иак. 5:7-11</cite></blockquote>
+<h3>(1) Понимания Божьего суверенитета и контроля, Божий план, неизбежное исполнение Слово Божье, 2-ое Пришествие Христа</h3>
+<h3>(2) Ограниченное понимание человека, обстоятельства и события, важность доверия Богу (Бог суверенитет и контроль)</h3>
+<h3>(3) Пример многих пророков – возвещение Слово Божье, Завета, Христос, трудные обстоятельства, гонения и смерть за Христа</h3>
+<h3>(4) Пример Иова, важность понимания Слово Божье, Завета, Христос</h3>
+<h4>(а) Обстоятельства, терпение и верность Иова Богу</h4>
+<h4>(б) Непонимание причины происходящего (Бог суверенитет)</h4>
+<h4>(в) Сомнение в Божьей любви</h4>
+<h4>(г) Верность Иова – спасение друзей, утверждение Слово Божье</h4>
+<h4>(д) Полное восстановление жизни Иова, прославление Христа</h4>
+<h2 id="s3">3) Иак. 5:12, - важность ответственности и слов народа Божьего</h2>
+<blockquote><p>Прежде же всего, братия мои, не клянитесь ни небом, ни землею, и никакою другою клятвою, но да будет у вас: "да, да" и "нет, нет", дабы вам не подпасть осуждению.</p><cite>Иак. 5:12</cite></blockquote>
+<h3>(1) Важность отображения Христа, качества народа Божьего</h3>
+<h3>(2) Важность понимания неизбежного исполнения Слово Божье Пс. 137:2</h3>
+<blockquote><p>Поклоняюсь пред святым храмом Твоим и славлю имя Твое за милость Твою и за истину Твою, ибо Ты возвеличил слово Твое превыше всякого имени Твоего.</p><cite>Пс. 137:2</cite></blockquote>
+<h2 id="s4">4) Иак. 5:13-16, - важность молитвы и исповедания грехов</h2>
+<blockquote><p>Злостраждет ли кто из вас, пусть молится. Весел ли кто, пусть поет псалмы. Болен ли кто из вас, пусть призовет пресвитеров Церкви, и пусть помолятся над ним, помазав его елеем во имя Господне. И молитва веры исцелит болящего, и восставит его Господь; и если он соделал грехи, простятся ему. Признавайтесь друг пред другом в проступках и молитесь друг за друга, чтобы исцелиться: много может усиленная молитва праведного.</p><cite>Иак. 5:13-16</cite></blockquote>
+<h3>(1) Важность молитвы и поддержки народа Божьего – болезни, проблемы, обстоятельства и т.д</h3>
+<h3>(2) Прощение в смысле видимых следствий греха, Бог наказание. (Безусловное Божье прощение всех грехов человека в момент принятия Жертвы Христа, оправдание и спасение человека) Быт. 3:15-24,2-е Цар. 12:7-14,1-е Кор. 5:1-5,2-е Кор. 12:7-9</h3>
+<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту. Жене сказал: умножая умножу скорбь твою в беременности твоей; в болезни будешь рождать детей; и к мужу твоему влечение твое, и он будет господствовать над тобою. Адаму же сказал: за то, что ты послушал голоса жены твоей и ел от дерева, о котором Я заповедал тебе, сказав: не ешь от него, проклята земля за тебя; со скорбью будешь питаться от нее во все дни жизни твоей; терния и волчцы произрастит она тебе; и будешь питаться полевою травою; в поте лица твоего будешь есть хлеб, доколе не возвратишься в землю, из которой ты взят, ибо прах ты и в прах возвратишься. И нарек Адам имя жене своей: Ева, ибо она стала матерью всех живущих. И сделал Господь Бог Адаму и жене его одежды кожаные и одел их. И сказал Господь Бог: вот, Адам стал как один из Нас, зная добро и зло; и теперь как бы не простер он руки своей, и не взял также от дерева жизни, и не вкусил, и не стал жить вечно. И выслал его Господь Бог из сада Едемского, чтобы возделывать землю, из которой он взят. И изгнал Адама, и поставил на востоке у сада Едемского Херувима и пламенный меч обращающийся, чтобы охранять путь к дереву жизни.</p><cite>Быт. 3:15-24</cite></blockquote>
+<blockquote><p>И сказал Нафан Давиду: ты -- тот человек, . Так говорит Господь Бог Израилев: Я помазал тебя в царя над Израилем и Я избавил тебя от руки Саула, и дал тебе дом господина твоего и жен господина твоего на лоно твое, и дал тебе дом Израилев и Иудин, и, если этого мало, прибавил бы тебе еще больше; зачем же ты пренебрег слово Господа, сделав злое пред очами Его? Урию Хеттеянина ты поразил мечом; жену его взял себе в жену, а его ты убил мечом Аммонитян; итак не отступит меч от дома твоего во веки, за то, что ты пренебрег Меня и взял жену Урии Хеттеянина, чтоб она была тебе женою. Так говорит Господь: вот, Я воздвигну на тебя зло из дома твоего, и возьму жен твоих пред глазами твоими, и отдам ближнему твоему, и будет он спать с женами твоими пред этим солнцем; ты сделал тайно, а Я сделаю это пред всем Израилем и пред солнцем. И сказал Давид Нафану: согрешил я пред Господом. И сказал Нафан Давиду: и Господь снял <em>с</em> <em>тебя</em> грех твой; ты не умрешь; но как ты этим делом подал повод врагам Господа хулить Его, то умрет родившийся у тебя сын.</p><cite>2-е Цар. 12:7-14</cite></blockquote>
+<blockquote><p>Есть верный слух, что у вас <em>появилось</em> блудодеяние, и притом такое блудодеяние, какого не слышно даже у язычников, что некто <em>вместо</em> <em>жены</em> имеет жену отца своего. И вы возгордились, вместо того, чтобы лучше плакать, дабы изъят был из среды вас сделавший такое дело. А я, отсутствуя телом, но присутствуя <em>у</em> <em>вас</em> духом, уже решил, как бы находясь у вас: сделавшего такое дело, в собрании вашем во имя Господа нашего Иисуса Христа, обще с моим духом, силою Господа нашего Иисуса Христа, предать сатане во измождение плоти, чтобы дух был спасен в день Господа нашего Иисуса Христа.</p><cite>1-е Кор. 5:1-5</cite></blockquote>
+<blockquote><p>И чтобы я не превозносился чрезвычайностью откровений, дано мне жало в плоть, ангел сатаны, удручать меня, чтобы я не превозносился. Трижды молил я Господа о том, чтобы удалил его от меня. Но <em>Господь</em> сказал мне: "довольно для тебя благодати Моей, ибо сила Моя совершается в немощи". И потому я гораздо охотнее буду хвалиться своими немощами, чтобы обитала во мне сила Христова.</p><cite>2-е Кор. 12:7-9</cite></blockquote>
+<h2 id="s5">5) Важность понимания причины болезней</h2>
+<h3>(1) Непринятие (отказ) Слово Божье, Завета, Христос Метод исцеления – покаяние, принятие Слово Божье, Завета, Христос</h3>
+<h3>(2) Согрешения человека (Божье воспитание)</h3>
 <ul>
-<li>Важность различения Религии и Евангелия</li>
-<li>РЕЛИГИЯ – спасение своими силами (все религии – «дела»)</li>
-<li>БЛАГАЯ ВЕСТЬ – спасение от Бог (Христос умер вместо меня)</li>
+<li>Метод исцеления – исповедание греха, изменение жизни</li>
 </ul>
-<h2>5) Рим. 10:5-13, - понимание механизма спасения</h2>
-<blockquote><p>Моисей пишет о праведности от закона: исполнивший его человек жив будет им. А праведность от веры так говорит: не говори в сердце твоем: кто взойдет на небо? то есть Христа свести. Или кто сойдет в бездну? то есть Христа из мертвых возвести. Но что говорит Писание? Близко к тебе слово, в устах твоих и в сердце твоем, то есть слово веры, которое проповедуем. Ибо если устами твоими будешь исповедывать Иисуса Господом и сердцем твоим веровать, что Бог воскресил Его из мертвых, то спасешься, потому что сердцем веруют к праведности, а устами исповедуют ко спасению. Ибо Писание говорит: всякий, верующий в Него, не постыдится. Здесь нет различия между Иудеем и Еллином, потому что один Господь у всех, богатый для всех, призывающих Его. Ибо всякий, кто призовет имя Господне, спасется.</p><cite>Рим. 10:5-13</cite></blockquote>
-<h3>(1) Рим. 10:5, - невозможность спасения через Дела Закона, невозможность 100% исполнения Закона человеком. Гал. 3:11. (В.З. – акцент внимания человека на Жертве, Закон в Ковчеге)</h3>
-<blockquote><p>Моисей пишет о праведности от закона: исполнивший его человек жив будет им.</p><cite>Рим. 10:5</cite></blockquote>
-<blockquote><p>А что законом никто не оправдывается пред Богом, это ясно, потому что праведный верою жив будет.</p><cite>Гал. 3:11</cite></blockquote>
-<h3>(2) Рим. 10:6-8, - важность принятия Жертвы и Подвига Христа. (Свершившийся факт пришествия, смерти и воскресения Христос)</h3>
-<blockquote><p>А праведность от веры так говорит: не говори в сердце твоем: кто взойдет на небо? то есть Христа свести. Или кто сойдет в бездну? то есть Христа из мертвых возвести. Но что говорит Писание? Близко к тебе слово, в устах твоих и в сердце твоем, то есть слово веры, которое проповедуем.</p><cite>Рим. 10:6-8</cite></blockquote>
-<h3>(3) Рим. 10:9-10, - понимание Слово Божье, Завет, Христос, Бог условия спасения</h3>
-<blockquote><p>Ибо если устами твоими будешь исповедывать Иисуса Господом и сердцем твоим веровать, что Бог воскресил Его из мертвых, то спасешься, потому что сердцем веруют к праведности, а устами исповедуют ко спасению.</p><cite>Рим. 10:9-10</cite></blockquote>
-<h4>(а) Важность понимания:Кто такой Христос?Цель Его прихода?</h4>
-<h4>(б) Важность исповедания – выражение осознанной веры человек 1-е Ин. 4:1-4,1-е Пет. 3:15,2-е Кор. 13:5</h4>
-<blockquote><p>Возлюбленные! не всякому духу верьте, но испытывайте духов, от Бога ли они, потому что много лжепророков появилось в мире. Духа Божия (и духа заблуждения) узнавайте так: всякий дух, который исповедует Иисуса Христа, пришедшего во плоти, есть от Бога; а всякий дух, который не исповедует Иисуса Христа, пришедшего во плоти, не есть от Бога, но это дух антихриста, о котором вы слышали, что он придет и теперь есть уже в мире. Дети! вы от Бога, и победили их; ибо Тот, Кто в вас, больше того, кто в мире.</p><cite>1-е Ин. 4:1-4</cite></blockquote>
-<blockquote><p>Господа Бога святите в сердцах ваших; <em>будьте</em> всегда готовы всякому, требующему у вас отчета в вашем уповании, дать ответ с кротостью и благоговением.</p><cite>1-е Пет. 3:15</cite></blockquote>
-<blockquote><p>Испытывайте самих себя, в вере ли вы; самих себя исследывайте. Или вы не знаете самих себя, что Иисус Христос в вас? Разве только вы не то, чем должны быть.</p><cite>2-е Кор. 13:5</cite></blockquote>
-<h3>(4) Рим. 10:11-13, - исполнение приговора Слово Божье, грехи всего мира. (Бог любовь, милость и нелицеприятие – спасение всех людей)</h3>
-<blockquote><p>Ибо Писание говорит: всякий, верующий в Него, не постыдится. Здесь нет различия между Иудеем и Еллином, потому что один Господь у всех, богатый для всех, призывающих Его. Ибо всякий, кто призовет имя Господне, спасется.</p><cite>Рим. 10:11-13</cite></blockquote>
-<h2>6) Рим. 10:14-21, - важность передачи Слово Божье, Завета, Христос, Всемирная Евангелизация</h2>
-<blockquote><p>Но как призывать <em>Того,</em> в Кого не уверовали? как веровать <em>в</em> <em>Того,</em> о Ком не слыхали? как слышать без проповедующего? И как проповедывать, если не будут посланы? как написано: как прекрасны ноги благовествующих мир, благовествующих благое! Но не все послушались благовествования. Ибо Исаия говорит: Господи! кто поверил слышанному от нас? Итак вера от слышания, а слышание от слова Божия. Но спрашиваю: разве они не слышали? Напротив, по всей земле прошел голос их, и до пределов вселенной слова их. Еще спрашиваю: разве Израиль не знал? Но первый Моисей говорит: Я возбужу в вас ревность не народом, раздражу вас народом несмысленным. А Исаия смело говорит: Меня нашли не искавшие Меня; Я открылся не вопрошавшим о Мне. Об Израиле же говорит: целый день Я простирал руки Мои к народу непослушному и упорному.</p><cite>Рим. 10:14-21</cite></blockquote>
-<h3>(1) Рим. 10:14-15, - важность передачи Слово Божье, Завета, Христос, Всемирная Евангелизация, важность понимания и исполнения предназначения народа Бог</h3>
-<blockquote><p>Но как призывать <em>Того,</em> в Кого не уверовали? как веровать <em>в</em> <em>Того,</em> о Ком не слыхали? как слышать без проповедующего? И как проповедывать, если не будут посланы? как написано: как прекрасны ноги благовествующих мир, благовествующих благое!</p><cite>Рим. 10:14-15</cite></blockquote>
-<h3>(2) Рим. 10:16-21, - принятие и непринятие Слово Божье, Завета, Христос, понимание права выбора человека, служение Творцу или творению, проблема человечества. Мф. 7:13-14. (Важность понимания цели и смысла жизни человека – выбор в отношении вечной жизни, с кем? и где?)</h3>
-<blockquote><p>Но не все послушались благовествования. Ибо Исаия говорит: Господи! кто поверил слышанному от нас? Итак вера от слышания, а слышание от слова Божия. Но спрашиваю: разве они не слышали? Напротив, по всей земле прошел голос их, и до пределов вселенной слова их. Еще спрашиваю: разве Израиль не знал? Но первый Моисей говорит: Я возбужу в вас ревность не народом, раздражу вас народом несмысленным. А Исаия смело говорит: Меня нашли не искавшие Меня; Я открылся не вопрошавшим о Мне. Об Израиле же говорит: целый день Я простирал руки Мои к народу непослушному и упорному.</p><cite>Рим. 10:16-21</cite></blockquote>
-<blockquote><p>Входите тесными вратами, потому что широки врата и пространен путь, ведущие в погибель, и многие идут ими; потому что тесны врата и узок путь, ведущие в жизнь, и немногие находят их.</p><cite>Мф. 7:13-14</cite></blockquote>
-<h3>(3) Рим. 10:19-20, - Божий суверенитет и контроль, передача возвещения Слово Божье, Завета, Христос язычникам, нсполнение Слово Божье (2000 лет народ Божий – 2000 лет иудеи – 2000 лет язычники)</h3>
-<blockquote><p>Еще спрашиваю: разве Израиль не знал? Но первый Моисей говорит: Я возбужу в вас ревность не народом, раздражу вас народом несмысленным. А Исаия смело говорит: Меня нашли не искавшие Меня; Я открылся не вопрошавшим о Мне.</p><cite>Рим. 10:19-20</cite></blockquote>
-<h3>(4) Рим. 10:17, - первостепенная важность слышания Слово Божье, Завета, Христос, возможность получения дара веры Божьей</h3>
-<blockquote><p>Итак вера от слышания, а слышание от слова Божия.</p><cite>Рим. 10:17</cite></blockquote>
-<h2>7) Важность правильного понимания веры. Мк. 11:23</h2>
-<blockquote><p>имейте веру Божию, ибо истинно говорю вам, если кто скажет горе сей: поднимись и ввергнись в море, и не усомнится в сердце своем, но поверит, что сбудется по словам его, -- будет ему, что ни скажет.</p><cite>Мк. 11:23</cite></blockquote>
-<h3>(1) Вера человеческая – непонимание Слово Божье, Завета, Христос</h3>
-<h3>(2) Вера Бог – правильное понимание и исполнение Слово Божье, Завет, Христос</h3>
-<h2>Заключение:</h2>
-<h3>(1) Важность понимания, исполнения предназначения народа Бог (Познание и передача Слово Божье, Завета, Христос, Всемирная Евангелизация, приход Христа)</h3>
-<h3>(2) Важность понимания Божьих условий спасения человека</h3>
-<h3>(3) Важность понимания правильного применения закона</h3>
-<h3>(4) Важность понимания права выбора человека, важность понимания предназначения народа Божьего</h3>
-<h2>11.1) Рим. 11:1-6, - Божий суверенитет и контроль, народ Божий</h2>
-<blockquote><p>Итак, спрашиваю: неужели Бог отверг народ Свой? Никак. Ибо и я Израильтянин, от семени Авраамова, из колена Вениаминова. Не отверг Бог народа Своего, который Он наперед знал. Или не знаете, что говорит Писание в <em>повествовании</em> <em>об</em> Илии? как он жалуется Богу на Израиля, говоря: Господи! пророков Твоих убили, жертвенники Твои разрушили; остался я один, и моей души ищут. Что же говорит ему Божеский ответ? Я соблюл Себе семь тысяч человек, которые не преклонили колени перед Ваалом. Так и в нынешнее время, по избранию благодати, сохранился остаток. Но если по благодати, то не по делам; иначе благодать не была бы уже благодатью. А если по делам, то это уже не благодать; иначе дело не есть уже дело.</p><cite>Рим. 11:1-6</cite></blockquote>
-<h3>(1) Рим. 11:1, - важность понимания предназначения народа Бог, познание и передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация, приход Христос Быт. 1:27,2:7,9,16-17, - Быт. 3:1-7 (Рим. 5:12,6:23,Еф. 2:2), -Быт. 3:15,21,Мф. 16:16,Ин. 19:30, - Рим. 10:9</h3>
-<blockquote><p>Итак, спрашиваю: неужели Бог отверг народ Свой? Никак. Ибо и я Израильтянин, от семени Авраамова, из колена Вениаминова.</p><cite>Рим. 11:1</cite></blockquote>
-<blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
-<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<blockquote><p>И произрастил Господь Бог из земли всякое дерево, приятное на вид и хорошее для пищи, и дерево жизни посреди рая, и дерево познания добра и зла.</p><cite>Быт. 2:9</cite></blockquote>
-<blockquote><p>И заповедал Господь Бог человеку, говоря: от всякого дерева в саду ты будешь есть, а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:16-17</cite></blockquote>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
-<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<blockquote><p>Симон же Петр, отвечая, сказал: Ты -- Христос, Сын Бога Живаго.</p><cite>Мф. 16:16</cite></blockquote>
-<blockquote><p>Когда же Иисус вкусил уксуса, сказал: совершилось! И, преклонив главу, предал дух.</p><cite>Ин. 19:30</cite></blockquote>
-<blockquote><p>Ибо если устами твоими будешь исповедывать Иисуса Господом и сердцем твоим веровать, что Бог воскресил Его из мертвых, то спасешься,</p><cite>Рим. 10:9</cite></blockquote>
-<h3>(2) Рим. 11:1-2, - Божье предузнание и избрание (наперед знал), фарисеи (непринятие Слово Божье, Завета, Хр). Мф. 22:41-46,Рим. 9:30-33</h3>
-<blockquote><p>Итак, спрашиваю: неужели Бог отверг народ Свой? Никак. Ибо и я Израильтянин, от семени Авраамова, из колена Вениаминова. Не отверг Бог народа Своего, который Он наперед знал. Или не знаете, что говорит Писание в <em>повествовании</em> <em>об</em> Илии? как он жалуется Богу на Израиля, говоря:</p><cite>Рим. 11:1-2</cite></blockquote>
-<blockquote><p>Когда же собрались фарисеи, Иисус спросил их: что вы думаете о Христе? чей Он Сын? Говорят Ему: Давидов. Говорит им: как же Давид, по вдохновению, называет Его Господом, когда говорит: сказал Господь Господу моему: седи одесную Меня, доколе положу врагов Твоих в подножие ног Твоих? Итак, если Давид называет Его Господом, как же Он сын ему? И никто не мог отвечать Ему ни слова; и с того дня никто уже не смел спрашивать Его.</p><cite>Мф. 22:41-46</cite></blockquote>
-<blockquote><p>Что же скажем? Язычники, не искавшие праведности, получили праведность, праведность от веры. А Израиль, искавший закона праведности, не достиг до закона праведности. Почему? потому что <em>искали</em> не в вере, а в делах закона. Ибо преткнулись о камень преткновения, как написано: вот, полагаю в Сионе камень преткновения и камень соблазна; но всякий, верующий в Него, не постыдится.</p><cite>Рим. 9:30-33</cite></blockquote>
-<h3>(3) Рим. 11:2-6, - понимание благодати Божьей, сохранение святого остатка (народ Божий, важность познания и передачи Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация, подготовка прихода Христа)</h3>
-<blockquote><p>Не отверг Бог народа Своего, который Он наперед знал. Или не знаете, что говорит Писание в <em>повествовании</em> <em>об</em> Илии? как он жалуется Богу на Израиля, говоря: Господи! пророков Твоих убили, жертвенники Твои разрушили; остался я один, и моей души ищут. Что же говорит ему Божеский ответ? Я соблюл Себе семь тысяч человек, которые не преклонили колени перед Ваалом. Так и в нынешнее время, по избранию благодати, сохранился остаток. Но если по благодати, то не по делам; иначе благодать не была бы уже благодатью. А если по делам, то это уже не благодать; иначе дело не есть уже дело.</p><cite>Рим. 11:2-6</cite></blockquote>
-<h2>2) Рим. 11:7-15, - понимание Божьего суверенитета и благодати</h2>
-<blockquote><p>Что же? Израиль, чего искал, того не получил; избранные же получили, а прочие ожесточились, как написано: Бог дал им дух усыпления, глаза, которыми не видят, и уши, которыми не слышат, даже до сего дня. И Давид говорит: да будет трапеза их сетью, тенетами и петлею в возмездие им; да помрачатся глаза их, чтобы не видеть, и хребет их да будет согбен навсегда. Итак спрашиваю: неужели они преткнулись, чтобы <em>совсем</em> пасть? Никак. Но от их падения спасение язычникам, чтобы возбудить в них ревность. Если же падение их -- богатство миру, и оскудение их -- богатство язычникам, то тем более полнота их. Вам говорю, язычникам. Как Апостол язычников, я прославляю служение мое. Не возбужу ли ревность в <em>сродниках</em> моих по плоти и не спасу ли некоторых из них? Ибо если отвержение их -- примирение мира, то что <em>будет</em> принятие, как не жизнь из мертвых?</p><cite>Рим. 11:7-15</cite></blockquote>
-<h3>(1) Рим. 11:7, - дети Божьи в Израиле (избранные получили)</h3>
-<blockquote><p>Что же? Израиль, чего искал, того не получил; избранные же получили, а прочие ожесточились,</p><cite>Рим. 11:7</cite></blockquote>
-<h3>(2) Рим. 11:8-10, - непринятие Завета, Христос, отпадение от благодати</h3>
-<blockquote><p>как написано: Бог дал им дух усыпления, глаза, которыми не видят, и уши, которыми не слышат, даже до сего дня. И Давид говорит: да будет трапеза их сетью, тенетами и петлею в возмездие им; да помрачатся глаза их, чтобы не видеть, и хребет их да будет согбен навсегда.</p><cite>Рим. 11:8-10</cite></blockquote>
-<h3>(3) Рим. 11:11-12, - Божий суверенитет и допустимая воля Божья</h3>
-<blockquote><p>Итак спрашиваю: неужели они преткнулись, чтобы <em>совсем</em> пасть? Никак. Но от их падения спасение язычникам, чтобы возбудить в них ревность. Если же падение их -- богатство миру, и оскудение их -- богатство язычникам, то тем более полнота их.</p><cite>Рим. 11:11-12</cite></blockquote>
-<h4>(а) Непринятие Слово Божье, Завета, Христос иудеями – спасение язычникам, важность передачи Слово Божье, Завета, Христос, Всемирная Евангелизация, 2-го прихода Христа</h4>
-<h4>(б) Непринятие Слово Божье, Завета, Христос иудеями – выполнение полноты Божьего плана (Божье предузнание, допустимая воля Божья) – распятие Христа, исполнение приговора Слово Божье, искупление человек</h4>
-<h4>(в) Непринятие Слово Божье, Завета, Христос иудеями - прославление Христа, утверждение любви, милости и нелицеприятия Божьего</h4>
-<h3>(4) Рим. 11:13-15, - непринятие Слово Божье, Завета, Христос (иудеи), переход Евангелия язычникам, возможность спасения для избранных иудеев и вхождение в народ Божий</h3>
-<blockquote><p>Вам говорю, язычникам. Как Апостол язычников, я прославляю служение мое. Не возбужу ли ревность в <em>сродниках</em> моих по плоти и не спасу ли некоторых из них? Ибо если отвержение их -- примирение мира, то что <em>будет</em> принятие, как не жизнь из мертвых?</p><cite>Рим. 11:13-15</cite></blockquote>
-<h2>3) Рим. 11:16-24, - важность веры Бог, принятие Слово Божье, Завета, Христос</h2>
-<blockquote><p>Если начаток свят, то и целое; и если корень свят, то и ветви. Если же некоторые из ветвей отломились, а ты, дикая маслина, привился на место их и стал общником корня и сока маслины, то не превозносись перед ветвями. Если же превозносишься, <em>то</em> <em>вспомни,</em> <em>что</em> не ты корень держишь, но корень тебя. Скажешь: "ветви отломились, чтобы мне привиться". Хорошо. Они отломились неверием, а ты держишься верою: не гордись, но бойся. Ибо если Бог не пощадил природных ветвей, то смотри, пощадит ли и тебя. Итак видишь благость и строгость Божию: строгость к отпадшим, а благость к тебе, если пребудешь в благости <em>Божией;</em> иначе и ты будешь отсечен. Но и те, если не пребудут в неверии, привьются, потому что Бог силен опять привить их. Ибо если ты отсечен от дикой по природе маслины и не по природе привился к хорошей маслине, то тем более сии природные привьются к своей маслине.</p><cite>Рим. 11:16-24</cite></blockquote>
-<h3>(1) Принятие, непринятие Слово Божье, Завета, Христос – причина принятия или отвержения всякого человека. Рим. 8:2</h3>
-<blockquote><p>потому что закон духа жизни во Христе Иисусе освободил меня от закона греха и смерти.</p><cite>Рим. 8:2</cite></blockquote>
-<h3>(2) Важность сохранения веры Божьей, ответственность всякого человека, понимание права выбора. Рим. 11:20,22-23 (Дн. 13:46)</h3>
-<blockquote><p>Хорошо. Они отломились неверием, а ты держишься верою: не гордись, но бойся.</p><cite>Рим. 11:20</cite></blockquote>
-<blockquote><p>Итак видишь благость и строгость Божию: строгость к отпадшим, а благость к тебе, если пребудешь в благости <em>Божией;</em> иначе и ты будешь отсечен. Но и те, если не пребудут в неверии, привьются, потому что Бог силен опять привить их.</p><cite>Рим. 11:22-23</cite></blockquote>
-<blockquote><p>Тогда Павел и Варнава с дерзновением сказали: вам первым надлежало быть проповедану слову Божию, но как вы отвергаете его и сами себя делаете недостойными вечной жизни, то вот, мы обращаемся к язычникам.</p><cite>Дн. 13:46</cite></blockquote>
-<h3>(3) Спасение и передача Слово Божье, Завета, Христос язычникам – Божий план, Божье предузнание и избрание, исполнение Слово Божье Быт. 9:27,Мф. 10:16, - Рим. 2:11,1-е Тим. 2:4</h3>
-<blockquote><p>да распространит Бог Иафета, и да вселится он в шатрах Симовых; Ханаан же будет рабом ему.</p><cite>Быт. 9:27</cite></blockquote>
-<blockquote><p>Вот, Я посылаю вас, как овец среди волков: итак будьте мудры, как змии, и просты, как голуби.</p><cite>Мф. 10:16</cite></blockquote>
-<blockquote><p>Ибо нет лицеприятия у Бога.</p><cite>Рим. 2:11</cite></blockquote>
-<blockquote><p>Который хочет, чтобы все люди спаслись и достигли познания истины.</p><cite>1-е Тим. 2:4</cite></blockquote>
-<h2>4) Понимание возможности отказа от спасения</h2>
-<h3>(1) Открытый отказ от Христа – отказ от Слово Божье, Завета, Христос</h3>
-<h4>(а) Идол (семья, работа и т.д.) – осознанный выбор человека</h4>
-<h4>(б) Гонения христиан – принуждение отречения от Христа</h4>
-<h3>(2) Другие учения – отказ от Слово Божье, Завета, Христос, Жертва Христа. (Бог условие для спасения – принятие и сохранение веры во Христос)</h3>
-<h4>(а) Непринятие Иисуса Христа как Истинного и Святого Бога. (Ересь арианства, современные свидетели Иеговы)</h4>
-<h4>(б) Непринятие вседостаточности Жертвы и Подвига Христа для спасения человека, искупления и прощения всех грехов. (Ересь «смешанного евангелия» и «частичного спасения»)</h4>
-<h3>(3) Системный «грех не смерти» (идолы, отказ от предназначения) – идеология человека, постройка платформы для отпадения, совершение «греха к смерти», отступничество</h3>
-<h2>5) Рим. 11:25-32, - понимание Божьего суверенита и контроля</h2>
-<blockquote><p>Ибо не хочу оставить вас, братия, в неведении о тайне сей, -- чтобы вы не мечтали о себе, -- что ожесточение произошло в Израиле отчасти, <em>до</em> <em>времени,</em> пока войдет полное <em>число</em> язычников; и так весь Израиль спасется, как написано: придет от Сиона Избавитель, и отвратит нечестие от Иакова. И сей завет им от Меня, когда сниму с них грехи их. В отношении к благовестию, они враги ради вас; а в отношении к избранию, возлюбленные <em>Божии</em> ради отцов. Ибо дары и призвание Божие непреложны. Как и вы некогда были непослушны Богу, а ныне помилованы, по непослушанию их, так и они теперь непослушны для помилования вас, чтобы и сами они были помилованы. Ибо всех заключил Бог в непослушание, чтобы всех помиловать.</p><cite>Рим. 11:25-32</cite></blockquote>
-<h3>(1) Рим. 11:25, - Божий суверенитет и контроль, спасение всех людей народа Божьего из язычников (полное число язычников)</h3>
-<blockquote><p>Ибо не хочу оставить вас, братия, в неведении о тайне сей, -- чтобы вы не мечтали о себе, -- что ожесточение произошло в Израиле отчасти, <em>до</em> <em>времени,</em> пока войдет полное <em>число</em> язычников;</p><cite>Рим. 11:25</cite></blockquote>
-<h3>(2) Рим. 11:26-27, - Божий суверенитет и контроль, спасение всех людей народа Божьего из иудеев (весь Израиль)</h3>
-<blockquote><p>и так весь Израиль спасется, как написано: придет от Сиона Избавитель, и отвратит нечестие от Иакова. И сей завет им от Меня, когда сниму с них грехи их.</p><cite>Рим. 11:26-27</cite></blockquote>
-<h4>(а) Истинные потомки Авраама, истинный Израиль – принятие Христа. Рим. 9:6-8,Гал. 3:7,29</h4>
-<blockquote><p>Но не то, чтобы слово Божие не сбылось: ибо не все те Израильтяне, которые от Израиля; и не все дети Авраама, которые от семени его, но сказано: в Исааке наречется тебе семя. То есть не плотские дети суть дети Божии, но дети обетования признаются за семя.</p><cite>Рим. 9:6-8</cite></blockquote>
-<blockquote><p>Познайте же, что верующие суть сыны Авраама.</p><cite>Гал. 3:7</cite></blockquote>
-<blockquote><p>Если же вы Христовы, то вы семя Авраамово и по обетованию наследники.</p><cite>Гал. 3:29</cite></blockquote>
-<h4>(б) Ложные потомки Авраама, ложный Израиль – непринятие Христа. Рим. 9:6-8,2:28-29, - Ин. 8:39-44,Отк. 2:9,3:9. (Видимый успех иудеев – Божье допущение, исполнение Слово Божье, постройка третьего Храма, воцарение антихриста)</h4>
-<blockquote><p>Но не то, чтобы слово Божие не сбылось: ибо не все те Израильтяне, которые от Израиля; и не все дети Авраама, которые от семени его, но сказано: в Исааке наречется тебе семя. То есть не плотские дети суть дети Божии, но дети обетования признаются за семя.</p><cite>Рим. 9:6-8</cite></blockquote>
-<blockquote><p>Ибо не тот Иудей, кто <em>таков</em> по наружности, и не то обрезание, которое наружно, на плоти; но <em>тот</em> Иудей, кто внутренно <em>таков,</em> и <em>то</em> обрезание, <em>которое</em> в сердце, по духу, <em>а</em> не по букве: ему и похвала не от людей, но от Бога.</p><cite>Рим. 2:28-29</cite></blockquote>
-<blockquote><p>Сказали Ему в ответ: отец наш есть Авраам. Иисус сказал им: если бы вы были дети Авраама, то дела Авраамовы делали бы. А теперь ищете убить Меня, Человека, сказавшего вам истину, которую слышал от Бога: Авраам этого не делал. Вы делаете дела отца вашего. На это сказали Ему: мы не от любодеяния рождены; одного Отца имеем, Бога. Иисус сказал им: если бы Бог был Отец ваш, то вы любили бы Меня, потому что Я от Бога исшел и пришел; ибо Я не Сам от Себя пришел, но Он послал Меня. Почему вы не понимаете речи Моей? Потому что не можете слышать слова Моего. Ваш отец диавол; и вы хотите исполнять похоти отца вашего. Он был человекоубийца от начала и не устоял в истине, ибо нет в нем истины. Когда говорит он ложь, говорит свое, ибо он лжец и отец лжи.</p><cite>Ин. 8:39-44</cite></blockquote>
-<blockquote><p>Знаю твои дела, и скорбь, и нищету (впрочем ты богат), и злословие от тех, которые говорят о себе, что они Иудеи, а они не таковы, но сборище сатанинское.</p><cite>Отк. 2:9</cite></blockquote>
-<blockquote><p>Вот, Я сделаю, что из сатанинского сборища, из тех, которые говорят о себе, что они Иудеи, но не суть таковы, а лгут, -- вот, Я сделаю то, что они придут и поклонятся пред ногами твоими, и познают, что Я возлюбил тебя.</p><cite>Отк. 3:9</cite></blockquote>
-<h4>(в) Сокрытие истинных потомков Авраама среди иудеев и языч Рим. 9:6-8, - Ин. 10:14-16,Рим. 11:25-26 (2:11)</h4>
-<blockquote><p>Но не то, чтобы слово Божие не сбылось: ибо не все те Израильтяне, которые от Израиля; и не все дети Авраама, которые от семени его, но сказано: в Исааке наречется тебе семя. То есть не плотские дети суть дети Божии, но дети обетования признаются за семя.</p><cite>Рим. 9:6-8</cite></blockquote>
-<blockquote><p>Я есмь пастырь добрый; и знаю Моих, и Мои знают Меня. Как Отец знает Меня, <em>так</em> и Я знаю Отца; и жизнь Мою полагаю за овец. Есть у Меня и другие овцы, которые не сего двора, и тех надлежит Мне привести: и они услышат голос Мой, и будет одно стадо и один Пастырь.</p><cite>Ин. 10:14-16</cite></blockquote>
-<blockquote><p>Ибо не хочу оставить вас, братия, в неведении о тайне сей, -- чтобы вы не мечтали о себе, -- что ожесточение произошло в Израиле отчасти, <em>до</em> <em>времени,</em> пока войдет полное <em>число</em> язычников; и так весь Израиль спасется, как написано: придет от Сиона Избавитель, и отвратит нечестие от Иакова.</p><cite>Рим. 11:25-26</cite></blockquote>
-<blockquote><p>Ибо нет лицеприятия у Бога.</p><cite>Рим. 2:11</cite></blockquote>
-<h4>(г) Непонимание истинных потомков Авраама, истинного Израиля – гордыня, превозношение над другими народами. (2000 лет народ Божий – 2000 лет иудеи – 2000 лет язычники) Быт. 9:26-27,Рим. 2:11,1-е Тим. 2:4</h4>
-<blockquote><p>Потом сказал: благословен Господь Бог Симов; Ханаан же будет рабом ему; да распространит Бог Иафета, и да вселится он в шатрах Симовых; Ханаан же будет рабом ему.</p><cite>Быт. 9:26-27</cite></blockquote>
-<blockquote><p>Ибо нет лицеприятия у Бога.</p><cite>Рим. 2:11</cite></blockquote>
-<blockquote><p>Который хочет, чтобы все люди спаслись и достигли познания истины.</p><cite>1-е Тим. 2:4</cite></blockquote>
-<h3>(3) Рим. 11:28-32, - понимание Божьей любви, милости и заботы, ошибки людей Бог оборачивает для своей славы, неизбежное исполнение воли и плана Божьего</h3>
-<blockquote><p>В отношении к благовестию, они враги ради вас; а в отношении к избранию, возлюбленные <em>Божии</em> ради отцов. Ибо дары и призвание Божие непреложны. Как и вы некогда были непослушны Богу, а ныне помилованы, по непослушанию их, так и они теперь непослушны для помилования вас, чтобы и сами они были помилованы. Ибо всех заключил Бог в непослушание, чтобы всех помиловать.</p><cite>Рим. 11:28-32</cite></blockquote>
-<h2>6) Рим. 11:33-36, - понимание Величия Божьего</h2>
-<blockquote><p>О, бездна богатства и премудрости и ведения Божия! Как непостижимы судьбы Его и неисследимы пути Его! Ибо кто познал ум Господень? Или кто был советником Ему? Или кто дал Ему наперед, чтобы Он должен был воздать? Ибо все из Него, Им и к Нему. Ему слава во веки, аминь.</p><cite>Рим. 11:33-36</cite></blockquote>
-<h3>(1) Рим. 11:33-34, - Всеведение и Премудрость Бога</h3>
-<blockquote><p>О, бездна богатства и премудрости и ведения Божия! Как непостижимы судьбы Его и неисследимы пути Его! Ибо кто познал ум Господень? Или кто был советником Ему?</p><cite>Рим. 11:33-34</cite></blockquote>
-<h3>(2) Рим. 11:35, - Величие, Суверенность и Господство Бога</h3>
-<blockquote><p>Или кто дал Ему наперед, чтобы Он должен был воздать?</p><cite>Рим. 11:35</cite></blockquote>
-<h3>(3) Рим. 11:36, - полная зависимость любого творения от Творца</h3>
-<blockquote><p>Ибо все из Него, Им и к Нему. Ему слава во веки, аминь.</p><cite>Рим. 11:36</cite></blockquote>
-<h2>Заключение:</h2>
-<h3>(1) Важность понимания и исполнения предназначения – познание и передача Слово Божье, Завета, Христос, Всемирная Евангелизация, приход Христа</h3>
-<h3>(2) Важность понимания Божьего суверенитета и контроля</h3>
-<h3>(3) Важность сохранения Слово Божье, Завета, Христос до конца жизни</h3>
-<h2>12.1) Рим. 12:1-2, - важность служения Бог (жертва всесожжения), познание и передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация, приход Христос (Понимание предназначения человека – народ Божий, Церковь)</h2>
-<blockquote><p>Итак умоляю вас, братия, милосердием Божиим, представьте тела ваши в жертву живую, святую, благоугодную Богу, <em>для</em> разумного служения вашего, и не сообразуйтесь с веком сим, но преобразуйтесь обновлением ума вашего, чтобы вам познавать, что есть воля Божия, благая, угодная и совершенная.</p><cite>Рим. 12:1-2</cite></blockquote>
-<h3>(1) Быт. 1:27,2:7,16-17 (1:28), - важность ученичества, важность познания и передачи Слово Божье, Завета, Христос, верность и посвящение Бог (Правильная идеология и система ценностей, невидимое)</h3>
-<blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
-<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<blockquote><p>И заповедал Господь Бог человеку, говоря: от всякого дерева в саду ты будешь есть, а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:16-17</cite></blockquote>
-<blockquote><p>И благословил их Бог, и сказал им Бог: плодитесь и размножайтесь, и наполняйте землю, и обладайте ею, и владычествуйте над рыбами морскими и над птицами небесными, и над всяким животным, пресмыкающимся по земле.</p><cite>Быт. 1:28</cite></blockquote>
-<h3>(2) Быт. 3:1-7 (Рим. 5:12,6:23,Еф. 2:2), - важность ученичества, важность познания и передачи слова сатана, верность и посвящ. сатана (Неправильная идеология и система ценностей, видимое)</h3>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
-<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
-<h3>(3) Быт. 3:15,21, - важность ученичества, важность познания и передачи Слово Божье, Завета, Христос, верность и посвящение Богу. (Правильная идеология и система ценностей, невидимое – Адам – Авель – Сиф – Ной – Авраам – Исаак – Иаков – 12 колен Израиля, народ Божий – Церковь Христа) Ин. 8:31-32,1-е Тим. 4:16, - Мф. 28:19-20,2-е Тим. 2:2,Дн. 1:8</h3>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<blockquote><p>Тогда сказал Иисус к уверовавшим в Него Иудеям: если пребудете в слове Моем, то вы истинно Мои ученики, и познаете истину, и истина сделает вас свободными.</p><cite>Ин. 8:31-32</cite></blockquote>
-<blockquote><p>Вникай в себя и в учение; занимайся сим постоянно: ибо, так поступая, и себя спасешь и слушающих тебя.</p><cite>1-е Тим. 4:16</cite></blockquote>
-<blockquote><p>Итак идите, научите все народы, крестя их во имя Отца и Сына и Святаго Духа, уча их соблюдать все, что Я повелел вам; и се, Я с вами во все дни до скончания века. Аминь.</p><cite>Мф. 28:19-20</cite></blockquote>
-<blockquote><p>и что слышал от меня при многих свидетелях, то передай верным людям, которые были бы способны и других научить.</p><cite>2-е Тим. 2:2</cite></blockquote>
-<blockquote><p>но вы примете силу, когда сойдет на вас Дух Святый; и будете Мне свидетелями в Иерусалиме и во всей Иудее и Самарии и даже до края земли.</p><cite>Дн. 1:8</cite></blockquote>
-<h2>2) Рим. 12:3-8, - понимание служение Ц. (тело Христа, дары Святой Дух)</h2>
-<blockquote><p>По данной мне благодати, всякому из вас говорю: не думайте <em>о</em> <em>себе</em> более, нежели должно думать; но думайте скромно, по мере веры, какую каждому Бог уделил. Ибо, как в одном теле у нас много членов, но не у всех членов одно и то же дело, так мы, многие, составляем одно тело во Христе, а порознь один для другого члены. И как, по данной нам благодати, имеем различные дарования, <em>то,</em> <em>имеешь</em> <em>ли</em> пророчество, <em>пророчествуй</em> по мере веры; <em>имеешь</em> <em>ли</em> служение, <em>пребывай</em> в служении; учитель ли, -- в учении; увещатель ли, увещевай; раздаватель ли, <em>раздавай</em> в простоте; начальник ли, <em>начальствуй</em> с усердием; благотворитель ли, <em>благотвори</em> с радушием.</p><cite>Рим. 12:3-8</cite></blockquote>
-<h3>(1) Важность понимания Божьего суверенитета и контроля – место и масштаб служения человека (мера веры)</h3>
-<h3>(2) Важность полного доверия Богу и принятие Божьего суверенитета – происходит лучшее для меня. Иер. 29:11</h3>
-<blockquote><p>Ибо <em>только</em> Я знаю намерения, какие имею о вас, говорит Господь, намерения во благо, а не на зло, чтобы дать вам будущность и надежду.</p><cite>Иер. 29:11</cite></blockquote>
-<h3>(3) Важность прошения исполнения воли Божьей – смирение и полное доверие Небесному Отцу (пример Христа). Мф. 26:39,42</h3>
+<h3>(3) Для славы Божьей</h3>
+<ul>
+<li>Метод исцеления – молитва, понимание Бог расписания времени</li>
+</ul>
+<h3>(4) Естественные причины, исполнение Слово Божье Метод исцеления – соблюдение Божьих физических законов, врачи, правильный образ жизни, воскресение из мертвых</h3>
+<h2 id="s6">6) Понимание Бог методов исцеления. 1-е Пет. 2:24</h2>
+<blockquote><p>Он грехи наши Сам вознес телом Своим на древо, дабы мы, избавившись от грехов, жили для правды: ранами Его вы исцелились.</p><cite>1-е Пет. 2:24</cite></blockquote>
+<h3>(1) Естественный метод – врачи, правильный образ жизни</h3>
+<h3>(2) Сверхестественный метод – молитва, чудотворение</h3>
+<h3>(3) Важность молитвы народа Божьего в отношении исцеления</h3>
+<h4>(а) Исцеление тела не является спасением</h4>
+<h4>(б) Полное исцеление тела – воскресение из мертвых</h4>
+<h2 id="s7">7) Иак. 5:17-18, - важность правильной молитвы</h2>
+<blockquote><p>Илия был человек, подобный нам, и молитвою помолился, чтобы не было дождя: и не было дождя на землю три года и шесть месяцев. И опять помолился: и небо дало дождь, и земля произрастила плод свой.</p><cite>Иак. 5:17-18</cite></blockquote>
+<h3>(1) Молитва – важность соответствия воле и Слову Божьему</h3>
+<h3>(2) Молитва Илии – утверждение воли и Слова Божьего 3-е Цар. 17:1,18:1, - Мф. 26:39,42,6:9-10</h3>
+<blockquote><p>И сказал Илия , Фесвитянин, из жителей Галаадских, Ахаву: жив Господь Бог Израилев, пред Которым я стою! в сии годы не будет ни росы, ни дождя, разве только по моему слову.</p><cite>3-е Цар. 17:1</cite></blockquote>
+<blockquote><p>По прошествии многих дней было слово Господне к Илии в третий год: пойди и покажись Ахаву, и Я дам дождь на землю.</p><cite>3-е Цар. 18:1</cite></blockquote>
 <blockquote><p>И, отойдя немного, пал на лице Свое, молился и говорил: Отче Мой! если возможно, да минует Меня чаша сия; впрочем не как Я хочу, но как Ты.</p><cite>Мф. 26:39</cite></blockquote>
 <blockquote><p>Еще, отойдя в другой раз, молился, говоря: Отче Мой! если не может чаша сия миновать Меня, чтобы Мне не пить ее, да будет воля Твоя.</p><cite>Мф. 26:42</cite></blockquote>
-<h3>(4) Проблема своеволия – ропот и недовольство человека, трудная жизнь, проблема исполнения предназначения</h3>
-<h3>(5) Важность правильного служения Ц., возможность развития народа Божьего (познание и передача Слово Божье, ученичество)</h3>
-<h2>3) Рим. 12:9-21, - важность освящения, отображение Христа</h2>
-<blockquote><p>Любовь <em>да</em> <em>будет</em> непритворна; отвращайтесь зла, прилепляйтесь к добру; будьте братолюбивы друг к другу с нежностью; в почтительности друг друга предупреждайте; в усердии не ослабевайте; духом пламенейте; Господу служите; утешайтесь надеждою; в скорби <em>будьте</em> терпеливы, в молитве постоянны; в нуждах святых принимайте участие; ревнуйте о странноприимстве. Благословляйте гонителей ваших; благословляйте, а не проклинайте. Радуйтесь с радующимися и плачьте с плачущими. Будьте единомысленны между собою; не высокомудрствуйте, но последуйте смиренным; не мечтайте о себе; никому не воздавайте злом за зло, но пекитесь о добром перед всеми человеками. Если возможно с вашей стороны, будьте в мире со всеми людьми. Не мстите за себя, возлюбленные, но дайте место гневу <em>Божию.</em> Ибо написано: Мне отмщение, Я воздам, говорит Господь. Итак, если враг твой голоден, накорми его; если жаждет, напой его: ибо, делая сие, ты соберешь ему на голову горящие уголья. Не будь побежден злом, но побеждай зло добром.</p><cite>Рим. 12:9-21</cite></blockquote>
-<h3>(1) Рим. 12:9, - важность любви Божьей, важность познания и передачи Слово Божье, Завета, Христос (любовь к Богу и ближнему)</h3>
-<blockquote><p>Любовь <em>да</em> <em>будет</em> непритворна; отвращайтесь зла, прилепляйтесь к добру;</p><cite>Рим. 12:9</cite></blockquote>
-<h3>(2) Рим. 12:9, - важность изменения идеологии и мировозрения, правильная система ценностей (Божьи стандарты, обучение)</h3>
-<blockquote><p>Любовь <em>да</em> <em>будет</em> непритворна; отвращайтесь зла, прилепляйтесь к добру;</p><cite>Рим. 12:9</cite></blockquote>
-<h3>(3) Рим. 12:10, - важность правильных взаимоотношений в народе Божьем, важность исполнения предназначения</h3>
-<blockquote><p>будьте братолюбивы друг к другу с нежностью; в почтительности друг друга предупреждайте;</p><cite>Рим. 12:10</cite></blockquote>
-<h3>(4) Рим. 12:11, - важность усердного служения Бог – познание и передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация, приход Христа</h3>
-<blockquote><p>в усердии не ослабевайте; духом пламенейте; Господу служите;</p><cite>Рим. 12:11</cite></blockquote>
-<h3>(5) Рим. 12:12, - важность понимания Божьего плана и будущего народа Божьего (утешение надеждою)</h3>
-<blockquote><p>утешайтесь надеждою; в скорби <em>будьте</em> терпеливы, в молитве постоянны;</p><cite>Рим. 12:12</cite></blockquote>
-<h3>(6) Рим. 12:12, - важность терпения, понимание Божьего суверенитета и контроля, правильное отношение к скорбям. (Испытание веры – важность любви, упования и доверия Богу)</h3>
-<blockquote><p>утешайтесь надеждою; в скорби <em>будьте</em> терпеливы, в молитве постоянны;</p><cite>Рим. 12:12</cite></blockquote>
-<h3>(7) Рим. 12:12, - важность постоянства в молитве (Богообщение и Богопознание), важность рассуждение над Слово Божье (воля Божья)</h3>
-<blockquote><p>утешайтесь надеждою; в скорби <em>будьте</em> терпеливы, в молитве постоянны;</p><cite>Рим. 12:12</cite></blockquote>
-<h3>(8) Рим. 12:13, - важность участия в нуждах святых, важность страноприимства – важность исполнение предназначения. (Молитва, финансы и личное участие народа Божьего)</h3>
-<blockquote><p>в нуждах святых принимайте участие; ревнуйте о странноприимстве.</p><cite>Рим. 12:13</cite></blockquote>
-<h3>(9) Рим. 12:14, - важность благословения для каждого человека, Божья власть благословлять, а не проклинать. (Проклятие – следствие греха, сила ведущая в погибель)</h3>
-<blockquote><p>Благословляйте гонителей ваших; благословляйте, а не проклинайте.</p><cite>Рим. 12:14</cite></blockquote>
-<h3>(10) Рим. 12:15, - важность участия в жизни других людей (небезразличие), важность донесения Слово Божье, Завета, Христос</h3>
-<blockquote><p>Радуйтесь с радующимися и плачьте с плачущими.</p><cite>Рим. 12:15</cite></blockquote>
-<h3>(11) Рим. 12:16, - важность единомыслия народа Божьего (познание и передача Слово Божье, Завета, Хр, исполнение предназнач.)</h3>
-<blockquote><p>Будьте единомысленны между собою; не высокомудрствуйте, но последуйте смиренным; не мечтайте о себе;</p><cite>Рим. 12:16</cite></blockquote>
-<h3>(12) Рим. 12:17-21, - важность понимания духовной реальности (понимание причины зла и кофликтов), важность исполнения предназначения народа Божьего (победить зло добром)</h3>
-<blockquote><p>никому не воздавайте злом за зло, но пекитесь о добром перед всеми человеками. Если возможно с вашей стороны, будьте в мире со всеми людьми. Не мстите за себя, возлюбленные, но дайте место гневу <em>Божию.</em> Ибо написано: Мне отмщение, Я воздам, говорит Господь. Итак, если враг твой голоден, накорми его; если жаждет, напой его: ибо, делая сие, ты соберешь ему на голову горящие уголья. Не будь побежден злом, но побеждай зло добром.</p><cite>Рим. 12:17-21</cite></blockquote>
-<h2>Заключение:</h2>
-<h3>(1) Важность понимания и исполнения предназначения</h3>
-<h3>(2) Важность обучения, освящения и изменения жизни</h3>
-<h3>(3) Важность правильной жизни народа Божьего</h3>
-<h2>13.1) Рим. 13:1-7, - понимание Бог суверенитета и контроля</h2>
-<blockquote><p>Всякая душа да будет покорна высшим властям, ибо нет власти не от Бога; существующие же власти от Бога установлены. Посему противящийся власти противится Божию установлению. А противящиеся сами навлекут на себя осуждение. Ибо начальствующие страшны не для добрых дел, но для злых. Хочешь ли не бояться власти? Делай добро, и получишь похвалу от нее, ибо <em>начальник</em> есть Божий слуга, тебе на добро. Если же делаешь зло, бойся, ибо он не напрасно носит меч: он Божий слуга, отмститель в наказание делающему злое. И потому надобно повиноваться не только из <em>страха</em> наказания, но и по совести. Для сего вы и подати платите, ибо они Божии служители, сим самым постоянно занятые. Итак отдавайте всякому должное: кому подать, подать; кому оброк, оброк; кому страх, страх; кому честь, честь.</p><cite>Рим. 13:1-7</cite></blockquote>
-<h3>(1) Важность понимания вопроса духовной власти на земле</h3>
-<h4>(а) Быт. 1:27,2:7,9,16-17, - важность Слово Божье, Завета, Христос, Эммануил, законная власть Бога над человеком, право выбора</h4>
-<blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
-<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<blockquote><p>И произрастил Господь Бог из земли всякое дерево, приятное на вид и хорошее для пищи, и дерево жизни посреди рая, и дерево познания добра и зла.</p><cite>Быт. 2:9</cite></blockquote>
-<blockquote><p>И заповедал Господь Бог человеку, говоря: от всякого дерева в саду ты будешь есть, а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:16-17</cite></blockquote>
-<h4>(б) Быт. 3:1-7 (Рим. 5:12,6:23,Еф. 2:2), - отказ от Слово Божье, Завета, Христос, нет Эммануила, законная власть сатана над человеком. Мф. 4:8-9</h4>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
-<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
-<blockquote><p>Опять берет Его диавол на весьма высокую гору и показывает Ему все царства мира и славу их, и говорит Ему: все это дам Тебе, если, пав, поклонишься мне.</p><cite>Мф. 4:8-9</cite></blockquote>
-<h4>(в) Быт. 3:15,21 (Мф. 16:16,Ин. 19:30), - важность Слово Божье, Завета, Христос, Эммануил, законная власть Бога над человеком, право выбора Втор. 30:19,Дн. 26:18,2-е Тим. 2:24-26</h4>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<blockquote><p>Симон же Петр, отвечая, сказал: Ты -- Христос, Сын Бога Живаго.</p><cite>Мф. 16:16</cite></blockquote>
-<blockquote><p>Когда же Иисус вкусил уксуса, сказал: совершилось! И, преклонив главу, предал дух.</p><cite>Ин. 19:30</cite></blockquote>
-<blockquote><p>Во свидетели пред вами призываю сегодня небо и землю: жизнь и смерть предложил я тебе, благословение и проклятие. Избери жизнь, дабы жил ты и потомство твое,</p><cite>Втор. 30:19</cite></blockquote>
-<blockquote><p>открыть глаза им, чтобы они обратились от тьмы к свету и от власти сатаны к Богу, и верою в Меня получили прощение грехов и жребий с освященными".</p><cite>Дн. 26:18</cite></blockquote>
-<blockquote><p>рабу же Господа не должно ссориться, но быть приветливым ко всем, учительным, незлобивым, с кротостью наставлять противников, не даст ли им Бог покаяния к познанию истины, чтобы они освободились от сети диавола, который уловил их в свою волю.</p><cite>2-е Тим. 2:24-26</cite></blockquote>
-<h3>(2) Важность понимания совершенной и допустимой воли Бог</h3>
-<h4>(а) Понимание совершенной воли Бог – Эммануил, Богообщение, важность Слово Божье, Завета, Христос, право выбора человека. Втор. 30:19</h4>
-<blockquote><p>Во свидетели пред вами призываю сегодня небо и землю: жизнь и смерть предложил я тебе, благословение и проклятие. Избери жизнь, дабы жил ты и потомство твое,</p><cite>Втор. 30:19</cite></blockquote>
-<h4>(б) Понимание допустимой воли Божьей – принятие Богом право выбора творения Божьего. Втор. 30:19</h4>
-<blockquote><p>Во свидетели пред вами призываю сегодня небо и землю: жизнь и смерть предложил я тебе, благословение и проклятие. Избери жизнь, дабы жил ты и потомство твое,</p><cite>Втор. 30:19</cite></blockquote>
-<h3>(3) Важность понимания зависимости земной власти от духовной власти в стране, право выбора каждого человека. (Важность принятия Слово Божье, Завета, Христос, исполнение предназнач.)</h3>
-<h4>(а) Рим. 13:1-3, - Божье установление, земная и духовная власть, Божий суверенитет и контроль. 1-е Тим. 6:13-16,Отк. 19:16</h4>
-<blockquote><p>Всякая душа да будет покорна высшим властям, ибо нет власти не от Бога; существующие же власти от Бога установлены. Посему противящийся власти противится Божию установлению. А противящиеся сами навлекут на себя осуждение. Ибо начальствующие страшны не для добрых дел, но для злых. Хочешь ли не бояться власти? Делай добро, и получишь похвалу от нее,</p><cite>Рим. 13:1-3</cite></blockquote>
-<blockquote><p>Пред Богом, все животворящим, и пред Христом Иисусом, Который засвидетельствовал пред Понтием Пилатом доброе исповедание, завещеваю тебе соблюсти заповедь чисто и неукоризненно, даже до явления Господа нашего Иисуса Христа, которое в свое время откроет блаженный и единый сильный Царь царствующих и Господь господствующих, единый имеющий бессмертие, Который обитает в неприступном свете, Которого никто из человеков не видел и видеть не может. Ему честь и держава вечная! Аминь.</p><cite>1-е Тим. 6:13-16</cite></blockquote>
-<blockquote><p>На одежде и на бедре Его написано имя: "Царь царей и Господь господствующих".</p><cite>Отк. 19:16</cite></blockquote>
-<h4>(б) Рим. 13:4, - понимание земных властей, служители Божьи, важность познания и передачи Слово Божье, Завета, Христос (цивилизация)</h4>
-<blockquote><p>ибо <em>начальник</em> есть Божий слуга, тебе на добро. Если же делаешь зло, бойся, ибо он не напрасно носит меч: он Божий слуга, отмститель в наказание делающему злое.</p><cite>Рим. 13:4</cite></blockquote>
-<h4>(в) Рим. 13:5-7, - важность принятия Божьего установления, участие в жизни общества. Мф. 22:21,Кол. 3:23</h4>
-<blockquote><p>И потому надобно повиноваться не только из <em>страха</em> наказания, но и по совести. Для сего вы и подати платите, ибо они Божии служители, сим самым постоянно занятые. Итак отдавайте всякому должное: кому подать, подать; кому оброк, оброк; кому страх, страх; кому честь, честь.</p><cite>Рим. 13:5-7</cite></blockquote>
-<blockquote><p>Говорят Ему: кесаревы. Тогда говорит им: итак отдавайте кесарево кесарю, а Божие Богу.</p><cite>Мф. 22:21</cite></blockquote>
-<blockquote><p>И все, что делаете, делайте от души, как для Господа, а не для человеков,</p><cite>Кол. 3:23</cite></blockquote>
-<h4>(г) 1-е Тим. 2:1-2, - важность молитвы за светскую власть, исполнение воли Божьей в отношении страны и властей (Важность осуществления Божьего плана и Божьей воли)</h4>
-<blockquote><p>Итак прежде всего прошу совершать молитвы, прошения, моления, благодарения за всех человеков, за царей и за всех начальствующих, дабы проводить нам жизнь тихую и безмятежную во всяком благочестии и чистоте,</p><cite>1-е Тим. 2:1-2</cite></blockquote>
-<h4>(д) Дн. 4:19,5:28-29, - важность правильных приоритетов для человека (воля Божья), важность понимания приоритета Слово Божье над человеческими мнениями и законами, т.е. послушание власти пока нет противоречия Слово Божье (Важность понимания отделения Церкви от государства – изменчивость земных законов, неизменность законов Божьих)</h4>
-<blockquote><p>Но Петр и Иоанн сказали им в ответ: судите, справедливо ли пред Богом слушать вас более, нежели Бога?</p><cite>Дн. 4:19</cite></blockquote>
-<blockquote><p>не запретили ли мы вам накрепко учить о имени сем? и вот, вы наполнили Иерусалим учением вашим и хотите навести на нас кровь Того Человека. Петр же и Апостолы в ответ сказали: должно повиноваться больше Богу, нежели человекам.</p><cite>Дн. 5:28-29</cite></blockquote>
-<h4>(е) Еф. 2:19,Фил. 3:20, - важность понимания Небесного гражданства народа Божьего, правильные приоритеты</h4>
-<blockquote><p>Итак вы уже не чужие и не пришельцы, но сограждане святым и свои Богу,</p><cite>Еф. 2:19</cite></blockquote>
-<blockquote><p>Наше же жительство -- на небесах, откуда мы ожидаем и Спасителя, Господа нашего Иисуса Христа,</p><cite>Фил. 3:20</cite></blockquote>
-<h4>(ж) Иер. 17:5, - упование на власть (люди), идолопоклонство Втор. 28:1-2,15</h4>
-<blockquote><p>Так говорит Господь: проклят человек, который надеется на человека и плоть делает своею опорою, и которого сердце удаляется от Господа.</p><cite>Иер. 17:5</cite></blockquote>
-<blockquote><p>Если ты, когда перейдете , будешь слушать гласа Господа Бога твоего, тщательно исполнять все заповеди Его, которые заповедую тебе сегодня, то Господь Бог твой поставит тебя выше всех народов земли; и придут на тебя все благословения сии и исполнятся на тебе, если будешь слушать гласа Господа, Бога твоего.</p><cite>Втор. 28:1-2</cite></blockquote>
-<blockquote><p>Если же не будешь слушать гласа Господа Бога твоего и не будешь стараться исполнять все заповеди Его и постановления Его, которые я заповедую тебе сегодня, то придут на тебя все проклятия сии и постигнут тебя.</p><cite>Втор. 28:15</cite></blockquote>
-<h2>2) Рим. 13:8-10, - важность любви Божьей к ближнему</h2>
-<blockquote><p>Не оставайтесь должными никому ничем, кроме взаимной любви; ибо любящий другого исполнил закон. Ибо заповеди: не прелюбодействуй, не убивай, не кради, не лжесвидетельствуй, не пожелай <em>чужого</em> и все другие заключаются в сем слове: люби ближнего твоего, как самого себя. Любовь не делает ближнему зла; итак любовь есть исполнение закона.</p><cite>Рим. 13:8-10</cite></blockquote>
-<h3>(1) Рим. 13:8, - важность любви Божьей к ближнему. Мф. 7:12. (Познание и передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация)</h3>
-<blockquote><p>Не оставайтесь должными никому ничем, кроме взаимной любви; ибо любящий другого исполнил закон.</p><cite>Рим. 13:8</cite></blockquote>
-<blockquote><p>Итак во всем, как хотите, чтобы с вами поступали люди, так поступайте и вы с ними, ибо в этом закон и пророки.</p><cite>Мф. 7:12</cite></blockquote>
-<h3>(2) Рим. 13:9-10, - важность правильного отношения к ближнему, отказ от зла, важность спасения всякого человека. 1-е Тим. 2:4. (Важность исполнения предназначения для народа Божьего)</h3>
-<blockquote><p>Ибо заповеди: не прелюбодействуй, не убивай, не кради, не лжесвидетельствуй, не пожелай <em>чужого</em> и все другие заключаются в сем слове: люби ближнего твоего, как самого себя. Любовь не делает ближнему зла; итак любовь есть исполнение закона.</p><cite>Рим. 13:9-10</cite></blockquote>
-<blockquote><p>Который хочет, чтобы все люди спаслись и достигли познания истины.</p><cite>1-е Тим. 2:4</cite></blockquote>
-<h2>3) Рим. 13:11-14, - важность предназначения и освящения</h2>
-<blockquote><p>Так <em>поступайте,</em> зная время, что наступил уже час пробудиться нам от сна. Ибо ныне ближе к нам спасение, нежели когда мы уверовали. Ночь прошла, а день приблизился: итак отвергнем дела тьмы и облечемся в оружия света. Как днем, будем вести себя благочинно, не <em>предаваясь</em> ни пированиям и пьянству, ни сладострастию и распутству, ни ссорам и зависти; но облекитесь в Господа нашего Иисуса Христа, и попечения о плоти не превращайте в похоти.</p><cite>Рим. 13:11-14</cite></blockquote>
-<h3>(1) Рим. 13:11, - духовный сон народа Божьего (суета мира)</h3>
-<blockquote><p>Так <em>поступайте,</em> зная время, что наступил уже час пробудиться нам от сна. Ибо ныне ближе к нам спасение, нежели когда мы уверовали.</p><cite>Рим. 13:11</cite></blockquote>
-<h3>(2) Рим. 13:11, - важность понимание времени (предназначение)</h3>
-<blockquote><p>Так <em>поступайте,</em> зная время, что наступил уже час пробудиться нам от сна. Ибо ныне ближе к нам спасение, нежели когда мы уверовали.</p><cite>Рим. 13:11</cite></blockquote>
-<h3>(3) Рим. 13:11, - приближение завершения спасения (вечность)</h3>
-<blockquote><p>Так <em>поступайте,</em> зная время, что наступил уже час пробудиться нам от сна. Ибо ныне ближе к нам спасение, нежели когда мы уверовали.</p><cite>Рим. 13:11</cite></blockquote>
-<h3>(4) Рим. 13:12-14, - важность освящения и правильной жизни, важность служения Богу, исполнение предназначения</h3>
-<blockquote><p>Ночь прошла, а день приблизился: итак отвергнем дела тьмы и облечемся в оружия света. Как днем, будем вести себя благочинно, не <em>предаваясь</em> ни пированиям и пьянству, ни сладострастию и распутству, ни ссорам и зависти; но облекитесь в Господа нашего Иисуса Христа, и попечения о плоти не превращайте в похоти.</p><cite>Рим. 13:12-14</cite></blockquote>
-<h2>Заключение:</h2>
-<h3>(1) Понимание Божьего суверенитета и установления (власть)</h3>
-<h3>(2) Важность правильных приоритетов в жизни народа Божьего</h3>
-<h3>(3) Важность понимания и исполнения предназначения народа Божьего</h3>
-<h2>14.1) Рим. 14:1-9, - важность понимания Слово Божье, Завета, Христос</h2>
-<blockquote><p>Немощного в вере принимайте без споров о мнениях. Ибо иной уверен, <em>что</em> <em>можно</em> есть все, а немощный ест овощи. Кто ест, не уничижай того, кто не ест; и кто не ест, не осуждай того, кто ест, потому что Бог принял его. Кто ты, осуждающий чужого раба? Перед своим Господом стоит он, или падает. И будет восставлен, ибо силен Бог восставить его. Иной отличает день от дня, а другой судит о всяком дне <em>равно.</em> Всякий <em>поступай</em> по удостоверению своего ума. Кто различает дни, для Господа различает; и кто не различает дней, для Господа не различает. Кто ест, для Господа ест, ибо благодарит Бога; и кто не ест, для Господа не ест, и благодарит Бога. Ибо никто из нас не живет для себя, и никто не умирает для себя; а живем ли -- для Господа живем; умираем ли -- для Господа умираем: и потому, живем ли или умираем, -- <em>всегда</em> Господни. Ибо Христос для того и умер, и воскрес, и ожил, чтобы владычествовать и над мертвыми и над живыми.</p><cite>Рим. 14:1-9</cite></blockquote>
-<h3>(1) Рим. 14:1-6, - неточное понимание Слово Божье, Завета, Христос (верующие) (Духовная немощь человека, акцент на второстепенных вещах, важность принятия и обучения – полное понимание Слово Божье) Быт. 1:27,2:7,9,16-17, - Быт. 3:1-7 (Рим. 5:12,6:23,Еф. 2:2), -Быт. 3:15,21,Мф. 16:16,Ин. 19:30, - Рим. 10:9</h3>
-<blockquote><p>Немощного в вере принимайте без споров о мнениях. Ибо иной уверен, <em>что</em> <em>можно</em> есть все, а немощный ест овощи. Кто ест, не уничижай того, кто не ест; и кто не ест, не осуждай того, кто ест, потому что Бог принял его. Кто ты, осуждающий чужого раба? Перед своим Господом стоит он, или падает. И будет восставлен, ибо силен Бог восставить его. Иной отличает день от дня, а другой судит о всяком дне <em>равно.</em> Всякий <em>поступай</em> по удостоверению своего ума. Кто различает дни, для Господа различает; и кто не различает дней, для Господа не различает. Кто ест, для Господа ест, ибо благодарит Бога; и кто не ест, для Господа не ест, и благодарит Бога.</p><cite>Рим. 14:1-6</cite></blockquote>
-<blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
-<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<blockquote><p>И произрастил Господь Бог из земли всякое дерево, приятное на вид и хорошее для пищи, и дерево жизни посреди рая, и дерево познания добра и зла.</p><cite>Быт. 2:9</cite></blockquote>
-<blockquote><p>И заповедал Господь Бог человеку, говоря: от всякого дерева в саду ты будешь есть, а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:16-17</cite></blockquote>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
-<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<blockquote><p>Симон же Петр, отвечая, сказал: Ты -- Христос, Сын Бога Живаго.</p><cite>Мф. 16:16</cite></blockquote>
-<blockquote><p>Когда же Иисус вкусил уксуса, сказал: совершилось! И, преклонив главу, предал дух.</p><cite>Ин. 19:30</cite></blockquote>
-<blockquote><p>Ибо если устами твоими будешь исповедывать Иисуса Господом и сердцем твоим веровать, что Бог воскресил Его из мертвых, то спасешься,</p><cite>Рим. 10:9</cite></blockquote>
-<h3>(2) Рим. 14:7-8, - понимание законной принадлежности народа Божьего к Богу через принятие Слово Божье, Завета, Христос</h3>
-<blockquote><p>Ибо никто из нас не живет для себя, и никто не умирает для себя; а живем ли -- для Господа живем; умираем ли -- для Господа умираем: и потому, живем ли или умираем, -- <em>всегда</em> Господни.</p><cite>Рим. 14:7-8</cite></blockquote>
-<h3>(3) Рим. 14:9, - Жертва Христа, законное право владычества и суда над человечеством (Бог во плоти)</h3>
-<blockquote><p>Ибо Христос для того и умер, и воскрес, и ожил, чтобы владычествовать и над мертвыми и над живыми.</p><cite>Рим. 14:9</cite></blockquote>
-<h2>2) Рим. 14:10-18, - важность исполнения предназначения</h2>
-<blockquote><p>А ты что осуждаешь брата твоего? Или и ты, что унижаешь брата твоего? Все мы предстанем на суд Христов. Ибо написано: живу Я, говорит Господь, предо Мною преклонится всякое колено, и всякий язык будет исповедывать Бога. Итак каждый из нас за себя даст отчет Богу. Не станем же более судить друг друга, а лучше судите о том, как бы не подавать брату <em>случая</em> <em>к</em> преткновению или соблазну. Я знаю и уверен в Господе Иисусе, что нет ничего в себе самом нечистого; только почитающему что-либо нечистым, тому нечисто. Если же за пищу огорчается брат твой, то ты уже не по любви поступаешь. Не губи твоею пищею того, за кого Христос умер. Да не хулится ваше доброе. Ибо Царствие Божие не пища и питие, но праведность и мир и радость во Святом Духе. Кто сим служит Христу, тот угоден Богу и <em>достоин</em> одобрения от людей.</p><cite>Рим. 14:10-18</cite></blockquote>
-<h3>(1) Рим. 14:10-12, - суд Божий над народом Бог, ответственность человека (правильная жизнь, исполнение предназначения)</h3>
-<blockquote><p>А ты что осуждаешь брата твоего? Или и ты, что унижаешь брата твоего? Все мы предстанем на суд Христов. Ибо написано: живу Я, говорит Господь, предо Мною преклонится всякое колено, и всякий язык будет исповедывать Бога. Итак каждый из нас за себя даст отчет Богу.</p><cite>Рим. 14:10-12</cite></blockquote>
-<h3>(2) Рим. 14:13-16, - важность правильной жизни (соблазны)</h3>
-<blockquote><p>Не станем же более судить друг друга, а лучше судите о том, как бы не подавать брату <em>случая</em> <em>к</em> преткновению или соблазну. Я знаю и уверен в Господе Иисусе, что нет ничего в себе самом нечистого; только почитающему что-либо нечистым, тому нечисто. Если же за пищу огорчается брат твой, то ты уже не по любви поступаешь. Не губи твоею пищею того, за кого Христос умер. Да не хулится ваше доброе.</p><cite>Рим. 14:13-16</cite></blockquote>
-<h3>(3) Рим. 14:17-18, - важность познания, передачи Слово Божье, Завета, Христос, Ц.Б. (праведность, мир, радость во Христе, Эммануил). Лк. 17:21</h3>
-<blockquote><p>Ибо Царствие Божие не пища и питие, но праведность и мир и радость во Святом Духе. Кто сим служит Христу, тот угоден Богу и <em>достоин</em> одобрения от людей.</p><cite>Рим. 14:17-18</cite></blockquote>
-<blockquote><p>и не скажут: вот, оно здесь, или: вот, там. Ибо вот, Царствие Божие внутрь вас есть.</p><cite>Лк. 17:21</cite></blockquote>
-<h2>3) Рим. 14:19-23, - важность принятия и воспитания человека, обучение, формирование веры Бог (понимание, исполнение Слово Божье)</h2>
-<blockquote><p>Итак будем искать того, что служит к миру и ко взаимному назиданию. Ради пищи не разрушай дела Божия. Все чисто, но худо человеку, который ест на соблазн. Лучше не есть мяса, не пить вина и не <em>делать</em> ничего <em>такого,</em> отчего брат твой претыкается, или соблазняется, или изнемогает. Ты имеешь веру? имей ее сам в себе, пред Богом. Блажен, кто не осуждает себя в том, что избирает. А сомневающийся, если ест, осуждается, потому что не по вере; а все, что не по вере, грех.</p><cite>Рим. 14:19-23</cite></blockquote>
-<h3>(1) Рим. 14:19-22, - правильное поведение (неподача соблазнов), важность любви к ближнему. 1-е Кор. 8:8-9. (Вера Божья – не осуждает себя в том, что избирает)</h3>
-<blockquote><p>Итак будем искать того, что служит к миру и ко взаимному назиданию. Ради пищи не разрушай дела Божия. Все чисто, но худо человеку, который ест на соблазн. Лучше не есть мяса, не пить вина и не <em>делать</em> ничего <em>такого,</em> отчего брат твой претыкается, или соблазняется, или изнемогает. Ты имеешь веру? имей ее сам в себе, пред Богом. Блажен, кто не осуждает себя в том, что избирает.</p><cite>Рим. 14:19-22</cite></blockquote>
-<blockquote><p>Пища не приближает нас к Богу: ибо, едим ли мы, ничего не приобретаем; не едим ли, ничего не теряем. Берегитесь однако же, чтобы эта свобода ваша не послужила соблазном для немощных.</p><cite>1-е Кор. 8:8-9</cite></blockquote>
-<h3>(2) Рим. 14:23, - непонимание Слово Божье, Завета, Христос (сомневающийся), пища для спасения (иудаизм, субботники), осуждение человека, грех к смерти. (Вера Божья – спасение через Жертву Христа, а не пищу)</h3>
-<blockquote><p>А сомневающийся, если ест, осуждается, потому что не по вере; а все, что не по вере, грех.</p><cite>Рим. 14:23</cite></blockquote>
-<h2>4) Рим. 14:24-26, - понимание и передача Слово Божье, Завета, Христос</h2>
-<blockquote><p>Могущему же утвердить вас, по благовествованию моему и проповеди Иисуса Христа, по откровению тайны, о которой от вечных времен было умолчано, но которая ныне явлена, и через писания пророческие, по повелению вечного Бога, возвещена всем народам для покорения их вере, Единому Премудрому Богу, через Иисуса Христа, слава во веки. Аминь.</p><cite>Рим. 14:24-26</cite></blockquote>
-<h3>(1) Рим. 14:24, - Божий суверенитет, понимание Слово Божье, Завета, Христос, важность обучения и Церкви, Божий способ познания тайны Бог</h3>
-<blockquote><p>Могущему же утвердить вас, по благовествованию моему и проповеди Иисуса Христа, по откровению тайны, о которой от вечных времен было умолчано,</p><cite>Рим. 14:24</cite></blockquote>
-<h3>(2) Рим. 14:25-26, - Божья воля, передача Слово Божье, Завета, Христос, Всемирная Евангелизация, правильный метод прославления Святого, Истинного Бога</h3>
-<blockquote><p>но которая ныне явлена, и через писания пророческие, по повелению вечного Бога, возвещена всем народам для покорения их вере, Единому Премудрому Богу, через Иисуса Христа, слава во веки. Аминь.</p><cite>Рим. 14:25-26</cite></blockquote>
-<h2>Заключение:</h2>
-<h3>(1) Важность веры Божьей для человека</h3>
-<h3>(2) Важность правильной жизни и поведения (соблазны)</h3>
-<h3>(3) Важность понимания Эмманула и принадлежности к Богу</h3>
-<h3>(4) Важность понимания суда Божьего в отношении детей Бог</h3>
-<h3>(5) Важность понимания сути Царства Божьего</h3>
-<h3>(6) Важность понимания Слово Божье, Завета, Христос, тайна Божья</h3>
-<h3>(7) Важность познания и передачи Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация, приход Христа – исполнение предназначения</h3>
-<h2>15.1) Рим. 15, - важность познания и передачи Слово Божье, Завета, Христос</h2>
-<h3>(1) Рим. 15:1-7, - важность правильных взаимоотношений в народе Божьем, важность исполнения предназначения</h3>
-<blockquote><p>Мы, сильные, должны сносить немощи бессильных и не себе угождать. Каждый из нас должен угождать ближнему, во благо, к назиданию. Ибо и Христос не Себе угождал, но, как написано: злословия злословящих Тебя пали на Меня. А все, что писано было прежде, написано нам в наставление, чтобы мы терпением и утешением из Писаний сохраняли надежду. Бог же терпения и утешения да дарует вам быть в единомыслии между собою, по <em>учению</em> Христа Иисуса, дабы вы единодушно, едиными устами славили Бога и Отца Господа нашего Иисуса Христа. Посему принимайте друг друга, как и Христос принял вас в славу Божию.</p><cite>Рим. 15:1-7</cite></blockquote>
-<h4>(а) Рим. 15:1-3, - важность угождения Богу и ближнему, утверждение Слово Божье, Завета, Христос, понимание духовной проблемы. (Духовная немощь – влияние остатков грех. сущ., мира и сатана) Быт. 1:27,2:7,9,16-17, - Быт. 3:1-7 (Рим. 5:12,6:23,Еф. 2:2), -Быт. 3:15,21,Мф. 16:16,Ин. 19:30, - Рим. 10:9</h4>
-<blockquote><p>Мы, сильные, должны сносить немощи бессильных и не себе угождать. Каждый из нас должен угождать ближнему, во благо, к назиданию. Ибо и Христос не Себе угождал, но, как написано: злословия злословящих Тебя пали на Меня.</p><cite>Рим. 15:1-3</cite></blockquote>
-<blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
-<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<blockquote><p>И произрастил Господь Бог из земли всякое дерево, приятное на вид и хорошее для пищи, и дерево жизни посреди рая, и дерево познания добра и зла.</p><cite>Быт. 2:9</cite></blockquote>
-<blockquote><p>И заповедал Господь Бог человеку, говоря: от всякого дерева в саду ты будешь есть, а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:16-17</cite></blockquote>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
-<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<blockquote><p>Симон же Петр, отвечая, сказал: Ты -- Христос, Сын Бога Живаго.</p><cite>Мф. 16:16</cite></blockquote>
-<blockquote><p>Когда же Иисус вкусил уксуса, сказал: совершилось! И, преклонив главу, предал дух.</p><cite>Ин. 19:30</cite></blockquote>
-<blockquote><p>Ибо если устами твоими будешь исповедывать Иисуса Господом и сердцем твоим веровать, что Бог воскресил Его из мертвых, то спасешься,</p><cite>Рим. 10:9</cite></blockquote>
-<h4>(б) Важность духовного роста человека – познание и передача Слово Божье, Завета, Христос, исполнение предназначения народа Божьего</h4>
-<h4>(в) Рим. 15:4-7, - важность понимания Слово Божье, Завета, Христос (Вера Божья, единомыслие, исполнение предназначения народа Божьего – познание и передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация)</h4>
-<blockquote><p>А все, что писано было прежде, написано нам в наставление, чтобы мы терпением и утешением из Писаний сохраняли надежду. Бог же терпения и утешения да дарует вам быть в единомыслии между собою, по <em>учению</em> Христа Иисуса, дабы вы единодушно, едиными устами славили Бога и Отца Господа нашего Иисуса Христа. Посему принимайте друг друга, как и Христос принял вас в славу Божию.</p><cite>Рим. 15:4-7</cite></blockquote>
-<h3>(2) Рим. 15:8-24, - важность передачи Слово Божье, Завета, Христос, Всемирная Евангелизация</h3>
-<blockquote><p>Разумею то, что Иисус Христос сделался служителем для обрезанных -- ради истины Божией, чтобы исполнить обещанное отцам, а для язычников -- из милости, чтобы славили Бога, как написано: за то буду славить Тебя, (Господи,) между язычниками, и буду петь имени Твоему. И еще сказано: возвеселитесь, язычники, с народом Его. И еще: хвалите Господа, все язычники, и прославляйте Его, все народы. Исаия также говорит: будет корень Иессеев, и восстанет владеть народами; на Него язычники надеяться будут. Бог же надежды да исполнит вас всякой радости и мира в вере, дабы вы, силою Духа Святаго, обогатились надеждою. И сам я уверен о вас, братия мои, что и вы полны благости, исполнены всякого познания и можете наставлять друг друга; но писал вам, братия, с некоторою смелостью, отчасти как бы в напоминание вам, по данной мне от Бога благодати быть служителем Иисуса Христа у язычников и <em>совершать</em> священнодействие благовествования Божия, дабы сие приношение язычников, будучи освящено Духом Святым, было благоприятно <em>Богу.</em> Итак я могу похвалиться в Иисусе Христе в том, что <em>относится</em> к Богу, ибо не осмелюсь сказать что-нибудь такое, чего не совершил Христос через меня, в покорении язычников <em>вере,</em> словом и делом, силою знамений и чудес, силою Духа Божия, так что благовествование Христово распространено мною от Иерусалима и окрестности до Иллирика. Притом я старался благовествовать не там, где <em>уже</em> было известно имя Христово, дабы не созидать на чужом основании, но как написано: не имевшие о Нем известия увидят, и не слышавшие узнают. Сие-то много раз и препятствовало мне придти к вам. Ныне же, не имея <em>такого</em> места в сих странах, а с давних лет имея желание придти к вам, как только предприму путь в Испанию, приду к вам. Ибо надеюсь, что, проходя, увижусь с вами и что вы проводите меня туда, как скоро наслажусь <em>общением</em> с вами, хотя отчасти.</p><cite>Рим. 15:8-24</cite></blockquote>
-<h4>(а) Рим. 15:8-12, - понимание народа Божьего (иудеи, язычники)</h4>
-<blockquote><p>Разумею то, что Иисус Христос сделался служителем для обрезанных -- ради истины Божией, чтобы исполнить обещанное отцам, а для язычников -- из милости, чтобы славили Бога, как написано: за то буду славить Тебя, (Господи,) между язычниками, и буду петь имени Твоему. И еще сказано: возвеселитесь, язычники, с народом Его. И еще: хвалите Господа, все язычники, и прославляйте Его, все народы. Исаия также говорит: будет корень Иессеев, и восстанет владеть народами; на Него язычники надеяться будут.</p><cite>Рим. 15:8-12</cite></blockquote>
-<h4>(б) Рим. 15:13-14, - важность учеников и Всемирная Евангелизация (предназначение)</h4>
-<blockquote><p>Бог же надежды да исполнит вас всякой радости и мира в вере, дабы вы, силою Духа Святаго, обогатились надеждою. И сам я уверен о вас, братия мои, что и вы полны благости, исполнены всякого познания и можете наставлять друг друга;</p><cite>Рим. 15:13-14</cite></blockquote>
-<h4>(в) Рим. 15:15-24, - важность исполнения предназначения, служение апостола Павла (познание и передача Слово Божье, Завета, Христос, Всемирная Евангелизация, ученики, Испания – край континенита, край земли)</h4>
-<blockquote><p>но писал вам, братия, с некоторою смелостью, отчасти как бы в напоминание вам, по данной мне от Бога благодати быть служителем Иисуса Христа у язычников и <em>совершать</em> священнодействие благовествования Божия, дабы сие приношение язычников, будучи освящено Духом Святым, было благоприятно <em>Богу.</em> Итак я могу похвалиться в Иисусе Христе в том, что <em>относится</em> к Богу, ибо не осмелюсь сказать что-нибудь такое, чего не совершил Христос через меня, в покорении язычников <em>вере,</em> словом и делом, силою знамений и чудес, силою Духа Божия, так что благовествование Христово распространено мною от Иерусалима и окрестности до Иллирика. Притом я старался благовествовать не там, где <em>уже</em> было известно имя Христово, дабы не созидать на чужом основании, но как написано: не имевшие о Нем известия увидят, и не слышавшие узнают. Сие-то много раз и препятствовало мне придти к вам. Ныне же, не имея <em>такого</em> места в сих странах, а с давних лет имея желание придти к вам, как только предприму путь в Испанию, приду к вам. Ибо надеюсь, что, проходя, увижусь с вами и что вы проводите меня туда, как скоро наслажусь <em>общением</em> с вами, хотя отчасти.</p><cite>Рим. 15:15-24</cite></blockquote>
-<h3>(3) Рим. 15:25-33, - понимание и исполнение предназначения</h3>
-<blockquote><p>А теперь я иду в Иерусалим, чтобы послужить святым, ибо Македония и Ахаия усердствуют некоторым подаянием для бедных между святыми в Иерусалиме. Усердствуют, да и должники они перед ними. Ибо если язычники сделались участниками в их духовном, то должны и им послужить в телесном. Исполнив это и верно доставив им сей плод <em>усердия,</em> я отправлюсь через ваши <em>места</em> в Испанию, и уверен, что когда приду к вам, то приду с полным благословением благовествования Христова. Между тем умоляю вас, братия, Господом нашим Иисусом Христом и любовью Духа, подвизаться со мною в молитвах за меня к Богу, чтобы избавиться мне от неверующих в Иудее и чтобы служение мое для Иерусалима было благоприятно святым, дабы мне в радости, если Богу угодно, придти к вам и успокоиться с вами. Бог же мира да будет со всеми вами, аминь.</p><cite>Рим. 15:25-33</cite></blockquote>
-<h4>(а) Рим. 15:25-27, - финансовое служение, исполнение предназнач</h4>
-<blockquote><p>А теперь я иду в Иерусалим, чтобы послужить святым, ибо Македония и Ахаия усердствуют некоторым подаянием для бедных между святыми в Иерусалиме. Усердствуют, да и должники они перед ними. Ибо если язычники сделались участниками в их духовном, то должны и им послужить в телесном.</p><cite>Рим. 15:25-27</cite></blockquote>
-<h4>(б) Рим. 15:28-33, - понимание предназначения (ученики, Всемирная Евангелизация)</h4>
-<blockquote><p>Исполнив это и верно доставив им сей плод <em>усердия,</em> я отправлюсь через ваши <em>места</em> в Испанию, и уверен, что когда приду к вам, то приду с полным благословением благовествования Христова. Между тем умоляю вас, братия, Господом нашим Иисусом Христом и любовью Духа, подвизаться со мною в молитвах за меня к Богу, чтобы избавиться мне от неверующих в Иудее и чтобы служение мое для Иерусалима было благоприятно святым, дабы мне в радости, если Богу угодно, придти к вам и успокоиться с вами. Бог же мира да будет со всеми вами, аминь.</p><cite>Рим. 15:28-33</cite></blockquote>
-<h2>2) Рим. 16, - важность передачи Слово Божье, Завета, Христос, Всемирная Евангелизация</h2>
-<h3>(1) Рим. 16:1-16, - важность народа Божьего,</h3>
-<blockquote><p>Представляю вам Фиву, сестру нашу, диакониссу церкви Кенхрейской. Примите ее для Господа, как прилично святым, и помогите ей, в чем она будет иметь нужду у вас, ибо и она была помощницею многим и мне самому. Приветствуйте Прискиллу и Акилу, сотрудников моих во Христе Иисусе (которые голову свою полагали за мою душу, которых не я один благодарю, но и все церкви из язычников), и домашнюю их церковь. Приветствуйте возлюбленного моего Епенета, который есть начаток Ахаии для Христа. Приветствуйте Мариам, которая много трудилась для нас. Приветствуйте Андроника и Юнию, сродников моих и узников со мною, прославившихся между Апостолами и прежде меня еще уверовавших во Христа. Приветствуйте Амплия, возлюбленного мне в Господе. Приветствуйте Урбана, сотрудника нашего во Христе, и Стахия, возлюбленного мне. Приветствуйте Апеллеса, испытанного во Христе. Приветствуйте <em>верных</em> из дома Аристовулова. Приветствуйте Иродиона, сродника моего. Приветствуйте из домашних Наркисса тех, которые в Господе. Приветствуйте Трифену и Трифосу, трудящихся о Господе. Приветствуйте Персиду возлюбленную, которая много потрудилась о Господе. Приветствуйте Руфа, избранного в Господе, и матерь его и мою. Приветствуйте Асинкрита, Флегонта, Ерма, Патрова, Ермия и других с ними братьев. Приветствуйте Филолога и Юлию, Нирея и сестру его, и Олимпана, и всех с ними святых. Приветствуйте друг друга с целованием святым. Приветствуют вас все церкви Христовы.</p><cite>Рим. 16:1-16</cite></blockquote>
-<h4>(а) Ученики, важность познания и передачи Слово Божье, Завета, Христос, Всемирная Евангелизация, подготовка учеников, подготовка прихода Христа</h4>
-<h4>(б) Важность верности Богу и понимания Слово Божье, Завета, Христос (Важность качества, а не количества людей в собрании)</h4>
-<h4>(в) Народ Божий – разные слои общества, важность передачи Слово Божье, Завета, Христос всем людям, важность спасения человека</h4>
-<h3>(2) Рим. 16:17-24, - важность исполнения предназначения</h3>
-<blockquote><p>Умоляю вас, братия, остерегайтесь производящих разделения и соблазны, вопреки учению, которому вы научились, и уклоняйтесь от них; ибо такие <em>люди</em> служат не Господу нашему Иисусу Христу, а своему чреву, и ласкательством и красноречием обольщают сердца простодушных. Ваша покорность <em>вере</em> всем известна; посему я радуюсь за вас, но желаю, чтобы вы были мудры на добро и просты на зло. Бог же мира сокрушит сатану под ногами вашими вскоре. Благодать Господа нашего Иисуса Христа с вами! Аминь. Приветствуют вас Тимофей, сотрудник мой, и Луций, Иасон и Сосипатр, сродники мои. Приветствую вас в Господе и я, Тертий, писавший сие послание. Приветствует вас Гаий, странноприимец мой и всей церкви. Приветствует вас Ераст, городской казнохранитель, и брат Кварт. Благодать Господа нашего Иисуса Христа со всеми вами. Аминь.</p><cite>Рим. 16:17-24</cite></blockquote>
-<h4>(а) Важность правильного понимания Слово Божье, Завета, Христос, чистота учения, понимание действия сатана (Сооблазны и разделения вопреки учению Христа)</h4>
-<h4>(б) Важность исполнения предназначения народа Бог, важность уверенности в Божьем водительстве и победе</h4>
-<h4>(в) Важность единства народа Божьего, важность общения поместных Церквей по всей земле</h4>
-<h2>Заключение:</h2>
-<h3>(1) Важность народа Божьего, важность учеников Христа</h3>
-<h3>(2) Важность исполнения предназначения народа Божьего</h3>
+<blockquote><p>Молитесь же так: Отче наш, сущий на небесах! да святится имя Твое; да приидет Царствие Твое; да будет воля Твоя и на земле, как на небе;</p><cite>Мф. 6:9-10</cite></blockquote>
+<h2 id="s8">8) Иак. 5:19-20, - понимание действия сатана, право выбора человека</h2>
+<blockquote><p>Братия! если кто из вас уклонится от истины, и обратит кто его, пусть тот знает, что обративший грешника от ложного пути его спасет душу от смерти и покроет множество грехов.</p><cite>Иак. 5:19-20</cite></blockquote>
+<h3>(1) Уклонение от истины – возможность отпадения от Бога, важность сохранения Слово Божье, Завета, Христос (право выбора человека)</h3>
+<h3>(2) Возможность обращения – понимание Бог любви и милости ко всякому человеку, спасение души и покрытие грехов. (Множество грехов – возможность отказа от Бог, грех к смерти)</h3>
+<h3>(3) Важность понимания действия сатана – остановить познание и передачу Слово Божье, Завета, Христос, увести человека от Бога. 1-е Пет. 5:8</h3>
+<blockquote><p>Трезвитесь, бодрствуйте, потому что противник ваш диавол ходит, как рыкающий лев, ища, кого поглотить.</p><cite>1-е Пет. 5:8</cite></blockquote>
+<h2 id="s9">Заключение:</h2>
+<h3>(1) Важность принятия Слово Божье, Завета, Христос, служение Богу</h3>
+<h3>(2) Важность понимания Божьего суверенитета и контроля</h3>
+<h3>(3) Важность молитвы и исповедания грехов</h3>
+<h3>(4) Важность понимания действия сатана</h3>
 </main>
 </body>
 </html>

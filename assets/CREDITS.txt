@@ -1,0 +1,18 @@
+Изображения и шрифты сайта уроков
+
+Фотографии предметов (вырезаны из фона, уменьшены):
+- lamp.webp - Terracotta oil lamp, The Metropolitan Museum of Art (MET DP232).
+  Лицензия: CC0 1.0. https://commons.wikimedia.org/wiki/File:Terracotta_oil_lamp_MET_DP232.jpg
+- jar.webp - Dead Sea Scroll jar and lid, The Metropolitan Museum of Art (MET 64.26a, b).
+  Лицензия: CC0 1.0. https://commons.wikimedia.org/wiki/File:Dead_Sea_Scroll_jar_and_lid_-_MET_64.26a,_b.jpg
+- inkwell.webp - Terracotta inkwell and bronze stylus, The Metropolitan Museum of Art (MET DP121128).
+  Лицензия: CC0 1.0. https://commons.wikimedia.org/wiki/File:Terracotta_inkwell_and_bronze_stylus_MET_DP121128.jpg
+- parchment.webp - Pergament.1.jpg, автор Membeth (текстура пергамента, обрезана и уменьшена).
+  Лицензия: CC0 1.0. https://commons.wikimedia.org/wiki/File:Pergament.1.jpg
+
+Шрифты (самостоятельный хостинг, SIL Open Font License 1.1, Google Fonts):
+- Cormorant SC, Cormorant Unicase (Christian Thalmann, Catharsis Fonts)
+- Alegreya, Alegreya Sans (Juan Pablo del Peral, Huerta Tipográfica)
+
+Фон-стеллажи:
+- img/shelves.svg - собственный рисунок проекта (генерируется скриптом), без внешних источников.

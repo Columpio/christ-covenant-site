@@ -3,79 +3,246 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>2. Руфь</title>
+<title>Суд. 6–9</title>
 <style>
-:root{--bg:#faf7f2;--fg:#2b2622;--muted:#7a6f66;--accent:#8a4b2a;--card:#fff;--line:#e6ddd2;--quote:#f3ece2}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+:root{color-scheme:light;
+--ink:#2A1C0D;--ink2:#5A4630;--stone:#E6D8BA;--parch:#EBDAB0;--sheet:#FAF3E0;--wood:#6B4426;--frame:#F1E7CE;
+--c:#2F5DA8;--cd:#2F5DA8;--sb:#2F5DA8;--sf:#FFFFFF;--mix:#000;
+--display:"Cormorant SC","Cormorant Garamond",Georgia,serif;--uni:"Cormorant Unicase","Cormorant SC",Georgia,serif;
+--serif:"Alegreya","PT Serif",Georgia,serif;--sans:"Alegreya Sans","Segoe UI",system-ui,sans-serif;
+--canon:linear-gradient(90deg,#2F5DA8 0 10%,#D8951A 10% 20%,#C2366B 20% 30%,#1F8A5B 30% 40%,#138F8F 40% 50%,#E0562C 50% 60%,#E8801E 60% 70%,#2F8FCF 70% 80%,#6C4BB6 80% 90%,#8E3B8A 90%);
+--noise:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .30 0 0 0 0 .21 0 0 0 0 .10 0 0 0 .22 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+--weave:repeating-linear-gradient(90deg,rgba(255,255,255,.11) 0 2px,rgba(0,0,0,.07) 2px 4px);
+--cdd:color-mix(in srgb,var(--cd) 55%,var(--ink));
+--px:2.4rem;--py:2.2rem}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.6 Georgia,"PT Serif","Times New Roman",serif}
-a{color:var(--accent)}
-header.top{position:sticky;top:0;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:1rem;
-padding:.6rem 1.25rem;background:var(--card);border-bottom:1px solid var(--line);font:15px/1.4 system-ui,sans-serif}
-.crumbs a{text-decoration:none}
-main{max-width:46rem;margin:0 auto;padding:1.5rem 1.25rem 7rem}
-main.wide{max-width:64rem}
-h1{font-size:1.6rem;line-height:1.25;margin:.5rem 0 1rem}
-h2{font-size:1.3rem;line-height:1.3;margin:1.8rem 0 .6rem}
-h3{font-size:1.12rem;line-height:1.35;margin:1.4rem 0 .5rem}
-h4{font-size:1rem;line-height:1.4;margin:1.1rem 0 .4rem}
-ul{padding-left:1.25rem}
-li{margin:.2rem 0}
-blockquote{margin:.6rem 0 1rem;padding:.7rem 1rem;background:var(--quote);border-left:3px solid var(--accent);
-border-radius:0 6px 6px 0;font-size:.95em}
+html{scroll-padding-top:4.5rem;overflow-x:clip}
+body{margin:0;overflow-x:clip;color:var(--ink);font:400 1.2rem/1.65 var(--serif);-webkit-font-smoothing:antialiased;min-height:100vh;
+background:#2B190C url(img/shelves.svg) 50% 0/520px 960px repeat}
+/* Свет и глубина над стеллажами: утренний луч слева сверху, виньетка по краям; на внутренних страницах темнее. */
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+background:linear-gradient(115deg,rgba(255,226,160,.5),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 45%,rgba(20,10,4,.6) 100%),rgba(30,18,8,.12)}
+body:not(.home)::before{background:linear-gradient(115deg,rgba(255,226,160,.28),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 40%,rgba(20,10,4,.55) 100%),rgba(30,18,8,.5)}
+a{color:var(--cdd)}
+.sprite{position:absolute;width:0;height:0;overflow:hidden}
+.skip{position:absolute;left:-999px;top:0;z-index:40;padding:.7rem 1.1rem;background:var(--ink);color:#fff;font:700 1rem var(--sans)}
+.skip:focus{left:.5rem;top:.5rem}
+a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible{outline:3px solid var(--ink);outline-offset:3px;border-radius:6px}
+
+/* Шапка: полоса цветов канона, на страницах книги - цвет её раздела. */
+header.top{position:sticky;top:0;z-index:30;background:rgba(247,239,218,.95);backdrop-filter:blur(6px);border-bottom:1px solid #BFA97E;box-shadow:0 .4rem .8rem -.5rem rgba(50,30,10,.45);font:700 1.02rem/1.4 var(--sans)}
+header.top::before{content:"";display:block;height:4px;background:var(--canon)}
+body[style] header.top::before{background:var(--c)}
+header.top .bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;max-width:44rem;margin:0 auto;padding:0 1.25rem}
+header.top.wide .bar{max-width:68rem}
+.crumbs{min-width:0;color:var(--ink2)}
+.crumbs a{display:inline-flex;align-items:center;min-height:44px;padding:0 .3rem;color:var(--ink);text-decoration:none}
+.crumbs a:hover{color:var(--cdd);text-decoration:underline;text-underline-offset:.25em}
+
+main{max-width:44rem;margin:0 auto;padding:2rem 1.25rem 7rem}
+main.wide{max-width:68rem;position:relative;margin:0 auto;padding:2rem 2.4rem 7rem;
+background:var(--noise),linear-gradient(90deg,rgba(60,38,16,.18),rgba(60,38,16,0) 6%,rgba(60,38,16,0) 94%,rgba(60,38,16,.18)),var(--stone);
+border-inline:1.1rem solid #A98B5E;
+box-shadow:inset .5rem 0 .8rem -.3rem rgba(50,30,10,.45),inset -.5rem 0 .8rem -.3rem rgba(50,30,10,.45),0 0 3rem 1rem rgba(15,8,3,.7)}
+.muted{color:var(--ink2)}
+
+/* Страница урока - лист пергамента на каменной стене; под текстом нет фактуры. */
+main:not(.wide){position:relative;margin:1.6rem auto 6rem;padding:var(--py) var(--px) 2.6rem;background:var(--sheet);border-radius:.3rem;
+box-shadow:inset 0 0 0 1px rgba(150,115,60,.4),inset 0 0 2.4rem rgba(150,115,60,.2),0 1.4rem 2.4rem -1rem rgba(40,25,10,.65)}
+main:not(.wide)::before{content:"";display:block;height:.55rem;margin:calc(var(--py) * -1) calc(var(--px) * -1) 1.6rem;border-radius:.3rem .3rem 0 0;background:var(--weave),var(--sb)}
+h1{font:700 clamp(1.8rem,3.4vw,2.4rem)/1.15 var(--display);letter-spacing:.015em;margin:.4rem 0 1.2rem}
+h2{font:700 1.6rem/1.25 var(--display);letter-spacing:.015em;margin:2.6rem 0 .8rem}
+h2::before{content:"";display:inline-block;width:.5em;height:.5em;margin:0 .55em .12em 0;background:var(--sb);border-radius:2px;transform:rotate(45deg)}
+h3{font:700 1.16rem/1.45 var(--serif);margin:1.6rem 0 .5rem}
+h4{font:italic 600 1.1rem/1.4 var(--serif);margin:1.2rem 0 .4rem}
+ul{padding-left:1.3rem}
+li{margin:.25rem 0}
+li::marker{color:var(--sb)}
+blockquote{margin:.9rem 0 1.3rem;padding:.9rem 1.2rem 1rem;background:#FFFBEC;border:1px solid #E2D2A8;border-left:.32rem solid var(--sb);border-radius:.2rem;box-shadow:0 .2rem 0 #E6D8B4,0 .7rem 1rem -.7rem rgba(60,40,15,.5);font-size:1.08rem}
 blockquote p{margin:0}
-blockquote cite{display:block;margin-top:.3rem;font:normal .8em/1.4 system-ui,sans-serif;color:var(--muted)}
-.muted{color:var(--muted)}
-.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:.6rem;list-style:none;padding:0;margin:0 0 1rem}
-.tiles.wide{grid-template-columns:repeat(auto-fill,minmax(15rem,1fr))}
+blockquote cite{display:block;margin-top:.4rem;font:700 .92rem/1.4 var(--sans);font-style:normal;color:var(--cdd)}
+
+/* Главная: зал. Утренний свет из окна, лампады, ниши со свитками. */
+.hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.lead{max-width:34rem;margin:0;font:400 1.25rem/1.5 var(--serif);color:var(--ink)}
+.scene{position:relative;width:17rem;height:19rem;justify-self:end}
+.window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
+background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
+box-shadow:0 0 0 .55rem var(--frame),0 0 0 .7rem #B9A57D,inset 0 1.2rem 1.6rem -.4rem rgba(40,25,10,.55),inset 1rem 0 1.2rem -.8rem rgba(40,25,10,.4)}
+.window::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent calc(50% - .2rem),#4A2D18 calc(50% - .2rem) calc(50% + .2rem),transparent calc(50% + .2rem)),linear-gradient(180deg,transparent 50%,#4A2D18 50% calc(50% + .4rem),transparent calc(50% + .4rem))}
+.sill{position:absolute;left:0;right:0;bottom:0;height:1.2rem;border-radius:.25rem .25rem .5rem .5rem;background:linear-gradient(180deg,#F6EDD3,#D6C5A0 55%,#B9A57D);box-shadow:0 .7rem .9rem -.4rem rgba(40,25,10,.55)}
+.sill>*{position:absolute;bottom:100%;margin-bottom:-.2rem}
+.sill img{display:block;width:100%;height:auto;filter:drop-shadow(.3rem .35rem .25rem rgba(40,25,10,.45))}
+.jar{left:1.2rem;width:3.1rem}
+.lamp{left:4.9rem;width:6.2rem}
+.ink{left:11.7rem;width:3.4rem}
+.glow{position:absolute;left:88%;top:66%;width:15rem;height:15rem;transform:translate(-50%,-50%);border-radius:50%;pointer-events:none;
+background:radial-gradient(circle,rgba(255,196,96,.62),rgba(255,160,60,.2) 38%,rgba(255,150,50,0) 68%);animation:glow 3.4s ease-in-out infinite}
+.flame{position:absolute;left:88.5%;top:67%;width:.75rem;height:1.35rem;transform:translate(-50%,-92%);transform-origin:50% 100%;border-radius:50% 50% 50% 50%/70% 70% 30% 30%;
+background:radial-gradient(ellipse at 50% 72%,#FFF8D0 0 18%,#FFD060 42%,#FF9A2A 72%,rgba(255,110,20,0) 100%);filter:blur(.4px);animation:flicker 2.7s ease-in-out infinite}
+.reed{position:absolute;left:46%;top:24%;width:.28rem;height:6.4rem;transform:translate(-50%,-100%) rotate(17deg);transform-origin:50% 100%;
+background:linear-gradient(90deg,#6E4F1E,#D9B866 45%,#8A6428);clip-path:polygon(0 0,100% 0,100% 94%,50% 100%,0 94%)}
+.rays{position:absolute;right:7rem;top:3rem;width:1px;height:1px;pointer-events:none;z-index:2}
+.rays i{position:absolute;top:0;right:0;width:8rem;height:48rem;transform-origin:100% 0;transform:rotate(var(--a));filter:blur(8px);mix-blend-mode:soft-light;
+background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
+.rays i:nth-child(1){--a:-40deg}
+.rays i:nth-child(2){--a:-54deg;width:5rem}
+.rays i:nth-child(3){--a:-68deg;width:10rem}
+@keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
+@keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
+.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
+.wall-lamp .lamp{position:relative;left:auto;width:100%}
+.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
+.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
+.jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
+.jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
+background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.jump a{display:inline-flex;align-items:center;min-height:44px;padding:0 1.2rem;text-decoration:none}
+.jump a:hover{background-color:#F6E9C2}
+.search{display:block;width:100%;max-width:34rem;margin:.4rem 0 1.2rem;padding:.75rem 1.1rem;font-weight:400}
+.search::placeholder{color:var(--ink2);opacity:1}
+.search:focus{border-color:var(--ink)}
+.testament{position:relative;display:flex;flex-direction:column;gap:2.4rem;margin:3rem 0 0}
+.testament>h2{display:flex;align-items:center;gap:1rem;margin:0;font:700 clamp(2rem,3.6vw,2.7rem)/1.1 var(--display);letter-spacing:.02em}
+.testament>h2::before{display:none}
+.testament>h2::after{content:"";flex:1;height:.4rem;border-top:2px solid var(--wood);border-bottom:1px solid var(--wood);opacity:.6}
+main section[hidden],.scrolls li[hidden],.tiles li[hidden]{display:none}
+
+/* Ниша раздела: драпировка цвета раздела, внутри на досках лежат свитки. */
+.group{position:relative;overflow:hidden;min-width:0;border:.55rem solid var(--frame);border-radius:1.6rem 1.6rem .3rem .3rem;
+background:linear-gradient(180deg,rgba(40,24,10,0),rgba(40,24,10,.14)),var(--noise),color-mix(in srgb,var(--c) 7%,#CDBB93);
+box-shadow:0 0 0 1px #B9A57D,inset 0 1.1rem 1.6rem -.5rem rgba(35,20,8,.55),inset 1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),inset -1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),0 .7rem 1.1rem -.5rem rgba(50,30,10,.5)}
+.group>h3{position:relative;z-index:3;display:flex;align-items:center;gap:.7rem;margin:0;padding:.65rem 1.3rem .6rem;background:var(--weave),var(--sb);color:var(--sf);font:700 1.45rem/1.15 var(--display);letter-spacing:.02em;filter:drop-shadow(0 .35rem .3rem rgba(25,12,0,.45))}
+.group>h3::after,.book-head::after{content:"";position:absolute;left:0;right:0;top:100%;height:.62rem;background:radial-gradient(circle at 50% 0,var(--sb) 0 .5rem,transparent .52rem) 0 0/1.1rem .62rem repeat-x}
+.emblem{width:1.9rem;height:1.9rem;flex:none;color:var(--sf)}
+
+/* Свиток: пергамент на двух деревянных валиках, на шипах - ленточка цвета раздела, справа - печать с числом уроков. */
+.scrolls{--h:3.4rem;--board:.62rem;display:flex;flex-wrap:wrap;align-items:flex-start;column-gap:1.3rem;row-gap:var(--board);list-style:none;margin:0;padding:1.5rem 1.2rem var(--board);
+background:repeating-linear-gradient(180deg,transparent 0 var(--h),#2C1A0C var(--h) calc(var(--h) + 1px),#8A5A32 calc(var(--h) + 1px) calc(var(--h) + 3px),#6B4426 calc(var(--h) + 3px) calc(var(--h) + var(--board))) 0 0/100% calc(100% + var(--board)) no-repeat;
+background-origin:content-box;background-clip:padding-box}
+.scrolls li{position:relative;height:var(--h);margin:0;padding:0 .95rem;max-width:100%;transition:transform .18s ease;animation:rise .45s ease backwards;animation-delay:calc(var(--i) * 12ms);filter:drop-shadow(0 .18rem .12rem rgba(20,10,0,.4))}
+.scrolls li::before,.scrolls li::after{content:"";position:absolute;top:0;bottom:0;width:.95rem;
+background:radial-gradient(circle at 50% .45rem,#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) top/100% .95rem no-repeat,
+radial-gradient(circle at 50% calc(100% - .45rem),#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) bottom/100% .95rem no-repeat,
+linear-gradient(var(--sb),var(--sb)) 50% 1rem/.56rem .3rem no-repeat,
+linear-gradient(90deg,#3F2614,#B07C48 35%,#7A4E2B 65%,#3F2614) center/.42rem 100% no-repeat}
+.scrolls li::before{left:0}
+.scrolls li::after{right:0}
+.scrolls a,.scrolls li.empty>span{display:flex;align-items:center;gap:.7rem;height:calc(var(--h) - 1rem);margin:.5rem 0;padding:0 .8rem 0 1.25rem;white-space:nowrap;font:700 1.14rem/1 var(--display);letter-spacing:.015em}
+.scrolls a{position:relative;z-index:1;color:var(--ink);text-decoration:none;animation:unroll .4s cubic-bezier(.3,.7,.3,1) backwards;animation-delay:calc(var(--i) * 12ms + 80ms);
+background:linear-gradient(180deg,rgba(104,66,22,.36),rgba(104,66,22,0) 20%,rgba(104,66,22,0) 78%,rgba(104,66,22,.44)),linear-gradient(rgba(255,248,226,.5),rgba(255,248,226,.5)),url(img/parchment.webp) #EBD8A8;
+box-shadow:inset 0 0 .7rem rgba(120,80,25,.4)}
+.scrolls a::before,.scrolls a::after{content:"";position:absolute;top:0;bottom:0;width:1.15rem;border-radius:.5rem;
+background:repeating-linear-gradient(90deg,rgba(90,60,20,.2) 0 1px,transparent 1px 3px),linear-gradient(90deg,#8E6D3A 0,#E8D3A0 30%,#F5E8C4 50%,#D8BF86 76%,#7F5F2E 100%);box-shadow:0 0 .35rem rgba(60,35,10,.5)}
+.scrolls a::before{left:-.62rem}
+.scrolls a::after{right:-.62rem}
+.scrolls li:hover,.scrolls li:has(a:focus-visible){transform:translateY(-.22rem)}
+.scrolls a:focus-visible{outline-offset:.6rem}
+.scrolls .count{position:relative;z-index:2;display:grid;place-items:center;min-width:1.85rem;height:1.85rem;padding:0 .3rem;border-radius:52% 48% 55% 45%/48% 55% 45% 52%;
+background:radial-gradient(circle at 35% 30%,var(--sb),color-mix(in srgb,var(--sb) 72%,#000));color:var(--sf);font:700 .9rem/1 var(--sans);letter-spacing:0;box-shadow:inset 0 1px 1px rgba(255,255,255,.4),0 .1rem .2rem rgba(0,0,0,.4)}
+.scrolls li.empty{padding:0 .3rem}
+.scrolls li.empty::before,.scrolls li.empty::after{display:none}
+.scrolls li.empty>span{border:1.5px dashed rgba(63,38,20,.65);border-radius:.4rem;color:var(--ink2);background:rgba(255,248,230,.22)}
+@keyframes unroll{from{clip-path:inset(0 50%)}to{clip-path:inset(0 0)}}
+@keyframes rise{from{opacity:0;transform:translateY(.6rem)}to{opacity:1;transform:none}}
+
+/* Страница книги: драпировка с названием и бирки уроков. */
+.book-head{position:relative;display:flex;align-items:center;gap:1.3rem;margin:0 0 2.2rem;padding:1.4rem 1.7rem;border-radius:.4rem .4rem 0 0;background:var(--weave),var(--sb);color:var(--sf);filter:drop-shadow(0 .45rem .35rem rgba(25,12,0,.4))}
+.book-head .emblem{width:4.2rem;height:4.2rem}
+.book-head h1{margin:0;color:var(--sf);font:700 clamp(2rem,4.4vw,3.1rem)/1.05 var(--display)}
+.meta{margin:.35rem 0 0;font:700 1.05rem/1.4 var(--sans);color:var(--sf)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));gap:.9rem;list-style:none;padding:0;margin:0 0 1rem}
 .tiles li{margin:0}
-.tiles a,.tiles li.empty{display:flex;align-items:center;justify-content:space-between;gap:.6rem;height:100%;min-height:4.5rem;
-padding:.8rem 1rem;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg);
-font:600 16px/1.35 system-ui,sans-serif}
-.tiles a{text-decoration:none;box-shadow:0 1px 2px rgba(0,0,0,.04);transition:border-color .15s,box-shadow .15s,transform .05s}
-.tiles a:hover{border-color:var(--accent);box-shadow:0 4px 14px rgba(0,0,0,.08)}
-.tiles a:active{transform:translateY(1px)}
-.tiles a>span:first-child,.tiles li.empty>span{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
-.tiles .count{color:var(--accent);font-size:.9em}
-.tiles li.empty{color:var(--muted);opacity:.55}
-.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;padding:.55rem 1.1rem;
-border:1px solid var(--accent);border-radius:10px;background:var(--card);color:var(--accent);font:600 15px/1.3 system-ui,sans-serif;
-text-decoration:none;cursor:pointer;box-shadow:0 1px 0 rgba(0,0,0,.06);transition:background .15s,color .15s,transform .05s}
-.btn:hover,details.download summary:hover{background:var(--accent);color:#fff}
-.btn:active,details.download summary:active{transform:translateY(1px)}
-.btn.primary{background:var(--accent);color:#fff}
-.btn.primary:hover{background:#6f3a20}
-.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3rem}
-.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;text-align:left}
+.tiles a{display:flex;align-items:center;height:100%;min-height:4.6rem;padding:.85rem 1rem .85rem 1.2rem;border-left:.5rem solid var(--sb);border-radius:.35rem;color:var(--ink);font:700 1.1rem/1.3 var(--serif);text-decoration:none;
+background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),url(img/parchment.webp) var(--parch);box-shadow:inset 0 0 .7rem rgba(120,85,35,.28),0 .15rem 0 #B9A276,0 .6rem .9rem -.5rem rgba(60,40,15,.55);transition:transform .15s}
+.tiles a:hover{transform:translateY(-.15rem)}
+.tiles .chapters{display:block;margin-top:.3rem;color:var(--cdd);font:700 .95rem/1.3 var(--sans)}
+
+/* Урок: содержание, кнопки. */
+.toc{margin:0 0 1.4rem;padding:.2rem 1.1rem;border:1px solid #D9C89E;border-radius:.3rem;background:#FFFBEC;font:400 1.02rem/1.5 var(--sans)}
+.toc summary{display:flex;align-items:center;min-height:44px;cursor:pointer;font-weight:700}
+.toc ol{margin:.3rem 0 .7rem;padding-left:1.4rem}
+.toc li::marker{color:var(--cdd);font-weight:700}
+.toc a{color:var(--ink);text-decoration:none}
+.toc a:hover{color:var(--cdd);text-decoration:underline}
+.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
+background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.btn:hover,details.download summary:hover{background-color:#F6E9C2}
+.btn.primary{background:var(--weave),var(--sb);border-color:color-mix(in srgb,var(--sb) 60%,#000);color:var(--sf)}
+.btn.primary:hover{background:var(--weave),color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3.5rem}
+.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;padding:.8rem 1rem;text-align:left}
 .pager .pager-next{align-items:flex-end;text-align:right}
 .pager .pager-section{align-items:center;justify-content:center;text-align:center}
-.pager .dir{font-size:.8em;font-weight:500;opacity:.85}
-.pager .name{font-weight:600}
-.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;
-pointer-events:none;z-index:5}
-.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;
-border-radius:50%;background:var(--accent);color:#fff;font:700 1.4rem/1 system-ui,sans-serif;text-decoration:none;
-cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.25);opacity:.92}
-.fab:hover{opacity:1;background:#6f3a20}
-.fab.next{margin-left:auto}
-.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);
-transition:opacity .2s,transform .2s,visibility .2s}
-.fab.top.visible{opacity:.92;visibility:visible;transform:none}
-@media(max-width:640px){.pager{grid-template-columns:1fr}.pager>span{display:none}
-.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}}
+.pager .dir{font-size:.9rem;font-weight:700}
+.pager .name{font:700 1.05rem/1.3 var(--serif);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
 details.download{position:relative}
-details.download summary{list-style:none;padding:.4rem 1rem}
+details.download summary{list-style:none}
 details.download summary::-webkit-details-marker{display:none}
-details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;
-padding:.3rem;background:var(--card);border:1px solid var(--line);border-radius:8px;box-shadow:0 6px 20px rgba(0,0,0,.08)}
-details.download .menu a{padding:.45rem .7rem;border-radius:6px;text-decoration:none;color:var(--fg)}
-details.download .menu a:hover{background:var(--quote)}
-@media print{header.top,.pager,.float{display:none}}
+details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;padding:.3rem;background:var(--sheet);border:1px solid #BFA97E;border-radius:.3rem;box-shadow:0 12px 28px -12px rgba(40,25,10,.55)}
+details.download .menu a{display:flex;align-items:center;min-height:44px;padding:.45rem .8rem;border-radius:.2rem;color:var(--ink);text-decoration:none}
+details.download .menu a:hover{background:#F0E3BE}
+
+/* Плавающие кнопки. */
+.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;pointer-events:none;z-index:25}
+.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;border-radius:50%;background:var(--sb);color:var(--sf);font:700 1.3rem/1 var(--sans);text-decoration:none;cursor:pointer;box-shadow:inset 0 1px 1px rgba(255,255,255,.35),0 8px 20px -6px rgba(40,25,10,.6)}
+.fab:hover{background:color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.fab.next{margin-left:auto}
+.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .2s,transform .2s,visibility .2s;pointer-events:auto;z-index:25}
+.fab.top.visible{opacity:1;visibility:visible;transform:none}
+.credits{max-width:68rem;margin:0 auto;padding:1.2rem 2.4rem 1.5rem;font:400 .95rem/1.5 var(--sans);color:var(--ink);background:var(--stone);border-inline:1.1rem solid #A98B5E}
+@media(max-width:1180px){.credits{padding-inline:1.25rem;border-inline-width:.5rem}}
+
+/* Скачанный документ без декора. */
+body.plain{background:#fff}
+body.plain::before{display:none}
+body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
+body.plain main::before{display:none}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+@media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
+@media(max-width:640px){
+body{font-size:1.12rem}
+:root{--px:1.1rem;--py:1.4rem}
+main:not(.wide){margin:0 auto 5rem;border-radius:0}
+.pager{grid-template-columns:1fr}.pager>span{display:none}
+.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}
+.fab{width:2.75rem;height:2.75rem}.fab.prev,.fab.next{display:none}.fab.top{bottom:1rem;right:.5rem}
+.testament{gap:2rem}
+.group{border-width:.4rem;border-radius:1.2rem 1.2rem .25rem .25rem}
+.group>h3{padding:.55rem 1rem .5rem;font-size:1.3rem}
+.scrolls{--h:3.9rem;column-gap:.8rem;padding:1.4rem .55rem var(--board)}
+.scrolls li{padding:0 .8rem}
+.scrolls li::before,.scrolls li::after{width:.8rem}
+.scrolls a,.scrolls li.empty>span{gap:.5rem;padding:0 .55rem 0 1rem;font-size:1rem}
+.scrolls a::before,.scrolls a::after{width:1rem}
+.scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
+.scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
+.book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
+@media(max-height:500px){header.top{position:static}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+@media print{body{background:#fff}body::before{display:none}header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
-<body>
+<body class="plain">
 <main>
-<h1>2. Руфь</h1>
-<h2>1) Предназначение народа Божьего – познание и передача Слово Божье, Завета, Христос, Ханаан, Всемирная Евангелизация, ученики, приход Христа. Рим. 3:2 Быт. 1:27,2:7,17 (Быт. 3:1-7, - Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h2>
+<h1>Суд. 6–9</h1>
+<h2 id="s1">2.1) Предназначение народа Божьего – познание и передача Слово Божье, Завета, Христос, Ханаан, Всемирная Евангелизация, ученики, приход Христа. Рим. 3:2 Быт. 1:27,2:7,17 (Быт. 3:1-7, - Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h2>
 <blockquote><p>Великое преимущество во всех отношениях, а наипаче <em>в</em> <em>том,</em> что им вверено слово Божие.</p><cite>Рим. 3:2</cite></blockquote>
 <blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
 <blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
@@ -90,81 +257,76 @@ details.download .menu a:hover{background:var(--quote)}
 <h3>(2) Эпоха судей (Иисус Навин – Самуил)</h3>
 <h3>(3) Эпоха царей и пророков (Давид – Иоанн Креститель)</h3>
 <h3>(4) Эпоха Церкви (Христос, Апостолы – 2-е пришествие Христа)</h3>
-<h2>2) Руфь 1:1-5, - непринятие Слово Божье, Завета, Христос</h2>
-<h3>(1) Понимание Божьего суверенитета и контроля (дух. законы)</h3>
-<h4>(а) Божье допущение – голод, трудности (обстоятельства жизни)</h4>
-<h4>(б) Божье испытание веры человека. 1-е Пет. 1:6-7,4:12-13</h4>
-<blockquote><p>О сем радуйтесь, поскорбев теперь немного, если нужно, от различных искушений, дабы испытанная вера ваша оказалась драгоценнее гибнущего, хотя и огнем испытываемого золота, к похвале и чести и славе в явление Иисуса Христа,</p><cite>1-е Пет. 1:6-7</cite></blockquote>
-<blockquote><p>Возлюбленные! огненного искушения, для испытания вам посылаемого, не чуждайтесь, как приключения для вас странного, но как вы участвуете в Христовых страданиях, радуйтесь, да и в явление славы Его возрадуетесь и восторжествуете.</p><cite>1-е Пет. 4:12-13</cite></blockquote>
-<h4>(в) Важность понимания и исполнения предназначения</h4>
-<h3>(2) Важность видимого – пренебрежение Слово Божье, Завет, Христос</h3>
-<h4>(а) Оставление Ханаана, языческие народы (предназначение)</h4>
-<h4>(б) Жены Моавитянки – язычницы (предназначение). Втор. 23:3</h4>
-<blockquote><p>Аммонитянин и Моавитянин не может войти в общество Господне, и десятое поколение их не может войти в общество Господне во веки,</p><cite>Втор. 23:3</cite></blockquote>
-<h4>(в) Народ Божий (Вооз) – исполнение предназначения</h4>
-<h3>(3) Неизменное исполнение Слово Божье Рим. 6:23</h3>
+<h2 id="s2">2) Важность понимания предназначения судей – Бог суверенитет. (Первый судья – Иисус Навин, последний судья – Самуил)</h2>
+<h3>(1) Духовная сторона – сохранение и передача Слово Божье, Завета, Христос, важность исполнения предназначения народа Божьего</h3>
+<h3>(2) Физическая сторона – независимость, управление и т.д., важность исполнения предназначения народа Божьего</h3>
+<h2 id="s3">3) Суд.6, - судья Гедеон. (Понимание Слово Божье, Завета, Христос, исполнение предназначения)</h2>
+<h3>(1) Суд. 6:1-10, - отказ от Слово Божье, Завета, Христос (причина рабства)</h3>
+<blockquote><p>Сыны Израилевы стали <em>опять</em> делать злое пред очами Господа, и предал их Господь в руки Мадианитян на семь лет. Тяжела была рука Мадианитян над Израилем, и сыны Израилевы сделали себе от Мадианитян ущелья в горах и пещеры и укрепления. Когда посеет Израиль, придут Мадианитяне и Амаликитяне и жители востока и ходят у них; и стоят у них шатрами, и истребляют произведения земли до самой Газы, и не оставляют для пропитания Израилю ни овцы, ни вола, ни осла. Ибо они приходили со скотом своим и с шатрами своими, приходили в таком множестве, как саранча; им и верблюдам их не было числа, и ходили по земле Израилевой, чтоб опустошать ее. И весьма обнищал Израиль от Мадианитян, и возопили сыны Израилевы к Господу. И когда возопили сыны Израилевы к Господу на Мадианитян, послал Господь пророка к сынам Израилевым, и сказал им: так говорит Господь Бог Израилев: Я вывел вас из Египта, вывел вас из дома рабства; избавил вас из руки Египтян и из руки всех, угнетавших вас, прогнал их от вас, и дал вам землю их, и сказал вам: "Я - Господь Бог ваш; не чтите богов Аморрейских, в земле которых вы живете"; но вы не послушали гласа Моего.</p><cite>Суд. 6:1-10</cite></blockquote>
+<h3>(2) Суд. 6:11-27 (14,23,25-27), – утверждение Слово Божье, Завета, Христос</h3>
+<blockquote><p>И пришел Ангел Господень и сел в Офре под дубом, принадлежащим Иоасу, потомку Авиезерову; сын его Гедеон выколачивал тогда пшеницу в точиле, чтобы скрыться от Мадианитян. И явился ему Ангел Господень и сказал ему: Господь с тобою, муж сильный! Гедеон сказал ему: господин мой! если Господь с нами, то отчего постигло нас все это ? и где все чудеса Его, о которых рассказывали нам отцы наши, говоря: "из Египта вывел нас Господь"? Ныне оставил нас Господь и предал нас в руки Мадианитян. Господь, воззрев на него, сказал: иди с этою силою твоею и спаси Израиля от руки Мадианитян; Я посылаю тебя.  сказал ему: Господи! как спасу я Израиля? вот, и племя мое в <em>колене</em> Манассиином самое бедное, и я в доме отца моего младший. И сказал ему Господь: Я буду с тобою, и ты поразишь Мадианитян, как одного человека.  сказал Ему: если я обрел благодать пред очами Твоими, то сделай мне знамение, что Ты говоришь со мною: не уходи отсюда, доколе я не приду к Тебе и не принесу дара моего и не предложу Тебе. Он сказал: Я останусь до возвращения твоего. Гедеон пошел и приготовил козленка и опресноков из ефы муки; мясо положил в корзину, а похлебку влил в горшок и принес к Нему под дуб и предложил. И сказал ему Ангел Божий: возьми мясо и опресноки, и положи на сей камень, и вылей похлебку. Он так и сделал. Ангел Господень простер конец жезла, который был в руке его, прикоснулся к мясу и опреснокам; и вышел огонь из камня и поел мясо и опресноки; и Ангел Господень скрылся от глаз его. И увидел Гедеон, что это Ангел Господень, и сказал Гедеон: <em>увы</em> <em>мне,</em> Владыка Господи! потому что я видел Ангела Господня лицем к лицу. Господь сказал ему: мир тебе, не бойся, не умрешь. И устроил там Гедеон жертвенник Господу и назвал его: Иегова Шалом. Он еще до сего дня в Офре Авиезеровой. В ту ночь сказал ему Господь: возьми тельца из стада отца твоего и другого тельца семилетнего, и разрушь жертвенник Ваала, который у отца твоего, и сруби священное дерево, которое при нем, и поставь жертвенник Господу Богу твоему, на вершине скалы сей, в порядке, и возьми второго тельца и принеси во всесожжение на дровах дерева, которое срубишь. Гедеон взял десять человек из рабов своих и сделал, как говорил ему Господь; но как сделать это днем он боялся домашних отца своего и жителей города, то сделал ночью.</p><cite>Суд. 6:11-27</cite></blockquote>
+<blockquote><p>Господь сказал ему: мир тебе, не бойся, не умрешь.</p><cite>Суд. 6:23</cite></blockquote>
+<blockquote><p>В ту ночь сказал ему Господь: возьми тельца из стада отца твоего и другого тельца семилетнего, и разрушь жертвенник Ваала, который у отца твоего, и сруби священное дерево, которое при нем, и поставь жертвенник Господу Богу твоему, на вершине скалы сей, в порядке, и возьми второго тельца и принеси во всесожжение на дровах дерева, которое срубишь. Гедеон взял десять человек из рабов своих и сделал, как говорил ему Господь; но как сделать это днем он боялся домашних отца своего и жителей города, то сделал ночью.</p><cite>Суд. 6:25-27</cite></blockquote>
+<h4>(а) Утверждение Слово Божье, Завета, Христос – инициатор Бог</h4>
+<h4>(б) Явление Господа – Божья любовь и милость к человеку</h4>
+<h4>(в) Важность Жертвы (понимание Христа)</h4>
+<h4>(г) Важность сокрушения идолов и лже-богов</h4>
+<h3>(3) Суд. 6:28-32, - противление Слово Божье, Завету, Христос (еврейский народ)</h3>
+<blockquote><p>Поутру встали жители города, и вот, жертвенник Ваалов разрушен, и дерево при нем срублено, и второй телец вознесен во всесожжение на новоустроенном жертвеннике. И говорили друг другу: кто это сделал? Искали, расспрашивали и сказали: Гедеон, сын Иоасов, сделал это. И сказали жители города Иоасу: выведи сына твоего; он должен умереть за то, что разрушил жертвенник Ваала и срубил дерево, которое было при нем. Иоас сказал всем приступившим к нему: вам ли вступаться за Ваала, вам ли защищать его? кто вступится за него, тот будет предан смерти в это же утро; если он Бог, то пусть сам вступится за себя, потому что он разрушил его жертвенник. И стал звать его с того дня Иероваалом, потому что сказал: пусть Ваал сам судится с ним за то, что он разрушил жертвенник его.</p><cite>Суд. 6:28-32</cite></blockquote>
+<h3>(4) Суд. 6:33-40, - действие сатана, война против народа Божьего</h3>
+<blockquote><p>Между тем все Мадианитяне и Амаликитяне и жители востока собрались вместе, перешли и стали станом на долине Изреельской. И Дух Господень объял Гедеона; он вострубил трубою, и созвано было племя Авиезерово идти за ним. И послал послов по всему колену Манассиину, и оно вызвалось идти за ним; также послал послов к Асиру, Завулону и Неффалиму, и сии пришли навстречу им. И сказал Гедеон Богу: если Ты спасешь Израиля рукою моею, как говорил Ты, то вот, я расстелю <em>здесь</em> на гумне стриженую шерсть: если роса будет только на шерсти, а на всей земле сухо, то буду знать, что спасешь рукою моею Израиля, как говорил Ты. Так и сделалось: на другой день, встав рано, он стал выжимать шерсть и выжал из шерсти росы целую чашу воды. И сказал Гедеон Богу: не прогневайся на меня, если еще раз скажу и еще только однажды сделаю испытание над шерстью: пусть будет сухо на одной только шерсти, а на всей земле пусть будет роса. Бог так и сделал в ту ночь: только на шерсти было сухо, а на всей земле была роса.</p><cite>Суд. 6:33-40</cite></blockquote>
+<h2 id="s4">4) Суд.7, - утверждение Слово Божье, Завета, Христос, Божья победа</h2>
+<h3>(1) Суд. 7:1-8, - Божий суверенитет и избрание, Божий план</h3>
+<blockquote><p>Иероваал, он же и Гедеон, встал поутру и весь народ, бывший с ним, и расположились станом у источника Харода; Мадиамский же стан был от него к северу у холма Море в долине. И сказал Господь Гедеону: народа с тобою слишком много, не могу Я предать Мадианитян в руки их, чтобы не возгордился Израиль предо Мною и не сказал: "моя рука спасла меня"; итак провозгласи вслух народа и скажи: "кто боязлив и робок, тот пусть возвратится и пойдет назад с горы Галаада". И возвратилось народа двадцать две тысячи, а десять тысяч осталось. И сказал Господь Гедеону: все еще много народа; веди их к воде, там Я выберу их тебе; о ком Я скажу: "пусть идет с тобою", тот и пусть идет с тобою; а о ком скажу тебе: "не должен идти с тобою", тот пусть и не идет. Он привел народ к воде. И сказал Господь Гедеону: кто будет лакать воду языком своим, как лакает пес, того ставь особо, также и тех всех, которые будут наклоняться на колени свои и пить. И было число лакавших ртом своим с руки триста человек; весь же остальной народ наклонялся на колени свои пить воду. И сказал Господь Гедеону: тремя стами лакавших Я спасу вас и предам Мадианитян в руки ваши, а весь народ пусть идет, каждый в свое место. И взяли они съестной запас у народа себе и трубы их, и отпустил Гедеон всех Израильтян по шатрам и удержал у себя триста человек; стан же Мадиамский был у него внизу в долине.</p><cite>Суд. 7:1-8</cite></blockquote>
+<h3>(2) Суд. 7:9-25, - победа народа Бог, принятие Слово Божье, Завета, Христос, важность исполнения предназначения народа Божьего</h3>
+<blockquote><p>В ту ночь сказал ему Господь: встань, сойди в стан, Я предаю его в руки твои; если же ты боишься идти <em>один,</em> то пойди в стан ты и Фура, слуга твой; и услышишь, что говорят, и тогда укрепятся руки твои, и пойдешь в стан. И сошел он и Фура, слуга его, к самому <em>полку</em> вооруженных, которые были в стане. Мадианитяне же и Амаликитяне и все жители востока расположились на долине в таком множестве, как саранча; верблюдам их не было числа, много было их, как песку на берегу моря. Гедеон пришел. И вот, один рассказывает другому сон и говорит: снилось мне, будто круглый ячменный хлеб катился по стану Мадиамскому и, прикатившись к шатру, ударил в него так, что он упал, опрокинул его, и шатер распался. Другой сказал в ответ ему: это не иное что, как меч Гедеона, сына Иоасова, Израильтянина; предал Бог в руки его Мадианитян и весь стан. Гедеон, услышав рассказ сна и толкование его, поклонился и возвратился в стан Израильский и сказал: вставайте! предал Господь в руки ваши стан Мадиамский. И разделил триста человек на три отряда и дал в руки всем им трубы и пустые кувшины и в кувшины светильники. И сказал им: смотрите на меня и делайте то же; вот, я подойду к стану, и что буду делать, то и вы делайте; когда я и находящиеся со мною затрубим трубою, трубите и вы трубами вашими вокруг всего стана и кричите: Господа и Гедеона! И подошел Гедеон и сто человек с ним к стану, в начале средней стражи, и разбудили стражей, и затрубили трубами и разбили кувшины, которые были в руках их. И затрубили <em>все</em> три отряда трубами, и разбили кувшины, и держали в левой руке своей светильники, а в правой руке трубы, и трубили, и кричали: меч Господа и Гедеона! И стоял всякий на своем месте вокруг стана; и стали бегать во всем стане, и кричали, и обратились в бегство. Между тем как триста человек трубили трубами, обратил Господь меч одного на другого во всем стане, и бежало ополчение до Бефшитты к Царере, до предела Авелмехолы, близ Табафы. И созваны Израильтяне из колена Неффалимова, Асирова и всего колена Манассиина, и погнались за Мадианитянами. Гедеон же послал послов на всю гору Ефремову сказать: выйдите навстречу Мадианитянам и перехватите у них <em>переправу</em> <em>через</em> воду до Бефвары и Иордан. И созваны все Ефремляне и перехватили <em>переправы</em> <em>через</em> воду до Бефвары и Иордан; и поймали двух князей Мадиамских: Орива и Зива, и убили Орива в Цур-Ориве, а Зива в Иекев-Зиве и преследовали Мадианитян; головы же Орива и Зива принесли к Гедеону за Иордан.</p><cite>Суд. 7:9-25</cite></blockquote>
+<h3>(3) Суд. 7:16, - оружие победы народа Божьего. 2-е Кор. 10:4-5</h3>
+<blockquote><p>И разделил триста человек на три отряда и дал в руки всем им трубы и пустые кувшины и в кувшины светильники.</p><cite>Суд. 7:16</cite></blockquote>
+<blockquote><p>Оружия воинствования нашего не плотские, но сильные Богом на разрушение твердынь: <em>ими</em> ниспровергаем замыслы и всякое превозношение, восстающее против познания Божия, и пленяем всякое помышление в послушание Христу,</p><cite>2-е Кор. 10:4-5</cite></blockquote>
+<h4>(а) Светильники – прообраз Слово Божье, Завета, Христос и жизни веры</h4>
+<h4>(б) Трубный зов – понимание и исполнение предназначения. (Познание и предача Слово Божье. Завета, Христос, Всемирная Евангелизация, приход Христа)</h4>
+<h4>(в) Крик «меч Господа и Гедеона» - возвещение Слово Божье, Завета, Христос</h4>
+<h2 id="s5">5) Суд.8, - неточное исполнение и непринятие Слово Божье, Завета, Христос</h2>
+<h3>(1) Суд. 8:1-3, - гордыня Ефремлян</h3>
+<blockquote><p>И сказали ему Ефремляне: зачем ты это сделал, что не позвал нас, когда шел воевать с Мадианитянами? И сильно ссорились с ним.  отвечал им: сделал ли я что такое, как вы ныне? Не счастливее ли Ефрем добирал виноград, нежели Авиезер обирал? В ваши руки предал Бог князей Мадиамских Орива и Зива, и что мог сделать я такое, как вы? Тогда успокоился дух их против него, когда сказал он им такие слова.</p><cite>Суд. 8:1-3</cite></blockquote>
+<h4>(а) Непонимание Божьего суверенитета и контроля</h4>
+<h4>(б) Противление действию Божьему, своеволие человека</h4>
+<h3>(2) Суд. 8:4-17, - непринятие Слово Божье, Завета, Христос Рим. 6:23</h3>
+<blockquote><p>И пришел Гедеон к Иордану, и перешел сам и триста человек, бывшие с ним. Они были утомлены , преследуя <em>врагов.</em> И сказал он жителям Сокхофа: дайте хлеба народу, который идет за мною; они утомились, а я преследую Зевея и Салмана, царей Мадиамских. Князья Сокхофа сказали: разве рука Зевея и Салмана уже в твоей руке, чтобы нам войску твоему давать хлеб? И сказал Гедеон: за это, когда предаст Господь Зевея и Салмана в руки мои, я растерзаю тело ваше терновником пустынным и молотильными зубчатыми досками. Оттуда пошел он в Пенуэл и то же сказал жителям его, и жители Пенуэла отвечали ему то же, что отвечали жители Сокхофа. Он сказал и жителям Пенуэла: когда я возвращусь в мире, разрушу башню сию. Зевей же и Салман были в Каркоре и с ними их ополчение до пятнадцати тысяч, все, что осталось из всего ополчения жителей востока; пало же сто двадцать тысяч человек, обнажающих меч. Гедеон пошел к живущим в шатрах на восток от Новы и Иогбеги и поразил стан, когда стан стоял беспечно. Зевей и Салман побежали; он погнался за ними и схватил обоих царей Мадиамских, Зевея и Салмана, и весь стан привел в замешательство. И возвратился Гедеон, сын Иоаса, с войны от возвышенности Хереса. И захватил юношу из жителей Сокхофа и выспросил у него; и он написал ему князей и старейшин Сокхофских семьдесят семь человек. И пришел он к жителям Сокхофским, и сказал: вот Зевей и Салман, за которых вы посмеялись надо мною, говоря: разве рука Зевея и Салмана уже в твоей руке, чтобы нам давать хлеб утомившимся людям твоим? И взял старейшин города и терновник пустынный и зубчатые молотильные доски и наказал ими жителей Сокхофа; и башню Пенуэльскую разрушил, и перебил жителей города.</p><cite>Суд. 8:4-17</cite></blockquote>
 <blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<h4>(а) Смерть мужа Ноемини – непринятие Слово Божье, Завета, Христос</h4>
-<h4>(б) Смерть сыновей Ноемини – непринятие Слово Божье, Завета, Христос</h4>
-<h2>3) Руфь 1:6-22, - неточное понимание Слово Божье, Завет, Хр (предназнач.)</h2>
-<h3>(1) Идолы Ноемини – муж, семья</h3>
-<h4>(а) Послушание мужу, пренебрежение Слово Божье Втор. 13:6-11,Дн. 5:29</h4>
-<blockquote><p>Если будет уговаривать тебя тайно брат твой, сын матери твоей, или сын твой, или дочь твоя, или жена на лоне твоем, или друг твой, который для тебя, как душа твоя, говоря: "пойдем и будем служить богам иным, которых не знал ты и отцы твои", богам тех народов, которые вокруг тебя, близких к тебе или отдаленных от тебя, от одного края земли до другого, -- то не соглашайся с ним и не слушай его; и да не пощадит его глаз твой, не жалей его и не прикрывай его, но убей его; твоя рука прежде <em>всех</em> должна быть на нем, чтоб убить его, а потом руки всего народа; побей его камнями до смерти, ибо он покушался отвратить тебя от Господа, Бога твоего, Который вывел тебя из земли Египетской, из дома рабства; весь Израиль услышит сие и убоится, и не станут впредь делать среди тебя такого зла.</p><cite>Втор. 13:6-11</cite></blockquote>
-<blockquote><p>Петр же и Апостолы в ответ сказали: должно повиноваться больше Богу, нежели человекам.</p><cite>Дн. 5:29</cite></blockquote>
-<h4>(б) Понимание Слово Божье, Завета, Христос, вера во Христа (осталась живой)</h4>
-<h4>(в) Обращение к невесткам – семья как цель и смысл жизни</h4>
-<h3>(2) Передача Слово Божье, Завета, Христос (проповедь Ноемини):</h3>
-<h4>(а) Орфа – непринятие Слово Божье, Завета, Христос</h4>
-<h4>(б) Руфь – принятие Слово Божье, Завета, Христос</h4>
-<h4>(в) Важность понимания права выбора человека</h4>
-<h3>(3) Неточное понимание Слово Божье – непонимание Бог суверенитета</h3>
-<h4>(а) Греховная сущность Ноемини – ропот на Бога</h4>
-<h4>(б) Важность понимания последствий выбора человек Гал. 6:7-8</h4>
-<blockquote><p>Не обманывайтесь: Бог поругаем не бывает. Что посеет человек, то и пожнет: сеющий в плоть свою от плоти пожнет тление, а сеющий в дух от духа пожнет жизнь вечную.</p><cite>Гал. 6:7-8</cite></blockquote>
-<h4>(в) Возвращение в Ханаан – Божья любовь и милость, Бог план</h4>
-<h2>4) Руфь 2, - понимание Слово Божье, Завета, Христос (Вооз)</h2>
-<h3>(1) Принятие Слово Божье, Завета, Христос – Бог обеспечение Руфи. Мф. 6:33</h3>
-<blockquote><p>Ищите же прежде Царства Божия и правды Его, и это все приложится вам.</p><cite>Мф. 6:33</cite></blockquote>
-<h3>(2) Втреча с Воозом – Бог суверенитет, Бог расписание времени</h3>
-<h3>(3) Вооз – понимание Слово Божье, Завета, Христос, Бог суверенитет. Рим. 2:11</h3>
-<blockquote><p>Ибо нет лицеприятия у Бога.</p><cite>Рим. 2:11</cite></blockquote>
-<h2>5) Руфь 3, - принятие Слово Божье, Завета, Христос (Ноеминь, Руфь)</h2>
-<h3>(1) Понимание Ноемини – важность правильного мужа, семьи. (Важность исполнения предназначения народа Божьего – познание и передача Слово Божье, Завета, Христос, приход Христа)</h3>
-<h3>(2) Послушание Руфи – принятие Слово Божье, Завета, Христос, важность исполнения предназначения народа Божьего, жизнь для Бога. (Отказ от возможности вернуться домой и иметь другую семью – возраст Вооза, намного старше Руфи)</h3>
-<h3>(3) Важность понимания духовных прообразов в книге Руфь</h3>
-<h4>(а) Ноеминь – прообраз народа Божьего, призыв к человеку быть у ног Христа и войти в Его семью (проповедь Слово Божье)</h4>
-<h4>(б) Руфь – прообраз язычников, принятие Слово Божье, желание быть у ног Христа и войти в Его семью (покаяние)</h4>
-<h4>(в) Вооз – прообраз Христа, желание принять язычников в Свою семью, важность исполнения закона Божьего (искупление) Рим. 2:11,6:23, - Ин. 10:16</h4>
-<blockquote><p>Ибо нет лицеприятия у Бога.</p><cite>Рим. 2:11</cite></blockquote>
+<h4>(а) Сокхоф, Пенуэл – непринятие Слово Божье, Завета, Христос</h4>
+<h4>(б) Сокхоф, Пенуэл – нет участия в деле Божьем</h4>
+<h3>(3) Суд. 8:18-21, - победа народа Божьего</h3>
+<blockquote><p>И сказал Зевею и Салману: каковы были те, которых вы убили на Фаворе? Они сказали: они были такие, как ты, каждый имел вид сынов царских.  сказал: это были братья мои, сыны матери моей. Жив Господь! если бы вы оставили их в живых, я не убил бы вас. И сказал Иеферу, первенцу своему: встань, убей их. Но юноша не извлек меча своего, потому что боялся, так как был еще молод. И сказали Зевей и Салман: встань сам и порази нас, потому что по человеку и сила его. И встал Гедеон, и убил Зевея и Салмана, и взял пряжки, бывшие на шеях верблюдов их.</p><cite>Суд. 8:18-21</cite></blockquote>
+<h4>(а) Важность принятие Слово Божье, Завета, Христос</h4>
+<h4>(б) Важность исполнения предназначения народа Божьего</h4>
+<h3>(4) Суд. 8:22-32 (Суд. 18:31,Евр. 11:32), - неточное исполнение Слово Божье</h3>
+<blockquote><p>И сказали Израильтяне Гедеону: владей нами ты и сын твой и сын сына твоего, ибо ты спас нас из руки Мадианитян. Гедеон сказал им: ни я не буду владеть вами, ни мой сын не будет владеть вами; Господь да владеет вами. И сказал им Гедеон: прошу у вас одного, дайте мне каждый по серьге из добычи своей.  Они сказали: дадим. И разостлали одежду и бросали туда каждый по серьге из добычи своей. Весу в золотых серьгах, которые он выпросил, было тысяча семьсот золотых , кроме пряжек, пуговиц и пурпуровых одежд, которые были на царях Мадиамских, и кроме цепочек, которые были на шее у верблюдов их. Из этого сделал Гедеон ефод и положил его в своем городе, в Офре, и стали все Израильтяне блудно ходить туда за ним, и был он сетью Гедеону и всему дому его. Так смирились Мадианитяне пред сынами Израиля и не стали уже поднимать головы своей, и покоилась земля сорок лет во дни Гедеона. И пошел Иероваал, сын Иоасов, и жил в доме своем. У Гедеона было семьдесят сыновей, происшедших от чресл его, потому что у него много было жен. Также и наложница, жившая в Сихеме, родила ему сына, и он дал ему имя Авимелех. И умер Гедеон, сын Иоасов, в глубокой старости, и погребен во гробе отца своего Иоаса, в Офре Авиезеровой.</p><cite>Суд. 8:22-32</cite></blockquote>
+<blockquote><p>и имели у себя истукан, сделанный Михою, во все то время, когда дом Божий находился в Силоме.</p><cite>Суд. 18:31</cite></blockquote>
+<blockquote><p>И что еще скажу? Недостанет мне времени, чтобы повествовать о Гедеоне, о Вараке, о Самсоне и Иеффае, о Давиде, Самуиле и (других) пророках,</p><cite>Евр. 11:32</cite></blockquote>
+<h4>(а) Ефод (верхняя одежда Первосвященника), Богослужение у жертвенника в Офре, а не в Силоме (скиния Моисеева) – нарушение Слово Божье, нет отказа от Слово Божье, Завета, Христос (Божье допущение – нет отказа от Слово Божье, Завета, Христос, грех не к смерти, важность познания и передача Слово Божье, Завета, Христос, Всемирная Евангелизация)</h4>
+<h4>(б) Поведение народа – мнение человека выше учения Слово Божье, проблема народа Божьего во все времена человечества</h4>
+<h4>(в) Многоженство, Авимелех – проблемы потомкам</h4>
+<h4>(г) Важность понимания возможности совершения тяжелых грехов и страшнейших ошибок лидерами и всем народом Божьим, важность понимания смысла и сути греха к смерти (непринятие Слово Божье, Завета, Христос) и греха не к смерти (нарушение установлений Слово Божье – неправильные мысли, эмоции и поступки)</h4>
+<h3>(5) Суд. 8:33-35, - отказ от Слово Божье, Завета, Христос, идолы, лже-боги</h3>
+<blockquote><p>Когда умер Гедеон, сыны Израилевы опять стали блудно ходить вслед Ваалов и поставили себе богом Ваалверифа; и не вспомнили сыны Израилевы Господа Бога своего, Который избавлял их из руки всех врагов, окружавших их; и дому Иероваалову, <em>или</em> Гедеонову, не сделали милости за все благодеяния, какие он сделал Израилю.</p><cite>Суд. 8:33-35</cite></blockquote>
+<h4>(а) Принятие, непринятие Слово Божье, Завета, Христос – право выбора человек</h4>
+<h4>(б) Действие сатана – допущение Божье, право выбора человека</h4>
+<h2 id="s6">6) Суд.9, - непринятие Слово Божье, Завета, Христос</h2>
+<h3>(1) Суд. 9:1-6, - Авимелех (его родственники и жители Сихема), непринятие Слово Божье, Завета, Христос (поклонение Ваалверифу), убийство всех братьев кроме Иофама (дети Гедеона), воцарение Авимелеха (последствия грехов Гедеона)</h3>
+<blockquote><p>Авимелех, сын Иероваалов, пошел в Сихем к братьям матери своей и говорил им и всему племени отца матери своей, и сказал: внушите всем жителям Сихемским: что лучше для вас, чтобы владели вами все семьдесят сынов Иеровааловых, или чтобы владел один? и вспомните, что я кость ваша и плоть ваша. Братья матери его внушили о нем все сии слова жителям Сихемским; и склонилось сердце их к Авимелеху, ибо говорили они: он брат наш. И дали ему семьдесят <em>сиклей</em> серебра из дома Ваалверифа; Авимелех нанял на оные праздных и своевольных людей, которые и пошли за ним. И пришел он в дом отца своего в Офру и убил братьев своих, семьдесят сынов Иеровааловых, на одном камне. Остался только Иофам, младший сын Иероваалов, потому что скрылся. И собрались все жители Сихемские и весь дом Милло, и пошли и поставили царем Авимелеха у дуба, что близ Сихема.</p><cite>Суд. 9:1-6</cite></blockquote>
+<h3>(2) Суд. 9:7-21, - призыв сына Гедеона Иофама к восстанию против воцарившегося Авимелеха</h3>
+<blockquote><p>Когда рассказали об этом Иофаму, он пошел и стал на вершине горы Гаризима и, возвысив голос свой, кричал и говорил им: послушайте меня, жители Сихема, и послушает вас Бог! Пошли некогда дерева помазать над собою царя и сказали маслине: царствуй над нами. Маслина сказала им: оставлю ли я тук мой, которым чествуют богов и людей и пойду ли скитаться по деревам? И сказали дерева смоковнице: иди ты, царствуй над нами. Смоковница сказала им: оставлю ли я сладость мою и хороший плод мой и пойду ли скитаться по деревам? И сказали дерева виноградной лозе: иди ты, царствуй над нами. Виноградная лоза сказала им: оставлю ли я сок мой, который веселит богов и человеков, и пойду ли скитаться по деревам? Наконец сказали все дерева терновнику: иди ты, царствуй над нами. Терновник сказал деревам: если вы по истине поставляете меня царем над собою, то идите, покойтесь под тенью моею; если же нет, то выйдет огонь из терновника и пожжет кедры Ливанские. Итак смотрите, по истине ли и по правде ли вы поступили, поставив Авимелеха царем? И хорошо ли вы поступили с Иероваалом и домом его, и сообразно ли с его благодеяниями поступили вы? За вас отец мой сражался, не дорожил жизнью своею и избавил вас от руки Мадианитян; а вы теперь восстали против дома отца моего, и убили семьдесят сынов отца моего на одном камне, и поставили царем над жителями Сихемскими Авимелеха, сына рабыни его, потому что он брат ваш. Если вы ныне по истине и по правде поступили с Иероваалом и домом его, то радуйтесь об Авимелехе, и он пусть радуется о вас; если же нет, то да изыдет огонь от Авимелеха и да пожжет жителей Сихемских и весь дом Милло и да изыдет огонь от жителей Сихемских и от дома Милло, и да пожжет Авимелеха. И побежал Иофам, и убежал и пошел в Беэр, и жил там, <em>укрываясь</em> от брата своего Авимелеха.</p><cite>Суд. 9:7-21</cite></blockquote>
+<h3>(3) Суд. 9:22-49, - гражданская война в народе Божьем, следствие непринятия Слово Божье, Завета, Христос, отказ от предназначения</h3>
+<blockquote><p>Авимелех же царствовал над Израилем три года. И послал Бог злого духа между Авимелехом и между жителями Сихема, и не стали покоряться жители Сихемские Авимелеху, дабы таким образом совершилось мщение за семьдесят сынов Иеровааловых, и кровь их обратилась на Авимелеха, брата их, который убил их, и на жителей Сихемских, которые подкрепили руки его, чтоб убить братьев своих. Жители Сихемские посадили против него в засаду людей на вершинах гор, которые грабили всякого проходящего мимо их по дороге. О сем донесено было Авимелеху. Пришел же и Гаал, сын Еведов, с братьями своими в Сихем, и ходили они по Сихему, и жители Сихемские положились на него. И вышли в поле, и собирали виноград свой, и давили в точилах, и делали праздники, ходили в дом бога своего, и ели и пили, и проклинали Авимелеха. Гаал, сын Еведов, говорил: кто Авимелех и что Сихем, чтобы нам служить ему? Не сын ли он Иероваалов, и не Зевул ли главный начальник его? Служите лучше потомкам Еммора, отца Сихемова, а ему для чего нам служить? Если бы кто дал народ сей в руки мои, я прогнал бы Авимелеха. И сказано было Авимелеху: умножь войско твое и выходи. Зевул, начальник города, услышал слова Гаала, сына Еведова, и воспылал гнев его. Он хитрым образом отправляет послов к Авимелеху, чтобы сказать: вот, Гаал, сын Еведов, и братья его пришли в Сихем, и вот, они возмущают против тебя город; итак, встань ночью, ты и народ, находящийся с тобою, и поставь засаду в поле; поутру же, при восхождении солнца, встань рано и приступи к городу; и когда он и народ, который у него, выйдут к тебе, тогда делай с ними, что может рука твоя. И встал ночью Авимелех и весь народ, находившийся с ним, и поставили в засаду у Сихема четыре отряда.  Гаал, сын Еведов, вышел и стал у ворот городских; и встал Авимелех и народ, бывший с ним, из засады. Гаал, увидев народ, говорит Зевулу: вот, народ спускается с вершины гор. А Зевул сказал ему: тень гор тебе кажется людьми. Гаал опять говорил и сказал: вот, народ спускается с возвышенности, и один отряд идет от дуба Меонним. И сказал ему Зевул: где уста твои, которые говорили: "кто Авимелех, чтобы мы стали служить ему?" Это тот народ, который ты пренебрегал; выходи теперь и сразись с ним. И пошел Гаал впереди жителей Сихемских и сразился с Авимелехом. И погнался за ним Авимелех, и побежал он от него, и много пало убитых до самых ворот города. И остался Авимелех в Аруме, а Гаала и братьев его Зевул выгнал, чтоб они не жили в Сихеме. На другой день вышел народ в поле, и донесли о сем Авимелеху. Он взял свой народ и разделил его на три отряда и поставил в засаду в поле. И увидев, что народ вышел из города, восстал на них и побил их. Между тем как Авимелех и отряды, бывшие с ним, приступили и стали у ворот городских, другие два отряда напали на всех, бывших в поле, и убивали их. И сражался Авимелех с городом весь тот день, и взял город, и побил народ, бывший в нем, и разрушил город и засеял его солью. Услышав об этом, все бывшие в башне Сихемской ушли в башню капища <em>Ваал-Верифа.</em> Авимелеху донесено, что собрались <em>туда</em> все бывшие в башне Сихемской. И пошел Авимелех на гору Селмон, сам и весь народ, бывший с ним, и взял Авимелех топоры с собою и нарубил сучьев древесных, и положил на плечи свои, и сказал народу, бывшему с ним: вы видели, что я делал; скорее делайте и вы то же, что я. И нарубил каждый из всего народа сучьев, и пошли за Авимелехом, и положили к башне, и сожгли посредством их башню огнем, и умерли все бывшие в башне Сихемской, около тысячи мужчин и женщин.</p><cite>Суд. 9:22-49</cite></blockquote>
+<h3>(4) Суд. 9:50-57, - гибель Авимелеха, исполнение Слово Божье Рим. 6:23</h3>
+<blockquote><p>Потом пошел Авимелех в Тевец и осадил Тевец и взял его. Среди города была крепкая башня, и убежали туда все мужчины и женщины и все жители города, и заперлись и взошли на кровлю башни. Авимелех пришел к башне и окружил ее и подошел к дверям башни, чтобы сжечь ее огнем. Тогда одна женщина бросила обломок жернова на голову Авимелеху и проломила ему череп.  тотчас призвал отрока, оруженосца своего, и сказал ему: обнажи меч твой и умертви меня, чтобы не сказали обо мне: женщина убила его. И пронзил его отрок его, и он умер. Израильтяне, видя, что умер Авимелех, пошли каждый в свое место. Так воздал Бог Авимелеху за злодеяние, которое он сделал отцу своему, убив семьдесят братьев своих. И все злодеяния жителей Сихемских обратил Бог на голову их; и постигло их проклятие Иофама, сына Иероваалова.</p><cite>Суд. 9:50-57</cite></blockquote>
 <blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>Есть у Меня и другие овцы, которые не сего двора, и тех надлежит Мне привести: и они услышат голос Мой, и будет одно стадо и один Пастырь.</p><cite>Ин. 10:16</cite></blockquote>
-<h2>6) Руфь 4, - исполнение Слово Божье, Завета, Христос</h2>
-<h3>(1) Руфь 4:1-10, - Вооз прообраз Христа, который спасает и берет в свою семью потерянных людей из язычников (выкупил Руфь, заплатил цену). Рим. 2:11</h3>
-<blockquote><p>Ибо нет лицеприятия у Бога.</p><cite>Рим. 2:11</cite></blockquote>
-<h3>(2) Руфь 4:11-12, - понимание Слово Божье, Завета, Христос, народ Божий. (Важность устроения народа Божьего, важность исполнения предназначения, приход Христа, искупление человечества)</h3>
-<h3>(3) Руфь 4:13-17, - важность принятия Слово Божье, Завета, Христос для человек (Божья любовь и милость – Ноеминь, Руфь). Иер. 29:11</h3>
-<blockquote><p>Ибо <em>только</em> Я знаю намерения, какие имею о вас, говорит Господь, намерения во благо, а не на зло, чтобы дать вам будущность и надежду.</p><cite>Иер. 29:11</cite></blockquote>
-<h3>(4) Руфь 4:18-22, - исполнение Слово Божье, Бог план (род Завета, Христа)</h3>
-<h4>(а) Руфь 4:18, - Фарес, сын Фамари и Иуды (род Христа)</h4>
-<h4>(б) Руфь 4:20,Мф. 1:5, - Вооз, сын Раав и Салмона (род Христа)</h4>
-<blockquote><p>Салмон родил Вооза от Рахавы; Вооз родил Овида от Руфи; Овид родил Иессея;</p><cite>Мф. 1:5</cite></blockquote>
-<h4>(б) Руфь 4:21, - Овид (дед Давида), сын Руфи и Вооза (род Христа)</h4>
-<h2>7) Важность понимания народа Божьего, истинный Израиль. (Ис-ра-эль – народ, за который борется Бог)</h2>
-<h3>(1) Духовные потомки Авраама, истинный Израиль – принятие Божественности Христа и Вседостаточности Его Жертвы Рим. 9:5-8,Гал. 3:7,29</h3>
-<blockquote><p>их и отцы, и от них Христос по плоти, сущий над всем Бог, благословенный во веки, аминь. Но не то, чтобы слово Божие не сбылось: ибо не все те Израильтяне, которые от Израиля; и не все дети Авраама, которые от семени его, но сказано: в Исааке наречется тебе семя. То есть не плотские дети суть дети Божии, но дети обетования признаются за семя.</p><cite>Рим. 9:5-8</cite></blockquote>
-<blockquote><p>Познайте же, что верующие суть сыны Авраама.</p><cite>Гал. 3:7</cite></blockquote>
-<blockquote><p>Если же вы Христовы, то вы семя Авраамово и по обетованию наследники.</p><cite>Гал. 3:29</cite></blockquote>
-<h3>(2) Плотские потомки Авраама, земной Израиль – непринятие Божественности Христа и Вседостаточности Его Жертвы Ин. 8:44, - Ин. 10:33,Рим. 9:30-33. (Видимый успех иудеев – Божье допущение, исполнение Слово Божье, постройка третьего лже-храма, воцарение антихриста)</h3>
-<blockquote><p>Ваш отец диавол; и вы хотите исполнять похоти отца вашего. Он был человекоубийца от начала и не устоял в истине, ибо нет в нем истины. Когда говорит он ложь, говорит свое, ибо он лжец и отец лжи.</p><cite>Ин. 8:44</cite></blockquote>
-<blockquote><p>Иудеи сказали Ему в ответ: не за доброе дело хотим побить Тебя камнями, но за богохульство и за то, что Ты, будучи человек, делаешь Себя Богом.</p><cite>Ин. 10:33</cite></blockquote>
-<blockquote><p>Что же скажем? Язычники, не искавшие праведности, получили праведность, праведность от веры. А Израиль, искавший закона праведности, не достиг до закона праведности. Почему? потому что <em>искали</em> не в вере, а в делах закона. Ибо преткнулись о камень преткновения, как написано: вот, полагаю в Сионе камень преткновения и камень соблазна; но всякий, верующий в Него, не постыдится.</p><cite>Рим. 9:30-33</cite></blockquote>
-<h3>(3) Сокрытие истинных потомков Авраама среди евреев и языч. (2000 лет народ Божий – 2000 лет евреи – 2000 лет язычники) Ин. 10:14-16,Рим. 11:25-26 (2:11)</h3>
-<blockquote><p>Я есмь пастырь добрый; и знаю Моих, и Мои знают Меня. Как Отец знает Меня, <em>так</em> и Я знаю Отца; и жизнь Мою полагаю за овец. Есть у Меня и другие овцы, которые не сего двора, и тех надлежит Мне привести: и они услышат голос Мой, и будет одно стадо и один Пастырь.</p><cite>Ин. 10:14-16</cite></blockquote>
-<blockquote><p>Ибо не хочу оставить вас, братия, в неведении о тайне сей, -- чтобы вы не мечтали о себе, -- что ожесточение произошло в Израиле отчасти, <em>до</em> <em>времени,</em> пока войдет полное <em>число</em> язычников; и так весь Израиль спасется, как написано: придет от Сиона Избавитель, и отвратит нечестие от Иакова.</p><cite>Рим. 11:25-26</cite></blockquote>
-<blockquote><p>Ибо нет лицеприятия у Бога.</p><cite>Рим. 2:11</cite></blockquote>
-<h2>Заключение:</h2>
-<h3>(1) Важность принятия Слово Божье, Завета, Христос для всякого человека</h3>
-<h3>(2) Важность понимание Божьего суверенитета и контроля жизни всякого человека (Божья любовь и милость)</h3>
+<h2 id="s7">Заключение:</h2>
+<h3>(1) Книга Судей – состояние народа Божьего, личная ответственность человека в отношении Слово Божье, Завета, Христос (Непринятие или неточное понимание Слово Божье, Завета, Христос – неверие, идолопоклонство, аморальность)</h3>
+<h3>(2) Важность понимания и исполнения предназначения – сохранение и передача Слово Божье, Завета, Христос, Всемирная Евангелизация, приход Христа</h3>
+<h3>(3) Книга Судей – глубокое и особенное обьяснение человеку Благой Вести, Божьей любови и милости. Евр. 13:5</h3>
+<blockquote><p>Имейте нрав несребролюбивый, довольствуясь тем, что есть. Ибо Сам сказал: не оставлю тебя и не покину тебя,</p><cite>Евр. 13:5</cite></blockquote>
 </main>
 </body>
 </html>

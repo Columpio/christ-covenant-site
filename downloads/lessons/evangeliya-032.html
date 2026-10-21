@@ -3,79 +3,246 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>30. Притчи Христа</title>
+<title>Притчи Христа, часть 1</title>
 <style>
-:root{--bg:#faf7f2;--fg:#2b2622;--muted:#7a6f66;--accent:#8a4b2a;--card:#fff;--line:#e6ddd2;--quote:#f3ece2}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+:root{color-scheme:light;
+--ink:#2A1C0D;--ink2:#5A4630;--stone:#E6D8BA;--parch:#EBDAB0;--sheet:#FAF3E0;--wood:#6B4426;--frame:#F1E7CE;
+--c:#2F5DA8;--cd:#2F5DA8;--sb:#2F5DA8;--sf:#FFFFFF;--mix:#000;
+--display:"Cormorant SC","Cormorant Garamond",Georgia,serif;--uni:"Cormorant Unicase","Cormorant SC",Georgia,serif;
+--serif:"Alegreya","PT Serif",Georgia,serif;--sans:"Alegreya Sans","Segoe UI",system-ui,sans-serif;
+--canon:linear-gradient(90deg,#2F5DA8 0 10%,#D8951A 10% 20%,#C2366B 20% 30%,#1F8A5B 30% 40%,#138F8F 40% 50%,#E0562C 50% 60%,#E8801E 60% 70%,#2F8FCF 70% 80%,#6C4BB6 80% 90%,#8E3B8A 90%);
+--noise:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .30 0 0 0 0 .21 0 0 0 0 .10 0 0 0 .22 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+--weave:repeating-linear-gradient(90deg,rgba(255,255,255,.11) 0 2px,rgba(0,0,0,.07) 2px 4px);
+--cdd:color-mix(in srgb,var(--cd) 55%,var(--ink));
+--px:2.4rem;--py:2.2rem}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.6 Georgia,"PT Serif","Times New Roman",serif}
-a{color:var(--accent)}
-header.top{position:sticky;top:0;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:1rem;
-padding:.6rem 1.25rem;background:var(--card);border-bottom:1px solid var(--line);font:15px/1.4 system-ui,sans-serif}
-.crumbs a{text-decoration:none}
-main{max-width:46rem;margin:0 auto;padding:1.5rem 1.25rem 7rem}
-main.wide{max-width:64rem}
-h1{font-size:1.6rem;line-height:1.25;margin:.5rem 0 1rem}
-h2{font-size:1.3rem;line-height:1.3;margin:1.8rem 0 .6rem}
-h3{font-size:1.12rem;line-height:1.35;margin:1.4rem 0 .5rem}
-h4{font-size:1rem;line-height:1.4;margin:1.1rem 0 .4rem}
-ul{padding-left:1.25rem}
-li{margin:.2rem 0}
-blockquote{margin:.6rem 0 1rem;padding:.7rem 1rem;background:var(--quote);border-left:3px solid var(--accent);
-border-radius:0 6px 6px 0;font-size:.95em}
+html{scroll-padding-top:4.5rem;overflow-x:clip}
+body{margin:0;overflow-x:clip;color:var(--ink);font:400 1.2rem/1.65 var(--serif);-webkit-font-smoothing:antialiased;min-height:100vh;
+background:#2B190C url(img/shelves.svg) 50% 0/520px 960px repeat}
+/* Свет и глубина над стеллажами: утренний луч слева сверху, виньетка по краям; на внутренних страницах темнее. */
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+background:linear-gradient(115deg,rgba(255,226,160,.5),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 45%,rgba(20,10,4,.6) 100%),rgba(30,18,8,.12)}
+body:not(.home)::before{background:linear-gradient(115deg,rgba(255,226,160,.28),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 40%,rgba(20,10,4,.55) 100%),rgba(30,18,8,.5)}
+a{color:var(--cdd)}
+.sprite{position:absolute;width:0;height:0;overflow:hidden}
+.skip{position:absolute;left:-999px;top:0;z-index:40;padding:.7rem 1.1rem;background:var(--ink);color:#fff;font:700 1rem var(--sans)}
+.skip:focus{left:.5rem;top:.5rem}
+a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible{outline:3px solid var(--ink);outline-offset:3px;border-radius:6px}
+
+/* Шапка: полоса цветов канона, на страницах книги - цвет её раздела. */
+header.top{position:sticky;top:0;z-index:30;background:rgba(247,239,218,.95);backdrop-filter:blur(6px);border-bottom:1px solid #BFA97E;box-shadow:0 .4rem .8rem -.5rem rgba(50,30,10,.45);font:700 1.02rem/1.4 var(--sans)}
+header.top::before{content:"";display:block;height:4px;background:var(--canon)}
+body[style] header.top::before{background:var(--c)}
+header.top .bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;max-width:44rem;margin:0 auto;padding:0 1.25rem}
+header.top.wide .bar{max-width:68rem}
+.crumbs{min-width:0;color:var(--ink2)}
+.crumbs a{display:inline-flex;align-items:center;min-height:44px;padding:0 .3rem;color:var(--ink);text-decoration:none}
+.crumbs a:hover{color:var(--cdd);text-decoration:underline;text-underline-offset:.25em}
+
+main{max-width:44rem;margin:0 auto;padding:2rem 1.25rem 7rem}
+main.wide{max-width:68rem;position:relative;margin:0 auto;padding:2rem 2.4rem 7rem;
+background:var(--noise),linear-gradient(90deg,rgba(60,38,16,.18),rgba(60,38,16,0) 6%,rgba(60,38,16,0) 94%,rgba(60,38,16,.18)),var(--stone);
+border-inline:1.1rem solid #A98B5E;
+box-shadow:inset .5rem 0 .8rem -.3rem rgba(50,30,10,.45),inset -.5rem 0 .8rem -.3rem rgba(50,30,10,.45),0 0 3rem 1rem rgba(15,8,3,.7)}
+.muted{color:var(--ink2)}
+
+/* Страница урока - лист пергамента на каменной стене; под текстом нет фактуры. */
+main:not(.wide){position:relative;margin:1.6rem auto 6rem;padding:var(--py) var(--px) 2.6rem;background:var(--sheet);border-radius:.3rem;
+box-shadow:inset 0 0 0 1px rgba(150,115,60,.4),inset 0 0 2.4rem rgba(150,115,60,.2),0 1.4rem 2.4rem -1rem rgba(40,25,10,.65)}
+main:not(.wide)::before{content:"";display:block;height:.55rem;margin:calc(var(--py) * -1) calc(var(--px) * -1) 1.6rem;border-radius:.3rem .3rem 0 0;background:var(--weave),var(--sb)}
+h1{font:700 clamp(1.8rem,3.4vw,2.4rem)/1.15 var(--display);letter-spacing:.015em;margin:.4rem 0 1.2rem}
+h2{font:700 1.6rem/1.25 var(--display);letter-spacing:.015em;margin:2.6rem 0 .8rem}
+h2::before{content:"";display:inline-block;width:.5em;height:.5em;margin:0 .55em .12em 0;background:var(--sb);border-radius:2px;transform:rotate(45deg)}
+h3{font:700 1.16rem/1.45 var(--serif);margin:1.6rem 0 .5rem}
+h4{font:italic 600 1.1rem/1.4 var(--serif);margin:1.2rem 0 .4rem}
+ul{padding-left:1.3rem}
+li{margin:.25rem 0}
+li::marker{color:var(--sb)}
+blockquote{margin:.9rem 0 1.3rem;padding:.9rem 1.2rem 1rem;background:#FFFBEC;border:1px solid #E2D2A8;border-left:.32rem solid var(--sb);border-radius:.2rem;box-shadow:0 .2rem 0 #E6D8B4,0 .7rem 1rem -.7rem rgba(60,40,15,.5);font-size:1.08rem}
 blockquote p{margin:0}
-blockquote cite{display:block;margin-top:.3rem;font:normal .8em/1.4 system-ui,sans-serif;color:var(--muted)}
-.muted{color:var(--muted)}
-.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:.6rem;list-style:none;padding:0;margin:0 0 1rem}
-.tiles.wide{grid-template-columns:repeat(auto-fill,minmax(15rem,1fr))}
+blockquote cite{display:block;margin-top:.4rem;font:700 .92rem/1.4 var(--sans);font-style:normal;color:var(--cdd)}
+
+/* Главная: зал. Утренний свет из окна, лампады, ниши со свитками. */
+.hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.lead{max-width:34rem;margin:0;font:400 1.25rem/1.5 var(--serif);color:var(--ink)}
+.scene{position:relative;width:17rem;height:19rem;justify-self:end}
+.window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
+background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
+box-shadow:0 0 0 .55rem var(--frame),0 0 0 .7rem #B9A57D,inset 0 1.2rem 1.6rem -.4rem rgba(40,25,10,.55),inset 1rem 0 1.2rem -.8rem rgba(40,25,10,.4)}
+.window::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent calc(50% - .2rem),#4A2D18 calc(50% - .2rem) calc(50% + .2rem),transparent calc(50% + .2rem)),linear-gradient(180deg,transparent 50%,#4A2D18 50% calc(50% + .4rem),transparent calc(50% + .4rem))}
+.sill{position:absolute;left:0;right:0;bottom:0;height:1.2rem;border-radius:.25rem .25rem .5rem .5rem;background:linear-gradient(180deg,#F6EDD3,#D6C5A0 55%,#B9A57D);box-shadow:0 .7rem .9rem -.4rem rgba(40,25,10,.55)}
+.sill>*{position:absolute;bottom:100%;margin-bottom:-.2rem}
+.sill img{display:block;width:100%;height:auto;filter:drop-shadow(.3rem .35rem .25rem rgba(40,25,10,.45))}
+.jar{left:1.2rem;width:3.1rem}
+.lamp{left:4.9rem;width:6.2rem}
+.ink{left:11.7rem;width:3.4rem}
+.glow{position:absolute;left:88%;top:66%;width:15rem;height:15rem;transform:translate(-50%,-50%);border-radius:50%;pointer-events:none;
+background:radial-gradient(circle,rgba(255,196,96,.62),rgba(255,160,60,.2) 38%,rgba(255,150,50,0) 68%);animation:glow 3.4s ease-in-out infinite}
+.flame{position:absolute;left:88.5%;top:67%;width:.75rem;height:1.35rem;transform:translate(-50%,-92%);transform-origin:50% 100%;border-radius:50% 50% 50% 50%/70% 70% 30% 30%;
+background:radial-gradient(ellipse at 50% 72%,#FFF8D0 0 18%,#FFD060 42%,#FF9A2A 72%,rgba(255,110,20,0) 100%);filter:blur(.4px);animation:flicker 2.7s ease-in-out infinite}
+.reed{position:absolute;left:46%;top:24%;width:.28rem;height:6.4rem;transform:translate(-50%,-100%) rotate(17deg);transform-origin:50% 100%;
+background:linear-gradient(90deg,#6E4F1E,#D9B866 45%,#8A6428);clip-path:polygon(0 0,100% 0,100% 94%,50% 100%,0 94%)}
+.rays{position:absolute;right:7rem;top:3rem;width:1px;height:1px;pointer-events:none;z-index:2}
+.rays i{position:absolute;top:0;right:0;width:8rem;height:48rem;transform-origin:100% 0;transform:rotate(var(--a));filter:blur(8px);mix-blend-mode:soft-light;
+background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
+.rays i:nth-child(1){--a:-40deg}
+.rays i:nth-child(2){--a:-54deg;width:5rem}
+.rays i:nth-child(3){--a:-68deg;width:10rem}
+@keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
+@keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
+.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
+.wall-lamp .lamp{position:relative;left:auto;width:100%}
+.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
+.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
+.jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
+.jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
+background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.jump a{display:inline-flex;align-items:center;min-height:44px;padding:0 1.2rem;text-decoration:none}
+.jump a:hover{background-color:#F6E9C2}
+.search{display:block;width:100%;max-width:34rem;margin:.4rem 0 1.2rem;padding:.75rem 1.1rem;font-weight:400}
+.search::placeholder{color:var(--ink2);opacity:1}
+.search:focus{border-color:var(--ink)}
+.testament{position:relative;display:flex;flex-direction:column;gap:2.4rem;margin:3rem 0 0}
+.testament>h2{display:flex;align-items:center;gap:1rem;margin:0;font:700 clamp(2rem,3.6vw,2.7rem)/1.1 var(--display);letter-spacing:.02em}
+.testament>h2::before{display:none}
+.testament>h2::after{content:"";flex:1;height:.4rem;border-top:2px solid var(--wood);border-bottom:1px solid var(--wood);opacity:.6}
+main section[hidden],.scrolls li[hidden],.tiles li[hidden]{display:none}
+
+/* Ниша раздела: драпировка цвета раздела, внутри на досках лежат свитки. */
+.group{position:relative;overflow:hidden;min-width:0;border:.55rem solid var(--frame);border-radius:1.6rem 1.6rem .3rem .3rem;
+background:linear-gradient(180deg,rgba(40,24,10,0),rgba(40,24,10,.14)),var(--noise),color-mix(in srgb,var(--c) 7%,#CDBB93);
+box-shadow:0 0 0 1px #B9A57D,inset 0 1.1rem 1.6rem -.5rem rgba(35,20,8,.55),inset 1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),inset -1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),0 .7rem 1.1rem -.5rem rgba(50,30,10,.5)}
+.group>h3{position:relative;z-index:3;display:flex;align-items:center;gap:.7rem;margin:0;padding:.65rem 1.3rem .6rem;background:var(--weave),var(--sb);color:var(--sf);font:700 1.45rem/1.15 var(--display);letter-spacing:.02em;filter:drop-shadow(0 .35rem .3rem rgba(25,12,0,.45))}
+.group>h3::after,.book-head::after{content:"";position:absolute;left:0;right:0;top:100%;height:.62rem;background:radial-gradient(circle at 50% 0,var(--sb) 0 .5rem,transparent .52rem) 0 0/1.1rem .62rem repeat-x}
+.emblem{width:1.9rem;height:1.9rem;flex:none;color:var(--sf)}
+
+/* Свиток: пергамент на двух деревянных валиках, на шипах - ленточка цвета раздела, справа - печать с числом уроков. */
+.scrolls{--h:3.4rem;--board:.62rem;display:flex;flex-wrap:wrap;align-items:flex-start;column-gap:1.3rem;row-gap:var(--board);list-style:none;margin:0;padding:1.5rem 1.2rem var(--board);
+background:repeating-linear-gradient(180deg,transparent 0 var(--h),#2C1A0C var(--h) calc(var(--h) + 1px),#8A5A32 calc(var(--h) + 1px) calc(var(--h) + 3px),#6B4426 calc(var(--h) + 3px) calc(var(--h) + var(--board))) 0 0/100% calc(100% + var(--board)) no-repeat;
+background-origin:content-box;background-clip:padding-box}
+.scrolls li{position:relative;height:var(--h);margin:0;padding:0 .95rem;max-width:100%;transition:transform .18s ease;animation:rise .45s ease backwards;animation-delay:calc(var(--i) * 12ms);filter:drop-shadow(0 .18rem .12rem rgba(20,10,0,.4))}
+.scrolls li::before,.scrolls li::after{content:"";position:absolute;top:0;bottom:0;width:.95rem;
+background:radial-gradient(circle at 50% .45rem,#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) top/100% .95rem no-repeat,
+radial-gradient(circle at 50% calc(100% - .45rem),#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) bottom/100% .95rem no-repeat,
+linear-gradient(var(--sb),var(--sb)) 50% 1rem/.56rem .3rem no-repeat,
+linear-gradient(90deg,#3F2614,#B07C48 35%,#7A4E2B 65%,#3F2614) center/.42rem 100% no-repeat}
+.scrolls li::before{left:0}
+.scrolls li::after{right:0}
+.scrolls a,.scrolls li.empty>span{display:flex;align-items:center;gap:.7rem;height:calc(var(--h) - 1rem);margin:.5rem 0;padding:0 .8rem 0 1.25rem;white-space:nowrap;font:700 1.14rem/1 var(--display);letter-spacing:.015em}
+.scrolls a{position:relative;z-index:1;color:var(--ink);text-decoration:none;animation:unroll .4s cubic-bezier(.3,.7,.3,1) backwards;animation-delay:calc(var(--i) * 12ms + 80ms);
+background:linear-gradient(180deg,rgba(104,66,22,.36),rgba(104,66,22,0) 20%,rgba(104,66,22,0) 78%,rgba(104,66,22,.44)),linear-gradient(rgba(255,248,226,.5),rgba(255,248,226,.5)),url(img/parchment.webp) #EBD8A8;
+box-shadow:inset 0 0 .7rem rgba(120,80,25,.4)}
+.scrolls a::before,.scrolls a::after{content:"";position:absolute;top:0;bottom:0;width:1.15rem;border-radius:.5rem;
+background:repeating-linear-gradient(90deg,rgba(90,60,20,.2) 0 1px,transparent 1px 3px),linear-gradient(90deg,#8E6D3A 0,#E8D3A0 30%,#F5E8C4 50%,#D8BF86 76%,#7F5F2E 100%);box-shadow:0 0 .35rem rgba(60,35,10,.5)}
+.scrolls a::before{left:-.62rem}
+.scrolls a::after{right:-.62rem}
+.scrolls li:hover,.scrolls li:has(a:focus-visible){transform:translateY(-.22rem)}
+.scrolls a:focus-visible{outline-offset:.6rem}
+.scrolls .count{position:relative;z-index:2;display:grid;place-items:center;min-width:1.85rem;height:1.85rem;padding:0 .3rem;border-radius:52% 48% 55% 45%/48% 55% 45% 52%;
+background:radial-gradient(circle at 35% 30%,var(--sb),color-mix(in srgb,var(--sb) 72%,#000));color:var(--sf);font:700 .9rem/1 var(--sans);letter-spacing:0;box-shadow:inset 0 1px 1px rgba(255,255,255,.4),0 .1rem .2rem rgba(0,0,0,.4)}
+.scrolls li.empty{padding:0 .3rem}
+.scrolls li.empty::before,.scrolls li.empty::after{display:none}
+.scrolls li.empty>span{border:1.5px dashed rgba(63,38,20,.65);border-radius:.4rem;color:var(--ink2);background:rgba(255,248,230,.22)}
+@keyframes unroll{from{clip-path:inset(0 50%)}to{clip-path:inset(0 0)}}
+@keyframes rise{from{opacity:0;transform:translateY(.6rem)}to{opacity:1;transform:none}}
+
+/* Страница книги: драпировка с названием и бирки уроков. */
+.book-head{position:relative;display:flex;align-items:center;gap:1.3rem;margin:0 0 2.2rem;padding:1.4rem 1.7rem;border-radius:.4rem .4rem 0 0;background:var(--weave),var(--sb);color:var(--sf);filter:drop-shadow(0 .45rem .35rem rgba(25,12,0,.4))}
+.book-head .emblem{width:4.2rem;height:4.2rem}
+.book-head h1{margin:0;color:var(--sf);font:700 clamp(2rem,4.4vw,3.1rem)/1.05 var(--display)}
+.meta{margin:.35rem 0 0;font:700 1.05rem/1.4 var(--sans);color:var(--sf)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));gap:.9rem;list-style:none;padding:0;margin:0 0 1rem}
 .tiles li{margin:0}
-.tiles a,.tiles li.empty{display:flex;align-items:center;justify-content:space-between;gap:.6rem;height:100%;min-height:4.5rem;
-padding:.8rem 1rem;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg);
-font:600 16px/1.35 system-ui,sans-serif}
-.tiles a{text-decoration:none;box-shadow:0 1px 2px rgba(0,0,0,.04);transition:border-color .15s,box-shadow .15s,transform .05s}
-.tiles a:hover{border-color:var(--accent);box-shadow:0 4px 14px rgba(0,0,0,.08)}
-.tiles a:active{transform:translateY(1px)}
-.tiles a>span:first-child,.tiles li.empty>span{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
-.tiles .count{color:var(--accent);font-size:.9em}
-.tiles li.empty{color:var(--muted);opacity:.55}
-.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;padding:.55rem 1.1rem;
-border:1px solid var(--accent);border-radius:10px;background:var(--card);color:var(--accent);font:600 15px/1.3 system-ui,sans-serif;
-text-decoration:none;cursor:pointer;box-shadow:0 1px 0 rgba(0,0,0,.06);transition:background .15s,color .15s,transform .05s}
-.btn:hover,details.download summary:hover{background:var(--accent);color:#fff}
-.btn:active,details.download summary:active{transform:translateY(1px)}
-.btn.primary{background:var(--accent);color:#fff}
-.btn.primary:hover{background:#6f3a20}
-.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3rem}
-.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;text-align:left}
+.tiles a{display:flex;align-items:center;height:100%;min-height:4.6rem;padding:.85rem 1rem .85rem 1.2rem;border-left:.5rem solid var(--sb);border-radius:.35rem;color:var(--ink);font:700 1.1rem/1.3 var(--serif);text-decoration:none;
+background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),url(img/parchment.webp) var(--parch);box-shadow:inset 0 0 .7rem rgba(120,85,35,.28),0 .15rem 0 #B9A276,0 .6rem .9rem -.5rem rgba(60,40,15,.55);transition:transform .15s}
+.tiles a:hover{transform:translateY(-.15rem)}
+.tiles .chapters{display:block;margin-top:.3rem;color:var(--cdd);font:700 .95rem/1.3 var(--sans)}
+
+/* Урок: содержание, кнопки. */
+.toc{margin:0 0 1.4rem;padding:.2rem 1.1rem;border:1px solid #D9C89E;border-radius:.3rem;background:#FFFBEC;font:400 1.02rem/1.5 var(--sans)}
+.toc summary{display:flex;align-items:center;min-height:44px;cursor:pointer;font-weight:700}
+.toc ol{margin:.3rem 0 .7rem;padding-left:1.4rem}
+.toc li::marker{color:var(--cdd);font-weight:700}
+.toc a{color:var(--ink);text-decoration:none}
+.toc a:hover{color:var(--cdd);text-decoration:underline}
+.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
+background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.btn:hover,details.download summary:hover{background-color:#F6E9C2}
+.btn.primary{background:var(--weave),var(--sb);border-color:color-mix(in srgb,var(--sb) 60%,#000);color:var(--sf)}
+.btn.primary:hover{background:var(--weave),color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3.5rem}
+.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;padding:.8rem 1rem;text-align:left}
 .pager .pager-next{align-items:flex-end;text-align:right}
 .pager .pager-section{align-items:center;justify-content:center;text-align:center}
-.pager .dir{font-size:.8em;font-weight:500;opacity:.85}
-.pager .name{font-weight:600}
-.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;
-pointer-events:none;z-index:5}
-.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;
-border-radius:50%;background:var(--accent);color:#fff;font:700 1.4rem/1 system-ui,sans-serif;text-decoration:none;
-cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.25);opacity:.92}
-.fab:hover{opacity:1;background:#6f3a20}
-.fab.next{margin-left:auto}
-.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);
-transition:opacity .2s,transform .2s,visibility .2s}
-.fab.top.visible{opacity:.92;visibility:visible;transform:none}
-@media(max-width:640px){.pager{grid-template-columns:1fr}.pager>span{display:none}
-.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}}
+.pager .dir{font-size:.9rem;font-weight:700}
+.pager .name{font:700 1.05rem/1.3 var(--serif);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
 details.download{position:relative}
-details.download summary{list-style:none;padding:.4rem 1rem}
+details.download summary{list-style:none}
 details.download summary::-webkit-details-marker{display:none}
-details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;
-padding:.3rem;background:var(--card);border:1px solid var(--line);border-radius:8px;box-shadow:0 6px 20px rgba(0,0,0,.08)}
-details.download .menu a{padding:.45rem .7rem;border-radius:6px;text-decoration:none;color:var(--fg)}
-details.download .menu a:hover{background:var(--quote)}
-@media print{header.top,.pager,.float{display:none}}
+details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;padding:.3rem;background:var(--sheet);border:1px solid #BFA97E;border-radius:.3rem;box-shadow:0 12px 28px -12px rgba(40,25,10,.55)}
+details.download .menu a{display:flex;align-items:center;min-height:44px;padding:.45rem .8rem;border-radius:.2rem;color:var(--ink);text-decoration:none}
+details.download .menu a:hover{background:#F0E3BE}
+
+/* Плавающие кнопки. */
+.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;pointer-events:none;z-index:25}
+.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;border-radius:50%;background:var(--sb);color:var(--sf);font:700 1.3rem/1 var(--sans);text-decoration:none;cursor:pointer;box-shadow:inset 0 1px 1px rgba(255,255,255,.35),0 8px 20px -6px rgba(40,25,10,.6)}
+.fab:hover{background:color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.fab.next{margin-left:auto}
+.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .2s,transform .2s,visibility .2s;pointer-events:auto;z-index:25}
+.fab.top.visible{opacity:1;visibility:visible;transform:none}
+.credits{max-width:68rem;margin:0 auto;padding:1.2rem 2.4rem 1.5rem;font:400 .95rem/1.5 var(--sans);color:var(--ink);background:var(--stone);border-inline:1.1rem solid #A98B5E}
+@media(max-width:1180px){.credits{padding-inline:1.25rem;border-inline-width:.5rem}}
+
+/* Скачанный документ без декора. */
+body.plain{background:#fff}
+body.plain::before{display:none}
+body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
+body.plain main::before{display:none}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+@media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
+@media(max-width:640px){
+body{font-size:1.12rem}
+:root{--px:1.1rem;--py:1.4rem}
+main:not(.wide){margin:0 auto 5rem;border-radius:0}
+.pager{grid-template-columns:1fr}.pager>span{display:none}
+.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}
+.fab{width:2.75rem;height:2.75rem}.fab.prev,.fab.next{display:none}.fab.top{bottom:1rem;right:.5rem}
+.testament{gap:2rem}
+.group{border-width:.4rem;border-radius:1.2rem 1.2rem .25rem .25rem}
+.group>h3{padding:.55rem 1rem .5rem;font-size:1.3rem}
+.scrolls{--h:3.9rem;column-gap:.8rem;padding:1.4rem .55rem var(--board)}
+.scrolls li{padding:0 .8rem}
+.scrolls li::before,.scrolls li::after{width:.8rem}
+.scrolls a,.scrolls li.empty>span{gap:.5rem;padding:0 .55rem 0 1rem;font-size:1rem}
+.scrolls a::before,.scrolls a::after{width:1rem}
+.scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
+.scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
+.book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
+@media(max-height:500px){header.top{position:static}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+@media print{body{background:#fff}body::before{display:none}header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
-<body>
+<body class="plain">
 <main>
-<h1>30. Притчи Христа</h1>
-<h2>1.1) Мк. 4:26-29, - семя возрастающее неприметным образом</h2>
+<h1>Притчи Христа, часть 1</h1>
+<h2 id="s1">1.1) Мк. 4:26-29, - семя возрастающее неприметным образом</h2>
 <blockquote><p>И сказал: Царствие Божие подобно тому, как если человек бросит семя в землю, и спит, и встает ночью и днем; и как семя всходит и растет, не знает он, ибо земля сама собою производит сперва зелень, потом колос, потом полное зерно в колосе. Когда же созреет плод, немедленно посылает серп, потому что настала жатва.</p><cite>Мк. 4:26-29</cite></blockquote>
 <h3>(1) Мк. 4:26 (Рим. 3:2), - передача Слово Божье, Завета, Христос, предназначение</h3>
 <blockquote><p>И сказал: Царствие Божие подобно тому, как если человек бросит семя в землю,</p><cite>Мк. 4:26</cite></blockquote>
@@ -97,7 +264,7 @@ details.download .menu a:hover{background:var(--quote)}
 <blockquote><p>Кто Павел? кто Аполлос? Они только служители, через которых вы уверовали, и притом поскольку каждому дал Господь. Я насадил, Аполлос поливал, но возрастил Бог; посему и насаждающий и поливающий есть ничто, а <em>все</em> Бог возращающий.</p><cite>1-е Кор. 3:5-7</cite></blockquote>
 <h3>(3) Мк. 4:29, - спасение, Божье использование человека</h3>
 <blockquote><p>Когда же созреет плод, немедленно посылает серп, потому что настала жатва.</p><cite>Мк. 4:29</cite></blockquote>
-<h2>2) Лк. 7:40-43, - о двух должниках</h2>
+<h2 id="s2">2) Лк. 7:40-43, - о двух должниках</h2>
 <blockquote><p>Обратившись к нему, Иисус сказал: Симон! Я имею нечто сказать тебе. Он говорит: скажи, Учитель. Иисус сказал: у одного заимодавца было два должника: один должен был пятьсот динариев, а другой пятьдесят, но как они не имели чем заплатить, он простил обоим. Скажи же, который из них более возлюбит его? Симон отвечал: думаю, тот, которому более простил. Он сказал ему: правильно ты рассудил.</p><cite>Лк. 7:40-43</cite></blockquote>
 <h3>(1) Лк. 7:41, - долг человека, исполнение приговора Слово Божье</h3>
 <blockquote><p>Иисус сказал: у одного заимодавца было два должника: один должен был пятьсот динариев, а другой пятьдесят,</p><cite>Лк. 7:41</cite></blockquote>
@@ -105,7 +272,7 @@ details.download .menu a:hover{background:var(--quote)}
 <blockquote><p>но как они не имели чем заплатить, он простил обоим. Скажи же, который из них более возлюбит его?</p><cite>Лк. 7:42</cite></blockquote>
 <h3>(3) Лк. 7:43, - любовь к Бог, принятие и передача Слово Божье, Завета, Христос</h3>
 <blockquote><p>Симон отвечал: думаю, тот, которому более простил. Он сказал ему: правильно ты рассудил.</p><cite>Лк. 7:43</cite></blockquote>
-<h2>3) Лк. 10:25-37, - о добром самарянине</h2>
+<h2 id="s3">3) Лк. 10:25-37, - о добром самарянине</h2>
 <blockquote><p>И вот, один законник встал и, искушая Его, сказал: Учитель! что мне делать, чтобы наследовать жизнь вечную? Он же сказал ему: в законе что написано? как читаешь? Он сказал в ответ: возлюби Господа Бога твоего всем сердцем твоим, и всею душею твоею, и всею крепостию твоею, и всем разумением твоим, и ближнего твоего, как самого себя. <em>Иисус</em> сказал ему: правильно ты отвечал; так поступай, и будешь жить. Но он, желая оправдать себя, сказал Иисусу: а кто мой ближний? На это сказал Иисус: некоторый человек шел из Иерусалима в Иерихон и попался разбойникам, которые сняли с него одежду, изранили его и ушли, оставив его едва живым. По случаю один священник шел тою дорогою и, увидев его, прошел мимо. Также и левит, быв на том месте, подошел, посмотрел и прошел мимо. Самарянин же некто, проезжая, нашел на него и, увидев его, сжалился и, подойдя, перевязал ему раны, возливая масло и вино; и, посадив его на своего осла, привез его в гостиницу и позаботился о нем; а на другой день, отъезжая, вынул два динария, дал содержателю гостиницы и сказал ему: позаботься о нем; и если издержишь что более, я, когда возвращусь, отдам тебе. Кто из этих троих, думаешь ты, был ближний попавшемуся разбойникам? Он сказал: оказавший ему милость. Тогда Иисус сказал ему: иди, и ты поступай так же.</p><cite>Лк. 10:25-37</cite></blockquote>
 <h3>(1) Лк. 10:30, - духовная проблема человека, действие сатана (Путь из Иерусалима в Иерихон – путь от Бога к погибели)</h3>
 <blockquote><p>На это сказал Иисус: некоторый человек шел из Иерусалима в Иерихон и попался разбойникам, которые сняли с него одежду, изранили его и ушли, оставив его едва живым.</p><cite>Лк. 10:30</cite></blockquote>
@@ -127,7 +294,7 @@ details.download .menu a:hover{background:var(--quote)}
 <blockquote><p>а на другой день, отъезжая, вынул два динария, дал содержателю гостиницы и сказал ему: позаботься о нем; и если издержишь что более, я, когда возвращусь, отдам тебе.</p><cite>Лк. 10:35</cite></blockquote>
 <h3>(10) Лк. 10:36-37, - понимание ближнего (любой человек)</h3>
 <blockquote><p>Кто из этих троих, думаешь ты, был ближний попавшемуся разбойникам? Он сказал: оказавший ему милость. Тогда Иисус сказал ему: иди, и ты поступай так же.</p><cite>Лк. 10:36-37</cite></blockquote>
-<h2>4) Лк. 11:5-13, - о человеке просящем хлеба в полночь</h2>
+<h2 id="s4">4) Лк. 11:5-13, - о человеке просящем хлеба в полночь</h2>
 <blockquote><p>И сказал им: <em>положим,</em> <em>что</em> кто-нибудь из вас, имея друга, придет к нему в полночь и скажет ему: друг! дай мне взаймы три хлеба, ибо друг мой с дороги зашел ко мне, и мне нечего предложить ему; а тот изнутри скажет ему в ответ: не беспокой меня, двери уже заперты, и дети мои со мною на постели; не могу встать и дать тебе. Если, говорю вам, он не встанет и не даст ему по дружбе с ним, то по неотступности его, встав, даст ему, сколько просит. И Я скажу вам: просите, и дано будет вам; ищите, и найдете; стучите, и отворят вам, ибо всякий просящий получает, и ищущий находит, и стучащему отворят. Какой из вас отец, <em>когда</em> сын попросит у него хлеба, подаст ему камень? или, <em>когда</em> <em>попросит</em> рыбы, подаст ему змею вместо рыбы? Или, если попросит яйца, подаст ему скорпиона? Итак, если вы, будучи злы, умеете даяния благие давать детям вашим, тем более Отец Небесный даст Духа Святаго просящим у Него.</p><cite>Лк. 11:5-13</cite></blockquote>
 <h3>(1) Лк. 11:5-8, - природа человека, егоизм</h3>
 <blockquote><p>И сказал им: <em>положим,</em> <em>что</em> кто-нибудь из вас, имея друга, придет к нему в полночь и скажет ему: друг! дай мне взаймы три хлеба, ибо друг мой с дороги зашел ко мне, и мне нечего предложить ему; а тот изнутри скажет ему в ответ: не беспокой меня, двери уже заперты, и дети мои со мною на постели; не могу встать и дать тебе. Если, говорю вам, он не встанет и не даст ему по дружбе с ним, то по неотступности его, встав, даст ему, сколько просит.</p><cite>Лк. 11:5-8</cite></blockquote>
@@ -135,205 +302,10 @@ details.download .menu a:hover{background:var(--quote)}
 <blockquote><p>И Я скажу вам: просите, и дано будет вам; ищите, и найдете; стучите, и отворят вам, ибо всякий просящий получает, и ищущий находит, и стучащему отворят. Какой из вас отец, <em>когда</em> сын попросит у него хлеба, подаст ему камень? или, <em>когда</em> <em>попросит</em> рыбы, подаст ему змею вместо рыбы? Или, если попросит яйца, подаст ему скорпиона? Итак, если вы, будучи злы, умеете даяния благие давать детям вашим, тем более Отец Небесный даст Духа Святаго просящим у Него.</p><cite>Лк. 11:9-13</cite></blockquote>
 <h3>(3) Лк. 11:13, - истинный ответ, Эммануил</h3>
 <blockquote><p>Итак, если вы, будучи злы, умеете даяния благие давать детям вашим, тем более Отец Небесный даст Духа Святаго просящим у Него.</p><cite>Лк. 11:13</cite></blockquote>
-<h2>Заключение:</h2>
+<h2 id="s5">Заключение:</h2>
 <h3>(1) Важность познания и передачи Слово Божье, Завета, Христос, Всемирная Евангелизация</h3>
 <h3>(2) Важность понимания любви и милости Божьей. 1-е Тим. 2:4</h3>
 <blockquote><p>Который хочет, чтобы все люди спаслись и достигли познания истины.</p><cite>1-е Тим. 2:4</cite></blockquote>
-<h2>2.1) Лк. 13:1-9, - о неплодной смоковнице в винограднике</h2>
-<blockquote><p>В это время пришли некоторые и рассказали Ему о Галилеянах, которых кровь Пилат смешал с жертвами их. Иисус сказал им на это: думаете ли вы, что эти Галилеяне были грешнее всех Галилеян, что так пострадали? Нет, говорю вам, но, если не покаетесь, все так же погибнете. Или думаете ли, что те восемнадцать человек, на которых упала башня Силоамская и побила их, виновнее были всех, живущих в Иерусалиме? Нет, говорю вам, но, если не покаетесь, все так же погибнете. И сказал сию притчу: некто имел в винограднике своем посаженную смоковницу, и пришел искать плода на ней, и не нашел; и сказал виноградарю: вот, я третий год прихожу искать плода на этой смоковнице и не нахожу; сруби ее: на что она и землю занимает? Но он сказал ему в ответ: господин! оставь ее и на этот год, пока я окопаю ее и обложу навозом, -- не принесет ли плода; если же нет, то в следующий <em>год</em> срубишь ее.</p><cite>Лк. 13:1-9</cite></blockquote>
-<h3>(1) Лк. 13:1-5, - неизбежность исполнения Слово Божье, проблема человек Быт. 1:27,2:7,17 (Быт. 3:1-7, - Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h3>
-<blockquote><p>В это время пришли некоторые и рассказали Ему о Галилеянах, которых кровь Пилат смешал с жертвами их. Иисус сказал им на это: думаете ли вы, что эти Галилеяне были грешнее всех Галилеян, что так пострадали? Нет, говорю вам, но, если не покаетесь, все так же погибнете. Или думаете ли, что те восемнадцать человек, на которых упала башня Силоамская и побила их, виновнее были всех, живущих в Иерусалиме? Нет, говорю вам, но, если не покаетесь, все так же погибнете.</p><cite>Лк. 13:1-5</cite></blockquote>
-<blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
-<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<blockquote><p>а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:17</cite></blockquote>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
-<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<h3>(2) Лк. 13:6-7, - важность плода, принятие Слово Божье, Завета, Христос</h3>
-<blockquote><p>И сказал сию притчу: некто имел в винограднике своем посаженную смоковницу, и пришел искать плода на ней, и не нашел; и сказал виноградарю: вот, я третий год прихожу искать плода на этой смоковнице и не нахожу; сруби ее: на что она и землю занимает?</p><cite>Лк. 13:6-7</cite></blockquote>
-<h3>(3) Лк. 13:8-9, - Божья любовь, милость, долготерпение</h3>
-<blockquote><p>Но он сказал ему в ответ: господин! оставь ее и на этот год, пока я окопаю ее и обложу навозом, -- не принесет ли плода; если же нет, то в следующий <em>год</em> срубишь ее.</p><cite>Лк. 13:8-9</cite></blockquote>
-<h2>2) Лк. 15:1-10, - о потеряной овце, драхме</h2>
-<blockquote><p>Приближались к Нему все мытари и грешники слушать Его. Фарисеи же и книжники роптали, говоря: Он принимает грешников и ест с ними. Но Он сказал им следующую притчу: кто из вас, имея сто овец и потеряв одну из них, не оставит девяноста девяти в пустыне и не пойдет за пропавшею, пока не найдет ее? А найдя, возьмет ее на плечи свои с радостью и, придя домой, созовет друзей и соседей и скажет им: порадуйтесь со мною: я нашел мою пропавшую овцу. Сказываю вам, что так на небесах более радости будет об одном грешнике кающемся, нежели о девяноста девяти праведниках, не имеющих нужды в покаянии. Или какая женщина, имея десять драхм, если потеряет одну драхму, не зажжет свечи и не станет мести комнату и искать тщательно, пока не найдет, а найдя, созовет подруг и соседок и скажет: порадуйтесь со мною: я нашла потерянную драхму. Так, говорю вам, бывает радость у Ангелов Божиих и об одном грешнике кающемся.</p><cite>Лк. 15:1-10</cite></blockquote>
-<h3>(1) Овца, драхма – прообраз человека принадлежащего Богу</h3>
-<h3>(2) Пропажа овцы, драхмы – действие сатана, отказ от Слово Божье, Завета, Христос</h3>
-<h3>(3) Постоянный и усиленный поиск – передача Слово Божье, Завета, Христос</h3>
-<h3>(4) Великая радость – принятие Слово Божье, Завета, Христос, спасение человек</h3>
-<h2>3) Лк. 15:11-32, - о блудном сыне</h2>
-<blockquote><p>Еще сказал: у некоторого человека было два сына; и сказал младший из них отцу: отче! дай мне следующую <em>мне</em> часть имения. И <em>отец</em> разделил им имение. По прошествии немногих дней младший сын, собрав все, пошел в дальнюю сторону и там расточил имение свое, живя распутно. Когда же он прожил все, настал великий голод в той стране, и он начал нуждаться; и пошел, пристал к одному из жителей страны той, а тот послал его на поля свои пасти свиней; и он рад был наполнить чрево свое рожками, которые ели свиньи, но никто не давал ему. Придя же в себя, сказал: сколько наемников у отца моего избыточествуют хлебом, а я умираю от голода; встану, пойду к отцу моему и скажу ему: отче! я согрешил против неба и пред тобою и уже недостоин называться сыном твоим; прими меня в число наемников твоих. Встал и пошел к отцу своему. И когда он был еще далеко, увидел его отец его и сжалился; и, побежав, пал ему на шею и целовал его. Сын же сказал ему: отче! я согрешил против неба и пред тобою и уже недостоин называться сыном твоим. А отец сказал рабам своим: принесите лучшую одежду и оденьте его, и дайте перстень на руку его и обувь на ноги; и приведите откормленного теленка, и заколите; станем есть и веселиться! ибо этот сын мой был мертв и ожил, пропадал и нашелся. И начали веселиться. Старший же сын его был на поле; и возвращаясь, когда приблизился к дому, услышал пение и ликование; и, призвав одного из слуг, спросил: что это такое? Он сказал ему: брат твой пришел, и отец твой заколол откормленного теленка, потому что принял его здоровым. Он осердился и не хотел войти. Отец же его, выйдя, звал его. Но он сказал в ответ отцу: вот, я столько лет служу тебе и никогда не преступал приказания твоего, но ты никогда не дал мне и козленка, чтобы мне повеселиться с друзьями моими; а когда этот сын твой, расточивший имение свое с блудницами, пришел, ты заколол для него откормленного теленка. Он же сказал ему: сын мой! ты всегда со мною, и все мое твое, а о том надобно было радоваться и веселиться, что брат твой сей был мертв и ожил, пропадал и нашелся.</p><cite>Лк. 15:11-32</cite></blockquote>
-<h3>(1) Блудный сын – отказ от Слово Божье, Завета, Христос, потеря спасения. (Знание и общение с Отцем, выбор жизни вне Отца)</h3>
-<h3>(2) Часть имения Отца – возможности, таланты, дары Божьи</h3>
-<h3>(3) Распутная жизнь, расточительство – жизнь вне Бога</h3>
-<h3>(4) Великий голод, нужда, гибель, крах – итог жизни вне Бога</h3>
-<h3>(5) Воспоминания об Отце и доме – действие Божьей благодати</h3>
-<h3>(6) Возвращение к Отцу – признание греха и Бог метода решения. (Дорога и Единственная Дверь в Отчий дом – Христос)</h3>
-<h3>(7) Лучшая одежда – праведность Христа, оправдание человека</h3>
-<h3>(8) Перстень – статус, дитя Божье, усыновление человека</h3>
-<h3>(9) Обувь – предназначение, возможность служения Отцу, Всемирная Евангелизация</h3>
-<h3>(10) Праздник – спасение, Божья радость и мир, истинный покой</h3>
-<h3>(11) Был мертв и ожил – духовное состояние человека, спасение</h3>
-<h3>(12) Старший сын, работа в поле – передача Слово Божье, Завета, Христос</h3>
-<h3>(13) Грех. сущ., важность невидимого, понимание Бог суверенитета</h3>
-<h2>4) Лк. 17:7-10, - о работнике пришедшем с поля</h2>
-<blockquote><p>Кто из вас, имея раба пашущего или пасущего, по возвращении его с поля, скажет ему: пойди скорее, садись за стол? Напротив, не скажет ли ему: приготовь мне поужинать и, подпоясавшись, служи мне, пока буду есть и пить, и потом ешь и пей сам? Станет ли он благодарить раба сего за то, что он исполнил приказание? Не думаю. Так и вы, когда исполните все повеленное вам, говорите: мы рабы ничего не стоящие, потому что сделали, что должны были сделать.</p><cite>Лк. 17:7-10</cite></blockquote>
-<h3>(1) Понимание предназначения – служение Богу</h3>
-<h3>(2) Понимание Бог суверенитета – Бог награда, расписание времени Заключение:</h3>
-<h3>(1) Важность понимания права выбора человека – важность Слово Божье, Завета, Христос, понимание предназначения</h3>
-<h3>(2) Важность понимания любви и милости Божьей. 1-е Тим. 2:4</h3>
-<blockquote><p>Который хочет, чтобы все люди спаслись и достигли познания истины.</p><cite>1-е Тим. 2:4</cite></blockquote>
-<h2>3.1) Лк. 16:19-31, - о богаче и Лазаре</h2>
-<blockquote><p>Некоторый человек был богат, одевался в порфиру и виссон и каждый день пиршествовал блистательно. Был также некоторый нищий, именем Лазарь, который лежал у ворот его в струпьях и желал напитаться крошками, падающими со стола богача, и псы, приходя, лизали струпья его. Умер нищий и отнесен был Ангелами на лоно Авраамово. Умер и богач, и похоронили его. И в аде, будучи в муках, он поднял глаза свои, увидел вдали Авраама и Лазаря на лоне его и, возопив, сказал: отче Аврааме! умилосердись надо мною и пошли Лазаря, чтобы омочил конец перста своего в воде и прохладил язык мой, ибо я мучаюсь в пламени сем. Но Авраам сказал: чадо! вспомни, что ты получил уже доброе твое в жизни твоей, а Лазарь -- злое; ныне же он здесь утешается, а ты страдаешь; и сверх всего того между нами и вами утверждена великая пропасть, так что хотящие перейти отсюда к вам не могут, также и оттуда к нам не переходят. Тогда сказал он: так прошу тебя, отче, пошли его в дом отца моего, ибо у меня пять братьев; пусть он засвидетельствует им, чтобы и они не пришли в это место мучения. Авраам сказал ему: у них есть Моисей и пророки; пусть слушают их. Он же сказал: нет, отче Аврааме, но если кто из мертвых придет к ним, покаются. Тогда <em>Авраам</em> сказал ему: если Моисея и пророков не слушают, то если бы кто и из мертвых воскрес, не поверят.</p><cite>Лк. 16:19-31</cite></blockquote>
-<h3>(1) Смерть человека – следствие грехопадения Быт. 1:27,2:7,17 (Быт. 3:1-7, - Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h3>
-<blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
-<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<blockquote><p>а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:17</cite></blockquote>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
-<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<h3>(2) Жизнь человека – Божий суверенитет</h3>
-<h4>(а) Учение гедонизма – процветание и богатство</h4>
-<h4>(б) Маммона – ошибочное упование человека. (Примеры Слово Божье – патриархи, пророки, апостолы). Евр. 11:8-16</h4>
-<blockquote><p>Верою Авраам повиновался призванию идти в страну, которую имел получить в наследие, и пошел, не зная, куда идет. Верою обитал он на земле обетованной, как на чужой, и жил в шатрах с Исааком и Иаковом, сонаследниками того же обетования; ибо он ожидал города, имеющего основание, которого художник и строитель Бог. Верою и сама Сарра (будучи неплодна) получила силу к принятию семени, и не по времени возраста родила, ибо знала, что верен Обещавший. И потому от одного, и притом омертвелого, родилось так много, как <em>много</em> звезд на небе и как бесчислен песок на берегу морском. Все сии умерли в вере, не получив обетований, а только издали видели оные, и радовались, и говорили о себе, что они странники и пришельцы на земле; ибо те, которые так говорят, показывают, что они ищут отечества. И если бы они в мыслях имели то <em>отечество,</em> из которого вышли, то имели бы время возвратиться; но они стремились к лучшему, то есть к небесному; посему и Бог не стыдится их, называя Себя их Богом: ибо Он приготовил им город.</p><cite>Евр. 11:8-16</cite></blockquote>
-<h4>(в) Богач – вера без дел, мертвая вера. Иак. 2:20</h4>
-<blockquote><p>Но хочешь ли знать, неосновательный человек, что вера без дел мертва?</p><cite>Иак. 2:20</cite></blockquote>
-<h4>(г) Лазарь – принятие Слово Божье, Завета, Христос, вера Божья</h4>
-<h3>(3) Важность понимания смысла жизни человека</h3>
-<h4>(а) Смысл жизни – выбор в отношении вечности (где и с кем?)</h4>
-<h4>(б) Неправильное понимание – видимое, жизнь для себя, егоизм</h4>
-<h4>(в) Правильное понимание – невидимое, жизнь для Христа и людей, исполнение предназначения народа Божьего</h4>
-<h3>(4) Лоно Авраамово – место ожидания праведников В.З</h3>
-<h4>(а) Состояние праведника – покой и утешение</h4>
-<h4>(б) Состояние грешника – страдания, желание спасения</h4>
-<h3>(5) Понимание частей ада</h3>
-<h4>(а) Огонь – место для грешников, непринятие Слово Божье, Завета, Христос</h4>
-<h4>(б) Лоно Авраамово – место для праведников В.З., принятие Слово Божье, Завета, Христос, ожидание исполнения Слово Божье Быт. 37:35</h4>
-<blockquote><p>И собрались все сыновья его и все дочери его, чтобы утешить его; но он не хотел утешиться и сказал: с печалью сойду к сыну моему в преисподнюю. Так оплакивал его отец его.</p><cite>Быт. 37:35</cite></blockquote>
-<h4>(в) Темницы – место для людей никогда на слышавших Слово Божье, Завета, Христос, возможность выбора. 1-е Пет. 3:19,Отк. 20:15</h4>
-<blockquote><p>которым Он и находящимся в темнице духам, сойдя, проповедал,</p><cite>1-е Пет. 3:19</cite></blockquote>
-<blockquote><p>И кто не был записан в книге жизни, тот был брошен в озеро огненное.</p><cite>Отк. 20:15</cite></blockquote>
-<h4>(г) Бездна – место заточения бесов. Отк. 9:1,11,20:1-3,Лк. 8:31</h4>
-<blockquote><p>Пятый Ангел вострубил, и я увидел звезду, падшую с неба на землю, и дан был ей ключ от кладязя бездны.</p><cite>Отк. 9:1</cite></blockquote>
-<blockquote><p>Царем над собою она имела ангела бездны; имя ему по-- еврейски Аваддон, а по-гречески Аполлион.</p><cite>Отк. 9:11</cite></blockquote>
-<blockquote><p>И увидел я Ангела, сходящего с неба, который имел ключ от бездны и большую цепь в руке своей. Он взял дракона, змия древнего, который есть диавол и сатана, и сковал его на тысячу лет, и низверг его в бездну, и заключил его, и положил над ним печать, дабы не прельщал уже народы, доколе не окончится тысяча лет; после же сего ему должно быть освобожденным на малое время.</p><cite>Отк. 20:1-3</cite></blockquote>
-<blockquote><p>И они просили Иисуса, чтобы не повелел им идти в бездну.</p><cite>Лк. 8:31</cite></blockquote>
-<h3>(6) Важность принятия Слово Божье, Завета, Христос для человека</h3>
-<h4>(а) Отсутствие возможности спасения после смерти для человек</h4>
-<h4>(б) Бог метод спасения – Слово Божье, Завет, Христос (предназначение народа Бог)</h4>
-<h4>(в) Мистика, чудеса – крах (воскрешение Лазаря)</h4>
-<h4>(г) Важность положения человека в вечности. Втор. 30:19,Дн. 13:46</h4>
-<blockquote><p>Во свидетели пред вами призываю сегодня небо и землю: жизнь и смерть предложил я тебе, благословение и проклятие. Избери жизнь, дабы жил ты и потомство твое,</p><cite>Втор. 30:19</cite></blockquote>
-<blockquote><p>Тогда Павел и Варнава с дерзновением сказали: вам первым надлежало быть проповедану слову Божию, но как вы отвергаете его и сами себя делаете недостойными вечной жизни, то вот, мы обращаемся к язычникам.</p><cite>Дн. 13:46</cite></blockquote>
-<h2>2) Лк. 12:15-21, - о неразумном богаче</h2>
-<blockquote><p>При этом сказал им: смотрите, берегитесь любостяжания, ибо жизнь человека не зависит от изобилия его имения. И сказал им притчу: у одного богатого человека был хороший урожай в поле; и он рассуждал сам с собою: что мне делать? некуда мне собрать плодов моих? И сказал: вот что сделаю: сломаю житницы мои и построю большие, и соберу туда весь хлеб мой и все добро мое, и скажу душе моей: душа! много добра лежит у тебя на многие годы: покойся, ешь, пей, веселись. Но Бог сказал ему: безумный! в сию ночь душу твою возьмут у тебя; кому же достанется то, что ты заготовил? Так <em>бывает</em> <em>с</em> <em>тем,</em> кто собирает сокровища для себя, а не в Бога богатеет.</p><cite>Лк. 12:15-21</cite></blockquote>
-<h3>(1) Лк. 12:16-19, - неправильное упование человека, непонимание предназначения, жизнь для себя, видимое</h3>
-<blockquote><p>И сказал им притчу: у одного богатого человека был хороший урожай в поле; и он рассуждал сам с собою: что мне делать? некуда мне собрать плодов моих? И сказал: вот что сделаю: сломаю житницы мои и построю большие, и соберу туда весь хлеб мой и все добро мое, и скажу душе моей: душа! много добра лежит у тебя на многие годы: покойся, ешь, пей, веселись.</p><cite>Лк. 12:16-19</cite></blockquote>
-<h3>(2) Лк. 12:20,15, - важность понимания Божьего суверенитета</h3>
-<blockquote><p>Но Бог сказал ему: безумный! в сию ночь душу твою возьмут у тебя; кому же достанется то, что ты заготовил?</p><cite>Лк. 12:20</cite></blockquote>
-<blockquote><p>При этом сказал им: смотрите, берегитесь любостяжания, ибо жизнь человека не зависит от изобилия его имения.</p><cite>Лк. 12:15</cite></blockquote>
-<h3>(3) Лк. 12:21, - понимание вечности и суда Божьего</h3>
-<blockquote><p>Так <em>бывает</em> <em>с</em> <em>тем,</em> кто собирает сокровища для себя, а не в Бога богатеет.</p><cite>Лк. 12:21</cite></blockquote>
-<h2>Заключение:</h2>
-<h3>(1) Важность понимания смысла жизни для человека – выбор в отношении вечности. Мф. 6:19-21,33,2-е Кор. 4:18</h3>
-<blockquote><p>Не собирайте себе сокровищ на земле, где моль и ржа истребляют и где воры подкапывают и крадут, но собирайте себе сокровища на небе, где ни моль, ни ржа не истребляют и где воры не подкапывают и не крадут, ибо где сокровище ваше, там будет и сердце ваше.</p><cite>Мф. 6:19-21</cite></blockquote>
-<blockquote><p>Ищите же прежде Царства Божия и правды Его, и это все приложится вам.</p><cite>Мф. 6:33</cite></blockquote>
-<blockquote><p>когда мы смотрим не на видимое, но на невидимое: ибо видимое временно, а невидимое вечно.</p><cite>2-е Кор. 4:18</cite></blockquote>
-<h3>(2) Важность понимания действия сатана – искушение человека Пс. 72:1-17,1-е Тим. 6:6-10</h3>
-<blockquote><p>Как благ Бог к Израилю, к чистым сердцем! А я - едва не пошатнулись ноги мои, едва не поскользнулись стопы мои, - я позавидовал безумным, видя благоденствие нечестивых, ибо им нет страданий до смерти их, и крепки силы их; на работе человеческой нет их, и с <em>прочими</em> людьми не подвергаются ударам. Оттого гордость, как ожерелье, обложила их, и дерзость, <em>как</em> наряд, одевает их; выкатились от жира глаза их, бродят помыслы в сердце; над всем издеваются, злобно разглашают клевету, говорят свысока; поднимают к небесам уста свои, и язык их расхаживает по земле. Потому туда же обращается народ Его, и пьют воду полною чашею, и говорят: "как узнает Бог? и есть ли ведение у Вышнего?" И вот, эти нечестивые благоденствуют в веке сем, умножают богатство.  так не напрасно ли я очищал сердце мое и омывал в невинности руки мои, и подвергал себя ранам всякий день и обличениям всякое утро? <em>Но</em> если бы я сказал: "буду рассуждать так", - то я виновен был бы пред родом сынов Твоих. И думал я, как бы уразуметь это, но это трудно было в глазах моих, доколе не вошел я во святилище Божие и не уразумел конца их.</p><cite>Пс. 72:1-17</cite></blockquote>
-<blockquote><p>Великое приобретение -- быть благочестивым и довольным. Ибо мы ничего не принесли в мир; явно, что ничего не можем и вынести <em>из</em> <em>него.</em> Имея пропитание и одежду, будем довольны тем. А желающие обогащаться впадают в искушение и в сеть и во многие безрассудные и вредные похоти, которые погружают людей в бедствие и пагубу; ибо корень всех зол есть сребролюбие, которому предавшись, некоторые уклонились от веры и сами себя подвергли многим скорбям.</p><cite>1-е Тим. 6:6-10</cite></blockquote>
-<h2>4.1) Лк. 16:1-15, - о неверном домоправителе</h2>
-<blockquote><p>Сказал же и к ученикам Своим: один человек был богат и имел управителя, на которого донесено было ему, что расточает имение его; и, призвав его, сказал ему: что это я слышу о тебе? дай отчет в управлении твоем, ибо ты не можешь более управлять. Тогда управитель сказал сам в себе: что мне делать? господин мой отнимает у меня управление домом; копать не могу, просить стыжусь; знаю, что сделать, чтобы приняли меня в домы свои, когда отставлен буду от управления домом. И, призвав должников господина своего, каждого порознь, сказал первому: сколько ты должен господину моему? Он сказал: сто мер масла. И сказал ему: возьми твою расписку и садись скорее, напиши: пятьдесят. Потом другому сказал: а ты сколько должен? Он отвечал: сто мер пшеницы. И сказал ему: возьми твою расписку и напиши: восемьдесят. И похвалил господин управителя неверного, что догадливо поступил; ибо сыны века сего догадливее сынов света в своем роде. И Я говорю вам: приобретайте себе друзей богатством неправедным, чтобы они, когда обнищаете, приняли вас в вечные обители. Верный в малом и во многом верен, а неверный в малом неверен и во многом. Итак, если вы в неправедном богатстве не были верны, кто поверит вам истинное? И если в чужом не были верны, кто даст вам ваше? Никакой слуга не может служить двум господам, ибо или одного будет ненавидеть, а другого любить, или одному станет усердствовать, а о другом нерадеть. Не можете служить Богу и маммоне. Слышали все это и фарисеи, которые были сребролюбивы, и они смеялись над Ним. Он сказал им: вы выказываете себя праведниками пред людьми, но Бог знает сердца ваши, ибо что высоко у людей, то мерзость пред Богом.</p><cite>Лк. 16:1-15</cite></blockquote>
-<h3>(1) Лк. 16:1, - важность Слово Божье и общения с Богом для человека Быт. 1:27,2:7,17 (Быт. 3:1-7, - Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h3>
-<blockquote><p>Сказал же и к ученикам Своим: один человек был богат и имел управителя, на которого донесено было ему, что расточает имение его;</p><cite>Лк. 16:1</cite></blockquote>
-<blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
-<blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<blockquote><p>а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:17</cite></blockquote>
-<blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
-<blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
-<blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
-<blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<h3>(2) Лк. 16:1-2, - важность понимания жизненной реальности</h3>
-<blockquote><p>Сказал же и к ученикам Своим: один человек был богат и имел управителя, на которого донесено было ему, что расточает имение его; и, призвав его, сказал ему: что это я слышу о тебе? дай отчет в управлении твоем, ибо ты не можешь более управлять.</p><cite>Лк. 16:1-2</cite></blockquote>
-<h4>(а) Богатый человек, Господин – прообраз Бога, Господин всего</h4>
-<h4>(б) Управитель, прообраз грешника («сын века сего») – управление тем, что принадлежит Богу. Пс. 23:1 (Лк. 16:8)</h4>
-<blockquote><p>Господня земля и что наполняет ее, вселенная и все живущее в ней,</p><cite>Пс. 23:1</cite></blockquote>
-<blockquote><p>И похвалил господин управителя неверного, что догадливо поступил; ибо сыны века сего догадливее сынов света в своем роде.</p><cite>Лк. 16:8</cite></blockquote>
-<h4>(в) Упование на матеральное и видимое, крах человека</h4>
-<h3>(3) Лк. 16:3-7, - использование материальных благ Господина для своей выгоды (уменьшение долга, сокрытие растрат – оправдание перед Господином и помощь ближнему)</h3>
-<blockquote><p>Тогда управитель сказал сам в себе: что мне делать? господин мой отнимает у меня управление домом; копать не могу, просить стыжусь; знаю, что сделать, чтобы приняли меня в домы свои, когда отставлен буду от управления домом. И, призвав должников господина своего, каждого порознь, сказал первому: сколько ты должен господину моему? Он сказал: сто мер масла. И сказал ему: возьми твою расписку и садись скорее, напиши: пятьдесят. Потом другому сказал: а ты сколько должен? Он отвечал: сто мер пшеницы. И сказал ему: возьми твою расписку и напиши: восемьдесят.</p><cite>Лк. 16:3-7</cite></blockquote>
-<h3>(4) Лк. 16:8, - похвала Господина, важность понимания предназначения материальных благ, жизнь человечества</h3>
-<blockquote><p>И похвалил господин управителя неверного, что догадливо поступил; ибо сыны века сего догадливее сынов света в своем роде.</p><cite>Лк. 16:8</cite></blockquote>
-<h3>(5) Лк. 16:9, - важность исполнения предназначения народа Божьего, важность служения материальным и финансами ради спасения многих людей</h3>
-<blockquote><p>И Я говорю вам: приобретайте себе друзей богатством неправедным, чтобы они, когда обнищаете, приняли вас в вечные обители.</p><cite>Лк. 16:9</cite></blockquote>
-<h4>(а) Обнищать (духовный смысл) – физическая смерть, конец земной жизни человека, служение Богу и людям, вечная жизнь с Богом и Его народом («приняты в вечные обители»)</h4>
-<h4>(б) Обнищать (физический смысл) – тяжелые обстоятельства, Божья помощь через людей (закон сеяния и жатвы). Гал. 6:7</h4>
-<blockquote><p>Не обманывайтесь: Бог поругаем не бывает. Что посеет человек, то и пожнет:</p><cite>Гал. 6:7</cite></blockquote>
-<h3>(6) Лк. 16:10-13, - важность принятия Слово Божье, Завета, Христос, важность служения Богу и людям</h3>
-<blockquote><p>Верный в малом и во многом верен, а неверный в малом неверен и во многом. Итак, если вы в неправедном богатстве не были верны, кто поверит вам истинное? И если в чужом не были верны, кто даст вам ваше? Никакой слуга не может служить двум господам, ибо или одного будет ненавидеть, а другого любить, или одному станет усердствовать, а о другом нерадеть. Не можете служить Богу и маммоне.</p><cite>Лк. 16:10-13</cite></blockquote>
-<h4>(а) Важность верности Богу во всем и при любых жизненных обстоятельствах, правильная мотивация человека. Мф. 4:10</h4>
-<blockquote><p>Тогда Иисус говорит ему: отойди от Меня, сатана, ибо написано: Господу Богу твоему поклоняйся и Ему одному служи.</p><cite>Мф. 4:10</cite></blockquote>
-<h4>(б) «В чужом не были верны» - важность понимания истинного Господина и Хозяина всей земли и вселенной</h4>
-<h4>(б) Неправедное богатство – жизнь народа Божьего в греховном мире, власть сатана (мироустройство и финансовая система мира), важность понимания Грехопадения (весь мир лежит во зле)</h4>
-<h4>(в) Истинное богатство – познание и передача Слово Божье, Завета, Христос, служение Богу и людям, важность спасения человека</h4>
-<h4>(г) «Служить Богу или маммоне» - важность понимания права выбора и ответственности каждого человека. Втор. 30:19</h4>
-<blockquote><p>Во свидетели пред вами призываю сегодня небо и землю: жизнь и смерть предложил я тебе, благословение и проклятие. Избери жизнь, дабы жил ты и потомство твое,</p><cite>Втор. 30:19</cite></blockquote>
-<h3>(7) Лк. 16:14-15, - важность понимания неизменных и вечных ценностей Бог («что высоко у людей, то мерзость пред Богом») 2-е Кор. 4:18</h3>
-<blockquote><p>Слышали все это и фарисеи, которые были сребролюбивы, и они смеялись над Ним. Он сказал им: вы выказываете себя праведниками пред людьми, но Бог знает сердца ваши, ибо что высоко у людей, то мерзость пред Богом.</p><cite>Лк. 16:14-15</cite></blockquote>
-<blockquote><p>когда мы смотрим не на видимое, но на невидимое: ибо видимое временно, а невидимое вечно.</p><cite>2-е Кор. 4:18</cite></blockquote>
-<h2>Итог:</h2>
-<h3>(1) Все добро человек делает за счет Истинного Хозяина всего, т.е. Святого и Истинного Бога</h3>
-<h3>(2) Богатство неправедное – жизнь народа Божьего в греховном мире, власть сатана (очень много неправильного в мироустройстве и финансовой системе мира), важность понимания Грехопадения (весь мир лежит во зле)</h3>
-<h3>(3) Богатство неправедное нужно обращать в правильные вещи – развитие и служение человечеству, помощь человеку, передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация, приход Христа</h3>
-<h2>2) Лк. 18:1-8, - о неправедном судье</h2>
-<blockquote><p>Сказал также им притчу о том, что должно всегда молиться и не унывать, говоря: в одном городе был судья, который Бога не боялся и людей не стыдился. В том же городе была одна вдова, и она, приходя к нему, говорила: защити меня от соперника моего. Но он долгое время не хотел. А после сказал сам в себе: хотя я и Бога не боюсь и людей не стыжусь, но, как эта вдова не дает мне покоя, защищу ее, чтобы она не приходила больше докучать мне. И сказал Господь: слышите, что говорит судья неправедный? Бог ли не защитит избранных Своих, вопиющих к Нему день и ночь, хотя и медлит защищать их? сказываю вам, что подаст им защиту вскоре. Но Сын Человеческий, придя, найдет ли веру на земле?</p><cite>Лк. 18:1-8</cite></blockquote>
-<h3>(1) Лк. 18:1-5, - природа человека, егоизм</h3>
-<blockquote><p>Сказал также им притчу о том, что должно всегда молиться и не унывать, говоря: в одном городе был судья, который Бога не боялся и людей не стыдился. В том же городе была одна вдова, и она, приходя к нему, говорила: защити меня от соперника моего. Но он долгое время не хотел. А после сказал сам в себе: хотя я и Бога не боюсь и людей не стыжусь, но, как эта вдова не дает мне покоя, защищу ее, чтобы она не приходила больше докучать мне.</p><cite>Лк. 18:1-5</cite></blockquote>
-<h3>(2) Лк. 18:6-7, - природа Бог, любовь и милость (сравнение)</h3>
-<blockquote><p>И сказал Господь: слышите, что говорит судья неправедный? Бог ли не защитит избранных Своих, вопиющих к Нему день и ночь, хотя и медлит защищать их?</p><cite>Лк. 18:6-7</cite></blockquote>
-<h3>(3) Лк. 18:8, - понимание Бог суверенитета и расписание времени</h3>
-<blockquote><p>сказываю вам, что подаст им защиту вскоре. Но Сын Человеческий, придя, найдет ли веру на земле?</p><cite>Лк. 18:8</cite></blockquote>
-<h3>(4) Лк. 18:8 (Мк. 11:23), - важность веры Бог для человека</h3>
-<blockquote><p>сказываю вам, что подаст им защиту вскоре. Но Сын Человеческий, придя, найдет ли веру на земле?</p><cite>Лк. 18:8</cite></blockquote>
-<blockquote><p>имейте веру Божию, ибо истинно говорю вам, если кто скажет горе сей: поднимись и ввергнись в море, и не усомнится в сердце своем, но поверит, что сбудется по словам его, -- будет ему, что ни скажет.</p><cite>Мк. 11:23</cite></blockquote>
-<h2>3) Лк. 18:9-14, - о фарисее и мытаре</h2>
-<blockquote><p>Сказал также к некоторым, которые уверены были о себе, что они праведны, и уничижали других, следующую притчу: два человека вошли в храм помолиться: один фарисей, а другой мытарь. Фарисей, став, молился сам в себе так: Боже! благодарю Тебя, что я не таков, как прочие люди, грабители, обидчики, прелюбодеи, или как этот мытарь: пощусь два раза в неделю, даю десятую часть из всего, что приобретаю. Мытарь же, стоя вдали, не смел даже поднять глаз на небо; но, ударяя себя в грудь, говорил: Боже! будь милостив ко мне грешнику! Сказываю вам, что сей пошел оправданным в дом свой более, нежели тот: ибо всякий, возвышающий сам себя, унижен будет, а унижающий себя возвысится.</p><cite>Лк. 18:9-14</cite></blockquote>
-<h3>(1) Фарисей – религия, статус, личные дела и поступки</h3>
-<h3>(2) Мытарь – осознание греховности, упование на Бога</h3>
-<h3>(3) Божий суд – принятие или непринятие Слово Божье, Завета, Христос</h3>
-<h2>4) Лк. 19:12-27, - о десяти минах</h2>
-<blockquote><p>Итак сказал: некоторый человек высокого рода отправлялся в дальнюю страну, чтобы получить себе царство и возвратиться; призвав же десять рабов своих, дал им десять мин и сказал им: употребляйте их в оборот, пока я возвращусь. Но граждане ненавидели его и отправили вслед за ним посольство, сказав: не хотим, чтобы он царствовал над нами. И когда возвратился, получив царство, велел призвать к себе рабов тех, которым дал серебро, чтобы узнать, кто что приобрел. Пришел первый и сказал: господин! мина твоя принесла десять мин. И сказал ему: хорошо, добрый раб! за то, что ты в малом был верен, возьми в управление десять городов. Пришел второй и сказал: господин! мина твоя принесла пять мин. Сказал и этому: и ты будь над пятью городами. Пришел третий и сказал: господин! вот твоя мина, которую я хранил, завернув в платок, ибо я боялся тебя, потому что ты человек жестокий: берешь, чего не клал, и жнешь, чего не сеял. <em>Господин</em> сказал ему: твоими устами буду судить тебя, лукавый раб! ты знал, что я человек жестокий, беру, чего не клал, и жну, чего не сеял; для чего же ты не отдал серебра моего в оборот, чтобы я, придя, получил его с прибылью? И сказал предстоящим: возьмите у него мину и дайте имеющему десять мин. И сказали ему: господин! у него есть десять мин. Сказываю вам, что всякому имеющему дано будет, а у неимеющего отнимется и то, что имеет; врагов же моих тех, которые не хотели, чтобы я царствовал над ними, приведите сюда и избейте предо мною.</p><cite>Лк. 19:12-27</cite></blockquote>
-<h3>(1) Лк. 19:12, - исполнение Слово Божье, воскресение и вознесение Христос, важность понимания Второго пришествия Господа</h3>
-<blockquote><p>Итак сказал: некоторый человек высокого рода отправлялся в дальнюю страну, чтобы получить себе царство и возвратиться;</p><cite>Лк. 19:12</cite></blockquote>
-<h3>(2) Лк. 19:13, - мина (дар Божий, способность к служению Богу), важность исполнения предназначения народа Божьего</h3>
-<blockquote><p>призвав же десять рабов своих, дал им десять мин и сказал им: употребляйте их в оборот, пока я возвращусь.</p><cite>Лк. 19:13</cite></blockquote>
-<h3>(3) Лк. 19:14, - непринятие Слово Божье, Завета, Христос, право выбора человек</h3>
-<blockquote><p>Но граждане ненавидели его и отправили вслед за ним посольство, сказав: не хотим, чтобы он царствовал над нами.</p><cite>Лк. 19:14</cite></blockquote>
-<h3>(4) Лк. 19:15, - Второе пришествие Христа, суд над народом Бог</h3>
-<blockquote><p>И когда возвратился, получив царство, велел призвать к себе рабов тех, которым дал серебро, чтобы узнать, кто что приобрел.</p><cite>Лк. 19:15</cite></blockquote>
-<h3>(5) Лк. 19:16-19, - исполнение предназначения, плоды, Бог награда</h3>
-<blockquote><p>Пришел первый и сказал: господин! мина твоя принесла десять мин. И сказал ему: хорошо, добрый раб! за то, что ты в малом был верен, возьми в управление десять городов. Пришел второй и сказал: господин! мина твоя принесла пять мин. Сказал и этому: и ты будь над пятью городами.</p><cite>Лк. 19:16-19</cite></blockquote>
-<h3>(6) Важность познания и передачи Слово Божье, Завета, Христос, важность исполнение предназначения, понимание вариантов для человек</h3>
-<h4>(а) Лк. 19:20-26, - нет исполнения предназначения, нет плода, осуждение Божье, но спасен как бы из огня (Лот, Саул) 1-е Кор. 3:10-15</h4>
-<blockquote><p>Пришел третий и сказал: господин! вот твоя мина, которую я хранил, завернув в платок, ибо я боялся тебя, потому что ты человек жестокий: берешь, чего не клал, и жнешь, чего не сеял. <em>Господин</em> сказал ему: твоими устами буду судить тебя, лукавый раб! ты знал, что я человек жестокий, беру, чего не клал, и жну, чего не сеял; для чего же ты не отдал серебра моего в оборот, чтобы я, придя, получил его с прибылью? И сказал предстоящим: возьмите у него мину и дайте имеющему десять мин. И сказали ему: господин! у него есть десять мин. Сказываю вам, что всякому имеющему дано будет, а у неимеющего отнимется и то, что имеет;</p><cite>Лк. 19:20-26</cite></blockquote>
-<blockquote><p>Я, по данной мне от Бога благодати, как мудрый строитель, положил основание, а другой строит на <em>нем;</em> но каждый смотри, как строит. Ибо никто не может положить другого основания, кроме положенного, которое есть Иисус Христос. Строит ли кто на этом основании из золота, серебра, драгоценных камней, дерева, сена, соломы, -- каждого дело обнаружится; ибо день покажет, потому что в огне открывается, и огонь испытает дело каждого, каково оно есть. У кого дело, которое он строил, устоит, тот получит награду. А у кого дело сгорит, тот потерпит урон; впрочем сам спасется, но так, как бы из огня.</p><cite>1-е Кор. 3:10-15</cite></blockquote>
-<h4>(б) Мф. 25:24-30, - нет исполнения предназначения, нет плода, осуждение Божье, отпадение от Бога, погибель (народ Израиля). Ос. 4:6,Ин. 15:1-2,Евр. 3:12-14</h4>
-<blockquote><p>Подошел и получивший один талант и сказал: господин! я знал тебя, что ты человек жестокий, жнешь, где не сеял, и собираешь, где не рассыпал, и, убоявшись, пошел и скрыл талант твой в земле; вот тебе твое. Господин же его сказал ему в ответ: лукавый раб и ленивый! ты знал, что я жну, где не сеял, и собираю, где не рассыпал; посему надлежало тебе отдать серебро мое торгующим, и я, придя, получил бы мое с прибылью; итак, возьмите у него талант и дайте имеющему десять талантов, ибо всякому имеющему дастся и приумножится, а у неимеющего отнимется и то, что имеет; а негодного раба выбросьте во тьму внешнюю: там будет плач и скрежет зубов. Сказав сие, возгласил: кто имеет уши слышать, да слышит!</p><cite>Мф. 25:24-30</cite></blockquote>
-<blockquote><p>Истреблен будет народ Мой за недостаток ведения: так как ты отверг ведение, то и Я отвергну тебя от священнодействия предо Мною; и как ты забыл закон Бога твоего то и Я забуду детей твоих.</p><cite>Ос. 4:6</cite></blockquote>
-<blockquote><p>Я есмь истинная виноградная лоза, а Отец Мой -- виноградарь. Всякую у Меня ветвь, не приносящую плода, Он отсекает; и всякую, приносящую плод, очищает, чтобы более принесла плода.</p><cite>Ин. 15:1-2</cite></blockquote>
-<blockquote><p>Смотрите, братия, чтобы не было в ком из вас сердца лукавого и неверного, дабы вам не отступить от Бога живаго. Но наставляйте друг друга каждый день, доколе можно говорить: "ныне", чтобы кто из вас не ожесточился, обольстившись грехом. Ибо мы сделались причастниками Христу, если только начатую жизнь твердо сохраним до конца,</p><cite>Евр. 3:12-14</cite></blockquote>
-<h3>(7) Лк. 19:27, - непринятие Слово Божье, Завета, Христос, вечная погибель. (Враги Божьи, которые не хотят Его царствования)</h3>
-<blockquote><p>врагов же моих тех, которые не хотели, чтобы я царствовал над ними, приведите сюда и избейте предо мною.</p><cite>Лк. 19:27</cite></blockquote>
-<h2>Заключение:</h2>
-<h3>(1) Притчи – понимание Слово Божье, Завета, Христос, Бог суверенитет</h3>
-<h3>(2) Важность понимания смысла жизни и вечности (предназнач.)</h3>
-<h3>(3) Важность правильного понимания и исполнения Слово Божье</h3>
 </main>
 </body>
 </html>

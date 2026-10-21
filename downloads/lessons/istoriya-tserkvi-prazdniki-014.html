@@ -3,200 +3,336 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>1. Понимание Пасхи и Опресноков – начало Пасхальной недели, Пальмовое (Вербное) Воскресенье</title>
+<title>2. Праздник – особенный день акцентирующий внимание человека на определенном событии</title>
 <style>
-:root{--bg:#faf7f2;--fg:#2b2622;--muted:#7a6f66;--accent:#8a4b2a;--card:#fff;--line:#e6ddd2;--quote:#f3ece2}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+:root{color-scheme:light;
+--ink:#2A1C0D;--ink2:#5A4630;--stone:#E6D8BA;--parch:#EBDAB0;--sheet:#FAF3E0;--wood:#6B4426;--frame:#F1E7CE;
+--c:#2F5DA8;--cd:#2F5DA8;--sb:#2F5DA8;--sf:#FFFFFF;--mix:#000;
+--display:"Cormorant SC","Cormorant Garamond",Georgia,serif;--uni:"Cormorant Unicase","Cormorant SC",Georgia,serif;
+--serif:"Alegreya","PT Serif",Georgia,serif;--sans:"Alegreya Sans","Segoe UI",system-ui,sans-serif;
+--canon:linear-gradient(90deg,#2F5DA8 0 10%,#D8951A 10% 20%,#C2366B 20% 30%,#1F8A5B 30% 40%,#138F8F 40% 50%,#E0562C 50% 60%,#E8801E 60% 70%,#2F8FCF 70% 80%,#6C4BB6 80% 90%,#8E3B8A 90%);
+--noise:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .30 0 0 0 0 .21 0 0 0 0 .10 0 0 0 .22 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+--weave:repeating-linear-gradient(90deg,rgba(255,255,255,.11) 0 2px,rgba(0,0,0,.07) 2px 4px);
+--cdd:color-mix(in srgb,var(--cd) 55%,var(--ink));
+--px:2.4rem;--py:2.2rem}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.6 Georgia,"PT Serif","Times New Roman",serif}
-a{color:var(--accent)}
-header.top{position:sticky;top:0;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:1rem;
-padding:.6rem 1.25rem;background:var(--card);border-bottom:1px solid var(--line);font:15px/1.4 system-ui,sans-serif}
-.crumbs a{text-decoration:none}
-main{max-width:46rem;margin:0 auto;padding:1.5rem 1.25rem 7rem}
-main.wide{max-width:64rem}
-h1{font-size:1.6rem;line-height:1.25;margin:.5rem 0 1rem}
-h2{font-size:1.3rem;line-height:1.3;margin:1.8rem 0 .6rem}
-h3{font-size:1.12rem;line-height:1.35;margin:1.4rem 0 .5rem}
-h4{font-size:1rem;line-height:1.4;margin:1.1rem 0 .4rem}
-ul{padding-left:1.25rem}
-li{margin:.2rem 0}
-blockquote{margin:.6rem 0 1rem;padding:.7rem 1rem;background:var(--quote);border-left:3px solid var(--accent);
-border-radius:0 6px 6px 0;font-size:.95em}
+html{scroll-padding-top:4.5rem;overflow-x:clip}
+body{margin:0;overflow-x:clip;color:var(--ink);font:400 1.2rem/1.65 var(--serif);-webkit-font-smoothing:antialiased;min-height:100vh;
+background:#2B190C url(img/shelves.svg) 50% 0/520px 960px repeat}
+/* Свет и глубина над стеллажами: утренний луч слева сверху, виньетка по краям; на внутренних страницах темнее. */
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+background:linear-gradient(115deg,rgba(255,226,160,.5),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 45%,rgba(20,10,4,.6) 100%),rgba(30,18,8,.12)}
+body:not(.home)::before{background:linear-gradient(115deg,rgba(255,226,160,.28),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 40%,rgba(20,10,4,.55) 100%),rgba(30,18,8,.5)}
+a{color:var(--cdd)}
+.sprite{position:absolute;width:0;height:0;overflow:hidden}
+.skip{position:absolute;left:-999px;top:0;z-index:40;padding:.7rem 1.1rem;background:var(--ink);color:#fff;font:700 1rem var(--sans)}
+.skip:focus{left:.5rem;top:.5rem}
+a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible{outline:3px solid var(--ink);outline-offset:3px;border-radius:6px}
+
+/* Шапка: полоса цветов канона, на страницах книги - цвет её раздела. */
+header.top{position:sticky;top:0;z-index:30;background:rgba(247,239,218,.95);backdrop-filter:blur(6px);border-bottom:1px solid #BFA97E;box-shadow:0 .4rem .8rem -.5rem rgba(50,30,10,.45);font:700 1.02rem/1.4 var(--sans)}
+header.top::before{content:"";display:block;height:4px;background:var(--canon)}
+body[style] header.top::before{background:var(--c)}
+header.top .bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;max-width:44rem;margin:0 auto;padding:0 1.25rem}
+header.top.wide .bar{max-width:68rem}
+.crumbs{min-width:0;color:var(--ink2)}
+.crumbs a{display:inline-flex;align-items:center;min-height:44px;padding:0 .3rem;color:var(--ink);text-decoration:none}
+.crumbs a:hover{color:var(--cdd);text-decoration:underline;text-underline-offset:.25em}
+
+main{max-width:44rem;margin:0 auto;padding:2rem 1.25rem 7rem}
+main.wide{max-width:68rem;position:relative;margin:0 auto;padding:2rem 2.4rem 7rem;
+background:var(--noise),linear-gradient(90deg,rgba(60,38,16,.18),rgba(60,38,16,0) 6%,rgba(60,38,16,0) 94%,rgba(60,38,16,.18)),var(--stone);
+border-inline:1.1rem solid #A98B5E;
+box-shadow:inset .5rem 0 .8rem -.3rem rgba(50,30,10,.45),inset -.5rem 0 .8rem -.3rem rgba(50,30,10,.45),0 0 3rem 1rem rgba(15,8,3,.7)}
+.muted{color:var(--ink2)}
+
+/* Страница урока - лист пергамента на каменной стене; под текстом нет фактуры. */
+main:not(.wide){position:relative;margin:1.6rem auto 6rem;padding:var(--py) var(--px) 2.6rem;background:var(--sheet);border-radius:.3rem;
+box-shadow:inset 0 0 0 1px rgba(150,115,60,.4),inset 0 0 2.4rem rgba(150,115,60,.2),0 1.4rem 2.4rem -1rem rgba(40,25,10,.65)}
+main:not(.wide)::before{content:"";display:block;height:.55rem;margin:calc(var(--py) * -1) calc(var(--px) * -1) 1.6rem;border-radius:.3rem .3rem 0 0;background:var(--weave),var(--sb)}
+h1{font:700 clamp(1.8rem,3.4vw,2.4rem)/1.15 var(--display);letter-spacing:.015em;margin:.4rem 0 1.2rem}
+h2{font:700 1.6rem/1.25 var(--display);letter-spacing:.015em;margin:2.6rem 0 .8rem}
+h2::before{content:"";display:inline-block;width:.5em;height:.5em;margin:0 .55em .12em 0;background:var(--sb);border-radius:2px;transform:rotate(45deg)}
+h3{font:700 1.16rem/1.45 var(--serif);margin:1.6rem 0 .5rem}
+h4{font:italic 600 1.1rem/1.4 var(--serif);margin:1.2rem 0 .4rem}
+ul{padding-left:1.3rem}
+li{margin:.25rem 0}
+li::marker{color:var(--sb)}
+blockquote{margin:.9rem 0 1.3rem;padding:.9rem 1.2rem 1rem;background:#FFFBEC;border:1px solid #E2D2A8;border-left:.32rem solid var(--sb);border-radius:.2rem;box-shadow:0 .2rem 0 #E6D8B4,0 .7rem 1rem -.7rem rgba(60,40,15,.5);font-size:1.08rem}
 blockquote p{margin:0}
-blockquote cite{display:block;margin-top:.3rem;font:normal .8em/1.4 system-ui,sans-serif;color:var(--muted)}
-.muted{color:var(--muted)}
-.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(11rem,1fr));gap:.6rem;list-style:none;padding:0;margin:0 0 1rem}
-.tiles.wide{grid-template-columns:repeat(auto-fill,minmax(15rem,1fr))}
+blockquote cite{display:block;margin-top:.4rem;font:700 .92rem/1.4 var(--sans);font-style:normal;color:var(--cdd)}
+
+/* Главная: зал. Утренний свет из окна, лампады, ниши со свитками. */
+.hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.lead{max-width:34rem;margin:0;font:400 1.25rem/1.5 var(--serif);color:var(--ink)}
+.scene{position:relative;width:17rem;height:19rem;justify-self:end}
+.window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
+background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
+box-shadow:0 0 0 .55rem var(--frame),0 0 0 .7rem #B9A57D,inset 0 1.2rem 1.6rem -.4rem rgba(40,25,10,.55),inset 1rem 0 1.2rem -.8rem rgba(40,25,10,.4)}
+.window::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent calc(50% - .2rem),#4A2D18 calc(50% - .2rem) calc(50% + .2rem),transparent calc(50% + .2rem)),linear-gradient(180deg,transparent 50%,#4A2D18 50% calc(50% + .4rem),transparent calc(50% + .4rem))}
+.sill{position:absolute;left:0;right:0;bottom:0;height:1.2rem;border-radius:.25rem .25rem .5rem .5rem;background:linear-gradient(180deg,#F6EDD3,#D6C5A0 55%,#B9A57D);box-shadow:0 .7rem .9rem -.4rem rgba(40,25,10,.55)}
+.sill>*{position:absolute;bottom:100%;margin-bottom:-.2rem}
+.sill img{display:block;width:100%;height:auto;filter:drop-shadow(.3rem .35rem .25rem rgba(40,25,10,.45))}
+.jar{left:1.2rem;width:3.1rem}
+.lamp{left:4.9rem;width:6.2rem}
+.ink{left:11.7rem;width:3.4rem}
+.glow{position:absolute;left:88%;top:66%;width:15rem;height:15rem;transform:translate(-50%,-50%);border-radius:50%;pointer-events:none;
+background:radial-gradient(circle,rgba(255,196,96,.62),rgba(255,160,60,.2) 38%,rgba(255,150,50,0) 68%);animation:glow 3.4s ease-in-out infinite}
+.flame{position:absolute;left:88.5%;top:67%;width:.75rem;height:1.35rem;transform:translate(-50%,-92%);transform-origin:50% 100%;border-radius:50% 50% 50% 50%/70% 70% 30% 30%;
+background:radial-gradient(ellipse at 50% 72%,#FFF8D0 0 18%,#FFD060 42%,#FF9A2A 72%,rgba(255,110,20,0) 100%);filter:blur(.4px);animation:flicker 2.7s ease-in-out infinite}
+.reed{position:absolute;left:46%;top:24%;width:.28rem;height:6.4rem;transform:translate(-50%,-100%) rotate(17deg);transform-origin:50% 100%;
+background:linear-gradient(90deg,#6E4F1E,#D9B866 45%,#8A6428);clip-path:polygon(0 0,100% 0,100% 94%,50% 100%,0 94%)}
+.rays{position:absolute;right:7rem;top:3rem;width:1px;height:1px;pointer-events:none;z-index:2}
+.rays i{position:absolute;top:0;right:0;width:8rem;height:48rem;transform-origin:100% 0;transform:rotate(var(--a));filter:blur(8px);mix-blend-mode:soft-light;
+background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
+.rays i:nth-child(1){--a:-40deg}
+.rays i:nth-child(2){--a:-54deg;width:5rem}
+.rays i:nth-child(3){--a:-68deg;width:10rem}
+@keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
+@keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
+.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
+.wall-lamp .lamp{position:relative;left:auto;width:100%}
+.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
+.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
+.jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
+.jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
+background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.jump a{display:inline-flex;align-items:center;min-height:44px;padding:0 1.2rem;text-decoration:none}
+.jump a:hover{background-color:#F6E9C2}
+.search{display:block;width:100%;max-width:34rem;margin:.4rem 0 1.2rem;padding:.75rem 1.1rem;font-weight:400}
+.search::placeholder{color:var(--ink2);opacity:1}
+.search:focus{border-color:var(--ink)}
+.testament{position:relative;display:flex;flex-direction:column;gap:2.4rem;margin:3rem 0 0}
+.testament>h2{display:flex;align-items:center;gap:1rem;margin:0;font:700 clamp(2rem,3.6vw,2.7rem)/1.1 var(--display);letter-spacing:.02em}
+.testament>h2::before{display:none}
+.testament>h2::after{content:"";flex:1;height:.4rem;border-top:2px solid var(--wood);border-bottom:1px solid var(--wood);opacity:.6}
+main section[hidden],.scrolls li[hidden],.tiles li[hidden]{display:none}
+
+/* Ниша раздела: драпировка цвета раздела, внутри на досках лежат свитки. */
+.group{position:relative;overflow:hidden;min-width:0;border:.55rem solid var(--frame);border-radius:1.6rem 1.6rem .3rem .3rem;
+background:linear-gradient(180deg,rgba(40,24,10,0),rgba(40,24,10,.14)),var(--noise),color-mix(in srgb,var(--c) 7%,#CDBB93);
+box-shadow:0 0 0 1px #B9A57D,inset 0 1.1rem 1.6rem -.5rem rgba(35,20,8,.55),inset 1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),inset -1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),0 .7rem 1.1rem -.5rem rgba(50,30,10,.5)}
+.group>h3{position:relative;z-index:3;display:flex;align-items:center;gap:.7rem;margin:0;padding:.65rem 1.3rem .6rem;background:var(--weave),var(--sb);color:var(--sf);font:700 1.45rem/1.15 var(--display);letter-spacing:.02em;filter:drop-shadow(0 .35rem .3rem rgba(25,12,0,.45))}
+.group>h3::after,.book-head::after{content:"";position:absolute;left:0;right:0;top:100%;height:.62rem;background:radial-gradient(circle at 50% 0,var(--sb) 0 .5rem,transparent .52rem) 0 0/1.1rem .62rem repeat-x}
+.emblem{width:1.9rem;height:1.9rem;flex:none;color:var(--sf)}
+
+/* Свиток: пергамент на двух деревянных валиках, на шипах - ленточка цвета раздела, справа - печать с числом уроков. */
+.scrolls{--h:3.4rem;--board:.62rem;display:flex;flex-wrap:wrap;align-items:flex-start;column-gap:1.3rem;row-gap:var(--board);list-style:none;margin:0;padding:1.5rem 1.2rem var(--board);
+background:repeating-linear-gradient(180deg,transparent 0 var(--h),#2C1A0C var(--h) calc(var(--h) + 1px),#8A5A32 calc(var(--h) + 1px) calc(var(--h) + 3px),#6B4426 calc(var(--h) + 3px) calc(var(--h) + var(--board))) 0 0/100% calc(100% + var(--board)) no-repeat;
+background-origin:content-box;background-clip:padding-box}
+.scrolls li{position:relative;height:var(--h);margin:0;padding:0 .95rem;max-width:100%;transition:transform .18s ease;animation:rise .45s ease backwards;animation-delay:calc(var(--i) * 12ms);filter:drop-shadow(0 .18rem .12rem rgba(20,10,0,.4))}
+.scrolls li::before,.scrolls li::after{content:"";position:absolute;top:0;bottom:0;width:.95rem;
+background:radial-gradient(circle at 50% .45rem,#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) top/100% .95rem no-repeat,
+radial-gradient(circle at 50% calc(100% - .45rem),#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) bottom/100% .95rem no-repeat,
+linear-gradient(var(--sb),var(--sb)) 50% 1rem/.56rem .3rem no-repeat,
+linear-gradient(90deg,#3F2614,#B07C48 35%,#7A4E2B 65%,#3F2614) center/.42rem 100% no-repeat}
+.scrolls li::before{left:0}
+.scrolls li::after{right:0}
+.scrolls a,.scrolls li.empty>span{display:flex;align-items:center;gap:.7rem;height:calc(var(--h) - 1rem);margin:.5rem 0;padding:0 .8rem 0 1.25rem;white-space:nowrap;font:700 1.14rem/1 var(--display);letter-spacing:.015em}
+.scrolls a{position:relative;z-index:1;color:var(--ink);text-decoration:none;animation:unroll .4s cubic-bezier(.3,.7,.3,1) backwards;animation-delay:calc(var(--i) * 12ms + 80ms);
+background:linear-gradient(180deg,rgba(104,66,22,.36),rgba(104,66,22,0) 20%,rgba(104,66,22,0) 78%,rgba(104,66,22,.44)),linear-gradient(rgba(255,248,226,.5),rgba(255,248,226,.5)),url(img/parchment.webp) #EBD8A8;
+box-shadow:inset 0 0 .7rem rgba(120,80,25,.4)}
+.scrolls a::before,.scrolls a::after{content:"";position:absolute;top:0;bottom:0;width:1.15rem;border-radius:.5rem;
+background:repeating-linear-gradient(90deg,rgba(90,60,20,.2) 0 1px,transparent 1px 3px),linear-gradient(90deg,#8E6D3A 0,#E8D3A0 30%,#F5E8C4 50%,#D8BF86 76%,#7F5F2E 100%);box-shadow:0 0 .35rem rgba(60,35,10,.5)}
+.scrolls a::before{left:-.62rem}
+.scrolls a::after{right:-.62rem}
+.scrolls li:hover,.scrolls li:has(a:focus-visible){transform:translateY(-.22rem)}
+.scrolls a:focus-visible{outline-offset:.6rem}
+.scrolls .count{position:relative;z-index:2;display:grid;place-items:center;min-width:1.85rem;height:1.85rem;padding:0 .3rem;border-radius:52% 48% 55% 45%/48% 55% 45% 52%;
+background:radial-gradient(circle at 35% 30%,var(--sb),color-mix(in srgb,var(--sb) 72%,#000));color:var(--sf);font:700 .9rem/1 var(--sans);letter-spacing:0;box-shadow:inset 0 1px 1px rgba(255,255,255,.4),0 .1rem .2rem rgba(0,0,0,.4)}
+.scrolls li.empty{padding:0 .3rem}
+.scrolls li.empty::before,.scrolls li.empty::after{display:none}
+.scrolls li.empty>span{border:1.5px dashed rgba(63,38,20,.65);border-radius:.4rem;color:var(--ink2);background:rgba(255,248,230,.22)}
+@keyframes unroll{from{clip-path:inset(0 50%)}to{clip-path:inset(0 0)}}
+@keyframes rise{from{opacity:0;transform:translateY(.6rem)}to{opacity:1;transform:none}}
+
+/* Страница книги: драпировка с названием и бирки уроков. */
+.book-head{position:relative;display:flex;align-items:center;gap:1.3rem;margin:0 0 2.2rem;padding:1.4rem 1.7rem;border-radius:.4rem .4rem 0 0;background:var(--weave),var(--sb);color:var(--sf);filter:drop-shadow(0 .45rem .35rem rgba(25,12,0,.4))}
+.book-head .emblem{width:4.2rem;height:4.2rem}
+.book-head h1{margin:0;color:var(--sf);font:700 clamp(2rem,4.4vw,3.1rem)/1.05 var(--display)}
+.meta{margin:.35rem 0 0;font:700 1.05rem/1.4 var(--sans);color:var(--sf)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));gap:.9rem;list-style:none;padding:0;margin:0 0 1rem}
 .tiles li{margin:0}
-.tiles a,.tiles li.empty{display:flex;align-items:center;justify-content:space-between;gap:.6rem;height:100%;min-height:4.5rem;
-padding:.8rem 1rem;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--fg);
-font:600 16px/1.35 system-ui,sans-serif}
-.tiles a{text-decoration:none;box-shadow:0 1px 2px rgba(0,0,0,.04);transition:border-color .15s,box-shadow .15s,transform .05s}
-.tiles a:hover{border-color:var(--accent);box-shadow:0 4px 14px rgba(0,0,0,.08)}
-.tiles a:active{transform:translateY(1px)}
-.tiles a>span:first-child,.tiles li.empty>span{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
-.tiles .count{color:var(--accent);font-size:.9em}
-.tiles li.empty{color:var(--muted);opacity:.55}
-.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;padding:.55rem 1.1rem;
-border:1px solid var(--accent);border-radius:10px;background:var(--card);color:var(--accent);font:600 15px/1.3 system-ui,sans-serif;
-text-decoration:none;cursor:pointer;box-shadow:0 1px 0 rgba(0,0,0,.06);transition:background .15s,color .15s,transform .05s}
-.btn:hover,details.download summary:hover{background:var(--accent);color:#fff}
-.btn:active,details.download summary:active{transform:translateY(1px)}
-.btn.primary{background:var(--accent);color:#fff}
-.btn.primary:hover{background:#6f3a20}
-.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3rem}
-.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;text-align:left}
+.tiles a{display:flex;align-items:center;height:100%;min-height:4.6rem;padding:.85rem 1rem .85rem 1.2rem;border-left:.5rem solid var(--sb);border-radius:.35rem;color:var(--ink);font:700 1.1rem/1.3 var(--serif);text-decoration:none;
+background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),url(img/parchment.webp) var(--parch);box-shadow:inset 0 0 .7rem rgba(120,85,35,.28),0 .15rem 0 #B9A276,0 .6rem .9rem -.5rem rgba(60,40,15,.55);transition:transform .15s}
+.tiles a:hover{transform:translateY(-.15rem)}
+.tiles .chapters{display:block;margin-top:.3rem;color:var(--cdd);font:700 .95rem/1.3 var(--sans)}
+
+/* Урок: содержание, кнопки. */
+.toc{margin:0 0 1.4rem;padding:.2rem 1.1rem;border:1px solid #D9C89E;border-radius:.3rem;background:#FFFBEC;font:400 1.02rem/1.5 var(--sans)}
+.toc summary{display:flex;align-items:center;min-height:44px;cursor:pointer;font-weight:700}
+.toc ol{margin:.3rem 0 .7rem;padding-left:1.4rem}
+.toc li::marker{color:var(--cdd);font-weight:700}
+.toc a{color:var(--ink);text-decoration:none}
+.toc a:hover{color:var(--cdd);text-decoration:underline}
+.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
+background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.btn:hover,details.download summary:hover{background-color:#F6E9C2}
+.btn.primary{background:var(--weave),var(--sb);border-color:color-mix(in srgb,var(--sb) 60%,#000);color:var(--sf)}
+.btn.primary:hover{background:var(--weave),color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3.5rem}
+.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;padding:.8rem 1rem;text-align:left}
 .pager .pager-next{align-items:flex-end;text-align:right}
 .pager .pager-section{align-items:center;justify-content:center;text-align:center}
-.pager .dir{font-size:.8em;font-weight:500;opacity:.85}
-.pager .name{font-weight:600}
-.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;
-pointer-events:none;z-index:5}
-.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;
-border-radius:50%;background:var(--accent);color:#fff;font:700 1.4rem/1 system-ui,sans-serif;text-decoration:none;
-cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.25);opacity:.92}
-.fab:hover{opacity:1;background:#6f3a20}
-.fab.next{margin-left:auto}
-.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);
-transition:opacity .2s,transform .2s,visibility .2s}
-.fab.top.visible{opacity:.92;visibility:visible;transform:none}
-@media(max-width:640px){.pager{grid-template-columns:1fr}.pager>span{display:none}
-.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}}
+.pager .dir{font-size:.9rem;font-weight:700}
+.pager .name{font:700 1.05rem/1.3 var(--serif);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
 details.download{position:relative}
-details.download summary{list-style:none;padding:.4rem 1rem}
+details.download summary{list-style:none}
 details.download summary::-webkit-details-marker{display:none}
-details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;
-padding:.3rem;background:var(--card);border:1px solid var(--line);border-radius:8px;box-shadow:0 6px 20px rgba(0,0,0,.08)}
-details.download .menu a{padding:.45rem .7rem;border-radius:6px;text-decoration:none;color:var(--fg)}
-details.download .menu a:hover{background:var(--quote)}
-@media print{header.top,.pager,.float{display:none}}
+details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;padding:.3rem;background:var(--sheet);border:1px solid #BFA97E;border-radius:.3rem;box-shadow:0 12px 28px -12px rgba(40,25,10,.55)}
+details.download .menu a{display:flex;align-items:center;min-height:44px;padding:.45rem .8rem;border-radius:.2rem;color:var(--ink);text-decoration:none}
+details.download .menu a:hover{background:#F0E3BE}
+
+/* Плавающие кнопки. */
+.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;pointer-events:none;z-index:25}
+.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;border-radius:50%;background:var(--sb);color:var(--sf);font:700 1.3rem/1 var(--sans);text-decoration:none;cursor:pointer;box-shadow:inset 0 1px 1px rgba(255,255,255,.35),0 8px 20px -6px rgba(40,25,10,.6)}
+.fab:hover{background:color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.fab.next{margin-left:auto}
+.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .2s,transform .2s,visibility .2s;pointer-events:auto;z-index:25}
+.fab.top.visible{opacity:1;visibility:visible;transform:none}
+.credits{max-width:68rem;margin:0 auto;padding:1.2rem 2.4rem 1.5rem;font:400 .95rem/1.5 var(--sans);color:var(--ink);background:var(--stone);border-inline:1.1rem solid #A98B5E}
+@media(max-width:1180px){.credits{padding-inline:1.25rem;border-inline-width:.5rem}}
+
+/* Скачанный документ без декора. */
+body.plain{background:#fff}
+body.plain::before{display:none}
+body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
+body.plain main::before{display:none}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+@media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
+@media(max-width:640px){
+body{font-size:1.12rem}
+:root{--px:1.1rem;--py:1.4rem}
+main:not(.wide){margin:0 auto 5rem;border-radius:0}
+.pager{grid-template-columns:1fr}.pager>span{display:none}
+.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}
+.fab{width:2.75rem;height:2.75rem}.fab.prev,.fab.next{display:none}.fab.top{bottom:1rem;right:.5rem}
+.testament{gap:2rem}
+.group{border-width:.4rem;border-radius:1.2rem 1.2rem .25rem .25rem}
+.group>h3{padding:.55rem 1rem .5rem;font-size:1.3rem}
+.scrolls{--h:3.9rem;column-gap:.8rem;padding:1.4rem .55rem var(--board)}
+.scrolls li{padding:0 .8rem}
+.scrolls li::before,.scrolls li::after{width:.8rem}
+.scrolls a,.scrolls li.empty>span{gap:.5rem;padding:0 .55rem 0 1rem;font-size:1rem}
+.scrolls a::before,.scrolls a::after{width:1rem}
+.scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
+.scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
+.book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
+@media(max-height:500px){header.top{position:static}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+@media print{body{background:#fff}body::before{display:none}header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
-<body>
+<body class="plain">
 <main>
-<h1>1. Понимание Пасхи и Опресноков – начало Пасхальной недели, Пальмовое (Вербное) Воскресенье</h1>
+<h1>2. Праздник – особенный день акцентирующий внимание человека на определенном событии</h1>
 <ul>
-<li>Праздник – особенный день акцентирующий внимание человека на определенном событии</li>
-<li>Пасха (Песах) – избавление от беды (прохождение мимо)</li>
+<li>Рождество – рождение Иисуса Христа в подобии плоти греховной для спасения рода человеческого</li>
 </ul>
-<h2>1) Правильное понимание Пасхи и Опресноков – понимание Сотворения, Грехопадения и Восстановления</h2>
-<h3>(1) Быт. 1:27,2:7,9,16-17, - истинная свобода, Эммануил</h3>
+<h2 id="s1">1) Важность понимания рождения Иисуса Христа как Единородного Сына Божия прежде всех веков, как Единственного Посредника между Богом и творением Божьим. Кол. 1:15-16, - 1-е Тим. 2:5</h2>
+<blockquote><p>Который есть образ Бога невидимого, рожденный прежде всякой твари; ибо Им создано все, что на небесах и что на земле, видимое и невидимое: престолы ли, господства ли, начальства ли, власти ли, -- все Им и для Него создано;</p><cite>Кол. 1:15-16</cite></blockquote>
+<blockquote><p>Ибо един Бог, един и посредник между Богом и человеками, человек Христос Иисус,</p><cite>1-е Тим. 2:5</cite></blockquote>
+<h3>(1) Вера в Триединного Бога, это вера в Единого Бога в числовом измерении, в котором существует три вечных различия – Бог Отец, Бог Слово, Бог Святой Дух, Всемогущий, Всезнающий, Вездесущий Абсолют Божий. (Три вечных различия в существе человека – дух, душа и тело) 1-е Ин. 5:7,Ин. 4:24, - Ин. 1:18,1-е Ин. 4:12,1-е Тим. 6:16</h3>
+<blockquote><p>Ибо три свидетельствуют на небе: Отец, Слово и Святый Дух; и Сии три суть едино.</p><cite>1-е Ин. 5:7</cite></blockquote>
+<blockquote><p>Бог есть дух, и поклоняющиеся Ему должны поклоняться в духе и истине.</p><cite>Ин. 4:24</cite></blockquote>
+<blockquote><p>Бога не видел никто никогда; Единородный Сын, сущий в недре Отчем, Он явил.</p><cite>Ин. 1:18</cite></blockquote>
+<blockquote><p>Бога никто никогда не видел. Если мы любим друг друга, то Бог в нас пребывает, и любовь Его совершенна есть в нас.</p><cite>1-е Ин. 4:12</cite></blockquote>
+<blockquote><p>единый имеющий бессмертие, Который обитает в неприступном свете, Которого никто из человеков не видел и видеть не может. Ему честь и держава вечная! Аминь.</p><cite>1-е Тим. 6:16</cite></blockquote>
+<h3>(2) Иисус Христос – Единородный Сын Божий, Божественная и человеческая природа нераздельно соединены в одной Личности без преобразования или смешения (видимый образ Святого и Триединого Бога, полнота Божества телесно – возможность видеть и понимать Святого и Истинного Бога, Единственный Посредник между Богом и творением Божьим)</h3>
+<h4>(а) Человеческая природа Христа – человеческий дух, душа и прославленное человеческое тело (неограничные возможности)</h4>
+<h4>(б) Божественная природа Христа – Святой, Триединный Бог, функциональный приоритет действия – Бог Слово. (Приоритет Божественной природы над человек – Бог во плоти) Ин. 1:1,14,18,Кол. 1:15-16,2:9, - Еф. 3:9,Евр. 1:1-3. (Быт. 3:8,18:1-2,32:28,Исх. 24:9-11,33:11,Дан. 3:25)</h4>
+<blockquote><p>В начале было Слово, и Слово было у Бога, и Слово было Бог.</p><cite>Ин. 1:1</cite></blockquote>
+<blockquote><p>И Слово стало плотию, и обитало с нами, полное благодати и истины; и мы видели славу Его, славу, как Единородного от Отца.</p><cite>Ин. 1:14</cite></blockquote>
+<blockquote><p>Бога не видел никто никогда; Единородный Сын, сущий в недре Отчем, Он явил.</p><cite>Ин. 1:18</cite></blockquote>
+<blockquote><p>Который есть образ Бога невидимого, рожденный прежде всякой твари; ибо Им создано все, что на небесах и что на земле, видимое и невидимое: престолы ли, господства ли, начальства ли, власти ли, -- все Им и для Него создано;</p><cite>Кол. 1:15-16</cite></blockquote>
+<blockquote><p>ибо в Нем обитает вся полнота Божества телесно,</p><cite>Кол. 2:9</cite></blockquote>
+<blockquote><p>и открыть всем, в чем состоит домостроительство тайны, сокрывавшейся от вечности в Боге, создавшем все Иисусом Христом,</p><cite>Еф. 3:9</cite></blockquote>
+<blockquote><p>Бог, многократно и многообразно говоривший издревле отцам в пророках, в последние дни сии говорил нам в Сыне, Которого поставил наследником всего, чрез Которого и веки сотворил. Сей, будучи сияние славы и образ ипостаси Его и держа все словом силы Своей, совершив Собою очищение грехов наших, воссел одесную (престола) величия на высоте,</p><cite>Евр. 1:1-3</cite></blockquote>
+<blockquote><p>И услышали голос Господа Бога, ходящего в раю во время прохлады дня; и скрылся Адам и жена его от лица Господа Бога между деревьями рая.</p><cite>Быт. 3:8</cite></blockquote>
+<blockquote><p>И явился ему Господь у дубравы Мамре, когда он сидел при входе в шатер , во время зноя дневного. Он возвел очи свои и взглянул, и вот, три мужа стоят против него. Увидев, он побежал навстречу им от входа в шатер и поклонился до земли,</p><cite>Быт. 18:1-2</cite></blockquote>
+<blockquote><p>И сказал : отныне имя тебе будет не Иаков, а Израиль, ибо ты боролся с Богом, и человеков одолевать будешь.</p><cite>Быт. 32:28</cite></blockquote>
+<blockquote><p>Потом взошел Моисей и Аарон, Надав и Авиуд и семьдесят из старейшин Израилевых,  и видели Бога Израилева; и под ногами Его нечто подобное работе из чистого сапфира и, как самое небо, ясное.  И Он не простер руки Своей на избранных из сынов Израилевых: они видели Бога, и ели и пили.</p><cite>Исх. 24:9-11</cite></blockquote>
+<blockquote><p>И говорил Господь с Моисеем лицем к лицу, как бы говорил кто с другом своим; и он возвращался в стан; а служитель его Иисус, сын Навин, юноша, не отлучался от скинии.</p><cite>Исх. 33:11</cite></blockquote>
+<blockquote><p>И став Азария молился и, открыв уста свои среди огня, возгласил:</p><cite>Дан. 3:25</cite></blockquote>
+<h2 id="s2">2) Важность понимания рождения Иисуса Христа в подобии плоти греховной для спасения рода человеческого (Рождество Христово) Быт. 1:27,2:7,17 (Быт. 3:1-7, - Рим. 5:12,6:23,Еф. 2:2), - Быт. 3:15,21</h2>
 <blockquote><p>И сотворил Бог человека по образу Своему, по образу Божию сотворил его; мужчину и женщину сотворил их.</p><cite>Быт. 1:27</cite></blockquote>
 <blockquote><p>И создал Господь Бог человека из праха земного, и вдунул в лице его дыхание жизни, и стал человек душею живою.</p><cite>Быт. 2:7</cite></blockquote>
-<blockquote><p>И произрастил Господь Бог из земли всякое дерево, приятное на вид и хорошее для пищи, и дерево жизни посреди рая, и дерево познания добра и зла.</p><cite>Быт. 2:9</cite></blockquote>
-<blockquote><p>И заповедал Господь Бог человеку, говоря: от всякого дерева в саду ты будешь есть, а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:16-17</cite></blockquote>
-<h3>(2) Быт. 3:1-7 (Рим. 5:12,6:23,Еф. 2:2), - грех прародителей, отказ от Слово Божье, Завета, Христос, духовное рабство человечества (власть греха, смерти и ада, сатана)</h3>
+<blockquote><p>а от дерева познания добра и зла не ешь от него, ибо в день, в который ты вкусишь от него, смертью умрешь.</p><cite>Быт. 2:17</cite></blockquote>
 <blockquote><p>Змей был хитрее всех зверей полевых, которых создал Господь Бог. И сказал змей жене: подлинно ли сказал Бог: не ешьте ни от какого дерева в раю? И сказала жена змею: плоды с дерев мы можем есть, только плодов дерева, которое среди рая, сказал Бог, не ешьте их и не прикасайтесь к ним, чтобы вам не умереть. И сказал змей жене: нет, не умрете, но знает Бог, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как боги, знающие добро и зло. И увидела жена, что дерево хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что дает знание; и взяла плодов его и ела; и дала также мужу своему, и он ел. И открылись глаза у них обоих, и узнали они, что наги, и сшили смоковные листья, и сделали себе опоясания.</p><cite>Быт. 3:1-7</cite></blockquote>
 <blockquote><p>Посему, как одним человеком грех вошел в мир, и грехом смерть, так и смерть перешла во всех человеков, <em>потому</em> <em>что</em> в нем все согрешили.</p><cite>Рим. 5:12</cite></blockquote>
 <blockquote><p>Ибо возмездие за грех -- смерть, а дар Божий -- жизнь вечная во Христе Иисусе, Господе нашем.</p><cite>Рим. 6:23</cite></blockquote>
 <blockquote><p>в которых вы некогда жили, по обычаю мира сего, по <em>воле</em> князя, господствующего в воздухе, духа, действующего ныне в сынах противления,</p><cite>Еф. 2:2</cite></blockquote>
-<h3>(3) Быт. 3:15,21, - Рождество и Пасха, Божий метод решения проблемы духовного рабства, важность истинной свободы, Эммануил. Ин. 8:36, - Рим. 8:2,2-е Кор. 3:17</h3>
 <blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
 <blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<blockquote><p>Итак, если Сын освободит вас, то истинно свободны будете.</p><cite>Ин. 8:36</cite></blockquote>
-<blockquote><p>потому что закон духа жизни во Христе Иисусе освободил меня от закона греха и смерти.</p><cite>Рим. 8:2</cite></blockquote>
-<blockquote><p>Господь есть Дух; а где Дух Господень, там свобода.</p><cite>2-е Кор. 3:17</cite></blockquote>
-<h4>(а) Первые люди узнавшие о Рождестве и Пасхе – Адам и Ева</h4>
-<h4>(б) Вера Божья в В.З. – ожидание Рождества и Пасхи, Грядущий Христос и Его Жертва, решение всех проблем человека Быт. 3:15,21 (Адам), - Быт. 4:1-6 (Авель), - Быт. 8:20 (Ной), -Быт. 22:2 (2-е Пар. 3:1), Гал. 3:16-17 (Авраам), - Быт. 49:10 (Иаков), Втор. 18:18 (Моисей), - Пс. 2:11-12,109:1 (Давид), - Ис. 9:6,53:4-7 (пророк Исаия), - Дан. 9:25-26 (пророк Даниил), - Дн. 26:4-7, -1-е Пет. 1:10-11,Дн. 10:43, - Мф. 16:16,Ин. 1:29,19:30, - 1-е Кор. 5:7</h4>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<blockquote><p>Адам познал Еву, жену свою; и она зачала, и родила Каина, и сказала: приобрела я человека от Господа. И еще родила брата его, Авеля. И был Авель пастырь овец, а Каин был земледелец. Спустя несколько времени, Каин принес от плодов земли дар Господу, и Авель также принес от первородных стада своего и от тука их. И призрел Господь на Авеля и на дар его, а на Каина и на дар его не призрел. Каин сильно огорчился, и поникло лице его. И сказал Господь Каину: почему ты огорчился? и отчего поникло лице твое?</p><cite>Быт. 4:1-6</cite></blockquote>
-<blockquote><p>И устроил Ной жертвенник Господу; и взял из всякого скота чистого и из всех птиц чистых и принес во всесожжение на жертвеннике.</p><cite>Быт. 8:20</cite></blockquote>
-<blockquote><p><em>Бог</em> сказал: возьми сына твоего, единственного твоего, которого ты любишь, Исаака; и пойди в землю Мориа и там принеси его во всесожжение на одной из гор, о которой Я скажу тебе.</p><cite>Быт. 22:2</cite></blockquote>
-<blockquote><p>И начал Соломон строить дом Господень в Иерусалиме на горе Мориа, которая указана была Давиду, отцу его, на месте, которое приготовил Давид, на гумне Орны Иевусеянина.</p><cite>2-е Пар. 3:1</cite></blockquote>
-<blockquote><p>Но Аврааму даны были обетования и семени его. Не сказано: и потомкам, как бы о многих, но как об одном: и семени твоему, которое есть Христос. Я говорю то, что завета о Христе, прежде Богом утвержденного, закон, явившийся спустя четыреста тридцать лет, не отменяет так, чтобы обетование потеряло силу.</p><cite>Гал. 3:16-17</cite></blockquote>
-<blockquote><p>Не отойдет скипетр от Иуды и законодатель от чресл его, доколе не приидет Примиритель, и Ему покорность народов.</p><cite>Быт. 49:10</cite></blockquote>
-<blockquote><p>Я воздвигну им Пророка из среды братьев их, такого как ты, и вложу слова Мои в уста Его, и Он будет говорить им все, что Я повелю Ему;</p><cite>Втор. 18:18</cite></blockquote>
-<blockquote><p>Служите Господу со страхом и радуйтесь с трепетом. Почтите Сына, чтобы Он не прогневался, и чтобы вам не погибнуть в пути <em>вашем</em>, ибо гнев Его возгорится вскоре. Блаженны все, уповающие на Него.</p><cite>Пс. 2:11-12</cite></blockquote>
-<blockquote><p>Сказал Господь Господу моему: седи одесную Меня, доколе положу врагов Твоих в подножие ног Твоих.</p><cite>Пс. 109:1</cite></blockquote>
-<blockquote><p>Ибо младенец родился нам - Сын дан нам; владычество на раменах Его, и нарекут имя Ему: Чудный, Советник, Бог крепкий, Отец вечности, Князь мира.</p><cite>Ис. 9:6</cite></blockquote>
-<blockquote><p>Но Он взял на Себя наши немощи и понес наши болезни; а мы думали, <em>что</em> Он был поражаем, наказуем и уничижен Богом. Но Он изъязвлен был за грехи наши и мучим за беззакония наши; наказание мира нашего <em>было</em> на Нем, и ранами Его мы исцелились. Все мы блуждали, как овцы, совратились каждый на свою дорогу: и Господь возложил на Него грехи всех нас. Он истязуем был, но страдал добровольно и не открывал уст Своих; как овца, веден был Он на заклание, и как агнец пред стригущим его безгласен, так Он не отверзал уст Своих.</p><cite>Ис. 53:4-7</cite></blockquote>
-<blockquote><p>Итак знай и разумей: с того времени, как выйдет повеление о восстановлении Иерусалима, до Христа Владыки семь седмин и шестьдесят две седмины; и возвратится <em>народ</em> и обстроятся улицы и стены, но в трудные времена. И по истечении шестидесяти двух седмин предан будет смерти Христос, и не будет; а город и святилище разрушены будут народом вождя, который придет, и конец его будет как от наводнения, и до конца войны будут опустошения.</p><cite>Дан. 9:25-26</cite></blockquote>
-<blockquote><p>Жизнь мою от юности <em>моей,</em> которую сначала проводил я среди народа моего в Иерусалиме, знают все Иудеи; они издавна знают обо мне, если захотят свидетельствовать, что я жил фарисеем по строжайшему в нашем вероисповедании учению. И ныне я стою перед судом за надежду на обетование, данное от Бога нашим отцам, которого исполнение надеются увидеть наши двенадцать колен, усердно служа <em>Богу</em> день и ночь. За сию-то надежду, царь Агриппа, обвиняют меня Иудеи.</p><cite>Дн. 26:4-7</cite></blockquote>
-<blockquote><p>К сему-то спасению относились изыскания и исследования пророков, которые предсказывали о назначенной вам благодати, исследывая, на которое и на какое время указывал сущий в них Дух Христов, когда Он предвозвещал Христовы страдания и последующую за ними славу.</p><cite>1-е Пет. 1:10-11</cite></blockquote>
-<blockquote><p>О Нем все пророки свидетельствуют, что всякий верующий в Него получит прощение грехов именем Его.</p><cite>Дн. 10:43</cite></blockquote>
+<h3>(1) Первые люди узнавшие о Рождестве и Пасхе – Адам и Ева</h3>
+<h3>(2) Разделение человечества – принятие и непринятие Слово Божье, Завета, Христос (Рождество и Пасха Господня)</h3>
+<h2 id="s3">3) Рождение Иисуса Христа в подобии плоти греховной – исполнение Рождества и Пасхи, важность понимания великой любви Бога к человечеству. Мф. 16:16,Ин. 19:30, - Рим. 8:3, Фил. 2:6-8, - Ин. 6:62,17:5,Мф. 17:2, - Ин. 3:16,Рим. 5:8</h2>
 <blockquote><p>Симон же Петр, отвечая, сказал: Ты -- Христос, Сын Бога Живаго.</p><cite>Мф. 16:16</cite></blockquote>
-<blockquote><p>На другой день видит Иоанн идущего к нему Иисуса и говорит: вот Агнец Божий, Который берет <em>на</em> <em>Себя</em> грех мира.</p><cite>Ин. 1:29</cite></blockquote>
 <blockquote><p>Когда же Иисус вкусил уксуса, сказал: совершилось! И, преклонив главу, предал дух.</p><cite>Ин. 19:30</cite></blockquote>
-<blockquote><p>Итак очистите старую закваску, чтобы быть вам новым тестом, так как вы бесквасны, ибо Пасха наша, Христос, заклан за нас.</p><cite>1-е Кор. 5:7</cite></blockquote>
-<ul>
-<li>(1-е Пет. 1:18-20,Отк. 13:8)</li>
-</ul>
-<blockquote><p>зная, что не тленным серебром или золотом искуплены вы от суетной жизни, преданной вам от отцов, но драгоценною Кровию Христа, как непорочного и чистого Агнца, предназначенного еще прежде создания мира, но явившегося в последние времена для вас,</p><cite>1-е Пет. 1:18-20</cite></blockquote>
-<blockquote><p>И поклонятся ему все живущие на земле, которых имена не написаны в книге жизни у Агнца, закланного от создания мира.</p><cite>Отк. 13:8</cite></blockquote>
-<h2>2) Правильное понимание Пасхи и Опресноков – важность правильного понимания Слово Божье, Завета, Христос</h2>
-<h3>(1) Причина рабства народа Божьего – неточное исполнение Слово Божье, неточный акцент на Жертве (Авраам). Быт. 15:9-14</h3>
-<blockquote><p><em>Господь</em> сказал ему: возьми Мне трехлетнюю телицу, трехлетнюю козу, трехлетнего овна, горлицу и молодого голубя. Он взял всех их, рассек их пополам и положил одну часть против другой; только птиц не рассек. И налетели на трупы хищные птицы; но Аврам отгонял их. При захождении солнца крепкий сон напал на Аврама, и вот, напал на него ужас и мрак великий. И сказал <em>Господь</em> Авраму: знай, что потомки твои будут пришельцами в земле не своей, и поработят их, и будут угнетать их четыреста лет, но Я произведу суд над народом, у которого они будут в порабощении; после сего они выйдут с большим имуществом,</p><cite>Быт. 15:9-14</cite></blockquote>
-<h3>(2) Божий метод решения – только Пасха, Агнец, Жертва. (Чудеса и знамения – нет ответа, крах)</h3>
-<h2>3) Божий порядок совершения Пасхи и Опресноков Господних в В.З. (прообраз смерти и воскресения Христа)</h2>
-<h3>(1) Исх. 12:1-7, - подготовка и свершение Пасхи Господней</h3>
-<blockquote><p>И сказал Господь Моисею и Аарону в земле Египетской, говоря:  месяц сей <em>да</em> <em>будет</em> у вас началом месяцев, первым <em>да</em> <em>будет</em> он у вас между месяцами года.  Скажите всему обществу Израилевых: в десятый <em>день</em> сего месяца пусть возьмут себе каждый одного агнца по семействам, по агнцу на семейство;  а если семейство так мало, что не <em>съест</em> агнца, то пусть возьмет с соседом своим, ближайшим к дому своему, по числу душ: по той мере, сколько каждый съест, расчислитесь на агнца.  Агнец у вас должен быть без порока, мужеского пола, однолетний; возьмите его от овец, или от коз,  и пусть он хранится у вас до четырнадцатого дня сего месяца: тогда пусть заколет его все собрание общества Израильского вечером,  и пусть возьмут от крови <em>его</em> и помажут на обоих косяках и на перекладине дверей в домах, где будут есть его;</p><cite>Исх. 12:1-7</cite></blockquote>
-<h4>(а) Агнец без порока, 3 дня пребывания – совершенная жертва, пролитие крови, рассуждение над Слово Божье Быт. 3:15,21,Евр. 9:22</h4>
-<blockquote><p>и вражду положу между тобою и между женою, и между семенем твоим и между семенем ее; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.</p><cite>Быт. 3:15</cite></blockquote>
-<blockquote><p>И сделал Господь Бог Адаму и жене его одежды кожаные и одел их.</p><cite>Быт. 3:21</cite></blockquote>
-<blockquote><p>Да и все почти по закону очищается кровью, и без пролития крови не бывает прощения.</p><cite>Евр. 9:22</cite></blockquote>
-<h4>(б) Общество Израильтян – народ Бог, принятие Слово Божье, Завета, Христос</h4>
-<h3>(2) Исх. 12:8-11, - приготовление и вкушение Агнца</h3>
-<blockquote><p>пусть съедят мясо его в сию самую ночь, испеченное на огне; с пресным хлебом и с горькими <em>травами</em> пусть съедят его;  не ешьте от него недопеченного, или сваренного в воде, но ешьте испеченное на огне, голову с ногами и внутренностями;  не оставляйте от него до утра , но оставшееся от него до утра сожгите на огне.  Ешьте же его так: пусть будут чресла ваши препоясаны, обувь ваша на ногах ваших и посохи ваши в руках ваших, и ешьте его с поспешностью: это -- Пасха Господня.</p><cite>Исх. 12:8-11</cite></blockquote>
-<h4>(а) Агнец запеченный на огне – крещение огнем, страдания Христа, принятие гнева Божьего за грехи всего мира. Лк. 12:50</h4>
-<blockquote><p>Крещением должен Я креститься; и как Я томлюсь, пока сие совершится!</p><cite>Лк. 12:50</cite></blockquote>
-<h4>(б) Вкушение и цельность агнца – приобщение ко Христу, полнота Слово Божье, Завета, Христос, Эммануил (причастие В.З.)</h4>
-<h4>(в) Пресный хлеб, горькие травы – рабство, горькая жизнь вне Бога. важность избавления для человека. Ин. 8:36</h4>
-<blockquote><p>Итак, если Сын освободит вас, то истинно свободны будете.</p><cite>Ин. 8:36</cite></blockquote>
-<h4>(г) Препоясан, одет, обут, посох, поспешность – Исход, важность Ханаана, важность исполнения предназначения народа Божьего (Познание и передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация, подготовка прихода Христа). Мф. 28:19-20,Еф. 6:11-20,5:15-16</h4>
-<blockquote><p>Итак идите, научите все народы, крестя их во имя Отца и Сына и Святаго Духа, уча их соблюдать все, что Я повелел вам; и се, Я с вами во все дни до скончания века. Аминь.</p><cite>Мф. 28:19-20</cite></blockquote>
-<blockquote><p>Облекитесь во всеоружие Божие, чтобы вам можно было стать против козней диавольских, потому что наша брань не против крови и плоти, но против начальств, против властей, против мироправителей тьмы века сего, против духов злобы поднебесной. Для сего приимите всеоружие Божие, дабы вы могли противостать в день злый и, все преодолев, устоять. Итак станьте, препоясав чресла ваши истиною и облекшись в броню праведности, и обув ноги в готовность благовествовать мир; а паче всего возьмите щит веры, которым возможете угасить все раскаленные стрелы лукавого; и шлем спасения возьмите, и меч духовный, который есть Слово Божие. Всякою молитвою и прошением молитесь во всякое время духом, и старайтесь о сем самом со всяким постоянством и молением о всех святых и о мне, дабы мне дано было слово -- устами моими открыто с дерзновением возвещать тайну благовествования, для которого я исполняю посольство в узах, дабы я смело проповедывал, как мне должно.</p><cite>Еф. 6:11-20</cite></blockquote>
-<blockquote><p>Итак, смотрите, поступайте осторожно, не как неразумные, но как мудрые, дорожа временем, потому что дни лукавы.</p><cite>Еф. 5:15-16</cite></blockquote>
-<h3>(3) Исх. 12:12-14, - свершение Пасхи</h3>
-<blockquote><p>А Я в сию самую ночь пройду по земле Египетской и поражу всякого первенца в земле Египетской, от человека до скота, и над всеми богами Египетскими произведу суд. Я Господь.  И будет у вас кровь знамением на домах, где вы находитесь, и увижу кровь и пройду мимо вас, и не будет между вами язвы губительной, когда буду поражать землю Египетскую.  И да будет вам день сей памятен, и празднуйте в оный праздник Господу во роды ваши; <em>как</em> установление вечное празднуйте его.</p><cite>Исх. 12:12-14</cite></blockquote>
-<h4>(а) Исх. 12:14, - вечное установление, утверждение Слово Божье, Завета, Христос</h4>
-<blockquote><p>И да будет вам день сей памятен, и празднуйте в оный праздник Господу во роды ваши; <em>как</em> установление вечное празднуйте его.</p><cite>Исх. 12:14</cite></blockquote>
-<h4>(б) Чис. 9:1-14, - важность свершения Пасхи, нет привязки к дню</h4>
-<blockquote><p>И сказал Господь Моисею в пустыне Синайской во второй год по исшествии их из земли Египетской, в первый месяц, говоря: пусть сыны Израилевы совершат Пасху в назначенное для нее время: в четырнадцатый день сего месяца вечером совершите ее в назначенное для нее время, по всем постановлениям и по всем обрядам ее совершите ее. И сказал Моисей сынам Израилевым, чтобы совершили Пасху. И совершили они Пасху в первый <em>месяц,</em> в четырнадцатый день месяца вечером, в пустыне Синайской: во всем, как повелел Господь Моисею, так и поступили сыны Израилевы. Были люди, которые были нечисты от <em>прикосновения</em> к мертвым телам человеческим, и не могли совершить Пасхи в тот день; и пришли они к Моисею и Аарону в тот день, и сказали ему те люди: мы нечисты от <em>прикосновения</em> к мертвым телам человеческим; для чего нас лишать того, чтобы мы принесли приношение Господу в назначенное время среди сынов Израилевых? И сказал им Моисей: постойте, я послушаю, что повелит о вас Господь. И сказал Господь Моисею, говоря: скажи сынам Израилевым: если кто из вас или из потомков ваших будет нечист от <em>прикосновения</em> к мертвому телу, или будет в дальней дороге, то и он должен совершить Пасху Господню; в четырнадцатый день второго месяца вечером пусть таковые совершат ее и с опресноками и горькими травами пусть едят ее; и пусть не оставляют от нее до утра и костей ее не сокрушают; пусть совершат ее по всем уставам о Пасхе; а кто чист и не находится в дороге и не совершит Пасхи, -- истребится душа та из народа своего, ибо он не принес приношения Господу в свое время: понесет на себе грех человек тот; если будет жить у вас пришелец, то и он должен совершать Пасху Господню: по уставу о Пасхе и по обряду ее он должен совершить ее; один устав пусть будет у вас и для пришельца и для туземца.</p><cite>Чис. 9:1-14</cite></blockquote>
-<h3>(4) Исх. 12:15-20 (17), - Опресноки (Воскресение Христа)</h3>
-<blockquote><p>Семь дней ешьте пресный хлеб; с самого первого дня уничтожьте квасное в домах ваших, ибо кто будет есть квасное с первого дня до седьмого дня, душа та истреблена будет из среды Израиля.  И в первый день да будет у вас священное собрание, и в седьмой день священное собрание: никакой работы не должно делать в них; только что есть каждому, одно то можно делать вам.  Наблюдайте опресноки, ибо в сей самый день Я вывел ополчения ваши из земли Египетской, и наблюдайте день сей в роды ваши, как установление вечное.  С четырнадцатого дня первого месяца, с вечера ешьте пресный хлеб до вечера двадцать первого дня того же месяца;  семь дней не должно быть закваски в домах ваших, ибо кто будет есть квасное, душа та истреблена будет из общества Израилевых, пришлец ли то, или природный житель земли той.  Ничего квасного не ешьте; во всяком местопребывании вашем ешьте пресный хлеб.</p><cite>Исх. 12:15-20</cite></blockquote>
-<h4>(а) Опресноки – воскресение и чистота Христа</h4>
-<h4>(б) 7 дней – рассуждение над Слово Божье, важность обучения</h4>
-<h4>(в) Вечное установление – утверждение Слово Божье, Завета, Христос</h4>
-<h2>4) Правильное понимание Пасхи и Опресноков Ин. 1:29,1-е Кор. 5:7, - Мф. 26:26-27 (Мк. 14:22-24,Лк. 22:19-20, 1-е Кор. 11:23-26)</h2>
-<blockquote><p>На другой день видит Иоанн идущего к нему Иисуса и говорит: вот Агнец Божий, Который берет <em>на</em> <em>Себя</em> грех мира.</p><cite>Ин. 1:29</cite></blockquote>
-<blockquote><p>Итак очистите старую закваску, чтобы быть вам новым тестом, так как вы бесквасны, ибо Пасха наша, Христос, заклан за нас.</p><cite>1-е Кор. 5:7</cite></blockquote>
-<blockquote><p>И когда они ели, Иисус взял хлеб и, благословив, преломил и, раздавая ученикам, сказал: приимите, ядите: сие есть Тело Мое. И, взяв чашу и благодарив, подал им и сказал: пейте из нее все,</p><cite>Мф. 26:26-27</cite></blockquote>
-<blockquote><p>И когда они ели, Иисус, взяв хлеб, благословил, преломил, дал им и сказал: приимите, ядите; сие есть Тело Мое. И, взяв чашу, благодарив, подал им: и пили из нее все. И сказал им: сие есть Кровь Моя Нового Завета, за многих изливаемая.</p><cite>Мк. 14:22-24</cite></blockquote>
-<blockquote><p>И, взяв хлеб и благодарив, преломил и подал им, говоря: сие есть Тело Мое, которое за вас предается; сие творите в Мое воспоминание. Также и чашу после вечери, говоря: сия чаша <em>есть</em> Новый Завет в Моей крови, которая за вас проливается.</p><cite>Лк. 22:19-20</cite></blockquote>
-<blockquote><p>Ибо я от <em>Самого</em> Господа принял то, что и вам передал, что Господь Иисус в ту ночь, в которую предан был, взял хлеб и, возблагодарив, преломил и сказал: приимите, ядите, сие есть Тело Мое, за вас ломимое; сие творите в Мое воспоминание. Также и чашу после вечери, и сказал: сия чаша есть новый завет в Моей Крови; сие творите, когда только будете пить, в Мое воспоминание. Ибо всякий раз, когда вы едите хлеб сей и пьете чашу сию, смерть Господню возвещаете, доколе Он придет.</p><cite>1-е Кор. 11:23-26</cite></blockquote>
-<h3>(1) В.З. – Пасха (с вечера пятницы до вечера субботы) и Опресноки (с вечера субботы – т.е. воскресение, в течении семи дней), прообраз смерти и Воскресения Христа</h3>
-<h4>(а) Пасха В.З. – пасхальный агнец (прообраз смерти Христа)</h4>
-<h4>(б) Опресноки В.З. – пресный хлеб (прообраз воскресения Христос)</h4>
-<h3>(2) Н.З. – Пасха (с вечера четверга до вечера пятницы) и Опресноки (воскресение), смерть и Воскресение Христа</h3>
-<h4>(а) Пасха Н.З. – хлеб и вино (исполнение всех праздников в Иисусе Христе, Христос – наша Пасха, изменение образа в Н.З.)</h4>
-<h4>(б) Опресноки Н.З. – хлеб и вино (исполнение всех праздников в Иисусе Христе, Христос – наше Воскресение и Жизнь, изменение образа в Н.З.)</h4>
-<h2>5) Начало Пасхальной недели (Вербное Воскресение)</h2>
-<h3>(1) Мф. 21:1-11 (Зах. 9:9), -торжественный вьезд Иисуса Христа в Иерусалим, важность свершения Истинной Пасхи Господней, Жертва Иисуса Христа (Божий план, пророчества В.З.)</h3>
-<blockquote><p>И когда приблизились к Иерусалиму и пришли в Виффагию к горе Елеонской, тогда Иисус послал двух учеников, сказав им: пойдите в селение, которое прямо перед вами; и тотчас найдете ослицу привязанную и молодого осла с нею; отвязав, приведите ко Мне; и если кто скажет вам что-нибудь, отвечайте, что они надобны Господу; и тотчас пошлет их. Все же сие было, да сбудется реченное через пророка, который говорит: Скажите дщери Сионовой: се, Царь твой грядет к тебе кроткий, сидя на ослице и молодом осле, сыне подъяремной. Ученики пошли и поступили так, как повелел им Иисус: привели ослицу и молодого осла и положили на них одежды свои, и Он сел поверх их. Множество же народа постилали свои одежды по дороге, а другие резали ветви с дерев и постилали по дороге; народ же, предшествовавший и сопровождавший, восклицал: осанна Сыну Давидову! благословен Грядущий во имя Господне! осанна в вышних! И когда вошел Он в Иерусалим, весь город пришел в движение и говорил: кто Сей? Народ же говорил: Сей есть Иисус, Пророк из Назарета Галилейского.</p><cite>Мф. 21:1-11</cite></blockquote>
-<blockquote><p>Ликуй от радости, дщерь Сиона, торжествуй, дщерь Иерусалима: се Царь твой грядет к тебе, праведный и спасающий, кроткий, сидящий на ослице и на молодом осле, сыне подъяремной.</p><cite>Зах. 9:9</cite></blockquote>
-<h3>(2) Мф. 21:12-13 (Ин. 2:13-17), - важность храма, важность правильного понимания Слово Божье, Завета, Христос Ос. 4:6. (Вертеп разбойников, дом торговли, дети дьявол – вердикт Божий)</h3>
-<blockquote><p>И вошел Иисус в храм Божий и выгнал всех продающих и покупающих в храме, и опрокинул столы меновщиков и скамьи продающих голубей, и говорил им: написано, -- дом Мой домом молитвы наречется; а вы сделали его вертепом разбойников.</p><cite>Мф. 21:12-13</cite></blockquote>
-<blockquote><p>Приближалась Пасха Иудейская, и Иисус пришел в Иерусалим и нашел, что в храме продавали волов, овец и голубей, и сидели меновщики денег. И, сделав бич из веревок, выгнал из храма всех, <em>также</em> и овец и волов; и деньги у меновщиков рассыпал, а столы их опрокинул. И сказал продающим голубей: возьмите это отсюда и дома Отца Моего не делайте домом торговли. При сем ученики Его вспомнили, что написано: ревность по доме Твоем снедает Меня.</p><cite>Ин. 2:13-17</cite></blockquote>
-<blockquote><p>Истреблен будет народ Мой за недостаток ведения: так как ты отверг ведение, то и Я отвергну тебя от священнодействия предо Мною; и как ты забыл закон Бога твоего то и Я забуду детей твоих.</p><cite>Ос. 4:6</cite></blockquote>
-<h3>(3) Непринятие Слово Божье, Завета, Христос, фарисеи и книжники (храм) – непринятие Божественности Христа (политический лидер) и Вседостаточности Его Жертвы (спасение через дела закона) Ин. 10:33,Рим. 9:30-33, - Ин. 8:44, - Мф. 24:1-2</h3>
+<blockquote><p>Как закон, ослабленный плотию, был бессилен, то Бог послал Сына Своего в подобии плоти греховной <em>в</em> <em>жертву</em> за грех и осудил грех во плоти,</p><cite>Рим. 8:3</cite></blockquote>
+<blockquote><p>Он, будучи образом Божиим, не почитал хищением быть равным Богу; но уничижил Себя Самого, приняв образ раба, сделавшись подобным человекам и по виду став как человек; смирил Себя, быв послушным даже до смерти, и смерти крестной.</p><cite>Фил. 2:6-8</cite></blockquote>
+<blockquote><p>Что ж, если увидите Сына Человеческого восходящего <em>туда,</em> где был прежде?</p><cite>Ин. 6:62</cite></blockquote>
+<blockquote><p>И ныне прославь Меня Ты, Отче, у Тебя Самого славою, которую Я имел у Тебя прежде бытия мира.</p><cite>Ин. 17:5</cite></blockquote>
+<blockquote><p>и преобразился пред ними: и просияло лице Его, как солнце, одежды же Его сделались белыми, как свет.</p><cite>Мф. 17:2</cite></blockquote>
+<blockquote><p>Ибо так возлюбил Бог мир, что отдал Сына Своего Единородного, дабы всякий верующий в Него, не погиб, но имел жизнь вечную.</p><cite>Ин. 3:16</cite></blockquote>
+<blockquote><p>Но Бог Свою любовь к нам доказывает тем, что Христос умер за нас, когда мы были еще грешниками.</p><cite>Рим. 5:8</cite></blockquote>
+<h3>(1) Наступление Нового Года от (с момента) Рождества Христова – фактическое Рождество, Божий суверенитет</h3>
+<h3>(2) Празднование Рождества с 25 декабря по 7 января – решение всех споров и проблем, прекрасная возможность для проповедования и прославления Иисуса Христа)</h3>
+<h2 id="s4">4) Рождество Христа, исполнение Слово Божье, свидетельство Божье</h2>
+<h3>(1) Лк. 1:26-35, - Божье свидетельство Марии. (Важность ученика, важность исполнения предназначения)</h3>
+<blockquote><p>В шестой же месяц послан был Ангел Гавриил от Бога в город Галилейский, называемый Назарет, к Деве, обрученной мужу, именем Иосифу, из дома Давидова; имя же Деве: Мария. Ангел, войдя к Ней, сказал: радуйся, Благодатная! Господь с Тобою; благословенна Ты между женами. Она же, увидев его, смутилась от слов его и размышляла, что бы это было за приветствие. И сказал Ей Ангел: не бойся, Мария, ибо Ты обрела благодать у Бога; и вот, зачнешь во чреве, и родишь Сына, и наречешь Ему имя: Иисус. Он будет велик и наречется Сыном Всевышнего, и даст Ему Господь Бог престол Давида, отца Его; и будет царствовать над домом Иакова во веки, и Царству Его не будет конца. Мария же сказала Ангелу: как будет это, когда Я мужа не знаю? Ангел сказал Ей в ответ: Дух Святый найдет на Тебя, и сила Всевышнего осенит Тебя; посему и рождаемое Святое наречется Сыном Божиим.</p><cite>Лк. 1:26-35</cite></blockquote>
+<h4>(а) Важность понимания спасения и рождения свыше Марии – принятие Слово Божье, Завета, Христос, вера во Христа Грядущего как Бога во плоти и вера во Вседостаточность Его Жертвы</h4>
+<h4>(б) Беспорочное зачатие, семя жены, исполнение Слово Божье</h4>
+<h3>(2) Мф. 1:18-23, - Божье свидетельство Иосифу. (Важность ученика, важность исполнения предназначения)</h3>
+<blockquote><p>Рождество Иисуса Христа было так: по обручении Матери Его Марии с Иосифом, прежде нежели сочетались они, оказалось, что Она имеет во чреве от Духа Святаго. Иосиф же муж Ее, будучи праведен и не желая огласить Ее, хотел тайно отпустить Ее. Но когда он помыслил это, -- се, Ангел Господень явился ему во сне и сказал: Иосиф, сын Давидов! не бойся принять Марию, жену твою, ибо родившееся в Ней есть от Духа Святаго; родит же Сына, и наречешь Ему имя Иисус, ибо Он спасет людей Своих от грехов их. А все сие произошло, да сбудется реченное Господом через пророка, который говорит: се, Дева во чреве приимет и родит Сына, и нарекут имя Ему Еммануил, что значит: с нами Бог.</p><cite>Мф. 1:18-23</cite></blockquote>
+<h4>(а) Рождество Христово, решение всех грехов народа Божьего</h4>
+<h4>(б) Божье предузнание принятия Слово Божье, Завета, Христос человеком</h4>
+<h3>(3) Лк. 2:1-20, - Божье свидетельство пастухам. (Прообраз пастырей, важность исполнения предназначения)</h3>
+<blockquote><p>В те дни вышло от кесаря Августа повеление сделать перепись по всей земле. Эта перепись была первая в правление Квириния Сириею. И пошли все записываться, каждый в свой город. Пошел также и Иосиф из Галилеи, из города Назарета, в Иудею, в город Давидов, называемый Вифлеем, потому что он был из дома и рода Давидова, записаться с Мариею, обрученною ему женою, которая была беременна. Когда же они были там, наступило время родить Ей; и родила Сына своего Первенца, и спеленала Его, и положила Его в ясли, потому что не было им места в гостинице. В той стране были на поле пастухи, которые содержали ночную стражу у стада своего. Вдруг предстал им Ангел Господень, и слава Господня осияла их; и убоялись страхом великим. И сказал им Ангел: не бойтесь; я возвещаю вам великую радость, которая будет всем людям: ибо ныне родился вам в городе Давидовом Спаситель, Который есть Христос Господь; и вот вам знак: вы найдете Младенца в пеленах, лежащего в яслях. И внезапно явилось с Ангелом многочисленное воинство небесное, славящее Бога и взывающее: слава в вышних Богу, и на земле мир, в человеках благоволение! Когда Ангелы отошли от них на небо, пастухи сказали друг другу: пойдем в Вифлеем и посмотрим, что там случилось, о чем возвестил нам Господь. И, поспешив, пришли и нашли Марию и Иосифа, и Младенца, лежащего в яслях. Увидев же, рассказали о том, что было возвещено им о Младенце Сем. И все слышавшие дивились тому, что рассказывали им пастухи. А Мария сохраняла все слова сии, слагая в сердце Своем. И возвратились пастухи, славя и хваля Бога за все то, что слышали и видели, как им сказано было.</p><cite>Лк. 2:1-20</cite></blockquote>
+<h3>(4) Лк. 2:21-35, - Божье свидетельство Симеону. (Книжник, изучение Слово Божье, важность исполнения предназначения)</h3>
+<blockquote><p>По прошествии восьми дней, когда надлежало обрезать <em>Младенца,</em> дали Ему имя Иисус, нареченное Ангелом прежде зачатия Его во чреве. А когда исполнились дни очищения их по закону Моисееву, принесли Его в Иерусалим, чтобы представить пред Господа, как предписано в законе Господнем, чтобы всякий младенец мужеского пола, разверзающий ложесна, был посвящен Господу, и чтобы принести в жертву, по реченному в законе Господнем, две горлицы или двух птенцов голубиных. Тогда был в Иерусалиме человек, именем Симеон. Он был муж праведный и благочестивый, чающий утешения Израилева; и Дух Святый был на нем. Ему было предсказано Духом Святым, что он не увидит смерти, доколе не увидит Христа Господня. И пришел он по вдохновению в храм. И, когда родители принесли Младенца Иисуса, чтобы совершить над Ним законный обряд, он взял Его на руки, благословил Бога и сказал: Ныне отпускаешь раба Твоего, Владыко, по слову Твоему, с миром, ибо видели очи мои спасение Твое, которое Ты уготовал пред лицем всех народов, свет к просвещению язычников и славу народа Твоего Израиля. Иосиф же и Матерь Его дивились сказанному о Нем. И благословил их Симеон и сказал Марии, Матери Его: се, лежит Сей на падение и на восстание многих в Израиле и в предмет пререканий, -- и Тебе Самой оружие пройдет душу, -- да откроются помышления многих сердец.</p><cite>Лк. 2:21-35</cite></blockquote>
+<h3>(5) Мф. 2:1-12, - Божье свидетельство волхвам (мудрецы, потомки народа Божьего из Вавилонского пленения, глубокое изучение Слово Божье, понимание служения Христа – Царь, Священник, Пророк)</h3>
+<blockquote><p>Когда же Иисус родился в Вифлееме Иудейском во дни царя Ирода, пришли в Иерусалим волхвы с востока и говорят: где родившийся Царь Иудейский? ибо мы видели звезду Его на востоке и пришли поклониться Ему. Услышав это, Ирод царь встревожился, и весь Иерусалим с ним. И, собрав всех первосвященников и книжников народных, спрашивал у них: где должно родиться Христу? Они же сказали ему: в Вифлееме Иудейском, ибо так написано через пророка: и ты, Вифлеем, земля Иудина, ничем не меньше воеводств Иудиных, ибо из тебя произойдет Вождь, Который упасет народ Мой, Израиля. Тогда Ирод, тайно призвав волхвов, выведал от них время появления звезды и, послав их в Вифлеем, сказал: пойдите, тщательно разведайте о Младенце и, когда найдете, известите меня, чтобы и мне пойти поклониться Ему. Они, выслушав царя, пошли. се, звезда, которую видели они на востоке, шла перед ними, <em>как</em> наконец пришла и остановилась над <em>местом,</em> где был Младенец. Увидев же звезду, они возрадовались радостью весьма великою, и, войдя в дом, увидели Младенца с Мариею, Матерью Его, и, пав, поклонились Ему; и, открыв сокровища свои, принесли Ему дары: золото, ладан и смирну. И, получив во сне откровение не возвращаться к Ироду, иным путем отошли в страну свою.</p><cite>Мф. 2:1-12</cite></blockquote>
+<h4>(а) Вифлеемская звезда – Звезда Иакова, Христос. Чис. 24:15-17</h4>
+<blockquote><p>И произнес притчу свою и сказал: говорит Валаам, сын Веоров, говорит муж с открытым оком, говорит слышащий слова Божии, имеющий ведение от Всевышнего, который видит видения Всемогущего, падает, но открыты очи его. Вижу Его, но ныне еще нет; зрю Его, но не близко. Восходит звезда от Иакова и восстает жезл от Израиля, и разит князей Моава и сокрушает всех сынов Сифовых.</p><cite>Чис. 24:15-17</cite></blockquote>
+<h4>(б) Золото – истинный Царь, разрушение власти сатана</h4>
+<h4>(в) Ладан – истинный Священник, разрушение власти греха</h4>
+<h4>(г) Смирна – истинный Пророк который должен умереть, указание единственного пути к Богу. (Смирна – благовоние для ухода за телами умерших людей)</h4>
+<h2 id="s5">5) Мф. 2:13-23, - неизменность Рождества для человечества</h2>
+<blockquote><p>Когда же они отошли, -- се, Ангел Господень является во сне Иосифу и говорит: встань, возьми Младенца и Матерь Его и беги в Египет, и будь там, доколе не скажу тебе, ибо Ирод хочет искать Младенца, чтобы погубить Его. Он встал, взял Младенца и Матерь Его ночью и пошел в Египет, и там был до смерти Ирода, да сбудется реченное Господом через пророка, который говорит: из Египта воззвал Я Сына Моего. Тогда Ирод, увидев себя осмеянным волхвами, весьма разгневался, и послал избить всех младенцев в Вифлееме и во всех пределах его, от двух лет и ниже, по времени, которое выведал от волхвов. Тогда сбылось реченное через пророка Иеремию, который говорит: глас в Раме слышен, плач и рыдание и вопль великий; Рахиль плачет о детях своих и не хочет утешиться, ибо их нет. По смерти же Ирода, -- се, Ангел Господень во сне является Иосифу в Египте и говорит: встань, возьми Младенца и Матерь Его и иди в землю Израилеву, ибо умерли искавшие души Младенца. Он встал, взял Младенца и Матерь Его и пришел в землю Израилеву. Услышав же, что Архелай царствует в Иудее вместо Ирода, отца своего, убоялся туда идти; но, получив во сне откровение, пошел в пределы Галилейские и, придя, поселился в городе, называемом Назарет, да сбудется реченное через пророков, что Он Назореем наречется.</p><cite>Мф. 2:13-23</cite></blockquote>
+<h3>(1) Фарисеи и книжники – непринятие Слово Божье, Завета, Христос, непринятие Божественности Христа и Вседостаточности Его Жертвы («свое рождество» и «своя пасха») Ин. 10:33,Рим. 9:30-33, - Ин. 8:44</h3>
 <blockquote><p>Иудеи сказали Ему в ответ: не за доброе дело хотим побить Тебя камнями, но за богохульство и за то, что Ты, будучи человек, делаешь Себя Богом.</p><cite>Ин. 10:33</cite></blockquote>
 <blockquote><p>Что же скажем? Язычники, не искавшие праведности, получили праведность, праведность от веры. А Израиль, искавший закона праведности, не достиг до закона праведности. Почему? потому что <em>искали</em> не в вере, а в делах закона. Ибо преткнулись о камень преткновения, как написано: вот, полагаю в Сионе камень преткновения и камень соблазна; но всякий, верующий в Него, не постыдится.</p><cite>Рим. 9:30-33</cite></blockquote>
 <blockquote><p>Ваш отец диавол; и вы хотите исполнять похоти отца вашего. Он был человекоубийца от начала и не устоял в истине, ибо нет в нем истины. Когда говорит он ложь, говорит свое, ибо он лжец и отец лжи.</p><cite>Ин. 8:44</cite></blockquote>
-<blockquote><p>И выйдя, Иисус шел от храма; и приступили ученики Его, чтобы показать Ему здания храма. Иисус же сказал им: видите ли все это? Истинно говорю вам: не останется здесь камня на камне; все будет разрушено.</p><cite>Мф. 24:1-2</cite></blockquote>
-<h2>6) Недостойное совершение Пасхи и Опресноков</h2>
-<h3>(1) Непонимание Слово Божье, Завета, Христос (суть греха)</h3>
-<h4>(а) Обряд – бессмысленное действие без понимания Завета, Христос</h4>
-<h4>(б) Понимание действия сатана – искажение Слово Божье, Завета, Христос, Пасхи, языческие символы бога плодородия – кулич и крашенные яйца (фаллос), недопустимость участия народа Божьего 1-е Кор. 10:19-28,Дн. 15:28-29</h4>
-<blockquote><p>Что же я говорю? То ли, что идол есть что-нибудь, или идоложертвенное значит что-нибудь? <em>Нет,</em> но что язычники, принося жертвы, приносят бесам, а не Богу. Но я не хочу, чтобы вы были в общении с бесами. Не можете пить чашу Господню и чашу бесовскую; не можете быть участниками в трапезе Господней и в трапезе бесовской. Неужели мы <em>решимся</em> раздражать Господа? Разве мы сильнее Его? Все мне позволительно, но не все полезно; все мне позволительно, но не все назидает. Никто не ищи своего, но каждый <em>пользы</em> другого. Все, что продается на торгу, ешьте без всякого исследования, для <em>спокойствия</em> совести; ибо Господня земля, и что наполняет ее. Если кто из неверных позовет вас, и вы захотите пойти, то все, предлагаемое вам, ешьте без всякого исследования, для <em>спокойствия</em> совести. Но если кто скажет вам: это идоложертвенное, -- то не ешьте ради того, кто объявил вам, и ради совести. Ибо Господня земля, и что наполняет ее.</p><cite>1-е Кор. 10:19-28</cite></blockquote>
-<blockquote><p>Ибо угодно Святому Духу и нам не возлагать на вас никакого бремени более, кроме сего необходимого: воздерживаться от идоложертвенного и крови, и удавленины, и блуда, и не делать другим того, чего себе не хотите. Соблюдая сие, хорошо сделаете. Будьте здравы".</p><cite>Дн. 15:28-29</cite></blockquote>
-<h3>(2) Принятие и утверждение ересей и лже-учений</h3>
-<h4>(а) Ересь «арианства», непринятие Иисуса Христа как Бога пришедшего во плоти (Богочеловек)</h4>
-<h4>(б) Ересь «смешанного евангелия», отрицание факта прощения всех грехов человека, религия</h4>
-<h4>(в) Ересь «частичного спасения», отрицание решения Христом последствий греха – нет спасения души и тела, действие родовых и приобретенных проклятий, одержимость детей Бог ДОСТОЙНОЕ УЧАСТИЕ В ПАСХЕ ГОСПОДНЕЙ – утверждение Божественности Христа и Вседостаточности Его Жертвы для решения всех проблем человека</h4>
-<ul>
-<li>НЕДОСТОЙНОЕ УЧАСТИЕ В ПАСХЕ ГОСПОДНЕЙ – отрицание Божественности Христа и Вседостаточности Его Жертвы для решения всех проблем человека</li>
-</ul>
+<h3>(2) Ирод Идумянин (потомок Исава) - непринятие Слово Божье, Завета, Христос</h3>
+<h4>(а) Избиение младенцев – неверие, жажда власти, действие сатана</h4>
+<h4>(б) Понимание постоянного конфликта Света со тьмой. (Авель, младенцы – мученники за Христа, Божье допущение)</h4>
+<h2 id="s6">6) Лк. 2:39-52, - рождение, детство и судьба Иисуса Христа, Божий план и контроль, исполнение Слово Божье, Завета, Христос, спасение человечества. 1-е Тим. 2:4</h2>
+<blockquote><p>И когда они совершили все по закону Господню, возвратились в Галилею, в город свой Назарет. Младенец же возрастал и укреплялся духом, исполняясь премудрости, и благодать Божия была на Нем. Каждый год родители Его ходили в Иерусалим на праздник Пасхи. И когда Он был двенадцати лет, пришли они также по обычаю в Иерусалим на праздник. Когда же, по окончании дней <em>праздника,</em> возвращались, остался Отрок Иисус в Иерусалиме; и не заметили того Иосиф и Матерь Его, но думали, что Он идет с другими. Пройдя же дневной путь, стали искать Его между родственниками и знакомыми и, не найдя Его, возвратились в Иерусалим, ища Его. Через три дня нашли Его в храме, сидящего посреди учителей, слушающего их и спрашивающего их; все слушавшие Его дивились разуму и ответам Его. И, увидев Его, удивились; и Матерь Его сказала Ему: Чадо! что Ты сделал с нами? Вот, отец Твой и Я с великою скорбью искали Тебя. Он сказал им: зачем было вам искать Меня? или вы не знали, что Мне должно быть в том, что принадлежит Отцу Моему? Но они не поняли сказанных Им слов. И Он пошел с ними и пришел в Назарет; и был в повиновении у них. И Матерь Его сохраняла все слова сии в сердце Своем. Иисус же преуспевал в премудрости и возрасте и в любви у Бога и человеков.</p><cite>Лк. 2:39-52</cite></blockquote>
+<blockquote><p>Который хочет, чтобы все люди спаслись и достигли познания истины.</p><cite>1-е Тим. 2:4</cite></blockquote>
+<h2 id="s7">7) Неправильное понимание Рождества</h2>
+<h3>(1) Традиции, мистицизм (Санта Клаус, олени и т.д.) – действия без понимания и утверждения Слово Божье, Завета, Христос (Важность правильного донесения детям Слово Божье, Завета, Христос – рождение Иисуса Христа, подарки от Бог через родителей и т.д.)</h3>
+<h3>(2) Религия – непринятие Слово Божье, Завета, Христос (Ересь «арианства»,«смешанного евангелия» и «частичного спасения» – отрицание факта прощения всех грехов и спасения через Иисуса Христа и Его Жертву)</h3>
+<h2 id="s8">Заключение:</h2>
+<h3>(1) Важность празднования Рождества Христова с правильным, глубоким и точным пониманием Слово Божье, Завета, Христос</h3>
+<h3>(2) Особенная важность Церкви – обьяснение Слово Божье, Завета, Христос, важность понимания смысла и цели рождения Христа</h3>
+<h3>(3) Рождество – Божий контроль времени, важность выбора человека в отношении вечности (принятие Божественности Христа и Вседостаточности Его Жертвы), важность исполнения предназначения народа Божьего. (Познание и передача Слово Божье, Завета, Христос, ученики, Всемирная Евангелизация)</h3>
 </main>
 </body>
 </html>
