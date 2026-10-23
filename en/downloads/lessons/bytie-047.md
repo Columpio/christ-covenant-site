@@ -1,0 +1,106 @@
+# 47. Gen. 27-28, - Jacob's blessing
+
+## 1) Gen. 27, - the importance of conveying the Word of God, the Covenant, Christ
+
+### (1) Gen. 27:1-4, - Isaac's mistake (the desire to bless Esau), disobedience to the Word of God, the influence of the remnants of sin. The essence of children is God
+> And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, here am I. And he said, Behold now, I am old, I know not the day of my death: Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out to the field, and take me some venison; And make me savoury meat, such as I love, and bring it to me, that I may eat; that my soul may bless thee before I die. (Gen. 27:1-4, KJV)
+
+#### (a) God's sovereignty, God's foreknowledge and election of Jacob, God's plan for the coming of Christ. Gen. 25:22-23, - Rom. 8:29,1 Pet. 1:1
+> And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the LORD. And the LORD said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger. (Gen. 25:22-23, KJV)
+> For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren. (Rom. 8:29, KJV)
+> Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, (1 Pet. 1:1, KJV)
+
+#### (b) Isaac's human view is Esau's preference, visible. (Esau is a courageous hunter, meat, kebabs, etc., Jacob is a "mama's boy", in tents "near Rebekah's skirt", etc.)
+
+#### (c) Esau's choice is to renounce his birthright (continuation of his father's work), a Gentile wife (descendants, destiny). Heb. 12:6
+> For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth. (Heb. 12:6, KJV)
+
+#### (d) Jacob's choice – birthright, faith in the Coming Christ and His Sacrifice, the importance of knowing and transmitting the Word of God, the Covenant, Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+> So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
+> And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
+> But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:17, KJV)
+> Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons. (Gen. 3:1-7, KJV)
+> Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned: (Rom. 5:12, KJV)
+> For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
+> Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
+> And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
+> Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
+
+### (2) Gen. 27:5-29, 46 (13,46), - Rebekah's faith, the importance of fulfilling the Word of God
+> And Rebekah heard when Isaac spake to Esau his son. And Esau went to the field to hunt for venison, and to bring it. And Rebekah spake unto Jacob her son, saying, Behold, I heard thy father speak unto Esau thy brother, saying, Bring me venison, and make me savoury meat, that I may eat, and bless thee before the LORD before my death. Now therefore, my son, obey my voice according to that which I command thee. Go now to the flock, and fetch me from thence two good kids of the goats; and I will make them savoury meat for thy father, such as he loveth: And thou shalt bring it to thy father, that he may eat, and that he may bless thee before his death. And Jacob said to Rebekah his mother, Behold, Esau my brother is a hairy man, and I am a smooth man: My father peradventure will feel me, and I shall seem to him as a deceiver; and I shall bring a curse upon me, and not a blessing. And his mother said unto him, Upon me be thy curse, my son: only obey my voice, and go fetch me them. And he went, and fetched, and brought them to his mother: and his mother made savoury meat, such as his father loved. And Rebekah took goodly raiment of her eldest son Esau, which were with her in the house, and put them upon Jacob her younger son: And she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck: And she gave the savoury meat and the bread, which she had prepared, into the hand of her son Jacob. And he came unto his father, and said, My father: and he said, Here am I; who art thou, my son? And Jacob said unto his father, I am Esau thy firstborn; I have done according as thou badest me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me. And Isaac said unto his son, How is it that thou hast found it so quickly, my son? And he said, Because the LORD thy God brought it to me. And Isaac said unto Jacob, Come near, I pray thee, that I may feel thee, my son, whether thou be my very son Esau or not. And Jacob went near unto Isaac his father; and he felt him, and said, The voice is Jacob’s voice, but the hands are the hands of Esau. And he discerned him not, because his hands were hairy, as his brother Esau’s hands: so he blessed him. And he said, Art thou my very son Esau? And he said, I am. And he said, Bring it near to me, and I will eat of my son’s venison, that my soul may bless thee. And he brought it near to him, and he did eat: and he brought him wine, and he drank. And his father Isaac said unto him, Come near now, and kiss me, my son. And he came near, and kissed him: and he smelled the smell of his raiment, and blessed him, and said, See, the smell of my son is as the smell of a field which the LORD hath blessed: Therefore God give thee of the dew of heaven, and the fatness of the earth, and plenty of corn and wine: Let people serve thee, and nations bow down to thee: be lord over thy brethren, and let thy mother’s sons bow down to thee: cursed be every one that curseth thee, and blessed be he that blesseth thee. (Gen. 27:5-29, KJV)
+> And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these which are of the daughters of the land, what good shall my life do me? (Gen. 27:46, KJV)
+
+#### (a) The Word of God is the supreme law, the correctness of Rebekah's actions Acts 5:29
+> Then Peter and the other apostles answered and said, We ought to obey God rather than men. (Acts 5:29, KJV)
+
+#### (b) The word God is above all human authority, the problem of the authoritarianism of ministers and secular authorities (the importance of understanding the possibility of error of any person) Gal. 1:8-9,Ps. 138:1-2
+> But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed. As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed. (Gal. 1:8-9, KJV)
+> A Psalm of David. I will praise thee with my whole heart: before the gods will I sing praise unto thee. I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name. (Ps. 138:1-2, KJV)
+
+### (3) Gen. 27:30-41, - non-acceptance of the Word of God, the Covenant, Christ, Esau's choice, the inevitable fulfillment of the Word of God
+> And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting. And he also had made savoury meat, and brought it unto his father, and said unto his father, Let my father arise, and eat of his son’s venison, that thy soul may bless me. And Isaac his father said unto him, Who art thou? And he said, I am thy son, thy firstborn Esau. And Isaac trembled very exceedingly, and said, Who? where is he that hath taken venison, and brought it me, and I have eaten of all before thou camest, and have blessed him? yea, and he shall be blessed. And when Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said unto his father, Bless me, even me also, O my father. And he said, Thy brother came with subtilty, and hath taken away thy blessing. And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing. And he said, Hast thou not reserved a blessing for me? And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto thee, my son? And Esau said unto his father, Hast thou but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept. And Isaac his father answered and said unto him, Behold, thy dwelling shall be the fatness of the earth, and of the dew of heaven from above; And by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck. And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob. (Gen. 27:30-41, KJV)
+
+#### (a) Esau's position is the desire for power and the visible
+
+#### (b) Esau's position is the desire to kill Jacob, the action of Satan, to stop the transmission of the Word of God, the Covenant, Christ Gen. 27:41,1 John 2:8-11
+> And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob. (Gen. 27:41, KJV)
+> Again, a new commandment I write unto you, which thing is true in him and in you: because the darkness is past, and the true light now shineth. He that saith he is in the light, and hateth his brother, is in darkness even until now. He that loveth his brother abideth in the light, and there is none occasion of stumbling in him. But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes. (1 John 2:8-11, KJV)
+
+#### (c) Isaac is God's prophet (the future of the Edomites, Herod the great, reign over the Jews, rejection of the Word of God, the Covenant, Christ) Gen. 27:40, - 1 Pet. 1:10-11,Acts 10:43
+> And by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck. (Gen. 27:40, KJV)
+> Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
+> To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins. (Acts 10:43, KJV)
+
+### (4) Gen. 27:42-46, - God's sovereignty and control over the lives of God's children, the importance of understanding God's love and care
+> And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, purposing to kill thee. Now therefore, my son, obey my voice; and arise, flee thou to Laban my brother to Haran; And tarry with him a few days, until thy brother’s fury turn away; Until thy brother’s anger turn away from thee, and he forget that which thou hast done to him: then I will send, and fetch thee from thence: why should I be deprived also of you both in one day? And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these which are of the daughters of the land, what good shall my life do me? (Gen. 27:42-46, KJV)
+
+#### (a) Rebekah's position is the importance of proper marriage, descendants, the importance of knowing and transmitting the Word of God, the Covenant, Christ, the coming of Christ
+
+#### (b) Rebekah's position is that the lives of God's children are meaningless without fulfilling their purpose (the example of Esau and his wives) 1 Tim. 2:4, - John 8:31-32,Matt. 28:19-20,2 Tim. 2:2
+> Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
+> Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; And ye shall know the truth, and the truth shall make you free. (John 8:31-32, KJV)
+> Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
+> And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also. (2 Tim. 2:2, KJV)
+
+## 2) Gen. 28 (Heb. 13:5), - transmission of the Word of God, the Covenant, Christ
+> Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee. (Heb. 13:5, KJV)
+
+### (1) Gen. 28:1-5, - the importance of fulfilling the purpose
+> And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan. Arise, go to Padan-aram, to the house of Bethuel thy mother’s father; and take thee a wife from thence of the daughters of Laban thy mother’s brother. And God Almighty bless thee, and make thee fruitful, and multiply thee, that thou mayest be a multitude of people; And give thee the blessing of Abraham, to thee, and to thy seed with thee; that thou mayest inherit the land wherein thou art a stranger, which God gave unto Abraham. And Isaac sent away Jacob: and he went to Padan-aram unto Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob’s and Esau’s mother. (Gen. 28:1-5, KJV)
+
+#### (a) Isaac's position is acceptance and affirmation of the Word of God, admission of error, Jacob's repeated blessing, affirmation of the Word of God
+
+#### (b) The importance of proper marriage – descendants, knowledge and transmission of the Word of God, the Covenant, Christ, purity of teaching, disciples, Worldwide Evangelization, the importance of preparing for the coming of Christ (the Covenant family, Christ)
+
+### (2) Gen. 28:6-9; 26:34 (26:34), - rejection of the Word of God, the Covenant, Christ
+> When Esau saw that Isaac had blessed Jacob, and sent him away to Padan-aram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughters of Canaan; And that Jacob obeyed his father and his mother, and was gone to Padan-aram; And Esau seeing that the daughters of Canaan pleased not Isaac his father; Then went Esau unto Ishmael, and took unto the wives which he had Mahalath the daughter of Ishmael Abraham’s son, the sister of Nebajoth, to be his wife. (Gen. 28:6-9, KJV)
+> And Esau was forty years old when he took to wife Judith the daughter of Beeri the Hittite, and Bashemath the daughter of Elon the Hittite: (Gen. 26:34, KJV)
+
+#### (a) Esau – an attempt to please the family, the wife is a descendant of Ishmael, relatives, rejection of the Word of God, the Covenant, Christ (A visible action without understanding the meaning is Esau's unbelief)
+
+#### (b) Esau – Gentile wives, descendants, rejection of the Word of God, the Covenant, Christ
+
+#### (c) Esau is a rejection of destiny, a complete disregard for the Word of God
+
+### (3) Gen. 28:10-22 (12-15), - affirmation of the Word of God, the Covenant, Christ
+> And Jacob went out from Beer-sheba, and went toward Haran. And he lighted upon a certain place, and tarried there all night, because the sun was set; and he took of the stones of that place, and put them for his pillows, and lay down in that place to sleep. And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it. And, behold, the LORD stood above it, and said, I am the LORD God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed; And thy seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and in thee and in thy seed shall all the families of the earth be blessed. And, behold, I am with thee, and will keep thee in all places whither thou goest, and will bring thee again into this land; for I will not leave thee, until I have done that which I have spoken to thee of. And Jacob awaked out of his sleep, and he said, Surely the LORD is in this place; and I knew it not. And he was afraid, and said, How dreadful is this place! this is none other but the house of God, and this is the gate of heaven. And Jacob rose up early in the morning, and took the stone that he had put for his pillows, and set it up for a pillar, and poured oil upon the top of it. And he called the name of that place Beth-el: but the name of that city was called Luz at the first. And Jacob vowed a vow, saying, If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on, So that I come again to my father’s house in peace; then shall the LORD be my God: And this stone, which I have set for a pillar, shall be God’s house: and of all that thou shalt give me I will surely give the tenth unto thee. (Gen. 28:10-22, KJV)
+
+#### (a) Jacob's Ladder is the prototype of Christ, the importance of the union of heaven and earth (understanding the will of God). Eph. 1:10
+> That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him: (Eph. 1:10, KJV)
+
+#### (b) Affirmation of destiny – from you, Christ, the importance of fulfilling the destiny of God's people. Gen. 28:13-14
+> And, behold, the LORD stood above it, and said, I am the LORD God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed; And thy seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and in thee and in thy seed shall all the families of the earth be blessed. (Gen. 28:13-14, KJV)
+
+#### (c) The importance of doing God's will – the importance of financial service to God's people (Abraham, Jacob). Gen. 14:20; 28:22
+> And blessed be the most high God, which hath delivered thine enemies into thy hand. And he gave him tithes of all. (Gen. 14:20, KJV)
+> And this stone, which I have set for a pillar, shall be God’s house: and of all that thou shalt give me I will surely give the tenth unto thee. (Gen. 28:22, KJV)
+
+## Conclusion:
+
+### (1) The importance of Understanding the blessing of God – accepting, knowing, and transmitting the Word of God, the Covenant, and Christ
+
+### (2) The importance of proper prayer is all the answers for a person
+
+### (3) The importance of understanding and fulfilling purpose
+
+### (4) The importance of understanding God's sovereignty and control

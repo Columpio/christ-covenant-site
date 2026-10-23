@@ -1,0 +1,384 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>17. The Epistle to Titus</title>
+<script>(function(){var d=document,s;try{s=localStorage}catch(e){}function get(k){try{return s&&s.getItem(k)}catch(e){return null}}function put(k,v){try{s&&s.setItem(k,v)}catch(e){}}var v=get('bibleVersion');if(!/^(kjv|bsb|web)$/.test(v||''))v='kjv';d.documentElement.setAttribute('data-bv',v);d.addEventListener('DOMContentLoaded',function(){var b=d.querySelector('.bv-select');if(!b)return;b.value=v;b.addEventListener('change',function(){v=b.value;put('bibleVersion',v);d.documentElement.setAttribute('data-bv',v)})});})();</script>
+<style>
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Cormorant Unicase";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-unicase-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:normal;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya";font-style:italic;font-weight:400 800;font-display:swap;src:url(fonts/alegreya-italic-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:400;font-display:swap;src:url(fonts/alegreya-sans-400-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:"Alegreya Sans";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/alegreya-sans-700-lat.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+:root{color-scheme:light;
+--ink:#2A1C0D;--ink2:#5A4630;--stone:#E6D8BA;--parch:#EBDAB0;--sheet:#FAF3E0;--wood:#6B4426;--frame:#F1E7CE;
+--c:#2F5DA8;--cd:#2F5DA8;--sb:#2F5DA8;--sf:#FFFFFF;--mix:#000;
+--display:"Cormorant SC","Cormorant Garamond",Georgia,serif;--uni:"Cormorant Unicase","Cormorant SC",Georgia,serif;
+--serif:"Alegreya","PT Serif",Georgia,serif;--sans:"Alegreya Sans","Segoe UI",system-ui,sans-serif;
+--canon:linear-gradient(90deg,#2F5DA8 0 10%,#D8951A 10% 20%,#C2366B 20% 30%,#1F8A5B 30% 40%,#138F8F 40% 50%,#E0562C 50% 60%,#E8801E 60% 70%,#2F8FCF 70% 80%,#6C4BB6 80% 90%,#8E3B8A 90%);
+--noise:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .30 0 0 0 0 .21 0 0 0 0 .10 0 0 0 .22 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+--weave:repeating-linear-gradient(90deg,rgba(255,255,255,.11) 0 2px,rgba(0,0,0,.07) 2px 4px);
+--cdd:color-mix(in srgb,var(--cd) 55%,var(--ink));
+--px:2.4rem;--py:2.2rem}
+*{box-sizing:border-box}
+html{scroll-padding-top:4.5rem;overflow-x:clip}
+body{margin:0;overflow-x:clip;color:var(--ink);font:400 1.2rem/1.65 var(--serif);-webkit-font-smoothing:antialiased;min-height:100vh;
+background:#2B190C url(img/shelves.svg) 50% 0/520px 960px repeat}
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+background:linear-gradient(115deg,rgba(255,226,160,.5),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 45%,rgba(20,10,4,.6) 100%),rgba(30,18,8,.12)}
+body:not(.home)::before{background:linear-gradient(115deg,rgba(255,226,160,.28),rgba(255,226,160,0) 46%),
+radial-gradient(120% 90% at 50% 40%,rgba(0,0,0,0) 40%,rgba(20,10,4,.55) 100%),rgba(30,18,8,.5)}
+a{color:var(--cdd)}
+.sprite{position:absolute;width:0;height:0;overflow:hidden}
+.skip{position:absolute;left:-999px;top:0;z-index:40;padding:.7rem 1.1rem;background:var(--ink);color:#fff;font:700 1rem var(--sans)}
+.skip:focus{left:.5rem;top:.5rem}
+a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible{outline:3px solid var(--ink);outline-offset:3px;border-radius:6px}
+
+header.top{position:sticky;top:0;z-index:30;background:rgba(247,239,218,.95);backdrop-filter:blur(6px);border-bottom:1px solid #BFA97E;box-shadow:0 .4rem .8rem -.5rem rgba(50,30,10,.45);font:700 1.02rem/1.4 var(--sans)}
+header.top::before{content:"";display:block;height:4px;background:var(--canon)}
+body[style] header.top::before{background:var(--c)}
+header.top .bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;max-width:44rem;margin:0 auto;padding:.35rem 1.25rem}
+header.top.wide .bar{max-width:68rem}
+.crumbs{min-width:0;color:var(--ink2)}
+.crumbs a{display:inline-flex;align-items:center;min-height:44px;padding:0 .3rem;color:var(--ink);text-decoration:none}
+.crumbs a:hover{color:var(--cdd);text-decoration:underline;text-underline-offset:.25em}
+
+main{max-width:44rem;margin:0 auto;padding:2rem 1.25rem 7rem}
+main.wide{max-width:68rem;position:relative;margin:0 auto;padding:2rem 2.4rem 7rem;
+background:var(--noise),linear-gradient(90deg,rgba(60,38,16,.18),rgba(60,38,16,0) 6%,rgba(60,38,16,0) 94%,rgba(60,38,16,.18)),var(--stone);
+border-inline:1.1rem solid #A98B5E;
+box-shadow:inset .5rem 0 .8rem -.3rem rgba(50,30,10,.45),inset -.5rem 0 .8rem -.3rem rgba(50,30,10,.45),0 0 3rem 1rem rgba(15,8,3,.7)}
+.muted{color:var(--ink2)}
+
+main:not(.wide){position:relative;margin:1.6rem auto 6rem;padding:var(--py) var(--px) 2.6rem;background:var(--sheet);border-radius:.3rem;
+box-shadow:inset 0 0 0 1px rgba(150,115,60,.4),inset 0 0 2.4rem rgba(150,115,60,.2),0 1.4rem 2.4rem -1rem rgba(40,25,10,.65)}
+main:not(.wide)::before{content:"";display:block;height:.55rem;margin:calc(var(--py) * -1) calc(var(--px) * -1) 1.6rem;border-radius:.3rem .3rem 0 0;background:var(--weave),var(--sb)}
+h1{font:700 clamp(1.8rem,3.4vw,2.4rem)/1.15 var(--display);letter-spacing:.015em;margin:.4rem 0 1.2rem}
+h2{font:700 1.6rem/1.25 var(--display);letter-spacing:.015em;margin:2.6rem 0 .8rem}
+h2::before{content:"";display:inline-block;width:.5em;height:.5em;margin:0 .55em .12em 0;background:var(--sb);border-radius:2px;transform:rotate(45deg)}
+h3{font:700 1.16rem/1.45 var(--serif);margin:1.6rem 0 .5rem}
+h4{font:italic 600 1.1rem/1.4 var(--serif);margin:1.2rem 0 .4rem}
+ul{padding-left:1.3rem}
+li{margin:.25rem 0}
+li::marker{color:var(--sb)}
+blockquote{margin:.9rem 0 1.3rem;padding:.9rem 1.2rem 1rem;background:#FFFBEC;border:1px solid #E2D2A8;border-left:.32rem solid var(--sb);border-radius:.2rem;box-shadow:0 .2rem 0 #E6D8B4,0 .7rem 1rem -.7rem rgba(60,40,15,.5);font-size:1.08rem}
+blockquote p{margin:0}
+blockquote cite{display:block;margin-top:.4rem;font:700 .92rem/1.4 var(--sans);font-style:normal;color:var(--cdd)}
+blockquote[data-v]{display:none}
+html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=kjv],html[data-bv=bsb] blockquote[data-v=bsb],html[data-bv=web] blockquote[data-v=web]{display:block}
+.tools{display:flex;align-items:center;gap:.5rem;margin-left:auto}
+.tools .lang,.bv-select{display:inline-flex;align-items:center;min-height:44px;padding:0 .7rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1 var(--sans);text-decoration:none;background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.bv-select{padding-right:.4rem;cursor:pointer}
+.tools .lang:hover,.bv-select:hover{background-color:#F6E9C2}
+.lang-full{white-space:nowrap}
+
+.hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.lead{max-width:34rem;margin:0;font:400 1.25rem/1.5 var(--serif);color:var(--ink)}
+.scene{position:relative;width:17rem;height:19rem;justify-self:end}
+.window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
+background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
+box-shadow:0 0 0 .55rem var(--frame),0 0 0 .7rem #B9A57D,inset 0 1.2rem 1.6rem -.4rem rgba(40,25,10,.55),inset 1rem 0 1.2rem -.8rem rgba(40,25,10,.4)}
+.window::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent calc(50% - .2rem),#4A2D18 calc(50% - .2rem) calc(50% + .2rem),transparent calc(50% + .2rem)),linear-gradient(180deg,transparent 50%,#4A2D18 50% calc(50% + .4rem),transparent calc(50% + .4rem))}
+.sill{position:absolute;left:0;right:0;bottom:0;height:1.2rem;border-radius:.25rem .25rem .5rem .5rem;background:linear-gradient(180deg,#F6EDD3,#D6C5A0 55%,#B9A57D);box-shadow:0 .7rem .9rem -.4rem rgba(40,25,10,.55)}
+.sill>*{position:absolute;bottom:100%;margin-bottom:-.2rem}
+.sill img{display:block;width:100%;height:auto;filter:drop-shadow(.3rem .35rem .25rem rgba(40,25,10,.45))}
+.jar{left:1.2rem;width:3.1rem}
+.lamp{left:4.9rem;width:6.2rem}
+.ink{left:11.7rem;width:3.4rem}
+.glow{position:absolute;left:88%;top:66%;width:15rem;height:15rem;transform:translate(-50%,-50%);border-radius:50%;pointer-events:none;
+background:radial-gradient(circle,rgba(255,196,96,.62),rgba(255,160,60,.2) 38%,rgba(255,150,50,0) 68%);animation:glow 3.4s ease-in-out infinite}
+.flame{position:absolute;left:88.5%;top:67%;width:.75rem;height:1.35rem;transform:translate(-50%,-92%);transform-origin:50% 100%;border-radius:50% 50% 50% 50%/70% 70% 30% 30%;
+background:radial-gradient(ellipse at 50% 72%,#FFF8D0 0 18%,#FFD060 42%,#FF9A2A 72%,rgba(255,110,20,0) 100%);filter:blur(.4px);animation:flicker 2.7s ease-in-out infinite}
+.reed{position:absolute;left:46%;top:24%;width:.28rem;height:6.4rem;transform:translate(-50%,-100%) rotate(17deg);transform-origin:50% 100%;
+background:linear-gradient(90deg,#6E4F1E,#D9B866 45%,#8A6428);clip-path:polygon(0 0,100% 0,100% 94%,50% 100%,0 94%)}
+.rays{position:absolute;right:7rem;top:3rem;width:1px;height:1px;pointer-events:none;z-index:2}
+.rays i{position:absolute;top:0;right:0;width:8rem;height:48rem;transform-origin:100% 0;transform:rotate(var(--a));filter:blur(8px);mix-blend-mode:soft-light;
+background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
+.rays i:nth-child(1){--a:-40deg}
+.rays i:nth-child(2){--a:-54deg;width:5rem}
+.rays i:nth-child(3){--a:-68deg;width:10rem}
+@keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
+@keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
+.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
+.wall-lamp .lamp{position:relative;left:auto;width:100%}
+.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
+.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
+.jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
+.jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
+background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.jump a{display:inline-flex;align-items:center;min-height:44px;padding:0 1.2rem;text-decoration:none}
+.jump a:hover{background-color:#F6E9C2}
+.search{display:block;width:100%;max-width:34rem;margin:.4rem 0 1.2rem;padding:.75rem 1.1rem;font-weight:400}
+.search::placeholder{color:var(--ink2);opacity:1}
+.search:focus{border-color:var(--ink)}
+.testament{position:relative;display:flex;flex-direction:column;gap:2.4rem;margin:3rem 0 0}
+.testament>h2{display:flex;align-items:center;gap:1rem;margin:0;font:700 clamp(2rem,3.6vw,2.7rem)/1.1 var(--display);letter-spacing:.02em}
+.testament>h2::before{display:none}
+.testament>h2::after{content:"";flex:1;height:.4rem;border-top:2px solid var(--wood);border-bottom:1px solid var(--wood);opacity:.6}
+main section[hidden],.scrolls li[hidden],.tiles li[hidden]{display:none}
+
+.group{position:relative;overflow:hidden;min-width:0;border:.55rem solid var(--frame);border-radius:1.6rem 1.6rem .3rem .3rem;
+background:linear-gradient(180deg,rgba(40,24,10,0),rgba(40,24,10,.14)),var(--noise),color-mix(in srgb,var(--c) 7%,#CDBB93);
+box-shadow:0 0 0 1px #B9A57D,inset 0 1.1rem 1.6rem -.5rem rgba(35,20,8,.55),inset 1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),inset -1.1rem 0 1.4rem -.8rem rgba(35,20,8,.35),0 .7rem 1.1rem -.5rem rgba(50,30,10,.5)}
+.group>h3{position:relative;z-index:3;display:flex;align-items:center;gap:.7rem;margin:0;padding:.65rem 1.3rem .6rem;background:var(--weave),var(--sb);color:var(--sf);font:700 1.45rem/1.15 var(--display);letter-spacing:.02em;filter:drop-shadow(0 .35rem .3rem rgba(25,12,0,.45))}
+.group>h3::after,.book-head::after{content:"";position:absolute;left:0;right:0;top:100%;height:.62rem;background:radial-gradient(circle at 50% 0,var(--sb) 0 .5rem,transparent .52rem) 0 0/1.1rem .62rem repeat-x}
+.emblem{width:1.9rem;height:1.9rem;flex:none;color:var(--sf)}
+
+.scrolls{--h:3.4rem;--board:.62rem;display:flex;flex-wrap:wrap;align-items:flex-start;column-gap:1.3rem;row-gap:var(--board);list-style:none;margin:0;padding:1.5rem 1.2rem var(--board);
+background:repeating-linear-gradient(180deg,transparent 0 var(--h),#2C1A0C var(--h) calc(var(--h) + 1px),#8A5A32 calc(var(--h) + 1px) calc(var(--h) + 3px),#6B4426 calc(var(--h) + 3px) calc(var(--h) + var(--board))) 0 0/100% calc(100% + var(--board)) no-repeat;
+background-origin:content-box;background-clip:padding-box}
+.scrolls li{position:relative;height:var(--h);margin:0;padding:0 .95rem;max-width:100%;transition:transform .18s ease;animation:rise .45s ease backwards;animation-delay:calc(var(--i) * 12ms);filter:drop-shadow(0 .18rem .12rem rgba(20,10,0,.4))}
+.scrolls li::before,.scrolls li::after{content:"";position:absolute;top:0;bottom:0;width:.95rem;
+background:radial-gradient(circle at 50% .45rem,#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) top/100% .95rem no-repeat,
+radial-gradient(circle at 50% calc(100% - .45rem),#C99B66 0 .3rem,#6B4426 .31rem .46rem,transparent .47rem) bottom/100% .95rem no-repeat,
+linear-gradient(var(--sb),var(--sb)) 50% 1rem/.56rem .3rem no-repeat,
+linear-gradient(90deg,#3F2614,#B07C48 35%,#7A4E2B 65%,#3F2614) center/.42rem 100% no-repeat}
+.scrolls li::before{left:0}
+.scrolls li::after{right:0}
+.scrolls a,.scrolls li.empty>span{display:flex;align-items:center;gap:.7rem;height:calc(var(--h) - 1rem);margin:.5rem 0;padding:0 .8rem 0 1.25rem;white-space:nowrap;font:700 1.14rem/1 var(--display);letter-spacing:.015em}
+.scrolls a{position:relative;z-index:1;color:var(--ink);text-decoration:none;animation:unroll .4s cubic-bezier(.3,.7,.3,1) backwards;animation-delay:calc(var(--i) * 12ms + 80ms);
+background:linear-gradient(180deg,rgba(104,66,22,.36),rgba(104,66,22,0) 20%,rgba(104,66,22,0) 78%,rgba(104,66,22,.44)),linear-gradient(rgba(255,248,226,.5),rgba(255,248,226,.5)),url(img/parchment.webp) #EBD8A8;
+box-shadow:inset 0 0 .7rem rgba(120,80,25,.4)}
+.scrolls a::before,.scrolls a::after{content:"";position:absolute;top:0;bottom:0;width:1.15rem;border-radius:.5rem;
+background:repeating-linear-gradient(90deg,rgba(90,60,20,.2) 0 1px,transparent 1px 3px),linear-gradient(90deg,#8E6D3A 0,#E8D3A0 30%,#F5E8C4 50%,#D8BF86 76%,#7F5F2E 100%);box-shadow:0 0 .35rem rgba(60,35,10,.5)}
+.scrolls a::before{left:-.62rem}
+.scrolls a::after{right:-.62rem}
+.scrolls li:hover,.scrolls li:has(a:focus-visible){transform:translateY(-.22rem)}
+.scrolls a:focus-visible{outline-offset:.6rem}
+.scrolls .count{position:relative;z-index:2;display:grid;place-items:center;min-width:1.85rem;height:1.85rem;padding:0 .3rem;border-radius:52% 48% 55% 45%/48% 55% 45% 52%;
+background:radial-gradient(circle at 35% 30%,var(--sb),color-mix(in srgb,var(--sb) 72%,#000));color:var(--sf);font:700 .9rem/1 var(--sans);letter-spacing:0;box-shadow:inset 0 1px 1px rgba(255,255,255,.4),0 .1rem .2rem rgba(0,0,0,.4)}
+.scrolls li.empty{padding:0 .3rem}
+.scrolls li.empty::before,.scrolls li.empty::after{display:none}
+.scrolls li.empty>span{border:1.5px dashed rgba(63,38,20,.65);border-radius:.4rem;color:var(--ink2);background:rgba(255,248,230,.22)}
+@keyframes unroll{from{clip-path:inset(0 50%)}to{clip-path:inset(0 0)}}
+@keyframes rise{from{opacity:0;transform:translateY(.6rem)}to{opacity:1;transform:none}}
+
+.book-head{position:relative;display:flex;align-items:center;gap:1.3rem;margin:0 0 2.2rem;padding:1.4rem 1.7rem;border-radius:.4rem .4rem 0 0;background:var(--weave),var(--sb);color:var(--sf);filter:drop-shadow(0 .45rem .35rem rgba(25,12,0,.4))}
+.book-head .emblem{width:4.2rem;height:4.2rem}
+.book-head h1{margin:0;color:var(--sf);font:700 clamp(2rem,4.4vw,3.1rem)/1.05 var(--display)}
+.meta{margin:.35rem 0 0;font:700 1.05rem/1.4 var(--sans);color:var(--sf)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));gap:.9rem;list-style:none;padding:0;margin:0 0 1rem}
+.tiles li{margin:0}
+.tiles a{display:flex;align-items:center;height:100%;min-height:4.6rem;padding:.85rem 1rem .85rem 1.2rem;border-left:.5rem solid var(--sb);border-radius:.35rem;color:var(--ink);font:700 1.1rem/1.3 var(--serif);text-decoration:none;
+background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),url(img/parchment.webp) var(--parch);box-shadow:inset 0 0 .7rem rgba(120,85,35,.28),0 .15rem 0 #B9A276,0 .6rem .9rem -.5rem rgba(60,40,15,.55);transition:transform .15s}
+.tiles a:hover{transform:translateY(-.15rem)}
+.tiles .chapters{display:block;margin-top:.3rem;color:var(--cdd);font:700 .95rem/1.3 var(--sans)}
+
+.toc{margin:0 0 1.4rem;padding:.2rem 1.1rem;border:1px solid #D9C89E;border-radius:.3rem;background:#FFFBEC;font:400 1.02rem/1.5 var(--sans)}
+.toc summary{display:flex;align-items:center;min-height:44px;cursor:pointer;font-weight:700}
+.toc ol{margin:.3rem 0 .7rem;padding-left:1.4rem}
+.toc li::marker{color:var(--cdd);font-weight:700}
+.toc a{color:var(--ink);text-decoration:none}
+.toc a:hover{color:var(--cdd);text-decoration:underline}
+.btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
+background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.btn:hover,details.download summary:hover{background-color:#F6E9C2}
+.btn.primary{background:var(--weave),var(--sb);border-color:color-mix(in srgb,var(--sb) 60%,#000);color:var(--sf)}
+.btn.primary:hover{background:var(--weave),color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.pager{display:grid;grid-template-columns:1fr minmax(8rem,auto) 1fr;gap:.75rem;margin-top:3.5rem}
+.pager .btn{flex-direction:column;align-items:flex-start;justify-content:flex-start;padding:.8rem 1rem;text-align:left}
+.pager .pager-next{align-items:flex-end;text-align:right}
+.pager .pager-section{align-items:center;justify-content:center;text-align:center}
+.pager .dir{font-size:.9rem;font-weight:700}
+.pager .name{font:700 1.05rem/1.3 var(--serif);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
+details.download{position:relative}
+details.download summary{list-style:none;white-space:nowrap}
+details.download summary::-webkit-details-marker{display:none}
+details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;padding:.3rem;background:var(--sheet);border:1px solid #BFA97E;border-radius:.3rem;box-shadow:0 12px 28px -12px rgba(40,25,10,.55)}
+details.download .menu a{display:flex;align-items:center;min-height:44px;padding:.45rem .8rem;border-radius:.2rem;color:var(--ink);text-decoration:none}
+details.download .menu a:hover{background:#F0E3BE}
+
+.float{position:fixed;left:0;right:0;bottom:1rem;display:flex;justify-content:space-between;padding:0 1rem;pointer-events:none;z-index:25}
+.fab{pointer-events:auto;display:flex;align-items:center;justify-content:center;width:3rem;height:3rem;border:0;border-radius:50%;background:var(--sb);color:var(--sf);font:700 1.3rem/1 var(--sans);text-decoration:none;cursor:pointer;box-shadow:inset 0 1px 1px rgba(255,255,255,.35),0 8px 20px -6px rgba(40,25,10,.6)}
+.fab:hover{background:color-mix(in srgb,var(--sb) 85%,var(--mix))}
+.fab.next{margin-left:auto}
+.fab.top{position:fixed;right:1rem;bottom:5rem;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .2s,transform .2s,visibility .2s;pointer-events:auto;z-index:25}
+.fab.top.visible{opacity:1;visibility:visible;transform:none}
+.credits{max-width:68rem;margin:0 auto;padding:1.2rem 2.4rem 1.5rem;font:400 .95rem/1.5 var(--sans);color:var(--ink);background:var(--stone);border-inline:1.1rem solid #A98B5E}
+@media(max-width:1180px){.credits{padding-inline:1.25rem;border-inline-width:.5rem}}
+
+body.plain{background:#fff}
+body.plain::before{display:none}
+body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
+body.plain main::before{display:none}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+@media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
+@media(max-width:640px){
+body{font-size:1.12rem}
+:root{--px:1.1rem;--py:1.4rem}
+main:not(.wide){margin:0 auto 5rem;border-radius:0}
+.pager{grid-template-columns:1fr}.pager>span{display:none}
+.pager-prev{order:1}.pager-next{order:2}.pager-section{order:3}
+.fab{width:2.75rem;height:2.75rem}.fab.prev,.fab.next{display:none}.fab.top{bottom:1rem;right:.5rem}
+.testament{gap:2rem}
+.group{border-width:.4rem;border-radius:1.2rem 1.2rem .25rem .25rem}
+.group>h3{padding:.55rem 1rem .5rem;font-size:1.3rem}
+.scrolls{--h:3.9rem;column-gap:.8rem;padding:1.4rem .55rem var(--board)}
+.scrolls li{padding:0 .8rem}
+.scrolls li::before,.scrolls li::after{width:.8rem}
+.scrolls a,.scrolls li.empty>span{gap:.5rem;padding:0 .55rem 0 1rem;font-size:1rem}
+.scrolls a::before,.scrolls a::after{width:1rem}
+.scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
+.scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
+.book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-height:500px){header.top{position:static}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+</style>
+</head>
+<body class="plain">
+<main>
+<h1>17. The Epistle to Titus</h1>
+<h2 id="s1">1) Titus 1, - the importance of knowing and transmitting the Word of God, the Covenant, Christ</h2>
+<h3>(1) Titus 1:1, - the importance of understanding God's foreknowledge and election (Paul is a servant of God, chosen by God by faith), the importance of knowing the truth of God's Word related to piety. (God in the flesh, eternal life with God, intended.) 1 Tim. 3:16 Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9</h3>
+<blockquote data-v="kjv"><p>Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and the acknowledging of the truth which is after godliness;</p><cite>Titus 1:1 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>Paul, a servant of God and an apostle of Jesus Christ for the faith of God’s elect and their knowledge of the truth that leads to godliness,</p><cite>Titus 1:1 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>Paul, a servant of God and an apostle of Jesus Christ, according to the faith of God’s chosen ones and the knowledge of the truth which is according to godliness,</p><cite>Titus 1:1 · WEB</cite></blockquote>
+<blockquote data-v="kjv"><p>And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.</p><cite>1 Tim. 3:16 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>By common confession, the mystery of godliness is great: He appeared in the flesh, was vindicated by the Spirit, was seen by angels, was proclaimed among the nations, was believed in throughout the world, was taken up in glory.</p><cite>1 Tim. 3:16 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>Without controversy, the mystery of godliness is great: God was revealed in the flesh, justified in the spirit, seen by angels, preached among the nations, believed on in the world, and received up in glory.</p><cite>1 Tim. 3:16 · WEB</cite></blockquote>
+<blockquote data-v="kjv"><p>So God created man in his own image, in the image of God created he him; male and female created he them.</p><cite>Gen. 1:27 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>So God created man in His own image; in the image of God He created him; male and female He created them.</p><cite>Gen. 1:27 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>God created man in his own image. In God’s image he created him; male and female he created them.</p><cite>Gen. 1:27 · WEB</cite></blockquote>
+<blockquote data-v="kjv"><p>And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.</p><cite>Gen. 2:7 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>Then the LORD God formed man from the dust of the ground and breathed the breath of life into his nostrils, and the man became a living being.</p><cite>Gen. 2:7 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>Yahweh God formed man from the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.</p><cite>Gen. 2:7 · WEB</cite></blockquote>
+<blockquote data-v="kjv"><p>And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.</p><cite>Gen. 2:9 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>Out of the ground the LORD God gave growth to every tree that is pleasing to the eye and good for food. And in the middle of the garden were the tree of life and the tree of the knowledge of good and evil.</p><cite>Gen. 2:9 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>Out of the ground Yahweh God made every tree to grow that is pleasant to the sight, and good for food, including the tree of life in the middle of the garden and the tree of the knowledge of good and evil.</p><cite>Gen. 2:9 · WEB</cite></blockquote>
+<blockquote data-v="kjv"><p>And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.</p><cite>Gen. 2:16-17 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>And the LORD God commanded him, “You may eat freely from every tree of the garden, but you must not eat from the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”</p><cite>Gen. 2:16-17 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>Yahweh God commanded the man, saying, “You may freely eat of every tree of the garden; but you shall not eat of the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”</p><cite>Gen. 2:16-17 · WEB</cite></blockquote>
+<blockquote data-v="kjv"><p>Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.</p><cite>Gen. 3:1-7 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>Now the serpent was more crafty than any beast of the field that the LORD God had made. And he said to the woman, “Did God really say, ‘You must not eat from any tree in the garden?’” The woman answered the serpent, “We may eat the fruit of the trees of the garden, but about the fruit of the tree in the middle of the garden, God has said, ‘You must not eat of it or touch it, or you will die.’” “You will not surely die,” the serpent told the woman. “For God knows that in the day you eat of it, your eyes will be opened and you will be like God, knowing good and evil.” When the woman saw that the tree was good for food and pleasing to the eyes, and that it was desirable for obtaining wisdom, she took the fruit and ate it. She also gave some to her husband who was with her, and he ate it. And the eyes of both of them were opened, and they knew that they were naked; so they sewed together fig leaves and made coverings for themselves.</p><cite>Gen. 3:1-7 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>Now the serpent was more subtle than any animal of the field which Yahweh God had made. He said to the woman, “Has God really said, ‘You shall not eat of any tree of the garden’?” The woman said to the serpent, “We may eat fruit from the trees of the garden, but not the fruit of the tree which is in the middle of the garden. God has said, ‘You shall not eat of it. You shall not touch it, lest you die.’” The serpent said to the woman, “You won’t really die, for God knows that in the day you eat it, your eyes will be opened, and you will be like God, knowing good and evil.” When the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took some of its fruit, and ate. Then she gave some to her husband with her, and he ate it, too. Their eyes were opened, and they both knew that they were naked. They sewed fig leaves together, and made coverings for themselves.</p><cite>Gen. 3:1-7 · WEB</cite></blockquote>
+<blockquote data-v="kjv"><p>Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:</p><cite>Rom. 5:12 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>Therefore, just as sin entered the world through one man, and death through sin, so also death was passed on to all men, because all sinned.</p><cite>Rom. 5:12 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>Therefore, as sin entered into the world through one man, and death through sin, so death passed to all men because all sinned.</p><cite>Rom. 5:12 · WEB</cite></blockquote>
+<blockquote data-v="kjv"><p>For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.</p><cite>Rom. 6:23 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.</p><cite>Rom. 6:23 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.</p><cite>Rom. 6:23 · WEB</cite></blockquote>
+<blockquote data-v="kjv"><p>Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:</p><cite>Eph. 2:2 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>in which you used to walk when you conformed to the ways of this world and of the ruler of the power of the air, the spirit who is now at work in the sons of disobedience.</p><cite>Eph. 2:2 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the children of disobedience.</p><cite>Eph. 2:2 · WEB</cite></blockquote>
+<blockquote data-v="kjv"><p>And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.</p><cite>Gen. 3:15 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>And I will put enmity between you and the woman, and between your seed and her seed. He will crush your head, and you will strike his heel.”</p><cite>Gen. 3:15 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>I will put hostility between you and the woman, and between your offspring and her offspring. He will bruise your head, and you will bruise his heel.”</p><cite>Gen. 3:15 · WEB</cite></blockquote>
+<blockquote data-v="kjv"><p>Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.</p><cite>Gen. 3:21 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>And the LORD God made garments of skin for Adam and his wife, and He clothed them.</p><cite>Gen. 3:21 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>Yahweh God made garments of animal skins for Adam and for his wife, and clothed them.</p><cite>Gen. 3:21 · WEB</cite></blockquote>
+<blockquote data-v="kjv"><p>And Simon Peter answered and said, Thou art the Christ, the Son of the living God.</p><cite>Matt. 16:16 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>Simon Peter answered, “You are the Christ, the Son of the living God.”</p><cite>Matt. 16:16 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>Simon Peter answered, “You are the Christ, the Son of the living God.”</p><cite>Matt. 16:16 · WEB</cite></blockquote>
+<blockquote data-v="kjv"><p>And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.</p><cite>1 Tim. 3:16 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>By common confession, the mystery of godliness is great: He appeared in the flesh, was vindicated by the Spirit, was seen by angels, was proclaimed among the nations, was believed in throughout the world, was taken up in glory.</p><cite>1 Tim. 3:16 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>Without controversy, the mystery of godliness is great: God was revealed in the flesh, justified in the spirit, seen by angels, preached among the nations, believed on in the world, and received up in glory.</p><cite>1 Tim. 3:16 · WEB</cite></blockquote>
+<blockquote data-v="kjv"><p>When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.</p><cite>John 19:30 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>When Jesus had received the sour wine, He said, “It is finished.” And bowing His head, He yielded up His spirit.</p><cite>John 19:30 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>When Jesus therefore had received the vinegar, he said, “It is finished!” Then he bowed his head and gave up his spirit.</p><cite>John 19:30 · WEB</cite></blockquote>
+<blockquote data-v="kjv"><p>That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.</p><cite>Rom. 10:9 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>that if you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised Him from the dead, you will be saved.</p><cite>Rom. 10:9 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>that if you will confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.</p><cite>Rom. 10:9 · WEB</cite></blockquote>
+<h3>(2) Titus 1:2, - the importance of understanding eternal life together with God, the importance of understanding the purpose and meaning of life on earth in time (Where is a person's choice regarding eternity? With whom?)</h3>
+<blockquote data-v="kjv"><p>In hope of eternal life, which God, that cannot lie, promised before the world began;</p><cite>Titus 1:2 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>in the hope of eternal life, which God, who cannot lie, promised before time began.</p><cite>Titus 1:2 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>in hope of eternal life, which God, who can’t lie, promised before time began;</p><cite>Titus 1:2 · WEB</cite></blockquote>
+<h3>(3) Titus 1:3, - the importance of conveying the Word of God, the Covenant, Christ, the preaching of N.Z., God's sovereignty and the control of the preaching trust</h3>
+<blockquote data-v="kjv"><p>But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;</p><cite>Titus 1:3 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>In His own time He has made His word evident in the proclamation entrusted to me by the command of God our Savior.</p><cite>Titus 1:3 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>but in his own time revealed his word in the message with which I was entrusted according to the commandment of God our Savior,</p><cite>Titus 1:3 · WEB</cite></blockquote>
+<h3>(4) Titus 1:4, - the importance of the disciple, the transmission of the Word of God, the Covenant, Christ (Titus)</h3>
+<blockquote data-v="kjv"><p>To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour.</p><cite>Titus 1:4 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>To Titus, my true child in our common faith: Grace and peace from God the Father and Christ Jesus our Savior.</p><cite>Titus 1:4 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>to Titus, my true child according to a common faith: Grace, mercy, and peace from God the Father and the Lord Jesus Christ our Savior.</p><cite>Titus 1:4 · WEB</cite></blockquote>
+<h3>(5) Titus 1:5-9, - the importance of God's order of the Church of Christ, the importance of elders and bishops, the importance of knowing and transmitting the Word of God, the Covenants, Christ, the Disciples, Worldwide Evangelization</h3>
+<blockquote data-v="kjv"><p>For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee: If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly. For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre; But a lover of hospitality, a lover of good men, sober, just, holy, temperate; Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers.</p><cite>Titus 1:5-9 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>The reason I left you in Crete was that you would set in order what was unfinished and appoint elders in every town, as I directed you. An elder must be blameless, the husband of but one wife, having children who are believers and who are not open to accusation of indiscretion or insubordination. As God’s steward, an overseer must be above reproach—not self-willed, not quick-tempered, not given to drunkenness, not violent, not greedy for money. Instead, he must be hospitable, a lover of good, self-controlled, upright, holy, and disciplined. He must hold firmly to the faithful word as it was taught, so that he can encourage others by sound teaching and refute those who contradict it.</p><cite>Titus 1:5-9 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>I left you in Crete for this reason, that you would set in order the things that were lacking and appoint elders in every city, as I directed you— if anyone is blameless, the husband of one wife, having children who believe, who are not accused of loose or unruly behavior. For the overseer must be blameless, as God’s steward, not self-pleasing, not easily angered, not given to wine, not violent, not greedy for dishonest gain; but given to hospitality, a lover of good, sober minded, fair, holy, self-controlled, holding to the faithful word which is according to the teaching, that he may be able to exhort in the sound doctrine, and to convict those who contradict him.</p><cite>Titus 1:5-9 · WEB</cite></blockquote>
+<h4>(a) Presbyter and bishop - the importance of God's order in the Church of God, God's establishment</h4>
+<h4>(b) The importance of sanctification, the changed man, the opportunity to serve God and neighbor</h4>
+<h3>(6) Titus 1:10-16, - rejection of the Word of God, the Covenant, Christ (empty-mouthed and deceivers, teach what should not be out of shameful self-interest), false teaching of the mixed gospel (Jewish fables), negative fruits of life, the importance of understanding the actions of Satan</h3>
+<blockquote data-v="kjv"><p>For there are many unruly and vain talkers and deceivers, specially they of the circumcision: Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre’s sake. One of themselves, even a prophet of their own, said, The Cretians are alway liars, evil beasts, slow bellies. This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith; Not giving heed to Jewish fables, and commandments of men, that turn from the truth. Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled. They profess that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate.</p><cite>Titus 1:10-16 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>For many are rebellious and full of empty talk and deception, especially those of the circumcision, who must be silenced. For the sake of dishonorable gain, they undermine entire households and teach things they should not. As one of their own prophets has said, “Cretans are always liars, evil beasts, lazy gluttons.” This testimony is true. Therefore rebuke them sternly, so that they will be sound in the faith and will pay no attention to Jewish myths or to the commands of men who have rejected the truth. To the pure, all things are pure; but to the defiled and unbelieving, nothing is pure. Indeed, both their minds and their consciences are defiled. They profess to know God, but by their actions they deny Him. They are detestable, disobedient, and unfit for any good deed.</p><cite>Titus 1:10-16 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>For there are also many unruly men, vain talkers and deceivers, especially those of the circumcision, whose mouths must be stopped: men who overthrow whole houses, teaching things which they ought not, for dishonest gain’s sake. One of them, a prophet of their own, said, “Cretans are always liars, evil beasts, and idle gluttons.” This testimony is true. For this cause, reprove them sharply, that they may be sound in the faith, not paying attention to Jewish fables and commandments of men who turn away from the truth. To the pure, all things are pure, but to those who are defiled and unbelieving, nothing is pure; but both their mind and their conscience are defiled. They profess that they know God, but by their deeds they deny him, being abominable, disobedient, and unfit for any good work.</p><cite>Titus 1:10-16 · WEB</cite></blockquote>
+<h2 id="s2">2) Titus 2, - the importance of knowing and transmitting the Word of God, the Covenant, Christ</h2>
+<h3>(1) Titus 2:1-6, - the importance of living a right life, fulfilling one's destiny (knowing and transmitting the Word of God, the Covenant, Christ), serving God and people, fulfilling God's will</h3>
+<blockquote data-v="kjv"><p>But speak thou the things which become sound doctrine: That the aged men be sober, grave, temperate, sound in faith, in charity, in patience. The aged women likewise, that they be in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things; That they may teach the young women to be sober, to love their husbands, to love their children, To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed. Young men likewise exhort to be sober minded.</p><cite>Titus 2:1-6 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>But as for you, speak the things that are consistent with sound doctrine. Older men are to be temperate, dignified, self-controlled, and sound in faith, love, and perseverance. Older women, likewise, are to be reverent in their behavior, not slanderers or addicted to much wine, but teachers of good. In this way they can train the young women to love their husbands and children, to be self-controlled, pure, managers of their households, kind, and submissive to their own husbands, so that the word of God will not be discredited. In the same way, urge the younger men to be self-controlled.</p><cite>Titus 2:1-6 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>But say the things which fit sound doctrine, that older men should be temperate, sensible, sober minded, sound in faith, in love, and in perseverance, and that older women likewise be reverent in behavior, not slanderers nor enslaved to much wine, teachers of that which is good, that they may train the young wives to love their husbands, to love their children, to be sober minded, chaste, workers at home, kind, being in subjection to their own husbands, that God’s word may not be blasphemed. Likewise, exhort the younger men to be sober minded.</p><cite>Titus 2:1-6 · WEB</cite></blockquote>
+<h3>(2) Titus 2:7-8, - the importance of fulfilling the purpose, the importance of correctly communicating the Word of God, the Covenant, Christ, the authority of the Church, God</h3>
+<blockquote data-v="kjv"><p>In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity, Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.</p><cite>Titus 2:7-8 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>In everything, show yourself to be an example by doing good works. In your teaching show integrity, dignity, and wholesome speech that is above reproach, so that anyone who opposes us will be ashamed, having nothing bad to say about us.</p><cite>Titus 2:7-8 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>In all things show yourself an example of good works. In your teaching, show integrity, seriousness, incorruptibility, and soundness of speech that can’t be condemned, that he who opposes you may be ashamed, having no evil thing to say about us.</p><cite>Titus 2:7-8 · WEB</cite></blockquote>
+<h3>(3) Titus 2:9-10, - the importance of proper working relationships, the importance of fulfilling the destiny of God's people</h3>
+<blockquote data-v="kjv"><p>Exhort servants to be obedient unto their own masters, and to please them well in all things; not answering again; Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.</p><cite>Titus 2:9-10 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>Slaves are to submit to their own masters in everything, to be well-pleasing, not argumentative, not stealing from them, but showing all good faith, so that in every respect they will adorn the teaching about God our Savior.</p><cite>Titus 2:9-10 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>Exhort servants to be in subjection to their own masters and to be well-pleasing in all things, not contradicting, not stealing, but showing all good fidelity, that they may adorn the doctrine of God, our Savior, in all things.</p><cite>Titus 2:9-10 · WEB</cite></blockquote>
+<h3>(4) Titus 2:11, - the importance of accepting the Word of God, the Covenant, Christ, the saving grace of God for all people, the importance of salvation and eternal life together with God</h3>
+<blockquote data-v="kjv"><p>For the grace of God that bringeth salvation hath appeared to all men,</p><cite>Titus 2:11 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>For the grace of God has appeared, bringing salvation to everyone.</p><cite>Titus 2:11 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>For the grace of God has appeared, bringing salvation to all men,</p><cite>Titus 2:11 · WEB</cite></blockquote>
+<h3>(5) Titus 2:12, - the importance of understanding the work of God's grace – human teaching (the importance of the Word of God, the Covenant, Christ), the importance of living a right life (serving God and people), the importance of fulfilling a destiny</h3>
+<blockquote data-v="kjv"><p>Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;</p><cite>Titus 2:12 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>It instructs us to renounce ungodliness and worldly passions, and to live sensible, upright, and godly lives in the present age,</p><cite>Titus 2:12 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>instructing us to the intent that, denying ungodliness and worldly lusts, we would live soberly, righteously, and godly in this present age;</p><cite>Titus 2:12 · WEB</cite></blockquote>
+<h3>(6) Titus 2:13, - the importance of understanding and waiting for the Second Coming of Jesus Christ (the Great God and Savior), the resurrection of the dead, eternal life with God</h3>
+<blockquote data-v="kjv"><p>Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;</p><cite>Titus 2:13 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>as we await the blessed hope and glorious appearance of our great God and Savior Jesus Christ.</p><cite>Titus 2:13 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>looking for the blessed hope and appearing of the glory of our great God and Savior, Jesus Christ,</p><cite>Titus 2:13 · WEB</cite></blockquote>
+<h3>(7) Titus 2:14, - the importance of understanding the Sacrifice of Jesus Christ. (Getting rid of lawlessness, cleansing and sanctifying God's people is the importance of understanding God's will and action)</h3>
+<blockquote data-v="kjv"><p>Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works.</p><cite>Titus 2:14 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>He gave Himself for us to redeem us from all lawlessness and to purify for Himself a people for His own possession, zealous for good deeds.</p><cite>Titus 2:14 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>who gave himself for us, that he might redeem us from all iniquity and purify for himself a people for his own possession, zealous for good works.</p><cite>Titus 2:14 · WEB</cite></blockquote>
+<h3>(8) Titus 2:15, - the importance of proclaiming the Word of God, the Covenant, Christ, the importance of fulfilling the destiny of God's people</h3>
+<blockquote data-v="kjv"><p>These things speak, and exhort, and rebuke with all authority. Let no man despise thee.</p><cite>Titus 2:15 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>Speak these things as you encourage and rebuke with all authority. Let no one despise you.</p><cite>Titus 2:15 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>Say these things and exhort and reprove with all authority. Let no one despise you.</p><cite>Titus 2:15 · WEB</cite></blockquote>
+<h2 id="s3">3) Titus 3, - the importance of understanding the Word of God, the Covenant, Christ</h2>
+<h3>(1) Titus 3:1-2, - the importance of living a right life, fulfilling one’s destiny, serving God and people</h3>
+<blockquote data-v="kjv"><p>Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work, To speak evil of no man, to be no brawlers, but gentle, shewing all meekness unto all men.</p><cite>Titus 3:1-2 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>Remind the believers to submit to rulers and authorities, to be obedient and ready for every good work, to malign no one, and to be peaceable and gentle, showing full consideration to everyone.</p><cite>Titus 3:1-2 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>Remind them to be in subjection to rulers and to authorities, to be obedient, to be ready for every good work, to speak evil of no one, not to be contentious, to be gentle, showing all humility toward all men.</p><cite>Titus 3:1-2 · WEB</cite></blockquote>
+<h3>(2) Titus 3:3, - the importance of understanding the spiritual problem of every human being, the importance of understanding the causes of a wrong life</h3>
+<blockquote data-v="kjv"><p>For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, and hating one another.</p><cite>Titus 3:3 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>For at one time we too were foolish, disobedient, misled, and enslaved to all sorts of desires and pleasures—living in malice and envy, being hated and hating one another.</p><cite>Titus 3:3 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>For we were also once foolish, disobedient, deceived, serving various lusts and pleasures, living in malice and envy, hateful, and hating one another.</p><cite>Titus 3:3 · WEB</cite></blockquote>
+<h3>(3) Titus 3:4-8, - the importance of understanding God's love and mercy, the salvation of man not by works, but by the grace of God through justification in His grace (Sacrifice and Labor of Christ)</h3>
+<blockquote data-v="kjv"><p>But after that the kindness and love of God our Saviour toward man appeared, Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost; Which he shed on us abundantly through Jesus Christ our Saviour; That being justified by his grace, we should be made heirs according to the hope of eternal life. This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men.</p><cite>Titus 3:4-8 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>But when the kindness of God our Savior and His love for mankind appeared, He saved us, not by the righteous deeds we had done, but according to His mercy, through the washing of new birth and renewal by the Holy Spirit. This is the Spirit He poured out on us abundantly through Jesus Christ our Savior, so that, having been justified by His grace, we would become heirs with the hope of eternal life. This saying is trustworthy. And I want you to emphasize these things, so that those who have believed God will take care to devote themselves to good deeds. These things are excellent and profitable for the people.</p><cite>Titus 3:4-8 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>But when the kindness of God our Savior and his love toward mankind appeared, not by works of righteousness which we did ourselves, but according to his mercy, he saved us through the washing of regeneration and renewing by the Holy Spirit, whom he poured out on us richly through Jesus Christ our Savior; that being justified by his grace, we might be made heirs according to the hope of eternal life. This saying is faithful, and concerning these things I desire that you insist confidently, so that those who have believed God may be careful to maintain good works. These things are good and profitable to men;</p><cite>Titus 3:4-8 · WEB</cite></blockquote>
+<h3>(4) Titus 3:9, - the importance of understanding the Word of God, the Covenant, Christ, the importance of understanding the meaninglessness of the Law without the Good News</h3>
+<blockquote data-v="kjv"><p>But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain.</p><cite>Titus 3:9 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>But avoid foolish controversies, genealogies, arguments, and quarrels about the law, because these things are pointless and worthless.</p><cite>Titus 3:9 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>but shun foolish questionings, genealogies, strife, and disputes about the law; for they are unprofitable and vain.</p><cite>Titus 3:9 · WEB</cite></blockquote>
+<h3>(5) Titus 3:10-11, - rejection of the Word of God, the Covenant, Christ, heretics, the importance of proper chastisement and admonition</h3>
+<blockquote data-v="kjv"><p>A man that is an heretick after the first and second admonition reject; Knowing that he that is such is subverted, and sinneth, being condemned of himself.</p><cite>Titus 3:10-11 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>Reject a divisive man after a first and second admonition, knowing that such a man is corrupt and sinful; he is self-condemned.</p><cite>Titus 3:10-11 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>Avoid a factious man after a first and second warning, knowing that such a one is perverted and sinful, being self-condemned.</p><cite>Titus 3:10-11 · WEB</cite></blockquote>
+<h3>(6) Titus 3:12-15, - the importance of disciples, the importance of fulfilling destiny, knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization</h3>
+<blockquote data-v="kjv"><p>When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter. Bring Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them. And let ours also learn to maintain good works for necessary uses, that they be not unfruitful. All that are with me salute thee. Greet them that love us in the faith. Grace be with you all. Amen.</p><cite>Titus 3:12-15 · KJV</cite></blockquote>
+<blockquote data-v="bsb"><p>As soon as I send Artemas or Tychicus to you, make every effort to come to me at Nicopolis, because I have decided to winter there. Do your best to equip Zenas the lawyer and Apollos, so that they will have everything they need. And our people must also learn to devote themselves to good works in order to meet the pressing needs of others, so that they will not be unfruitful. All who are with me send you greetings. Greet those who love us in the faith. Grace be with all of you.</p><cite>Titus 3:12-15 · BSB</cite></blockquote>
+<blockquote data-v="web"><p>When I send Artemas to you, or Tychicus, be diligent to come to me to Nicopolis, for I have determined to winter there. Send Zenas the lawyer and Apollos on their journey speedily, that nothing may be lacking for them. Let our people also learn to maintain good works to meet necessary needs, that they may not be unfruitful. All who are with me greet you. Greet those who love us in faith. Grace be with you all. Amen.</p><cite>Titus 3:12-15 · WEB</cite></blockquote>
+<h2 id="s4">Conclusion:</h2>
+<h3>(1) The importance of understanding God's foreknowledge and election</h3>
+<h3>(2) The Importance of God's Order in the Church of God</h3>
+<h3>(3) The importance of fulfilling the destiny of God's people</h3>
+<h3>(4) The Importance of Understanding Christ as the Great God and Savior</h3>
+<h3>(5) The importance of understanding salvation is not works, but God's grace</h3>
+<h3>(6) The importance of students, the importance of fulfilling a destiny</h3>
+</main>
+<script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
+</body>
+</html>

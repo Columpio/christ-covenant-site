@@ -40,7 +40,7 @@ a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible{o
 header.top{position:sticky;top:0;z-index:30;background:rgba(247,239,218,.95);backdrop-filter:blur(6px);border-bottom:1px solid #BFA97E;box-shadow:0 .4rem .8rem -.5rem rgba(50,30,10,.45);font:700 1.02rem/1.4 var(--sans)}
 header.top::before{content:"";display:block;height:4px;background:var(--canon)}
 body[style] header.top::before{background:var(--c)}
-header.top .bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;max-width:44rem;margin:0 auto;padding:0 1.25rem}
+header.top .bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;max-width:44rem;margin:0 auto;padding:.35rem 1.25rem}
 header.top.wide .bar{max-width:68rem}
 .crumbs{min-width:0;color:var(--ink2)}
 .crumbs a{display:inline-flex;align-items:center;min-height:44px;padding:0 .3rem;color:var(--ink);text-decoration:none}
@@ -68,6 +68,14 @@ li::marker{color:var(--sb)}
 blockquote{margin:.9rem 0 1.3rem;padding:.9rem 1.2rem 1rem;background:#FFFBEC;border:1px solid #E2D2A8;border-left:.32rem solid var(--sb);border-radius:.2rem;box-shadow:0 .2rem 0 #E6D8B4,0 .7rem 1rem -.7rem rgba(60,40,15,.5);font-size:1.08rem}
 blockquote p{margin:0}
 blockquote cite{display:block;margin-top:.4rem;font:700 .92rem/1.4 var(--sans);font-style:normal;color:var(--cdd)}
+/* Английская версия: цитата во всех переводах, виден выбранный (data-bv на <html>, по умолчанию KJV). */
+blockquote[data-v]{display:none}
+html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=kjv],html[data-bv=bsb] blockquote[data-v=bsb],html[data-bv=web] blockquote[data-v=web]{display:block}
+.tools{display:flex;align-items:center;gap:.5rem;margin-left:auto}
+.tools .lang,.bv-select{display:inline-flex;align-items:center;min-height:44px;padding:0 .7rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1 var(--sans);text-decoration:none;background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
+.bv-select{padding-right:.4rem;cursor:pointer}
+.tools .lang:hover,.bv-select:hover{background-color:#F6E9C2}
+.lang-full{white-space:nowrap}
 
 /* Главная: зал. Утренний свет из окна, лампады, ниши со свитками. */
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
@@ -185,7 +193,7 @@ background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/p
 .pager .dir{font-size:.9rem;font-weight:700}
 .pager .name{font:700 1.05rem/1.3 var(--serif);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
 details.download{position:relative}
-details.download summary{list-style:none}
+details.download summary{list-style:none;white-space:nowrap}
 details.download summary::-webkit-details-marker{display:none}
 details.download .menu{position:absolute;right:0;top:calc(100% + .4rem);display:flex;flex-direction:column;min-width:12rem;padding:.3rem;background:var(--sheet);border:1px solid #BFA97E;border-radius:.3rem;box-shadow:0 12px 28px -12px rgba(40,25,10,.55)}
 details.download .menu a{display:flex;align-items:center;min-height:44px;padding:.45rem .8rem;border-radius:.2rem;color:var(--ink);text-decoration:none}
@@ -227,6 +235,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}

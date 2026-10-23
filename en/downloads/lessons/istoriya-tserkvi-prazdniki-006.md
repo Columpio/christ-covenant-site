@@ -1,0 +1,169 @@
+# 5. The Early Church, the Creed, the Importance of the confession of God's people
+- The Symbol of Faith is a summary of the fundamentals of God's faith
+
+## 1) The importance of the confession of God's people
+
+### (1) Gen. 1:27; 2:7, 16-17; 1:28 (1:28), - the importance of confession. (Knowledge and transmission of the Word of God, the Covenant, Christ, affirmation of the Word of God)
+> So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
+> And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
+> And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:16-17, KJV)
+> And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth. (Gen. 1:28, KJV)
+
+### (2) Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), - the importance of confession. (Affirmation of another word, opposition to the Word of God, the Covenant, Christ)
+> Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons. (Gen. 3:1-7, KJV)
+> Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned: (Rom. 5:12, KJV)
+> For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
+> Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
+
+### (3) Gen. 3:15, 21, - the importance of confession. (Knowledge and transmission of the Word of God, the Covenant, Christ, affirmation of the Word of God)
+> And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
+> Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
+
+### (4) The profession of God's faith is God's institution and requirement. (Adam – Abel – Seth – Abraham – The 12 Tribes of Israel – The Church) 1 John 4:1-3,1 Pet. 3:15,2 Cor. 13:5,1 Cor. 12:3 (Rom. 10:9), -Matt. 12:34-37, - Matt. 10:32-36
+> Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world. Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God: And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world. (1 John 4:1-3, KJV)
+> But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear: (1 Pet. 3:15, KJV)
+> Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates? (2 Cor. 13:5, KJV)
+> Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and that no man can say that Jesus is the Lord, but by the Holy Ghost. (1 Cor. 12:3, KJV)
+> That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
+> O generation of vipers, how can ye, being evil, speak good things? for out of the abundance of the heart the mouth speaketh. A good man out of the good treasure of the heart bringeth forth good things: and an evil man out of the evil treasure bringeth forth evil things. But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment. For by thy words thou shalt be justified, and by thy words thou shalt be condemned. (Matt. 12:34-37, KJV)
+> Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven. But whosoever shall deny me before men, him will I also deny before my Father which is in heaven. Think not that I am come to send peace on earth: I came not to send peace, but a sword. For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law. And a man’s foes shall be they of his own household. (Matt. 10:32-36, KJV)
+
+### (5) The persecution of the Church is the renunciation of the profession of God's faith
+
+## 2) The Apostolic Creed
+
+### (1) Apostolic Council, 49 A.D., Jerusalem
+- I believe in God, the Almighty Father, Creator of heaven and earth.
+- And in Jesus Christ, His Only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, and was crucified., He died and was buried, descended into hell, rose from the dead for the third time, ascended to heaven and sits at the right hand of God the Father Almighty, and from there he will come to judge the living and the dead.
+- I believe in the Holy Spirit, the Holy Universal Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and eternal life. Amen
+
+### (2) The action of Satan is the heresy of Arianism (priest Arius, early 4th century A.D.), denial of the Divinity of Christ and the Holy Spirit
+
+## 3) The Nicene Creed
+
+### (1) The 1st Ecumenical Council, A.D. 325, Nicaea
+- We believe in the One God, the Father Almighty, Creator of all things Visible and invisible.
+- And in the One Lord Jesus Christ, the Son of God, Begotten of the Father, the Only Begotten, that is, from the essence of the father, God from God, Light from Light, The True God is from the True God, begotten, uncreated, consubstantial with the Father, Through whom everything happened both in heaven and on earth
+- For the sake of men and our salvation, he descended and became Incarnate, became man, suffered and rose again on the third day, ascended into heaven and will come to judge the living and the dead.
+- And in the Holy Spirit
+- And those who say that there was a time when there was no Son, or that He was not born before and came from a carrier, or those who claim that the Son of God is from another hypostasis or Essence, or created, or changeable, are anathematized by the Catholic Church. Amen
+
+### (2) The action of Satan – multiple heresies against Christ, the Trinity of God and the teachings of the Word of God, the Covenant, Christ
+
+## 4) Niceo-Constantinople or Niceo-Constantinople Creed, original
+- (2nd Ecumenical Council, 381 A.D., Constantinople)
+
+### (1) I believe in One God, the Father Almighty, Creator of heaven and earth, of all things visible and invisible.
+
+### (2) And in one Lord Jesus Christ, the Only begotten Son of God, begotten of the Father before all ages, Light from Light, True God from True God, begotten, uncreated, one being with the Father, through whom all things were created,
+
+### (3) For us humans and for our salvation, he descended from heaven, took flesh from the Holy Spirit and the Virgin Mary, and became a man.,
+
+### (4) Who was crucified for us under Pontius Pilate, suffered and was buried,
+
+### (5) The Resurrection on the third day according to the Scriptures (prophetic),
+
+### (6) Who ascended into heaven and sits at the right hand of the Father.,
+
+### (7) And He will come again with glory to judge the living and the dead; His kingdom will have no end.
+
+### (8) And in the Holy Spirit, the Lord, the giver of life, who proceeds from the Father, who is worshipped and glorified equally with the Father and the Son, who spoke through the prophets.
+
+### (9) And into one, Holy, Universal, and Apostolic Church
+
+### (10) I confess one baptism for the remission of sins
+
+### (11) I await the resurrection of the dead,
+
+### (12) And the life of the next century
+
+## 5) The action of Satan is a distorted understanding of many points, a statement of a misunderstanding of the Word of God, the Covenant, Christ
+
+## 6) Analysis of the Nicene-Constantinople Creed
+
+### (1) Correction of paragraph 8 of the Nicene-Constantinople Creed – "and in the Holy Spirit, the Lord, giver of life, proceeding from the Father and the Son," the question of the Holy Spirit proceeding only from the Father, or from the Father and the Son (filioque problem)
+
+#### (a) Eastern Theology – the Holy Spirit comes only from the Father John 15:26 (Christ always focuses on God)
+> But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me: (John 15:26, KJV)
+
+#### (b) Western and Protestant theology – the descent of the Holy Spirit from the Father and the Son, the affirmation of the Trinity of God (filioque) Matt. 10:20,John 15:26, - John 10:30, - 1 Pet. 1:10,Rom. 8:9,Acts 2:33. (The Holy Spirit is the Spirit of the Father and the Spirit of Jesus Christ)
+> For it is not ye that speak, but the Spirit of your Father which speaketh in you. (Matt. 10:20, KJV)
+> But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me: (John 15:26, KJV)
+> I and my Father are one. (John 10:30, KJV)
+> Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: (1 Pet. 1:10, KJV)
+> But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his. (Rom. 8:9, KJV)
+> Therefore being by the right hand of God exalted, and having received of the Father the promise of the Holy Ghost, he hath shed forth this, which ye now see and hear. (Acts 2:33, KJV)
+
+### (2) Correction of paragraph 10 of the Nicene-Constantinople Creed – "I confess one baptism for the remission of sins", better "I confess one Breaking of Bread and one Baptism in the name of Jesus Christ, what does it mean equally in the name of the Father, and of the Son, and of the Holy Spirit, as a visible testimony of abiding in the Covenant of God and the forgiveness of all sins – past, present, and future, I believe in the importance of knowing and transmitting the Word of God, the Covenant, and Christ to the ends of the earth," the importance of properly understanding the Breaking of Bread and Water Baptism in N.Z., and the importance of fulfilling one's destiny
+
+#### (a) The dual understanding of Water Baptism is the forgiveness of a person's sins through Water Baptism (a condition for salvation, heresy)
+
+#### (b) The problem of the Galatian Church is circumcision as a condition for human salvation. Gal. 3:1-3; 5:4
+> O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you? This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith? Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh? (Gal. 3:1-3, KJV)
+> Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace. (Gal. 5:4, KJV)
+
+#### (c) Western, Eastern, and part of Protestant Theology – Water Baptism as a condition for human salvation (heresy)
+
+#### (d) Western, Eastern, and part of Protestant Theology – The Breaking of Bread as a condition for human salvation (heresy)
+
+### (3) Correction of paragraph 2 of the Nicene-Constantinople Creed – a more accurate explanation of the phrase "and in the one Lord Jesus Christ, the Son of God," better "and in the one Lord Jesus Christ, the Image of the Invisible God, the Fullness of the Godhead bodily, the Word of God in the flesh.", The Son of God", the importance of understanding the functional priority of the Triune God's action in Jesus Christ, understanding Jesus Christ as the Image of the Invisible God and the fullness of the Godhead physically (the ability to see and understand the Holy, Triune God)
+
+### (4) Correction of paragraph 3 of the Nicene-Constantinople Creed – a more accurate explanation of the phrase "and became a Man", better than "and who became Man in the likeness of sinful flesh", the importance of understanding Jesus Christ as a Man from the beginning, understanding the Creation and Fall of the human race
+
+#### (a) Christ is divine and human. nature is inseparably united in one Person, without transformation or mixing (100% God and 100% Man, the priority of the Deity in Christ is the Holy, True God, and then Man)
+
+#### (b) The visible image of the Holy and Triune God, the fullness of the Godhead physically – the ability to see and understand God
+
+#### (c) Fulfillment of the Word of God – Jesus Christ as God and Creator (the right to be responsible for his creation), and as a perfect, sinless Man in the likeness of sinful flesh (the right to accept suffering and death for all the sins of mankind)
+
+### (5) Correction of paragraph 4 of the Nicene-Constantinople Creed – a more accurate explanation of the phrase "crucified for us", better than "crucified for all the sins of mankind – past, present and future", the importance of understanding and accepting the All-sufficient Sacrifice of Jesus Christ for all people
+
+### (6) The correction of paragraph 6 of the Nicene-Constantinople Creed is a more accurate explanation of the phrase "ascended into heaven and sits at the right hand of the Father," better than "ascended into heaven and sits at the right hand of the Father – the Only King, High Priest, Prophet.", A teacher and Mentor, a Redeemer and Savior, a mediator and Intercessor who solved all the problems of the human race, who gives, not by works, but only by grace and faith, forgiveness of all sins, justification, salvation and rebirth., adoption and church formation for every person, The Only Way, Truth, Resurrection and Life", against the heresy of the mixed gospel, heresies of partial salvation and heresies of other high priesthood, magisterium, redemption and salvation, mediation and intercession for humanity
+
+#### (a) The heresy of "partial salvation" - the spirit is saved, the soul and body are gone, curses and demonic possession of the children of God
+
+#### (b) Western and Eastern Theology – belief in human kingship in heaven (Mary), human primacy (Catholic Pope, Ecumenical Patriarch), human redemption and salvation, mediation or intercession (Mary, saints, angels, etc.)
+
+### (7) Correction of paragraph 8 of the Nicene-Constantinople Creed – a more accurate explanation of the phrase "Who spoke through the prophets", it is better "Who spoke through the prophets in the Holy Scriptures of the Old and New Testaments", against the heresy of false prophets ("exhortation from the Holy Spirit" in complete contradiction with the Holy Scriptures) and the heresy of the apocrypha
+
+### (8) Correction of paragraph 9 of the Nicene-Constantinople Creed – a more precise explanation of the phrase "And into one, Holy, Universal and Apostolic Church", better "And in the one, Holy, Universal and Apostolic Church, the Head of which is the Lord Jesus Christ (against the heresy of "Catholic popes, ecumenical patriarchs," etc.), I believe in God's order of Worship of the Church of Jesus Christ – the teaching of the Apostles, communion, the breaking of bread, prayer" (against the wrong order of worship)
+
+### (9) Correction of paragraph 11 of the Nicene-Constantinople Creed – a more accurate explanation of the phrase "I await the resurrection of the dead", Rather, "I await the Second Coming of the Lord Jesus Christ, the resurrection of the dead," the importance of accurately understanding God's plan of salvation and the future.
+
+## 7) The Nicene-Constantinople or Nicene-Constantinople Creed (with correction)
+
+### (1) I believe in One God, the Father Almighty, Creator of heaven and earth, of all things visible and invisible.
+
+### (2) And in the one Lord Jesus Christ, the Image of the Invisible God, the Fullness of the Godhead bodily, the Word of God in the flesh, the Son of God, the Eternal and the Only Begotten, begotten of the Father before all ages, God of God, Light of Light, True God of True God, begotten, uncreated, consubstantial with the Father, through whom all things were created
+
+### (3) For the sake of us humans, and for the sake of our salvation, who descended from heaven and was incarnate of the Holy Spirit and the Virgin Mary and became a Man in the likeness of sinful flesh.,
+
+### (4) Crucified for all the sins of mankind – past, present and future under Pontius Pilate, suffered and buried (Lamb of God, Easter of the Lord),
+
+### (5) Who rose on the third day according to the Scriptures,
+
+### (6) Ascended into heaven and sits at the right hand of the Father – the only King, High Priest, Prophet, Teacher and Mentor, Redeemer and Savior, Mediator and Intercessor, who solved all the problems of the human race, who gives not by works, but only by grace and faith – forgiveness of all sins, justification, salvation and rebirth, adoption and church formation to every person, the Only Way, Truth, Resurrection and Life
+
+### (7) He will come again with glory to judge the living and the dead, and His kingdom will have no end.
+
+### (8) And in the Holy Spirit, the Lord, the Giver of Life, who proceeds from the Father and the Son, to whom worship and glory belong together with the Father and the Son, who spoke through the prophets in the Holy Scriptures of the Old and New Testaments.
+
+### (9) And in the one, Holy, Universal, and Apostolic Church, whose head is the Lord God Jesus Christ, I believe in God's order of worship in the Church of Jesus Christ–the teaching of the Apostles, communion, the breaking of bread, prayer.
+
+### (10) I confess the one Breaking of Bread and the one Baptism in the name of Jesus Christ, which means equally in the name of the Father and the Son., and the Holy Spirit as a visible testimony of abiding in the Covenant of God and the forgiveness of all sins – past, present and future. I believe in the importance of knowing and transmitting the Word of God, the Covenant, and Christ to the ends of the earth.,
+
+### (11) I await the Second Coming of our Lord and Savior Jesus Christ, the resurrection of the dead,
+
+### (12) And the life of the next century. Amen
+
+## Conclusion:
+
+### (1) The Creed is a summary of the fundamentals of God's faith
+
+### (2) The importance of the proper confession of God's people
+
+### (3) The importance of understanding Christ and His Sacrifice
+
+### (4) The recognition, not of councils, but of Biblical truth, the affirmation of the Word of God, of the Covenant, Christ is the destiny of God's people
+
+### (5) The use of the Symbol of Faith in Worship, the Nicene-Constantinople Creed (with correction) – a multitude of believers, the importance of clarifying contradictions

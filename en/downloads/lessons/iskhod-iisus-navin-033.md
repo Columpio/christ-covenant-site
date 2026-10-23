@@ -1,0 +1,103 @@
+# Deut. 6–8
+## 3.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+> Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
+> So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
+> And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
+> But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:17, KJV)
+> Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons. (Gen. 3:1-7, KJV)
+> Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned: (Rom. 5:12, KJV)
+> For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
+> Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
+> And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
+> Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
+
+## 2) Deut. 6, - the importance of knowing and transmitting the Word of God, the Covenant, Christ (Love of God, descendants, the importance of purity of teaching)
+
+### (1) Deut. 6:1-3, - the importance of the Word of God, the Covenant, Christ for man, a right and good life, service to God (intended)
+> Now these are the commandments, the statutes, and the judgments, which the LORD your God commanded to teach you, that ye might do them in the land whither ye go to possess it: That thou mightest fear the LORD thy God, to keep all his statutes and his commandments, which I command thee, thou, and thy son, and thy son’s son, all the days of thy life; and that thy days may be prolonged. Hear therefore, O Israel, and observe to do it; that it may be well with thee, and that ye may increase mightily, as the LORD God of thy fathers hath promised thee, in the land that floweth with milk and honey. (Deut. 6:1-3, KJV)
+
+### (2) Deut. 6:4-9, - importance of loving God (knowledge and transmission of the Word of God, the Covenant, Christ), fulfillment of God's will, importance of descendants
+> Hear, O Israel: The LORD our God is one LORD: And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might. And these words, which I command thee this day, shall be in thine heart: And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up. And thou shalt bind them for a sign upon thine hand, and they shall be as frontlets between thine eyes. And thou shalt write them upon the posts of thy house, and on thy gates. (Deut. 6:4-9, KJV)
+
+### (3) Deut. 6:10-19, - the importance of faith and fulfillment of destiny, the importance of preserving the purity of teaching (the Word of God, the Covenant, Christ)
+> And it shall be, when the LORD thy God shall have brought thee into the land which he sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give thee great and goodly cities, which thou buildedst not, And houses full of all good things, which thou filledst not, and wells digged, which thou diggedst not, vineyards and olive trees, which thou plantedst not; when thou shalt have eaten and be full; Then beware lest thou forget the LORD, which brought thee forth out of the land of Egypt, from the house of bondage. Thou shalt fear the LORD thy God, and serve him, and shalt swear by his name. Ye shall not go after other gods, of the gods of the people which are round about you; (For the LORD thy God is a jealous God among you) lest the anger of the LORD thy God be kindled against thee, and destroy thee from off the face of the earth. Ye shall not tempt the LORD your God, as ye tempted him in Massah. Ye shall diligently keep the commandments of the LORD your God, and his testimonies, and his statutes, which he hath commanded thee. And thou shalt do that which is right and good in the sight of the LORD: that it may be well with thee, and that thou mayest go in and possess the good land which the LORD sware unto thy fathers, To cast out all thine enemies from before thee, as the LORD hath spoken. (Deut. 6:10-19, KJV)
+
+### (4) Deut. 6:20-25, - the importance of descendants, the importance of the Word of God, the Covenant, Christ
+> And when thy son asketh thee in time to come, saying, What mean the testimonies, and the statutes, and the judgments, which the LORD our God hath commanded you? Then thou shalt say unto thy son, We were Pharaoh’s bondmen in Egypt; and the LORD brought us out of Egypt with a mighty hand: And the LORD shewed signs and wonders, great and sore, upon Egypt, upon Pharaoh, and upon all his household, before our eyes: And he brought us out from thence, that he might bring us in, to give us the land which he sware unto our fathers. And the LORD commanded us to do all these statutes, to fear the LORD our God, for our good always, that he might preserve us alive, as it is at this day. And it shall be our righteousness, if we observe to do all these commandments before the LORD our God, as he hath commanded us. (Deut. 6:20-25, KJV)
+
+#### (a) Slavery is a spiritual problem of every human being
+
+#### (b) The solution is only Easter, the Sacrifice of Christ, the action of God
+
+#### (c) Canaan – preparation for the coming of Christ, purpose
+
+### (5) Deut. 6:25, - the importance of understanding the Word of God, the Covenant, Christ
+> And it shall be our righteousness, if we observe to do all these commandments before the LORD our God, as he hath commanded us. (Deut. 6:25, KJV)
+
+#### (a) Righteousness is from the Law. Isa. 64:6,Rom. 3:10, 23; 9:30-33
+> But we are all as an unclean thing, and all our righteousnesses are as filthy rags; and we all do fade as a leaf; and our iniquities, like the wind, have taken us away. (Isa. 64:6, KJV)
+> As it is written, There is none righteous, no, not one: (Rom. 3:10, KJV)
+> For all have sinned, and come short of the glory of God; (Rom. 3:23, KJV)
+> What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
+
+#### (b) Righteousness comes from faith in Christ. Rom. 9:30,Tabernacle, Phil. 3:9
+> What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. (Rom. 9:30, KJV)
+> And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith: (Phil. 3:9, KJV)
+
+## 3) Deut. 7, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+
+### (1) Deut. 7:1-2, - the importance of Canaan, World Evangelization, the coming of Christ
+> When the LORD thy God shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou; And when the LORD thy God shall deliver them before thee; thou shalt smite them, and utterly destroy them; thou shalt make no covenant with them, nor shew mercy unto them: (Deut. 7:1-2, KJV)
+
+### (2) Deut. 7:3-5, - the importance of descendants, proper marriages, the ideology and destiny of the people of God, the importance of knowing and transmitting the Word of God, the Covenant, Christ, the destruction of idols, the oneness of God and Christ
+> Neither shalt thou make marriages with them; thy daughter thou shalt not give unto his son, nor his daughter shalt thou take unto thy son. For they will turn away thy son from following me, that they may serve other gods: so will the anger of the LORD be kindled against you, and destroy thee suddenly. But thus shall ye deal with them; ye shall destroy their altars, and break down their images, and cut down their groves, and burn their graven images with fire. (Deut. 7:3-5, KJV)
+
+#### (a) Idols, another god is a sin unto death (calf, Baal-Peor, etc.) Ex. 20:1-6, - Matt. 6:24; 10:37, - Matt. 22:36-40
+> And God spake all these words, saying, I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage. Thou shalt have no other gods before me. Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; And shewing mercy unto thousands of them that love me, and keep my commandments. (Ex. 20:1-6, KJV)
+> No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon. (Matt. 6:24, KJV)
+> He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me. (Matt. 10:37, KJV)
+> Master, which is the great commandment in the law? Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it, Thou shalt love thy neighbour as thyself. On these two commandments hang all the law and the prophets. (Matt. 22:36-40, KJV)
+
+#### (b) Idols, wrong attitude towards things and people, or wrong priorities of a person's life, when accepting the Word of God, the Covenant, Christ – sin does not lead to death (Lot, Rachel, etc.) Col. 3:5
+> Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry: (Col. 3:5, KJV)
+
+### (3) Deut. 7:6-10, - the importance of understanding God's sovereignty, foreknowledge and election of God
+> For thou art an holy people unto the LORD thy God: the LORD thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth. The LORD did not set his love upon you, nor choose you, because ye were more in number than any people; for ye were the fewest of all people: But because the LORD loved you, and because he would keep the oath which he had sworn unto your fathers, hath the LORD brought you out with a mighty hand, and redeemed you out of the house of bondmen, from the hand of Pharaoh king of Egypt. Know therefore that the LORD thy God, he is God, the faithful God, which keepeth covenant and mercy with them that love him and keep his commandments to a thousand generations; And repayeth them that hate him to their face, to destroy them: he will not be slack to him that hateth him, he will repay him to his face. (Deut. 7:6-10, KJV)
+
+#### (a) God's foreknowledge and election
+
+#### (b) The call of God is an action of God's grace
+
+#### (c) Resisting the grace of God is a person's right to choose
+
+#### (d) Understanding the legitimate descendants of Abraham, the true people of God
+
+### (4) Deut. 7:11-16, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ, the fulfillment of the destiny of the people of God
+> Thou shalt therefore keep the commandments, and the statutes, and the judgments, which I command thee this day, to do them. Wherefore it shall come to pass, if ye hearken to these judgments, and keep, and do them, that the LORD thy God shall keep unto thee the covenant and the mercy which he sware unto thy fathers: And he will love thee, and bless thee, and multiply thee: he will also bless the fruit of thy womb, and the fruit of thy land, thy corn, and thy wine, and thine oil, the increase of thy kine, and the flocks of thy sheep, in the land which he sware unto thy fathers to give thee. Thou shalt be blessed above all people: there shall not be male or female barren among you, or among your cattle. And the LORD will take away from thee all sickness, and will put none of the evil diseases of Egypt, which thou knowest, upon thee; but will lay them upon all them that hate thee. And thou shalt consume all the people which the LORD thy God shall deliver thee; thine eye shall have no pity upon them: neither shalt thou serve their gods; for that will be a snare unto thee. (Deut. 7:11-16, KJV)
+
+### (5) Deut. 7:17-24, - the special importance of confidence in God's guidance and victory, the immutability of fulfilling the Word of God
+> If thou shalt say in thine heart, These nations are more than I; how can I dispossess them? Thou shalt not be afraid of them: but shalt well remember what the LORD thy God did unto Pharaoh, and unto all Egypt; The great temptations which thine eyes saw, and the signs, and the wonders, and the mighty hand, and the stretched out arm, whereby the LORD thy God brought thee out: so shall the LORD thy God do unto all the people of whom thou art afraid. Moreover the LORD thy God will send the hornet among them, until they that are left, and hide themselves from thee, be destroyed. Thou shalt not be affrighted at them: for the LORD thy God is among you, a mighty God and terrible. And the LORD thy God will put out those nations before thee by little and little: thou mayest not consume them at once, lest the beasts of the field increase upon thee. But the LORD thy God shall deliver them unto thee, and shall destroy them with a mighty destruction, until they be destroyed. And he shall deliver their kings into thine hand, and thou shalt destroy their name from under heaven: there shall no man be able to stand before thee, until thou have destroyed them. (Deut. 7:17-24, KJV)
+
+### (6) Deut. 7:25-26, - the importance of knowledge, the transmission of the Word of God, the Covenant, Christ, the destruction of idols, the oneness of God and Christ
+> The graven images of their gods shall ye burn with fire: thou shalt not desire the silver or gold that is on them, nor take it unto thee, lest thou be snared therein: for it is an abomination to the LORD thy God. Neither shalt thou bring an abomination into thine house, lest thou be a cursed thing like it: but thou shalt utterly detest it, and thou shalt utterly abhor it; for it is a cursed thing. (Deut. 7:25-26, KJV)
+
+## 4) Deut. 8, - the importance of the Word of God, the Covenant, Christ (Canaan, the coming of Christ)
+
+### (1) Deut. 8:1-5, - the special importance of Canaan, the coming of Christ, God's education, the trial and control of God's people
+> All the commandments which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which the LORD sware unto your fathers. And thou shalt remember all the way which the LORD thy God led thee these forty years in the wilderness, to humble thee, and to prove thee, to know what was in thine heart, whether thou wouldest keep his commandments, or no. And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every word that proceedeth out of the mouth of the LORD doth man live. Thy raiment waxed not old upon thee, neither did thy foot swell, these forty years. Thou shalt also consider in thine heart, that, as a man chasteneth his son, so the LORD thy God chasteneth thee. (Deut. 8:1-5, KJV)
+
+### (2) Deut. 8:6-18, - understanding the cause and source of human life, the importance of understanding God's sovereignty and control, the importance of understanding and fulfilling the destiny of God's people
+> Therefore thou shalt keep the commandments of the LORD thy God, to walk in his ways, and to fear him. For the LORD thy God bringeth thee into a good land, a land of brooks of water, of fountains and depths that spring out of valleys and hills; A land of wheat, and barley, and vines, and fig trees, and pomegranates; a land of oil olive, and honey; A land wherein thou shalt eat bread without scarceness, thou shalt not lack any thing in it; a land whose stones are iron, and out of whose hills thou mayest dig brass. When thou hast eaten and art full, then thou shalt bless the LORD thy God for the good land which he hath given thee. Beware that thou forget not the LORD thy God, in not keeping his commandments, and his judgments, and his statutes, which I command thee this day: Lest when thou hast eaten and art full, and hast built goodly houses, and dwelt therein; And when thy herds and thy flocks multiply, and thy silver and thy gold is multiplied, and all that thou hast is multiplied; Then thine heart be lifted up, and thou forget the LORD thy God, which brought thee forth out of the land of Egypt, from the house of bondage; Who led thee through that great and terrible wilderness, wherein were fiery serpents, and scorpions, and drought, where there was no water; who brought thee forth water out of the rock of flint; Who fed thee in the wilderness with manna, which thy fathers knew not, that he might humble thee, and that he might prove thee, to do thee good at thy latter end; And thou say in thine heart, My power and the might of mine hand hath gotten me this wealth. But thou shalt remember the LORD thy God: for it is he that giveth thee power to get wealth, that he may establish his covenant which he sware unto thy fathers, as it is this day. (Deut. 8:6-18, KJV)
+
+### (3) Deut. 8:19-20, - the importance of understanding sin to death, rejection of the Word of God, the Covenant, Christ, rejection of salvation, the destruction of man
+> And it shall be, if thou do at all forget the LORD thy God, and walk after other gods, and serve them, and worship them, I testify against you this day that ye shall surely perish. As the nations which the LORD destroyeth before your face, so shall ye perish; because ye would not be obedient unto the voice of the LORD your God. (Deut. 8:19-20, KJV)
+
+## Conclusion:
+
+### (1) The importance of loving God for man
+
+### (2) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ
+
+### (3) The importance of confidence in God's guidance and victory, the immutability of fulfilling the Word of God, the Covenant, Christ
+
+### (4) The importance of knowledge, the transmission of the Word of God, the Covenant, Christ, the destruction of idols, the oneness of God and Christ (sin to death)
