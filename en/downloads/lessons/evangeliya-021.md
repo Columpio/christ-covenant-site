@@ -29,7 +29,7 @@
 
 #### (c) The divine and human natures were inseparably united in one person, without transformation or mixing
 
-#### (d) The God–man is the true God and the true man, but at the same time the same Christ (the one person). (Priority of the Divine nature over man – God in the flesh) Gen. 1:27, - Gen. 14:18 (John 8:56-58,Heb. 7:1-10), Gen. 18:1; 32:24-29, Ex. 24:9-11; 33:20-23,Sud.6, 13,Josh. 5:13-15,Acts 2:25
+#### (d) The God–man is the true God and the true man, but at the same time the same Christ (the one person). (Priority of the Divine nature over man – God in the flesh) Gen. 1:27, - Gen. 14:18 (John 8:56-58,Heb. 7:1-10), Gen. 18:1; 32:24-29, Ex. 24:9-11; 33:20-23,Judg. 6, 13,Josh. 5:13-15,Acts 2:25
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And Melchizedek king of Salem brought forth bread and wine: and he was the priest of the most high God. (Gen. 14:18, KJV)
 > Your father Abraham rejoiced to see my day: and he saw it, and was glad. Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham? Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am. (John 8:56-58, KJV)

@@ -12,7 +12,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-## 2) 2 Kings 8:10, - non-acceptance of the Word of God, the Covenant, Christ, the judgment of God
+## 2) 2 Sam. 8, 10, - non-acceptance of the Word of God, the Covenant, Christ, the judgment of God
 
 ### (1) David's Wars – God's Judgment. Rom. 6:23
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)

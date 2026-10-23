@@ -28,7 +28,7 @@
 
 #### (b) The unbelief of the birth of the son of promise personally from her is a remnant of the sinful essence of the children of God
 
-#### (c) Self-sacrifice for the fulfillment of the Word of God, faith in the coming of Christ from Abraham (promise) Gal. 3:16-17, - Gen. 12,16,20
+#### (c) Self-sacrifice for the fulfillment of the Word of God, faith in the coming of Christ from Abraham (promise) Gal. 3:16-17, - Gen. 12, 16, 20
 > Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ. And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect. (Gal. 3:16-17, KJV)
 
 #### (d) The reason for the supernatural is the fulfillment of the Word of God, the coming of Christ

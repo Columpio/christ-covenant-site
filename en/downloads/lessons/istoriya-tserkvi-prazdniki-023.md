@@ -61,7 +61,7 @@
 
 ### (3) The solution is communication with the priest, the type of Christ, reflection on the Word of God, the Covenant, Christ, understanding the Sacrifice of Christ
 
-## 6) Leviticus 12:15, - the importance of understanding the natural impurity of man
+## 6) Lev. 12, 15, - the importance of understanding the natural impurity of man
 
 ### (1) Outflow is a natural impurity of a person, impossible. control
 

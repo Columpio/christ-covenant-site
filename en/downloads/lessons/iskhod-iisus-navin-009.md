@@ -74,7 +74,7 @@
 ### (6) The importance of the legitimate application of the Law. 1 Tim. 1:8
 > But we know that the law is good, if a man use it lawfully; (1 Tim. 1:8, KJV)
 
-## 4) Understanding the Tabernacle. Exodus 25-31, 35-40 (Fig.)
+## 4) Understanding the Tabernacle. Ex. 25-31, 35-40 (fig.)
 
 ### (1) THE OUTER COURTYARD (the essence of salvation, anyone):
 

@@ -48,13 +48,13 @@
 
 ### (3) Num. 19, - understanding the uniqueness of the victim for the victim. human
 
-## 5) Numbers 20-25,31, - the inaccurate fulfillment of the Word of God, the Covenant, Christ
+## 5) Num. 20-25, 31, - inaccurate fulfillment of the Word of God, the Covenant, Christ
 
 ### (1) Num. 20, - the importance of faithfully fulfilling God's Word and understanding God's sovereignty (death of Aaron, Miriam)
 
 ### (2) Num. 21, - opposition to the Word of God, the Covenant, Christ (the brazen serpent)
 
-### (3) Numbers 22-25,31, - idols, loss of salvation (Balaam)
+### (3) Num. 22-25, 31, - Idols, loss of salvation (Balaam)
 
 ## 6) Num. 26-30, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
 

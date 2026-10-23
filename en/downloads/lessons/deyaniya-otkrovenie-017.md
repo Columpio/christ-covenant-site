@@ -90,7 +90,7 @@
 
 #### (g) Corinth – Aquila, Priscilla, Justus, Crispus. Acts 18
 
-#### (h) Ephesus– Apollos, etc. Rom. 18,16
+#### (h) Ephesus – Apollos, etc. Rom. 18,16
 
 ### (4) Understanding the essence and meaning of World Evangelism
 

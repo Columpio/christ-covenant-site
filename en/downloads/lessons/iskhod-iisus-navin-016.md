@@ -42,7 +42,7 @@
 
 #### (b) Impure sacrifice – absence of Christ, violation of the Word of God, Covenant, Christ (religion, human affairs)
 
-## 3) Leviticus 12:15, - the affirmation of the Word of God, the Covenant, Christ
+## 3) Lev. 12, 15, - affirmation of the Word of God, the Covenant, Christ
 
 ### (1) Childbirth, expiration (procreation) is a natural impurity of man
 

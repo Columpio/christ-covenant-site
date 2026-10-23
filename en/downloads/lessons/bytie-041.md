@@ -94,7 +94,7 @@
 
 ## 3) Understanding the 3rd Testament (from Moses to Christ)
 
-### (1) Exodus 20:25-30,Lev. 23, - The Word of God, the Covenant, Christ
+### (1) Ex. 20, 25-30,Lev. 23, - The Word of God, the Covenant, Christ
 
 #### (a) The law is an explanation of the problem (Adam's sin, man's "sin")
 

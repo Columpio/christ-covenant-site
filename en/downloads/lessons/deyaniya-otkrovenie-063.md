@@ -15,7 +15,7 @@
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
 
-### (3) Gen. 3:15, 21,Exodus 20:25-30 (Tabernacle, Temple), Matt. 16:16,John 19:30, -knowledge and transmission of the Word of God, the Covenant, Christ
+### (3) Gen. 3:15, 21,Ex. 20, 25-30 (Tabernacle, Temple), Matt. 16:16,John 19:30, -knowledge and transmission of the Word of God, the Covenant, Christ
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 > And Simon Peter answered and said, Thou art the Christ, the Son of the living God. (Matt. 16:16, KJV)
@@ -95,7 +95,7 @@
 
 ### (2) Donations and vows in V.Z
 
-#### (a) Exodus 25-30,35-40,Num. 7, - The Tabernacle, the sacrifice of the people
+#### (a) Ex. 25-30, 35-40,Num. 7, - The Tabernacle, the sacrifice of the people
 
 #### (b) 1 Chr. 28 (Ezra), Neh. 10:32-39; 12:44-45, - The Temple
 > Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God; For the shewbread, and for the continual meat offering, and for the continual burnt offering, of the sabbaths, of the new moons, for the set feasts, and for the holy things, and for the sin offerings to make an atonement for Israel, and for all the work of the house of our God. And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring it into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the LORD our God, as it is written in the law: And to bring the firstfruits of our ground, and the firstfruits of all fruit of all trees, year by year, unto the house of the LORD: Also the firstborn of our sons, and of our cattle, as it is written in the law, and the firstlings of our herds and of our flocks, to bring to the house of our God, unto the priests that minister in the house of our God: And that we should bring the firstfruits of our dough, and our offerings, and the fruit of all manner of trees, of wine and of oil, unto the priests, to the chambers of the house of our God; and the tithes of our ground unto the Levites, that the same Levites might have the tithes in all the cities of our tillage. And the priest the son of Aaron shall be with the Levites, when the Levites take tithes: and the Levites shall bring up the tithe of the tithes unto the house of our God, to the chambers, into the treasure house. For the children of Israel and the children of Levi shall bring the offering of the corn, of the new wine, and the oil, unto the chambers, where are the vessels of the sanctuary, and the priests that minister, and the porters, and the singers: and we will not forsake the house of our God. (Neh. 10:32-39, KJV)

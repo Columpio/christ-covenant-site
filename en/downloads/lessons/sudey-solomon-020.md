@@ -34,7 +34,7 @@
 > Who forgiveth all thine iniquities; who healeth all thy diseases; (Ps. 103:3, KJV)
 > Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God. (Ps. 42:11, KJV)
 
-## 4) Understanding the importance of Worship and the Word of God for man, the importance of understanding and fulfilling the destiny of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization Ps.1,132, - Ps. 119:11, 67, 89, 105, 113, 162; 143:10, - Ps. 116:10; 119:46
+## 4) Understanding the importance of Worship and the Word of God for man, the importance of understanding and fulfilling the destiny of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization Ps. 1, 133, - Ps. 119:11, 67, 89, 105, 113, 162; 143:10, - Ps. 116:10; 119:46
 > Thy word have I hid in mine heart, that I might not sin against thee. (Ps. 119:11, KJV)
 > Before I was afflicted I went astray: but now have I kept thy word. (Ps. 119:67, KJV)
 > For ever, O LORD, thy word is settled in heaven. (Ps. 119:89, KJV)

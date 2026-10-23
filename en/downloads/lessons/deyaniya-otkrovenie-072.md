@@ -74,7 +74,7 @@
 
 ### (4) The importance of fulfilling one's destiny (the Gospel. marriage)
 
-## 6) 1 Corinthians 8:10, - temptations, participation in idolatry
+## 6) 1 Cor. 8, 10, - temptations, participation in idolatry
 
 ### (1) Inaccurate understanding of the Word of God – participation in pagan rituals, seduction of the weak (sinning against Christ)
 

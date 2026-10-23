@@ -79,7 +79,7 @@
 #### (g) The gift of faith. Dan. 3:16-18 (persecution of Christians)
 > Shadrach, Meshach, and Abed-nego, answered and said to the king, O Nebuchadnezzar, we are not careful to answer thee in this matter. If it be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of thine hand, O king. But if not, be it known unto thee, O king, that we will not serve thy gods, nor worship the golden image which thou hast set up. (Dan. 3:16-18, KJV)
 
-#### (h) The gift of healing (Bethesda, born blind). John 5,9
+#### (h) The Gift of Healing (Bethesda, born blind). John 5, 9
 
 #### (i) The Gift of Miracles (taming the storm, saturation 5000)
 

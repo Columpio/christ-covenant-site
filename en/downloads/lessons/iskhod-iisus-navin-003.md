@@ -27,7 +27,7 @@
 #### (a) God celebrated the Passover and brought the people out of slavery. 1 Cor. 5:7
 > Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Christ our passover is sacrificed for us: (1 Cor. 5:7, KJV)
 
-#### (b) Christ made the Covenant (the Mediator, epoch) Exodus 20:25-30,Luke 22:19-20
+#### (b) Gave the Covenant, Christ (mediator, epoch) Ex. 20, 25-30,Luke 22:19-20
 > And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me. Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you. (Luke 22:19-20, KJV)
 
 #### (c) Left the Word of God Ex. 17:14; 24:4-7,Num. 33:2,Luke 16:29; 24:44
