@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,16 +233,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>Lev. 8–9</h1>
-<h2 id="s1">2.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21</h2>
+<h2 id="s1">2.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21</h2>
 <blockquote data-v="kjv"><p>Much every way: chiefly, because that unto them were committed the oracles of God.</p><cite>Rom. 3:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Much in every way. First of all, they have been entrusted with the very words of God.</p><cite>Rom. 3:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Much in every way! Because first of all, they were entrusted with the revelations of God.</p><cite>Rom. 3:2 · WEB</cite></blockquote>
@@ -276,14 +278,14 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h2 id="s2">2) Lev. 8, - understanding the purpose, the importance of the Word of God, the Covenant, Christ</h2>
 <h3>(1) Initiation (Aaron, sons) – understanding destiny</h3>
 <h4>(a) Help in solving a person's spiritual problem (sin, death and hell, Satan)</h4>
-<h4>(b) Worship – the knowledge and transmission of the Word of God, the Covenant, Christ</h4>
+<h4>(b) Worship is the knowledge and transmission of the Word of God, the Covenant, and Christ</h4>
 <h4>(c) Disciples, World Evangelization – preparation for the coming of Christ</h4>
 <h3>(2) Priestly robes are the purpose, the prototype of Christ</h3>
 <h4>(a) Washing with water – the importance of purification, the work of Christ</h4>
 <h4>(b) Special clothes – a special person, a type of Christ</h4>
 <h4>(c) The anointing oil is the action of the Holy Spirit, the prototype of Christ (the Anointed One)</h4>
-<h3>(3) Sacrifice, shedding of blood – God is a condition of the priesthood, ponim. Christ</h3>
-<h4>(a) Sacrifice for Sin – Understanding the Word of God, the Covenant, Christ Lev. 8:14-28</h4>
+<h3>(3) Sacrifice, shedding of blood is God's condition of priesthood, ponim. Of Christ</h3>
+<h4>(a) Sacrifice for Sin – understanding the Word of God, the Covenant, Christ Lev. 8:14-28</h4>
 <blockquote data-v="kjv"><p>And he brought the bullock for the sin offering: and Aaron and his sons laid their hands upon the head of the bullock for the sin offering. And he slew it; and Moses took the blood, and put it upon the horns of the altar round about with his finger, and purified the altar, and poured the blood at the bottom of the altar, and sanctified it, to make reconciliation upon it. And he took all the fat that was upon the inwards, and the caul above the liver, and the two kidneys, and their fat, and Moses burned it upon the altar. But the bullock, and his hide, his flesh, and his dung, he burnt with fire without the camp; as the LORD commanded Moses. And he brought the ram for the burnt offering: and Aaron and his sons laid their hands upon the head of the ram. And he killed it; and Moses sprinkled the blood upon the altar round about. And he cut the ram into pieces; and Moses burnt the head, and the pieces, and the fat. And he washed the inwards and the legs in water; and Moses burnt the whole ram upon the altar: it was a burnt sacrifice for a sweet savour, and an offering made by fire unto the LORD; as the LORD commanded Moses. And he brought the other ram, the ram of consecration: and Aaron and his sons laid their hands upon the head of the ram. And he slew it; and Moses took of the blood of it, and put it upon the tip of Aaron’s right ear, and upon the thumb of his right hand, and upon the great toe of his right foot. And he brought Aaron’s sons, and Moses put of the blood upon the tip of their right ear, and upon the thumbs of their right hands, and upon the great toes of their right feet: and Moses sprinkled the blood upon the altar round about. And he took the fat, and the rump, and all the fat that was upon the inwards, and the caul above the liver, and the two kidneys, and their fat, and the right shoulder: And out of the basket of unleavened bread, that was before the LORD, he took one unleavened cake, and a cake of oiled bread, and one wafer, and put them on the fat, and upon the right shoulder: And he put all upon Aaron’s hands, and upon his sons’ hands, and waved them for a wave offering before the LORD. And Moses took them from off their hands, and burnt them on the altar upon the burnt offering: they were consecrations for a sweet savour: it is an offering made by fire unto the LORD.</p><cite>Lev. 8:14-28 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Moses then brought the bull near for the sin offering, and Aaron and his sons laid their hands on its head. Moses slaughtered the bull, took some of the blood, and applied it with his finger to all four horns of the altar, purifying the altar. He poured out the rest of the blood at the base of the altar and consecrated it so that atonement could be made on it. Moses also took all the fat that was on the entrails, the lobe of the liver, and both kidneys and their fat, and burned it all on the altar. But the bull with its hide, flesh, and dung he burned outside the camp, as the LORD had commanded him. Then Moses presented the ram for the burnt offering, and Aaron and his sons laid their hands on its head. Moses slaughtered the ram and splattered the blood on all sides of the altar. He cut the ram into pieces and burned the head, the pieces, and the fat. He washed the entrails and legs with water and burned the entire ram on the altar as a burnt offering, a pleasing aroma, a food offering to the LORD, just as the LORD had commanded Moses. After that, Moses presented the other ram, the ram of ordination, and Aaron and his sons laid their hands on its head. Moses slaughtered the ram and took some of its blood and put it on Aaron’s right earlobe, on the thumb of his right hand, and on the big toe of his right foot. Moses also presented Aaron’s sons and put some of the blood on their right earlobes, on the thumbs of their right hands, and on the big toes of their right feet. Then he splattered the blood on all sides of the altar. And Moses took the fat—the fat tail, all the fat that was on the entrails, the lobe of the liver, and both kidneys with their fat—as well as the right thigh. And from the basket of unleavened bread that was before the LORD, he took one cake of unleavened bread, one cake of bread made with oil, and one wafer, and he placed them on the fat portions and on the right thigh. He put all these in the hands of Aaron and his sons and waved them before the LORD as a wave offering. Then Moses took these from their hands and burned them on the altar with the burnt offering. This was an ordination offering, a pleasing aroma, a food offering to the LORD.</p><cite>Lev. 8:14-28 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He brought the bull of the sin offering, and Aaron and his sons laid their hands on the head of the bull of the sin offering. He killed it; and Moses took the blood, and put it around on the horns of the altar with his finger, and purified the altar, and poured out the blood at the base of the altar, and sanctified it, to make atonement for it. He took all the fat that was on the innards, and the cover of the liver, and the two kidneys, and their fat; and Moses burned it on the altar. But the bull, and its skin, and its meat, and its dung, he burned with fire outside the camp, as Yahweh commanded Moses. He presented the ram of the burnt offering. Aaron and his sons laid their hands on the head of the ram. He killed it; and Moses sprinkled the blood around on the altar. He cut the ram into its pieces; and Moses burned the head, and the pieces, and the fat. He washed the innards and the legs with water; and Moses burned the whole ram on the altar. It was a burnt offering for a pleasant aroma. It was an offering made by fire to Yahweh, as Yahweh commanded Moses. He presented the other ram, the ram of consecration. Aaron and his sons laid their hands on the head of the ram. He killed it; and Moses took some of its blood, and put it on the tip of Aaron’s right ear, and on the thumb of his right hand, and on the great toe of his right foot. He brought Aaron’s sons; and Moses put some of the blood on the tip of their right ear, and on the thumb of their right hand, and on the great toe of their right foot; and Moses sprinkled the blood around on the altar. He took the fat, the fat tail, all the fat that was on the innards, the cover of the liver, the two kidneys and their fat, and the right thigh; and out of the basket of unleavened bread that was before Yahweh, he took one unleavened cake, one cake of oiled bread, and one wafer, and placed them on the fat and on the right thigh. He put all these in Aaron’s hands and in his sons’ hands, and waved them for a wave offering before Yahweh. Moses took them from their hands, and burned them on the altar on the burnt offering. They were a consecration offering for a pleasant aroma. It was an offering made by fire to Yahweh.</p><cite>Lev. 8:14-28 · WEB</cite></blockquote>
@@ -293,12 +295,12 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And ye shall not go out of the door of the tabernacle of the congregation in seven days, until the days of your consecration be at an end: for seven days shall he consecrate you.</p><cite>Lev. 8:33 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>You must not go outside the entrance to the Tent of Meeting for seven days, until the days of your ordination are complete; for it will take seven days to ordain you.</p><cite>Lev. 8:33 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>You shall not go out from the door of the Tent of Meeting for seven days, until the days of your consecration are fulfilled: for he shall consecrate you seven days.</p><cite>Lev. 8:33 · WEB</cite></blockquote>
-<h2 id="s3">3) Lev. 9, - understanding and affirming the Word of God, the Covenant, Christ</h2>
-<h3>(1) Understanding and accepting the Word of God, the Covenant, Christ, and the four kinds of sacrifices. (Participation of Aaron, his sons and all the people – acceptance of the Word of God)</h3>
+<h2 id="s3">3) Lev. 9, - understanding and affirming the Word of God, the Covenant, and Christ</h2>
+<h3>(1) Understanding and accepting the Word of God, the Covenant, Christ, and the four kinds of sacrifice. (Participation of Aaron, his sons, and all the people – acceptance of the Word of God)</h3>
 <h4>(a) Sacrifice for Sin (the importance of Christ and His Sacrifice)</h4>
 <h4>(b) Burnt offering (the importance of serving God)</h4>
 <h4>(c) A sacrifice of peace, thanksgiving (peace with God in Christ)</h4>
-<h4>(d) The grain offering (the importance of the Word of God, the Covenant, Christ)</h4>
+<h4>(d) The grain offering (the importance of the Word of God, the Covenant, and Christ)</h4>
 <h3>(2) Lev. 9:23, - Moses, the prototype of Christ</h3>
 <blockquote data-v="kjv"><p>And Moses and Aaron went into the tabernacle of the congregation, and came out, and blessed the people: and the glory of the LORD appeared unto all the people.</p><cite>Lev. 9:23 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Moses and Aaron then entered the Tent of Meeting. When they came out, they blessed the people, and the glory of the LORD appeared to all the people.</p><cite>Lev. 9:23 · BSB</cite></blockquote>
@@ -308,17 +310,17 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h4>(c) Offers sacrifice, sanctifies and prepares priests to serve God and people</h4>
 <h4>(d) Helps to worship the people of God</h4>
 <h4>(e) Blesses the people of God</h4>
-<h3>(3) Lev. 9:24, - God's fire, confirmation of the Word of God, the Covenant, Christ</h3>
+<h3>(3) Lev. 9:24, - God's fire, affirmation of the Word of God, the Covenant, Christ</h3>
 <blockquote data-v="kjv"><p>And there came a fire out from before the LORD, and consumed upon the altar the burnt offering and the fat: which when all the people saw, they shouted, and fell on their faces.</p><cite>Lev. 9:24 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Fire came out from the presence of the LORD and consumed the burnt offering and the fat portions on the altar. And when all the people saw it, they shouted for joy and fell facedown.</p><cite>Lev. 9:24 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Fire came out from before Yahweh, and consumed the burnt offering and the fat upon the altar. When all the people saw it, they shouted, and fell on their faces.</p><cite>Lev. 9:24 · WEB</cite></blockquote>
-<h4>(a) Proper Worship, understanding of sacrifice – the coming Christ, execution of the sentence, the Word of God, all the answers for man</h4>
+<h4>(a) Proper Worship, understanding of sacrifice – the coming Christ, fulfillment of the sentence of the Word of God, all the answers for man</h4>
 <h4>(b) God's fire is the prototype of God's justice, the acceptance of Christ's sacrifice for the sins of all mankind</h4>
 <h2 id="s4">Conclusion:</h2>
 <h3>(1) The importance of ministers and service to the Holy, True God</h3>
-<h3>(2) Priests (tribe of Levi, family of Aaron) – servants of the Tabernacle, Temple, Worldwide Evangelization</h3>
-<h3>(3) Levites (tribe of Levi) – servants of the Tabernacle, Temple, World Evangelization (Worship, teachers, scribes, musicians, elders, judges)</h3>
-<h3>(4) The purpose of priests and Levites is to help in solving spiritual problems (the power of sin, death and hell, Satan), knowledge and transmission of the Word of God, the Covenant, Christ (sacrifice, fulfillment of the Word of God)</h3>
+<h3>(2) Priests (the tribe of Levi, the family of Aaron) – ministers of the Tabernacle, the Temple, and Worldwide Evangelization</h3>
+<h3>(3) Levites (tribe of Levi) – servants of the Tabernacle, Temple, and World Evangelization (Worshipers, teachers, scribes, musicians, elders, judges)</h3>
+<h3>(4) The purpose of priests and Levites is to help solve spiritual problems (the power of sin, death and hell, Satan), to know and transmit the Word of God, the Covenant, and Christ (sacrifice, fulfillment of the Word of God)</h3>
 <h3>(5) The importance of understanding the priesthood of N.Z. – the priesthood is not according to the order of Aaron. but according to the order of Melchizedek (all those saved in N.Z.)</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>

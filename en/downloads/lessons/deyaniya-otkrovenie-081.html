@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,16 +233,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>Gal. 5</h1>
-<h2 id="s1">4.1) Gal. 5, - the importance of knowing and transmitting the Word of God, the Covenant, Christ</h2>
+<h2 id="s1">4.1) Gal. 5, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ</h2>
 <h3>(1) Gal. 5:1, - the importance of the Word of God, the Covenant, Christ for man, freedom from sin, death and hell, Satan, curses, religion, etc. Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9</h3>
 <blockquote data-v="kjv"><p>Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.</p><cite>Gal. 5:1 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>It is for freedom that Christ has set us free. Stand firm, then, and do not be encumbered once more by a yoke of slavery.</p><cite>Gal. 5:1 · BSB</cite></blockquote>
@@ -284,7 +286,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.</p><cite>Rom. 10:9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>that if you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised Him from the dead, you will be saved.</p><cite>Rom. 10:9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>that if you will confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.</p><cite>Rom. 10:9 · WEB</cite></blockquote>
-<h3>(2) Gal. 5:2-6, - the importance of accepting the Word of God, the Covenant, Christ</h3>
+<h3>(2) Gal. 5:2-6, - the importance of accepting the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing. For I testify again to every man that is circumcised, that he is a debtor to do the whole law. Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace. For we through the Spirit wait for the hope of righteousness by faith. For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.</p><cite>Gal. 5:2-6 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Take notice: I, Paul, tell you that if you let yourselves be circumcised, Christ will be of no value to you at all. Again I testify to every man who gets himself circumcised that he is obligated to obey the whole law. You who are trying to be justified by the law have been severed from Christ; you have fallen away from grace. But by faith we eagerly await through the Spirit the hope of righteousness. For in Christ Jesus neither circumcision nor uncircumcision has any value. What matters is faith expressing itself through love.</p><cite>Gal. 5:2-6 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Behold, I, Paul, tell you that if you receive circumcision, Christ will profit you nothing. Yes, I testify again to every man who receives circumcision that he is a debtor to do the whole law. You are alienated from Christ, you who desire to be justified by the law. You have fallen away from grace. For we through the Spirit, by faith wait for the hope of righteousness. For in Christ Jesus neither circumcision nor uncircumcision amounts to anything, but faith working through love.</p><cite>Gal. 5:2-6 · WEB</cite></blockquote>
@@ -292,7 +294,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing. For I testify again to every man that is circumcised, that he is a debtor to do the whole law.</p><cite>Gal. 5:2-3 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Take notice: I, Paul, tell you that if you let yourselves be circumcised, Christ will be of no value to you at all. Again I testify to every man who gets himself circumcised that he is obligated to obey the whole law.</p><cite>Gal. 5:2-3 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Behold, I, Paul, tell you that if you receive circumcision, Christ will profit you nothing. Yes, I testify again to every man who receives circumcision that he is a debtor to do the whole law.</p><cite>Gal. 5:2-3 · WEB</cite></blockquote>
-<h4>(b) Gal. 5:4, - the attempt at salvation through the "mixed gospel" (false teaching) testifies to the rejection of the Word of God, the Covenant, Christ and falling away from salvation</h4>
+<h4>(b) Gal. 5:4, - an attempt at salvation through a "mixed gospel" (false teaching) testifies to the rejection of the Word of God, the Covenant, Christ and falling away from salvation</h4>
 <blockquote data-v="kjv"><p>Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace.</p><cite>Gal. 5:4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>You who are trying to be justified by the law have been severed from Christ; you have fallen away from grace.</p><cite>Gal. 5:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>You are alienated from Christ, you who desire to be justified by the law. You have fallen away from grace.</p><cite>Gal. 5:4 · WEB</cite></blockquote>
@@ -304,7 +306,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For we through the Spirit wait for the hope of righteousness by faith. For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.</p><cite>Gal. 5:5-6 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But by faith we eagerly await through the Spirit the hope of righteousness. For in Christ Jesus neither circumcision nor uncircumcision has any value. What matters is faith expressing itself through love.</p><cite>Gal. 5:5-6 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For we through the Spirit, by faith wait for the hope of righteousness. For in Christ Jesus neither circumcision nor uncircumcision amounts to anything, but faith working through love.</p><cite>Gal. 5:5-6 · WEB</cite></blockquote>
-<h3>(3) Gal. 5:7-12, - the importance of the Word of God, the Covenant, Christ, the purity of teaching</h3>
+<h3>(3) Gal. 5:7-12, - importance of the Word of God, the Covenant, Christ, purity of teaching</h3>
 <blockquote data-v="kjv"><p>Ye did run well; who did hinder you that ye should not obey the truth? This persuasion cometh not of him that calleth you. A little leaven leaveneth the whole lump. I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be. And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased. I would they were even cut off which trouble you.</p><cite>Gal. 5:7-12 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>You were running so well. Who has obstructed you from obeying the truth? Such persuasion does not come from the One who calls you. A little leaven works through the whole batch of dough. I am confident in the Lord that you will take no other view. The one who is troubling you will bear the judgment, whoever he may be. Now, brothers, if I am still preaching circumcision, why am I still being persecuted? In that case the offense of the cross has been abolished. As for those who are agitating you, I wish they would proceed to emasculate themselves!</p><cite>Gal. 5:7-12 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>You were running well! Who interfered with you that you should not obey the truth? This persuasion is not from him who calls you. A little yeast grows through the whole lump. I have confidence toward you in the Lord that you will think no other way. But he who troubles you will bear his judgment, whoever he is. But I, brothers, if I still preach circumcision, why am I still persecuted? Then the stumbling block of the cross has been removed. I wish that those who disturb you would cut themselves off.</p><cite>Gal. 5:7-12 · WEB</cite></blockquote>
@@ -324,7 +326,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.</p><cite>Gal. 5:10 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>I am confident in the Lord that you will take no other view. The one who is troubling you will bear the judgment, whoever he may be.</p><cite>Gal. 5:10 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I have confidence toward you in the Lord that you will think no other way. But he who troubles you will bear his judgment, whoever he is.</p><cite>Gal. 5:10 · WEB</cite></blockquote>
-<h4>(e) Gal. 5:11, - the importance of understanding the reason for the rejection and persecution of ap. St. Paul by the Jews, the affirmation of the Word of God, the Covenant, Christ, the rejection of the teaching of the "mixed gospel", the emphasis on the legitimate application of the Law to man. 1 Tim. 1:8. (Understanding the constant conflict between Religion and the Good News)</h4>
+<h4>(e) Gal. 5:11, - the importance of understanding the reason for the rejection and persecution of ap. St. Paul by the Jews, the affirmation of the Word of God, the Covenant, Christ, the rejection of the teaching of the "mixed gospel", the emphasis on the legitimate application of the Law to man. 1 Tim. 1:8. (Understanding the constant Conflict between Religion and the Gospel)</h4>
 <blockquote data-v="kjv"><p>And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.</p><cite>Gal. 5:11 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Now, brothers, if I am still preaching circumcision, why am I still being persecuted? In that case the offense of the cross has been abolished.</p><cite>Gal. 5:11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But I, brothers, if I still preach circumcision, why am I still persecuted? Then the stumbling block of the cross has been removed.</p><cite>Gal. 5:11 · WEB</cite></blockquote>
@@ -335,7 +337,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>I would they were even cut off which trouble you.</p><cite>Gal. 5:12 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>As for those who are agitating you, I wish they would proceed to emasculate themselves!</p><cite>Gal. 5:12 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I wish that those who disturb you would cut themselves off.</p><cite>Gal. 5:12 · WEB</cite></blockquote>
-<h3>(4) Gal. 5:13-15, - the importance of understanding the Word of God, the Covenant, Christ</h3>
+<h3>(4) Gal. 5:13-15, - the importance of understanding the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another. For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself. But if ye bite and devour one another, take heed that ye be not consumed one of another.</p><cite>Gal. 5:13-15 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For you, brothers, were called to freedom; but do not use your freedom as an opportunity for the flesh. Rather, serve one another in love. The entire law is fulfilled in a single decree: “Love your neighbor as yourself.” But if you keep on biting and devouring one another, watch out, or you will be consumed by one another.</p><cite>Gal. 5:13-15 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For you, brothers, were called for freedom. Only don’t use your freedom as an opportunity for the flesh, but through love be servants to one another. For the whole law is fulfilled in one word, in this: “You shall love your neighbor as yourself.” But if you bite and devour one another, be careful that you don’t consume one another.</p><cite>Gal. 5:13-15 · WEB</cite></blockquote>
@@ -355,7 +357,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>But if ye bite and devour one another, take heed that ye be not consumed one of another.</p><cite>Gal. 5:15 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But if you keep on biting and devouring one another, watch out, or you will be consumed by one another.</p><cite>Gal. 5:15 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But if you bite and devour one another, be careful that you don’t consume one another.</p><cite>Gal. 5:15 · WEB</cite></blockquote>
-<h3>(5) Gal. 5:16-23, - the importance of knowing and transmitting the Word of God, the Covenant, Christ</h3>
+<h3>(5) Gal. 5:16-23, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh. For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would. But if ye be led of the Spirit, ye are not under the law. Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness, Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies, Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God. But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, Meekness, temperance: against such there is no law.</p><cite>Gal. 5:16-23 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So I say, walk by the Spirit, and you will not gratify the desires of the flesh. For the flesh craves what is contrary to the Spirit, and the Spirit what is contrary to the flesh. They are opposed to each other, so that you do not do what you want. But if you are led by the Spirit, you are not under the law. The acts of the flesh are obvious: sexual immorality, impurity, and debauchery; idolatry and sorcery; hatred, discord, jealousy, and rage; rivalries, divisions, factions, and envy; drunkenness, orgies, and the like. I warn you, as I did before, that those who practice such things will not inherit the kingdom of God. But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. Against such things there is no law.</p><cite>Gal. 5:16-23 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But I say, walk by the Spirit, and you won’t fulfill the lust of the flesh. For the flesh lusts against the Spirit, and the Spirit against the flesh; and these are contrary to one another, that you may not do the things that you desire. But if you are led by the Spirit, you are not under the law. Now the deeds of the flesh are obvious, which are: adultery, sexual immorality, uncleanness, lustfulness, idolatry, sorcery, hatred, strife, jealousies, outbursts of anger, rivalries, divisions, heresies, envy, murders, drunkenness, orgies, and things like these; of which I forewarn you, even as I also forewarned you, that those who practice such things will not inherit God’s Kingdom. But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faith, gentleness, and self-control. Against such things there is no law.</p><cite>Gal. 5:16-23 · WEB</cite></blockquote>
@@ -367,7 +369,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.</p><cite>Gal. 5:16 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So I say, walk by the Spirit, and you will not gratify the desires of the flesh.</p><cite>Gal. 5:16 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But I say, walk by the Spirit, and you won’t fulfill the lust of the flesh.</p><cite>Gal. 5:16 · WEB</cite></blockquote>
-<h4>(c) Gal. 5:17, - understanding the conflict between the spirit and the flesh, understanding the influence of the remnants of the sinful essence on a person. (Rebirth of soul and spirit, change of body in the future, resurrection from the dead, completion of salvation). Rom. 7:19-25</h4>
+<h4>(c) Gal. 5:17, - understanding the conflict of the spirit and the flesh, understanding the influence of the remnants of the sinful essence on a person. (Rebirth of soul and spirit, change of body in the future, resurrection from the dead, completion of salvation). Rom. 7:19-25</h4>
 <blockquote data-v="kjv"><p>For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would.</p><cite>Gal. 5:17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For the flesh craves what is contrary to the Spirit, and the Spirit what is contrary to the flesh. They are opposed to each other, so that you do not do what you want.</p><cite>Gal. 5:17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For the flesh lusts against the Spirit, and the Spirit against the flesh; and these are contrary to one another, that you may not do the things that you desire.</p><cite>Gal. 5:17 · WEB</cite></blockquote>
@@ -382,11 +384,11 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>But if ye be led of the Spirit, ye are not under the law. Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness, Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies, Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God.</p><cite>Gal. 5:18-21 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But if you are led by the Spirit, you are not under the law. The acts of the flesh are obvious: sexual immorality, impurity, and debauchery; idolatry and sorcery; hatred, discord, jealousy, and rage; rivalries, divisions, factions, and envy; drunkenness, orgies, and the like. I warn you, as I did before, that those who practice such things will not inherit the kingdom of God.</p><cite>Gal. 5:18-21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But if you are led by the Spirit, you are not under the law. Now the deeds of the flesh are obvious, which are: adultery, sexual immorality, uncleanness, lustfulness, idolatry, sorcery, hatred, strife, jealousies, outbursts of anger, rivalries, divisions, heresies, envy, murders, drunkenness, orgies, and things like these; of which I forewarn you, even as I also forewarned you, that those who practice such things will not inherit God’s Kingdom.</p><cite>Gal. 5:18-21 · WEB</cite></blockquote>
-<h4>(e) Gal. 5:22-23, - fruits of the spirit (purpose, meaning and ideology of human life), acceptance of the Word of God, the Covenant, Christ, destiny</h4>
+<h4>(e) Gal. 5:22-23, - fruits of the spirit (purpose, meaning and ideology of human life), acceptance of the Word of God, Covenant, Christ, destiny</h4>
 <blockquote data-v="kjv"><p>But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, Meekness, temperance: against such there is no law.</p><cite>Gal. 5:22-23 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. Against such things there is no law.</p><cite>Gal. 5:22-23 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faith, gentleness, and self-control. Against such things there is no law.</p><cite>Gal. 5:22-23 · WEB</cite></blockquote>
-<h4>(g) Gal. 5:24 (John 8:31-32,1 Tim. 4:16), - the special importance of changing a person's worldview and ideology, acceptance of the Word of God, the Covenant, Christ, fulfillment of destiny, constant analysis of life through the Word of God. The Covenant, Christ, the death of the carnal. (Worldview, ideology, values – desires – actions)</h4>
+<h4>(g) Gal. 5:24 (John 8:31-32,1 Tim. 4:16), - the special importance of changing a person's worldview and ideology, accepting the Word of God, the Covenant, Christ, fulfilling destiny, and constantly analyzing life through the Word of God. The Covenant, Christ, the death of the flesh. (Worldview, ideology, values – desires – actions)</h4>
 <blockquote data-v="kjv"><p>And they that are Christ’s have crucified the flesh with the affections and lusts.</p><cite>Gal. 5:24 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Those who belong to Christ Jesus have crucified the flesh with its passions and desires.</p><cite>Gal. 5:24 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Those who belong to Christ have crucified the flesh with its passions and lusts.</p><cite>Gal. 5:24 · WEB</cite></blockquote>

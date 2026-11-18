@@ -2,7 +2,7 @@
 
 ## 1) God's Plan for the Book of Revelation
 
-### (1) The Ministry of Christ, the message to the seven Churches, the importance of knowing and transmitting the Word of God, understanding the future. Rev. 1-3
+### (1) The ministry of Christ, the message to the seven Churches, the importance of knowing and transmitting the Word of God, understanding the future. Rev. 1-3
 
 ### (2) The kingdom of heaven, God's plan, and God's sovereignty. Rev. 4-5
 
@@ -95,17 +95,17 @@
 
 #### (a) 1260 days (3.5 years, 1st part of the week) – the time of service
 
-#### (b) The transmission of the Word of God, the Covenant, Christ – the service of Israel, the affirmation of the Word of God, the Covenant, Christ, the chastisement of the Antichrist. Rom. 11:25
+#### (b) The transmission of the Word of God, the Covenant, of Christ – the service of Israel, the affirmation of the Word of God, the Covenant, of Christ, the chastisement of the Antichrist. Rom. 11:25
 > For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in. (Rom. 11:25, KJV)
 
-### (3) Rev. 11:7-14, - the action of Satan, stop the transmission of the Word of God, the Covenant, Christ
+### (3) Rev. 11:7-14, - the action of Satan, to stop the transmission of the Word of God, the Covenant, of Christ
 > And when they shall have finished their testimony, the beast that ascendeth out of the bottomless pit shall make war against them, and shall overcome them, and kill them. And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified. And they of the people and kindreds and tongues and nations shall see their dead bodies three days and an half, and shall not suffer their dead bodies to be put in graves. And they that dwell upon the earth shall rejoice over them, and make merry, and shall send gifts one to another; because these two prophets tormented them that dwelt on the earth. And after three days and an half the Spirit of life from God entered into them, and they stood upon their feet; and great fear fell upon them which saw them. And they heard a great voice from heaven saying unto them, Come up hither. And they ascended up to heaven in a cloud; and their enemies beheld them. And the same hour was there a great earthquake, and the tenth part of the city fell, and in the earthquake were slain of men seven thousand: and the remnant were affrighted, and gave glory to the God of heaven. The second woe is past; and, behold, the third woe cometh quickly. (Rev. 11:7-14, KJV)
 
-#### (a) The beginning of the reign of the Antichrist, the death of two witnesses, God (The Beast coming out of the abyss, not out)
+#### (a) The beginning of the reign of the Antichrist, the death of two witnesses of God (The Beast coming out of the abyss, but not out)
 
 #### (b) Jerusalem is a spiritual Sodom and Egypt. (Rejection of the Word of God, the Covenant, Christ, joy at the death of God's witnesses)
 
-#### (c) The Resurrection and ascension of two God witnesses – God control
+#### (c) The resurrection and ascension of two of God's witnesses is God's control
 
 #### (d) The earthquake in Jerusalem, the death of seven thousand people
 
@@ -144,14 +144,14 @@
 
 ### (7) The persecution of Christians, the murder, the resurrection, and the ascension of two of God's prophets and the Church of Christ in Central Asia – the stoppage of God's judgments, the triumph, and the enthronement of the Antichrist
 
-### (8) Ignorance of the Word of God, ignorance of man – belief in the end of the world. (The inevitable fulfillment of all events indicated in the Word of God)
+### (8) Ignorance of the Word of God, human ignorance – belief in the end of the world. (The inevitable fulfillment of all events indicated in the Word of God)
 
-## 5) Rev. 12, - the importance of understanding the Word of God, the Covenant, Christ (chapter 12 of the book of Revelation – the separation of the 1st from the 2nd half of the last week, an overview of the life of the people of God)
+## 5) Rev. 12, - the importance of understanding the Word of God, the Covenant, and Christ (Chapter 12 of the book of Revelation – the separation of the 1st from the 2nd half of the last week, an overview of the life of the people of God)
 
 ### (1) Rev. 12:1-2, - the wife (the prototype of God's people from the Jews)
 > And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars: And she being with child cried, travailing in birth, and pained to be delivered. (Rev. 12:1-2, KJV)
 
-### (2) Rev. 12:3-4, - Dragon (the prototype of Satan and the fallen angels – Part 3)
+### (2) Rev. 12:3-4, - dragon (the prototype of Satan and the fallen angels – part 3)
 > And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads. And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born. (Rev. 12:3-4, KJV)
 
 ### (3) Rev. 12:5, - birth, death, resurrection, ascension of Christ
@@ -162,7 +162,7 @@
 > But the court which is without the temple leave out, and measure it not; for it is given unto the Gentiles: and the holy city shall they tread under foot forty and two months. And I will give power unto my two witnesses, and they shall prophesy a thousand two hundred and threescore days, clothed in sackcloth. (Rev. 11:2-3, KJV)
 > When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:) Then let them which be in Judaea flee into the mountains: Let him which is on the housetop not come down to take any thing out of his house: Neither let him which is in the field return back to take his clothes. And woe unto them that are with child, and to them that give suck in those days! But pray ye that your flight be not in the winter, neither on the sabbath day: For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be. And except those days should be shortened, there should no flesh be saved: but for the elect’s sake those days shall be shortened. Then if any man shall say unto you, Lo, here is Christ, or there; believe it not. For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect. Behold, I have told you before. (Matt. 24:15-25, KJV)
 
-### (5) Rev. 12:7-12, - understanding of the past, present and future of Satan and demons, stages of overthrow
+### (5) Rev. 12:7-12, - understanding the past, present and future of Satan and demons, stages of overthrow
 > And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels, And prevailed not; neither was their place found any more in heaven. And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him. And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night. And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death. Therefore rejoice, ye heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time. (Rev. 12:7-12, KJV)
 
 - (1st heaven is heaven, 2nd heaven is the universe, 3rd heaven is Central Asia)
@@ -198,16 +198,16 @@
 ### (7) Rev. 12:10-11, - God's method of victory for man
 > And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night. And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death. (Rev. 12:10-11, KJV)
 
-#### (a) The Blood of the Lamb – acceptance of the Word of God, the Covenant, Christ
+#### (a) The blood of the Lamb is the acceptance of the Word of God, the Covenant, of Christ
 
-#### (b) The Word of Testimony is the transmission of the Word of God, the Covenant, Christ
+#### (b) The Word of Witness is the transmission of the Word of God, the Covenant, and Christ
 
 #### (c) Before death – understanding and fulfilling the purpose (knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization) until the end of life under any circumstances
 
-### (8) Rev. 12:13-17 (6), - God's understanding of sovereignty and control
+### (8) Rev. 12:13-17 (6), - Understanding God's sovereignty and control
 > And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man child. And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent. And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood. And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth. And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ. (Rev. 12:13-17, KJV)
 
-#### (a) Satan's action is the persecution of God's people, God is controlling time. (Continuation of time is the last week, time is an epoch in the history of mankind, half of time is the 2nd half of the last week)
+#### (a) Satan's action is the persecution of God's people, God's control of time. (Continuation of time is the last week, time is an epoch in the history of mankind, half of time is the 2nd half of the last week)
 
 #### (b) God's control and protection of God's people – in the 1st half of the last week, two of God's prophets will serve God's people in Jerusalem, and 1,260 days (3.5 years) of great persecution, i.e. the 2nd half of the last week
 
@@ -217,6 +217,6 @@
 
 ### (2) The importance of understanding the cause of God's wrath and judgment
 
-### (3) The importance of understanding the future for the people of God (week)
+### (3) The importance of understanding the Future for God's People (week)
 
 ### (4) The importance of understanding God's Sovereignty and Control

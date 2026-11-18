@@ -1,5 +1,5 @@
 # Lev. 21–23
-## 6.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 6.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -13,7 +13,7 @@
 
 ### (1) Leviticus is God's servant, God's choice, and the importance of understanding sacrifice
 
-### (2) The importance of understanding the Priesthood – God's election, the solution of a spiritual problem, the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the training of disciples, proper Worship
+### (2) The importance of understanding the priesthood – God's election, the solution of a spiritual problem, the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the training of disciples, proper Worship
 
 #### (a) The Levites are the tribe of Levi
 
@@ -81,16 +81,16 @@
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 > Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come. (1 Cor. 10:11, KJV)
 
-### (2) The coming of Christ, the Pharisees and scribes - non-acceptance of the Word of God, the Covenant, Christ John 10:33, Rom. 9:30-33
+### (2) The Coming of Christ, the Pharisees and the Scribes – the rejection of the Word of God, the Covenant, Christ John 10:33,Rom. 9:30-33
 > The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. (John 10:33, KJV)
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
 
 ## 3) Lev. 23, - Covenant, Christ, Feasts (understanding God's plan)
 
-### (1) Lev. 23:1-3, - importance of the seventh day (knowledge and transmission of the Word of God, the Covenant, Christ, fulfillment of the destiny of the people of God)
+### (1) Lev. 23:1-3, - the importance of the seventh day (knowledge and transmission of the Word of God, the Covenant, Christ, fulfillment of the destiny of the people of God)
 > And the LORD spake unto Moses, saying, Speak unto the children of Israel, and say unto them, Concerning the feasts of the LORD, which ye shall proclaim to be holy convocations, even these are my feasts. Six days shall work be done: but the seventh day is the sabbath of rest, an holy convocation; ye shall do no work therein: it is the sabbath of the LORD in all your dwellings. (Lev. 23:1-3, KJV)
 
-### (2) Lev. 23:4-5, - Easter holiday. (Death of Christ, fulfillment of the Word of God, Covenant, Christ)
+### (2) Lev. 23:4-5, - Easter holiday. (The death of Christ, the fulfillment of the Word of God, the Covenant, Christ)
 > These are the feasts of the LORD, even holy convocations, which ye shall proclaim in their seasons. In the fourteenth day of the first month at even is the LORD’s passover. (Lev. 23:4-5, KJV)
 
 ### (3) Lev. 23:6-14, is the feast of Unleavened Bread and the first sheaf. (The Resurrection of Christ is God in the flesh, the redemption of mankind)
@@ -103,10 +103,10 @@
 ### (5) Lev. 23:23-25, - Feast of Trumpets. (Second Coming of Christ, resurrection of the children of God)
 > And the LORD spake unto Moses, saying, Speak unto the children of Israel, saying, In the seventh month, in the first day of the month, shall ye have a sabbath, a memorial of blowing of trumpets, an holy convocation. Ye shall do no servile work therein: but ye shall offer an offering made by fire unto the LORD. (Lev. 23:23-25, KJV)
 
-### (6) Lev. 23:26-32, - Day of purification. (Crush with, 1000th Kingdom of Christ on earth with the children of God)
+### (6) Lev. 23:26-32, is the Day of Purification. (Contrition with, the 1000th Kingdom of Christ on earth with the children of God)
 > And the LORD spake unto Moses, saying, Also on the tenth day of this seventh month there shall be a day of atonement: it shall be an holy convocation unto you; and ye shall afflict your souls, and offer an offering made by fire unto the LORD. And ye shall do no work in that same day: for it is a day of atonement, to make an atonement for you before the LORD your God. For whatsoever soul it be that shall not be afflicted in that same day, he shall be cut off from among his people. And whatsoever soul it be that doeth any work in that same day, the same soul will I destroy from among his people. Ye shall do no manner of work: it shall be a statute for ever throughout your generations in all your dwellings. It shall be unto you a sabbath of rest, and ye shall afflict your souls: in the ninth day of the month at even, from even unto even, shall ye celebrate your sabbath. (Lev. 23:26-32, KJV)
 
-### (7) Lev. 23:33-43, - Feast of Tabernacles. (Life of the next century, eternity, continuation of creation God)
+### (7) Lev. 23:33-43, is the feast of Tabernacles. (The life of the next age, eternity, the continuation of God's creation)
 > And the LORD spake unto Moses, saying, Speak unto the children of Israel, saying, The fifteenth day of this seventh month shall be the feast of tabernacles for seven days unto the LORD. On the first day shall be an holy convocation: ye shall do no servile work therein. Seven days ye shall offer an offering made by fire unto the LORD: on the eighth day shall be an holy convocation unto you; and ye shall offer an offering made by fire unto the LORD: it is a solemn assembly; and ye shall do no servile work therein. These are the feasts of the LORD, which ye shall proclaim to be holy convocations, to offer an offering made by fire unto the LORD, a burnt offering, and a meat offering, a sacrifice, and drink offerings, every thing upon his day: Beside the sabbaths of the LORD, and beside your gifts, and beside all your vows, and beside all your freewill offerings, which ye give unto the LORD. Also in the fifteenth day of the seventh month, when ye have gathered in the fruit of the land, ye shall keep a feast unto the LORD seven days: on the first day shall be a sabbath, and on the eighth day shall be a sabbath. And ye shall take you on the first day the boughs of goodly trees, branches of palm trees, and the boughs of thick trees, and willows of the brook; and ye shall rejoice before the LORD your God seven days. And ye shall keep it a feast unto the LORD seven days in the year. It shall be a statute for ever in your generations: ye shall celebrate it in the seventh month. Ye shall dwell in booths seven days; all that are Israelites born shall dwell in booths: That your generations may know that I made the children of Israel to dwell in booths, when I brought them out of the land of Egypt: I am the LORD your God. (Lev. 23:33-43, KJV)
 
 ## Result:
@@ -130,12 +130,12 @@
 > And ye shall do no work in that same day: for it is a day of atonement, to make an atonement for you before the LORD your God. For whatsoever soul it be that shall not be afflicted in that same day, he shall be cut off from among his people. And whatsoever soul it be that doeth any work in that same day, the same soul will I destroy from among his people. Ye shall do no manner of work: it shall be a statute for ever throughout your generations in all your dwellings. (Lev. 23:28-31, KJV)
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
-### (5) The reason for the appearance and importance of the holidays is God's plan. salvation of mankind, the unchanging fulfillment of the Word of God, the Covenant, Christ
+### (5) The reason for the appearance and importance of the holidays is God's plan. salvation of mankind, the constant fulfillment of the Word of God, the Covenant, Christ
 
 ### (6) The observance of holidays in N.Z. is a person's choice and decision. (The complete abolition of the ordinances of V.Z. is the effect of N.Z., the complete fulfillment of the feasts of the Lord in Christ Jesus). Col. 2:16
 > Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days: (Col. 2:16, KJV)
 
-- V.Z. – the perfect Good News. John 5:39; 16:8-11. (Tabernacle – 3-5 times a year, local synagogue – every seventh day, the importance of studying the Word of God, the Testaments, Christ, Levites)
+- V.Z. – the perfect Good News. John 5:39; 16:8-11. (Tabernacle – 3-5 times a year, local synagogue – every seventh day, the importance of studying the Word of God, the Covenant, Christ, Leviticus)
 
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 > And when he is come, he will reprove the world of sin, and of righteousness, and of judgment: Of sin, because they believe not on me; Of righteousness, because I go to my Father, and ye see me no more; Of judgment, because the prince of this world is judged. (John 16:8-11, KJV)
@@ -152,6 +152,6 @@
 
 ## Conclusion:
 
-### (1) The importance of the Priesthood – the knowledge and transmission of the Word of God, the Covenant, Christ
+### (1) The importance of the priesthood is the knowledge and transmission of the Word of God, the Covenant, and Christ
 
 ### (2) The Importance of Understanding the Future – God's Plan of Salvation

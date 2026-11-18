@@ -1,6 +1,6 @@
 # 13. Review of the Pentateuch
 
-## 1) The meaning of the book of Genesis is the preservation and transmission of the Word of God, the Covenant, Christ
+## 1) The meaning of the book of Genesis is the preservation and transmission of the Word of God, the Covenant, and Christ
 
 ### (1) Creation, Fall, Restoration – the importance of Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
@@ -13,14 +13,14 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-### (2) Acceptance of the Word of God, the Covenant, Christ (understanding Christ, the Good News)
+### (2) Acceptance of the Word of God, the Covenant, and Christ (understanding Christ, the Good News)
 
-#### (a) The generation of the Covenant, Christ, the children of God – the knowledge of the Word of God, the Covenant, Christ1 Pet. 1:11. (Adam – Seth –Noah – Abraham – Isaac – Jacob – the 12 Tribes of Israel)
+#### (a) The generation of the Covenant, of Christ, the children of God – the knowledge of the Word of God, of the Covenant, of Christ1 Pet. 1:11. (Adam – Seth –Noah– Abraham – Isaac–Jacob – the 12 tribes of Israel)
 > Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:11, KJV)
 
 #### (b) The importance of Canaan, Worldwide Evangelization – transmission of the Word of God, the Covenant, Christ (Egyptians, Amorites, Sodom and Gommorah, Philistines, Hittites, Job, Balaam, the whole world)
 
-### (3) Non-acceptance of the Word of God, the Covenant, Christ (no understanding of Christ, religion)
+### (3) Rejection of the Word of God, the Covenant, Christ (no understanding of Christ, religion)
 
 #### (a) A kind of unbelief, children of the devil – there is no knowledge and transmission of the Word of God, the Covenant, Xp (Cain – Giants – Tower of Babel – Ishmael – Esau)
 
@@ -34,7 +34,7 @@
 
 #### (c) Lot (Ammonites, Moabites)
 
-## 2) The meaning of the book of Exodus is the preservation and transmission of the Word of God, the Covenant, Christ
+## 2) The meaning of the book of Exodus is the preservation and transmission of the Word of God, the Covenant, and Christ
 
 ### (1) Slavery – understanding the human problem
 
@@ -52,17 +52,17 @@
 
 #### (c) Holidays – realize the plan of salvation
 
-## 3) The meaning of the book of Leviticus is the preservation and transmission of the Word of God, the Covenant, Christ
+## 3) The meaning of the book of Leviticus is the preservation and transmission of the Word of God, the Covenant, and Christ
 
 ### (1) Leviticus is God's servant, the importance of fulfilling his destiny
 
 ### (2) The Importance of Sacrifice – the importance of understanding Christ
 
-### (3) The Importance of the Priesthood and Worship – the transmission of the Covenant, Christ
+### (3) The importance of the Priesthood and Worship – the transmission of the Covenant, of Christ
 
 ### (4) The importance of social, legal and liturgical law - sanctification, service to God, preservation of God's people
 
-## 4) The meaning of the Book of Numbers is the preservation and transmission of the Word of God, the Covenant, Christ
+## 4) The meaning of the Book of Numbers is the preservation and transmission of the Word of God, the Covenant, and Christ
 
 ### (1) The importance of understanding the purpose of God's people – the preservation and transmission of the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, disciples, spiritual warfare, preparation for the coming of Christ
 
@@ -70,21 +70,21 @@
 
 ### (3) The Importance of the Disciple – Eliazar, Joshua, Caleb
 
-## 5) The meaning of the book. Deuteronomy – the Preservation and Transmission of the Covenant, Christ
+## 5) The meaning of the book. Deuteronomy – the preservation and transmission of the Covenant, of Christ
 
-### (1) The importance of the Word of God, the Covenant, Christ for man (repetition, teaching)
+### (1) The importance of the Word of God, the Covenant, and Christ for man (repetition, learning)
 
-### (2) The Importance of Canaan – the Coming of Christ, the transmission of the Covenant, Christ, World Evangelization
+### (2) The importance of Canaan – the coming of Christ, the transmission of the Covenant, of Christ, of Worldwide Evangelization
 
 ### (3) The importance of social, legal and liturgical law - sanctification, service to God, preservation of God's people
 
-### (4) Acceptance and non–acceptance of the Word of God, the Covenant, Christ - a person's right to choose
+### (4) Acceptance and non–acceptance of the Word of God, the Covenant, and Christ is a person's right to choose
 
 ## Conclusion:
 
-### (1) The meaning of the Pentateuch is the knowledge and transmission of the Word of God, the Covenant, the Christ, the understanding and fulfillment of the destiny of the people of God
+### (1) The meaning of the Pentateuch is the knowledge and transmission of the Word of God, the Covenant, Christ, and the understanding and fulfillment of the destiny of God's people
 
-### (2) Non–acceptance of the Covenant, Christ is ruin
+### (2) Non–acceptance of the Covenant, Christ's death
 
 ### (3) All the Scriptures speak of Christ Luke 24:25-27,John 5:39, - 1 Pet. 1:10-11,Acts 10:43 (Gen. 3:15; 22:18; 49:10,Num. 24:17,Deut. 18:15,Tabernacle)
 > Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken: Ought not Christ to have suffered these things, and to enter into his glory? And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself. (Luke 24:25-27, KJV)

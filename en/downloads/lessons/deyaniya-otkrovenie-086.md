@@ -1,5 +1,5 @@
 # Eph. 3
-## 3.1) Eph. 3:1-12, - the importance of understanding the Word of God, the Covenant, Christ
+## 3.1) Eph. 3:1-12, - the importance of understanding the Word of God, the Covenant, and Christ
 > For this cause I Paul, the prisoner of Jesus Christ for you Gentiles, If ye have heard of the dispensation of the grace of God which is given me to you-ward: How that by revelation he made known unto me the mystery; (as I wrote afore in few words, Whereby, when ye read, ye may understand my knowledge in the mystery of Christ) Which in other ages was not made known unto the sons of men, as it is now revealed unto his holy apostles and prophets by the Spirit; That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel: Whereof I was made a minister, according to the gift of the grace of God given unto me by the effectual working of his power. Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ; And to make all men see what is the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ: To the intent that now unto the principalities and powers in heavenly places might be known by the church the manifold wisdom of God, According to the eternal purpose which he purposed in Christ Jesus our Lord: In whom we have boldness and access with confidence by the faith of him. (Eph. 3:1-12, KJV)
 
 ### (1) Eph. 3:1, - the importance of understanding and fulfilling the purpose. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
@@ -28,7 +28,7 @@
 
 #### (a) V.Z. – the importance of joining the Israelites according to the flesh through accepting the Word of God, the Covenant, and Christ (a mystery hidden until time)
 
-#### (b) Understanding the mystery of Christ is the action of the Holy Spirit
+#### (b) Understanding the mystery of Christ is the work of the Holy Spirit
 
 ### (4) Eph. 3:7, - the importance of understanding God's sovereignty and control, the importance of God's grace for being able to serve God
 > Whereof I was made a minister, according to the gift of the grace of God given unto me by the effectual working of his power. (Eph. 3:7, KJV)
@@ -36,7 +36,7 @@
 ### (5) Eph. 3:8-12, - understanding the effect of God's grace
 > Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ; And to make all men see what is the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ: To the intent that now unto the principalities and powers in heavenly places might be known by the church the manifold wisdom of God, According to the eternal purpose which he purposed in Christ Jesus our Lord: In whom we have boldness and access with confidence by the faith of him. (Eph. 3:8-12, KJV)
 
-#### (a) Eph. 3:8, - the gospel of the unsearchable riches of Christ, the knowledge and transmission of the Word of God, the Covenant, Christ
+#### (a) Eph. 3:8, - the proclamation of the unsearchable riches of Christ, the knowledge and transmission of the Word of God, the Covenant, of Christ
 > Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ; (Eph. 3:8, KJV)
 
 #### (b) Eph. 3:9, - to reveal to everyone the essence of God's economy (the mystery hidden in God), the building up of the Church of Christ (Jews and Gentiles, non-acceptance of God). Rom. 2:11
@@ -55,19 +55,19 @@
 #### (e) Eph. 3:12, - the gift of God's faith, boldness and reliable access to God through the acceptance of Christ and His Sacrifice
 > In whom we have boldness and access with confidence by the faith of him. (Eph. 3:12, KJV)
 
-## 2) Eph. 3:13-21, - the importance of understanding the Word of God, the Covenant, Christ
+## 2) Eph. 3:13-21, - the importance of understanding the Word of God, the Covenant, and Christ
 > Wherefore I desire that ye faint not at my tribulations for you, which is your glory. For this cause I bow my knees unto the Father of our Lord Jesus Christ, Of whom the whole family in heaven and earth is named, That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man; That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love, May be able to comprehend with all saints what is the breadth, and length, and depth, and height; And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God. Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us, Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen. (Eph. 3:13-21, KJV)
 
-### (1) Eph. 3:13, - the importance of fulfilling the destiny of the people of God
+### (1) Eph. 3:13, - the importance of fulfilling the destiny of God's people
 > Wherefore I desire that ye faint not at my tribulations for you, which is your glory. (Eph. 3:13, KJV)
 
-#### (a) Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization
+#### (a) Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization
 
 #### (b) The importance of preparing for the 2nd Coming of Christ
 
 #### (c) The importance of accepting the Word of God, the Covenant, and Christ, guided not by the visible, but by the invisible (glory to the Ephesians, the persecution of Ap. St. Paul's)
 
-### (2) Eph. 3:14-15, - the importance of accepting the Word of God, the Covenant, Christ
+### (2) Eph. 3:14-15, - the importance of accepting the Word of God, the Covenant, and Christ
 > For this cause I bow my knees unto the Father of our Lord Jesus Christ, Of whom the whole family in heaven and earth is named, (Eph. 3:14-15, KJV)
 
 #### (a) The importance of understanding legitimate entry into the family of God, accepting the Sacrifice of Christ (kneeling before God)
@@ -78,22 +78,22 @@
 
 #### (d) The importance of physical fatherhood – the importance of family, the coming of man into the physical world, preparation and choice for eternity, the fulfillment of God's plan
 
-### (3) Eph. 3:16-19, - the importance of accepting the Word of God, the Covenant, Christ
+### (3) Eph. 3:16-19, - the importance of accepting the Word of God, the Covenant, and Christ
 > That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man; That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love, May be able to comprehend with all saints what is the breadth, and length, and depth, and height; And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God. (Eph. 3:16-19, KJV)
 
 #### (a) Eph. 3:16, - the importance of Emmanuel for man. (The outer man is flesh, the inner man is spirit and soul)
 > That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man; (Eph. 3:16, KJV)
 
-#### (b) Eph. 3:17, - importance of the faith of God, acceptance of the Word of God, the Covenant, Christ, salvation of man (Christ in us)
+#### (b) Eph. 3:17, - the importance of God's faith, acceptance of God's Word, Covenant, Christ, salvation of man (Christ is in us)
 > That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love, (Eph. 3:17, KJV)
 
-#### (c) Eph. 3:18, - the importance of learning, the systematic knowledge of the Word of God, the Covenant, Christ, the establishment and rooting in the love of God, the correct understanding of the essence and meaning of the environment through the action of the love of God
+#### (c) Eph. 3:18, - the importance of learning, the systematic knowledge of the Word of God, the Covenant, Christ, the establishment and rooting in the love of God, the correct understanding of the essence and meaning of the environment through the action of God's love
 > May be able to comprehend with all saints what is the breadth, and length, and depth, and height; (Eph. 3:18, KJV)
 
 #### (d) Eph. 3:19, - the importance of understanding the love of God, the salvation of mankind, the fulfillment of the destiny of the people of God (fulfillment of the fullness of God)
 > And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God. (Eph. 3:19, KJV)
 
-### (4) Eph. 3:20-21, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+### (4) Eph. 3:20-21, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 > Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us, Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen. (Eph. 3:20-21, KJV)
 
 #### (a) Eph. 3:20, - the importance of understanding God's sovereignty, the importance of proper prayer, the importance of affirming the fulfillment of God's will. Matt. 26:39

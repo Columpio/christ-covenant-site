@@ -1,5 +1,5 @@
 # 2 Cor. 1–2
-## 1.1) 1 Cor. 1:1, - the importance of conveying the Word of God, the Covenant, Christ
+## 1.1) 1 Cor. 1:1, - the importance of conveying the Word of God, the Covenant, and Christ
 > Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother, (1 Cor. 1:1, KJV)
 
 ### (1) 2 Cor. 1:1-2, - The importance of understanding God's sovereignty
@@ -9,11 +9,11 @@
 
 #### (b) The birth and existence of the Local Churches (Corinth)
 
-#### (c) Saints – the status of the people of God, acceptance of the Word of God, the Covenant, Christ
+#### (c) Saints – the status of God's people, acceptance of God's Word, Covenant, and Christ
 
 #### (d) The importance of God's grace and peace for man
 
-#### (e) The importance of understanding the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
+#### (e) The importance of understanding the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
@@ -40,19 +40,19 @@
 #### (c) 2 Cor. 1:8-11, - the importance of proper human trust in all situations, the importance of understanding Emmanuel. Dan. 3-4
 > For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life: But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead: Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver us; Ye also helping together by prayer for us, that for the gift bestowed upon us by the means of many persons thanks may be given by many on our behalf. (2 Cor. 1:8-11, KJV)
 
-#### (d) 2 Cor. 1:12-14, - the importance of understanding and fulfilling the destiny of the people of God, the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization (service to people, salvation)
+#### (d) 2 Cor. 1:12-14, - the importance of understanding and fulfilling the destiny of the people of God, the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization (service to people, salvation)
 > For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have had our conversation in the world, and more abundantly to you-ward. For we write none other things unto you, than what ye read or acknowledge; and I trust ye shall acknowledge even to the end; As also ye have acknowledged us in part, that we are your rejoicing, even as ye also are ours in the day of the Lord Jesus. (2 Cor. 1:12-14, KJV)
 
-### (3) 2 Cor. 1:15-24, - understanding the God of sovereignty and control
+### (3) 2 Cor. 1:15-24, - Understanding God's sovereignty and control
 > And in this confidence I was minded to come unto you before, that ye might have a second benefit; And to pass by you into Macedonia, and to come again out of Macedonia unto you, and of you to be brought on my way toward Judaea. When I therefore was thus minded, did I use lightness? or the things that I purpose, do I purpose according to the flesh, that with me there should be yea yea, and nay nay? But as God is true, our word toward you was not yea and nay. For the Son of God, Jesus Christ, who was preached among you by us, even by me and Silvanus and Timotheus, was not yea and nay, but in him was yea. For all the promises of God in him are yea, and in him Amen, unto the glory of God by us. Now he which stablisheth us with you in Christ, and hath anointed us, is God; Who hath also sealed us, and given the earnest of the Spirit in our hearts. Moreover I call God for a record upon my soul, that to spare you I came not as yet unto Corinth. Not for that we have dominion over your faith, but are helpers of your joy: for by faith ye stand. (2 Cor. 1:15-24, KJV)
 
-#### (a) 2 Cor. 1:15-16, - the importance of fulfilling purpose, knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, communication of the people of God
+#### (a) 2 Cor. 1:15-16, - the importance of fulfilling the destiny, knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the fellowship of God's people
 > And in this confidence I was minded to come unto you before, that ye might have a second benefit; And to pass by you into Macedonia, and to come again out of Macedonia unto you, and of you to be brought on my way toward Judaea. (2 Cor. 1:15-16, KJV)
 
 #### (b) 2 Cor. 1:17-18, - the importance of understanding God's control over the ministry of God's people (Paul's plans for visiting Corinth), understanding God's schedule of time and circumstances
 > When I therefore was thus minded, did I use lightness? or the things that I purpose, do I purpose according to the flesh, that with me there should be yea yea, and nay nay? But as God is true, our word toward you was not yea and nay. (2 Cor. 1:17-18, KJV)
 
-#### (c) 2 Cor. 1:19-22, - the immutability of the Word of God, the Covenant, Christ, the understanding of Emmanuel and the faithfulness of God, the importance of trusting God
+#### (c) 2 Cor. 1:19-22, - the immutability of the Word of God, the Covenant, Christ, the understanding of Emmanuel and God's faithfulness, the importance of trusting God
 > For the Son of God, Jesus Christ, who was preached among you by us, even by me and Silvanus and Timotheus, was not yea and nay, but in him was yea. For all the promises of God in him are yea, and in him Amen, unto the glory of God by us. Now he which stablisheth us with you in Christ, and hath anointed us, is God; Who hath also sealed us, and given the earnest of the Spirit in our hearts. (2 Cor. 1:19-22, KJV)
 
 #### (d) 2 Cor. 1:23-24, - problems of the Corinthian Church, inaccurate understanding of the Word of God, the Covenant, Christ, the importance of the 1st epistle to Corinth, the importance of chastisement and correction of the people of God
@@ -68,10 +68,10 @@
 > It is reported commonly that there is fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father’s wife. And ye are puffed up, and have not rather mourned, that he that hath done this deed might be taken away from among you. For I verily, as absent in body, but present in spirit, have judged already, as though I were present, concerning him that hath so done this deed, In the name of our Lord Jesus Christ, when ye are gathered together, and my spirit, with the power of our Lord Jesus Christ, (1 Cor. 5:1-4, KJV)
 > For if ye forgive men their trespasses, your heavenly Father will also forgive you: But if ye forgive not men their trespasses, neither will your Father forgive your trespasses. (Matt. 6:14-15, KJV)
 
-### (3) 2 Cor. 2:11, - the importance of understanding the actions of Satan, the accusations and condemnation of the people of God, to stop the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization
+### (3) 2 Cor. 2:11, - the importance of understanding the work of Satan, accusing and condemning the people of God, stopping the knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization
 > Lest Satan should get an advantage of us: for we are not ignorant of his devices. (2 Cor. 2:11, KJV)
 
-### (4) 2 Cor. 2:12-17, - the importance of understanding and fulfilling the destiny of the people of God, the importance of knowing and transmitting the Word of God, the Covenants, Christ, the disciples, Worldwide Evangelization, purity of teaching. (Spiritual fragrance – life-giving or deadly, choice)
+### (4) 2 Cor. 2:12-17, - the importance of understanding and fulfilling the destiny of God's people, the importance of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, and the purity of teaching. (Spiritual fragrance – life-giving or deadly, choice)
 > Furthermore, when I came to Troas to preach Christ’s gospel, and a door was opened unto me of the Lord, I had no rest in my spirit, because I found not Titus my brother: but taking my leave of them, I went from thence into Macedonia. Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place. For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish: To the one we are the savour of death unto death; and to the other the savour of life unto life. And who is sufficient for these things? For we are not as many, which corrupt the word of God: but as of sincerity, but as of God, in the sight of God speak we in Christ. (2 Cor. 2:12-17, KJV)
 
 ### (5) 2 Cor. 2:15-16, - Understanding God's foreknowledge of man

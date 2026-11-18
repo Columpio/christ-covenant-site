@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,20 +233,20 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>Eph. 5</h1>
-<h2 id="s1">5.1) Eph. 5:1-14, - the importance of understanding the Word of God. Of the Covenant, Christ</h2>
+<h2 id="s1">5.1) Eph. 5:1-14, - the importance of understanding the Word of God. Of the Covenant, of Christ</h2>
 <blockquote data-v="kjv"><p>Be ye therefore followers of God, as dear children; And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour. But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints; Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks. For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God. Let no man deceive you with vain words: for because of these things cometh the wrath of God upon the children of disobedience. Be not ye therefore partakers with them. For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light: (For the fruit of the Spirit is in all goodness and righteousness and truth;) Proving what is acceptable unto the Lord. And have no fellowship with the unfruitful works of darkness, but rather reprove them. For it is a shame even to speak of those things which are done of them in secret. But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light. Wherefore he saith, Awake thou that sleepest, and arise from the dead, and Christ shall give thee light.</p><cite>Eph. 5:1-14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Be imitators of God, therefore, as beloved children, and walk in love, just as Christ loved us and gave Himself up for us as a fragrant sacrificial offering to God. But among you, as is proper among the saints, there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed. Nor should there be obscenity, foolish talk, or crude joking, which are out of character, but rather thanksgiving. For of this you can be sure: No immoral, impure, or greedy person (that is, an idolater) has any inheritance in the kingdom of Christ and of God. Let no one deceive you with empty words, for because of such things the wrath of God is coming on the sons of disobedience. Therefore do not be partakers with them. For you were once darkness, but now you are light in the Lord. Walk as children of light, for the fruit of the light consists in all goodness, righteousness, and truth. Test and prove what pleases the Lord. Have no fellowship with the fruitless deeds of darkness, but rather expose them. For it is shameful even to mention what the disobedient do in secret. But everything exposed by the light becomes visible, for everything that is illuminated becomes a light itself. So it is said: “Wake up, O sleeper, rise up from the dead, and Christ will shine on you.”</p><cite>Eph. 5:1-14 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Be therefore imitators of God, as beloved children. Walk in love, even as Christ also loved us and gave himself up for us, an offering and a sacrifice to God for a sweet-smelling fragrance. But sexual immorality, and all uncleanness or covetousness, let it not even be mentioned among you, as becomes saints; nor filthiness, nor foolish talking, nor jesting, which are not appropriate, but rather giving of thanks. Know this for sure, that no sexually immoral person, nor unclean person, nor covetous man (who is an idolater), has any inheritance in the Kingdom of Christ and God. Let no one deceive you with empty words, for because of these things the wrath of God comes on the children of disobedience. Therefore don’t be partakers with them. For you were once darkness, but are now light in the Lord. Walk as children of light, for the fruit of the Spirit is in all goodness and righteousness and truth, proving what is well pleasing to the Lord. Have no fellowship with the unfruitful deeds of darkness, but rather even reprove them. For it is a shame even to speak of the things which are done by them in secret. But all things, when they are reproved, are revealed by the light, for everything that reveals is light. Therefore he says, “Awake, you who sleep, and arise from the dead, and Christ will shine on you.”</p><cite>Eph. 5:1-14 · WEB</cite></blockquote>
-<h3>(1) Eph. 5:1-2, - the importance of knowing and transmitting the Word of God, the Covenant, Christ</h3>
+<h3>(1) Eph. 5:1-2, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>Be ye therefore followers of God, as dear children; And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour.</p><cite>Eph. 5:1-2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Be imitators of God, therefore, as beloved children, and walk in love, just as Christ loved us and gave Himself up for us as a fragrant sacrificial offering to God.</p><cite>Eph. 5:1-2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Be therefore imitators of God, as beloved children. Walk in love, even as Christ also loved us and gave himself up for us, an offering and a sacrifice to God for a sweet-smelling fragrance.</p><cite>Eph. 5:1-2 · WEB</cite></blockquote>
@@ -288,8 +290,8 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.</p><cite>Rom. 10:9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>that if you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised Him from the dead, you will be saved.</p><cite>Rom. 10:9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>that if you will confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.</p><cite>Rom. 10:9 · WEB</cite></blockquote>
-<h4>(b) Life in love – knowledge and transmission of the Word of God, the Covenant, Christ, service to God and people</h4>
-<h4>(c) The importance of understanding the love of God – the sacrifice of Christ, the execution of the sentence of the Word of God, the salvation of mankind</h4>
+<h4>(b) A life of love is the knowledge and transmission of the Word of God, the Covenant, Christ, and service to God and people.</h4>
+<h4>(c) The importance of understanding the love of God – the sacrifice of Christ, the fulfillment of the sentence of the Word of God, the salvation of mankind</h4>
 <h3>(2) Eph. 5:3-5, - the importance of understanding the Word of God, the Covenant, Christ, the importance of the right life of God's people, the fulfillment of destiny</h3>
 <blockquote data-v="kjv"><p>But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints; Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks. For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God.</p><cite>Eph. 5:3-5 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But among you, as is proper among the saints, there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed. Nor should there be obscenity, foolish talk, or crude joking, which are out of character, but rather thanksgiving. For of this you can be sure: No immoral, impure, or greedy person (that is, an idolater) has any inheritance in the kingdom of Christ and of God.</p><cite>Eph. 5:3-5 · BSB</cite></blockquote>
@@ -298,13 +300,13 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h4>(b) Rejection of profanity, empty talk and ridiculousness</h4>
 <h4>(c) The importance of giving thanks to God, fulfilling the purpose</h4>
 <h4>(d) Fornication, uncleanness, human covetousness as the goal and meaning of life - idolatry</h4>
-<h3>(3) Eph. 5:6-7, - the importance of affirming the Word of God, the Covenant, Christ</h3>
+<h3>(3) Eph. 5:6-7, - the importance of affirming the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>Let no man deceive you with vain words: for because of these things cometh the wrath of God upon the children of disobedience. Be not ye therefore partakers with them.</p><cite>Eph. 5:6-7 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Let no one deceive you with empty words, for because of such things the wrath of God is coming on the sons of disobedience. Therefore do not be partakers with them.</p><cite>Eph. 5:6-7 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Let no one deceive you with empty words, for because of these things the wrath of God comes on the children of disobedience. Therefore don’t be partakers with them.</p><cite>Eph. 5:6-7 · WEB</cite></blockquote>
-<h4>(a) The importance of understanding the actions of Satan, the abrogation of the Word of God, the Covenant, Christ (the sons of disobedience), the wrath and judgment of God</h4>
+<h4>(a) The importance of understanding the work of Satan, the abolition of the Word of God, the Covenant, Christ (sons of disobedience), the wrath and judgment of God</h4>
 <h4>(b) The importance of affirming the Word of God, the Covenant, Christ (purity of teaching), the importance of opposing the abolition of the Word of God, the Covenant, Christ</h4>
-<h3>(4) Eph. 5:8, - the importance of understanding the Word of God, the Covenant, Christ</h3>
+<h3>(4) Eph. 5:8, - the importance of understanding the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light:</p><cite>Eph. 5:8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For you were once darkness, but now you are light in the Lord. Walk as children of light,</p><cite>Eph. 5:8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For you were once darkness, but are now light in the Lord. Walk as children of light,</p><cite>Eph. 5:8 · WEB</cite></blockquote>
@@ -315,21 +317,21 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>(For the fruit of the Spirit is in all goodness and righteousness and truth;)</p><cite>Eph. 5:9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>for the fruit of the light consists in all goodness, righteousness, and truth.</p><cite>Eph. 5:9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>for the fruit of the Spirit is in all goodness and righteousness and truth,</p><cite>Eph. 5:9 · WEB</cite></blockquote>
-<h4>(a) Goodness – kindness, love for man, transmission of the Word of God, the Covenant, Christ</h4>
+<h4>(a) Goodness – kindness, love for a person, transmission of the Word of God, the Covenant, Christ</h4>
 <h4>(b) Righteousness – understanding the Divinity and Sacrifice of Christ</h4>
-<h4>(c) Truth is the understanding and affirmation of the Word of God, the Covenant, Christ</h4>
+<h4>(c) Truth is the understanding and affirmation of the Word of God, the Covenant, and Christ</h4>
 <h3>(6) Eph. 5:10-11, - the importance of fulfilling the destiny of the people of God, the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization</h3>
 <blockquote data-v="kjv"><p>Proving what is acceptable unto the Lord. And have no fellowship with the unfruitful works of darkness, but rather reprove them.</p><cite>Eph. 5:10-11 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Test and prove what pleases the Lord. Have no fellowship with the fruitless deeds of darkness, but rather expose them.</p><cite>Eph. 5:10-11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>proving what is well pleasing to the Lord. Have no fellowship with the unfruitful deeds of darkness, but rather even reprove them.</p><cite>Eph. 5:10-11 · WEB</cite></blockquote>
 <h4>(a) The importance of understanding and doing the will of God - spiritual, mental and physical level</h4>
 <h4>(b) The importance of the right life of God's people, the refusal to participate in the works of darkness, the fulfillment of destiny</h4>
-<h3>(7) Eph. 5:12-13, - the importance of understanding the Word of God, the Covenant, Christ</h3>
+<h3>(7) Eph. 5:12-13, - the importance of understanding the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>For it is a shame even to speak of those things which are done of them in secret. But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light.</p><cite>Eph. 5:12-13 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For it is shameful even to mention what the disobedient do in secret. But everything exposed by the light becomes visible, for everything that is illuminated becomes a light itself.</p><cite>Eph. 5:12-13 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For it is a shame even to speak of the things which are done by them in secret. But all things, when they are reproved, are revealed by the light, for everything that reveals is light.</p><cite>Eph. 5:12-13 · WEB</cite></blockquote>
-<h4>(a) Rejection of the Word of God, the Covenant, Christ, the wrong life and actions of every human being</h4>
-<h4>(b) The importance of hearing the Word of God, the Covenant, Christ, awareness of spiritual problems and consequences for every human being</h4>
+<h4>(a) Rejection of the Word of God, the Covenant, Christ, and the wrong life and actions of every human being</h4>
+<h4>(b) The importance of hearing the Word of God, the Covenant, and Christ, and realizing the spiritual problem and consequences for every human being.</h4>
 <h3>(8) Eph. 5:14, - the importance of accepting the Word of God, the Covenant, Christ, God's call to every human being. 1 Tim. 2:4</h3>
 <blockquote data-v="kjv"><p>Wherefore he saith, Awake thou that sleepest, and arise from the dead, and Christ shall give thee light.</p><cite>Eph. 5:14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So it is said: “Wake up, O sleeper, rise up from the dead, and Christ will shine on you.”</p><cite>Eph. 5:14 · BSB</cite></blockquote>
@@ -337,10 +339,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Who will have all men to be saved, and to come unto the knowledge of the truth.</p><cite>1 Tim. 2:4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>who wants everyone to be saved and to come to the knowledge of the truth.</p><cite>1 Tim. 2:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>who desires all people to be saved and come to full knowledge of the truth.</p><cite>1 Tim. 2:4 · WEB</cite></blockquote>
-<h4>(a) Get up sleeping – the importance of hearing the Word of God, the Covenant, Christ</h4>
-<h4>(b) Rise from the Dead – the importance of accepting the Word of God, the Covenant, Christ</h4>
-<h4>(c) Christ will enlighten you – the importance of knowing and transmitting the Word of God, the Covenant, Christ, the fulfillment of destiny</h4>
-<h2 id="s2">2) Eph. 5:15-21, - the importance of understanding the Word of God, the Covenant, Christ</h2>
+<h4>(a) Get up sleeping – the importance of hearing the Word of God, the Covenant, and Christ</h4>
+<h4>(b) Rise from the dead – the importance of accepting the Word of God, the Covenant, and Christ</h4>
+<h4>(c) Christ will enlighten you – the importance of knowing and transmitting the Word of God, the Covenant, Christ, and the fulfillment of destiny</h4>
+<h2 id="s2">2) Eph. 5:15-21, - the importance of understanding the Word of God, the Covenant, and Christ</h2>
 <blockquote data-v="kjv"><p>See then that ye walk circumspectly, not as fools, but as wise, Redeeming the time, because the days are evil. Wherefore be ye not unwise, but understanding what the will of the Lord is. And be not drunk with wine, wherein is excess; but be filled with the Spirit; Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord; Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ; Submitting yourselves one to another in the fear of God.</p><cite>Eph. 5:15-21 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Pay careful attention, then, to how you walk, not as unwise but as wise, redeeming the time, because the days are evil. Therefore do not be foolish, but understand what the Lord’s will is. Do not get drunk on wine, which leads to reckless indiscretion. Instead, be filled with the Spirit. Speak to one another with psalms, hymns, and spiritual songs. Sing and make music in your hearts to the Lord, always giving thanks to God the Father for everything in the name of our Lord Jesus Christ. Submit to one another out of reverence for Christ.</p><cite>Eph. 5:15-21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Therefore watch carefully how you walk, not as unwise, but as wise, redeeming the time, because the days are evil. Therefore, don’t be foolish, but understand what the will of the Lord is. Don’t be drunken with wine, in which is dissipation, but be filled with the Spirit, speaking to one another in psalms, hymns, and spiritual songs; singing and making melody in your heart to the Lord; giving thanks always concerning all things in the name of our Lord Jesus Christ to God, even the Father; subjecting yourselves to one another in the fear of Christ.</p><cite>Eph. 5:15-21 · WEB</cite></blockquote>
@@ -348,7 +350,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>See then that ye walk circumspectly, not as fools, but as wise, Redeeming the time, because the days are evil.</p><cite>Eph. 5:15-16 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Pay careful attention, then, to how you walk, not as unwise but as wise, redeeming the time, because the days are evil.</p><cite>Eph. 5:15-16 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Therefore watch carefully how you walk, not as unwise, but as wise, redeeming the time, because the days are evil.</p><cite>Eph. 5:15-16 · WEB</cite></blockquote>
-<h3>(2) Eph. 5:17, - the importance of knowing the will of God, the importance of knowing and transmitting the Word of God, the Covenant, Christ</h3>
+<h3>(2) Eph. 5:17, - the importance of knowing the will of God, the importance of knowing and transmitting the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>Wherefore be ye not unwise, but understanding what the will of the Lord is.</p><cite>Eph. 5:17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Therefore do not be foolish, but understand what the Lord’s will is.</p><cite>Eph. 5:17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Therefore, don’t be foolish, but understand what the will of the Lord is.</p><cite>Eph. 5:17 · WEB</cite></blockquote>
@@ -357,11 +359,11 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>Do not get drunk on wine, which leads to reckless indiscretion. Instead, be filled with the Spirit. Speak to one another with psalms, hymns, and spiritual songs. Sing and make music in your hearts to the Lord, always giving thanks to God the Father for everything in the name of our Lord Jesus Christ.</p><cite>Eph. 5:18-20 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Don’t be drunken with wine, in which is dissipation, but be filled with the Spirit, speaking to one another in psalms, hymns, and spiritual songs; singing and making melody in your heart to the Lord; giving thanks always concerning all things in the name of our Lord Jesus Christ to God, even the Father;</p><cite>Eph. 5:18-20 · WEB</cite></blockquote>
 <h4>(a) Do not get drunk on wine - sobriety of life, drinking alcohol only for medicinal purposes</h4>
-<h4>(b) Being filled with the Spirit – the knowledge and transmission of the Word of God, the Covenants, Christ, the disciples, Worldwide Evangelization, the importance of fulfilling a destiny. (The fulfillment of the Holy Spirit is a special action of God for the knowledge and transmission of the Word of God, the Covenant, Christ, the fulfillment of World Evangelization)</h4>
+<h4>(b) Being filled with the Spirit – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, and the importance of fulfilling one's destiny. (The fulfillment of the Holy Spirit is a special action of God for the knowledge and transmission of the Word of God, the Covenant, Christ, and the fulfillment of Worldwide Evangelization)</h4>
 <h4>(c) Self–edification - the importance of learning and personal daily worship for God's people</h4>
 <h4>(d) Giving thanks to God the Father in the name of Jesus Christ – the importance of giving thanks to God, the fulfillment of destiny</h4>
 <h4>(e) To obey one another in the fear of God is the importance of fulfilling the purpose, understanding the order of the Church</h4>
-<h2 id="s3">3) Eph. 5:22-33, - the importance of accepting the Word of God, the Covenant, Christ</h2>
+<h2 id="s3">3) Eph. 5:22-33, - the importance of accepting the Word of God, the Covenant, and Christ</h2>
 <blockquote data-v="kjv"><p>Wives, submit yourselves unto your own husbands, as unto the Lord. For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body. Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing. Husbands, love your wives, even as Christ also loved the church, and gave himself for it; That he might sanctify and cleanse it with the washing of water by the word, That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish. So ought men to love their wives as their own bodies. He that loveth his wife loveth himself. For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church: For we are members of his body, of his flesh, and of his bones. For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh. This is a great mystery: but I speak concerning Christ and the church. Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband.</p><cite>Eph. 5:22-33 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Wives, submit to your husbands as to the Lord. For the husband is the head of the wife as Christ is the head of the church, His body, of which He is the Savior. Now as the church submits to Christ, so also wives should submit to their husbands in everything. Husbands, love your wives, just as Christ loved the church and gave Himself up for her to sanctify her, cleansing her by the washing with water through the word, and to present her to Himself as a glorious church, without stain or wrinkle or any such blemish, but holy and blameless. In the same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself. Indeed, no one ever hated his own body, but he nourishes and cherishes it, just as Christ does the church. For we are members of His body. “For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.” This mystery is profound, but I am speaking about Christ and the church. Nevertheless, each one of you also must love his wife as he loves himself, and the wife must respect her husband.</p><cite>Eph. 5:22-33 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Wives, be subject to your own husbands, as to the Lord. For the husband is the head of the wife, as Christ also is the head of the assembly, being himself the savior of the body. But as the assembly is subject to Christ, so let the wives also be to their own husbands in everything. Husbands, love your wives, even as Christ also loved the assembly and gave himself up for her, that he might sanctify her, having cleansed her by the washing of water with the word, that he might present the assembly to himself gloriously, not having spot or wrinkle or any such thing, but that she should be holy and without defect. Even so husbands also ought to love their own wives as their own bodies. He who loves his own wife loves himself. For no man ever hated his own flesh, but nourishes and cherishes it, even as the Lord also does the assembly, because we are members of his body, of his flesh and bones. “For this cause a man will leave his father and mother and will be joined to his wife. Then the two will become one flesh.” This mystery is great, but I speak concerning Christ and the assembly. Nevertheless each of you must also love his own wife even as himself; and let the wife see that she respects her husband.</p><cite>Eph. 5:22-33 · WEB</cite></blockquote>
@@ -370,8 +372,8 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>Wives, submit to your husbands as to the Lord. For the husband is the head of the wife as Christ is the head of the church, His body, of which He is the Savior. Now as the church submits to Christ, so also wives should submit to their husbands in everything.</p><cite>Eph. 5:22-24 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Wives, be subject to your own husbands, as to the Lord. For the husband is the head of the wife, as Christ also is the head of the assembly, being himself the savior of the body. But as the assembly is subject to Christ, so let the wives also be to their own husbands in everything.</p><cite>Eph. 5:22-24 · WEB</cite></blockquote>
 <h4>(a) Wives' obedience – a believing husband, a correct understanding of the Word of God, the Covenant, Christ, fulfillment of purpose, compliance with the requirements of the husband with the Word of God (legitimate requirements)</h4>
-<h4>(b) The husband's rejection of the Word of God, the Covenant, the Christ, the fulfillment of destiny. – the importance of affirming the Word of God, the Covenant, Christ, the correct position of the wife, rejecting the illegal demands of her husband</h4>
-<h4>(c) The stubbornness of her husband, the rejection of the Word of God. The Covenant, Christ – the legal right of divorce, the importance of fulfilling the purpose</h4>
+<h4>(b) The husband's rejection of the Word of God, the Covenant, Christ, and the fulfillment of destiny. – the importance of affirming the Word of God, the Covenant, Christ, the correct position of the wife, rejecting the illegal demands of her husband</h4>
+<h4>(c) The stubbornness of her husband, the rejection of the Word of God. Of the Covenant, of Christ – the legal right of divorce, the importance of fulfilling one's destiny</h4>
 <h4>(d) Christ is the Head and Savior of the Church, the legitimate demands of Christ on his Bride, full compliance with the Word of God (Understanding the importance of the legitimate demands of husbands on wives)</h4>
 <h3>(2) Eph. 5:25-29, - the importance of God's order in the family</h3>
 <blockquote data-v="kjv"><p>Husbands, love your wives, even as Christ also loved the church, and gave himself for it; That he might sanctify and cleanse it with the washing of water by the word, That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish. So ought men to love their wives as their own bodies. He that loveth his wife loveth himself. For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:</p><cite>Eph. 5:25-29 · KJV</cite></blockquote>
@@ -381,7 +383,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h4>(b) The importance of caring and loving your wife as yourself</h4>
 <h4>(c) The importance of a husband's legitimate demands on his wife, full compliance with the Word of God</h4>
 <h4>(d) The importance of understanding Christ's legitimate demands on His Church–sanctification, spiritual growth, and purpose. (Affirming the right life according to the Word of God)</h4>
-<h3>(3) Eph. 5:30-33, - the importance of understanding the Word of God, the Covenant, Christ</h3>
+<h3>(3) Eph. 5:30-33, - the importance of understanding the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>For we are members of his body, of his flesh, and of his bones. For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh. This is a great mystery: but I speak concerning Christ and the church. Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband.</p><cite>Eph. 5:30-33 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For we are members of His body. “For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.” This mystery is profound, but I am speaking about Christ and the church. Nevertheless, each one of you also must love his wife as he loves himself, and the wife must respect her husband.</p><cite>Eph. 5:30-33 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>because we are members of his body, of his flesh and bones. “For this cause a man will leave his father and mother and will be joined to his wife. Then the two will become one flesh.” This mystery is great, but I speak concerning Christ and the assembly. Nevertheless each of you must also love his own wife even as himself; and let the wife see that she respects her husband.</p><cite>Eph. 5:30-33 · WEB</cite></blockquote>
@@ -390,10 +392,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>Do you not know that you yourselves are God’s temple, and that God’s Spirit dwells in you?</p><cite>1 Cor. 3:16 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Don’t you know that you are God’s temple and that God’s Spirit lives in you?</p><cite>1 Cor. 3:16 · WEB</cite></blockquote>
 <h4>(b) The importance of understanding the mystery of the family - two are one flesh, a type of Emmanuel (the mystery of the Church)</h4>
-<h4>(c) The importance of God's love and order in the families of the people of God</h4>
+<h4>(c) The importance of God's love and order in the families of God's people</h4>
 <h2 id="s4">Conclusion:</h2>
 <h3>(1) The importance of accepting the Word of God, the Covenant, and Christ for man</h3>
-<h3>(2) The importance of the right life of God's people, purpose. – knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization</h3>
+<h3>(2) The importance of the right life of God's people, purpose. – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization</h3>
 <h3>(3) The importance of God's order in the families of God's people</h3>
 <h3>(4) The importance of understanding the Mystery of the Church, the importance of Emmanuel</h3>
 </main>

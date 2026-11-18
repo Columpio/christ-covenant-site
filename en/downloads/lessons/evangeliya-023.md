@@ -1,9 +1,9 @@
 # 23. Matthew 19 chapter
 
-## 1) Matt. 19:1-8, - the importance of understanding the Word of God, the Covenant, Christ
+## 1) Matt. 19:1-8, - the importance of understanding the Word of God, the Covenant, and Christ
 > And it came to pass, that when Jesus had finished these sayings, he departed from Galilee, and came into the coasts of Judaea beyond Jordan; And great multitudes followed him; and he healed them there. The Pharisees also came unto him, tempting him, and saying unto him, Is it lawful for a man to put away his wife for every cause? And he answered and said unto them, Have ye not read, that he which made them at the beginning made them male and female, And said, For this cause shall a man leave father and mother, and shall cleave to his wife: and they twain shall be one flesh? Wherefore they are no more twain, but one flesh. What therefore God hath joined together, let not man put asunder. They say unto him, Why did Moses then command to give a writing of divorcement, and to put her away? He saith unto them, Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so. (Matt. 19:1-8, KJV)
 
-### (1) Matt. 19:1-2, - the importance of fulfilling the destiny of the people God Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+### (1) Matt. 19:1-2, - the importance of fulfilling the destiny of God's people Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > And it came to pass, that when Jesus had finished these sayings, he departed from Galilee, and came into the coasts of Judaea beyond Jordan; And great multitudes followed him; and he healed them there. (Matt. 19:1-2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -15,7 +15,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-### (2) Matt. 19:3-8, - the importance of understanding family and marriage for people
+### (2) Matt. 19:3-8, - the importance of understanding family and marriage for a person
 > The Pharisees also came unto him, tempting him, and saying unto him, Is it lawful for a man to put away his wife for every cause? And he answered and said unto them, Have ye not read, that he which made them at the beginning made them male and female, And said, For this cause shall a man leave father and mother, and shall cleave to his wife: and they twain shall be one flesh? Wherefore they are no more twain, but one flesh. What therefore God hath joined together, let not man put asunder. They say unto him, Why did Moses then command to give a writing of divorcement, and to put her away? He saith unto them, Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so. (Matt. 19:3-8, KJV)
 
 #### (a) Matt. 19:3, - divorce, consequence of the fall
@@ -30,7 +30,7 @@
 #### (d) Matt. 19:6, - the importance of understanding marriage according to the will of God, and marriage according to the will of man (the right to choose)
 > Wherefore they are no more twain, but one flesh. What therefore God hath joined together, let not man put asunder. (Matt. 19:6, KJV)
 
-#### (e) Matt. 19:7-8, - the importance of understanding the perfect and permissible will of God (acceptance of every person's will, a letter of divorce – protection of women's rights, God's justice)
+#### (e) Matt. 19:7-8, - the importance of understanding the perfect and permissible will of God (accepting the will of every person, a letter of divorce - protecting the rights of women, the justice of God)
 > They say unto him, Why did Moses then command to give a writing of divorcement, and to put her away? He saith unto them, Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so. (Matt. 19:7-8, KJV)
 
 ## 2) Matt. 19:9, - the importance of understanding the legal reasons for divorce
@@ -42,12 +42,12 @@
 ### (2) Death of a spouse. 1 Cor. 7:39
 > The wife is bound by the law as long as her husband liveth; but if her husband be dead, she is at liberty to be married to whom she will; only in the Lord. (1 Cor. 7:39, KJV)
 
-### (3) Spiritual Incompatibility – rejection of the Word of God, the Covenant, Christ
+### (3) Spiritual incompatibility – rejection of the Word of God, the Covenant, and Christ
 
-#### (a) A direct desire for the dissolution of marriage. 1 Cor. 7:10-17. (Non–believers, believers - the right to choose, the responsibility of a person)
+#### (a) A direct desire to end the marriage. 1 Cor. 7:10-17. (Non–believers, believers - the right to choose, human responsibility)
 > And unto the married I command, yet not I, but the Lord, Let not the wife depart from her husband: But and if she depart, let her remain unmarried, or be reconciled to her husband: and let not the husband put away his wife. But to the rest speak I, not the Lord: If any brother hath a wife that believeth not, and she be pleased to dwell with him, let him not put her away. And the woman which hath an husband that believeth not, and if he be pleased to dwell with her, let her not leave him. For the unbelieving husband is sanctified by the wife, and the unbelieving wife is sanctified by the husband: else were your children unclean; but now are they holy. But if the unbelieving depart, let him depart. A brother or a sister is not under bondage in such cases: but God hath called us to peace. For what knowest thou, O wife, whether thou shalt save thy husband? or how knowest thou, O man, whether thou shalt save thy wife? But as God hath distributed to every man, as the Lord hath called every one, so let him walk. And so ordain I in all churches. (1 Cor. 7:10-17, KJV)
 
-#### (b) Inclination to another faith or false teachings, witchcraft and direct service to Satan Deut. 13:6-11
+#### (b) Inciting to another faith or false teachings, witchcraft, and direct service to Satan Deut. 13:6-11
 > If thy brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, which is as thine own soul, entice thee secretly, saying, Let us go and serve other gods, which thou hast not known, thou, nor thy fathers; Namely, of the gods of the people which are round about you, nigh unto thee, or far off from thee, from the one end of the earth even unto the other end of the earth; Thou shalt not consent unto him, nor hearken unto him; neither shall thine eye pity him, neither shalt thou spare, neither shalt thou conceal him: But thou shalt surely kill him; thine hand shall be first upon him to put him to death, and afterwards the hand of all the people. And thou shalt stone him with stones, that he die; because he hath sought to thrust thee away from the LORD thy God, which brought thee out of the land of Egypt, from the house of bondage. And all Israel shall hear, and fear, and shall do no more any such wickedness as this is among you. (Deut. 13:6-11, KJV)
 
 #### (c) Abandonment of family or physical violence and threat to life. 1 Tim. 5:8
@@ -62,7 +62,7 @@
 
 ### (3) Marriage or celibacy is not a prerequisite for serving God and people – a person's right to choose (Peter and Paul)
 
-## 4) Matt. 19:13-15, - the importance of understanding the Word of God, the Covenant, Christ
+## 4) Matt. 19:13-15, - the importance of understanding the Word of God, the Covenant, and Christ
 > Then were there brought unto him little children, that he should put his hands on them, and pray: and the disciples rebuked them. But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven. And he laid his hands on them, and departed thence. (Matt. 19:13-15, KJV)
 
 ### (1) Children – the inability to make an informed choice
@@ -71,7 +71,7 @@
 
 ### (3) God's sovereignty and love – imputing salvation to all children before reaching the age of awareness (misunderstanding of V.Z.'s events)
 
-## 5) Matt. 19:16-26, - the importance of understanding the Word of God, the Covenant, Christ
+## 5) Matt. 19:16-26, - the importance of understanding the Word of God, the Covenant, and Christ
 > And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life? And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments. He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness, Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself. The young man saith unto him, All these things have I kept from my youth up: what lack I yet? Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me. But when the young man heard that saying, he went away sorrowful: for he had great possessions. Then said Jesus unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven. And again I say unto you, It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God. When his disciples heard it, they were exceedingly amazed, saying, Who then can be saved? But Jesus beheld them, and said unto them, With men this is impossible; but with God all things are possible. (Matt. 19:16-26, KJV)
 
 ### (1) Matt. 19:16, - misunderstanding of the Word of God, the Covenant, Christ, lack of understanding and confidence in salvation
@@ -98,7 +98,7 @@
 ## 6) Matt. 19:27-30, - the importance of fulfilling the purpose
 > Then answered Peter and said unto him, Behold, we have forsaken all, and followed thee; what shall we have therefore? And Jesus said unto them, Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel. And every one that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, shall receive an hundredfold, and shall inherit everlasting life. But many that are first shall be last; and the last shall be first. (Matt. 19:27-30, KJV)
 
-### (1) Matt. 19:27, - the importance of changing one's worldview, trust in God, knowledge and transmission of the Word of God, the Covenant, Christ, destiny
+### (1) Matt. 19:27, - the importance of changing one's worldview, trust in God, knowledge and transmission of God's Word, Covenant, Christ, purpose
 > Then answered Peter and said unto him, Behold, we have forsaken all, and followed thee; what shall we have therefore? (Matt. 19:27, KJV)
 
 ### (2) Matt. 19:28-29, - the importance of correct priorities, understanding the purpose and meaning of life (eternity with God)

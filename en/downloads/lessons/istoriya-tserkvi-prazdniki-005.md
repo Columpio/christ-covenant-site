@@ -7,9 +7,9 @@
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
 > And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:16-17, KJV)
 
-#### (a) The appearance of the Word of God, the Covenant, the Christ–God action
+#### (a) The appearance of the Word of God, the Covenant, and Christ is God's action
 
-#### (b) The goal is the Word of God, the Covenant, Christ–Emmanuel, man and God together
+#### (b) The purpose of the Word of God, the Covenant, and Christ is Emmanuel, man and God together
 
 ### (2) Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2, - rejection of the Word of God, the Covenant, Christ
 > Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons. (Gen. 3:1-7, KJV)
@@ -27,9 +27,9 @@
 > And Simon Peter answered and said, Thou art the Christ, the Son of the living God. (Matt. 16:16, KJV)
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 
-#### (a) Restoration, fulfillment of the Word of God, the Covenant, Christ –God action
+#### (a) The restoration, the fulfillment of the Word of God, of the Covenant, of Christ, is God's action
 
-#### (b) The goal is the Word of God, the Covenant, Christ–Emmanuel, man and God together
+#### (b) The purpose of the Word of God, the Covenant, and Christ is Emmanuel, man and God together
 
 ## 2) The importance of understanding God's conditions for human salvation
 
@@ -41,17 +41,17 @@
 
 ### (1) The First Apostolic Church – the time of the apostles' lives, 1st century A.D.
 
-#### (a) The Birth of the Church, the establishment of the Word of God, the Covenant, Christ, the Liturgy of N.Z.
+#### (a) The birth of the Church, the establishment of the Word of God, the Covenant, Christ, the Liturgy of N.Z.
 
 #### (b) The fullness of the books of Holy Scripture
 
-#### (c) World Evangelization, disciples, destiny
+#### (c) The accomplishment of World Evangelization, the disciples, the destiny
 
 #### (d) The destruction of Jerusalem and the Temple in 70 A.D.
 
 ### (2) The Early Church – 2nd-5th century A.D.
 
-#### (a) The continuation of the accomplishment of World Evangelization, disciples, destiny
+#### (a) The continuation of World Evangelization, the disciples, the destiny
 
 #### (b) The persecution and persecution of the Church before 313 A.D. – Constantine the Great, the Edict of Milan, the end of the persecution. (The reason for the persecution is the refusal of Christians to worship the emperor as "god incarnate," i.e., the worship of Jesus Christ is a resistance to the "true gods" and the Roman Empire
 
@@ -62,7 +62,7 @@
 ## 4) The importance of understanding Ecumenical Councils
 - The Cathedral is a fraternal council (assembly) for the analysis and discussion of issues related to theology and Worship
 - The reason for the Councils is heresy, false teachings
-- Heresy is a conscious deviation from the teachings of the Word of God, the Covenant, Christ
+- Heresy is a conscious deviation from the teachings of the Word of God, the Covenant, and Christ.
 
 ## 5) Councils recognized by the Protestant Church (Denunciation of heresies, full compliance with the Word of God)
 
@@ -88,7 +88,7 @@
 
 ### (1) Pelagianism (3rd Ecumenical Council) - denial of original sin, the possibility of a person choosing God on his own without God's grace
 
-#### (a) The affirmation of original sin and the complete sinfulness of man, the inability to choose and believe in the Holy, One, True God without grace, God John 15:5
+#### (a) The affirmation of original sin and the utter sinfulness of man, the inability to choose and believe in the Holy, One, True God by oneself without the grace of God John 15:5
 > I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing. (John 15:5, KJV)
 
 #### (b) Original sin – death of infants (proof)
@@ -116,14 +116,14 @@
 
 ### (2) Partial redemption and salvation (1920 A.D.) – the rebirth and salvation of the human spirit, and the soul and body are not regenerated and not saved
 
-#### (a) The denial of Christ's solution to the consequences of sin for the people of God (The method of redemption and salvation of soul and body is the work of man, or there is no answer, the dead end of heretical teaching) 1 Cor. 3:16; 6:17, 20
+#### (a) The denial of Christ's decision of the consequences of sin for the people of God (The method of redemption and salvation of soul and body is the work of man, or there is no answer, the dead end of heretical teaching) 1 Cor. 3:16; 6:17, 20
 > Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you? (1 Cor. 3:16, KJV)
 > But he that is joined unto the Lord is one spirit. (1 Cor. 6:17, KJV)
 > For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s. (1 Cor. 6:20, KJV)
 
-#### (b) The possession of the children of God (Emmanuel, the action of Satan from the outside)
+#### (b) The possession of the children of God (Emmanuel, the work of Satan from the outside)
 
-#### (c) Ancestral and acquired curses. Gal. 3:10-13. (God's people's sins are God's punishment, not a curse)
+#### (c) Ancestral and acquired curses. Gal. 3:10-13. (The sins of God's people are God's punishment, not a curse)
 > For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them. But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith. And the law is not of faith: but, The man that doeth them shall live in them. Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree: (Gal. 3:10-13, KJV)
 
 ## 9) Heresies regarding other mediation between people and God
@@ -149,24 +149,24 @@
 #### (b) The judgment of the world based on the unchangeable Word of God John 12:48
 > He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day. (John 12:48, KJV)
 
-#### (c) "Correct translation" is a distortion of the meaning of the Word of God, the Covenant, Christ
+#### (c) "Correct translation" is a distortion of the meaning of the Word of God, the Covenant, and Christ
 
-### (2) The Doctrine of imperfection of the Word of God (add or take away)
+### (2) The doctrine of the imperfection of the Word of God (add or take away)
 
-#### (a) Misunderstanding God sovereignty – God control. Rev. 22:18-19
+#### (a) Misunderstanding of God's sovereignty is God's control. Rev. 22:18-19
 > For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book: And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book. (Rev. 22:18-19, KJV)
 
 #### (b) Misunderstanding of Satan's actions – distortion of the Word of God (apocrypha, etc.)
 
-#### (c) The purpose of Ts. – preservation and transmission of the Word of God, the Covenant, Christ
+#### (c) The purpose of Ts. – preservation and transmission of the Word of God, the Covenant, and Christ
 
 ## Conclusion:
 
-### (1) Heresy is a conscious deviation from the teachings of the Word of God, the Covenant, Christ
+### (1) Heresy is a conscious deviation from the teachings of the Word of God, the Covenant, and Christ
 
-### (2) The cause of heresies is the action of Satan, God's permission
+### (2) The cause of heresies is the work of Satan, God's permission
 
-### (3) Analysis of heresies – abrogation of the Word of God, the Covenant, Christ, salvation of man
+### (3) Analysis of heresies – the abrogation of the Word of God, the Covenant, Christ, the salvation of man
 
 #### (a) Denial of the Trinity of the Holy, True God
 
@@ -178,5 +178,5 @@
 
 ### (4) The importance of understanding the purpose of the Church – the correct and accurate preservation and transmission of the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization (Purity of teaching is the only method of combating heresies)
 
-### (5) The recognition not of councils, but of Biblical truth, the affirmation of the Word of God, the Covenant, Christ is the destiny of the people of God. Gal. 1:8-9. (Cathedrals are a visible departure from the purity of the Word of God, the Covenant, Christ)
+### (5) The recognition not of councils, but of Biblical truth, the affirmation of the Word of God, the Covenant, and Christ is the destiny of the people of God. Gal. 1:8-9. (Cathedrals are a visible departure from the purity of the Word of God, the Covenant, and Christ)
 > But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed. As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed. (Gal. 1:8-9, KJV)

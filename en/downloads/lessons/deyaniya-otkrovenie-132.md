@@ -1,9 +1,9 @@
 # 3. Prayer, understanding of God's will and circumstances
-- Prayer – communion with God through the Word of God, the Covenant, Christ
+- Prayer is communion with God through the Word of God, the Covenant, and Christ.
 - It is not prayer that moves God, but God that moves prayer.
 - Prayer - knowledge and affirmation of the will of God, emphasis on hearing rather than speaking
 
-## 1) Gen. 1:27-28; 2:7, 9, 16-17, - the perfect will of God 1 Tim. 2:4
+## 1) Gen. 1:27-28; 2:7, 9, 16-17, is the perfect will of God 1 Tim. 2:4
 > So God created man in his own image, in the image of God created he him; male and female created he them. And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth. (Gen. 1:27-28, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
@@ -28,9 +28,9 @@
 > Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
-### (1) The loss of purpose and meaning of human life in time – there is no choice regarding eternal life, the slave of sin, death and hell, Satan
+### (1) Loss of purpose and meaning of human life in time – there is no choice regarding eternal life, a slave to sin, death and hell, Satan
 
-### (2) No understanding of the perfect will of God - no Emmanuel, no knowledge and transmission of the Word of God, the Covenant, Christ, no communication with God
+### (2) There is no understanding of the perfect will of God – there is no Emmanuel, there is no knowledge and transmission of the Word of God, the Covenant, Christ, there is no communion with God
 
 ### (3) The priority of turning to God is the fulfillment of one's will, visible, hard life, accusations of God Matt. 6:7-8, 31-32,Jas. 4:1-4,Phil. 2:21, - Matt. 16:26
 > But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking. Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him. (Matt. 6:7-8, KJV)
@@ -64,7 +64,7 @@
 ### (2) Unceasing prayer is the search for and desire to fulfill the will of God through constant reflection on the Word of God, the Covenant, Christ, and hearing God (spiritually, mentally, and physically). 1 Thess. 5:17
 > Pray without ceasing. (1 Thess. 5:17, KJV)
 
-### (3) Prayer of Thanksgiving – Emmanuel, all the answers of life are in God (spiritual, mental, physical). 1 Thess. 5:18,Eph. 5:20
+### (3) Prayer of Thanksgiving – Emmanuel, all the answers of life in God (spiritual, mental, physical). 1 Thess. 5:18,Eph. 5:20
 > In every thing give thanks: for this is the will of God in Christ Jesus concerning you. (1 Thess. 5:18, KJV)
 > Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ; (Eph. 5:20, KJV)
 
@@ -73,13 +73,13 @@
 ### (1) Violation of the Word of God (the laws of life) – consequences. Gal. 6:7-8
 > Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap. For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting. (Gal. 6:7-8, KJV)
 
-#### (a) Non–acceptance of the Word of God, the Covenant, Christ – sinners. 2 Pet. 3:9. (Circumstances - God's love and mercy, man's repentance)
+#### (a) Rejection of the Word of God, the Covenant, Christ – sinners. 2 Pet. 3:9. (Circumstances – God's love and mercy, man's repentance)
 > The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance. (2 Pet. 3:9, KJV)
 
-#### (b) Violation of the Word of God (laws, lives) – sinners, the righteous. (Circumstances are God's love and mercy, the upbringing of a man) Heb. 12:5-11 (David)
+#### (b) Violation of the Word of God (laws, lives) – sinners, the righteous. (Circumstances – God's love and mercy, human upbringing) Heb. 12:5-11 (David)
 > And ye have forgotten the exhortation which speaketh unto you as unto children, My son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him: For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth. If ye endure chastening, God dealeth with you as with sons; for what son is he whom the father chasteneth not? But if ye be without chastisement, whereof all are partakers, then are ye bastards, and not sons. Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live? For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness. Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby. (Heb. 12:5-11, KJV)
 
-### (2) For the glory of God – knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization
+### (2) For the glory of God, the knowledge and transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
 #### (a) God's plan, the fulfillment of God's will (Joseph, Christ)
 
@@ -106,12 +106,12 @@
 > Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee. (1 Tim. 4:16, KJV)
 > For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end. (Jer. 29:11, KJV)
 
-### (4) God controls circumstances. Ps. 139:16,Prov. 19:21,1 Cor. 10:13. (God's children are all for good, the devil's children are all for evil, God's foreknowledge)
+### (4) God's control of circumstances. Ps. 139:16,Prov. 19:21,1 Cor. 10:13. (God's children are all for good, the devil's children are all for evil, God's foreknowledge)
 > Thine eyes did see my substance, yet being unperfect; and in thy book all my members were written, which in continuance were fashioned, when as yet there was none of them. (Ps. 139:16, KJV)
 > There are many devices in a man’s heart; nevertheless the counsel of the LORD, that shall stand. (Prov. 19:21, KJV)
 > There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it. (1 Cor. 10:13, KJV)
 
-### (5) The importance of passing through circumstances with honor and dignity, God's children, full trust in God (David, Paul)
+### (5) The importance of passing through circumstances with honor and dignity of God's children, full trust in God (David, Paul)
 
 ### (6) Non–acceptance of God's sovereignty (circumstances) - self-strength, disappointment, grumbling. 1 Cor. 10:1-13,Phil. 2:21
 > Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea; And were all baptized unto Moses in the cloud and in the sea; And did all eat the same spiritual meat; And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ. But with many of them God was not well pleased: for they were overthrown in the wilderness. Now these things were our examples, to the intent we should not lust after evil things, as they also lusted. Neither be ye idolaters, as were some of them; as it is written, The people sat down to eat and drink, and rose up to play. Neither let us commit fornication, as some of them committed, and fell in one day three and twenty thousand. Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents. Neither murmur ye, as some of them also murmured, and were destroyed of the destroyer. Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come. Wherefore let him that thinketh he standeth take heed lest he fall. There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it. (1 Cor. 10:1-13, KJV)

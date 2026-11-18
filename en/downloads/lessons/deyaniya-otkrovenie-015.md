@@ -37,10 +37,10 @@
 #### (c) Acts 22:14-21, - understanding of God's sovereignty and control, God's plan for Paul, the Gentiles. (Damascus – Arabia – Damascus – Jerusalem – Tarsus – Antioch)
 > And he said, The God of our fathers hath chosen thee, that thou shouldest know his will, and see that Just One, and shouldest hear the voice of his mouth. For thou shalt be his witness unto all men of what thou hast seen and heard. And now why tarriest thou? arise, and be baptized, and wash away thy sins, calling on the name of the Lord. And it came to pass, that, when I was come again to Jerusalem, even while I prayed in the temple, I was in a trance; And saw him saying unto me, Make haste, and get thee quickly out of Jerusalem: for they will not receive thy testimony concerning me. And I said, Lord, they know that I imprisoned and beat in every synagogue them that believed on thee: And when the blood of thy martyr Stephen was shed, I also was standing by, and consenting unto his death, and kept the raiment of them that slew him. And he said unto me, Depart: for I will send thee far hence unto the Gentiles. (Acts 22:14-21, KJV)
 
-#### (d) Acts 22:22-24, - Satan's action, stop the transmission of the Covenant, Christ
+#### (d) Acts 22:22-24, - the action of Satan, to stop the transmission of the Covenant, of Christ
 > And they gave him audience unto this word, and then lifted up their voices, and said, Away with such a fellow from the earth: for it is not fit that he should live. And as they cried out, and cast off their clothes, and threw dust into the air, The chief captain commanded him to be brought into the castle, and bade that he should be examined by scourging; that he might know wherefore they cried so against him. (Acts 22:22-24, KJV)
 
-#### (e) Acts 22:25-30, - God's sovereignty and control over the lives of children (Roman citizenship is God's plan for Paul's life). Ps. 139:16
+#### (e) Acts 22:25-30, - God's sovereignty and control over the lives of God's children (Roman citizenship is God's plan for Paul's life). Ps. 139:16
 > And as they bound him with thongs, Paul said unto the centurion that stood by, Is it lawful for you to scourge a man that is a Roman, and uncondemned? When the centurion heard that, he went and told the chief captain, saying, Take heed what thou doest: for this man is a Roman. Then the chief captain came, and said unto him, Tell me, art thou a Roman? He said, Yea. And the chief captain answered, With a great sum obtained I this freedom. And Paul said, But I was free born. Then straightway they departed from him which should have examined him: and the chief captain also was afraid, after he knew that he was a Roman, and because he had bound him. On the morrow, because he would have known the certainty wherefore he was accused of the Jews, he loosed him from his bands, and commanded the chief priests and all their council to appear, and brought Paul down, and set him before them. (Acts 22:25-30, KJV)
 > Thine eyes did see my substance, yet being unperfect; and in thy book all my members were written, which in continuance were fashioned, when as yet there was none of them. (Ps. 139:16, KJV)
 
@@ -49,10 +49,10 @@
 ### (1) Acts 23:1-10, - misunderstanding of the Word of God, the Covenant, Christ, the Pharisees, the Sadducees. (The importance of understanding – Who is Christ? The purpose of His visit?)
 > And Paul, earnestly beholding the council, said, Men and brethren, I have lived in all good conscience before God until this day. And the high priest Ananias commanded them that stood by him to smite him on the mouth. Then said Paul unto him, God shall smite thee, thou whited wall: for sittest thou to judge me after the law, and commandest me to be smitten contrary to the law? And they that stood by said, Revilest thou God’s high priest? Then said Paul, I wist not, brethren, that he was the high priest: for it is written, Thou shalt not speak evil of the ruler of thy people. But when Paul perceived that the one part were Sadducees, and the other Pharisees, he cried out in the council, Men and brethren, I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question. And when he had so said, there arose a dissension between the Pharisees and the Sadducees: and the multitude was divided. For the Sadducees say that there is no resurrection, neither angel, nor spirit: but the Pharisees confess both. And there arose a great cry: and the scribes that were of the Pharisees’ part arose, and strove, saying, We find no evil in this man: but if a spirit or an angel hath spoken to him, let us not fight against God. And when there arose a great dissension, the chief captain, fearing lest Paul should have been pulled in pieces of them, commanded the soldiers to go down, and to take him by force from among them, and to bring him into the castle. (Acts 23:1-10, KJV)
 
-### (2) Acts 23:11, - statement of the Word of God, purpose, World Evangelism, Rome
+### (2) Acts 23:11, - affirmation of the Word of God, purpose, World Evangelization, Rom
 > And the night following the Lord stood by him, and said, Be of good cheer, Paul: for as thou hast testified of me in Jerusalem, so must thou bear witness also at Rome. (Acts 23:11, KJV)
 
-### (3) Acts 23:12-15, is the action of Satan. Stop the transmission of the Covenant, Christ
+### (3) Acts 23:12-15, is the act of Satan. Stop the transmission of the Covenant, of Christ
 > And when it was day, certain of the Jews banded together, and bound themselves under a curse, saying that they would neither eat nor drink till they had killed Paul. And they were more than forty which had made this conspiracy. And they came to the chief priests and elders, and said, We have bound ourselves under a great curse, that we will eat nothing until we have slain Paul. Now therefore ye with the council signify to the chief captain that he bring him down unto you to morrow, as though ye would enquire something more perfectly concerning him: and we, or ever he come near, are ready to kill him. (Acts 23:12-15, KJV)
 
 ### (4) Acts 23:16-35, - God's sovereignty and control, God's plan. (Paul's translation to Governor Felix, journey to Rome)
@@ -60,7 +60,7 @@
 
 ## 3) Acts 24, - transmission of the Word of God, the Covenant, Christ
 
-### (1) Acts 24:1-9, - Satan's action, stop the transmission of the Covenant, Christ
+### (1) Acts 24:1-9, - the action of Satan, to stop the transmission of the Covenant, of Christ
 > And after five days Ananias the high priest descended with the elders, and with a certain orator named Tertullus, who informed the governor against Paul. And when he was called forth, Tertullus began to accuse him, saying, Seeing that by thee we enjoy great quietness, and that very worthy deeds are done unto this nation by thy providence, We accept it always, and in all places, most noble Felix, with all thankfulness. Notwithstanding, that I be not further tedious unto thee, I pray thee that thou wouldest hear us of thy clemency a few words. For we have found this man a pestilent fellow, and a mover of sedition among all the Jews throughout the world, and a ringleader of the sect of the Nazarenes: Who also hath gone about to profane the temple: whom we took, and would have judged according to our law. But the chief captain Lysias came upon us, and with great violence took him away out of our hands, Commanding his accusers to come unto thee: by examining of whom thyself mayest take knowledge of all these things, whereof we accuse him. And the Jews also assented, saying that these things were so. (Acts 24:1-9, KJV)
 
 ### (2) Acts 24:10-25, - transmission of the Word of God, the Covenant, Christ (Felix, Drusilla)
@@ -69,12 +69,12 @@
 ### (3) Acts 24:26, - rejection of the Word of God, the Covenant, Christ, ruler Felix, the right to choose, personal motives (God's sovereignty and control)
 > He hoped also that money should have been given him of Paul, that he might loose him: wherefore he sent for him the oftener, and communed with him. (Acts 24:26, KJV)
 
-### (4) Acts 24:27, - God of sovereignty and control, ruler of Festus. (The Inevitable fulfillment of the Word of God, the importance of Worldwide Evangelization, Rom.)
+### (4) Acts 24:27, - God's sovereignty and control, ruler Festus. (The Inevitable fulfillment of God's Word, the importance of Worldwide Evangelization, Rom.)
 > But after two years Porcius Festus came into Felix’ room: and Felix, willing to shew the Jews a pleasure, left Paul bound. (Acts 24:27, KJV)
 
 ## Conclusion:
 
-### (1) The importance of properly understanding the Word of God, the Covenant, Christ
+### (1) The importance of properly understanding the Word of God, the Covenant, and Christ
 
 ### (2) The importance of understanding God's Sovereignty and Control
 

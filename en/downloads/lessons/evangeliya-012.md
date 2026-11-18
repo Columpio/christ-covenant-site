@@ -1,6 +1,6 @@
 # 12. Matthew 6-7 chapter. (Sermon on the Mount, idols, false teachings)
 
-## 1) Matt. 6:19-21, - the importance of the Word of God, the Covenant, Christ for man
+## 1) Matt. 6:19-21, - the importance of the Word of God, the Covenant, and Christ for man
 > Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal: But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal: For where your treasure is, there will your heart be also. (Matt. 6:19-21, KJV)
 
 ### (1) The true treasure is Christ, acceptance of the Word of God, the Covenant, Christ, salvation, eternal life with God (treasure in heaven) Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
@@ -14,26 +14,26 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-### (2) Gathering treasure in heaven – knowledge and transmission of the Word of God, the Covenant, Christ, salvation of people, fulfillment of God's will
+### (2) To gather treasure in heaven – the knowledge and transmission of the Word of God, the Covenant, Christ, the salvation of people, the fulfillment of God's will
 
 ### (3) Where your treasure is, there is your heart – the importance of a correct worldview, an understanding of eternity with God. (Wanderers and aliens on earth, preparing for eternity)
 
-### (4) Rejection of the Word of God, the Covenant, Christ – emphasis on the visible, the importance of earthly and material treasures for man (spirit problem)
+### (4) Rejection of the Word of God, the Covenant, and Christ – emphasis on the visible, the importance of earthly and material treasures for man (spiritual problem)
 
-### (5) The importance of proper attitude to earthly, material treasures – knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization
+### (5) The importance of a proper attitude towards earthly, material treasures – the knowledge and transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
-## 2) Matt. 6:22-23, - the importance of accepting the Word of God, the Covenant, Christ
+## 2) Matt. 6:22-23, - the importance of accepting the Word of God, the Covenant, and Christ
 > The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light. But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great is that darkness! (Matt. 6:22-23, KJV)
 
-### (1) The right view of life (the eye) is a lamp for man, the importance of knowing the Word of God, the Covenant, Christ, the right worldview
+### (1) The right view of life (the eye) is a lamp for man, the importance of knowing the Word of God, the Covenant, Christ, and the right worldview
 
-### (2) The right, pure view is the right, pure life, fulfillment of destiny, fulfillment of God's will. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+### (2) The right, pure view is the right, pure life, fulfillment of purpose, fulfillment of God's will. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 
 ### (3) Wrong view (rejection of the Word of God, the Covenant, Christ) – wrong life, emphasis on the visible, death
 
-### (4) The importance of evaluating a person's life through the standards of the Word of God, the only criterion of faith, thoughts, emotions and actions. (The problem of human opinions in understanding good and evil)
+### (4) The importance of evaluating a person's life through the standards of the Word of God, the only criterion of faith, thoughts, emotions, and actions. (The problem of human opinions in understanding good and evil)
 
-## 3) Matt. 6:24-34, - the importance of understanding the Word of God, the Covenant, Christ
+## 3) Matt. 6:24-34, - the importance of understanding the Word of God, the Covenant, and Christ
 > No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon. Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment? Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they? Which of you by taking thought can add one cubit unto his stature? And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin: And yet I say unto you, That even Solomon in all his glory was not arrayed like one of these. Wherefore, if God so clothe the grass of the field, which to day is, and to morrow is cast into the oven, shall he not much more clothe you, O ye of little faith? Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed? (For after all these things do the Gentiles seek:) for your heavenly Father knoweth that ye have need of all these things. But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you. Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof. (Matt. 6:24-34, KJV)
 
 ### (1) Idols, mammon are a consequence of a spiritual problem, visible
@@ -48,21 +48,21 @@
 
 ### (6) The importance of being born again – Understanding the Invisible
 
-## 4) Matt. 7:1-5, - the importance of understanding the Word of God, the Covenant, Christ
+## 4) Matt. 7:1-5, - the importance of understanding the Word of God, the Covenant, and Christ
 > Judge not, that ye be not judged. For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again. And why beholdest thou the mote that is in thy brother’s eye, but considerest not the beam that is in thine own eye? Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye? Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye. (Matt. 7:1-5, KJV)
 
 ### (1) To judge – to pronounce a final verdict on a person
 
-### (2) To voice the facts is to see and evaluate what is happening correctly, to rely on God to change and save people (Understanding God's love is mercy over judgment). Jas. 2:13
+### (2) Voicing the facts means correctly seeing and evaluating what is happening, relying on God to change and save a person (Understanding God's love is mercy over judgment). Jas. 2:13
 > For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment. (Jas. 2:13, KJV)
 
 ### (3) The importance of understanding a person's spiritual problem, the importance of treating people's misdeeds correctly
 
-### (4) The essence of the earthly court is the awareness of the problem, the correction of the person
+### (4) The essence of the earthly court is the awareness of the problem, the correction of man
 
-### (5) The importance of evaluating one's life by the criteria of the Word of God, the importance of correct faith, thoughts, emotions, and actions of God's people
+### (5) The importance of evaluating one's life by the criteria of God's Word, the importance of correct faith, thoughts, emotions, and actions of God's people
 
-## 5) Matt. 7:6, - the importance of the correct transmission of the Word of God, the Covenant, Christ
+## 5) Matt. 7:6, - the importance of correctly conveying the Word of God, the Covenant, and Christ
 > Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you. (Matt. 7:6, KJV)
 
 ### (1) Holy things and pearls – The Word of God, the Covenant, Christ
@@ -87,28 +87,28 @@
 
 ### (2) The importance of treating people right is a spiritual issue
 
-## 8) Matt. 7:13-23, - non-acceptance of the Word of God, the Covenant, Christ, false teachings
+## 8) Matt. 7:13-23, - rejection of the Word of God, the Covenant, Christ, and false teachings
 > Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it. Beware of false prophets, which come to you in sheep’s clothing, but inwardly they are ravening wolves. Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles? Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit. A good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit. Every tree that bringeth not forth good fruit is hewn down, and cast into the fire. Wherefore by their fruits ye shall know them. Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven. Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works? And then will I profess unto them, I never knew you: depart from me, ye that work iniquity. (Matt. 7:13-23, KJV)
 
-### (1) Matt. 7:13-14, - the importance of accepting the Word of God, the Covenant, Christ
+### (1) Matt. 7:13-14, - the importance of accepting the Word of God, the Covenant, and Christ
 > Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it. (Matt. 7:13-14, KJV)
 
-#### (a) Non–acceptance of the Word of God, the Covenant, Christ - the majority
+#### (a) Rejection of the Word of God, the Covenant, Christ – the majority
 
-#### (b) Accepting the Word of God, the Covenant, Christ is a minority
+#### (b) Accepting the Word of God, the Covenant, and Christ is a minority
 
 ### (2) Matt. 7:15-23, - The importance of understanding Satan's actions
 > Beware of false prophets, which come to you in sheep’s clothing, but inwardly they are ravening wolves. Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles? Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit. A good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit. Every tree that bringeth not forth good fruit is hewn down, and cast into the fire. Wherefore by their fruits ye shall know them. Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven. Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works? And then will I profess unto them, I never knew you: depart from me, ye that work iniquity. (Matt. 7:15-23, KJV)
 
 #### (a) False prophets - false teachings, religion, salvation through deeds
 
-#### (b) Fruit – salvation, acceptance and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization
+#### (b) The fruit is salvation, acceptance and transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
-#### (c) Non-acceptance of the Word of God, the Covenant, Christ, false teachings – the judgment of God
+#### (c) The rejection of the Word of God, the Covenant, Christ, and false teaching is the judgment of God
 
-#### (d) The action of Satan is God's permission, man's right to choose
+#### (d) Satan's action is God's permission, man's right to choose
 
-## 9) Matt. 7:24-27, - the importance of accepting the Word of God, the Covenant, Christ
+## 9) Matt. 7:24-27, - the importance of accepting the Word of God, the Covenant, and Christ
 > Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock: And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock. And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand: And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it. (Matt. 7:24-27, KJV)
 
 ### (1) The importance of hearing the Word of God, laying the right foundation for faith and human life (stone, Christ) Rom. 10:17,1 Cor. 3:11
@@ -122,7 +122,7 @@
 
 ### (1) The divinity of Christ is He who has authority, God
 
-### (2) The importance of understanding the Power of the Word of God – the fulfillment of God's will
+### (2) The Importance of Understanding the Power of God's Word – Doing God's Will
 
 ### (3) The importance of Christ's teaching for every human being – the ordered and systematized Word of God (the Bible)
 
@@ -134,6 +134,6 @@
 
 ### (3) The importance of proper prayer and supplication
 
-### (4) The importance of understanding the actions of Satan – false prophets, false teachings
+### (4) The importance of understanding Satan's actions – false prophets, false Teachings
 
 ### (5) The importance of the right foundation of faith and human life

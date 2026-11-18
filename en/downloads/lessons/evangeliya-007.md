@@ -20,9 +20,9 @@
 
 #### (b) The importance of understanding Christ's Sacrifice, fulfilling God's Word
 
-#### (c) The importance of accepting the Word of God, the Covenant, Christ, the salvation of every human being
+#### (c) The importance of accepting the Word of God, the Covenant, Christ, and the salvation of every human being
 
-### (2) John 3:17, - the importance of understanding the Word of God, the Covenant, Christ
+### (2) John 3:17, - the importance of understanding the Word of God, the Covenant, and Christ
 > For God sent not his Son into the world to condemn the world; but that the world through him might be saved. (John 3:17, KJV)
 
 #### (a) The coming of Christ is the redemption and salvation of mankind
@@ -35,7 +35,7 @@
 
 #### (a) The acceptance of the Word of God, the Covenant, Christ, the fulfillment of the Word of God and the fulfillment of the judgment of God (the sacrifice of Christ), forgiveness and justification of man
 
-#### (b) The rejection of the Word of God, the Covenant, Christ (sin to death), the unresolved problem of human sins, the inevitability of God's judgment
+#### (b) The rejection of the Word of God, the Covenant, Christ (sin leading to death), the unresolved problem of human sins, the inevitability of God's judgment
 
 ### (4) John 3:19-21, - the importance of understanding the meaning of God's judgment
 > And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil. For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved. But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God. (John 3:19-21, KJV)
@@ -53,11 +53,11 @@
 > After these things came Jesus and his disciples into the land of Judæa; and there he tarried with them, and baptized. And John also was baptizing in Ænon near to Salim, because there was much water there: and they came, and were baptized. For John was not yet cast into prison. Then there arose a question between some of John’s disciples and the Jews about purifying. (John 3:22-25, KJV)
 > (Though Jesus himself baptized not, but his disciples,) (John 4:2, KJV)
 
-#### (a) The Baptism of John the Baptist is the affirmation of the Word of God, the Covenant, Christ
+#### (a) The baptism of John the Baptist is the affirmation of the Word of God, the Covenant, and Christ
 
-#### (b) Immersion – death of Christ, fulfillment of the Word of God, redemption of man
+#### (b) Immersion – the death of Christ, the fulfillment of the Word of God, the redemption of man
 
-#### (c) Ascension – Resurrection of Christ, God in the flesh, Intercessor for man
+#### (c) The Ascension is the resurrection of Christ, God in the flesh, the Intercessor for man
 
 #### (d) The baptism of John the Baptist – preparation for the coming of Christ
 

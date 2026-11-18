@@ -2,7 +2,7 @@
 
 ## 1) Minor prophets of the Kingdom of Israel: Hosea, Amos, Jonah, Nahum
 
-## 2) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 2) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -14,7 +14,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-## 3) The ministry of the prophets is the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of God's people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+## 3) The ministry of the prophets is the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of God's people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 
 ### (1) The Prophets of V.Z. – understanding and acceptance of the Word of God, the Covenant, Christ, salvation and rebirth, the action of the Holy Spirit 1 Pet. 1:10-11,Acts 10:43, - 2 Pet. 1:19-21,John 16:8-11
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
@@ -22,20 +22,20 @@
 > We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts: Knowing this first, that no prophecy of the scripture is of any private interpretation. For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost. (2 Pet. 1:19-21, KJV)
 > And when he is come, he will reprove the world of sin, and of righteousness, and of judgment: Of sin, because they believe not on me; Of righteousness, because I go to my Father, and ye see me no more; Of judgment, because the prince of this world is judged. (John 16:8-11, KJV)
 
-#### (a) The rejection of the Word of God, the Covenant, Christ is the problem of man, of the people. (The consequence is idolatry, mammon, immorality)
+#### (a) The rejection of the Word of God, the Covenant, and Christ is the problem of man and the people. (The consequence is idolatry, mammon, immorality)
 
-#### (b) The importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization (Emmanuel, the destiny of man, preparation for the coming of Christ)
+#### (b) The importance of knowing and transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization (Emmanuel, the destiny of man, preparation for the coming of Christ)
 
-#### (c) The judgments of God – the inevitable execution of the sentence of the Word of God, understanding the human right to choose. Rom. 6:23,Deut. 30:19
+#### (c) The judgments of God are the inevitable execution of the sentence of the Word of God, understanding the human right to choose. Rom. 6:23,Deut. 30:19
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
-### (2) The modern people of God, the continuation of prophetic ministry – the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of the people of God. John 16:8-11. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+### (2) The modern people of God, the continuation of prophetic ministry – the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of the people of God. John 16:8-11. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 > And when he is come, he will reprove the world of sin, and of righteousness, and of judgment: Of sin, because they believe not on me; Of righteousness, because I go to my Father, and ye see me no more; Of judgment, because the prince of this world is judged. (John 16:8-11, KJV)
 
 ## 4) The importance of understanding the Book of Hosea
 
-### (1) Hos. 1-3, - rejection of the Word of God, Covenant, Christ, destiny
+### (1) Hos. 1-3, - rejection of the Word of God, the Covenant, Christ, destiny
 
 #### (a) Hos. 1:1-2, - the problem of spiritual fornication (the harlot wife)
 > The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel. The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the LORD. (Hos. 1:1-2, KJV)
@@ -46,12 +46,12 @@
 #### (c) Hos. 1:7, - the importance of fulfilling destiny (Judas) – knowledge and transmission of the Word of God, the Covenant, Christ, the Temple, Worldwide Evangelization, faithfulness to God
 > But I will have mercy upon the house of Judah, and will save them by the LORD their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen. (Hos. 1:7, KJV)
 
-#### (d) Hos. 1:10-11, - the reunification of the people of God, the 2nd coming of Christ
+#### (d) Hos. 1:10-11, - the reunion of God's people, the 2nd coming of Christ
 > Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God. Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel. (Hos. 1:10-11, KJV)
 
 #### (e) Hos. 2, - God's love and mercy, the education of God's people
 
-#### (e) Hos. 3:1-3, - God's mercy, wife's ransom, continuation of the relationship. (Fulfillment of the Word of God, Sacrifice of Christ, Redemption of the people of God)
+#### (e) Hos. 3:1-3, - the grace of God, the ransom of a wife, the continuation of a relationship. (Fulfillment of God's Word, Sacrifice of Christ, Redemption of God's people)
 > Then said the LORD unto me, Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine. So I bought her to me for fifteen pieces of silver, and for an homer of barley, and an half homer of barley: And I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for another man: so will I also be for thee. (Hos. 3:1-3, KJV)
 
 #### (g) Hos. 3:4-5, - acceptance of the Word of God, the Covenant, Xp, the last time. Rom. 11
@@ -65,7 +65,7 @@
 #### (b) Hos. 4:9-19, - idols, the spiritual fornication of God's people
 > And there shall be, like people, like priest: and I will punish them for their ways, and reward them their doings. For they shall eat, and not have enough: they shall commit whoredom, and shall not increase: because they have left off to take heed to the LORD. Whoredom and wine and new wine take away the heart. My people ask counsel at their stocks, and their staff declareth unto them: for the spirit of whoredoms hath caused them to err, and they have gone a whoring from under their God. They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and elms, because the shadow thereof is good: therefore your daughters shall commit whoredom, and your spouses shall commit adultery. I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people that doth not understand shall fall. Though thou, Israel, play the harlot, yet let not Judah offend; and come not ye unto Gilgal, neither go ye up to Beth-aven, nor swear, The LORD liveth. For Israel slideth back as a backsliding heifer: now the LORD will feed them as a lamb in a large place. Ephraim is joined to idols: let him alone. Their drink is sour: they have committed whoredom continually: her rulers with shame do love, Give ye. The wind hath bound her up in her wings, and they shall be ashamed because of their sacrifices. (Hos. 4:9-19, KJV)
 
-#### (c) Hos. 5, - non-acceptance of the Word of God, the Covenant, Christ, the judgment of God
+#### (c) Hos. 5, - rejection of the Word of God, the Covenant, Christ, the judgment of God
 
 #### (d) Hos. 6:1-5, - the importance of man's conversion to God
 > Come, and let us return unto the LORD: for he hath torn, and he will heal us; he hath smitten, and he will bind us up. After two days will he revive us: in the third day he will raise us up, and we shall live in his sight. Then shall we know, if we follow on to know the LORD: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth. O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for your goodness is as a morning cloud, and as the early dew it goeth away. Therefore have I hewed them by the prophets; I have slain them by the words of my mouth: and thy judgments are as the light that goeth forth. (Hos. 6:1-5, KJV)
@@ -76,14 +76,14 @@
 #### (e) Hos. 6:7, - understanding sin to death (rejection of the Word of God, the Covenant, Christ)
 > But they like men have transgressed the covenant: there have they dealt treacherously against me. (Hos. 6:7, KJV)
 
-#### (g) Hos. 6:8-11, - non-acceptance of the Word of God, the Covenant, Chr, complete immorality of the people of God
+#### (g) Hos. 6:8-11, - non-acceptance of the Word of God, the Covenant, Xp, the complete immorality of the people of God
 > Gilead is a city of them that work iniquity, and is polluted with blood. And as troops of robbers wait for a man, so the company of priests murder in the way by consent: for they commit lewdness. I have seen an horrible thing in the house of Israel: there is the whoredom of Ephraim, Israel is defiled. Also, O Judah, he hath set an harvest for thee, when I returned the captivity of my people. (Hos. 6:8-11, KJV)
 
 ### (3) Hos. 7-10, - non-acceptance of the Word of God, the Covenant, Christ, the sin of Israel
 
-#### (a) Hos. 7 (13-15), - rejection of the Word of God, the Covenant, Christ, the stubbornness of the people of God
+#### (a) Hos. 7 (13-15), - rejection of the Word of God, the Covenant, Christ, and the stubbornness of God's people
 
-#### (b) Hos. 8 (1-4,14), Hos. 9 (1,17), 10 (7-8), - non-acceptance of the Word of God, the Covenant, Christ, rejection of destiny, death, dispersion, no participation in the cause of God
+#### (b) Hos. 8 (1-4,14), Hos. 9 (1,17), 10 (7-8), - rejection of the Word of God, the Covenant, Christ, rejection of destiny, death, dispersion, lack of participation in the cause of God
 
 ### (4) Hos. 11-14, - fulfillment of the Word of God, the Covenant, Christ, salvation, the coming of Christ
 

@@ -1,5 +1,5 @@
 # Lev. 16–20
-## 5.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 5.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -13,7 +13,7 @@
 
 ### (1) Leviticus is God's servant, God's choice, and the importance of understanding sacrifice
 
-### (2) The importance of understanding the Priesthood – God's election, the solution of a spiritual problem, the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the training of disciples, proper Worship
+### (2) The importance of understanding the priesthood – God's election, the solution of a spiritual problem, the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the training of disciples, proper Worship
 
 #### (a) The Levites are the tribe of Levi
 
@@ -82,12 +82,12 @@
 #### (d) Lev. 16:23-28, - the ablution of the High Priest and the burnt offering for himself and for the people of God. (The purity of the High Priest is a type of Christ, the complete dedication of the High Priest and the people of God to God)
 > And Aaron shall come into the tabernacle of the congregation, and shall put off the linen garments, which he put on when he went into the holy place, and shall leave them there: And he shall wash his flesh with water in the holy place, and put on his garments, and come forth, and offer his burnt offering, and the burnt offering of the people, and make an atonement for himself, and for the people. And the fat of the sin offering shall he burn upon the altar. And he that let go the goat for the scapegoat shall wash his clothes, and bathe his flesh in water, and afterward come into the camp. And the bullock for the sin offering, and the goat for the sin offering, whose blood was brought in to make atonement in the holy place, shall one carry forth without the camp; and they shall burn in the fire their skins, and their flesh, and their dung. And he that burneth them shall wash his clothes, and bathe his flesh in water, and afterward he shall come into the camp. (Lev. 16:23-28, KJV)
 
-#### (e) Lev. 16:29-34, - annual establishment, the importance of staying in the Word of God, the Covenant, Christ for the people of God, the importance of fulfilling purpose
+#### (e) Lev. 16:29-34, is an annual institution, the importance of remaining in the Word of God, the Covenant, and Christ for the people of God, the importance of fulfilling a destiny
 > And this shall be a statute for ever unto you: that in the seventh month, on the tenth day of the month, ye shall afflict your souls, and do no work at all, whether it be one of your own country, or a stranger that sojourneth among you: For on that day shall the priest make an atonement for you, to cleanse you, that ye may be clean from all your sins before the LORD. It shall be a sabbath of rest unto you, and ye shall afflict your souls, by a statute for ever. And the priest, whom he shall anoint, and whom he shall consecrate to minister in the priest’s office in his father’s stead, shall make the atonement, and shall put on the linen clothes, even the holy garments: And he shall make an atonement for the holy sanctuary, and he shall make an atonement for the tabernacle of the congregation, and for the altar, and he shall make an atonement for the priests, and for all the people of the congregation. And this shall be an everlasting statute unto you, to make an atonement for the children of Israel for all their sins once a year. And he did as the LORD commanded Moses. (Lev. 16:29-34, KJV)
 
-## 3) Lev. 17, - affirmation of the Word of God, the Covenant, Christ
+## 3) Lev. 17, - affirmation of the Word of God, the Covenant, of Christ
 
-### (1) Lev. 17:1-9, - the importance of joint worship (sacrifice only in the Tabernacle), the importance of the general assembly and communion of the people of God, the importance of Communion and purity of teaching. (Prevention of idolatry, distortion of the Word of God, the Covenant, Christ)
+### (1) Lev. 17:1-9, - the importance of communal worship (sacrifice only in the Tabernacle), the importance of the general assembly and fellowship of God's people, the importance of Communion and purity of teaching. (Prevention of idolatry, distortion of the Word of God, the Covenant, Christ)
 > And the LORD spake unto Moses, saying, Speak unto Aaron, and unto his sons, and unto all the children of Israel, and say unto them; This is the thing which the LORD hath commanded, saying, What man soever there be of the house of Israel, that killeth an ox, or lamb, or goat, in the camp, or that killeth it out of the camp, And bringeth it not unto the door of the tabernacle of the congregation, to offer an offering unto the LORD before the tabernacle of the LORD; blood shall be imputed unto that man; he hath shed blood; and that man shall be cut off from among his people: To the end that the children of Israel may bring their sacrifices, which they offer in the open field, even that they may bring them unto the LORD, unto the door of the tabernacle of the congregation, unto the priest, and offer them for peace offerings unto the LORD. And the priest shall sprinkle the blood upon the altar of the LORD at the door of the tabernacle of the congregation, and burn the fat for a sweet savour unto the LORD. And they shall no more offer their sacrifices unto devils, after whom they have gone a whoring. This shall be a statute for ever unto them throughout their generations. And thou shalt say unto them, Whatsoever man there be of the house of Israel, or of the strangers which sojourn among you, that offereth a burnt offering or sacrifice, And bringeth it not unto the door of the tabernacle of the congregation, to offer it unto the LORD; even that man shall be cut off from among his people. (Lev. 17:1-9, KJV)
 
 ### (2) Lev. 17:10-16, - God's purpose of blood as a symbol of life, redemption and salvation (prohibition to eat blood), the importance of understanding the Sacrifice and Blood of Christ (God's plan) Gen. 9:4,Acts 15:28-29
@@ -98,7 +98,7 @@
 ## 4) Lev. 24:10-23, - social and legal law
 > And the son of an Israelitish woman, whose father was an Egyptian, went out among the children of Israel: and this son of the Israelitish woman and a man of Israel strove together in the camp; And the Israelitish woman’s son blasphemed the name of the LORD, and cursed. And they brought him unto Moses: (and his mother’s name was Shelomith, the daughter of Dibri, of the tribe of Dan:) And they put him in ward, that the mind of the LORD might be shewed them. And the LORD spake unto Moses, saying, Bring forth him that hath cursed without the camp; and let all that heard him lay their hands upon his head, and let all the congregation stone him. And thou shalt speak unto the children of Israel, saying, Whosoever curseth his God shall bear his sin. And he that blasphemeth the name of the LORD, he shall surely be put to death, and all the congregation shall certainly stone him: as well the stranger, as he that is born in the land, when he blasphemeth the name of the LORD, shall be put to death. And he that killeth any man shall surely be put to death. And he that killeth a beast shall make it good; beast for beast. And if a man cause a blemish in his neighbour; as he hath done, so shall it be done to him; Breach for breach, eye for eye, tooth for tooth: as he hath caused a blemish in a man, so shall it be done to him again. And he that killeth a beast, he shall restore it: and he that killeth a man, he shall be put to death. Ye shall have one manner of law, as well for the stranger, as for one of your own country: for I am the LORD your God. And Moses spake to the children of Israel, that they should bring forth him that had cursed out of the camp, and stone him with stones. And the children of Israel did as the LORD commanded Moses. (Lev. 24:10-23, KJV)
 
-### (1) Non–acceptance of the Word of God, the Covenant, Christ - death. Rom. 6:23. (Occultism, divination, Idolatry – fulfilling the Word of God)
+### (1) Failure to accept the Word of God, the Covenant, and Christ is death. Rom. 6:23. (Occultism, divination, idolatry – fulfillment of the Word of God)
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
 ### (2) Sexual perversion (rejection of the Word of God, the Covenant, Christ) Rom. 1:21
@@ -112,7 +112,7 @@
 
 ## 5) The main parts of the Law
 
-### (1) Decalogue (God's standard, awareness of sin)
+### (1) Decalogue (God's Standard, awareness of sin)
 - N.Z. – hardened by Christ, necessary and important for man
 
 ### (2) Social and legal law (preservation of the people, intended)
@@ -123,8 +123,8 @@
 
 ## Conclusion:
 
-### (1) Understanding the imperfection of V.Z. – the lack of actual execution of the sentence of the Word of God (the importance of Sacrifice and the Feat of Christ)
+### (1) Understanding the imperfection of V.Z. – the lack of actual execution of the sentence of the Word of God (the importance of the Sacrifice and the Feat of Christ)
 
 ### (2) The importance of assembly, fellowship, and communal Worship
 
-### (3) The importance of understanding and accepting God's definitions (standards)
+### (3) The importance of recognizing and accepting God's definitions (standards)

@@ -9,7 +9,7 @@
 
 ### (1) The purpose and meaning of human life is Communion with God, Knowledge of God, service and glorification of the Holy, True God
 
-### (2) Understanding the method of serving and glorifying God – knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization
+### (2) Understanding the method of serving and glorifying God – learning and transmitting the Word of God, the Covenant, Christ, the Disciples, and Worldwide Evangelization
 
 ### (3) The importance of serving the Creator rather than the creation
 
@@ -57,7 +57,7 @@
 #### (b) Philosophy – a person in the spotlight, the importance of human deeds and efforts (atheism, etc.) Col. 2:8
 > Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ. (Col. 2:8, KJV)
 
-#### (c) Witchcraft, Satanism – the open and conscious service of Satan
+#### (c) Witchcraft, Satanism – open and conscious service to Satan
 
 ## 4) Gen. 3:15, 21,Matt. 16:16,John 19:30, - the importance of understanding the Restoration, the breaking of idols and idolatry
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
@@ -67,7 +67,7 @@
 
 ### (1) The restoration of the true meaning and purpose of human life – Communion with God, Knowledge of God, service and glorification of the Holy, True God
 
-### (2) Understanding the method of serving and glorifying God – knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization
+### (2) Understanding the method of serving and glorifying God – learning and transmitting the Word of God, the Covenant, Christ, the Disciples, and Worldwide Evangelization
 
 ### (3) The importance of serving the Creator rather than the creation
 
@@ -82,19 +82,19 @@
 
 ## 5) The importance of understanding spiritual reality
 
-### (1) Understanding of salvation - conscious acceptance of the Word of God, the Covenant, Christ, a change in the status of a person (child of the devil - child of God). John 8:44; 1:12
+### (1) Understanding salvation is the conscious acceptance of the Word of God, the Covenant, Christ, and the change in human status (child of the devil – child of God). John 8:44; 1:12
 > Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it. (John 8:44, KJV)
 > But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name: (John 1:12, KJV)
 
-### (2) Understanding Sin to Death – rejection of the Word of God, the Covenant, Christ, idolatry, rejection of salvation. 1 John 5:16-17, 21
+### (2) Understanding sin to death – rejection of the Word of God, the Covenant, Christ, idolatry, rejection of salvation. 1 John 5:16-17, 21
 > If any man see his brother sin a sin which is not unto death, he shall ask, and he shall give him life for them that sin not unto death. There is a sin unto death: I do not say that he shall pray for it. All unrighteousness is sin: and there is a sin not unto death. (1 John 5:16-17, KJV)
 > Little children, keep yourselves from idols. Amen. (1 John 5:21, KJV)
 
 ### (3) Understanding the problem of carnal Christianity – acceptance of the Word of God, the Covenant, Christ, non-acceptance of the destiny of God's people, visible (influence of remnants of sinful essence, the world and Satan)
 
-### (4) The importance of fulfilling the destiny – knowing and transmitting the Word of God, the Covenant, Christ, sanctification, the correct worldview of the people of God (invisible)
+### (4) The importance of fulfilling the destiny – knowledge and transmission of the Word of God, the Covenant, Christ, sanctification, the correct worldview of the people of God (invisible)
 
-## 6) Understanding a person's priorities and responsibilities
+## 6) Understanding human priorities and responsibilities
 
 ### (1) God and the Church are the fulfillment of destiny
 
@@ -102,7 +102,7 @@
 
 ### (3) Children, parents – education, care and support
 
-### (4) The people around you have the right attitude, the transmission of the Word of God
+### (4) The people around you – the right attitude, the transmission of the Word of God
 
 ## Conclusion:
 
@@ -112,4 +112,4 @@
 
 ### (3) The importance of understanding the temporality of the visible
 
-### (4) The importance of understanding Satan's action to destroy man
+### (4) The importance of understanding Satan's action to Destroy man

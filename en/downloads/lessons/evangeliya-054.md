@@ -19,11 +19,11 @@
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
 > To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins. (Acts 10:43, KJV)
 
-### (3) The rejection of the Word of God, the Covenant, Christ, the majority of Jews, the rejection of the Divinity of Christ and the Sufficiency of His Sacrifice. John 10:33, - Rom. 9:30-33
+### (3) The rejection of the Word of God, the Covenant, Christ, by the majority of Jews, the rejection of the Divinity of Christ and the All-sufficiency of His Sacrifice. John 10:33, - Rom. 9:30-33
 > The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. (John 10:33, KJV)
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
 
-### (4) The importance of understanding God's sovereignty and control, the inevitability of fulfilling God's Word, Covenant, Christ, God's Plan
+### (4) The importance of understanding God's sovereignty and control, the inevitability of fulfilling God's Word, Covenant, Christ, and God's plan
 
 ## 2) The importance of Christ's conformity to God's prophecies
 
@@ -39,9 +39,9 @@
 > I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting. (Isa. 50:6, KJV)
 > Then did they spit in his face, and buffeted him; and others smote him with the palms of their hands, (Matt. 26:67, KJV)
 
-#### (a) Beating and spitting on Christ is a consequence of not accepting the Word of God, the Covenant, Christ, a conscious choice of man
+#### (a) Beating and spitting on Christ is a consequence of the rejection of the Word of God, the Covenant, Christ, a conscious choice of man
 
-#### (b) The importance of understanding the essence of non–acceptance of the Word of God, the Covenant, Christ - rejection and opposition to the True and Holy God
+#### (b) The importance of understanding the essence of rejection of the Word of God, the Covenant, and Christ – rejection and opposition to the True and Holy God
 
 ### (3) Christ will be rejected by his own people Isa. 53:3, - John 1:11,Matt. 27:15-26
 > He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were our faces from him; he was despised, and we esteemed him not. (Isa. 53:3, KJV)
@@ -64,7 +64,7 @@
 
 #### (a) Understanding the spiritual problem – the power of sin, death, Satan
 
-#### (b) Non–acceptance of the Word of God, the Covenant, Christ is man's choice, the devil's child
+#### (b) The rejection of the Word of God, the Covenant, and Christ is a human choice, a child of the devil
 
 ### (5) Christ will be counted among the evildoers Isa. 53:12, - Matt. 27:38
 > Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors. (Isa. 53:12, KJV)
@@ -74,7 +74,7 @@
 
 #### (b) Understanding the purpose of Christ – responsible for the sins and wickedness of the whole world, but not a villain or a sinner
 
-#### (c) Numbered among the evildoers is evidence of God's acceptance of Christ's substitutionary Sacrifice for all sins and evil deeds.
+#### (c) Numbered among the evildoers is evidence of God's acceptance of Christ's substitutionary Sacrifice for all human sins and misdeeds
 
 ### (6) The hands and feet of Christ will be pierced Ps. 22:16, - Luke 23:33
 > For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet. (Ps. 22:16, KJV)
@@ -116,18 +116,18 @@
 > All they that see me laugh me to scorn: they shoot out the lip, they shake the head, saying, He trusted on the LORD that he would deliver him: let him deliver him, seeing he delighted in him. (Ps. 22:7-8, KJV)
 > And they that passed by reviled him, wagging their heads, And saying, Thou that destroyest the temple, and buildest it in three days, save thyself. If thou be the Son of God, come down from the cross. Likewise also the chief priests mocking him, with the scribes and elders, said, He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him. He trusted in God; let him deliver him now, if he will have him: for he said, I am the Son of God. (Matt. 27:39-43, KJV)
 
-#### (a) The importance of understanding and fulfilling the purpose – knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the coming of Christ
+#### (a) The importance of understanding and fulfilling the purpose – the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ
 
-#### (b) People's testimony against themselves (sin to death) – non-acceptance and opposition to the Word of God, the Covenant, Christ, the children of the devil
+#### (b) People's testimony against themselves (sin to death) – non-acceptance and opposition to the Word of God, the Covenant, Christ, children of the devil
 
 ### (10) Onlookers will gather around Christ and His clothes will be divided by casting lots Ps. 22:17-18, - Luke 23:35,John 19:23-24
 > I may tell all my bones: they look and stare upon me. They part my garments among them, and cast lots upon my vesture. (Ps. 22:17-18, KJV)
 > And the people stood beholding. And the rulers also with them derided him, saying, He saved others; let him save himself, if he be Christ, the chosen of God. (Luke 23:35, KJV)
 > Then the soldiers, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also his coat: now the coat was without seam, woven from the top throughout. They said therefore among themselves, Let us not rend it, but cast lots for it, whose it shall be: that the scripture might be fulfilled, which saith, They parted my raiment among them, and for my vesture they did cast lots. These things therefore the soldiers did. (John 19:23-24, KJV)
 
-#### (a) The importance of understanding and fulfilling the purpose – knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the coming of Christ
+#### (a) The importance of understanding and fulfilling the purpose – the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ
 
-#### (b) People's testimony against themselves (sin to death) – non-acceptance and opposition to the Word of God, the Covenant, Christ, the children of the devil, the importance of what is visible to many people (bread and circuses)
+#### (b) People's testimony against themselves (sin to death) – non-acceptance and opposition to the Word of God, the Covenant, Christ, children of the devil, the importance of what is visible to many people (bread and circuses)
 
 ### (11) The friends and relatives of Christ will stand at a distance Ps. 38:11, - Matt. 27:55-56
 > My lovers and my friends stand aloof from my sore; and my kinsmen stand afar off. (Ps. 38:11, KJV)
@@ -143,7 +143,7 @@
 
 #### (a) The importance of understanding the purpose of Christ – death and suffering for all the sins of all people, the redemption of mankind
 
-#### (b) Suffering and death on the Cross, fulfilling the Word of God, solving all human problems, and the importance of accepting Jesus as the Christ. (Explaining the smallest details through the prophecy of the Word of God, the importance of accepting the Word of God, the Covenant, the Christ for every human being)
+#### (b) Suffering and death on the Cross, fulfilling the Word of God, solving all human problems, and the importance of accepting Jesus as the Christ. (Explaining the smallest details through the prophecy of the Word of God, the importance of accepting the Word of God, the Covenant, and Christ for every human being)
 
 ## Conclusion:
 
@@ -162,7 +162,7 @@
 
 #### (a) To die for all the sins of all people is man's atonement
 
-#### (b) Prepare the disciples - the importance of knowing and transmitting the Word of God, the Covenant, Christ, World Evangelization, preparation for the second coming of Christ
+#### (b) Prepare the disciples - the importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, preparation for the second coming of Christ
 
 #### (c) To show people the Holy, True God
 

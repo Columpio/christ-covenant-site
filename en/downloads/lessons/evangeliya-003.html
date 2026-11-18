@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -347,7 +349,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Then said Mary unto the angel, How shall this be, seeing I know not a man?</p><cite>Luke 1:34 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>“How can this be,” Mary asked the angel, “since I am a virgin?”</p><cite>Luke 1:34 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Mary said to the angel, “How can this be, seeing I am a virgin?”</p><cite>Luke 1:34 · WEB</cite></blockquote>
-<h4>(b) Luke 1:48, - understanding the importance of fulfilling a special purpose for the sake of fulfilling the Word of God, the Covenant, Christ</h4>
+<h4>(b) Luke 1:48, - understanding the importance of fulfilling a special purpose for the fulfillment of the Word of God, the Covenant, and Christ</h4>
 <blockquote data-v="kjv"><p>For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed.</p><cite>Luke 1:48 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For He has looked with favor on the humble state of His servant. From now on all generations will call me blessed.</p><cite>Luke 1:48 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>for he has looked at the humble state of his servant. For behold, from now on, all generations will call me blessed.</p><cite>Luke 1:48 · WEB</cite></blockquote>
@@ -379,7 +381,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Now upon the first day of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain others with them. And they found the stone rolled away from the sepulchre. And they entered in, and found not the body of the Lord Jesus. And it came to pass, as they were much perplexed thereabout, behold, two men stood by them in shining garments: And as they were afraid, and bowed down their faces to the earth, they said unto them, Why seek ye the living among the dead? He is not here, but is risen: remember how he spake unto you when he was yet in Galilee, Saying, The Son of man must be delivered into the hands of sinful men, and be crucified, and the third day rise again. And they remembered his words, And returned from the sepulchre, and told all these things unto the eleven, and to all the rest. It was Mary Magdalene, and Joanna, and Mary the mother of James, and other women that were with them, which told these things unto the apostles.</p><cite>Luke 24:1-10 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>On the first day of the week, very early in the morning, the women came to the tomb, bringing the spices they had prepared. They found the stone rolled away from the tomb, but when they entered, they did not find the body of the Lord Jesus. While they were puzzling over this, suddenly two men in radiant apparel stood beside them. As the women bowed their faces to the ground in terror, the two men asked them, “Why do you look for the living among the dead? He is not here; He has risen! Remember how He told you while He was still in Galilee: ‘The Son of Man must be delivered into the hands of sinful men, and be crucified, and on the third day rise again.’” Then they remembered His words. And when they returned from the tomb, they reported all these things to the Eleven and to all the others. It was Mary Magdalene, Joanna, Mary the mother of James, and the other women with them who told this to the apostles.</p><cite>Luke 24:1-10 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But on the first day of the week, at early dawn, they and some others came to the tomb, bringing the spices which they had prepared. They found the stone rolled away from the tomb. They entered in, and didn’t find the Lord Jesus’ body. While they were greatly perplexed about this, behold, two men stood by them in dazzling clothing. Becoming terrified, they bowed their faces down to the earth. The men said to them, “Why do you seek the living among the dead? He isn’t here, but is risen. Remember what he told you when he was still in Galilee, saying that the Son of Man must be delivered up into the hands of sinful men and be crucified, and the third day rise again?” They remembered his words, returned from the tomb, and told all these things to the eleven and to all the rest. Now they were Mary Magdalene, Joanna, and Mary the mother of James. The other women with them told these things to the apostles.</p><cite>Luke 24:1-10 · WEB</cite></blockquote>
-<h4>(c) The importance of the Word of God, the Covenant, Christ and the Grace of God for man – Adam, Solomon, John the Baptist, Mary</h4>
+<h4>(c) The importance of the Word of God, the Covenant, Christ and the grace of God for man – Adam, Solomon, John the Baptist, Mary</h4>
 <h2 id="s4">4) Heresies concerning Mary</h2>
 <h3>(1) "Without sin" (there is no original and personal sin)</h3>
 <h4>(a) The Birth of Christ is the Divine and Human natures in one Person, the Holy God–Man. Job 14:4,Rom. 5:12; 6:23</h4>
@@ -486,7 +488,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>“Man, who is born of a woman, is of few days, and full of trouble. He grows up like a flower, and is cut down. He also flees like a shadow, and doesn’t continue. Do you open your eyes on such a one, and bring me into judgment with you? Who can bring a clean thing out of an unclean? Not one. Seeing his days are determined, the number of his months is with you, and you have appointed his bounds that he can’t pass.</p><cite>Job 14:1-5 · WEB</cite></blockquote>
 <h2 id="s5">Result:</h2>
 <ul>
-<li>The importance of understanding Satan's actions is an attempt to create an idol out of things, Angels, or prominent people from God's people to distract attention from the True, The Holy, Triune God and the Only Begotten Son of God, Jesus Christ, and for vile idolatry (a complete violation of the Word of God)</li>
+<li>The importance of understanding Satan's actions is trying to create an idol out of things, Angels, or prominent people from God's people to distract attention from the True, Of the Holy, Triune God and the Only Begotten Son of God, Jesus Christ, and for vile idolatry (a complete violation of the Word of God)</li>
 </ul>
 <h3>(1) A copper serpent, the remains of a wooden cross, a shroud, etc. 2 Kgs. 18:1-4,Isa. 44:9-17</h3>
 <blockquote data-v="kjv"><p>Now it came to pass in the third year of Hoshea son of Elah king of Israel, that Hezekiah the son of Ahaz king of Judah began to reign. Twenty and five years old was he when he began to reign; and he reigned twenty and nine years in Jerusalem. His mother’s name also was Abi, the daughter of Zachariah. And he did that which was right in the sight of the LORD, according to all that David his father did. He removed the high places, and brake the images, and cut down the groves, and brake in pieces the brasen serpent that Moses had made: for unto those days the children of Israel did burn incense to it: and he called it Nehushtan.</p><cite>2 Kgs. 18:1-4 · KJV</cite></blockquote>
@@ -514,11 +516,11 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>Yahweh said to Moses, “Speak to the priests, the sons of Aaron, and say to them, ‘A priest shall not defile himself for the dead among his people,</p><cite>Lev. 21:1 · WEB</cite></blockquote>
 <h2 id="s6">5) The right attitude towards Mary</h2>
 <h3>(1) A creation of God, a saved man, a sister in the Lord</h3>
-<h3>(2) Recognition of the successful fulfillment of a particularly important purpose of God in the fulfillment of the Word of God, the Covenant, Christ</h3>
+<h3>(2) Recognition of the successful fulfillment of a particularly important purpose of God in fulfilling the Word of God, the Covenant, and Christ</h3>
 <h3>(3) Meeting and communication in the Central Office</h3>
 <h2 id="s7">Conclusion:</h2>
 <h3>(1) The importance of understanding the Uniqueness of Christ for man</h3>
-<h3>(2) The importance of knowing and transmitting the Word of God, the Covenant, Christ, the purity of the Word of God</h3>
+<h3>(2) The importance of knowing and transmitting the Word of God, the Covenant, Christ, and the purity of the Word of God</h3>
 <h3>(3) The importance of understanding Satan's actions</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>

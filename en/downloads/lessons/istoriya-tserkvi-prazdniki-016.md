@@ -53,7 +53,7 @@
 > Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers; But with the precious blood of Christ, as of a lamb without blemish and without spot: Who verily was foreordained before the foundation of the world, but was manifest in these last times for you, (1 Pet. 1:18-20, KJV)
 > And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world. (Rev. 13:8, KJV)
 
-## 2) Proper understanding of Easter and Unleavened Bread – the importance of proper understanding of the Word of God, the Covenant, Christ
+## 2) A proper understanding of Easter and Unleavened Bread is the importance of a proper understanding of the Word of God, the Covenant, and Christ
 
 ### (1) The reason for the slavery of God's people is the inaccurate fulfillment of God's Word, the inaccurate emphasis on Sacrifice (Abraham). (Gen. 15:9-14)
 > And he said unto him, Take me an heifer of three years old, and a she goat of three years old, and a ram of three years old, and a turtledove, and a young pigeon. And he took unto him all these, and divided them in the midst, and laid each piece one against another: but the birds divided he not. And when the fowls came down upon the carcases, Abram drove them away. And when the sun was going down, a deep sleep fell upon Abram; and, lo, an horror of great darkness fell upon him. And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years; And also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance. (Gen. 15:9-14, KJV)
@@ -101,14 +101,14 @@
 
 ### (3) Good Friday – the crucifixion and death of Jesus Christ, Easter of the Lord
 
-#### (a) Luke 23:33-43, - the crucifixion of Christ, the robbers, acceptance of the Word of God, the Covenant, Christ (repentance of one of the robbers – recognition of himself as a sinner, recognition of Jesus Christ as God, recognition of His Sacrifice, request for salvation, unbelief of the second robber)
+#### (a) Luke 23:33-43, - crucifixion of Christ, robbers, acceptance of the Word of God, the Covenant, Christ (repentance of one of the robbers – recognition of himself as a sinner, recognition of Jesus Christ as God, recognition of His Sacrifice, request for salvation, unbelief of the second robber)
 > And when they were come to the place, which is called Calvary, there they crucified him, and the malefactors, one on the right hand, and the other on the left. Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots. And the people stood beholding. And the rulers also with them derided him, saying, He saved others; let him save himself, if he be Christ, the chosen of God. And the soldiers also mocked him, coming to him, and offering him vinegar, And saying, If thou be the king of the Jews, save thyself. And a superscription also was written over him in letters of Greek, and Latin, and Hebrew, THIS IS THE KING OF THE JEWS. And one of the malefactors which were hanged railed on him, saying, If thou be Christ, save thyself and us. But the other answering rebuked him, saying, Dost not thou fear God, seeing thou art in the same condemnation? And we indeed justly; for we receive the due reward of our deeds: but this man hath done nothing amiss. And he said unto Jesus, Lord, remember me when thou comest into thy kingdom. And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise. (Luke 23:33-43, KJV)
 
-#### (b) Matt. 27:46, - separation from God, suffering and death at the hands of God (Understanding the status of Jesus Christ on the cross – responsible for all the sins of the whole world, but not a sinner). 2 Cor. 5:21
+#### (b) Matt. 27:46, - separation from God, suffering and death at the hand of God (Understanding the status of Jesus Christ on the cross – responsible for all the sins of the whole world, but not a sinner). 2 Cor. 5:21
 > And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me? (Matt. 27:46, KJV)
 > For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him. (2 Cor. 5:21, KJV)
 
-#### (c) John 19:30, - the execution of the sentence of the Word of God for ALL THE SINS of mankind has taken place (around 3 p.m. on Friday). 1 John 2:2
+#### (c) John 19:30, - the execution of the sentence of the Word of God for ALL the SINS of mankind has taken place (around 3 p.m. on Friday). 1 John 2:2
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world. (1 John 2:2, KJV)
 
@@ -127,7 +127,7 @@
 
 #### (a) Easter V.Z. – the Paschal lamb (the prototype of the death of Christ)
 
-#### (b) Unleavened bread V.Z. – unleavened bread (the prototype of the resurrection of Christ)
+#### (b) Unleavened bread V.Z. – unleavened bread (a prototype of the resurrection of Christ)
 
 ### (2) N.Z. – Easter (from Thursday evening to Friday evening) and Unleavened Bread (Sunday), the death and Resurrection of Christ
 
@@ -137,7 +137,7 @@
 
 ## 6) The unworthy celebration of Easter
 
-### (1) Misunderstanding of the Word of God, the Covenant, Christ (the essence of sin)
+### (1) Misunderstanding of the Word of God, the Covenant, and Christ (the essence of sin)
 
 #### (a) A rite is a meaningless act without understanding the Covenant, Christ
 
@@ -151,5 +151,5 @@
 
 #### (b) “Mixed Gospel” heresy, denial of the fact of forgiveness of all human sins, religion
 
-#### (c) The heresy of "partial salvation", the denial of Christ's decision of the consequences of sin – there is no salvation of soul and body, the effect of ancestral and acquired curses, The children's obsession with God and WORTHY PARTICIPATION IN THE LORD'S PASSOVER is an affirmation of the Divinity of Christ and the Omnipotence of His Sacrifice to solve all human problems.
+#### (c) The heresy of "partial salvation", the denial of Christ's decision of the consequences of sin – there is no salvation of soul and body, the effect of ancestral and acquired curses, The obsession of God's children and THEIR WORTHY PARTICIPATION IN THE LORD'S PASSOVER is an affirmation of the Divinity of Christ and the Omnipotence of His Sacrifice to solve all human problems.
 - An UNWORTHY PARTICIPATION IN THE LORD'S PASSOVER is a denial of the Divinity of Christ and the All–sufficiency of His Sacrifice to solve all human problems.

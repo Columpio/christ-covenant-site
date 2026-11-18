@@ -3,7 +3,7 @@
 ## 1) Matt. 5:17, - the importance of understanding the purpose of Christ's coming
 > Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil. (Matt. 5:17, KJV)
 
-### (1) Execution of the sentence The Word of God, salvation of mankind Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
+### (1) Execution of the sentence of the Word of God, salvation of mankind Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
@@ -39,21 +39,21 @@
 > And in those days Peter stood up in the midst of the disciples, and said, (the number of names together were about an hundred and twenty,) (Acts 1:15, KJV)
 > But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed. For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision. And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation. But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews? (Gal. 2:11-14, KJV)
 
-### (3) The importance of learning, knowing and transmitting the Word of God, the Covenant, Christ, abiding in the Word of God, Fulfilling purpose, Worldwide Evangelization
+### (3) The importance of learning, knowledge and transmission of the Word of God, the Covenant, Christ, constant abiding in the Word of God, fulfillment of purpose, Worldwide Evangelization
 
-## 3) Acts 1:8,Matt. 28:19-20; 7:13 (7:13), 2 Tim. 2:2, - understanding World Evangelism
+## 3) Acts 1:8,Matt. 28:19-20; 7:13 (7:13), 2 Tim. 2:2, - understanding World Evangelization
 > But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth. (Acts 1:8, KJV)
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
 > Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: (Matt. 7:13, KJV)
 > And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also. (2 Tim. 2:2, KJV)
 
-### (1) The purpose of man is to know and transmit the Word of God, the Covenant, Christ, (Communion with God and Knowledge of God, service and glorification of God), The importance of staying in a local Church and achieving Worldwide Evangelization through prayer, finances, and personal preaching
+### (1) The purpose of man is to know and transmit the Word of God, the Covenant, and Christ (Communion with God and Knowledge of God, service and glorification of God), the importance of staying in a local Church and achieving Worldwide Evangelization through prayer, finances, and personal preaching
 
 #### (a) Personal Evangelism – Ordinary people
 
 #### (b) Church Evangelization – meetings of believers
 
-### (2) The Importance of Understanding God's Method of Doing Worldwide Evangelization
+### (2) The Importance of understanding God's Method of Worldwide Evangelization
 
 #### (a) Go to the scene (believers). Matt. 28:19-20,Acts 1:8
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
@@ -74,7 +74,7 @@
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
 > But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth. (Acts 1:8, KJV)
 
-### (3) Understanding the Success of Worldwide Evangelization, God-prepared disciples
+### (3) Understanding the success of Worldwide Evangelization, God-prepared disciples
 
 #### (a) Jerusalem – Stephen, Philip, Barnabas. Acts 6
 
@@ -92,7 +92,7 @@
 
 #### (h) Ephesus – Apollos, etc. Rom. 18,16
 
-### (4) Understanding the essence and meaning of World Evangelism
+### (4) Understanding the essence and meaning of Worldwide Evangelization
 
 #### (a) Saving predestined people (not changing the world)
 
@@ -113,25 +113,25 @@
 
 #### (e) The importance of the local Church – epoch, time schedule
 
-#### (e) The importance of understanding the operation of Satan–heresy, false teaching. (The heresy of "mixed gospel" and "partial salvation")
+#### (e) The importance of understanding the work of Satan – heresy, false teaching. (The heresy of the "mixed gospel" and "partial salvation")
 
 ### (5) Understanding the Purpose of the Church and Worldwide Evangelization
 
-#### (a) Knowledge, transmission of the Word of God, the Covenant, Christ, All. Ev, disciples, the coming of Christ (The special importance of preserving the purity of Christ's teaching)
+#### (a) Knowledge, transmission of the Word of God, the Covenant, Christ, All Eves, disciples, the coming of Christ (The special importance of preserving the purity of Christ's teaching)
 
-#### (b) The beginning of World Evangelization – me and my place of residence (Abraham, Paul)
+#### (b) The beginning of Worldwide Evangelization – me and my place of residence (Abraham, Paul)
 
-#### (c) Continued Worldwide Evangelization – the whole world (Abraham, Paul)
+#### (c) The continuation of Worldwide Evangelization – the whole world (Abraham, Paul)
 
-#### (d) Completion of World Evangelization – The Disciples (Abraham, Paul)
+#### (d) The Completion of World Evangelization – the Disciples (Abraham, Paul)
 
 ### (6) Understanding the unchanging and constant action of the Holy Spirit
 
-#### (a) Knowledge and transmission of the Word of God, the Covenant, the Christ–action of the Holy Spirit
+#### (a) The knowledge and transmission of the Word of God, the Covenant, and Christ is the work of the Holy Spirit
 
 #### (b) The meaning of faith is Christ (V.Z. and N.Z. – Adam, Paul)
 
-#### (c) Works of Faith – knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization
+#### (c) Works of Faith – knowledge and transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
 #### (d) Today's TS are participants in God's deeds
 
@@ -177,6 +177,6 @@
 
 ## Conclusion:
 
-### (1) The importance of Learning – the knowledge and transmission of the Word of God, the Covenant, Christ
+### (1) The importance of learning is the knowledge and transmission of the Word of God, the Covenant, and Christ
 
 ### (2) The importance of understanding and fulfilling the purpose. (ideology)

@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,19 +233,19 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>20. Vs. Ev. – knowledge and transmission of the Word of God, the Covenant, Christ</h1>
 <h2 id="s1">1) God's plan for man (Exodus – Solomon)</h2>
-<h3>(1) Meeting with Moses - God sovereignty, time schedule</h3>
+<h3>(1) Meeting with Moses - God's Sovereignty, time schedule</h3>
 <h4>(a) The importance of the Preaching Disciple</h4>
-<h4>(b) The Importance of Hearing the Word of God, the Covenant, Christ (teaching) Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21</h4>
+<h4>(b) The importance of Hearing the Word of God, the Covenant, Christ (teaching) Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21</h4>
 <blockquote data-v="kjv"><p>So God created man in his own image, in the image of God created he him; male and female created he them.</p><cite>Gen. 1:27 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So God created man in His own image; in the image of God He created him; male and female He created them.</p><cite>Gen. 1:27 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>God created man in his own image. In God’s image he created him; male and female he created them.</p><cite>Gen. 1:27 · WEB</cite></blockquote>
@@ -278,11 +280,11 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>All go unto one place; all are of the dust, and all turn to dust again.</p><cite>Eccl. 3:20 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>All go to one place; all come from dust, and all return to dust.</p><cite>Eccl. 3:20 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>All go to one place. All are from the dust, and all turn to dust again.</p><cite>Eccl. 3:20 · WEB</cite></blockquote>
-<h4>(a) The spiritual problem of man is the power of sin, death and hell, Satan</h4>
+<h4>(a) The spiritual problem of man is the power of sin, death, hell, and Satan</h4>
 <h4>(b) The impossibility of solving the problem by human efforts</h4>
-<h3>(3) Celebrate Easter (awareness and acceptance of the Word of God, the Covenant, Christ)</h3>
+<h3>(3) Celebrate Easter (understanding and accepting the Word of God, the Covenant, and Christ)</h3>
 <h4>(a) Jesus is the Christ– the God who came in the flesh</h4>
-<h4>(b) The purpose of the parish is to execute the sentence of the Word of God instead of man. (Atonement for all sins, salvation of man) Matt. 16:16,John 19:30</h4>
+<h4>(b) The purpose of the parish is to carry out the sentence of the Word of God instead of man. (The atonement of all sins, the salvation of man) Matt. 16:16,John 19:30</h4>
 <blockquote data-v="kjv"><p>And Simon Peter answered and said, Thou art the Christ, the Son of the living God.</p><cite>Matt. 16:16 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Simon Peter answered, “You are the Christ, the Son of the living God.”</p><cite>Matt. 16:16 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Simon Peter answered, “You are the Christ, the Son of the living God.”</p><cite>Matt. 16:16 · WEB</cite></blockquote>
@@ -299,19 +301,19 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God. But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin. For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end; While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation. For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses. But with whom was he grieved forty years? was it not with them that had sinned, whose carcases fell in the wilderness? And to whom sware he that they should not enter into his rest, but to them that believed not? So we see that they could not enter in because of unbelief.</p><cite>Heb. 3:12-19 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>See to it, brothers, that none of you has a wicked heart of unbelief that turns away from the living God. But exhort one another daily, as long as it is called today, so that none of you may be hardened by sin’s deceitfulness. We have come to share in Christ if we hold firmly to the end the assurance we had at first. As it has been said: “Today, if you hear His voice, do not harden your hearts, as you did in the rebellion.” For who were the ones who heard and rebelled? Were they not all those Moses led out of Egypt? And with whom was God angry for forty years? Was it not with those who sinned, whose bodies fell in the wilderness? And to whom did He swear that they would never enter His rest? Was it not to those who disobeyed? So we see that it was because of their unbelief that they were unable to enter.</p><cite>Heb. 3:12-19 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Beware, brothers, lest perhaps there might be in any one of you an evil heart of unbelief, in falling away from the living God; but exhort one another day by day, so long as it is called “today”, lest any one of you be hardened by the deceitfulness of sin. For we have become partakers of Christ, if we hold the beginning of our confidence firm to the end, while it is said, “Today if you will hear his voice, don’t harden your hearts, as in the rebellion.” For who, when they heard, rebelled? Wasn’t it all those who came out of Egypt led by Moses? With whom was he displeased forty years? Wasn’t it with those who sinned, whose bodies fell in the wilderness? To whom did he swear that they wouldn’t enter into his rest, but to those who were disobedient? We see that they weren’t able to enter in because of unbelief.</p><cite>Heb. 3:12-19 · WEB</cite></blockquote>
-<h3>(5) Joshua, Judges, Ruth – the entry and conquest of Canaan, the beginning of World Evangelization (city scale)</h3>
-<h4>(a) The importance of understanding the purpose. – Canaan, the coming of Christ is everywhere. Eve, the proclamation of the Word of God, the salvation of predestined people. John 8:47</h4>
+<h3>(5) Joshua, Judges, Ruth – the entry and conquest of Canaan, the beginning of Worldwide Evangelization (city scale)</h3>
+<h4>(a) The importance of understanding the purpose. – Canaan, the coming of Christ Sun. Ev, the proclamation of the Word of God, the salvation of predestined people. John 8:47</h4>
 <blockquote data-v="kjv"><p>He that is of God heareth God’s words: ye therefore hear them not, because ye are not of God.</p><cite>John 8:47 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Whoever belongs to God hears the words of God. The reason you do not hear is that you do not belong to God.”</p><cite>John 8:47 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He who is of God hears the words of God. For this cause you don’t hear, because you are not of God.”</p><cite>John 8:47 · WEB</cite></blockquote>
-<h4>(b) The importance of accurately understanding and transmitting the Word of God, the Covenant, Christ, and the special importance of the purity of teaching (the Book of Judges is the problem of the influence of idols and other teachings). Josh. 1:1-9,Gal. 1:8</h4>
+<h4>(b) The importance of an accurate understanding and transmission of the Word of God, the Covenant, and Christ, and the special importance of the purity of teaching (the Book of Judges is the problem of the influence of idols and other teachings). Josh. 1:1-9,Gal. 1:8</h4>
 <blockquote data-v="kjv"><p>Now after the death of Moses the servant of the LORD it came to pass, that the LORD spake unto Joshua the son of Nun, Moses’ minister, saying, Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them, even to the children of Israel. Every place that the sole of your foot shall tread upon, that have I given unto you, as I said unto Moses. From the wilderness and this Lebanon even unto the great river, the river Euphrates, all the land of the Hittites, and unto the great sea toward the going down of the sun, shall be your coast. There shall not any man be able to stand before thee all the days of thy life: as I was with Moses, so I will be with thee: I will not fail thee, nor forsake thee. Be strong and of a good courage: for unto this people shalt thou divide for an inheritance the land, which I sware unto their fathers to give them. Only be thou strong and very courageous, that thou mayest observe to do according to all the law, which Moses my servant commanded thee: turn not from it to the right hand or to the left, that thou mayest prosper whithersoever thou goest. This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success. Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.</p><cite>Josh. 1:1-9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Now after the death of His servant Moses, the LORD spoke to Joshua son of Nun, Moses’ assistant, saying, “Moses My servant is dead. Now therefore arise, you and all these people, and cross over the Jordan into the land that I am giving to the children of Israel. I have given you every place where the sole of your foot will tread, just as I promised to Moses. Your territory shall extend from the wilderness and Lebanon to the great River Euphrates—all the land of the Hittites—and west as far as the Great Sea. No one shall stand against you all the days of your life. As I was with Moses, so will I be with you; I will never leave you nor forsake you. Be strong and courageous, for you shall give these people the inheritance of the land that I swore to their fathers I would give them. Above all, be strong and very courageous. Be careful to observe all the law that My servant Moses commanded you. Do not turn from it to the right or to the left, so that you may prosper wherever you go. This Book of the Law must not depart from your mouth; meditate on it day and night, so that you may be careful to do everything written in it. For then you will prosper and succeed in all you do. Have I not commanded you to be strong and courageous? Do not be afraid; do not be discouraged, for the LORD your God is with you wherever you go.”</p><cite>Josh. 1:1-9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now after the death of Moses the servant of Yahweh, Yahweh spoke to Joshua the son of Nun, Moses’ servant, saying, “Moses my servant is dead. Now therefore arise, go across this Jordan, you and all these people, to the land which I am giving to them, even to the children of Israel. I have given you every place that the sole of your foot will tread on, as I told Moses. From the wilderness and this Lebanon even to the great river, the river Euphrates, all the land of the Hittites, and to the great sea toward the going down of the sun, shall be your border. No man will be able to stand before you all the days of your life. As I was with Moses, so I will be with you. I will not fail you nor forsake you. “Be strong and courageous; for you shall cause this people to inherit the land which I swore to their fathers to give them. Only be strong and very courageous. Be careful to observe to do according to all the law which Moses my servant commanded you. Don’t turn from it to the right hand or to the left, that you may have good success wherever you go. This book of the law shall not depart from your mouth, but you shall meditate on it day and night, that you may observe to do according to all that is written in it; for then you shall make your way prosperous, and then you shall have good success. Haven’t I commanded you? Be strong and courageous. Don’t be afraid. Don’t be dismayed, for Yahweh your God is with you wherever you go.”</p><cite>Josh. 1:1-9 · WEB</cite></blockquote>
 <blockquote data-v="kjv"><p>But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.</p><cite>Gal. 1:8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But even if we or an angel from heaven should preach a gospel contrary to the one we preached to you, let him be under a curse!</p><cite>Gal. 1:8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But even though we, or an angel from heaven, should preach to you any “good news” other than that which we preached to you, let him be cursed.</p><cite>Gal. 1:8 · WEB</cite></blockquote>
-<h4>(c) The importance of preparing and educating disciples – achieving Worldwide Evangelism in distance and time. 2 Tim. 2:2</h4>
+<h4>(c) The importance of training and educating students is the achievement of Worldwide Evangelization in distance and time. 2 Tim. 2:2</h4>
 <blockquote data-v="kjv"><p>And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also.</p><cite>2 Tim. 2:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And the things that you have heard me say among many witnesses, entrust these to faithful men who will be qualified to teach others as well.</p><cite>2 Tim. 2:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>The things which you have heard from me among many witnesses, commit the same things to faithful men who will be able to teach others also.</p><cite>2 Tim. 2:2 · WEB</cite></blockquote>
@@ -320,9 +322,9 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h3>(6) David – the accomplishment of Worldwide Evangelization (national scale)</h3>
 <h4>(a) Understanding of Satan's actions is vanity, idols. (Be prepared for problems and circumstances, always trust in God and never give up)</h4>
 <h4>(b) The special importance of the right motives of man is the fulfillment of God's will, the inadmissibility of idolatry and love of power and covetousness</h4>
-<h4>(c) The special importance of purity of the Word of God, the Covenant, Christ (teaching)</h4>
+<h4>(c) The special importance of the purity of the Word of God, the Covenant, and Christ (teaching)</h4>
 <h4>(d) Understanding and fulfilling the mission of World Evangelization, the importance of preparing for the coming of Christ (Temple)</h4>
-<h3>(7) Solomon – the accomplishment of World Evangelization (world scale)</h3>
+<h3>(7) Solomon – the Accomplishment of Worldwide Evangelization (world scale)</h3>
 <h4>(a) The problem of success, the neglect of the enemy, is of particular importance in understanding the actions of Satan 1 Pet. 5:8</h4>
 <blockquote data-v="kjv"><p>Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:</p><cite>1 Pet. 5:8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Be sober-minded and alert. Your adversary the devil prowls around like a roaring lion, seeking someone to devour.</p><cite>1 Pet. 5:8 · BSB</cite></blockquote>
@@ -335,16 +337,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>who wants everyone to be saved and to come to the knowledge of the truth.</p><cite>1 Tim. 2:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>who desires all people to be saved and come to full knowledge of the truth.</p><cite>1 Tim. 2:4 · WEB</cite></blockquote>
 <h2 id="s2">2) Understanding the purpose of the Church and Worldwide Evangelization</h2>
-<h3>(1) Knowledge, transmission of the Word of God, Covenant, Christ, All. Eve, disciples, the coming of Christ (The particular importance of preserving the purity of the teachings of Christ)</h3>
-<h3>(2) The Beginning of World Evangelization – me and my place of residence (Abraham, Paul)</h3>
-<h3>(3) Continued Worldwide Evangelization – the whole world (Abraham, Paul)</h3>
+<h3>(1) Knowledge, transmission of the Word of God, the Covenant, Christ, All Eves, disciples, the coming of Christ (The special importance of preserving the purity of Christ's teaching)</h3>
+<h3>(2) The Beginning of Worldwide Evangelization – me and my place of residence (Abraham, Paul)</h3>
+<h3>(3) The continuation of Worldwide Evangelization – the whole world (Abraham, Paul)</h3>
 <h3>(4) Completion of World Evangelization – The Disciples (Abraham, Paul)</h3>
 <h4>(a) The salvation of God's people (the minority). Matt. 7:13-14</h4>
 <blockquote data-v="kjv"><p>Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.</p><cite>Matt. 7:13-14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Enter through the narrow gate. For wide is the gate and broad is the way that leads to destruction, and many enter through it. But small is the gate and narrow the way that leads to life, and only a few find it.</p><cite>Matt. 7:13-14 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“Enter in by the narrow gate; for the gate is wide and the way is broad that leads to destruction, and there are many who enter in by it. How narrow is the gate and the way is restricted that leads to life! There are few who find it.</p><cite>Matt. 7:13-14 · WEB</cite></blockquote>
 <h4>(b) Participation in the judgment of God (non-believers, majority)</h4>
-<h2 id="s3">3) Understanding the essence and meaning of World Evangelism</h2>
+<h2 id="s3">3) Understanding the essence and meaning of Worldwide Evangelization</h2>
 <h3>(1) Saving predestined people, not changing the world</h3>
 <h3>(2) Salvation is a minority. Matt. 7:13-14</h3>
 <blockquote data-v="kjv"><p>Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.</p><cite>Matt. 7:13-14 · KJV</cite></blockquote>
@@ -354,7 +356,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>He that is of God heareth God’s words: ye therefore hear them not, because ye are not of God.</p><cite>John 8:47 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Whoever belongs to God hears the words of God. The reason you do not hear is that you do not belong to God.”</p><cite>John 8:47 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He who is of God hears the words of God. For this cause you don’t hear, because you are not of God.”</p><cite>John 8:47 · WEB</cite></blockquote>
-<h3>(4) The importance of proclaiming the Word of God, the Covenant, Christ – the Right to Choose, God's judgment</h3>
+<h3>(4) The importance of proclaiming the Word of God, the Covenant, Christ – the right to choose, the judgment of God</h3>
 <h3>(5) The importance of the local Church – epoch, time schedule</h3>
 <h2 id="s4">Conclusion:</h2>
 <h3>(1) The importance of understanding the stages of a person's spiritual growth</h3>

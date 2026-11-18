@@ -18,17 +18,17 @@
 ### (2) John 12:4-6, - rejection of the Word of God, the Covenant, Christ, the importance of the visible
 > Then saith one of his disciples, Judas Iscariot, Simon’s son, which should betray him, Why was not this ointment sold for three hundred pence, and given to the poor? This he said, not that he cared for the poor; but because he was a thief, and had the bag, and bare what was put therein. (John 12:4-6, KJV)
 
-### (3) John 12:7-8, - the spiritual problem of man, the importance of the death of Christ, the execution of the sentence of the Word of God instead of man
+### (3) John 12:7-8, - the spiritual problem of man, the importance of the death of Christ, the fulfillment of the sentence of the Word of God instead of man
 > Then said Jesus, Let her alone: against the day of my burying hath she kept this. For the poor always ye have with you; but me ye have not always. (John 12:7-8, KJV)
 
-### (4) John 12:9-11, - rejection of the Word of God, the Covenant, Christ, the Pharisees, religion
+### (4) John 12:9-11, - rejection of the Word of God, the Covenant, Christ, Pharisees, religion
 > Much people of the Jews therefore knew that he was there: and they came not for Jesus’ sake only, but that they might see Lazarus also, whom he had raised from the dead. But the chief priests consulted that they might put Lazarus also to death; Because that by reason of him many of the Jews went away, and believed on Jesus. (John 12:9-11, KJV)
 
-## 2) John 12:12-19 (Zech. 9:9), - fulfillment of the Word of God, the Covenant, Christ
+## 2) John 12:12-19 (Zech. 9:9), - fulfillment of the Word of God, the Covenant, of Christ
 > On the next day much people that were come to the feast, when they heard that Jesus was coming to Jerusalem, Took branches of palm trees, and went forth to meet him, and cried, Hosanna: Blessed is the King of Israel that cometh in the name of the Lord. And Jesus, when he had found a young ass, sat thereon; as it is written, Fear not, daughter of Sion: behold, thy King cometh, sitting on an ass’s colt. These things understood not his disciples at the first: but when Jesus was glorified, then remembered they that these things were written of him, and that they had done these things unto him. The people therefore that was with him when he called Lazarus out of his grave, and raised him from the dead, bare record. For this cause the people also met him, for that they heard that he had done this miracle. The Pharisees therefore said among themselves, Perceive ye how ye prevail nothing? behold, the world is gone after him. (John 12:12-19, KJV)
 > Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass. (Zech. 9:9, KJV)
 
-### (1) John 12:12-13, - knowledge is the Word of God, waiting for the Messiah, the true King of the whole earth
+### (1) John 12:12-13, - knowledge of the Word of God, waiting for the Messiah, the true King of the whole earth
 > On the next day much people that were come to the feast, when they heard that Jesus was coming to Jerusalem, Took branches of palm trees, and went forth to meet him, and cried, Hosanna: Blessed is the King of Israel that cometh in the name of the Lord. (John 12:12-13, KJV)
 
 ### (2) Matt. 21:8-13, - the importance of accepting Jesus Christ as the true and only King, Priest, and Prophet
@@ -43,19 +43,19 @@
 ### (3) John 12:12-16, - the importance of understanding the ministry of Christ, humility and doing the will of God, serving man
 > On the next day much people that were come to the feast, when they heard that Jesus was coming to Jerusalem, Took branches of palm trees, and went forth to meet him, and cried, Hosanna: Blessed is the King of Israel that cometh in the name of the Lord. And Jesus, when he had found a young ass, sat thereon; as it is written, Fear not, daughter of Sion: behold, thy King cometh, sitting on an ass’s colt. These things understood not his disciples at the first: but when Jesus was glorified, then remembered they that these things were written of him, and that they had done these things unto him. (John 12:12-16, KJV)
 
-### (4) John 12:17-18, - miracles and signs, a multitude of people, the special importance of realizing the Word of God, the Covenant, Christ for man. (The Cross of Calvary – everyone left Jesus Christ)
+### (4) John 12:17-18, - miracles and signs, a multitude of people, the special importance of understanding the Word of God, the Covenant, and Christ for man. (The Cross of Calvary – everyone left Jesus Christ)
 > The people therefore that was with him when he called Lazarus out of his grave, and raised him from the dead, bare record. For this cause the people also met him, for that they heard that he had done this miracle. (John 12:17-18, KJV)
 
-### (5) John 12:19, - rejection of the Word of God, the Covenant, Christ, the Pharisees, religion
+### (5) John 12:19, - rejection of the Word of God, the Covenant, Christ, Pharisees, religion
 > The Pharisees therefore said among themselves, Perceive ye how ye prevail nothing? behold, the world is gone after him. (John 12:19, KJV)
 
-### (6) John 12:20-22, - acceptance of the Word of God, Covenant, Christ, World Evangelism, Greeks
+### (6) John 12:20-22, - acceptance of the Word of God, the Covenant, Christ, World Evangelization, the Greeks
 > And there were certain Greeks among them that came up to worship at the feast: The same came therefore to Philip, which was of Bethsaida of Galilee, and desired him, saying, Sir, we would see Jesus. Philip cometh and telleth Andrew: and again Andrew and Philip tell Jesus. (John 12:20-22, KJV)
 
-## 3) John 12:23-43, - affirmation of the Word of God, the Covenant, Christ
+## 3) John 12:23-43, - affirmation of the Word of God, the Covenant, of Christ
 > And Jesus answered them, saying, The hour is come, that the Son of man should be glorified. Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit. He that loveth his life shall lose it; and he that hateth his life in this world shall keep it unto life eternal. If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will my Father honour. Now is my soul troubled; and what shall I say? Father, save me from this hour: but for this cause came I unto this hour. Father, glorify thy name. Then came there a voice from heaven, saying, I have both glorified it, and will glorify it again. The people therefore, that stood by, and heard it, said that it thundered: others said, An angel spake to him. Jesus answered and said, This voice came not because of me, but for your sakes. Now is the judgment of this world: now shall the prince of this world be cast out. And I, if I be lifted up from the earth, will draw all men unto me. This he said, signifying what death he should die. The people answered him, We have heard out of the law that Christ abideth for ever: and how sayest thou, The Son of man must be lifted up? who is this Son of man? Then Jesus said unto them, Yet a little while is the light with you. Walk while ye have the light, lest darkness come upon you: for he that walketh in darkness knoweth not whither he goeth. While ye have light, believe in the light, that ye may be the children of light. These things spake Jesus, and departed, and did hide himself from them. But though he had done so many miracles before them, yet they believed not on him: That the saying of Esaias the prophet might be fulfilled, which he spake, Lord, who hath believed our report? and to whom hath the arm of the Lord been revealed? Therefore they could not believe, because that Esaias said again, He hath blinded their eyes, and hardened their heart; that they should not see with their eyes, nor understand with their heart, and be converted, and I should heal them. These things said Esaias, when he saw his glory, and spake of him. Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess him, lest they should be put out of the synagogue: For they loved the praise of men more than the praise of God. (John 12:23-43, KJV)
 
-### (1) John 12:23, - God's sovereignty, time schedules, the importance of fulfilling the Word of God, the Covenant, Christ, fulfilling the will of God
+### (1) John 12:23, - God's sovereignty, time schedules, the importance of fulfilling God's Word, Covenant, Christ, fulfilling God's will
 > And Jesus answered them, saying, The hour is come, that the Son of man should be glorified. (John 12:23, KJV)
 
 ### (2) John 12:24, - death for the sake of life (Christ), the importance of understanding God's principle of salvation of mankind. Gen. 9:1-3
@@ -74,10 +74,10 @@
 ### (6) John 12:28, - glorification of the name of God, fulfillment of the sentence of the Word of God, the importance of the Sacrifice and the Feat of Christ
 > Father, glorify thy name. Then came there a voice from heaven, saying, I have both glorified it, and will glorify it again. (John 12:28, KJV)
 
-### (7) John 12:29-30, - miracles and signs, a multitude of people, the special importance of understanding the Word of God, the Covenant, Christ for man
+### (7) John 12:29-30, - miracles and signs, a multitude of people, the special importance of understanding the Word of God, the Covenant, and Christ for man
 > The people therefore, that stood by, and heard it, said that it thundered: others said, An angel spake to him. Jesus answered and said, This voice came not because of me, but for your sakes. (John 12:29-30, KJV)
 
-### (8) John 12:31-33, - the fulfillment of the Word of God, the importance of understanding the judgment of God (the condemnation of all the sins of the world on the Cross), the destruction of Satan, the action of N.Z., free entry into the Central Church for every person
+### (8) John 12:31-33, - the fulfillment of the Word of God, the importance of understanding the judgment of God (the condemnation of all the sins of the world on the Cross), the crushing of Satan, the action of N.Z., free entry into the Central Church for every person
 > Now is the judgment of this world: now shall the prince of this world be cast out. And I, if I be lifted up from the earth, will draw all men unto me. This he said, signifying what death he should die. (John 12:31-33, KJV)
 
 ### (9) John 12:34, - misunderstanding of the Word of God, the Covenant, Christ Rom. 9:30-33
@@ -90,7 +90,7 @@
 
 #### (c) The rejection of Jesus as the Messiah, the Christ
 
-### (10) John 12:35-36, - the importance of accepting the Word of God, the Covenant, Christ, accepting the true light, the importance of the status of man (sons of light)
+### (10) John 12:35-36, - the importance of accepting the Word of God, the Covenant, Christ, accepting the true light, the importance of human status (sons of light)
 > Then Jesus said unto them, Yet a little while is the light with you. Walk while ye have the light, lest darkness come upon you: for he that walketh in darkness knoweth not whither he goeth. While ye have light, believe in the light, that ye may be the children of light. These things spake Jesus, and departed, and did hide himself from them. (John 12:35-36, KJV)
 
 ### (11) John 12:37-41, - non-acceptance of Jesus as the Christ (Jews)
@@ -101,7 +101,7 @@
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
 > To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins. (Acts 10:43, KJV)
 
-### (13) John 12:42-43, - understanding and non-acceptance of the Word of God, the Covenant, Xp, the motives of most people, the importance of the visible Matt. 7:13-14; 16:26
+### (13) John 12:42-43, - understanding and rejection of the Word of God, the Covenant, Xp, the motives of most people, the importance of visible Matt. 7:13-14; 16:26
 > Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess him, lest they should be put out of the synagogue: For they loved the praise of men more than the praise of God. (John 12:42-43, KJV)
 > Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it. (Matt. 7:13-14, KJV)
 > For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul? (Matt. 16:26, KJV)
@@ -112,10 +112,10 @@
 ### (1) John 12:44-45, - acceptance of Christ, acceptance of the Father and the Holy Spirit
 > Jesus cried and said, He that believeth on me, believeth not on me, but on him that sent me. And he that seeth me seeth him that sent me. (John 12:44-45, KJV)
 
-### (2) John 12:46, - the True Light, God's Word, the importance of understanding spiritual reality, the immutability of fulfilling God's Word
+### (2) John 12:46, - true Light, God is the Word, the importance of understanding spiritual reality, the immutability of fulfilling the Word of God
 > I am come a light into the world, that whosoever believeth on me should not abide in darkness. (John 12:46, KJV)
 
-### (3) John 12:47, - the importance of a correct understanding of the first coming of Christ, the fulfillment of the Word of God, the salvation of man (choice)
+### (3) John 12:47, - the importance of properly understanding the first coming of Christ, the fulfillment of God's Word, and human salvation (choice)
 > And if any man hear my words, and believe not, I judge him not: for I came not to judge the world, but to save the world. (John 12:47, KJV)
 
 ### (4) John 12:48-50, - the importance of understanding the essence of God's Judgment (acceptance or non-acceptance of the Word of God, the Covenant, Christ), man's choice regarding eternity (where? And with Whom?)
@@ -125,6 +125,6 @@
 
 ### (1) The importance of accepting the Word of God, the Covenant, and Christ for every human being
 
-### (2) The importance of understanding and fulfilling the purpose – knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization
+### (2) The importance of understanding and fulfilling the purpose of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization
 
 ### (3) The importance of understanding the Second Coming of Christ, the importance of understanding the inevitable Judgment of God

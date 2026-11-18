@@ -15,15 +15,15 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-### (2) Ex. 1:6-14, - fulfillment of the Word of God, the Covenant, Christ
+### (2) Ex. 1:6-14, - fulfillment of the Word of God, the Covenant, of Christ
 > And Joseph died, and all his brethren, and all that generation. And the children of Israel were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty; and the land was filled with them. Now there arose up a new king over Egypt, which knew not Joseph. And he said unto his people, Behold, the people of the children of Israel are more and mightier than we: Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and so get them up out of the land. Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses. But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel. And the Egyptians made the children of Israel to serve with rigour: And they made their lives bitter with hard bondage, in morter, and in brick, and in all manner of service in the field: all their service, wherein they made them serve, was with rigour. (Ex. 1:6-14, KJV)
 
-#### (a) The New Pharaoh is the rejection of the Word of God, the Covenant, Christ (Egypt and Pharaoh are the prototype of the world and Satan, the spiritual reality)
+#### (a) The New Pharaoh is the rejection of the Word of God, the Covenant, and Christ (Egypt and Pharaoh are the prototype of the world and Satan, the spiritual reality)
 
 #### (b) The four hundred years of slavery of God's people – the responsibility of Abraham, the inaccurate emphasis on sacrifice (the Sacrifice of Christ), the inevitable fulfillment of God's Word Gen. 15:9-16
 > And he said unto him, Take me an heifer of three years old, and a she goat of three years old, and a ram of three years old, and a turtledove, and a young pigeon. And he took unto him all these, and divided them in the midst, and laid each piece one against another: but the birds divided he not. And when the fowls came down upon the carcases, Abram drove them away. And when the sun was going down, a deep sleep fell upon Abram; and, lo, an horror of great darkness fell upon him. And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years; And also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance. And thou shalt go to thy fathers in peace; thou shalt be buried in a good old age. But in the fourth generation they shall come hither again: for the iniquity of the Amorites is not yet full. (Gen. 15:9-16, KJV)
 
-### (3) Ex. 1:15-22, - killing babies by Pharaoh, stop transmitting the Word of God, the Covenant, Christ, the importance of understanding the actions of Satan
+### (3) Ex. 1:15-22, - killing babies by Pharaoh, stop the transmission of the Word of God, the Covenant, Christ, the importance of understanding the actions of Satan
 > And the king of Egypt spake to the Hebrew midwives, of which the name of the one was Shiphrah, and the name of the other Puah: And he said, When ye do the office of a midwife to the Hebrew women, and see them upon the stools; if it be a son, then ye shall kill him: but if it be a daughter, then she shall live. But the midwives feared God, and did not as the king of Egypt commanded them, but saved the men children alive. And the king of Egypt called for the midwives, and said unto them, Why have ye done this thing, and have saved the men children alive? And the midwives said unto Pharaoh, Because the Hebrew women are not as the Egyptian women; for they are lively, and are delivered ere the midwives come in unto them. Therefore God dealt well with the midwives: and the people multiplied, and waxed very mighty. And it came to pass, because the midwives feared God, that he made them houses. And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive. (Ex. 1:15-22, KJV)
 
 #### (a) Cain and Abel, the massacre of infants by Herod
@@ -35,7 +35,7 @@
 ### (1) Ex. 2:1-10, - God's plan, time schedule
 > And there went a man of the house of Levi, and took to wife a daughter of Levi. And the woman conceived, and bare a son: and when she saw him that he was a goodly child, she hid him three months. And when she could not longer hide him, she took for him an ark of bulrushes, and daubed it with slime and with pitch, and put the child therein; and she laid it in the flags by the river’s brink. And his sister stood afar off, to wit what would be done to him. And the daughter of Pharaoh came down to wash herself at the river; and her maidens walked along by the river’s side; and when she saw the ark among the flags, she sent her maid to fetch it. And when she had opened it, she saw the child: and, behold, the babe wept. And she had compassion on him, and said, This is one of the Hebrews’ children. Then said his sister to Pharaoh’s daughter, Shall I go and call to thee a nurse of the Hebrew women, that she may nurse the child for thee? And Pharaoh’s daughter said to her, Go. And the maid went and called the child’s mother. And Pharaoh’s daughter said unto her, Take this child away, and nurse it for me, and I will give thee thy wages. And the woman took the child, and nursed it. And the child grew, and she brought him unto Pharaoh’s daughter, and he became her son. And she called his name Moses: and she said, Because I drew him out of the water. (Ex. 2:1-10, KJV)
 
-#### (a) The birth of Moses, Aaron, and Miriam, believing parents. (The Holy remnant is faith in the Coming Christ, God in the flesh, faith in His All–sufficient Sacrifice, understanding of destiny, people – misunderstanding of the Word of God, the Covenant, Christ, visible). Heb. 11:23-26
+#### (a) The birth of Moses, Aaron, and Miriam, believing parents. (The holy remnant is faith in the Coming Christ, God in the flesh, faith in His All–sufficient Sacrifice, understanding of destiny, the people are misunderstanding the Word of God, the Covenant, Christ, visible). Heb. 11:23-26
 > By faith Moses, when he was born, was hid three months of his parents, because they saw he was a proper child; and they were not afraid of the king’s commandment. By faith Moses, when he was come to years, refused to be called the son of Pharaoh’s daughter; Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season; Esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompence of the reward. (Heb. 11:23-26, KJV)
 
 #### (b) The Nile, Pharaoh's daughter, the mother of the nurse – God's control
@@ -64,20 +64,20 @@
 #### (c) God's Angels do not accept human worship Rev. 19:10
 > And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy. (Rev. 19:10, KJV)
 
-#### (d) The importance of Canaan – the importance of returning to the fulfillment of the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the Coming of Christ)
+#### (d) The importance of Canaan – the importance of returning to the fulfillment of the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ)
 
 ### (2) Ex. 3:16-22, - God's sovereignty and control
 > Go, and gather the elders of Israel together, and say unto them, The LORD God of your fathers, the God of Abraham, of Isaac, and of Jacob, appeared unto me, saying, I have surely visited you, and seen that which is done to you in Egypt: And I have said, I will bring you up out of the affliction of Egypt unto the land of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, unto a land flowing with milk and honey. And they shall hearken to thy voice: and thou shalt come, thou and the elders of Israel, unto the king of Egypt, and ye shall say unto him, The LORD God of the Hebrews hath met with us: and now let us go, we beseech thee, three days’ journey into the wilderness, that we may sacrifice to the LORD our God. And I am sure that the king of Egypt will not let you go, no, not by a mighty hand. And I will stretch out my hand, and smite Egypt with all my wonders which I will do in the midst thereof: and after that he will let you go. And I will give this people favour in the sight of the Egyptians: and it shall come to pass, that, when ye go, ye shall not go empty: But every woman shall borrow of her neighbour, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put them upon your sons, and upon your daughters; and ye shall spoil the Egyptians. (Ex. 3:16-22, KJV)
 
 #### (a) The importance of Canaan and Sacrifice, the importance of the coming of Christ, the importance of fulfilling the destiny of God's people
 
-#### (b) Pharaoh – the importance of preserving the slavery of God's people (Satan's action, resisting the knowledge and transmission of the Word of God, the Covenant, Christ)
+#### (b) Pharaoh – the importance of preserving the slavery of the people of God (the action of Satan, resisting the knowledge and transmission of the Word of God, the Covenant, Christ)
 
 #### (c) God's sovereignty and control – the liberation of God's people
 
 #### (d) Gold, silver, and clothing are the wages of the slave labor of God's people, and the importance of understanding God's justice
 
-### (3) The Importance of Understanding the Inevitable Fulfillment of God's Word
+### (3) The importance of understanding the inevitable fulfillment of God's Word
 
 #### (a) The problem of slavery is the inaccurate fulfillment of God's Word (Abraham)
 
@@ -85,8 +85,8 @@
 
 ## Conclusion:
 
-### (1) The Importance of Understanding God's Sovereignty (fulfilling God's Word)
+### (1) The Importance of understanding God's Sovereignty (fulfilling God's Word)
 
-### (2) The importance of understanding and fulfilling purpose. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+### (2) The importance of understanding and fulfilling the purpose. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 
 ### (3) The importance of understanding Satan's actions

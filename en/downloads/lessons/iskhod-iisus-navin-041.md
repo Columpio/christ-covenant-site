@@ -1,5 +1,5 @@
 # Josh. 7–8
-## 3.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, the coming of Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 3.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, the coming of Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:17, KJV)
@@ -12,7 +12,7 @@
 
 ### (1) The importance of conquering Canaan and expelling the Canaanite tribes (God's sovereignty and Plan for the Future)
 
-#### (a) Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization, preparation for the coming of Christ
+#### (a) Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ
 
 #### (b) The special importance of the separation of God's people from the world is the wrong faith, idols, worldview, and value system. (The importance of purity of teaching and fulfillment of purpose)
 
@@ -34,7 +34,7 @@
 
 #### (b) Joining the accursed is a consequence of sin, a force leading creation to destruction (and to destruction, as an option), an action from the OUTSIDE. (The solution is to remove the curse from life, the importance of fulfilling the destiny of God's people)
 
-### (2) Violation of the Word of God, the Covenant, Christ is an accursed sin (sin unto death) Gen. 3:1-7; 4:1-8,Hos. 4:6,Acts 20:28-31
+### (2) Violation of the Word of God, of the Covenant, of Christ – the accursed (sin to death) Gen. 3:1-7; 4:1-8,Hos. 4:6,Acts 20:28-31
 > Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons. (Gen. 3:1-7, KJV)
 > And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD. And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground. And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD. And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering: But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell. And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen? If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him. And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him. (Gen. 4:1-8, KJV)
 > My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children. (Hos. 4:6, KJV)
@@ -46,7 +46,7 @@
 
 #### (c) Worship of other gods, false teachings
 
-### (3) The violation of the Word of God is a curse (a sin not leading to death, which can lead to sin leading to death)
+### (3) Violating the Word of God is a sworn sin (a sin not leading to death, which can lead to sin leading to death)
 
 #### (a) Drugs, alcohol (altered consciousness) – sworn 1 Cor. 3:16-17
 > Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you? If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which temple ye are. (1 Cor. 3:16-17, KJV)
@@ -72,14 +72,14 @@
 
 ### (5) The causes of difficult circumstances for the people of God
 
-### (1) Breaking the Word of God 1 Tim. 4:16
+### (1) Violation of the Word of God 1 Tim. 4:16
 > Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee. (1 Tim. 4:16, KJV)
 
 ### (2) For the glory of God
 
 ## 3) Josh. 8, - the importance of fulfilling the Word of God
 
-### (1) Josh. 8:1-29, - the correct fulfillment of the Word of God, the success of God's people (confidence in God's victory, the importance of Canaan, the accomplishment of World Evangelization, the importance of the coming of Christ)
+### (1) Josh. 8:1-29, - the correct fulfillment of the Word of God, the success of God's people (confidence in God's victory, the importance of Canaan, the accomplishment of Worldwide Evangelization, the importance of the coming of Christ)
 > And the LORD said unto Joshua, Fear not, neither be thou dismayed: take all the people of war with thee, and arise, go up to Ai: see, I have given into thy hand the king of Ai, and his people, and his city, and his land: And thou shalt do to Ai and her king as thou didst unto Jericho and her king: only the spoil thereof, and the cattle thereof, shall ye take for a prey unto yourselves: lay thee an ambush for the city behind it. So Joshua arose, and all the people of war, to go up against Ai: and Joshua chose out thirty thousand mighty men of valour, and sent them away by night. And he commanded them, saying, Behold, ye shall lie in wait against the city, even behind the city: go not very far from the city, but be ye all ready: And I, and all the people that are with me, will approach unto the city: and it shall come to pass, when they come out against us, as at the first, that we will flee before them, (For they will come out after us) till we have drawn them from the city; for they will say, They flee before us, as at the first: therefore we will flee before them. Then ye shall rise up from the ambush, and seize upon the city: for the LORD your God will deliver it into your hand. And it shall be, when ye have taken the city, that ye shall set the city on fire: according to the commandment of the LORD shall ye do. See, I have commanded you. Joshua therefore sent them forth: and they went to lie in ambush, and abode between Beth-el and Ai, on the west side of Ai: but Joshua lodged that night among the people. And Joshua rose up early in the morning, and numbered the people, and went up, he and the elders of Israel, before the people to Ai. And all the people, even the people of war that were with him, went up, and drew nigh, and came before the city, and pitched on the north side of Ai: now there was a valley between them and Ai. And he took about five thousand men, and set them to lie in ambush between Beth-el and Ai, on the west side of the city. And when they had set the people, even all the host that was on the north of the city, and their liers in wait on the west of the city, Joshua went that night into the midst of the valley. And it came to pass, when the king of Ai saw it, that they hasted and rose up early, and the men of the city went out against Israel to battle, he and all his people, at a time appointed, before the plain; but he wist not that there were liers in ambush against him behind the city. And Joshua and all Israel made as if they were beaten before them, and fled by the way of the wilderness. And all the people that were in Ai were called together to pursue after them: and they pursued after Joshua, and were drawn away from the city. And there was not a man left in Ai or Beth-el, that went not out after Israel: and they left the city open, and pursued after Israel. And the LORD said unto Joshua, Stretch out the spear that is in thy hand toward Ai; for I will give it into thine hand. And Joshua stretched out the spear that he had in his hand toward the city. And the ambush arose quickly out of their place, and they ran as soon as he had stretched out his hand: and they entered into the city, and took it, and hasted and set the city on fire. And when the men of Ai looked behind them, they saw, and, behold, the smoke of the city ascended up to heaven, and they had no power to flee this way or that way: and the people that fled to the wilderness turned back upon the pursuers. And when Joshua and all Israel saw that the ambush had taken the city, and that the smoke of the city ascended, then they turned again, and slew the men of Ai. And the other issued out of the city against them; so they were in the midst of Israel, some on this side, and some on that side: and they smote them, so that they let none of them remain or escape. And the king of Ai they took alive, and brought him to Joshua. And it came to pass, when Israel had made an end of slaying all the inhabitants of Ai in the field, in the wilderness wherein they chased them, and when they were all fallen on the edge of the sword, until they were consumed, that all the Israelites returned unto Ai, and smote it with the edge of the sword. And so it was, that all that fell that day, both of men and women, were twelve thousand, even all the men of Ai. For Joshua drew not his hand back, wherewith he stretched out the spear, until he had utterly destroyed all the inhabitants of Ai. Only the cattle and the spoil of that city Israel took for a prey unto themselves, according unto the word of the LORD which he commanded Joshua. And Joshua burnt Ai, and made it an heap for ever, even a desolation unto this day. And the king of Ai he hanged on a tree until eventide: and as soon as the sun was down, Joshua commanded that they should take his carcase down from the tree, and cast it at the entering of the gate of the city, and raise thereon a great heap of stones, that remaineth unto this day. (Josh. 8:1-29, KJV)
 
 ### (2) Josh. 8:30-35, - acceptance or non-acceptance of the Word of God, blessing or curse, the right to choose a person
@@ -115,8 +115,8 @@
 
 ## Conclusion:
 
-### (1) The importance of understanding the purpose of God's people (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization)
+### (1) The importance of understanding the purpose of God's people (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
 
 ### (2) The importance of accepting the Word of God, the Covenant, and Christ for man
 
-### (3) The Importance of Walking in the Word of God, the Covenant, Christ, the Life of Faith
+### (3) The importance of walking in the Word of God, the Covenant, Christ, and the life of faith

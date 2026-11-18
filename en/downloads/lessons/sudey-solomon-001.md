@@ -1,5 +1,5 @@
 # Judg. 1–5
-## 1.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 1.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -19,12 +19,12 @@
 
 ### (4) The Age of the Church (Christ, the Apostles – the 2nd Coming of Christ)
 
-## 2) Judg. 1, - inaccurate fulfillment of the Word of God, the Covenant, Christ
+## 2) Judg. 1, - inaccurate fulfillment of the Word of God, the Covenant, of Christ
 
 ### (1) Judg. 1:1-20, - the importance of conquering Canaan and expelling the Canaanite tribes (God's sovereignty and plan for the future)
 > Now after the death of Joshua it came to pass, that the children of Israel asked the LORD, saying, Who shall go up for us against the Canaanites first, to fight against them? And the LORD said, Judah shall go up: behold, I have delivered the land into his hand. And Judah said unto Simeon his brother, Come up with me into my lot, that we may fight against the Canaanites; and I likewise will go with thee into thy lot. So Simeon went with him. And Judah went up; and the LORD delivered the Canaanites and the Perizzites into their hand: and they slew of them in Bezek ten thousand men. And they found Adoni-bezek in Bezek: and they fought against him, and they slew the Canaanites and the Perizzites. But Adoni-bezek fled; and they pursued after him, and caught him, and cut off his thumbs and his great toes. And Adoni-bezek said, Threescore and ten kings, having their thumbs and their great toes cut off, gathered their meat under my table: as I have done, so God hath requited me. And they brought him to Jerusalem, and there he died. Now the children of Judah had fought against Jerusalem, and had taken it, and smitten it with the edge of the sword, and set the city on fire. And afterward the children of Judah went down to fight against the Canaanites, that dwelt in the mountain, and in the south, and in the valley. And Judah went against the Canaanites that dwelt in Hebron: (now the name of Hebron before was Kirjath-arba:) and they slew Sheshai, and Ahiman, and Talmai. And from thence he went against the inhabitants of Debir: and the name of Debir before was Kirjath-sepher: And Caleb said, He that smiteth Kirjath-sepher, and taketh it, to him will I give Achsah my daughter to wife. And Othniel the son of Kenaz, Caleb’s younger brother, took it: and he gave him Achsah his daughter to wife. And it came to pass, when she came to him, that she moved him to ask of her father a field: and she lighted from off her ass; and Caleb said unto her, What wilt thou? And she said unto him, Give me a blessing: for thou hast given me a south land; give me also springs of water. And Caleb gave her the upper springs and the nether springs. And the children of the Kenite, Moses’ father in law, went up out of the city of palm trees with the children of Judah into the wilderness of Judah, which lieth in the south of Arad; and they went and dwelt among the people. And Judah went with Simeon his brother, and they slew the Canaanites that inhabited Zephath, and utterly destroyed it. And the name of the city was called Hormah. Also Judah took Gaza with the coast thereof, and Askelon with the coast thereof, and Ekron with the coast thereof. And the LORD was with Judah; and he drave out the inhabitants of the mountain; but could not drive out the inhabitants of the valley, because they had chariots of iron. And they gave Hebron unto Caleb, as Moses said: and he expelled thence the three sons of Anak. (Judg. 1:1-20, KJV)
 
-#### (a) Knowledge and transmission of the Word of God, the Covenants, Christ, the Disciples, Worldwide Evangelization, preparation for the First Coming of Christ
+#### (a) Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the First Coming of Christ
 
 #### (b) The special importance of the separation of God's people from the world is the wrong faith, idols, worldview, and value system. (The importance of purity of teaching and fulfillment of purpose)
 
@@ -38,16 +38,16 @@
 
 #### (d) Living with God's people and influencing them by affirming their gods, worldview, and value system is an act of Satan
 
-### (3) Judg. 1:21-36, - inaccurate fulfillment of the Word of God, problems for posterity
+### (3) Judg. 1:21-36, - inaccurate fulfillment of God's Word, problems for posterity
 > And the children of Benjamin did not drive out the Jebusites that inhabited Jerusalem; but the Jebusites dwell with the children of Benjamin in Jerusalem unto this day. And the house of Joseph, they also went up against Beth-el: and the LORD was with them. And the house of Joseph sent to descry Beth-el. (Now the name of the city before was Luz.) And the spies saw a man come forth out of the city, and they said unto him, Shew us, we pray thee, the entrance into the city, and we will shew thee mercy. And when he shewed them the entrance into the city, they smote the city with the edge of the sword; but they let go the man and all his family. And the man went into the land of the Hittites, and built a city, and called the name thereof Luz: which is the name thereof unto this day. Neither did Manasseh drive out the inhabitants of Beth-shean and her towns, nor Taanach and her towns, nor the inhabitants of Dor and her towns, nor the inhabitants of Ibleam and her towns, nor the inhabitants of Megiddo and her towns: but the Canaanites would dwell in that land. And it came to pass, when Israel was strong, that they put the Canaanites to tribute, and did not utterly drive them out. Neither did Ephraim drive out the Canaanites that dwelt in Gezer; but the Canaanites dwelt in Gezer among them. Neither did Zebulun drive out the inhabitants of Kitron, nor the inhabitants of Nahalol; but the Canaanites dwelt among them, and became tributaries. Neither did Asher drive out the inhabitants of Accho, nor the inhabitants of Zidon, nor of Ahlab, nor of Achzib, nor of Helbah, nor of Aphik, nor of Rehob: But the Asherites dwelt among the Canaanites, the inhabitants of the land: for they did not drive them out. Neither did Naphtali drive out the inhabitants of Beth-shemesh, nor the inhabitants of Beth-anath; but he dwelt among the Canaanites, the inhabitants of the land: nevertheless the inhabitants of Beth-shemesh and of Beth-anath became tributaries unto them. And the Amorites forced the children of Dan into the mountain: for they would not suffer them to come down to the valley: But the Amorites would dwell in mount Heres in Aijalon, and in Shaalbim: yet the hand of the house of Joseph prevailed, so that they became tributaries. And the coast of the Amorites was from the going up to Akrabbim, from the rock, and upward. (Judg. 1:21-36, KJV)
 
 #### (a) The abandonment of the Canaanites, the problem of fulfilling destiny
 
 #### (b) The Canaanites – influence and mixing with the people of God, idols, the formation of a different worldview and value system
 
-## 3) Judg. 2, - inaccurate fulfillment of the Word of God, the Covenant, Christ
+## 3) Judg. 2, - inaccurate fulfillment of the Word of God, the Covenant, and Christ
 
-### (1) Judg. 2:1-5, - chastisement by the Lord, violation of the Word of God, the Covenant, Christ
+### (1) Judg. 2:1-5, - chastisement by the Lord, violation of the Word of God, the Covenant, of Christ
 > And an angel of the LORD came up from Gilgal to Bochim, and said, I made you to go up out of Egypt, and have brought you unto the land which I sware unto your fathers; and I said, I will never break my covenant with you. And ye shall make no league with the inhabitants of this land; ye shall throw down their altars: but ye have not obeyed my voice: why have ye done this? Wherefore I also said, I will not drive them out from before you; but they shall be as thorns in your sides, and their gods shall be a snare unto you. And it came to pass, when the angel of the LORD spake these words unto all the children of Israel, that the people lifted up their voice, and wept. And they called the name of that place Bochim: and they sacrificed there unto the LORD. (Judg. 2:1-5, KJV)
 
 #### (a) Mixing with the Canaanites, idols, no fulfillment.
@@ -72,29 +72,29 @@
 
 #### (a) Judges – God's sovereignty (God's appointment and action)
 
-#### (b) The spiritual side – the preservation and transmission of the Word of God, the Covenant, Christ, the importance of fulfilling the destiny of God's people
+#### (b) The spiritual side is the preservation and transmission of the Word of God, the Covenant, Christ, and the importance of fulfilling the destiny of God's people
 
 #### (c) The physical side – independence, governance, etc., the importance of fulfilling the destiny of God's people
 
-### (4) Judg. 2:19-23, - non-acceptance of the Word of God, the Covenant, Christ
+### (4) Judg. 2:19-23, - rejection of the Word of God, the Covenant, and Christ
 > And it came to pass, when the judge was dead, that they returned, and corrupted themselves more than their fathers, in following other gods to serve them, and to bow down unto them; they ceased not from their own doings, nor from their stubborn way. And the anger of the LORD was hot against Israel; and he said, Because that this people hath transgressed my covenant which I commanded their fathers, and have not hearkened unto my voice; I also will not henceforth drive out any from before them of the nations which Joshua left when he died: That through them I may prove Israel, whether they will keep the way of the LORD to walk therein, as their fathers did keep it, or not. Therefore the LORD left those nations, without driving them out hastily; neither delivered he them into the hand of Joshua. (Judg. 2:19-23, KJV)
 
-#### (a) Acceptance, non–acceptance of the Word of God, the Covenant, Christ - a person's right to choose
+#### (a) Acceptance, non–acceptance of the Word of God, the Covenant, Christ is a person's right to choose
 
 #### (b) Satan's action is God's permission, man's right to choose
 
 ## 4) Judg. 3, - understanding the Word of God, the Covenant, Christ, fulfillment of destiny
 
-### (1) Judg. 3:1-7, - non-acceptance of the Word of God, the Covenant, Christ, slavery
+### (1) Judg. 3:1-7, - rejection of the Word of God, the Covenant, Christ, slavery
 > Now these are the nations which the LORD left, to prove Israel by them, even as many of Israel as had not known all the wars of Canaan; Only that the generations of the children of Israel might know, to teach them war, at the least such as before knew nothing thereof; Namely, five lords of the Philistines, and all the Canaanites, and the Sidonians, and the Hivites that dwelt in mount Lebanon, from mount Baal-hermon unto the entering in of Hamath. And they were to prove Israel by them, to know whether they would hearken unto the commandments of the LORD, which he commanded their fathers by the hand of Moses. And the children of Israel dwelt among the Canaanites, Hittites, and Amorites, and Perizzites, and Hivites, and Jebusites: And they took their daughters to be their wives, and gave their daughters to their sons, and served their gods. And the children of Israel did evil in the sight of the LORD, and forgat the LORD their God, and served Baalim and the groves. (Judg. 3:1-7, KJV)
 
-#### (a) The Canaanites are false gods, the influence on the people of God, the action of Satan
+#### (a) The Canaanites are false gods, influence on the people of God, the work of Satan
 
 #### (b) Acceptance, non–acceptance of the Word of God, the Covenant, Christ - a person's right to choose
 
 #### (c) Satan's action is God's permission, man's right to choose
 
-### (2) Judg. 3:9-31, - Judges Othniel, Aod, Samegar. (Understanding the Word of God, the Covenant, Christ, Fulfillment of Destiny)
+### (2) Judg. 3:9-31, - Judges Othniel, Aod, Samegar. (Understanding the Word of God, the Covenant, Christ, fulfillment of destiny)
 > And when the children of Israel cried unto the LORD, the LORD raised up a deliverer to the children of Israel, who delivered them, even Othniel the son of Kenaz, Caleb’s younger brother. And the Spirit of the LORD came upon him, and he judged Israel, and went out to war: and the LORD delivered Chushan-rishathaim king of Mesopotamia into his hand; and his hand prevailed against Chushan-rishathaim. And the land had rest forty years. And Othniel the son of Kenaz died. And the children of Israel did evil again in the sight of the LORD: and the LORD strengthened Eglon the king of Moab against Israel, because they had done evil in the sight of the LORD. And he gathered unto him the children of Ammon and Amalek, and went and smote Israel, and possessed the city of palm trees. So the children of Israel served Eglon the king of Moab eighteen years. But when the children of Israel cried unto the LORD, the LORD raised them up a deliverer, Ehud the son of Gera, a Benjamite, a man lefthanded: and by him the children of Israel sent a present unto Eglon the king of Moab. But Ehud made him a dagger which had two edges, of a cubit length; and he did gird it under his raiment upon his right thigh. And he brought the present unto Eglon king of Moab: and Eglon was a very fat man. And when he had made an end to offer the present, he sent away the people that bare the present. But he himself turned again from the quarries that were by Gilgal, and said, I have a secret errand unto thee, O king: who said, Keep silence. And all that stood by him went out from him. And Ehud came unto him; and he was sitting in a summer parlour, which he had for himself alone. And Ehud said, I have a message from God unto thee. And he arose out of his seat. And Ehud put forth his left hand, and took the dagger from his right thigh, and thrust it into his belly: And the haft also went in after the blade; and the fat closed upon the blade, so that he could not draw the dagger out of his belly; and the dirt came out. Then Ehud went forth through the porch, and shut the doors of the parlour upon him, and locked them. When he was gone out, his servants came; and when they saw that, behold, the doors of the parlour were locked, they said, Surely he covereth his feet in his summer chamber. And they tarried till they were ashamed: and, behold, he opened not the doors of the parlour; therefore they took a key, and opened them: and, behold, their lord was fallen down dead on the earth. And Ehud escaped while they tarried, and passed beyond the quarries, and escaped unto Seirath. And it came to pass, when he was come, that he blew a trumpet in the mountain of Ephraim, and the children of Israel went down with him from the mount, and he before them. And he said unto them, Follow after me: for the LORD hath delivered your enemies the Moabites into your hand. And they went down after him, and took the fords of Jordan toward Moab, and suffered not a man to pass over. And they slew of Moab at that time about ten thousand men, all lusty, and all men of valour; and there escaped not a man. So Moab was subdued that day under the hand of Israel. And the land had rest fourscore years. And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad: and he also delivered Israel. (Judg. 3:9-31, KJV)
 
 #### (a) Judg. 3:9-11, - Judge Othniel (Husarsafem, Mesopotamia)
@@ -106,7 +106,7 @@
 #### (c) Judg. 3:31, - Judge Samegar (Philistines)
 > And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad: and he also delivered Israel. (Judg. 3:31, KJV)
 
-## 5) Judg. 4 (Heb. 11:32), - Judge Devora and Barak. (Understanding the Word of God, the Covenant, Christ, Fulfillment of Destiny)
+## 5) Judg. 4 (Heb. 11:32), - Judge Devora and Barak. (Understanding the Word of God, the Covenant, Christ, fulfillment of destiny)
 > And what shall I more say? for the time would fail me to tell of Gedeon, and of Barak, and of Samson, and of Jephthae; of David also, and Samuel, and of the prophets: (Heb. 11:32, KJV)
 
 ### (1) Judg. 4:1-3, - rejection of the Word of God, the Covenant, Christ, slavery
@@ -122,17 +122,17 @@
 
 #### (b) Deborah is a true helper, understanding the importance of fulfilling her destiny, and the importance of the women of God's people
 
-### (4) Judg. 4:10-22, - death of the military commander Sisera (Jael), undoubted fulfillment of the Word of God Rom. 6:23
+### (4) Judg. 4:10-22, - the death of Sisera's military commander (Jael), the undoubted fulfillment of the Word of God Rom. 6:23
 > And Barak called Zebulun and Naphtali to Kedesh; and he went up with ten thousand men at his feet: and Deborah went up with him. Now Heber the Kenite, which was of the children of Hobab the father in law of Moses, had severed himself from the Kenites, and pitched his tent unto the plain of Zaanaim, which is by Kedesh. And they shewed Sisera that Barak the son of Abinoam was gone up to mount Tabor. And Sisera gathered together all his chariots, even nine hundred chariots of iron, and all the people that were with him, from Harosheth of the Gentiles unto the river of Kishon. And Deborah said unto Barak, Up; for this is the day in which the LORD hath delivered Sisera into thine hand: is not the LORD gone out before thee? So Barak went down from mount Tabor, and ten thousand men after him. And the LORD discomfited Sisera, and all his chariots, and all his host, with the edge of the sword before Barak; so that Sisera lighted down off his chariot, and fled away on his feet. But Barak pursued after the chariots, and after the host, unto Harosheth of the Gentiles: and all the host of Sisera fell upon the edge of the sword; and there was not a man left. Howbeit Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite: for there was peace between Jabin the king of Hazor and the house of Heber the Kenite. And Jael went out to meet Sisera, and said unto him, Turn in, my lord, turn in to me; fear not. And when he had turned in unto her into the tent, she covered him with a mantle. And he said unto her, Give me, I pray thee, a little water to drink; for I am thirsty. And she opened a bottle of milk, and gave him drink, and covered him. Again he said unto her, Stand in the door of the tent, and it shall be, when any man doth come and enquire of thee, and say, Is there any man here? that thou shalt say, No. Then Jael Heber’s wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died. And, behold, as Barak pursued Sisera, Jael came out to meet him, and said unto him, Come, and I will shew thee the man whom thou seekest. And when he came into her tent, behold, Sisera lay dead, and the nail was in his temples. (Judg. 4:10-22, KJV)
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
-## 6) Judg. 5, - song of Deborah, praise of God, protection of the people of God (Knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the coming of Christ)
+## 6) Judg. 5, - the song of Deborah, praising God, protecting the people of God (Knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ)
 
 ## Conclusion:
 
-### (1) The Book of Judges – the state of God's people, man's personal responsibility in relation to the Word of God, the Covenant, Christ (Non–acceptance or inaccurate understanding of the Word of God, the Covenant, Christ - unbelief, idolatry, immorality)
+### (1) The Book of Judges – the state of God's people, man's personal responsibility in relation to the Word of God, the Covenant, Christ (Rejection or inaccurate understanding of the Word of God, the Covenant, Christ – unbelief, idolatry, immorality)
 
-### (2) The importance of understanding and fulfilling the purpose of preserving and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ
+### (2) The importance of understanding and fulfilling the purpose of preserving and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, and the coming of Christ
 
-### (3) The Book of Judges is a profound and special explanation of the Good News, God's love and mercy to man. Heb. 13:5
+### (3) The Book of Judges is a deep and special explanation to man of the Good News, God's love and mercy. Heb. 13:5
 > Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee. (Heb. 13:5, KJV)

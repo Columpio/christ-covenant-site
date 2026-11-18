@@ -1,5 +1,5 @@
 # 1 Thess. 1–3
-## 1.1) 1 Thess. 1, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 1.1) 1 Thess. 1, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
 ### (1) 1 Thess. 1:1, - importance of disciples, knowledge and transmission of the Word of God, the Covenant, Christ, disciples, Worldwide Evangelization, purpose Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
 > Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ. (1 Thess. 1:1, KJV)
@@ -27,7 +27,7 @@
 ### (4) 1 Thess. 1:5, - the importance of conveying the Word of God, the Covenant, Christ, the action of the Holy Spirit, God's sovereignty and control
 > For our gospel came not unto you in word only, but also in power, and in the Holy Ghost, and in much assurance; as ye know what manner of men we were among you for your sake. (1 Thess. 1:5, KJV)
 
-### (5) 1 Thess. 1:6-7, - the importance of accepting the Word of God, the Covenant, Christ, the importance of setting the right example for others
+### (5) 1 Thess. 1:6-7, - the importance of accepting the Word of God, the Covenant, Christ, and the importance of setting the right example for others
 > And ye became followers of us, and of the Lord, having received the word in much affliction, with joy of the Holy Ghost: So that ye were ensamples to all that believe in Macedonia and Achaia. (1 Thess. 1:6-7, KJV)
 
 ### (6) 1 Thess. 1:8, - the importance of transmitting the Word of God, the Covenant, Christ, the importance of fulfilling the destiny of God's people
@@ -39,24 +39,24 @@
 ### (8) 1 Thess. 1:10, - the importance of the Second Coming of Christ, resurrection from the dead, eternal life with God
 > And to wait for his Son from heaven, whom he raised from the dead, even Jesus, which delivered us from the wrath to come. (1 Thess. 1:10, KJV)
 
-## 2) 1 Thess. 2, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 2) 1 Thess. 2, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
-### (1) 1 Thess. 2:1-2, - the special importance of knowing and transmitting the Word of God, the Covenants, Christ, the Disciples, World Evangelization, the ministry of the Apostle Paul
+### (1) 1 Thess. 2:1-2, - the special importance of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the ministry of the Apostle Paul
 > For yourselves, brethren, know our entrance in unto you, that it was not in vain: But even after that we had suffered before, and were shamefully entreated, as ye know, at Philippi, we were bold in our God to speak unto you the gospel of God with much contention. (1 Thess. 2:1-2, KJV)
 
 ### (2) 1 Thess. 2:3, - the importance of purity of the Word of God, the Covenant, Christ, the importance of the right motives for serving God
 > For our exhortation was not of deceit, nor of uncleanness, nor in guile: (1 Thess. 2:3, KJV)
 
-### (3) 1 Thess. 2:4, - the special importance of correctly proclaiming the Word of God, the Covenant, Christ, the importance of pleasing God and not people
+### (3) 1 Thess. 2:4, - the special importance of the correct proclamation of the Word of God, the Covenant, Christ, the importance of pleasing God and not people
 > But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which trieth our hearts. (1 Thess. 2:4, KJV)
 
 ### (4) 1 Thess. 2:5-10, - the importance of the correct transmission of the Word of God, the Covenant, Christ, caring and love for people, the right motives
 > For neither at any time used we flattering words, as ye know, nor a cloke of covetousness; God is witness: Nor of men sought we glory, neither of you, nor yet of others, when we might have been burdensome, as the apostles of Christ. But we were gentle among you, even as a nurse cherisheth her children: So being affectionately desirous of you, we were willing to have imparted unto you, not the gospel of God only, but also our own souls, because ye were dear unto us. For ye remember, brethren, our labour and travail: for labouring night and day, because we would not be chargeable unto any of you, we preached unto you the gospel of God. Ye are witnesses, and God also, how holily and justly and unblameably we behaved ourselves among you that believe: (1 Thess. 2:5-10, KJV)
 
-### (5) 1 Thess. 2:11-12, - the importance of living a right life in the faith of God, the importance of knowing and transmitting the Word of God, the Covenant, Christ
+### (5) 1 Thess. 2:11-12, - the importance of living a right life in the faith of God, the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 > As ye know how we exhorted and comforted and charged every one of you, as a father doth his children, That ye would walk worthy of God, who hath called you unto his kingdom and glory. (1 Thess. 2:11-12, KJV)
 
-### (6) 1 Thess. 2:13, - the importance of accepting the Scriptures as the Word of God, the importance of understanding the action of the Word of God in man. (Salvation, understanding, sanctification, and changing a person's life)
+### (6) 1 Thess. 2:13, - the importance of accepting the Scriptures as the Word of God, the importance of understanding the work of the Word of God in man. (Salvation, understanding, sanctification, and changing a person's life)
 > For this cause also thank we God without ceasing, because, when ye received the word of God which ye heard of us, ye received it not as the word of men, but as it is in truth, the word of God, which effectually worketh also in you that believe. (1 Thess. 2:13, KJV)
 
 ### (7) 1 Thess. 2:14-16, - the importance of fulfilling the destiny of the people of God (Jews and Thessalonians) in all circumstances (persecution by Jews and Greeks of the Gentiles)
@@ -65,13 +65,13 @@
 ### (8) 1 Thess. 2:17, - the importance of personal communication of the people of God, the importance of serving God together, fulfilling the purpose (knowledge and transmission of the Word of God, the Covenant, Christ)
 > But we, brethren, being taken from you for a short time in presence, not in heart, endeavoured the more abundantly to see your face with great desire. (1 Thess. 2:17, KJV)
 
-### (9) 1 Thess. 2:18, - the importance of understanding God's sovereignty and control, God's schedule of time, understanding Satan's actions
+### (9) 1 Thess. 2:18, - the importance of understanding God's sovereignty and control, God's timetable, understanding Satan's actions
 > Wherefore we would have come unto you, even I Paul, once and again; but Satan hindered us. (1 Thess. 2:18, KJV)
 
 ### (10) 1 Thess. 2:19-20, - the importance of God's people, the saved people, the glory and joy of Christ's disciples at His coming
 > For what is our hope, or joy, or crown of rejoicing? Are not even ye in the presence of our Lord Jesus Christ at his coming? For ye are our glory and joy. (1 Thess. 2:19-20, KJV)
 
-## 3) 1 Thess. 3, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 3) 1 Thess. 3, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
 ### (1) 1 Thess. 3:1-5, - the importance of living in the faith of God in all circumstances, the importance of mutual affirmation and support of God's people in fulfilling their destiny. (Paul's Experience, Timothy's Epistle to Thessalonica)
 > Wherefore when we could no longer forbear, we thought it good to be left at Athens alone; And sent Timotheus, our brother, and minister of God, and our fellowlabourer in the gospel of Christ, to establish you, and to comfort you concerning your faith: That no man should be moved by these afflictions: for yourselves know that we are appointed thereunto. For verily, when we were with you, we told you before that we should suffer tribulation; even as it came to pass, and ye know. For this cause, when I could no longer forbear, I sent to know your faith, lest by some means the tempter have tempted you, and our labour be in vain. (1 Thess. 3:1-5, KJV)

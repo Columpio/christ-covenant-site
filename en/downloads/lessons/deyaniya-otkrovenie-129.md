@@ -31,11 +31,11 @@
 #### (a) The sacrifice of Christ (Christmas and Easter) is the solution to the problem of all the sins of mankind (past, present and future), the atonement and legitimate liberation of man from the power of sin, death and hell, Satan Rom. 8:2. (Emmanuel is the return of man to his original form)
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
 
-#### (b) Making disciples - the importance of knowing and transmitting the Word of God, the Covenant, Christ, disciples, World Evangelism, salvation of mankind
+#### (b) Preparing Disciples – the importance of learning and transmitting the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, and the salvation of mankind
 
 #### (c) To show God to mankind
 
-### (2) The importance of accepting Jesus of Nazareth as the Messiah, Christ (God in the flesh) and accepting the Uniqueness and All-sufficiency of His Sacrifice for the salvation of man (all sins and their consequences)
+### (2) The importance of accepting Jesus of Nazareth as the Messiah, Christ (God in the flesh) and accepting the Uniqueness and All-sufficiency of His Sacrifice for human salvation (all sins and their consequences)
 
 #### (a) John 10:33 (Matt. 22:41-46), Rom. 9:30-33, - John 8:44 (Pharisees)
 > The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. (John 10:33, KJV)
@@ -54,7 +54,7 @@
 
 #### (a) The importance of understanding the Resurrection of Christ – God in the Flesh
 
-#### (b) The importance of understanding the Ascension of Christ and His ministry – man is the only High Priest, Mediator, and Intercessor
+#### (b) The importance of understanding the Ascension of Christ and His ministry – man's only High Priest, Mediator, and Intercessor
 
 ### (2) The importance of understanding the birth of the Church of Christ
 - Temple – a building for worship
@@ -82,23 +82,23 @@
 
 ### (3) The Church is the people of God V.Z. and N.Z.
 
-#### (a) The Antediluvian world, the people of God (the true Israel) – acceptance of the Word of God, the Covenant, Christ, every man born again
+#### (a) The Antediluvian world, the people of God (the true Israel) – acceptance of the Word of God, the Covenant, Christ, every born-again person
 
-#### (b) V.Z., the people of God (true Israel) – acceptance of the Word of God, the Covenant, Christ, every born-again person. (False Israel – non-acceptance of the Word of God, the Covenant, Christ, Jews born according to the flesh, the works of the law, non-acceptance of Jesus as Christ)
+#### (b) V.Z., the people of God (true Israel) – acceptance of the Word of God, the Covenant, Christ, every born-again person. (False Israel – rejection of the Word of God, the Covenant, Christ, Jews born in the flesh, the works of the law, rejection of Jesus as Christ)
 
-#### (c) N.Z., the Church of Christ (true Israel) – acceptance of the Word of God, the Covenant, Christ, every born-again person, Jews and Gentiles. (False Israel – non-acceptance of the Word of God, the Covenant, Christ, Jews born according to the flesh, the works of the law, non-acceptance of Jesus as Christ)
+#### (c) N.Z., the Church of Christ (true Israel) – acceptance of the Word of God, the Covenant, Christ, every born-again person, Jews and Gentiles. (False Israel – non-acceptance of the Word of God, the Covenant, Christ, Jews born in the flesh, the works of the law, non-acceptance of Jesus as Christ)
 
 ### (4) Understanding the Purpose of the Church and Worldwide Evangelization
 
-#### (a) Knowledge, transmission of the Word of God, the Covenant, Christ, All. Ev, disciples, the coming of Christ (The special importance of preserving the purity of Christ's teaching)
+#### (a) Knowledge, transmission of the Word of God, the Covenant, Christ, All Eves, disciples, the coming of Christ (The special importance of preserving the purity of Christ's teaching)
 
-#### (b) The beginning of World Evangelization – me and my place of residence (Abraham, Paul)
+#### (b) The beginning of Worldwide Evangelization – me and my place of residence (Abraham, Paul)
 
-#### (c) Continued Worldwide Evangelization – the whole world (Abraham, Paul)
+#### (c) The continuation of Worldwide Evangelization – the whole world (Abraham, Paul)
 
-#### (d) Completion of World Evangelization – The Disciples (Abraham, Paul)
+#### (d) The Completion of World Evangelization – the Disciples (Abraham, Paul)
 
-### (5) God's Method of Doing World Evangelization
+### (5) God's Method of Worldwide Evangelization
 
 #### (a) Go to the scene (believers). Matt. 28:19-20,Acts 1:8
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
@@ -115,13 +115,13 @@
 
 #### (d) Go to new places of action
 
-### (6) Human participation in World Evangelization
+### (6) Human participation in Worldwide Evangelization
 
 #### (a) Personal Evangelism – non-believers, the importance of communication
 
 #### (b) Church Evangelization – believers, the importance of communication
 
-#### (c) Human participation in World Evangelization (local Church) – prayer, finance and preaching
+#### (c) Human participation in Worldwide Evangelization (local Church) – prayer, finance, and preaching
 
 ## 4) The importance of understanding N.Z.'s messages
 
@@ -144,9 +144,9 @@
 #### (b) The importance of knowing the Word of God, the Covenant, and Christ – the systematic and consistent study of the Bible from the perspective of the Covenant and Christ. (The importance of identifying Christ throughout Scripture). John 5:39
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 
-#### (c) The importance of transmitting the Word of God, the Covenant, Christ, the Disciples, World Evangelization, preparation for the 2nd coming of Jesus Christ
+#### (c) The importance of transmitting the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization, and the preparation of the 2nd coming of Jesus Christ
 
-#### (d) The importance of maintaining the purity of the Word of God, the Covenant, Christ - the work of Satan, the problem of false teachings (mixed gospel, partial salvation)
+#### (d) The importance of preserving the purity of the Word of God, the Covenant, Christ – the work of Satan, the problem of false teachings (mixed gospel, partial salvation)
 
 #### (e) The importance of communion with God – prayer, the importance of affirming God's will in the lives of God's people and humanity
 
@@ -159,7 +159,7 @@
 > For in many things we offend all. If any man offend not in word, the same is a perfect man, and able also to bridle the whole body. (Jas. 3:2, KJV)
 > For whosoever shall keep the whole law, and yet offend in one point, he is guilty of all. (Jas. 2:10, KJV)
 
-#### (b) The importance of knowing and transmitting the Word of God, the Covenant, Christ (predestined) – God's method for changing and living the right life of God's people (Changing the worldview, ideology and value system) John 8:31-32,1 Tim. 4:16
+#### (b) The importance of knowing and transmitting the Word of God, the Covenant, and Christ (intended) – God's method for changing and living the right life of God's people (Changing the worldview, ideology, and value system) John 8:31-32,1 Tim. 4:16
 > Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; And ye shall know the truth, and the truth shall make you free. (John 8:31-32, KJV)
 > Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee. (1 Tim. 4:16, KJV)
 
@@ -170,9 +170,9 @@
 
 #### (b) The influence of the world – idols, image and meaning of life. Ps. 73. (Emphasis on the visible – family, finances, worries, etc.)
 
-#### (c) The influence of Satan and demons is idols, another word. (The proclamation of false teachings, the temptation and seduction of God's people)
+#### (c) The influence of Satan and demons is idols, another word. (Proclaiming false teachings, tempting and deceiving God's people)
 
-#### (d) The temptations of God's people – God's acceptance, understanding of the human right to choose, the importance of preserving the Word of God, the Covenant, Christ until the separation of soul and body 2 Tim. 4:6-8, - Heb. 3:12-19 (14), 1 Cor. 15:1-2,Rom. 11:16-23, Gal. 1:8-9; 5:4,2 Pet. 3:17,Col. 1:21-23, - 1 John 5:21
+#### (d) The temptations of God's people – God's acceptance, understanding of the human right to choose, the importance of preserving the Word of God, the Covenant, and Christ until the separation of soul and body 2 Tim. 4:6-8, - Heb. 3:12-19 (14), 1 Cor. 15:1-2,Rom. 11:16-23, Gal. 1:8-9; 5:4,2 Pet. 3:17,Col. 1:21-23, - 1 John 5:21
 > For I am now ready to be offered, and the time of my departure is at hand. I have fought a good fight, I have finished my course, I have kept the faith: Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing. (2 Tim. 4:6-8, KJV)
 > Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God. But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin. For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end; While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation. For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses. But with whom was he grieved forty years? was it not with them that had sinned, whose carcases fell in the wilderness? And to whom sware he that they should not enter into his rest, but to them that believed not? So we see that they could not enter in because of unbelief. (Heb. 3:12-19, KJV)
 > Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand; By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain. (1 Cor. 15:1-2, KJV)
@@ -187,9 +187,9 @@
 
 #### (a) Resisting God and His Word – false teachings
 
-#### (b) The importance of understanding Satan's actions against God's people – rejection of destiny (idols, visible – step 1), rejection of Christ and His Sacrifice (idols, false teachings – step 2)
+#### (b) The importance of understanding Satan's actions on God's people – rejection of destiny (idols, visible – step 1), rejection of Christ and His Sacrifice (idols, false teachings – step 2)
 
-#### (c) The importance of understanding Satan's actions on unsaved people – holding back the Word of God, the Covenant, Christ (idols, false teachings)
+#### (c) The importance of understanding Satan's actions on unsaved people – holding back from accepting the Word of God, the Covenant, and Christ (idols, false teachings)
 
 ## 6) The importance of understanding the future
 
@@ -197,7 +197,7 @@
 
 #### (a) Where is the choice regarding eternity? And with Whom?
 
-#### (b) Service and glorification of God, knowledge and transmission of the Word of God, the Covenant, Christ
+#### (b) The service and glorification of God, the knowledge and transmission of the Word of God, the Covenant, and Christ
 
 ### (2) The importance of understanding the purpose of physical death
 
@@ -217,13 +217,13 @@
 
 ### (4) The importance of understanding the Second Coming of Christ, the Resurrection of the dead, and the 1000th Kingdom of Christ on earth
 
-#### (a) The second coming of Christ and the resurrection of the dead are the fulfillment of God's Word, the completion of the salvation of God's people. (Restoration of the entire human trimeria – spirit, soul and body)
+#### (a) The second coming of Christ and the resurrection of the dead is the fulfillment of God's Word, the completion of the salvation of God's people. (Restoration of the entire human trimeria – spirit, soul and body)
 
 #### (b) The Millennial kingdom of Christ is the fulfillment of God's Word, God's justice, the importance of serving God, and the enjoyment of God's creation (God's plan for humanity)
 
 ### (5) The importance of understanding God's Judgment
 
-#### (a) The end of the 1000th kingdom, the rebellion against God, the action of Satan, the destruction of the earth and the universe
+#### (a) The end of the 1000th kingdom, rebellion against God, the action of Satan, the destruction of the earth and the universe
 
 #### (b) The importance of the Last Judgment is the fulfillment of God's Word, God's confirmation of man's choice in earthly life (sin to death), God's retribution for all the sins of all unsaved people
 
@@ -235,7 +235,7 @@
 
 #### (a) A new Earth and a New Heaven, a Heavenly Jerusalem – the continuation of eternal life together with God, the continuation of the fulfillment of the destiny of God's people
 
-#### (b) Continuation of God's Creation - the importance of understanding the non-name of God as Creator
+#### (b) The Continuation of God's Creation – the importance of understanding the immutability of God as Creator
 
 #### (c) Understanding the beautiful future – "the eye has not seen, the ear has not heard, and the heart of man has not entered into what God has prepared for those who love Him." 1 Cor. 2:9
 > But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him. (1 Cor. 2:9, KJV)

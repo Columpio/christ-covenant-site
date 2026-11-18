@@ -1,6 +1,6 @@
 # 55. Gen. 39-41, - Joseph's Trials and Faith
 
-## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenants, Christ, the disciples, World Evangelization (Canaan), the coming of Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21. (Adam – Seth – Noah – Abraham – Isaac – Jacob – the 12 Tribes of Israel)
+## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, the disciples, World Evangelization (Canaan), the coming of Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21. (Adam – Seth – Noah – Abraham – Isaac – Jacob – the 12 Tribes of Israel)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:17, KJV)
@@ -18,7 +18,7 @@
 
 #### (a) The importance of trusting God, understanding God's sovereignty
 
-#### (b) God's plan for Joseph's Elevation, preparation for Worldwide Evangelization
+#### (b) God's plan for Joseph's elevation, preparation for Worldwide Evangelization
 
 #### (c) Potiphar is the understanding of Emmanuel, the faith of Joseph. Gen. 39:2-3
 > And the LORD was with Joseph, and he was a prosperous man; and he was in the house of his master the Egyptian. And his master saw that the LORD was with him, and that the LORD made all that he did to prosper in his hand. (Gen. 39:2-3, KJV)
@@ -26,7 +26,7 @@
 ### (2) Gen. 39:7-12, - Potiphar's wife, the temptation of Joseph
 > And it came to pass after these things, that his master’s wife cast her eyes upon Joseph; and she said, Lie with me. But he refused, and said unto his master’s wife, Behold, my master wotteth not what is with me in the house, and he hath committed all that he hath to my hand; There is none greater in this house than I; neither hath he kept back any thing from me but thee, because thou art his wife: how then can I do this great wickedness, and sin against God? And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, or to be with her. And it came to pass about this time, that Joseph went into the house to do his business; and there was none of the men of the house there within. And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out. (Gen. 39:7-12, KJV)
 
-#### (a) The action of Satan, stop the transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization
+#### (a) The action of Satan to stop the transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization
 
 #### (b) Understanding of good and evil, God's commandments written in Joseph's heart Gen. 39:9,Rom. 2:15
 > There is none greater in this house than I; neither hath he kept back any thing from me but thee, because thou art his wife: how then can I do this great wickedness, and sin against God? (Gen. 39:9, KJV)
@@ -37,7 +37,7 @@
 
 #### (a) The importance of trusting God, understanding God's sovereignty
 
-#### (b) Prison – God's plan for Joseph's elevation, preparation for Worldwide Evangelization
+#### (b) Prison is God's plan for Joseph's elevation, preparation for Worldwide Evangelization
 
 #### (c) The prison governor is the understanding of Emmanuel, the faith of Joseph
 
@@ -46,20 +46,20 @@
 ### (1) Gen. 40:1-4, - the conclusion of the cupbearer and baker, God's sovereignty and control of every person's life
 > And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt. And Pharaoh was wroth against two of his officers, against the chief of the butlers, and against the chief of the bakers. And he put them in ward in the house of the captain of the guard, into the prison, the place where Joseph was bound. And the captain of the guard charged Joseph with them, and he served them: and they continued a season in ward. (Gen. 40:1-4, KJV)
 
-### (2) Gen. 40:5-23, - The God of sovereignty, the dreams of the cupbearer and the baker
+### (2) Gen. 40:5-23, - God's sovereignty, the dreams of the cupbearer and the baker
 > And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which were bound in the prison. And Joseph came in unto them in the morning, and looked upon them, and, behold, they were sad. And he asked Pharaoh’s officers that were with him in the ward of his lord’s house, saying, Wherefore look ye so sadly to day? And they said unto him, We have dreamed a dream, and there is no interpreter of it. And Joseph said unto them, Do not interpretations belong to God? tell me them, I pray you. And the chief butler told his dream to Joseph, and said to him, In my dream, behold, a vine was before me; And in the vine were three branches: and it was as though it budded, and her blossoms shot forth; and the clusters thereof brought forth ripe grapes: And Pharaoh’s cup was in my hand: and I took the grapes, and pressed them into Pharaoh’s cup, and I gave the cup into Pharaoh’s hand. And Joseph said unto him, This is the interpretation of it: The three branches are three days: Yet within three days shall Pharaoh lift up thine head, and restore thee unto thy place: and thou shalt deliver Pharaoh’s cup into his hand, after the former manner when thou wast his butler. But think on me when it shall be well with thee, and shew kindness, I pray thee, unto me, and make mention of me unto Pharaoh, and bring me out of this house: For indeed I was stolen away out of the land of the Hebrews: and here also have I done nothing that they should put me into the dungeon. When the chief baker saw that the interpretation was good, he said unto Joseph, I also was in my dream, and, behold, I had three white baskets on my head: And in the uppermost basket there was of all manner of bakemeats for Pharaoh; and the birds did eat them out of the basket upon my head. And Joseph answered and said, This is the interpretation thereof: The three baskets are three days: Yet within three days shall Pharaoh lift up thy head from off thee, and shall hang thee on a tree; and the birds shall eat thy flesh from off thee. And it came to pass the third day, which was Pharaoh’s birthday, that he made a feast unto all his servants: and he lifted up the head of the chief butler and of the chief baker among his servants. And he restored the chief butler unto his butlership again; and he gave the cup into Pharaoh’s hand: But he hanged the chief baker: as Joseph had interpreted to them. Yet did not the chief butler remember Joseph, but forgat him. (Gen. 40:5-23, KJV)
 
 #### (a) Joseph's meeting with the cupbearer and the baker is God's plan
 
-#### (b) The interpretation of Joseph – the possibility of accepting the Word of God, the Covenant, Christ
+#### (b) The interpretation of Joseph is the possibility of accepting the Word of God, the Covenant, and Christ
 
 #### (c) Joseph's request for a boon – the circumstances of his life
 
 #### (d) The cupbearer's forgetfulness – God's plan and control
 
-## 4) Gen. 41, - transmission of the Word of God, the Covenant, Christ, the accomplishment of World Evangelization
+## 4) Gen. 41, - transmission of the Word of God, the Covenant, Christ, the accomplishment of Worldwide Evangelization
 
-### (1) Gen. 41:1-8, - Dreams of Pharaoh, preparation for the accomplishment of World Evangelization
+### (1) Gen. 41:1-8, - dreams of Pharaoh, preparation for Worldwide Evangelization
 > And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river. And, behold, there came up out of the river seven well favoured kine and fatfleshed; and they fed in a meadow. And, behold, seven other kine came up after them out of the river, ill favoured and leanfleshed; and stood by the other kine upon the brink of the river. And the ill favoured and leanfleshed kine did eat up the seven well favoured and fat kine. So Pharaoh awoke. And he slept and dreamed the second time: and, behold, seven ears of corn came up upon one stalk, rank and good. And, behold, seven thin ears and blasted with the east wind sprung up after them. And the seven thin ears devoured the seven rank and full ears. And Pharaoh awoke, and, behold, it was a dream. And it came to pass in the morning that his spirit was troubled; and he sent and called for all the magicians of Egypt, and all the wise men thereof: and Pharaoh told them his dream; but there was none that could interpret them unto Pharaoh. (Gen. 41:1-8, KJV)
 
 ### (2) Gen. 41:9-13, - the testimony of the cupbearer, God's plan
@@ -83,17 +83,17 @@
 
 #### (b) Joseph's Wife – transmission of the Word of God, the Covenant, Christ, religion. society
 
-### (7) Gen. 41:47-49, - fulfillment of the Word of God, preparation for Worldwide Evangelization, God's plan
+### (7) Gen. 41:47-49, - fulfillment of the Word of God, preparation of Worldwide Evangelization, God's plan
 > And in the seven plenteous years the earth brought forth by handfuls. And he gathered up all the food of the seven years, which were in the land of Egypt, and laid up the food in the cities: the food of the field, which was round about every city, laid he up in the same. And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for it was without number. (Gen. 41:47-49, KJV)
 
-### (8) Gen. 41:50-52, - children of Joseph, God's plan, the fullness of God's people
+### (8) Gen. 41:50-52, - Joseph's children, God's plan, the fullness of God's people
 > And unto Joseph were born two sons before the years of famine came, which Asenath the daughter of Poti-pherah priest of On bare unto him. And Joseph called the name of the firstborn Manasseh: For God, said he, hath made me forget all my toil, and all my father’s house. And the name of the second called he Ephraim: For God hath caused me to be fruitful in the land of my affliction. (Gen. 41:50-52, KJV)
 
 #### (a) Manasseh, Ephraim - 12 (13) tribes of Israel, God's plan, World Evangelization
 
 #### (b) The Tribe of Levi: priests, the prototype of Christ – Christ, the 12 apostles
 
-### (9) Gen. 41:53-57, - seven years of world famine, sale of bread by Joseph (the best people from all countries), God's plan, accomplishment of World Evangelization
+### (9) Gen. 41:53-57, - seven years of worldwide famine, the sale of bread by Joseph (the best people from all countries), God's plan, the accomplishment of Worldwide Evangelization
 > And the seven years of plenteousness, that was in the land of Egypt, were ended. And the seven years of dearth began to come, according as Joseph had said: and the dearth was in all lands; but in all the land of Egypt there was bread. And when all the land of Egypt was famished, the people cried to Pharaoh for bread: and Pharaoh said unto all the Egyptians, Go unto Joseph; what he saith to you, do. And the famine was over all the face of the earth: and Joseph opened all the storehouses, and sold unto the Egyptians; and the famine waxed sore in the land of Egypt. And all countries came into Egypt to Joseph for to buy corn; because that the famine was so sore in all lands. (Gen. 41:53-57, KJV)
 
 ## Result:
@@ -105,13 +105,13 @@
 
 #### (a) Joseph's tested faith – the preservation and transmission of the Covenant, Ch.
 
-#### (b) The impossibility of sacrifice – understanding the essence of the Word of God, Covenant, Christ (An action without understanding the Word of God, Covenant, Christ is an empty rite)
+#### (b) The impossibility of sacrifice – understanding the essence of the Word of God, the Covenant, Christ (An action without understanding the Word of God, the Covenant, Christ is an empty rite)
 
-#### (c) The fulfillment of the destiny of the people of God – Emmanuel, the knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the coming of Christ
+#### (c) The fulfillment of the destiny of the people of God – Emmanuel, the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ
 
 ### (2) The Importance of understanding God's Plan of Salvation
 
-#### (a) The People of God – the fulfillment of the Word of God, the Covenant, Christ, the coming of Christ Gen. 45:5
+#### (a) The People of God – the fulfillment of the Word of God, the Covenant, of Christ, the coming of Christ Gen. 45:5
 > Now therefore be not grieved, nor angry with yourselves, that ye sold me hither: for God did send me before you to preserve life. (Gen. 45:5, KJV)
 
 #### (b) The peoples of the earth – bread, life, salvation (World Evangelization) Gen. 50:20
@@ -123,12 +123,12 @@
 
 #### (b) Undeservedly suffered to save many people
 
-#### (c) Christ proclaimed the Word of God, the Covenant, throughout the whole earth
+#### (c) He proclaimed the Word of God, the Covenant, and Christ throughout the whole earth
 
 #### (d) The 12 (13) tribes of Israel, the fullness of God's people, Worldwide Evangelization, the coming of Christ (The Tribe of Levi – priests, the prototype of Christ, God's indication of the future – Jesus Christ and the 12 apostles, God's plan)
 
 ## Conclusion:
 
-### (1) The importance of understanding God's Sovereignty and Control – God's Plan
+### (1) The Importance of Understanding God's Sovereignty and Control – God's Plan
 
 ### (2) The importance of understanding and fulfilling purpose

@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -246,7 +248,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>What, then, is the advantage of being a Jew? Or what is the value of circumcision? Much in every way. First of all, they have been entrusted with the very words of God.</p><cite>Rom. 3:1-2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Then what advantage does the Jew have? Or what is the profit of circumcision? Much in every way! Because first of all, they were entrusted with the revelations of God.</p><cite>Rom. 3:1-2 · WEB</cite></blockquote>
 <h4>(a) The people of God – acceptance of the Word of God, the Covenant, Christ, believers in Christ</h4>
-<h4>(b) The advantage of God's people is understanding and transmitting the Word of God Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9</h4>
+<h4>(b) The advantage of the people of God is the understanding and transmission of the Word of God Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9</h4>
 <blockquote data-v="kjv"><p>So God created man in his own image, in the image of God created he him; male and female created he them.</p><cite>Gen. 1:27 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So God created man in His own image; in the image of God He created him; male and female He created them.</p><cite>Gen. 1:27 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>God created man in his own image. In God’s image he created him; male and female he created them.</p><cite>Gen. 1:27 · WEB</cite></blockquote>
@@ -286,14 +288,14 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.</p><cite>Rom. 10:9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>that if you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised Him from the dead, you will be saved.</p><cite>Rom. 10:9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>that if you will confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.</p><cite>Rom. 10:9 · WEB</cite></blockquote>
-<h4>(c) The rejection of the Word of God, the Covenant, Christ is the false people of God. Gal. 3:7, 29</h4>
+<h4>(c) The rejection of the Word of God, the Covenant, and Christ – the false people of God. Gal. 3:7, 29</h4>
 <blockquote data-v="kjv"><p>Know ye therefore that they which are of faith, the same are the children of Abraham.</p><cite>Gal. 3:7 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Understand, then, that those who have faith are sons of Abraham.</p><cite>Gal. 3:7 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Know therefore that those who are of faith are children of Abraham.</p><cite>Gal. 3:7 · WEB</cite></blockquote>
 <blockquote data-v="kjv"><p>And if ye be Christ’s, then are ye Abraham’s seed, and heirs according to the promise.</p><cite>Gal. 3:29 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And if you belong to Christ, then you are Abraham’s seed and heirs according to the promise.</p><cite>Gal. 3:29 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>If you are Christ’s, then you are Abraham’s offspring and heirs according to promise.</p><cite>Gal. 3:29 · WEB</cite></blockquote>
-<h3>(2) Rom. 3:3-8, - non-acceptance of the Word of God, the Covenant, Christ, destiny. (Jews)</h3>
+<h3>(2) Rom. 3:3-8, - rejection of the Word of God, the Covenant, Christ, destiny. (Jews)</h3>
 <blockquote data-v="kjv"><p>For what if some did not believe? shall their unbelief make the faith of God without effect? God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged. But if our unrighteousness commend the righteousness of God, what shall we say? Is God unrighteous who taketh vengeance? (I speak as a man) God forbid: for then how shall God judge the world? For if the truth of God hath more abounded through my lie unto his glory; why yet am I also judged as a sinner? And not rather, (as we be slanderously reported, and as some affirm that we say,) Let us do evil, that good may come? whose damnation is just.</p><cite>Rom. 3:3-8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>What if some did not have faith? Will their lack of faith nullify God’s faithfulness? Certainly not! Let God be true and every man a liar. As it is written: “So that You may be proved right when You speak and victorious when You judge.” But if our unrighteousness highlights the righteousness of God, what shall we say? That God is unjust to inflict His wrath on us? I am speaking in human terms. Certainly not! In that case, how could God judge the world? However, if my falsehood accentuates God’s truthfulness, to the increase of His glory, why am I still condemned as a sinner? Why not say, as some slanderously claim that we say, “Let us do evil that good may result”? Their condemnation is deserved!</p><cite>Rom. 3:3-8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For what if some were without faith? Will their lack of faith nullify the faithfulness of God? May it never be! Yes, let God be found true, but every man a liar. As it is written, “that you might be justified in your words, and might prevail when you come into judgment.” But if our unrighteousness commends the righteousness of God, what will we say? Is God unrighteous who inflicts wrath? I speak like men do. May it never be! For then how will God judge the world? For if the truth of God through my lie abounded to his glory, why am I also still judged as a sinner? Why not (as we are slanderously reported, and as some affirm that we say), “Let’s do evil, that good may come?” Those who say so are justly condemned.</p><cite>Rom. 3:3-8 · WEB</cite></blockquote>
@@ -305,7 +307,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For what if some did not believe? shall their unbelief make the faith of God without effect? God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged.</p><cite>Rom. 3:3-4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>What if some did not have faith? Will their lack of faith nullify God’s faithfulness? Certainly not! Let God be true and every man a liar. As it is written: “So that You may be proved right when You speak and victorious when You judge.”</p><cite>Rom. 3:3-4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For what if some were without faith? Will their lack of faith nullify the faithfulness of God? May it never be! Yes, let God be found true, but every man a liar. As it is written, “that you might be justified in your words, and might prevail when you come into judgment.”</p><cite>Rom. 3:3-4 · WEB</cite></blockquote>
-<h4>(c) Rom. 3:5-7, - understanding the judgment of God, the importance of accepting and fulfilling the Word of God, the Covenant, Christ (the right to choose a person)</h4>
+<h4>(c) Rom. 3:5-7, - understanding the judgment of God, the importance of accepting and fulfilling the Word of God, the Covenant, and Christ (the right to choose a person)</h4>
 <blockquote data-v="kjv"><p>But if our unrighteousness commend the righteousness of God, what shall we say? Is God unrighteous who taketh vengeance? (I speak as a man) God forbid: for then how shall God judge the world? For if the truth of God hath more abounded through my lie unto his glory; why yet am I also judged as a sinner?</p><cite>Rom. 3:5-7 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But if our unrighteousness highlights the righteousness of God, what shall we say? That God is unjust to inflict His wrath on us? I am speaking in human terms. Certainly not! In that case, how could God judge the world? However, if my falsehood accentuates God’s truthfulness, to the increase of His glory, why am I still condemned as a sinner?</p><cite>Rom. 3:5-7 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But if our unrighteousness commends the righteousness of God, what will we say? Is God unrighteous who inflicts wrath? I speak like men do. May it never be! For then how will God judge the world? For if the truth of God through my lie abounded to his glory, why am I also still judged as a sinner?</p><cite>Rom. 3:5-7 · WEB</cite></blockquote>
@@ -365,7 +367,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Being justified freely by his grace through the redemption that is in Christ Jesus: Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God; To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus. Where is boasting then? It is excluded. By what law? of works? Nay: but by the law of faith. Therefore we conclude that a man is justified by faith without the deeds of the law. Is he the God of the Jews only? is he not also of the Gentiles? Yes, of the Gentiles also: Seeing it is one God, which shall justify the circumcision by faith, and uncircumcision through faith.</p><cite>Rom. 3:24-30 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>and are justified freely by His grace through the redemption that is in Christ Jesus. God presented Him as an atoning sacrifice in His blood through faith, in order to demonstrate His righteousness, because in His forbearance He had passed over the sins committed beforehand. He did this to demonstrate His righteousness at the present time, so as to be just and to justify the one who has faith in Jesus. Where, then, is boasting? It is excluded. On what principle? On that of works? No, but on that of faith. For we maintain that a man is justified by faith apart from works of the law. Is God the God of Jews only? Is He not the God of Gentiles too? Yes, of Gentiles too, since there is only one God, who will justify the circumcised by faith and the uncircumcised through that same faith.</p><cite>Rom. 3:24-30 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>being justified freely by his grace through the redemption that is in Christ Jesus, whom God sent to be an atoning sacrifice through faith in his blood, for a demonstration of his righteousness through the passing over of prior sins, in God’s forbearance; to demonstrate his righteousness at this present time, that he might himself be just and the justifier of him who has faith in Jesus. Where then is the boasting? It is excluded. By what kind of law? Of works? No, but by a law of faith. We maintain therefore that a man is justified by faith apart from the works of the law. Or is God the God of Jews only? Isn’t he the God of Gentiles also? Yes, of Gentiles also, since indeed there is one God who will justify the circumcised by faith and the uncircumcised through faith.</p><cite>Rom. 3:24-30 · WEB</cite></blockquote>
-<h4>(a) Rom. 3:24, - redemption, justification, and forgiveness of man are possible only through the Sacrifice and Blood of Christ (judgment is the Word of God)</h4>
+<h4>(a) Rom. 3:24, - redemption, justification and forgiveness of man is possible only through the Sacrifice and Blood of Christ (sentence of the Word of God)</h4>
 <blockquote data-v="kjv"><p>Being justified freely by his grace through the redemption that is in Christ Jesus:</p><cite>Rom. 3:24 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>and are justified freely by His grace through the redemption that is in Christ Jesus.</p><cite>Rom. 3:24 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>being justified freely by his grace through the redemption that is in Christ Jesus,</p><cite>Rom. 3:24 · WEB</cite></blockquote>
@@ -373,7 +375,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God;</p><cite>Rom. 3:25 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>God presented Him as an atoning sacrifice in His blood through faith, in order to demonstrate His righteousness, because in His forbearance He had passed over the sins committed beforehand.</p><cite>Rom. 3:25 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>whom God sent to be an atoning sacrifice through faith in his blood, for a demonstration of his righteousness through the passing over of prior sins, in God’s forbearance;</p><cite>Rom. 3:25 · WEB</cite></blockquote>
-<h4>(c) Rom. 3:26, - the importance of the coming of Christ (the longsuffering of God), the importance of accepting the Word of God, the Covenant, Christ for every human being. (The testimony of God's truth at this time, Emmanuel, the justification of every believer through the Sacrifice of Christ)</h4>
+<h4>(c) Rom. 3:26, - the importance of the coming of Christ (the longsuffering of God), the importance of accepting the Word of God, the Covenant, and Christ for every human being. (The testimony of God's truth at this time, Emmanuel, the justification of every believer through the Sacrifice of Christ)</h4>
 <blockquote data-v="kjv"><p>To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus.</p><cite>Rom. 3:26 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>He did this to demonstrate His righteousness at the present time, so as to be just and to justify the one who has faith in Jesus.</p><cite>Rom. 3:26 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>to demonstrate his righteousness at this present time, that he might himself be just and the justifier of him who has faith in Jesus.</p><cite>Rom. 3:26 · WEB</cite></blockquote>
@@ -381,7 +383,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Where is boasting then? It is excluded. By what law? of works? Nay: but by the law of faith.</p><cite>Rom. 3:27 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Where, then, is boasting? It is excluded. On what principle? On that of works? No, but on that of faith.</p><cite>Rom. 3:27 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Where then is the boasting? It is excluded. By what kind of law? Of works? No, but by a law of faith.</p><cite>Rom. 3:27 · WEB</cite></blockquote>
-<h4>(e) Rom. 3:28, - the importance of correctly understanding and fulfilling the Word of God, the Covenant, Christ (the Sacrifice of Christ), the faith of God, understanding the only way to justify man. Gal. 2:16, 21</h4>
+<h4>(e) Rom. 3:28, - the importance of correct understanding and fulfillment of the Word of God, the Covenant, Christ (the Sacrifice of Christ), the faith of God, understanding the only way to justify a person. Gal. 2:16, 21</h4>
 <blockquote data-v="kjv"><p>Therefore we conclude that a man is justified by faith without the deeds of the law.</p><cite>Rom. 3:28 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For we maintain that a man is justified by faith apart from works of the law.</p><cite>Rom. 3:28 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>We maintain therefore that a man is justified by faith apart from the works of the law.</p><cite>Rom. 3:28 · WEB</cite></blockquote>
@@ -406,7 +408,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>Now we know that the law is good, if one uses it legitimately.</p><cite>1 Tim. 1:8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But we know that the law is good if a person uses it lawfully,</p><cite>1 Tim. 1:8 · WEB</cite></blockquote>
 <h4>(a) The Law – to realize the problem of sin (legitimate application)</h4>
-<h4>(b) Christ is God, the method of salvation (indication and completion of the Law)</h4>
+<h4>(b) Christ is God's method of salvation (indication and completion of the Law)</h4>
 <h2 id="s3">Conclusion:</h2>
 <h3>(1) The importance of understanding the purpose of God's people</h3>
 <h3>(2) The importance of understanding universal sinfulness</h3>

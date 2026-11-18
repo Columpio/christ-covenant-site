@@ -73,22 +73,22 @@
 ### (4) Rev. 6:7-8, - the 4th seal, the death of many people, the 4th part of the earth
 > And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see. And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth. (Rev. 6:7-8, KJV)
 
-### (5) Rev. 6:9-11, - The 5th seal, the strongest persecution of Ts., God control
+### (5) Rev. 6:9-11, - The 5th seal, the strongest persecution of Ts., God's control
 > And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held: And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth? And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they were, should be fulfilled. (Rev. 6:9-11, KJV)
 
 ### (6) Rev. 6:12-14, - the 6th seal, the strongest natures. cataclysms
 > And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood; And the stars of heaven fell unto the earth, even as a fig tree casteth her untimely figs, when she is shaken of a mighty wind. And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places. (Rev. 6:12-14, KJV)
 
-### (7) Rev. 6:15-17, - non-acceptance of the Word of God, the Covenant, Christ, the nations of the world
+### (7) Rev. 6:15-17, - rejection of the Word of God, the Covenant, Christ, the nations of the world
 > And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains; And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb: For the great day of his wrath is come; and who shall be able to stand? (Rev. 6:15-17, KJV)
 
-### (8) Ex. 8:22; 9:26, - the safety of the people of God in the judgments of God, acceptance of the Word of God, the Covenant, Christ, the justice of God (the land of Goshen)
+### (8) Ex. 8:22; 9:26, - the safety of God's people in the judgments of God, acceptance of the Word of God, the Covenant, Christ, the justice of God (the land of Goshen)
 > And I will sever in that day the land of Goshen, in which my people dwell, that no swarms of flies shall be there; to the end thou mayest know that I am the LORD in the midst of the earth. (Ex. 8:22, KJV)
 > Only in the land of Goshen, where the children of Israel were, was there no hail. (Ex. 9:26, KJV)
 
 ## 4) Rev. 7, - understanding the future, fulfilling the Word of God
 
-### (1) Rev. 7:1-8, - the suspension of God's judgments, the salvation of the Jews. (The fulfillment of the Word of God is the salvation of 144 thousand Jews). Rom. 11:25
+### (1) Rev. 7:1-8, - the suspension of God's judgments, the salvation of the Jews. (The fulfillment of God's Word is the salvation of 144,000 Jews). Rom. 11:25
 > And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree. And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, to whom it was given to hurt the earth and the sea, Saying, Hurt not the earth, neither the sea, nor the trees, till we have sealed the servants of our God in their foreheads. And I heard the number of them which were sealed: and there were sealed an hundred and forty and four thousand of all the tribes of the children of Israel. Of the tribe of Juda were sealed twelve thousand. Of the tribe of Reuben were sealed twelve thousand. Of the tribe of Gad were sealed twelve thousand. Of the tribe of Aser were sealed twelve thousand. Of the tribe of Nepthalim were sealed twelve thousand. Of the tribe of Manasses were sealed twelve thousand. Of the tribe of Simeon were sealed twelve thousand. Of the tribe of Levi were sealed twelve thousand. Of the tribe of Issachar were sealed twelve thousand. Of the tribe of Zabulon were sealed twelve thousand. Of the tribe of Joseph were sealed twelve thousand. Of the tribe of Benjamin were sealed twelve thousand. (Rev. 7:1-8, KJV)
 > For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in. (Rom. 11:25, KJV)
 
@@ -117,13 +117,13 @@
 
 ## 6) Rev. 9, - understanding the future, fulfilling the Word of God
 
-### (1) Rev. 9:1-12, - 5th trumpet, action by Satan
+### (1) Rev. 9:1-12, - 5th trumpet, the action of Satan
 > And the fifth angel sounded, and I saw a star fall from heaven unto the earth: and to him was given the key of the bottomless pit. And he opened the bottomless pit; and there arose a smoke out of the pit, as the smoke of a great furnace; and the sun and the air were darkened by reason of the smoke of the pit. And there came out of the smoke locusts upon the earth: and unto them was given power, as the scorpions of the earth have power. And it was commanded them that they should not hurt the grass of the earth, neither any green thing, neither any tree; but only those men which have not the seal of God in their foreheads. And to them it was given that they should not kill them, but that they should be tormented five months: and their torment was as the torment of a scorpion, when he striketh a man. And in those days shall men seek death, and shall not find it; and shall desire to die, and death shall flee from them. And the shapes of the locusts were like unto horses prepared unto battle; and on their heads were as it were crowns like gold, and their faces were as the faces of men. And they had hair as the hair of women, and their teeth were as the teeth of lions. And they had breastplates, as it were breastplates of iron; and the sound of their wings was as the sound of chariots of many horses running to battle. And they had tails like unto scorpions, and there were stings in their tails: and their power was to hurt men five months. And they had a king over them, which is the angel of the bottomless pit, whose name in the Hebrew tongue is Abaddon, but in the Greek tongue hath his name Apollyon. One woe is past; and, behold, there come two woes more hereafter. (Rev. 9:1-12, KJV)
 
 #### (a) Rev. 9:1, - fallen star (c.)
 > And the fifth angel sounded, and I saw a star fall from heaven unto the earth: and to him was given the key of the bottomless pit. (Rev. 9:1, KJV)
 
-#### (b) Rev. 9:2, - the power to open the abyss (the demon's dungeon)
+#### (b) Rev. 9:2, - the power to open the abyss (the prison of demons)
 > And he opened the bottomless pit; and there arose a smoke out of the pit, as the smoke of a great furnace; and the sun and the air were darkened by reason of the smoke of the pit. (Rev. 9:2, KJV)
 
 #### (c) Rev. 9:3-12, - the effect of demons on unsaved people (5 months)
@@ -145,7 +145,7 @@
 
 ### (2) 1-4 trumpet – the continuation of disasters on earth
 
-### (3) 5-6 Trumpet – the action of Satan and the judgment of God
+### (3) 5-6 Trumpet – the work of Satan and the judgment of God
 
 ## 7) Rev. 10, - transmission of the Word of God, the Covenant, Christ, understanding the future
 
@@ -173,12 +173,12 @@
 
 #### (b) The importance of understanding the signs of events (Jews, false temple)
 
-### (4) Rev. 10:8-11, - Understanding God's sovereignty (God's plan)
+### (4) Rev. 10:8-11, - Understanding God's sovereignty (God's Plan)
 > And the voice which I heard from heaven spake unto me again, and said, Go and take the little book which is open in the hand of the angel which standeth upon the sea and upon the earth. And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take it, and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey. And I took the little book out of the angel’s hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter. And he said unto me, Thou must prophesy again before many peoples, and nations, and tongues, and kings. (Rev. 10:8-11, KJV)
 
-#### (a) The importance of eating the Word of God for a person
+#### (a) The importance of eating the Word of God for man
 
-#### (b) Understanding the truth of the Word of God, the Covenant, Christ – sweetness
+#### (b) Understanding the truth of the Word of God, the Covenant, and Christ is sweet
 
 #### (c) Understanding the consequences of not accepting the Word of God is bitterness
 
@@ -205,7 +205,7 @@
 
 #### (a) 1260 days (3.5 years, 1st part of the message weeks) – the time of service
 
-#### (b) The transmission of the Word of God, the Covenant, Christ – service to Israel. Rom. 11:25
+#### (b) Transmitting the Word of God, the Covenant, and Christ – serving Israel. Rom. 11:25
 > For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in. (Rom. 11:25, KJV)
 
 ## 9) Understanding recent events
@@ -228,8 +228,8 @@
 
 ## Conclusion:
 
-### (1) The importance of understanding the Word of God, the Covenant, Christ
+### (1) The importance of understanding the Word of God, the Covenant, and Christ
 
 ### (2) The importance of understanding the past, present and future
 
-### (3) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization
+### (3) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization

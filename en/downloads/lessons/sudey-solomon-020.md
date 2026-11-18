@@ -1,14 +1,14 @@
 # 15. The Psalter
-- The Book of Psalms is an example of understanding the Word of God, the Covenant, Christ
+- The Book of Psalms is an example of understanding the Word of God, the Covenant, and Christ
 
-## 1) Understanding Creation – Action and Sovereignty of God Ps. 33:12-15 (Gen. 1:27; 2:7, 9, 16-17)
+## 1) Understanding Creation – God's Action and Sovereignty Ps. 33:12-15 (Gen. 1:27; 2:7, 9, 16-17)
 > Blessed is the nation whose God is the LORD; and the people whom he hath chosen for his own inheritance. The LORD looketh from heaven; he beholdeth all the sons of men. From the place of his habitation he looketh upon all the inhabitants of the earth. He fashioneth their hearts alike; he considereth all their works. (Ps. 33:12-15, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
 > And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:16-17, KJV)
 
-## 2) Understanding the Fall – original sin, sin. noun person Ps. 51:5; 14:1-3; 49:7 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2)
+## 2) Understanding of the fall – original sin, sin. human Ps. 51:5; 14:1-3; 49:7 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2)
 > Behold, I was shapen in iniquity; and in sin did my mother conceive me. (Ps. 51:5, KJV)
 > To the chief Musician, A Psalm of David. The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good. The LORD looked down from heaven upon the children of men, to see if there were any that did understand, and seek God. They are all gone aside, they are all together become filthy: there is none that doeth good, no, not one. (Ps. 14:1-3, KJV)
 > None of them can by any means redeem his brother, nor give to God a ransom for him: (Ps. 49:7, KJV)
@@ -17,7 +17,7 @@
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
 
-## 3) Understanding Recovery – the importance of Christ for man Gen. 3:15, 21, - Ps. 2:12; 22:14-18; 41:9; 69:9; 16:10; 110:1, 4; 45:6-7; 118:22-23, - Ps. 32:1-2; 103:8-18, 3; 42:11
+## 3) Understanding Restoration – the importance of Christ for man Gen. 3:15, 21, - Ps. 2:12; 22:14-18; 41:9; 69:9; 16:10; 110:1, 4; 45:6-7; 118:22-23, - Ps. 32:1-2; 103:8-18, 3; 42:11
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 > Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him. (Ps. 2:12, KJV)
@@ -34,7 +34,7 @@
 > Who forgiveth all thine iniquities; who healeth all thy diseases; (Ps. 103:3, KJV)
 > Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God. (Ps. 42:11, KJV)
 
-## 4) Understanding the importance of Worship and the Word of God for man, the importance of understanding and fulfilling the destiny of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization Ps. 1, 133, - Ps. 119:11, 67, 89, 105, 113, 162; 143:10, - Ps. 116:10; 119:46
+## 4) Understanding the importance of Worship and the Word of God for man, the importance of understanding and fulfilling the destiny of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization Ps. 1, 133, - Ps. 119:11, 67, 89, 105, 113, 162; 143:10, - Ps. 116:10; 119:46
 > Thy word have I hid in mine heart, that I might not sin against thee. (Ps. 119:11, KJV)
 > Before I was afflicted I went astray: but now have I kept thy word. (Ps. 119:67, KJV)
 > For ever, O LORD, thy word is settled in heaven. (Ps. 119:89, KJV)
@@ -56,7 +56,7 @@
 
 - Conclusion (David's faith):
 
-### (1) Understanding the Word of God, the Covenant, Christ – Emmanuel
+### (1) Understanding the Word of God, the Covenant, and Christ – Emmanuel
 
 #### (a) 2 Sam. 23:2,1 Pet. 1:10-11,Acts 10:43; 2:29-32, -a child and a prophet of God
 > The Spirit of the LORD spake by me, and his word was in my tongue. (2 Sam. 23:2, KJV)
@@ -66,7 +66,7 @@
 
 #### (b) The Importance of the Ark of the Covenant, the Tabernacle
 
-#### (c) The temple is the goal of David's life, the true glorification of God. (Temple – knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization) 1 Chr. 28,John 15:8,Acts 2:5-11
+#### (c) The temple is the goal of David's life, the true glorification of God. (Temple – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization) 1 Chr. 28,John 15:8,Acts 2:5-11
 > Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples. (John 15:8, KJV)
 > And there were dwelling at Jerusalem Jews, devout men, out of every nation under heaven. Now when this was noised abroad, the multitude came together, and were confounded, because that every man heard them speak in his own language. And they were all amazed and marvelled, saying one to another, Behold, are not all these which speak Galilæans? And how hear we every man in our own tongue, wherein we were born? Parthians, and Medes, and Elamites, and the dwellers in Mesopotamia, and in Judæa, and Cappadocia, in Pontus, and Asia, Phrygia, and Pamphylia, in Egypt, and in the parts of Libya about Cyrene, and strangers of Rome, Jews and proselytes, Cretes and Arabians, we do hear them speak in our tongues the wonderful works of God. (Acts 2:5-11, KJV)
 
@@ -82,16 +82,16 @@
 > I have glorified thee on the earth: I have finished the work which thou gavest me to do. (John 17:4, KJV)
 > I hate, I despise your feast days, and I will not smell in your solemn assemblies. Though ye offer me burnt offerings and your meat offerings, I will not accept them: neither will I regard the peace offerings of your fat beasts. Take thou away from me the noise of thy songs; for I will not hear the melody of thy viols. (Amos 5:21-23, KJV)
 
-#### (a) Knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization (Temple – Acts)
+#### (a) Knowledge and transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization (Temple – Acts)
 
 #### (b) Music is an addition (without understanding the Word of God, the Covenant, Christ is an idol)
 
 ### (4) The main idea of the Psalter is trust in God, fulfillment of the Word of God, experience and a model of Christian life for man
 
-#### (a) Understanding the Word of God, the Covenant, Christ – confidence in God's guidance, forgiveness of sins, and salvation (not mysticism, the importance of learning)
+#### (a) Understanding the Word of God, the Covenant, and Christ – confidence in God's guidance, forgiveness of sins, and salvation (not mysticism, but the importance of learning)
 
-#### (b) The impossibility of trusting in God without understanding the Word of God, the Covenant, Chr
+#### (b) The impossibility of trusting in God without understanding the Word of God, the Covenant,
 
-#### (c) The experience of faith is the struggle between the new and the old nature of man. (Spiritual experiences and affirmation of the Word of God, the Covenant, Christ)
+#### (c) The experience of faith is the struggle between the new and the old nature of man. (Emotional experiences and affirmation of the Word of God, the Covenant, and Christ)
 
 #### (d) A man according to the heart of God (sin. is. – religion and Bl. The message)

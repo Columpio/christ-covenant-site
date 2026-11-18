@@ -22,7 +22,7 @@
 > But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name: (John 1:12, KJV)
 > Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it. (John 8:44, KJV)
 
-### (3) Deut. 30:19, - the importance of accepting the Word of God, the Covenant, Christ
+### (3) Deut. 30:19, - the importance of accepting the Word of God, the Covenant, and Christ
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
 ## 2) 1 Cor. 7:20-24, - the importance of understanding the Word of God, the Covenant, Christ, the importance of understanding true freedom for man
@@ -46,7 +46,7 @@
 ### (1) 1 Cor. 7:25-31 (25), - the answer to the question of celibacy, Paul's concern about violating the priorities of life (Paul's personal opinion)
 > Now concerning virgins I have no commandment of the Lord: yet I give my judgment, as one that hath obtained mercy of the Lord to be faithful. I suppose therefore that this is good for the present distress, I say, that it is good for a man so to be. Art thou bound unto a wife? seek not to be loosed. Art thou loosed from a wife? seek not a wife. But and if thou marry, thou hast not sinned; and if a virgin marry, she hath not sinned. Nevertheless such shall have trouble in the flesh: but I spare you. But this I say, brethren, the time is short: it remaineth, that both they that have wives be as though they had none; And they that weep, as though they wept not; and they that rejoice, as though they rejoiced not; and they that buy, as though they possessed not; And they that use this world, as not abusing it: for the fashion of this world passeth away. (1 Cor. 7:25-31, KJV)
 
-### (2) 1 Cor. 7:32-35, - the importance of serving God, understanding and fulfilling the destiny of God's people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+### (2) 1 Cor. 7:32-35, - the importance of serving God, understanding and fulfilling the destiny of God's people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 > But I would have you without carefulness. He that is unmarried careth for the things that belong to the Lord, how he may please the Lord: But he that is married careth for the things that are of the world, how he may please his wife. There is difference also between a wife and a virgin. The unmarried woman careth for the things of the Lord, that she may be holy both in body and in spirit: but she that is married careth for the things of the world, how she may please her husband. And this I speak for your own profit; not that I may cast a snare upon you, but for that which is comely, and that ye may attend upon the Lord without distraction. (1 Cor. 7:32-35, KJV)
 
 ### (3) 1 Cor. 7:36-40, - the importance of understanding the right of choice and free will of man in Jesus Christ
@@ -69,9 +69,9 @@
 
 ### (2) The importance of understanding the purpose of marriage (priorities)
 
-### (3) The importance of understanding a person's needs (spirit, soul, body)
+### (3) The importance of understanding human needs (spirit, soul, body)
 
-### (4) The importance of understanding the consequences of living outside the Word of God, the Covenant, Christ (Idolatry, eternal destruction of spouses and their offspring)
+### (4) The importance of understanding the consequences of living outside the Word of God, the Covenant, and Christ (Idolatry, eternal destruction of spouses and their offspring)
 
 ### (5) The importance of fulfilling a mission, the importance of analyzing a person's life (the motives of a person and his family)
 

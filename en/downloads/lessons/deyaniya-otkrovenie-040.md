@@ -1,11 +1,11 @@
 # Rom. 6
-## 5.1) Rom. 6:1-11, - the importance of understanding the Word of God, the Covenant, Christ
+## 5.1) Rom. 6:1-11, - the importance of understanding the Word of God, the Covenant, and Christ
 > What shall we say then? Shall we continue in sin, that grace may abound? God forbid. How shall we, that are dead to sin, live any longer therein? Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death? Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life. For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection: Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin. For he that is dead is freed from sin. Now if we be dead with Christ, we believe that we shall also live with him: Knowing that Christ being raised from the dead dieth no more; death hath no more dominion over him. For in that he died, he died unto sin once: but in that he liveth, he liveth unto God. Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord. (Rom. 6:1-11, KJV)
 
 ### (1) Rom. 6:1, - the importance of understanding the operation of God's grace
 > What shall we say then? Shall we continue in sin, that grace may abound? (Rom. 6:1, KJV)
 
-#### (a) The knowledge and transmission of the Word of God, the Covenant, Christ is the fulfillment of the destiny of God's people, not a sinful life
+#### (a) The knowledge and transmission of the Word of God, the Covenant, and Christ is the fulfillment of the destiny of God's people, not a sinful life
 
 #### (b) Sinful life – the action of the power of evil and Satan Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
@@ -28,11 +28,11 @@
 ### (3) Rom. 6:2-11, - the importance of accepting the Word of God, the Covenant, Christ, Water Baptism, the death of the old man and the birth of the new
 > God forbid. How shall we, that are dead to sin, live any longer therein? Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death? Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life. For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection: Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin. For he that is dead is freed from sin. Now if we be dead with Christ, we believe that we shall also live with him: Knowing that Christ being raised from the dead dieth no more; death hath no more dominion over him. For in that he died, he died unto sin once: but in that he liveth, he liveth unto God. Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord. (Rom. 6:2-11, KJV)
 
-#### (a) The slave of sin is a life outside the Word of God, the Covenant, Christ, a life of unbelief
+#### (a) The slave of sin is living outside the Word of God, the Covenant, Christ, living in unbelief
 
-#### (b) To die to sin and be dead to sin is life in the Word of God, the Covenant, Christ, to die and be dead to unbelief
+#### (b) To die to sin and be dead to sin is to live in the Word of God, the Covenant, Christ, to die and be dead to unbelief
 
-#### (c) To be reborn for God – living in the Word of God, the Covenant, Christ, knowing and transmitting the Word of God, the Covenant, Christ, changing thinking and actions
+#### (c) To be reborn for God is to live in the Word of God, the Covenant, Christ, to know and transmit the Word of God, the Covenant, Christ, to change one's thinking and actions
 
 ## 2) The importance of understanding Water Baptism
 - Water Baptism (N.T. circumcision) is a visible evidence of entering into a Covenant with God
@@ -42,11 +42,11 @@
 
 #### (a) The Baptism of John the Baptist – the death and resurrection of Christ
 
-#### (b) The baptism of Jesus Christ is the fulfillment of the Word of God, the Covenant, Christ (Death for the sins of all people and resurrection for their justification)
+#### (b) The baptism of Jesus Christ is the fulfillment of the Word of God, the Covenant, of Christ (Death for the sins of all people and resurrection for their justification)
 
 ### (2) Understanding about Christ
 
-#### (a) He died for my sins (fulfillment of the Word of God) Rom. 6:23,2 Cor. 5:19-21
+#### (a) He died for my sins (fulfilling the Word of God) Rom. 6:23,2 Cor. 5:19-21
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > To wit, that God was in Christ, reconciling the world unto himself, not imputing their trespasses unto them; and hath committed unto us the word of reconciliation. Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ’s stead, be ye reconciled to God. For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him. (2 Cor. 5:19-21, KJV)
 
@@ -77,7 +77,7 @@
 ### (2) Rom. 6:14, - the importance of understanding spiritual laws
 > For sin shall not have dominion over you: for ye are not under the law, but under grace. (Rom. 6:14, KJV)
 
-#### (a) The dominion of sin is life outside the Word of God, the Covenant, Christ, the wrong life and actions of man
+#### (a) The dominion of sin is life outside the Word of God, the Covenant, Christ, and the wrong life and actions of man
 
 #### (b) Life under the Law is the problem of original sin and all sins, the constant condemnation of man
 
@@ -86,19 +86,19 @@
 ### (3) Rom. 6:15, - the importance of understanding the operation of God's grace, the right life of God's children, the fulfillment of destiny
 > What then? shall we sin, because we are not under the law, but under grace? God forbid. (Rom. 6:15, KJV)
 
-### (4) Rom. 6:16-18, - the importance of accepting the Word of God, the Covenant, Christ
+### (4) Rom. 6:16-18, - the importance of accepting the Word of God, the Covenant, and Christ
 > Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness? But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you. Being then made free from sin, ye became the servants of righteousness. (Rom. 6:16-18, KJV)
 
-#### (a) The slave of sin is life outside the Word of God, the Covenant, Christ, the wrong life and actions of man
+#### (a) The slave of sin is life outside the Word of God, the Covenant, Christ, and the wrong life and actions of man
 
-#### (b) The slave of obedience to righteousness – acceptance of the Word of God, the Covenant, Christ, knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, actions and the right life of man
+#### (b) The slave of obedience to righteousness – the acceptance of the Word of God, the Covenant, Christ, the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, actions and the right life of man
 
-#### (c) The importance of understanding God's the method of transition from the bondage of sin to the bondage of righteousness is to become obedient to the teachings of Christ, i.e., the knowledge and transmission of the Word of God, the Covenant, Christ (Understanding – Who is Christ? The purpose of His visit?)
+#### (c) The importance of understanding God's the method of transition from the bondage of sin to the bondage of righteousness is to become obedient to the teachings of Christ, i.e., the knowledge and transmission of the Word of God, the Covenant, of Christ (Understanding – Who is Christ? The purpose of His visit?)
 
 ### (5) Rom. 6:19-22, - the importance of fulfilling the purpose
 > I speak after the manner of men because of the infirmity of your flesh: for as ye have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holiness. For when ye were the servants of sin, ye were free from righteousness. What fruit had ye then in those things whereof ye are now ashamed? for the end of those things is death. But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life. (Rom. 6:19-22, KJV)
 
-#### (a) Rom. 6:19, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, the importance of fulfilling destiny (holy deeds)
+#### (a) Rom. 6:19, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, the importance of fulfilling the purpose (holy deeds)
 > I speak after the manner of men because of the infirmity of your flesh: for as ye have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holiness. (Rom. 6:19, KJV)
 
 #### (b) Rom. 6:20-21, - the fruit of sin, the end is death
@@ -112,7 +112,7 @@
 
 #### (a) Death is a consequence of a person's original and personal sins
 
-#### (b) Christ is God's only method of solving the problem of sin and death, the importance of accepting the Word of God, the Covenant, Christ
+#### (b) Christ is God's only method of solving the problem of sin and death, the importance of accepting God's Word, Covenant, and Christ
 
 #### (c) The importance of human choice – acceptance or non-acceptance of the Word of God, the Covenant, Christ (the slave of righteousness or the slave of sin), the importance of understanding the consequences of choice (eternal life or death)
 
@@ -122,7 +122,7 @@
 
 ### (2) The importance of understanding Water Baptism
 
-### (3) Understanding the status of man as a "slave of sin" and a "slave of righteousness"
+### (3) Understanding a person's status as a "slave of sin" and a "slave of righteousness"
 
 ### (4) The importance of sanctification and service to God
 

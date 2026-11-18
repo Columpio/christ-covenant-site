@@ -14,7 +14,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-### (3) Ex. 20:1-17 (Law), - Ex. 25-30 (Tabernacle), - The third Covenant, Christ (Two categories of people – acceptance, non-acceptance of the Word of God, the Covenant, Christ)
+### (3) Ex. 20:1-17 (Law), - Ex. 25-30 (Tabernacle), - the third Covenant, Christ (Two categories of people – acceptance, non-acceptance of the Word of God, the Covenant, Christ)
 > And God spake all these words, saying, I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage. Thou shalt have no other gods before me. Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; And shewing mercy unto thousands of them that love me, and keep my commandments. Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain. Remember the sabbath day, to keep it holy. Six days shalt thou labour, and do all thy work: But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates: For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it. Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee. Thou shalt not kill. Thou shalt not commit adultery. Thou shalt not steal. Thou shalt not bear false witness against thy neighbour. Thou shalt not covet thy neighbour’s house, thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour’s. (Ex. 20:1-17, KJV)
 
 ### (4) Matt. 16:16,John 19:30, - the fourth Covenant, Christ (Two categories of people – acceptance, non-acceptance of the Word of God, the Covenant, Christ)
@@ -28,18 +28,18 @@
 
 #### (b) The holy – the loaves of the offering (bread, Christ), the lamp (light, Christ), the altar of incense (meal, peace with God)
 
-#### (c) The Holy of Holies – the Ark of the Covenant (the Covenant, Christ), the manna (the true bread, Christ), the rod of Aaron (God's election, Christ), the Tablets of the Covenant (the importance of fulfilling the Law, Christ). (Testimony against man is the disobedience of the Word of God)
+#### (c) The Holy of Holies – the Ark of the Covenant (the Covenant, Christ), the manna (the true bread, Christ), the rod of Aaron (God's election, Christ), the Tablets of the Covenant (the importance of fulfilling the Law, Christ). (Testimony against man is opposition to the Word of God)
 
 ## 3) Heb. 9:6-10, - the importance of understanding the Word of God, the Covenant, Christ, V.Z., understanding the lack of the Tabernacle of V.Z., understanding the action of N.Z.
 > Now when these things were thus ordained, the priests went always into the first tabernacle, accomplishing the service of God. But into the second went the high priest alone once every year, not without blood, which he offered for himself, and for the errors of the people: The Holy Ghost this signifying, that the way into the holiest of all was not yet made manifest, while as the first tabernacle was yet standing: Which was a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience; Which stood only in meats and drinks, and divers washings, and carnal ordinances, imposed on them until the time of reformation. (Heb. 9:6-10, KJV)
 
-### (1) The V.Z. Tabernacle is a closed access to the Sanctuary for the people of God (Abraham's bosom), waiting for the coming of Christ. (There is no actual execution of the sentence of the Word of God, closed access to the Central Church, the importance of the coming of Christ)
+### (1) The V.Z. Tabernacle is a closed access to the Sanctuary for the people of God (Abraham's bosom), waiting for the coming of Christ. (There is no actual execution of the sentence of the Word of God, closed access to the Church, the importance of the coming of Christ)
 
-### (2) V.Z. Tabernacle – the impossibility of complete legal perfection of a person (promise, advance payment), the importance of executing the sentence of the Word of God, the importance of the coming of Christ, replacement with N.Z.
+### (2) V.Z. Tabernacle – the impossibility of complete legal perfection of a person (promise, advance payment), the importance of fulfilling the sentence of the Word of God, the importance of the coming of Christ, replacement with N.Z.
 
 ### (3) V.Z. Tabernacle – established only until the time of correction (Sacrifice of Christ), the importance of the coming of Christ, replacement by N.Z.
 
-## 4) Heb. 9:11-14, - the importance of understanding the Word of God, the Covenant, Christ
+## 4) Heb. 9:11-14, - the importance of understanding the Word of God, the Covenant, and Christ
 > But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building; Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us. For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh: How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God? (Heb. 9:11-14, KJV)
 
 ### (1) Heb. 9:11, - Christ is the true High Priest
@@ -61,7 +61,7 @@
 ### (6) Heb. 9:14, - The sacrifice of Christ (the action of the Holy Spirit), the true and perfect purification of the people of God, the importance of N.Z
 > How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God? (Heb. 9:14, KJV)
 
-## 5) Heb. 9:15-23, - the importance of understanding the Word of God, the Covenant, Christ
+## 5) Heb. 9:15-23, - the importance of understanding the Word of God, the Covenant, and Christ
 > And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions that were under the first testament, they which are called might receive the promise of eternal inheritance. For where a testament is, there must also of necessity be the death of the testator. For a testament is of force after men are dead: otherwise it is of no strength at all while the testator liveth. Whereupon neither the first testament was dedicated without blood. For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people, Saying, This is the blood of the testament which God hath enjoined unto you. Moreover he sprinkled with blood both the tabernacle, and all the vessels of the ministry. And almost all things are by the law purged with blood; and without shedding of blood is no remission. It was therefore necessary that the patterns of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices than these. (Heb. 9:15-23, KJV)
 
 ### (1) Heb. 9:15, - Christ, the Intercessor of N.Z.
@@ -86,14 +86,14 @@
 ### (7) Heb. 9:27, - the importance of understanding God's judgment
 > And as it is appointed unto men once to die, but after this the judgment: (Heb. 9:27, KJV)
 
-#### (a) Sinners – non-acceptance of the Word of God, the Covenant, Christ, personal sins
+#### (a) Sinners – rejection of the Word of God, the Covenant, Christ, personal sins
 
-#### (b) Children of God – acceptance of the Word of God, the Covenant, Christ (the absence of God's judgment), judgment regarding the fulfillment of the destiny of God's people John 3:18; 5:24,2 Cor. 5:10
+#### (b) Children of God – acceptance of the Word of God, the Covenant, Christ (absence of God's judgment), judgment regarding the fulfillment of the destiny of God's people John 3:18; 5:24,2 Cor. 5:10
 > He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God. (John 3:18, KJV)
 > Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life. (John 5:24, KJV)
 > For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad. (2 Cor. 5:10, KJV)
 
-### (8) Heb. 9:28, - The sacrifice of Christ (to atone for the sins of many), the importance of understanding God's foreknowledge and election of each person
+### (8) Heb. 9:28, - The sacrifice of Christ (to lift up the sins of many), the importance of understanding God's foreknowledge and election of each person
 > So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation. (Heb. 9:28, KJV)
 
 ### (9) Heb. 9:28, - the importance of understanding the 2nd coming of Christ, the resurrection of the dead and the rapture of the Church, the judgment of God on sinners (rejection of the Word of God, the Covenant, Christ, sin to death)

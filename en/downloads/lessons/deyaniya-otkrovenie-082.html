@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -253,7 +255,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.</p><cite>Gen. 2:16-17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And the LORD God commanded him, “You may eat freely from every tree of the garden, but you must not eat from the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”</p><cite>Gen. 2:16-17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh God commanded the man, saying, “You may freely eat of every tree of the garden; but you shall not eat of the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”</p><cite>Gen. 2:16-17 · WEB</cite></blockquote>
-<h3>(1) Fruits of the Spirit - Emmanuel, action of S.D., knowledge and transmission of the Word of God, Covenant, Christ</h3>
+<h3>(1) Fruits of the Spirit – Emmanuel, S.D. action, knowledge and transmission of the Word of God, the Covenant, Christ</h3>
 <h3>(2) The absence of works of the flesh is a perfect man</h3>
 <h2 id="s2">2) Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -understanding the Fall</h2>
 <blockquote data-v="kjv"><p>Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.</p><cite>Gen. 3:1-7 · KJV</cite></blockquote>
@@ -268,7 +270,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:</p><cite>Eph. 2:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>in which you used to walk when you conformed to the ways of this world and of the ruler of the power of the air, the spirit who is now at work in the sons of disobedience.</p><cite>Eph. 2:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the children of disobedience.</p><cite>Eph. 2:2 · WEB</cite></blockquote>
-<h3>(1) Works of the flesh - no Emmanuel, work of Satan, knowledge and transmission of “other words”</h3>
+<h3>(1) The works of the flesh – there is no Emmanuel, the work of Satan, the knowledge and transmission of the "other word"</h3>
 <h3>(2) The absence of the fruits of the Spirit – there is no Emmanuel, there is no action of the Holy Spirit</h3>
 <h2 id="s3">3) Gen. 3:15, 21, - The importance of understanding Recovery</h2>
 <blockquote data-v="kjv"><p>And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.</p><cite>Gen. 3:15 · KJV</cite></blockquote>
@@ -277,7 +279,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.</p><cite>Gen. 3:21 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And the LORD God made garments of skin for Adam and his wife, and He clothed them.</p><cite>Gen. 3:21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh God made garments of animal skins for Adam and for his wife, and clothed them.</p><cite>Gen. 3:21 · WEB</cite></blockquote>
-<h3>(1) Fruits of the Spirit - Emmanuel, action of S.D., knowledge and transmission of the Word of God, Covenant, Christ</h3>
+<h3>(1) Fruits of the Spirit – Emmanuel, S.D. action, knowledge and transmission of the Word of God, the Covenant, Christ</h3>
 <h3>(2) Manifestation of the works of the flesh - the influence of the remnants of the sinful nature of the children of God, the world and Satan</h3>
 <h3>(3) The importance of understanding the difference between "living in the works of the flesh" (there is no salvation and being born again) and "manifesting the works of the flesh" (salvation and being born again, the influence of the remnants of sinful nature, the world and Satan on the people of God)</h3>
 <h3>(4) The absence of the works of the flesh – the perfect man, the Second Coming of Christ, the Resurrection of the dead</h3>
@@ -344,9 +346,9 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h2 id="s5">5) God's method of changing the essence of man</h2>
 <h3>(1) The importance of understanding the mechanism of human behavior. (Ideology and system of values – thoughts – desires – actions)</h3>
 <h3>(2) The formation of human thinking is the ideology of peace. (Education system – idols, Mammon, religion, philosophy)</h3>
-<h3>(3) The formation of the people's mindset is God's ideology. (The teaching system – understanding the Word of God, the Covenant, Christ, the Disciples, World Evangelization)</h3>
+<h3>(3) The formation of the mindset of God's people is God's ideology. (Learning System – understanding the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)</h3>
 <h2 id="s6">Conclusion:</h2>
-<h3>(1) The Fruits of the Spirit – Emmanuel, the action of the Holy Spirit</h3>
+<h3>(1) Fruits of the Spirit – Emmanuel, the action of the Holy Spirit</h3>
 <h3>(2) The works of the flesh – there is no Emmanuel, the work of Satan</h3>
 <h3>(3) The importance of understanding the difference between "living in the works of the flesh" (there is no salvation and being born again) and "manifesting the works of the flesh" (salvation and being born again, the influence of the remnants of sinful nature, the world and Satan on the people of God)</h3>
 </main>

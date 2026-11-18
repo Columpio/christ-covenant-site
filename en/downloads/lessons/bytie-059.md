@@ -4,7 +4,7 @@
 ### (1) John 5:39, - all the Scriptures speak about Christ
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 
-### (2) Col. 1:26-27,Eph. 3:8-9, - Christ, the mystery of God revealed by God Himself, God's sovereignty and control. (The impossibility of understanding the Word of God, the Covenant, Christ without the grace of God)
+### (2) Col. 1:26-27,Eph. 3:8-9, - Christ, the mystery of God revealed by God Himself, God's sovereignty and control. (The impossibility of understanding the Word of God, the Covenant, and Christ without the grace of God)
 > Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints: To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory: (Col. 1:26-27, KJV)
 > Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ; And to make all men see what is the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ: (Eph. 3:8-9, KJV)
 
@@ -28,7 +28,7 @@
 
 #### (a) The importance of understanding the Trinity of God
 
-#### (b) The importance of understanding the functional priority of the work of the Triune God in Jesus Christ
+#### (b) The importance of understanding the functional priority of the Triune God's action in Jesus Christ
 
 #### (c) The Word became flesh – the importance of understanding the birth of Jesus Christ as the Only Begotten Son of God before all creatures and as the "seed of the woman" in the likeness of sinful flesh John 1:1-3, 14; 8:25, - Col. 1:15-16,Matt. 16:16
 > In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made. (John 1:1-3, KJV)
@@ -97,7 +97,7 @@
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
 > And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:16-17, KJV)
 
-#### (b) The importance of understanding the meaning of a person's choice – acceptance or rejection of the Word of God. The Covenant, Christ Deut. 30:19
+#### (b) The importance of understanding the meaning of a person's choice – acceptance or rejection of God's Word. Of the Covenant, of Christ Deut. 30:19
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
 ### (8) Christ as the will of God
@@ -114,7 +114,7 @@
 
 ### (9) Christ as calling for the service of God
 
-#### (a) Adam's ministry in the Garden of Eden near two trees – the importance of knowing and transmitting the Word of God, the Covenant, Christ, and the importance of understanding the destiny of God's people. Gen. 2:15; 1:28
+#### (a) Adam's ministry in the Garden of Eden near the two trees - the importance of knowing and transmitting the Word of God, the Covenant, Christ, the importance of understanding the purpose of God's people. Gen. 2:15; 1:28
 > And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it. (Gen. 2:15, KJV)
 > And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth. (Gen. 1:28, KJV)
 
@@ -126,7 +126,7 @@
 #### (a) Adam – power over the earth (the name of all animals) Gen. 2:19-20
 > And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof. And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him. (Gen. 2:19-20, KJV)
 
-#### (b) The Fall is the transfer of power to Satan, the consequence of the choice of the first people. Rom. 8:18-23, - 1 Cor. 4:8; 15:22-25,2 Tim. 2:12
+#### (b) The Fall is the transfer of Satan's power, the consequence of the choice of the first people. Rom. 8:18-23, - 1 Cor. 4:8; 15:22-25,2 Tim. 2:12
 > For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us. For the earnest expectation of the creature waiteth for the manifestation of the sons of God. For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope, Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God. For we know that the whole creation groaneth and travaileth in pain together until now. And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body. (Rom. 8:18-23, KJV)
 > Now ye are full, now ye are rich, ye have reigned as kings without us: and I would to God ye did reign, that we also might reign with you. (1 Cor. 4:8, KJV)
 > For as in Adam all die, even so in Christ shall all be made alive. But every man in his own order: Christ the firstfruits; afterward they that are Christ’s at his coming. Then cometh the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule and all authority and power. For he must reign, till he hath put all enemies under his feet. (1 Cor. 15:22-25, KJV)
@@ -183,7 +183,7 @@
 
 ### (15) Christ as God's Perfect Plan for man
 
-#### (a) The execution of the sentence is the Word of God instead of man. 2 Cor. 5:19
+#### (a) The execution of the sentence of the Word of God instead of man. 2 Cor. 5:19
 > To wit, that God was in Christ, reconciling the world unto himself, not imputing their trespasses unto them; and hath committed unto us the word of reconciliation. (2 Cor. 5:19, KJV)
 
 #### (b) Complete restoration of a person to his original form 1 Thess. 5:23, - Gen. 1:31
@@ -194,7 +194,7 @@
 
 ### (1) The importance of studying the Scriptures
 
-### (2) The Importance of Understanding the Word of God, the Covenant, Christ John 5:39
+### (2) The Importance of Understanding the Word of God, the Covenant, and Christ John 5:39
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 
 ### (3) The importance of understanding Christ from the Beginning, the Importance of understanding God's plan for humanity Amos 3:7,Jer. 29:11

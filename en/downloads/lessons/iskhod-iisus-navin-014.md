@@ -1,5 +1,5 @@
 # Lev. 8–9
-## 2.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 2.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -21,7 +21,7 @@
 
 #### (a) Help in solving a person's spiritual problem (sin, death and hell, Satan)
 
-#### (b) Worship – the knowledge and transmission of the Word of God, the Covenant, Christ
+#### (b) Worship is the knowledge and transmission of the Word of God, the Covenant, and Christ
 
 #### (c) Disciples, World Evangelization – preparation for the coming of Christ
 
@@ -33,9 +33,9 @@
 
 #### (c) The anointing oil is the action of the Holy Spirit, the prototype of Christ (the Anointed One)
 
-### (3) Sacrifice, shedding of blood – God is a condition of the priesthood, ponim. Christ
+### (3) Sacrifice, shedding of blood is God's condition of priesthood, ponim. Of Christ
 
-#### (a) Sacrifice for Sin – Understanding the Word of God, the Covenant, Christ Lev. 8:14-28
+#### (a) Sacrifice for Sin – understanding the Word of God, the Covenant, Christ Lev. 8:14-28
 > And he brought the bullock for the sin offering: and Aaron and his sons laid their hands upon the head of the bullock for the sin offering. And he slew it; and Moses took the blood, and put it upon the horns of the altar round about with his finger, and purified the altar, and poured the blood at the bottom of the altar, and sanctified it, to make reconciliation upon it. And he took all the fat that was upon the inwards, and the caul above the liver, and the two kidneys, and their fat, and Moses burned it upon the altar. But the bullock, and his hide, his flesh, and his dung, he burnt with fire without the camp; as the LORD commanded Moses. And he brought the ram for the burnt offering: and Aaron and his sons laid their hands upon the head of the ram. And he killed it; and Moses sprinkled the blood upon the altar round about. And he cut the ram into pieces; and Moses burnt the head, and the pieces, and the fat. And he washed the inwards and the legs in water; and Moses burnt the whole ram upon the altar: it was a burnt sacrifice for a sweet savour, and an offering made by fire unto the LORD; as the LORD commanded Moses. And he brought the other ram, the ram of consecration: and Aaron and his sons laid their hands upon the head of the ram. And he slew it; and Moses took of the blood of it, and put it upon the tip of Aaron’s right ear, and upon the thumb of his right hand, and upon the great toe of his right foot. And he brought Aaron’s sons, and Moses put of the blood upon the tip of their right ear, and upon the thumbs of their right hands, and upon the great toes of their right feet: and Moses sprinkled the blood upon the altar round about. And he took the fat, and the rump, and all the fat that was upon the inwards, and the caul above the liver, and the two kidneys, and their fat, and the right shoulder: And out of the basket of unleavened bread, that was before the LORD, he took one unleavened cake, and a cake of oiled bread, and one wafer, and put them on the fat, and upon the right shoulder: And he put all upon Aaron’s hands, and upon his sons’ hands, and waved them for a wave offering before the LORD. And Moses took them from off their hands, and burnt them on the altar upon the burnt offering: they were consecrations for a sweet savour: it is an offering made by fire unto the LORD. (Lev. 8:14-28, KJV)
 
 #### (b) Burnt offering and consecration – full service to God
@@ -45,9 +45,9 @@
 #### (d) The Days of dedication at the Tabernacle – Meditation on the Word of God Lev. 8:33
 > And ye shall not go out of the door of the tabernacle of the congregation in seven days, until the days of your consecration be at an end: for seven days shall he consecrate you. (Lev. 8:33, KJV)
 
-## 3) Lev. 9, - understanding and affirming the Word of God, the Covenant, Christ
+## 3) Lev. 9, - understanding and affirming the Word of God, the Covenant, and Christ
 
-### (1) Understanding and accepting the Word of God, the Covenant, Christ, and the four kinds of sacrifices. (Participation of Aaron, his sons and all the people – acceptance of the Word of God)
+### (1) Understanding and accepting the Word of God, the Covenant, Christ, and the four kinds of sacrifice. (Participation of Aaron, his sons, and all the people – acceptance of the Word of God)
 
 #### (a) Sacrifice for Sin (the importance of Christ and His Sacrifice)
 
@@ -55,7 +55,7 @@
 
 #### (c) A sacrifice of peace, thanksgiving (peace with God in Christ)
 
-#### (d) The grain offering (the importance of the Word of God, the Covenant, Christ)
+#### (d) The grain offering (the importance of the Word of God, the Covenant, and Christ)
 
 ### (2) Lev. 9:23, - Moses, the prototype of Christ
 > And Moses and Aaron went into the tabernacle of the congregation, and came out, and blessed the people: and the glory of the LORD appeared unto all the people. (Lev. 9:23, KJV)
@@ -70,10 +70,10 @@
 
 #### (e) Blesses the people of God
 
-### (3) Lev. 9:24, - God's fire, confirmation of the Word of God, the Covenant, Christ
+### (3) Lev. 9:24, - God's fire, affirmation of the Word of God, the Covenant, Christ
 > And there came a fire out from before the LORD, and consumed upon the altar the burnt offering and the fat: which when all the people saw, they shouted, and fell on their faces. (Lev. 9:24, KJV)
 
-#### (a) Proper Worship, understanding of sacrifice – the coming Christ, execution of the sentence, the Word of God, all the answers for man
+#### (a) Proper Worship, understanding of sacrifice – the coming Christ, fulfillment of the sentence of the Word of God, all the answers for man
 
 #### (b) God's fire is the prototype of God's justice, the acceptance of Christ's sacrifice for the sins of all mankind
 
@@ -81,10 +81,10 @@
 
 ### (1) The importance of ministers and service to the Holy, True God
 
-### (2) Priests (tribe of Levi, family of Aaron) – servants of the Tabernacle, Temple, Worldwide Evangelization
+### (2) Priests (the tribe of Levi, the family of Aaron) – ministers of the Tabernacle, the Temple, and Worldwide Evangelization
 
-### (3) Levites (tribe of Levi) – servants of the Tabernacle, Temple, World Evangelization (Worship, teachers, scribes, musicians, elders, judges)
+### (3) Levites (tribe of Levi) – servants of the Tabernacle, Temple, and World Evangelization (Worshipers, teachers, scribes, musicians, elders, judges)
 
-### (4) The purpose of priests and Levites is to help in solving spiritual problems (the power of sin, death and hell, Satan), knowledge and transmission of the Word of God, the Covenant, Christ (sacrifice, fulfillment of the Word of God)
+### (4) The purpose of priests and Levites is to help solve spiritual problems (the power of sin, death and hell, Satan), to know and transmit the Word of God, the Covenant, and Christ (sacrifice, fulfillment of the Word of God)
 
 ### (5) The importance of understanding the priesthood of N.Z. – the priesthood is not according to the order of Aaron. but according to the order of Melchizedek (all those saved in N.Z.)

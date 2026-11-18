@@ -1,5 +1,5 @@
 # 26. Gen. 4: The importance of confession, understanding salvation
-- Salvation is Emmanuel, God together with man. Rom. 8:2. (Rebirth, restoration to the original form, lawful liberation from the power of sin, death and hell, Satan)
+- Salvation is Emmanuel, God together with man. Rom. 8:2. (Rebirth, restoration to the original form, legitimate liberation from the power of sin, death and hell, Satan)
 
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
 
@@ -13,7 +13,7 @@
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
 > And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:16-17, KJV)
 
-### (1) The importance of the Word of God, the Covenant, Christ, man's confession - acceptance of the Divinity of Christ and acceptance of the solution to all man's problems in Christ, Emmanuel
+### (1) The importance of the Word of God, the Covenant, Christ, the confession of man – the acceptance of the Divinity of Christ and the acceptance of the solution of all human problems in Christ, Emmanuel
 
 ### (2) The importance of understanding the purpose and meaning of human life in time – the choice regarding eternal life (where? And with whom?)
 
@@ -23,7 +23,7 @@
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
 
-### (1) The absence of the Word of God, the Covenant, Christ, the confession of man – the acceptance of the Divinity of Christ, but the non-acceptance of the solution of all human problems in Christ, there is no Emmanuel, the power of Satan and demons
+### (1) The absence of the Word of God, the Covenant, Christ, the confession of man is the acceptance of the Divinity of Christ, but the non–acceptance of the solution to all human problems in Christ, there is no Emmanuel, the power of Satan and demons
 
 #### (a) "Has God truly spoken" and "you will be like God yourself" – all the answers are in the person himself and in another word
 
@@ -38,11 +38,11 @@
 > And Simon Peter answered and said, Thou art the Christ, the Son of the living God. (Matt. 16:16, KJV)
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 
-### (1) The importance of the Word of God, the Covenant, Christ, the confession of man – the acceptance of the Divinity of Christ and the acceptance of solutions to all human problems in Christ, The all–sufficiency of His Sacrifice (the forgiveness of all sins - past, present and future and the solution of all problems – the power of Satan, death and hell, curses, Emmanuel)
+### (1) The importance of the Word of God, the Covenant, Christ, the confession of man – the acceptance of the Divinity of Christ and the acceptance of the solution of all human problems in Christ, The all–sufficiency of His Sacrifice (the forgiveness of all sins - past, present and future and the solution of all problems – the power of Satan, death and hell, curses, Emmanuel)
 
 ### (2) The importance of understanding the purpose and meaning of human life in time – the choice regarding eternal life (where? And with whom?)
 
-## 4) The importance of understanding the essence and meaning of the Covenant, Christ (The contract between God and man, initiated by God)
+## 4) The importance of understanding the essence and meaning of the Covenant, of Christ (the Contract between God and man, initiated by God)
 
 # 1. God's Side
 
@@ -54,14 +54,14 @@
 
 ### (1) Acceptance of the Divinity of Christ
 
-### (2) The acceptance of the solution of all human problems in Christ, the all–sufficiency of His Sacrifice – the forgiveness of all sins (past, present and future) and the solution of all problems (the power of Satan, death and hell, curses, etc.) The choice of man - acceptance, non-acceptance of the Word of God, the Covenant, Christ Meaning of life – preparation for eternity (Where? And with whom?)
-- The purpose of man is Emmanuel, the knowledge and transmission of the Word of God, the Covenant, Christ, the glorification of God
+### (2) The acceptance of the solution of all human problems in Christ, the all–sufficiency of His Sacrifice – the forgiveness of all sins (past, present and future) and the solution of all problems (the power of Satan, death and hell, curses, etc.) The choice of man – acceptance, rejection of the Word of God, the Covenant, Christ Meaning of life - preparation for eternity (Where? And with whom?)
+- The purpose of man is Emmanuel, the knowledge and transmission of the Word of God, the Covenant, Christ, and the glorification of God
 
 ## 5) The importance of understanding Satan's actions
 
 ### (1) The rejection of the Divinity of Christ and the All-sufficiency of His Sacrifice
 
-#### (a) Gen. 4:1-8, - Cain and Abel (the child of the devil and the child of God, God the prophet) 1 John 3:12, – Luke 11:49-51,1 Pet. 1:10-11,Acts 10:43
+#### (a) Gen. 4:1-8, - Cain and Abel (a child of the devil and a child of God, a prophet of God) 1 John 3:12, – Luke 11:49-51,1 Pet. 1:10-11,Acts 10:43
 > And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD. And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground. And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD. And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering: But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell. And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen? If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him. And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him. (Gen. 4:1-8, KJV)
 > Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother’s righteous. (1 John 3:12, KJV)
 > Therefore also said the wisdom of God, I will send them prophets and apostles, and some of them they shall slay and persecute: That the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation; From the blood of Abel unto the blood of Zacharias, which perished between the altar and the temple: verily I say unto you, It shall be required of this generation. (Luke 11:49-51, KJV)
@@ -74,7 +74,7 @@
 > The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. (John 10:33, KJV)
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
 
-### (2) Failure to accept the importance of knowing and transmitting the Word of God, the Covenant, Christ, failure to accept the destiny of God's people John 8:31-32,1 Tim. 4:16, - Matt. 28:19-20,2 Tim. 2:2
+### (2) Failure to accept the importance of knowing and transmitting the Word of God, the Covenant, and Christ, failure to accept the purpose of God's people John 8:31-32,1 Tim. 4:16, - Matt. 28:19-20,2 Tim. 2:2
 > Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; And ye shall know the truth, and the truth shall make you free. (John 8:31-32, KJV)
 > Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee. (1 Tim. 4:16, KJV)
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
@@ -125,9 +125,9 @@
 
 ### (1) The confession of man is the acceptance of the Divinity of Christ and the All–sufficiency of His Sacrifice
 
-### (2) Knowledge of the Word of God, the Covenant, Christ (very strong interest in the Word of God), human communion with the people of God (local Church)
+### (2) Knowledge of the Word of God, the Covenant, Christ (very strong interest in the Word of God), the communion of man with the people of God (local Church)
 
-### (3) Transmission of the Word of God, the Covenant, Christ, Preaching
+### (3) Transmission of the Word of God, the Covenant, Christ, preaching
 
 ### (4) Participation in God's Sacraments (Water Baptism, Communion)
 
@@ -137,12 +137,12 @@
 
 ### (1) The absence of a person's correct profession means that there is no possibility of salvation even if all other points are present (Jehovah's Witnesses, Orthodoxy, Catholicism, etc.)
 
-### (2) A person's confession without the other points is just knowledge without accepting the Word of God, the Covenant, Christ, there is no possibility of salvation
+### (2) A person's confession without the other points is just knowledge without accepting the Word of God, the Covenant, and Christ, there is no possibility of salvation
 
 ## Conclusion:
 
-### (1) The importance of accepting the Word of God, the Covenant, and the Christ–confession of man
+### (1) The importance of accepting the Word of God, the Covenant, and Christ – the confession of man
 
-### (2) Understanding the work of Satan – resisting the Word of God, the Covenant, Christ
+### (2) Understanding the work of Satan – resisting the Word of God, the Covenant, and Christ
 
-### (3) The importance of fulfilling the destiny of God's people – knowing, transmitting, and explaining the Word of God, the Covenant, and Christ
+### (3) The importance of fulfilling the destiny of God's people – the knowledge, transmission, and explanation of God's Word, Covenant, and Christ

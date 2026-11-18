@@ -1,9 +1,9 @@
 # 2. The Lord's Prayer (Our Father)
-- Prayer – communion with God through the Word of God, the Covenant, Christ
+- Prayer is communion with God through the Word of God, the Covenant, and Christ.
 - It is not prayer that moves God, but God that moves prayer.
 - Prayer - knowledge and affirmation of the will of God, emphasis on hearing rather than speaking
 
-## 1) Gen. 1:27-28; 2:7, 9, 16-17, - the perfect will of God 1 Tim. 2:4
+## 1) Gen. 1:27-28; 2:7, 9, 16-17, is the perfect will of God 1 Tim. 2:4
 > So God created man in his own image, in the image of God created he him; male and female created he them. And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth. (Gen. 1:27-28, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
@@ -28,9 +28,9 @@
 > Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
-### (1) The loss of purpose and meaning of human life in time – there is no choice regarding eternal life, the slave of sin, death and hell, Satan
+### (1) Loss of purpose and meaning of human life in time – there is no choice regarding eternal life, a slave to sin, death and hell, Satan
 
-### (2) No understanding of the perfect will of God - no Emmanuel, no knowledge and transmission of the Word of God, the Covenant, Christ, no communication with God
+### (2) There is no understanding of the perfect will of God – there is no Emmanuel, there is no knowledge and transmission of the Word of God, the Covenant, Christ, there is no communion with God
 
 ### (3) The priority of turning to God is the fulfillment of one's will, visible, hard life, accusations of God Matt. 6:7-8, 31-32,Jas. 4:1-4,Phil. 2:21, - Matt. 16:26
 > But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking. Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him. (Matt. 6:7-8, KJV)
@@ -64,7 +64,7 @@
 ### (2) Unceasing prayer is the search for and desire to fulfill the will of God through constant reflection on the Word of God, the Covenant, Christ, and hearing God (spiritually, mentally, and physically). 1 Thess. 5:17
 > Pray without ceasing. (1 Thess. 5:17, KJV)
 
-### (3) Prayer of Thanksgiving – Emmanuel, all the answers of life are in God (spiritual, mental, physical). 1 Thess. 5:18,Eph. 5:20
+### (3) Prayer of Thanksgiving – Emmanuel, all the answers of life in God (spiritual, mental, physical). 1 Thess. 5:18,Eph. 5:20
 > In every thing give thanks: for this is the will of God in Christ Jesus concerning you. (1 Thess. 5:18, KJV)
 > Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ; (Eph. 5:20, KJV)
 
@@ -78,16 +78,16 @@
 
 ## 6) The Lord's Prayer
 
-### (1) Matt. 6:9, - understanding the Word of God, the Covenant, Christ
+### (1) Matt. 6:9, - understanding the Word of God, the Covenant, and Christ
 > After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name. (Matt. 6:9, KJV)
 
 #### (a) God the Father is a child of God (status), acceptance of the Sacrifice of Christ, confidence in the forgiveness of all sins and salvation, justification, adoption and acceptance of man into the family of God. (The importance of understanding the difference between the Creator and the Father)
 
 #### (b) Being in heaven – the importance of understanding spiritual reality (the eternity of the invisible, the temporality of the earthly)
 
-#### (c) Hallowed be Thy name – glorification of God (make known), knowledge and transmission of the Word of God, the Covenant, Christ, faith and service to God. (Understanding: Who is Xp?The purpose of His visit?What is His will?)
+#### (c) Hallowed be Thy name – the glorification of God (to make known), the knowledge and transmission of the Word of God, the Covenant, Christ, faith and service to God. (Understanding: Who is Xp?The purpose of His visit?What is His will?)
 
-### (2) Matt. 6:10, - knowledge and transmission of the Covenant, Christ, World Evangelization, disciples
+### (2) Matt. 6:10, - knowledge and transmission of the Covenant, Christ, Worldwide Evangelization, disciples
 > Thy kingdom come. Thy will be done in earth, as it is in heaven. (Matt. 6:10, KJV)
 
 #### (a) The coming of C.B. into my life – the knowledge and transmission of the Word of God
@@ -104,7 +104,7 @@
 ### (3) Matt. 6:11, - the importance of the Word of God, the Covenant, Christ, all the answers for man
 > Give us this day our daily bread. (Matt. 6:11, KJV)
 
-#### (a) The vital importance of the Word of God, of the Covenant, of Christ to every human being
+#### (a) The vital importance of the Word of God, the Covenant, and Christ for every human being
 
 #### (b) God is the Lord, the Source and Giver of all answers for life. (Spiritual, mental and physical needs of a person)
 
@@ -117,18 +117,18 @@
 
 #### (c) Understanding the Word of God, the Covenant, and Christ is the ability to forgive people. (The effect of God's grace in the life of a saved person)
 
-### (5) Matt. 6:13, - affirmation of the Word of God, the Covenant, Christ
+### (5) Matt. 6:13, is the affirmation of the Word of God, the Covenant, and Christ
 > And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen. (Matt. 6:13, KJV)
 
 #### (a) Understanding the influence of the remnants of the sinful essence of God's people, God's control over the lives of God's children (temptations)
 
-#### (b) God's sovereignty and control of Satan's actions, the importance of understanding God's protection of God's people, and confidence in God's guidance and victory
+#### (b) God's sovereignty and control over Satan's actions, the importance of understanding God's protection of God's people, and confidence in God's guidance and victory
 
 #### (c) God is the King of Kings and Lord of Lords
 
 #### (d) Everything visible and invisible is God's control and management
 
-#### (e) All glory belongs only to God – the importance of understanding God's love and mercy, understanding the Word of God, the Covenant, Christ
+#### (e) All glory belongs only to God – the importance of understanding God's love and mercy, understanding the Word of God, the Covenant, and Christ
 
 ## Conclusion:
 

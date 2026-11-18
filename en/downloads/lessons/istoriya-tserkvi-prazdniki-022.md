@@ -8,7 +8,7 @@
 ## 1) Understanding the Nativity of Christ – the importance of understanding the birth of Jesus Christ as the Only Begotten Son of God before all ages. Col. 1:15-16
 > Who is the image of the invisible God, the firstborn of every creature: For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him: (Col. 1:15-16, KJV)
 
-### (1) Faith in a Triune God is faith in a Single God in numerical terms, in which there are three eternal differences – God the Father, God the Word, God the Holy Spirit, the Almighty, Omniscient, Omnipresent Absolute of God. (Three eternal differences in the human being – spirit, soul and body) 1 John 5:7,John 4:24, - John 1:18,1 John 4:12,1 Tim. 6:16
+### (1) Faith in the Triune God is faith in the One God in numerical terms, in which there are three eternal differences – God the Father, God the Word, God the Holy Spirit, the Almighty, Omniscient, Omnipresent Absolute of God. (Three eternal differences in the human being – spirit, soul and body) 1 John 5:7,John 4:24, - John 1:18,1 John 4:12,1 Tim. 6:16
 > For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one. (1 John 5:7, KJV)
 > God is a Spirit: and they that worship him must worship him in spirit and in truth. (John 4:24, KJV)
 > No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him. (John 1:18, KJV)
@@ -19,7 +19,7 @@
 
 #### (a) The human nature of Christ is the human spirit, soul, and glorified human body (unlimited possibilities)
 
-#### (b) The divine nature of Christ is the Holy One, the Triune God, and the functional priority of action is God the Word. (Priority of the Divine nature over man – God in the flesh) John 1:1, 14, 18,Col. 1:15-16; 2:9, - Eph. 3:9,Heb. 1:1-3. (Gen. 3:8; 18:1-2; 32:28,Ex. 24:9-11; 33:11,Dan. 3:25)
+#### (b) The divine nature of Christ is the Holy One, the Triune God, and the functional priority of action is God the Word. (The priority of the Divine nature over man is God in the flesh) John 1:1, 14, 18,Col. 1:15-16; 2:9, - Eph. 3:9,Heb. 1:1-3. (Gen. 3:8; 18:1-2; 32:28,Ex. 24:9-11; 33:11,Dan. 3:25)
 > In the beginning was the Word, and the Word was with God, and the Word was God. (John 1:1, KJV)
 > And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth. (John 1:14, KJV)
 > No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him. (John 1:18, KJV)
@@ -62,7 +62,7 @@
 > He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities. (Isa. 53:11, KJV)
 > Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times. And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined. (Dan. 9:25-26, KJV)
 
-### (3) Rejection of the Word of God, the Covenant, Christ, the human faith, the majority, misunderstanding of Christmas (God in the flesh) and Easter (the All-sufficient Sacrifice of Christ)
+### (3) Rejection of the Word of God, the Covenant, Christ, human faith, the majority, misunderstanding of Christmas (God in the flesh) and Easter (the All-sufficient Sacrifice of Christ)
 
 #### (a) The Pharisees and the Scribes. John 10:33,Rom. 9:30-33
 > The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. (John 10:33, KJV)
@@ -74,7 +74,7 @@
 > And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth, To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin’s name was Mary. And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women. And when she saw him, she was troubled at his saying, and cast in her mind what manner of salutation this should be. And the angel said unto her, Fear not, Mary: for thou hast found favour with God. And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS. He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David: And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end. Then said Mary unto the angel, How shall this be, seeing I know not a man? And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God. (Luke 1:26-35, KJV)
 > Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost. Then Joseph her husband, being a just man, and not willing to make her a publick example, was minded to put her away privily. But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost. And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins. Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying, Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us. (Matt. 1:18-23, KJV)
 
-### (1) The Immaculate conception, the seed of the wife, the fulfillment of the Word of God (The importance of understanding Mary's salvation and rebirth – acceptance of the Word of God, the Covenant, Christ, faith in Christ Coming as God in the flesh and faith in the Sufficiency of His Sacrifice)
+### (1) The Immaculate conception, the seed of the wife, the fulfillment of the Word of God (The importance of understanding Mary's salvation and rebirth is acceptance of the Word of God, the Covenant, Christ, faith in Christ Coming as God in the flesh and faith in the Sufficiency of His Sacrifice)
 
 ### (2) The importance of the birth of Christ in the likeness of sinful flesh, the fulfillment of the sentence of the Word of God – either I or Christ instead of me (the impossibility of fulfilling the Word of God in a glorified body)
 
@@ -101,14 +101,14 @@
 
 ## 5) Misunderstanding of Christmas
 
-### (1) Traditions, mysticism (Santa Claus, reindeer, etc.) – actions without understanding and affirming the Word of God, the Covenant, Christ (The importance of correctly communicating the Word of God to children, the Covenant, Christ – the birth of Jesus Christ, gifts from God through parents, etc.)
+### (1) Traditions, mysticism (Santa Claus, reindeer, etc.) – actions without understanding and affirming the Word of God, the Covenant, Christ (The importance of correctly communicating the Word of God, the Covenant, Christ to children – the birth of Jesus Christ, gifts from God through parents, etc.)
 
-### (2) Religion – non-acceptance of the Word of God, the Covenant, Christ (The heresy of "Arianism", "mixed gospel" and "partial salvation" – denial of the fact of forgiveness of all sins and salvation through Jesus Christ and His Sacrifice)
+### (2) Religion – non-acceptance of the Word of God, the Covenant, and Christ (The heresy of "Arianism", "mixed gospel", and "partial salvation" – denial of the fact of forgiveness of all sins and salvation through Jesus Christ and His Sacrifice)
 
 ## Conclusion:
 
-### (1) The importance of celebrating the Nativity of Christ with a correct, deep and accurate understanding of the Word of God, the Covenant, Christ
+### (1) The importance of celebrating the Nativity of Christ with a correct, deep and accurate understanding of the Word of God, the Covenant, and Christ
 
-### (2) The special importance of the Church is the explanation of the Word of God, the Covenant, Christ, the importance of understanding the meaning and purpose of the birth of Christ
+### (2) The special importance of the Church is the explanation of the Word of God, the Covenant, and Christ, and the importance of understanding the meaning and purpose of Christ's birth
 
-### (3) Christmas is God's control of time, the importance of human choice in relation to eternity (acceptance of the Divinity of Christ and the All–sufficiency of His Sacrifice), the importance of fulfilling the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+### (3) Christmas is God's control of time, the importance of human choice in relation to eternity (acceptance of the Divinity of Christ and the All–sufficiency of His Sacrifice), the importance of fulfilling the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)

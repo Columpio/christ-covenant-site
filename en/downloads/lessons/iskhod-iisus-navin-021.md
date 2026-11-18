@@ -1,5 +1,5 @@
 # Num. 1–4
-## 1.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 1.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -11,7 +11,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-## 2) Num. 1-2, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 2) Num. 1-2, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
 ### (1) The Reckoning of God's people – the importance of Canaan, World Evangelization, the coming of Christ, the redemption of mankind, God's plan
 
@@ -23,7 +23,7 @@
 
 ### (4) Levites – Tabernacle, Worship (knowledge and transmission of the Word of God, the Covenant, Christ, full dedication of life to the service of God)
 
-## 3) Num. 3-4, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 3) Num. 3-4, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
 ### (1) Num. 3:1-4, - priests, sons of Aaron
 > These also are the generations of Aaron and Moses in the day that the LORD spake with Moses in mount Sinai. And these are the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar. These are the names of the sons of Aaron, the priests which were anointed, whom he consecrated to minister in the priest’s office. And Nadab and Abihu died before the LORD, when they offered strange fire before the LORD, in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest’s office in the sight of Aaron their father. (Num. 3:1-4, KJV)
@@ -45,7 +45,7 @@
 
 #### (c) The genus of Merarites is wooden and metal. parts, fasteners
 
-### (3) Num. 3:39-51, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, the importance of fulfilling the destiny of God's people
+### (3) Num. 3:39-51, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, and the importance of fulfilling the destiny of God's people
 > All that were numbered of the Levites, which Moses and Aaron numbered at the commandment of the LORD, throughout their families, all the males from a month old and upward, were twenty and two thousand. And the LORD said unto Moses, Number all the firstborn of the males of the children of Israel from a month old and upward, and take the number of their names. And thou shalt take the Levites for me (I am the LORD) instead of all the firstborn among the children of Israel; and the cattle of the Levites instead of all the firstlings among the cattle of the children of Israel. And Moses numbered, as the LORD commanded him, all the firstborn among the children of Israel. And all the firstborn males by the number of names, from a month old and upward, of those that were numbered of them, were twenty and two thousand two hundred and threescore and thirteen. And the LORD spake unto Moses, saying, Take the Levites instead of all the firstborn among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be mine: I am the LORD. And for those that are to be redeemed of the two hundred and threescore and thirteen of the firstborn of the children of Israel, which are more than the Levites; Thou shalt even take five shekels apiece by the poll, after the shekel of the sanctuary shalt thou take them: (the shekel is twenty gerahs:) And thou shalt give the money, wherewith the odd number of them is to be redeemed, unto Aaron and to his sons. And Moses took the redemption money of them that were over and above them that were redeemed by the Levites: Of the firstborn of the children of Israel took he the money; a thousand three hundred and threescore and five shekels, after the shekel of the sanctuary: And Moses gave the money of them that were redeemed unto Aaron and to his sons, according to the word of the LORD, as the LORD commanded Moses. (Num. 3:39-51, KJV)
 
 #### (a) The number of Levites is 22,000
@@ -61,24 +61,24 @@
 ### (4) Num. 4:1-3, - the importance of fulfilling the purpose, the importance of the Tabernacle, the best years of life for serving God
 > And the LORD spake unto Moses and unto Aaron, saying, Take the sum of the sons of Kohath from among the sons of Levi, after their families, by the house of their fathers, From thirty years old and upward even until fifty years old, all that enter into the host, to do the work in the tabernacle of the congregation. (Num. 4:1-3, KJV)
 
-## 4) The participation of the children of God in the accomplishment of World Evangelization
+## 4) The participation of God's children in Worldwide Evangelization
 
 ### (1) Personal Evangelism – Non-believers, the importance of communication
 
 #### (a) Saving predestined people, a minority
 
-#### (b) Proclaiming the Word of God, the Covenant, Christ – a person's right to choose Matt. 1:21; 7:13-14,John 8:47
+#### (b) Proclaiming the Word of God, the Covenant, and Christ – a person's right to choose Matt. 1:21; 7:13-14,John 8:47
 > And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins. (Matt. 1:21, KJV)
 > Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it. (Matt. 7:13-14, KJV)
 > He that is of God heareth God’s words: ye therefore hear them not, because ye are not of God. (John 8:47, KJV)
 
 ### (2) Church Evangelization – believers, the importance of communication and interaction of believers
 
-### (3) Method – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization, preparation of the coming of Christ. (The importance of Worldwide Evangelization in terms of distance and time)
+### (3) The method is the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, and preparation for the coming of Christ. (The importance of Worldwide Evangelization in terms of distance and time)
 
-### (4) The participation of the children of God in the accomplishment of World Evangelization
+### (4) The participation of God's children in Worldwide Evangelization
 
-#### (a) Knowledge and transmission of the Word of God, the Covenant, Christ
+#### (a) Knowledge and transmission of the Word of God, the Covenant, and Christ
 
 #### (b) Prayer
 
@@ -92,18 +92,18 @@
 ### (2) The influence of the world. Ps. 73:1-17. (Emphasis on the visible – family, finances, worries, etc.)
 > A Psalm of Asaph. Truly God is good to Israel, even to such as are of a clean heart. But as for me, my feet were almost gone; my steps had well nigh slipped. For I was envious at the foolish, when I saw the prosperity of the wicked. For there are no bands in their death: but their strength is firm. They are not in trouble as other men; neither are they plagued like other men. Therefore pride compasseth them about as a chain; violence covereth them as a garment. Their eyes stand out with fatness: they have more than heart could wish. They are corrupt, and speak wickedly concerning oppression: they speak loftily. They set their mouth against the heavens, and their tongue walketh through the earth. Therefore his people return hither: and waters of a full cup are wrung out to them. And they say, How doth God know? and is there knowledge in the most High? Behold, these are the ungodly, who prosper in the world; they increase in riches. Verily I have cleansed my heart in vain, and washed my hands in innocency. For all the day long have I been plagued, and chastened every morning. If I say, I will speak thus; behold, I should offend against the generation of thy children. When I thought to know this, it was too painful for me; Until I went into the sanctuary of God; then understood I their end. (Ps. 73:1-17, KJV)
 
-### (3) The influence of Satan and demons is another word. 1 Pet. 5:8,Col. 2:8. (Proclaiming false teachings, tempting and deceiving the people of God)
+### (3) The influence of Satan and demons is another word. 1 Pet. 5:8,Col. 2:8. (Proclaiming false teachings, tempting and deceiving God's people)
 > Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: (1 Pet. 5:8, KJV)
 > Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ. (Col. 2:8, KJV)
 
-### (4) The temptations of God's people – God's acceptance, understanding of the human right to choose, the importance of preserving the Word of God, the Covenant, and Christ until the moment of separation of soul and body. Heb. 3:12-14,2 Pet. 3:17
+### (4) The temptations of God's people are God's acceptance, understanding of man's right to choose, and the importance of preserving God's Word, Covenant, and Christ until the moment of separation of soul and body. Heb. 3:12-14,2 Pet. 3:17
 > Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God. But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin. For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end; (Heb. 3:12-14, KJV)
 > Ye therefore, beloved, seeing ye know these things before, beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness. (2 Pet. 3:17, KJV)
 
 ## Conclusion:
 
-### (1) The importance of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ (Understanding the purpose of Canaan, the Disciples, World Evangelization)
+### (1) The importance of the people of God is the knowledge and transmission of the Word of God, the Covenant, and Christ (Understanding the purpose of Canaan, the Disciples, and Worldwide Evangelization)
 
-### (2) The action of Satan is to stop the transmission of the Word of God, the Covenant, Christ (Circumstances, ministers, loved ones)
+### (2) Satan's action is to stop the transmission of the Word of God, the Covenant, Christ (Circumstances, minister, loved ones)
 
-### (3) Worldwide Evangelization, Canaan, the coming of Christ – God sovereignty. (With or without us, it's better to participate)
+### (3) Worldwide Evangelization, Canaan, the coming of Christ – God's sovereignty. (With or without us, it's better to participate)

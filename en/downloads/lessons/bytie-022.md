@@ -17,7 +17,7 @@
 
 #### (a) The Holy and Righteous Man—the cause of Emmanuel, the status and responsibility of man
 
-#### (b) The spiritual man is the cause of Emmanuel, the knowledge and transmission of the Word of God, the Covenant, Christ, the fruits of the Spirit. 1 Cor. 2:14,Gal. 5:22-23
+#### (b) The spiritual man is the cause of Emmanuel, the knowledge and transmission of the Word of God, the Covenant, Christ, the fruits of the spirit. 1 Cor. 2:14,Gal. 5:22-23
 > But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned. (1 Cor. 2:14, KJV)
 > But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, Meekness, temperance: against such there is no law. (Gal. 5:22-23, KJV)
 
@@ -29,7 +29,7 @@
 
 #### (a) Sinful and unrighteous man - no Emmanuel, status and responsibility of man
 
-#### (b) Carnal or spiritual man – there is no Emmanuel, lack of knowledge and transmission of the Word of God, the Covenant, Christ, the works of the flesh 1 Cor. 2:14,Gal. 5:19-21
+#### (b) Carnal or spiritual man – there is no Emmanuel, the lack of knowledge and transmission of the Word of God, the Covenant, Christ, the work of the flesh 1 Cor. 2:14,Gal. 5:19-21
 > But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned. (1 Cor. 2:14, KJV)
 > Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness, Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies, Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God. (Gal. 5:19-21, KJV)
 
@@ -47,7 +47,7 @@
 > But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned. (1 Cor. 2:14, KJV)
 > But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, Meekness, temperance: against such there is no law. (Gal. 5:22-23, KJV)
 
-#### (c) Carnal believer (strong influence of the remnants of sin) – the reason is Emmanuel, weak knowledge and transmission of the Word of God, the Covenant, Christ, self-will, desire for the visible. 1 Cor. 3:1-4
+#### (c) Carnal believer (strong influence of the remnants of sin) – the cause is Emmanuel, weak knowledge and transmission of the Word of God, the Covenant, Christ, self-will, desire for the visible. 1 Cor. 3:1-4
 > And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ. I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able. For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men? For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal? (1 Cor. 3:1-4, KJV)
 
 ## 2) The importance of understanding Holiness and Righteousness
@@ -71,7 +71,7 @@
 
 #### (b) The GOOD NEWS – works as a consequence of receiving Holiness and Righteousness through faith in Christ and accepting His Sacrifice, the action and help of God's grace
 
-### (4) God's Holiness and Righteousness "de jure" - the status and responsibility of man, acceptance and preservation of the Word of God, the Covenant, Christ
+### (4) God's de jure Holiness and Righteousness is the status and responsibility of man, the acceptance and preservation of the Word of God, the Covenant, and Christ
 
 ### (5) God's "de facto" Holiness and Righteousness is the effect of God's grace, sanctification and change of man 1 Pet. 1:15-16,Heb. 12:14,Eph. 1:4-5
 > But as he which hath called you is holy, so be ye holy in all manner of conversation; Because it is written, Be ye holy; for I am holy. (1 Pet. 1:15-16, KJV)
@@ -91,7 +91,7 @@
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
 > Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ, And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith: (Phil. 3:8-9, KJV)
 
-### (7) Loss of Righteousness and Holiness – rejection of the Word of God, the Covenant, Christ
+### (7) The loss of Righteousness and Holiness is the abandonment of the Word of God, the Covenant, and Christ
 
 ## 3) The imputation of Righteousness and Holiness to man
 
@@ -132,7 +132,7 @@
 
 ## 4) Correct understanding of Sanctification
 
-### (1) Sanctification (process, derivative of holiness, action of the Holy Spirit) is the change and separation of a person from the world to serve God through the knowledge and transmission of the Word of God, the Covenant, Christ Rev. 22:11,1 Thess. 4:3; 5:23-24, - John 8:31-32; 17:19; 15:5
+### (1) Sanctification (a process derived from holiness, the action of the Holy Spirit) is the change and separation of a person from the world to serve God through the knowledge and transmission of the Word of God, the Covenant, Christ Rev. 22:11,1 Thess. 4:3; 5:23-24, - John 8:31-32; 17:19; 15:5
 > He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still. (Rev. 22:11, KJV)
 > For this is the will of God, even your sanctification, that ye should abstain from fornication: (1 Thess. 4:3, KJV)
 > And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ. Faithful is he that calleth you, who also will do it. (1 Thess. 5:23-24, KJV)
@@ -144,14 +144,14 @@
 
 ## 5) Understanding the method of human formation
 
-### (1) The formation of human thinking is the ideology of the world, another word. (Ideology, value system – thoughts – desires – actions)
+### (1) The formation of human thinking is the ideology of peace, another word. (Ideology, value system – thoughts – desires – actions)
 
-### (2) Shaping the thinking of the people of God is the ideology of God. (Ideology, value system – thoughts – desires – actions)
+### (2) The formation of the mindset of God's people is the ideology of God. (Ideology, value system – thoughts – desires – actions)
 
 ### (3) Unwillingness to know and transmit the Word of God, the Covenant, Christ, man's choice (Idols, vanity – man's worldly ideology and worldview, wrong priorities of life, emphasis on the visible)
 
 ## Conclusion:
 
-### (1) The importance of understanding the Word of God, the Covenant, Christ
+### (1) The importance of understanding the Word of God, the Covenant, and Christ
 
-### (2) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization
+### (2) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization

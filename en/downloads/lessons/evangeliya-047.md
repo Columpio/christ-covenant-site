@@ -3,12 +3,12 @@
 ## 1) John 17:1-10, - affirmation of the Word of God, the Covenant, Christ, the importance of properly understanding the true glorification of God
 > These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee: As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him. And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent. I have glorified thee on the earth: I have finished the work which thou gavest me to do. And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was. I have manifested thy name unto the men which thou gavest me out of the world: thine they were, and thou gavest them me; and they have kept thy word. Now they have known that all things whatsoever thou hast given me are of thee. For I have given unto them the words which thou gavest me; and they have received them, and have known surely that I came out from thee, and they have believed that thou didst send me. I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine. And all mine are thine, and thine are mine; and I am glorified in them. (John 17:1-10, KJV)
 
-### (1) John 17:1, - the importance of understanding the Word of God, the Covenant, Christ
+### (1) John 17:1, - the importance of understanding the Word of God, the Covenant, and Christ
 > These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee: (John 17:1, KJV)
 
 #### (a) To glorify – to make known
 
-#### (b) Glorification – God is action, God is sovereignty, sign. time
+#### (b) Glorification is God's action, God's sovereignty, and a sign. time
 
 #### (c) The glorification of Christ and God – the knowledge of Christ and God, the understanding of God's will, the Sacrifice and the Feat of Christ
 
@@ -37,10 +37,10 @@
 > Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen. (Rom. 9:5, KJV)
 > Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ; (Titus 2:13, KJV)
 
-### (3) John 17:4, - affirmation of the Word of God, the Covenant, Christ, fulfillment of the predestined
+### (3) John 17:4, - the affirmation of the Word of God, the Covenant, of Christ, the fulfillment of the predestined
 > I have glorified thee on the earth: I have finished the work which thou gavest me to do. (John 17:4, KJV)
 
-#### (a) Establishment and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization
+#### (a) The affirmation and transmission of the Word of God, the Covenant, Christ, the Disciples, and Worldwide Evangelization
 
 #### (b) The execution of the sentence of the Word of God, the redemption of mankind
 
@@ -60,39 +60,39 @@
 ### (5) John 17:6-7, - The importance of understanding God's sovereignty
 > I have manifested thy name unto the men which thou gavest me out of the world: thine they were, and thou gavest them me; and they have kept thy word. Now they have known that all things whatsoever thou hast given me are of thee. (John 17:6-7, KJV)
 
-#### (a) The action of Christ, the Word of God, is to reveal the Name of God, understanding the Word of God, the Covenant, Christ, understanding the purpose
+#### (a) The action of Christ, the Word of God, is to reveal the Name of God, the understanding of the Word of God, the Covenant, Christ, the understanding of destiny
 
 #### (b) Understanding God's foreknowledge and election – God's knowledge and calling of his people, God's timetable of time
 
 #### (c) Understanding God's sovereignty and control
 
-### (6) John 17:8, - the importance of understanding the destiny of the people of God
+### (6) John 17:8, - the importance of understanding the destiny of God's people
 > For I have given unto them the words which thou gavest me; and they have received them, and have known surely that I came out from thee, and they have believed that thou didst send me. (John 17:8, KJV)
 
-#### (a) Importance of transmitting the Word of God, the Covenant, Christ, the disciples, World Evangelism
+#### (a) The importance of transmitting the Word of God, the Covenant, Christ, the Disciples, and Worldwide Evangelization
 
 #### (b) The importance of accepting the Word of God, the Covenant, Christ, the importance of the disciple
 
-### (7) John 17:9-10, - the importance of conveying the Word of God, the Covenant, Christ
+### (7) John 17:9-10, - the importance of conveying the Word of God, the Covenant, and Christ
 > I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine. And all mine are thine, and thine are mine; and I am glorified in them. (John 17:9-10, KJV)
 
-#### (a) God's sovereignty, prayer for the disciples – the importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization
+#### (a) God's sovereignty, prayer for the disciples – the importance of learning and transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
 #### (b) The belonging of the people of God to Christ and God – the children of God, the importance of understanding the status of the people of God
 
 #### (c) Glorifying Christ and God through God's people – the importance of understanding and fulfilling destiny
 
-## 2) John 17:11-19, - the importance of understanding the Word of God, the Covenant, Christ
+## 2) John 17:11-19, - the importance of understanding the Word of God, the Covenant, and Christ
 > And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we are. While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled. And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves. I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world. I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil. They are not of the world, even as I am not of the world. Sanctify them through thy truth: thy word is truth. As thou hast sent me into the world, even so have I also sent them into the world. And for their sakes I sanctify myself, that they also might be sanctified through the truth. (John 17:11-19, KJV)
 
 ### (1) John 17:11-12, - God's sovereignty and control
 > And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we are. While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled. (John 17:11-12, KJV)
 
-#### (a) The unchanging fulfillment of the Word of God, the Covenant, Christ – the death and resurrection of Christ, the fulfillment of the sentence of the Word of God
+#### (a) The unchanging fulfillment of the Word of God, the Covenant, of Christ – the death and resurrection of Christ, the fulfillment of the sentence of the Word of God
 
-#### (b) The importance of Emmanuel – unity with God, God sovereignty
+#### (b) The importance of Emmanuel – unity with God, God's sovereignty
 
-#### (c) God's foreknowledge, the unfailing fulfillment of the Word of God– Judas Iscariot, the son of perdition. Ps. 41:9
+#### (c) God's foreknowledge, the unfailing fulfillment of God's Word–Judas Iscariot, the son of perdition. Ps. 41:9
 > Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up his heel against me. (Ps. 41:9, KJV)
 
 ### (2) John 17:13, - understanding the Word of God, the Covenant, Christ, the joy of Christ in man
@@ -100,18 +100,18 @@
 
 #### (a) Understanding and accepting Christ – forgiveness of all sins and salvation, reconciliation with God, Emmanuel and eternal life
 
-#### (b) Knowledge and transmission of the Word of God, the Covenant, Christ, the purpose of saving many people, Worldwide Evangelization, preparation for the coming of Christ
+#### (b) Knowledge and transmission of the Word of God, the Covenant, and Christ, the purpose of saving many people, Worldwide Evangelization, and preparation for the coming of Christ
 
 #### (c) Understanding God's sovereignty – confidence in God's guidance and victory, understanding the future
 
-### (3) John 17:14-16, - understanding the actions of Satan
+### (3) John 17:14-16, - understanding the work of Satan
 > I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world. I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil. They are not of the world, even as I am not of the world. (John 17:14-16, KJV)
 
-#### (a) Understanding the action of Satan - opposition to the knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, ideology of the world
+#### (a) Understanding the work of Satan – resisting the knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the ideology of peace
 
 #### (b) God's sovereignty and control – preservation from evil
 
-#### (c) The importance of salvation and rebirth – the legitimate belonging of man to God (children of God, the status of the people of God)
+#### (c) The importance of salvation and rebirth – the legitimate belonging of man to God (children of God, the status of God's people)
 
 ### (4) John 17:17-19, - the importance of fulfilling the purpose
 > Sanctify them through thy truth: thy word is truth. As thou hast sent me into the world, even so have I also sent them into the world. And for their sakes I sanctify myself, that they also might be sanctified through the truth. (John 17:17-19, KJV)
@@ -120,29 +120,29 @@
 
 #### (b) Sanctification is only through the knowledge of the truth of the Word of God, the importance of knowing and transmitting the Word of God, the Covenant, and Christ to the people of God
 
-#### (c) The importance of understanding and fulfilling the purpose. The people of God are those sent into the world by Christ for the proclamation of the Word of God, the Covenant, Christ
+#### (c) The importance of understanding and fulfilling the purpose. the people of God are those sent into the world by Christ for the proclamation of the Word of God, the Covenant, and Christ
 
 #### (d) The death of Christ is a legitimate right to salvation and sanctification
 
 ## 3) John 17:20-26, - understanding the Word of God, the Covenant, Christ, understanding the will of God
 > Neither pray I for these alone, but for them also which shall believe on me through their word; That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me. And the glory which thou gavest me I have given them; that they may be one, even as we are one: I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me. Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world. O righteous Father, the world hath not known thee: but I have known thee, and these have known that thou hast sent me. And I have declared unto them thy name, and will declare it: that the love wherewith thou hast loved me may be in them, and I in them. (John 17:20-26, KJV)
 
-### (1) John 17:20-23, - statement of the Word of God, Covenant, Xp, understanding of the will of God
+### (1) John 17:20-23, - affirmation of God's Word, Covenant, Xp, understanding of God's will
 > Neither pray I for these alone, but for them also which shall believe on me through their word; That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me. And the glory which thou gavest me I have given them; that they may be one, even as we are one: I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me. (John 17:20-23, KJV)
 
-#### (a) The importance of Emmanuel – the knowledge and transmission of the Word of God, the Covenant, Christ (Christ's prayer for believers N.Z., understanding the will of God)
+#### (a) The importance of Emmanuel is the knowledge and transmission of the Word of God, the Covenant, and Christ (Christ's prayer for believers, understanding the will of God)
 
 #### (b) The importance of understanding the love of God for the people of God – The Sacrifice and Labor of Christ, redemption and salvation. Rom. 5:8
 > But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us. (Rom. 5:8, KJV)
 
-### (2) John 17:24-26, - statement of the Word of God, Covenant, Xp, understanding of the will of God
+### (2) John 17:24-26, - affirmation of God's Word, Covenant, Xp, understanding of God's will
 > Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world. O righteous Father, the world hath not known thee: but I have known thee, and these have known that thou hast sent me. And I have declared unto them thy name, and will declare it: that the love wherewith thou hast loved me may be in them, and I in them. (John 17:24-26, KJV)
 
-#### (a) Eternity with Christ is God's will for the people of God
+#### (a) Eternity with Christ is God's will for God's people
 
 #### (b) The existence of Christ in eternity before the creation of the world
 
-#### (b) Non–acceptance of the Word of God, the Covenant, Christ, refusal to know God is sin
+#### (b) Not accepting the Word of God, the Covenant, Christ, and refusing to know God is a sin.
 
 #### (c) Acceptance of the Word of God, the Covenant, Christ, knowledge of God and His love – the purpose and meaning of human life, the importance of Emmanuel
 

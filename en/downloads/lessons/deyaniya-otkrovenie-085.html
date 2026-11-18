@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,16 +233,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>Eph. 2</h1>
-<h2 id="s1">2.1) Eph. 2:1-10, - the importance of understanding the Word of God, the Covenant, Christ</h2>
+<h2 id="s1">2.1) Eph. 2:1-10, - the importance of understanding the Word of God, the Covenant, and Christ</h2>
 <blockquote data-v="kjv"><p>And you hath he quickened, who were dead in trespasses and sins; Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others. But God, who is rich in mercy, for his great love wherewith he loved us, Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;) And hath raised us up together, and made us sit together in heavenly places in Christ Jesus: That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus. For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast. For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.</p><cite>Eph. 2:1-10 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And you were dead in your trespasses and sins, in which you used to walk when you conformed to the ways of this world and of the ruler of the power of the air, the spirit who is now at work in the sons of disobedience. All of us also lived among them at one time, fulfilling the cravings of our flesh and indulging its desires and thoughts. Like the rest, we were by nature children of wrath. But because of His great love for us, God, who is rich in mercy, made us alive with Christ even when we were dead in our trespasses. It is by grace you have been saved! And God raised us up with Christ and seated us with Him in the heavenly realms in Christ Jesus, in order that in the coming ages He might display the surpassing riches of His grace, demonstrated by His kindness to us in Christ Jesus. For it is by grace you have been saved through faith, and this not from yourselves; it is the gift of God, not by works, so that no one can boast. For we are God’s workmanship, created in Christ Jesus to do good works, which God prepared in advance as our way of life.</p><cite>Eph. 2:1-10 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>You were made alive when you were dead in transgressions and sins, in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the children of disobedience. We also all once lived among them in the lusts of our flesh, doing the desires of the flesh and of the mind, and were by nature children of wrath, even as the rest. But God, being rich in mercy, for his great love with which he loved us, even when we were dead through our trespasses, made us alive together with Christ—by grace you have been saved— and raised us up with him, and made us to sit with him in the heavenly places in Christ Jesus, that in the ages to come he might show the exceeding riches of his grace in kindness toward us in Christ Jesus; for by grace you have been saved through faith, and that not of yourselves; it is the gift of God, not of works, that no one would boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared before that we would walk in them.</p><cite>Eph. 2:1-10 · WEB</cite></blockquote>
@@ -292,7 +294,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>in which you used to walk when you conformed to the ways of this world and of the ruler of the power of the air, the spirit who is now at work in the sons of disobedience.</p><cite>Eph. 2:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the children of disobedience.</p><cite>Eph. 2:2 · WEB</cite></blockquote>
 <h4>(a) S. is a creation, a being with intelligence, will, and emotions</h4>
-<h4>(b) The Kingdom of Satan – the air space, the heavenly kingdom</h4>
+<h4>(b) The kingdom of Satan is the air space, the heavenly kingdom</h4>
 <h3>(3) Eph. 2:3, - the importance of understanding spiritual reality</h3>
 <blockquote data-v="kjv"><p>Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.</p><cite>Eph. 2:3 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>All of us also lived among them at one time, fulfilling the cravings of our flesh and indulging its desires and thoughts. Like the rest, we were by nature children of wrath.</p><cite>Eph. 2:3 · BSB</cite></blockquote>
@@ -303,7 +305,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned.</p><cite>1 Cor. 2:14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>The natural man does not accept the things that come from the Spirit of God. For they are foolishness to him, and he cannot understand them, because they are spiritually discerned.</p><cite>1 Cor. 2:14 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now the natural man doesn’t receive the things of God’s Spirit, for they are foolishness to him; and he can’t know them, because they are spiritually discerned.</p><cite>1 Cor. 2:14 · WEB</cite></blockquote>
-<h3>(4) Eph. 2:4-7, - the importance of understanding the Word of God, the Covenant, Christ</h3>
+<h3>(4) Eph. 2:4-7, - the importance of understanding the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>But God, who is rich in mercy, for his great love wherewith he loved us, Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;) And hath raised us up together, and made us sit together in heavenly places in Christ Jesus: That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus.</p><cite>Eph. 2:4-7 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But because of His great love for us, God, who is rich in mercy, made us alive with Christ even when we were dead in our trespasses. It is by grace you have been saved! And God raised us up with Christ and seated us with Him in the heavenly realms in Christ Jesus, in order that in the coming ages He might display the surpassing riches of His grace, demonstrated by His kindness to us in Christ Jesus.</p><cite>Eph. 2:4-7 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But God, being rich in mercy, for his great love with which he loved us, even when we were dead through our trespasses, made us alive together with Christ—by grace you have been saved— and raised us up with him, and made us to sit with him in the heavenly places in Christ Jesus, that in the ages to come he might show the exceeding riches of his grace in kindness toward us in Christ Jesus;</p><cite>Eph. 2:4-7 · WEB</cite></blockquote>
@@ -314,7 +316,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.</p><cite>Rom. 5:8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But God proves His love for us in this: While we were still sinners, Christ died for us.</p><cite>Rom. 5:8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But God commends his own love toward us, in that while we were yet sinners, Christ died for us.</p><cite>Rom. 5:8 · WEB</cite></blockquote>
-<h4>(b) Eph. 2:5, - the importance of accepting the Word of God, the Covenant, Christ, the work of God's grace, salvation, and being born again</h4>
+<h4>(b) Eph. 2:5, - the importance of accepting the Word of God, the Covenant, Christ, the effect of God's grace, salvation, and being born again</h4>
 <blockquote data-v="kjv"><p>Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)</p><cite>Eph. 2:5 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>made us alive with Christ even when we were dead in our trespasses. It is by grace you have been saved!</p><cite>Eph. 2:5 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>even when we were dead through our trespasses, made us alive together with Christ—by grace you have been saved—</p><cite>Eph. 2:5 · WEB</cite></blockquote>
@@ -326,7 +328,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus.</p><cite>Eph. 2:7 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>in order that in the coming ages He might display the surpassing riches of His grace, demonstrated by His kindness to us in Christ Jesus.</p><cite>Eph. 2:7 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>that in the ages to come he might show the exceeding riches of his grace in kindness toward us in Christ Jesus;</p><cite>Eph. 2:7 · WEB</cite></blockquote>
-<h3>(5) Eph. 2:8-10, - affirmation of the Word of God, the Covenant, Christ</h3>
+<h3>(5) Eph. 2:8-10, is the affirmation of the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast. For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.</p><cite>Eph. 2:8-10 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For it is by grace you have been saved through faith, and this not from yourselves; it is the gift of God, not by works, so that no one can boast. For we are God’s workmanship, created in Christ Jesus to do good works, which God prepared in advance as our way of life.</p><cite>Eph. 2:8-10 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>for by grace you have been saved through faith, and that not of yourselves; it is the gift of God, not of works, that no one would boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared before that we would walk in them.</p><cite>Eph. 2:8-10 · WEB</cite></blockquote>
@@ -334,7 +336,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:</p><cite>Eph. 2:8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For it is by grace you have been saved through faith, and this not from yourselves; it is the gift of God,</p><cite>Eph. 2:8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>for by grace you have been saved through faith, and that not of yourselves; it is the gift of God,</p><cite>Eph. 2:8 · WEB</cite></blockquote>
-<h4>(b) Eph. 2:9, - salvation is impossible through the works of man (all religions)</h4>
+<h4>(b) Eph. 2:9, - salvation is impossible through human actions (all religions)</h4>
 <blockquote data-v="kjv"><p>Not of works, lest any man should boast.</p><cite>Eph. 2:9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>not by works, so that no one can boast.</p><cite>Eph. 2:9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>not of works, that no one would boast.</p><cite>Eph. 2:9 · WEB</cite></blockquote>
@@ -342,8 +344,8 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.</p><cite>Eph. 2:10 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For we are God’s workmanship, created in Christ Jesus to do good works, which God prepared in advance as our way of life.</p><cite>Eph. 2:10 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For we are his workmanship, created in Christ Jesus for good works, which God prepared before that we would walk in them.</p><cite>Eph. 2:10 · WEB</cite></blockquote>
-<h4>(d) The importance of understanding the meaning of good deeds (spiritual, spiritual, physical) – the transmission of the Word of God, the Covenant, Christ</h4>
-<h2 id="s2">2) Eph. 2:11-22, - affirmation of the Word of God, the Covenant, Christ</h2>
+<h4>(d) The importance of understanding the meaning of good deeds (spiritual, spiritual, physical) – conveying the Word of God, the Covenant, and Christ</h4>
+<h2 id="s2">2) Eph. 2:11-22, - affirmation of the Word of God, the Covenant, of Christ</h2>
 <blockquote data-v="kjv"><p>Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands; That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world: But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ. For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us; Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace; And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby: And came and preached peace to you which were afar off, and to them that were nigh. For through him we both have access by one Spirit unto the Father. Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God; And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone; In whom all the building fitly framed together groweth unto an holy temple in the Lord: In whom ye also are builded together for an habitation of God through the Spirit.</p><cite>Eph. 2:11-22 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Therefore remember that formerly you who are Gentiles in the flesh and called uncircumcised by the so-called circumcision (that done in the body by human hands)— remember that at that time you were separate from Christ, alienated from the commonwealth of Israel, and strangers to the covenants of the promise, without hope and without God in the world. But now in Christ Jesus you who once were far away have been brought near through the blood of Christ. For He Himself is our peace, who has made the two one and has torn down the dividing wall of hostility by abolishing in His flesh the law of commandments and decrees. He did this to create in Himself one new man out of the two, thus making peace and reconciling both of them to God in one body through the cross, by which He put to death their hostility. He came and preached peace to you who were far away and peace to those who were near. For through Him we both have access to the Father by one Spirit. Therefore you are no longer strangers and foreigners, but fellow citizens with the saints and members of God’s household, built on the foundation of the apostles and prophets, with Christ Jesus Himself as the cornerstone. In Him the whole building is fitted together and grows into a holy temple in the Lord. And in Him you too are being built together into a dwelling place for God in His Spirit.</p><cite>Eph. 2:11-22 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Therefore remember that once you, the Gentiles in the flesh, who are called “uncircumcision” by that which is called “circumcision” (in the flesh, made by hands), that you were at that time separate from Christ, alienated from the commonwealth of Israel, and strangers from the covenants of the promise, having no hope and without God in the world. But now in Christ Jesus you who once were far off are made near in the blood of Christ. For he is our peace, who made both one, and broke down the middle wall of separation, having abolished in his flesh the hostility, the law of commandments contained in ordinances, that he might create in himself one new man of the two, making peace, and might reconcile them both in one body to God through the cross, having killed the hostility through it. He came and preached peace to you who were far off and to those who were near. For through him we both have our access in one Spirit to the Father. So then you are no longer strangers and foreigners, but you are fellow citizens with the saints and of the household of God, being built on the foundation of the apostles and prophets, Christ Jesus himself being the chief cornerstone; in whom the whole building, fitted together, grows into a holy temple in the Lord; in whom you also are built together for a habitation of God in the Spirit.</p><cite>Eph. 2:11-22 · WEB</cite></blockquote>
@@ -357,7 +359,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h4>(a) Pagan peoples – ignorance of God and His Word</h4>
 <h4>(b) Pagan peoples – worship of idols</h4>
 <h4>(c) The importance of God's action to save the Gentiles</h4>
-<h3>(2) Eph. 2:14-18, - affirmation of the Word of God, the Covenant, Christ</h3>
+<h3>(2) Eph. 2:14-18, is the affirmation of the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us; Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace; And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby: And came and preached peace to you which were afar off, and to them that were nigh. For through him we both have access by one Spirit unto the Father.</p><cite>Eph. 2:14-18 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For He Himself is our peace, who has made the two one and has torn down the dividing wall of hostility by abolishing in His flesh the law of commandments and decrees. He did this to create in Himself one new man out of the two, thus making peace and reconciling both of them to God in one body through the cross, by which He put to death their hostility. He came and preached peace to you who were far away and peace to those who were near. For through Him we both have access to the Father by one Spirit.</p><cite>Eph. 2:14-18 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For he is our peace, who made both one, and broke down the middle wall of separation, having abolished in his flesh the hostility, the law of commandments contained in ordinances, that he might create in himself one new man of the two, making peace, and might reconcile them both in one body to God through the cross, having killed the hostility through it. He came and preached peace to you who were far off and to those who were near. For through him we both have our access in one Spirit to the Father.</p><cite>Eph. 2:14-18 · WEB</cite></blockquote>
@@ -375,7 +377,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby:</p><cite>Eph. 2:16 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>and reconciling both of them to God in one body through the cross, by which He put to death their hostility.</p><cite>Eph. 2:16 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>and might reconcile them both in one body to God through the cross, having killed the hostility through it.</p><cite>Eph. 2:16 · WEB</cite></blockquote>
-<h4>(e) Eph. 2:17, - the importance of transmitting the Word of God, the Covenant, Christ, and peace with God to the Gentiles (far away) and to the Jews (near)</h4>
+<h4>(e) Eph. 2:17, - the importance of transmitting the Word of God, the Covenant, Christ, and peace with God for Gentiles (far away) and Jews (near)</h4>
 <blockquote data-v="kjv"><p>And came and preached peace to you which were afar off, and to them that were nigh.</p><cite>Eph. 2:17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>He came and preached peace to you who were far away and peace to those who were near.</p><cite>Eph. 2:17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He came and preached peace to you who were far off and to those who were near.</p><cite>Eph. 2:17 · WEB</cite></blockquote>
@@ -433,7 +435,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>For God does not show favoritism.</p><cite>Rom. 2:11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For there is no partiality with God.</p><cite>Rom. 2:11 · WEB</cite></blockquote>
 <h4>(d) Misunderstanding of the true descendants of Abraham, the true Israel – pride, exaltation over other nations. (2000 years people of God – 2000 years Jews – 2000 years Pagans)</h4>
-<h3>(4) Eph. 2:19-22, - the importance of understanding the Word of God, the Covenant, Christ</h3>
+<h3>(4) Eph. 2:19-22, - the importance of understanding the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God; And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone; In whom all the building fitly framed together groweth unto an holy temple in the Lord: In whom ye also are builded together for an habitation of God through the Spirit.</p><cite>Eph. 2:19-22 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Therefore you are no longer strangers and foreigners, but fellow citizens with the saints and members of God’s household, built on the foundation of the apostles and prophets, with Christ Jesus Himself as the cornerstone. In Him the whole building is fitted together and grows into a holy temple in the Lord. And in Him you too are being built together into a dwelling place for God in His Spirit.</p><cite>Eph. 2:19-22 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>So then you are no longer strangers and foreigners, but you are fellow citizens with the saints and of the household of God, being built on the foundation of the apostles and prophets, Christ Jesus himself being the chief cornerstone; in whom the whole building, fitted together, grows into a holy temple in the Lord; in whom you also are built together for a habitation of God in the Spirit.</p><cite>Eph. 2:19-22 · WEB</cite></blockquote>
@@ -451,11 +453,11 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;</p><cite>Eph. 2:20 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>built on the foundation of the apostles and prophets, with Christ Jesus Himself as the cornerstone.</p><cite>Eph. 2:20 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>being built on the foundation of the apostles and prophets, Christ Jesus himself being the chief cornerstone;</p><cite>Eph. 2:20 · WEB</cite></blockquote>
-<h4>(c) Eph. 2:21, - the importance of the Church, the importance of knowing and transmitting the Word of God, the Covenants, Christ, the disciples, World Evangelization (purpose)</h4>
+<h4>(c) Eph. 2:21, - the importance of the Church, the importance of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization (purpose)</h4>
 <blockquote data-v="kjv"><p>In whom all the building fitly framed together groweth unto an holy temple in the Lord:</p><cite>Eph. 2:21 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>In Him the whole building is fitted together and grows into a holy temple in the Lord.</p><cite>Eph. 2:21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>in whom the whole building, fitted together, grows into a holy temple in the Lord;</p><cite>Eph. 2:21 · WEB</cite></blockquote>
-<h4>(d) Eph. 2:22, - the importance of establishing oneself in the Word of God, the Covenant, Christ (the organization of the Church), the importance of knowing the Word of God, the Covenant, Christ, the importance of fulfilling the purpose (the action of the Holy Spirit)</h4>
+<h4>(d) Eph. 2:22, - the importance of being established in the Word of God, the Covenant, Christ (the organization of the Church), the importance of knowing the Word of God, the Covenant, Christ, the importance of fulfilling the purpose (the action of the Holy Spirit)</h4>
 <blockquote data-v="kjv"><p>In whom ye also are builded together for an habitation of God through the Spirit.</p><cite>Eph. 2:22 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And in Him you too are being built together into a dwelling place for God in His Spirit.</p><cite>Eph. 2:22 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>in whom you also are built together for a habitation of God in the Spirit.</p><cite>Eph. 2:22 · WEB</cite></blockquote>

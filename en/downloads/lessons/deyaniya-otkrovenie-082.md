@@ -6,7 +6,7 @@
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
 > And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:16-17, KJV)
 
-### (1) Fruits of the Spirit - Emmanuel, action of S.D., knowledge and transmission of the Word of God, Covenant, Christ
+### (1) Fruits of the Spirit – Emmanuel, S.D. action, knowledge and transmission of the Word of God, the Covenant, Christ
 
 ### (2) The absence of works of the flesh is a perfect man
 
@@ -16,7 +16,7 @@
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
 
-### (1) Works of the flesh - no Emmanuel, work of Satan, knowledge and transmission of “other words”
+### (1) The works of the flesh – there is no Emmanuel, the work of Satan, the knowledge and transmission of the "other word"
 
 ### (2) The absence of the fruits of the Spirit – there is no Emmanuel, there is no action of the Holy Spirit
 
@@ -24,7 +24,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-### (1) Fruits of the Spirit - Emmanuel, action of S.D., knowledge and transmission of the Word of God, Covenant, Christ
+### (1) Fruits of the Spirit – Emmanuel, S.D. action, knowledge and transmission of the Word of God, the Covenant, Christ
 
 ### (2) Manifestation of the works of the flesh - the influence of the remnants of the sinful nature of the children of God, the world and Satan
 
@@ -83,11 +83,11 @@
 
 ### (2) The formation of human thinking is the ideology of peace. (Education system – idols, Mammon, religion, philosophy)
 
-### (3) The formation of the people's mindset is God's ideology. (The teaching system – understanding the Word of God, the Covenant, Christ, the Disciples, World Evangelization)
+### (3) The formation of the mindset of God's people is God's ideology. (Learning System – understanding the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
 
 ## Conclusion:
 
-### (1) The Fruits of the Spirit – Emmanuel, the action of the Holy Spirit
+### (1) Fruits of the Spirit – Emmanuel, the action of the Holy Spirit
 
 ### (2) The works of the flesh – there is no Emmanuel, the work of Satan
 

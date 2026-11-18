@@ -2,9 +2,9 @@
 - Water Baptism is a visible evidence of making a Covenant with God
 - A sacrament is an action incomprehensible to an unbeliever
 
-## 1) The importance of understanding the Word of God, the Covenant, Christ
+## 1) The importance of understanding the Word of God, the Covenant, and Christ
 
-### (1) Gen. 1:27; 2:7, 9, 16-17; 1:28, - the importance of the Word of God, the Covenant, Christ
+### (1) Gen. 1:27; 2:7, 9, 16-17; 1:28, - the importance of the Word of God, the Covenant, and Christ
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
@@ -33,7 +33,7 @@
 
 ### (3) The visible affirmation of being in Covenant with God is Sacrifice (eating)
 
-### (4) The meaninglessness of circumcision and sacrifice without understanding and accepting the Word of God, the Covenant, Christ (God's faith)
+### (4) The meaninglessness of circumcision and sacrifice without understanding and accepting the Word of God, the Covenant, and Christ (God's faith)
 
 ## 3) The importance of understanding salvation in N.Z.
 
@@ -44,7 +44,7 @@
 
 ### (3) Visible confirmation of being in Covenant with God is Communion (bread and wine, eating)
 
-### (4) The meaninglessness of Water Baptism and Communion without understanding and accepting the Word of God, the Covenant, Christ (God's faith)
+### (4) The meaninglessness of Water Baptism and Communion without understanding and accepting the Word of God, the Covenant, and Christ (God's faith)
 
 ## 4) The importance of understanding circumcision. Gen. 17:9-14 (10)
 > And God said unto Abraham, Thou shalt keep my covenant therefore, thou, and thy seed after thee in their generations. This is my covenant, which ye shall keep, between me and you and thy seed after thee; Every man child among you shall be circumcised. And ye shall circumcise the flesh of your foreskin; and it shall be a token of the covenant betwixt me and you. And he that is eight days old shall be circumcised among you, every man child in your generations, he that is born in the house, or bought with money of any stranger, which is not of thy seed. He that is born in thy house, and he that is bought with thy money, must needs be circumcised: and my covenant shall be in your flesh for an everlasting covenant. And the uncircumcised man child whose flesh of his foreskin is not circumcised, that soul shall be cut off from his people; he hath broken my covenant. (Gen. 17:9-14, KJV)
@@ -67,17 +67,17 @@
 
 #### (d) Circumcision on the 8th day (next after the 7th day) - an indication of the resurrection of Christ, God's solution to the spiritual problem of mankind
 
-#### (e) The presence of parents, loved ones, and a priest is a promise to God to convey the Word of God, the Covenant, Christ, and the importance of understanding and fulfilling the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, Scholarship, World Evangelization, the coming of Christ)
+#### (e) The presence of parents, loved ones, and a priest is a promise to God to convey the Word of God, the Covenant, Christ, and the importance of understanding and fulfilling the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, science, Worldwide Evangelization, the coming of Christ)
 
-#### (e) True circumcision is acceptance of the Word of God, the Covenant, Christ Rom. 4:11. (Circumcision is meaningless without acceptance of the Word of God, the Covenant, Christ, Children – understanding the will of God, human salvation). 1 Tim. 2:4
+#### (e) True circumcision is acceptance of the Word of God, the Covenant, Christ Rom. 4:11. (Circumcision is meaningless without acceptance of the Word of God, the Covenant, Christ, Children – understanding the will of God, the salvation of man). 1 Tim. 2:4
 > And he received the sign of circumcision, a seal of the righteousness of the faith which he had yet being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed unto them also: (Rom. 4:11, KJV)
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 
-#### (g) Abraham (father of all believers) – Sacrifice and Communion, then Circumcision (understanding the Word of God, the Covenant, Christ, the importance of God’s faith)
+#### (g) Abraham (father of all believers) – Sacrifice and Communion, then Circumcision (understanding the Word of God, the Covenant, Christ, the importance of God's faith)
 
 #### (h) Circumcision – the Eternal Covenant (V.Z. – circumcision, N.Z. – Water Treatment)
 
-#### (i) Rejection of circumcision, rejection of the Word of God, the Covenant, Christ – destruction
+#### (i) The rejection of circumcision, the rejection of the Word of God, the Covenant, and Christ is death.
 
 ## 5) Understanding of Water Baptism, circumcision of N.Z. – visible evidence of the conclusion of a Covenant with God
 
@@ -87,11 +87,11 @@
 
 #### (a) The Baptism of John the Baptist – the death and resurrection of Christ
 
-#### (b) The baptism of Jesus Christ is the fulfillment of the Word of God, the Covenant, Christ (Death for the sins of all people and resurrection for their justification)
+#### (b) The baptism of Jesus Christ is the fulfillment of the Word of God, the Covenant, of Christ (Death for the sins of all people and resurrection for their justification)
 
 ### (2) Understanding about Christ
 
-#### (a) Died for my sins (fulfillment of the Word of God)
+#### (a) Died for my sins (fulfilling the Word of God)
 
 #### (b) He has risen for my justification. Rom. 6:23; 4:25,1 John 2:1
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
@@ -124,9 +124,9 @@
 > Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost. (Acts 2:38, KJV)
 > And Philip said, If thou believest with all thine heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God. (Acts 8:37, KJV)
 
-#### (b) Baptism is the acceptance of the Word of God, the Covenant, Christ, the choice of man. (The importance of understanding infants' lack of choice)
+#### (b) Baptism is the acceptance of the Word of God, the Covenant, Christ, and a person's choice. (The importance of understanding infants' lack of choice)
 
-#### (c) The promise to God of living in a good conscience is the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization, the coming of Christ. (The importance of understanding the impossibility of promising babies) 1 Pet. 3:21, - John 8:31-32,Matt. 28:19-20,1 Tim. 4:16,2 Tim. 2:2
+#### (c) The promise to God of living in a good conscience is the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, and the coming of Christ. (The importance of understanding the impossibility of promising babies) 1 Pet. 3:21, - John 8:31-32,Matt. 28:19-20,1 Tim. 4:16,2 Tim. 2:2
 > The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ: (1 Pet. 3:21, KJV)
 > Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; And ye shall know the truth, and the truth shall make you free. (John 8:31-32, KJV)
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
@@ -141,27 +141,27 @@
 
 ### (3) The testimony of the Church (any saved person) in relation to a person receiving Water Baptism
 
-#### (a) Man's acceptance of the Word of God, the Covenant, Christ, living in the faith of God
+#### (a) Man's acceptance of the Word of God, the Covenant, Christ, and living in the faith of God
 
-#### (b) Transmission of the Word of God, the Covenant, Christ, Fulfillment of destiny Matt. 28:19,Mark 16:16
+#### (b) Transmission of the Word of God, the Covenant, Christ, fulfillment of destiny Matt. 28:19,Mark 16:16
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: (Matt. 28:19, KJV)
 > He that believeth and is baptized shall be saved; but he that believeth not shall be damned. (Mark 16:16, KJV)
 
 ### (4) The meaning of Baptism in the name of Jesus Christ, which means equally in the name of the Father, the Son, and the Holy Spirit
 
-#### (a) Baptism in the name of the Father is a confirmation of recognition of God as one's Father, and oneself as a child of God, entering into the family and people of God through acceptance of the Word of God, the Covenant, Christ
+#### (a) Baptism in the name of the Father is a confirmation of recognition of God as one's Father, and oneself as a child of God, entering into the family and people of God through acceptance of the Word of God, the Covenant, and Christ
 
-#### (b) Baptism in the name of the Son is a confirmation of the recognition of the endowment of Christ, communion with the Universal body of Christ, and the church formation of man through acceptance of the Word of God, the Covenant, Christ
+#### (b) Baptism in the name of the Son is a confirmation of the recognition of the endowment of Christ, communion with the Universal body of Christ, and the church formation of man through the acceptance of the Word of God, the Covenant, and Christ.
 
-#### (c) Baptism in the name of the Holy Spirit – confirmation of the recognition of being born again through acceptance of the Word of God, the Covenant, Christ, rebirth from the Holy Spirit (new creation)
+#### (c) Baptism in the name of the Holy Spirit is a confirmation of the recognition of being born again through acceptance of the Word of God, the Covenant, Christ, and rebirth from the Holy Spirit (new creation)
 
 ### (5) Baptism in infancy or in other denominations
 
-#### (a) Infant baptism – the importance of receiving baptism at a conscious age with a correct understanding of the Word of God, the Covenant, Christ, confirming the importance of fulfilling the Word of God (affirming the faith of parents)
+#### (a) Infant baptism – the importance of receiving baptism at a conscious age with a correct understanding of the Word of God, the Covenant, and Christ, confirming the importance of fulfilling the Word of God (affirming the faith of parents)
 
-#### (b) Baptism in other denominations – the importance of receiving baptism with a correct understanding of the Word of God, the Covenant, Christ, the confirmation of the importance of fulfilling the Word of God (understanding man)
+#### (b) Baptism in other denominations – the importance of receiving baptism with a correct understanding of the Word of God, the Covenant, and Christ, confirming the importance of fulfilling the Word of God (understanding man)
 
-## 7) Confirmation of acceptance of the Word of God, the Covenant, Christ
+## 7) Confirmation of acceptance of the Word of God, the Covenant, and Christ
 
 ### (1) Confession (knowledge, transmission of the Word of God, Covenant, Christ) – constantly
 
@@ -173,9 +173,9 @@
 
 ### (1) Ritual, tradition – non-acceptance of the Word of God, the Covenant, Christ, the judgment of God. (A rite is a meaningless act without understanding the Covenant, Christ)
 
-### (2) Mysticism is the rejection of the Word of God, the Covenant, Christ, the judgment of God. (Mysticism is the desire for a person to receive visible answers in a supernatural way, without understanding the Word of God, the Covenant, Christ)
+### (2) Mysticism is the rejection of the Word of God, the Covenant, Christ, and the judgment of God. (Mysticism is the desire for a person to receive visible answers in a supernatural way, without understanding the Word of God, the Covenant, or Christ)
 
-### (3) Religion – non-acceptance of the Word of God, the Covenant, Christ, the judgment of God
+### (3) Religion – rejection of the Word of God, the Covenant, Christ, the judgment of God
 
 #### (a) Denial of the Divinity of Christ (Arianism)
 
@@ -188,6 +188,6 @@
 
 ## Conclusion:
 
-### (1) The importance of understanding the Word of God, the Covenant, Christ
+### (1) The importance of understanding the Word of God, the Covenant, and Christ
 
-### (2) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the importance of explaining the Word of God to every person
+### (2) The importance of fulfilling the destiny of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the importance of explaining the Word of God to every person

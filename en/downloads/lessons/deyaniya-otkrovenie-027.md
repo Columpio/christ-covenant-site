@@ -1,7 +1,7 @@
 # 2 Pet. 3
 ## 2.1) 2 Pet. 2, - The importance of understanding Satan's actions
 
-### (1) 2 Pet. 2:1-3, - non-acceptance of the Word of God, the Covenant, Christ
+### (1) 2 Pet. 2:1-3, - rejection of the Word of God, the Covenant, and Christ
 > But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction. And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of. And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingereth not, and their damnation slumbereth not. (2 Pet. 2:1-3, KJV)
 
 #### (a) 2 Pet. 2:1, - false teachers, rejection of redemption, religion Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
@@ -21,13 +21,13 @@
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-#### (b) 2 Pet. 2:2, - non-acceptance of the Word of God, the Covenant, Christ (majority)
+#### (b) 2 Pet. 2:2, - rejection of the Word of God, the Covenant, Christ (majority)
 > And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of. (2 Pet. 2:2, KJV)
 
 #### (c) 2 Pet. 2:3, - the importance of the visible (meaning and purpose of religion)
 > And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingereth not, and their damnation slumbereth not. (2 Pet. 2:3, KJV)
 
-#### (d) 2 Pet. 2:3, - God's judgment, the unreliable fulfillment of the Word of God Rom. 6:23
+#### (d) 2 Pet. 2:3, - God's judgment, the inevitable fulfillment of God's Word Rom. 6:23
 > And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingereth not, and their damnation slumbereth not. (2 Pet. 2:3, KJV)
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
@@ -37,11 +37,11 @@
 
 #### (b) “Mixed Gospel” heresy, denial of the fact of forgiveness of all human sins, religion
 
-#### (c) The heresy of "partial salvation", the denial of Christ's decision of the consequences of sin – there is no salvation of soul and body, the effect of ancestral and acquired curses, the possession of children by God
+#### (c) The heresy of "partial salvation", the denial of Christ's decision of the consequences of sin – there is no salvation of soul and body, the effect of ancestral and acquired curses, the obsession of the children of God
 
 ### (3) The importance of understanding the essence of all religions of the world - salvation through the works and efforts of man
 
-### (4) 2 Pet. 2:4-19, - examples of non-acceptance of the Word of God, the Covenant, Christ
+### (4) 2 Pet. 2:4-19, - examples of non-acceptance of the Word of God, the Covenant, and Christ
 > For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment; And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly; And turning the cities of Sodom and Gomorrha into ashes condemned them with an overthrow, making them an ensample unto those that after should live ungodly; And delivered just Lot, vexed with the filthy conversation of the wicked: (For that righteous man dwelling among them, in seeing and hearing, vexed his righteous soul from day to day with their unlawful deeds;) The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished: But chiefly them that walk after the flesh in the lust of uncleanness, and despise government. Presumptuous are they, selfwilled, they are not afraid to speak evil of dignities. Whereas angels, which are greater in power and might, bring not railing accusation against them before the Lord. But these, as natural brute beasts, made to be taken and destroyed, speak evil of the things that they understand not; and shall utterly perish in their own corruption; And shall receive the reward of unrighteousness, as they that count it pleasure to riot in the day time. Spots they are and blemishes, sporting themselves with their own deceivings while they feast with you; Having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: an heart they have exercised with covetous practices; cursed children: Which have forsaken the right way, and are gone astray, following the way of Balaam the son of Bosor, who loved the wages of unrighteousness; But was rebuked for his iniquity: the dumb ass speaking with man’s voice forbad the madness of the prophet. These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved for ever. For when they speak great swelling words of vanity, they allure through the lusts of the flesh, through much wantonness, those that were clean escaped from them who live in error. While they promise them liberty, they themselves are the servants of corruption: for of whom a man is overcome, of the same is he brought in bondage. (2 Pet. 2:4-19, KJV)
 
 #### (a) 2 Pet. 2:4, - the Fall of angels (the abyss)
@@ -53,7 +53,7 @@
 #### (c) 2 Pet. 2:6-8, - Sodom and Gomorrah, Lot's righteousness
 > And turning the cities of Sodom and Gomorrha into ashes condemned them with an overthrow, making them an ensample unto those that after should live ungodly; And delivered just Lot, vexed with the filthy conversation of the wicked: (For that righteous man dwelling among them, in seeing and hearing, vexed his righteous soul from day to day with their unlawful deeds;) (2 Pet. 2:6-8, KJV)
 
-#### (d) 2 Pet. 2:9-11, - God's time schedule, man's right to choose
+#### (d) 2 Pet. 2:9-11, - God's schedule of time, man's right to choose
 > The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished: But chiefly them that walk after the flesh in the lust of uncleanness, and despise government. Presumptuous are they, selfwilled, they are not afraid to speak evil of dignities. Whereas angels, which are greater in power and might, bring not railing accusation against them before the Lord. (2 Pet. 2:9-11, KJV)
 
 #### (e) 2 Pet. 2:12-14, - false teachers, non-acceptance of the Word of God, the Covenant, Christ
@@ -70,11 +70,11 @@
 
 #### (a) "Avoiding the defilements of the world through the knowledge of our Lord and Savior Jesus Christ" - acceptance of the Word of God, the Covenant, Christ (salvation), fulfillment of destiny, a changed human life
 
-#### (b) "They become entangled in them again and are overcome by them" and "they have returned from the holy commandment committed to them" -rejection of the Word of God, the Covenant, Christ (falling away from God), rejection of destiny, returning to the old life outside of God
+#### (b) "They become entangled in them again and are overcome by them" and "they have returned from the holy commandment committed to them" -the rejection of the Word of God, the Covenant, Christ (falling away from God), the rejection of destiny, the return to the old life outside of God
 
 ## 3) Understanding the possibility of falling away from God
-- "Sin to death" – non-acceptance and life outside the Word of God, the Covenant, Christ
-- "Sin does not lead to death" is a violation of the institutions of the Word of God, the commandments of God, i.e. wrong thoughts, emotions, actions are a consequence of sin, the sinful essence of man
+- "Sin to death" – non-acceptance and living outside the Word of God, the Covenant, and Christ
+- "Sin does not lead to death" is a violation of the provisions of the Word of God, the commandments of God, i.e. wrong thoughts, emotions, actions are a consequence of sin, the sinful essence of man
 
 ### (1) Open rejection of Christ – rejection of the Word of God, the Covenant, Christ
 
@@ -82,7 +82,7 @@
 
 #### (b) Mammon, family is a conscious choice of a person
 
-### (2) Other teachings are the rejection of the Word of God, the Covenant, Christ, and the Sacrifice of Christ. (God's condition for salvation is acceptance and preservation of faith in Christ)
+### (2) Other teachings are the rejection of the Word of God, the Covenant, Christ, and the Sacrifice of Christ. (God's condition for salvation is the acceptance and preservation of faith in Christ)
 
 #### (a) The rejection of Jesus Christ as the True and Holy God. (The heresy of Arianism, modern Jehovah's Witnesses)
 
@@ -91,12 +91,12 @@
 ### (3) Systemic "sin of non–death" (idols, renunciation of destiny) - human ideology, building a platform for falling away, committing "sin to death", apostasy
 - Examples – Solomon, Balaam
 
-## 4) 2 Pet. 3, - fulfillment of the Word of God, the Covenant, Christ, the 2nd coming of Christ
+## 4) 2 Pet. 3, - the fulfillment of the Word of God, the Covenant, of Christ, the 2nd coming of Christ
 
-### (1) 2 Pet. 3:1-13, - non-acceptance of the Word of God, the Covenant, Christ
+### (1) 2 Pet. 3:1-13, - rejection of the Word of God, the Covenant, and Christ
 > This second epistle, beloved, I now write unto you; in both which I stir up your pure minds by way of remembrance: That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour: Knowing this first, that there shall come in the last days scoffers, walking after their own lusts, And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as they were from the beginning of the creation. For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water: Whereby the world that then was, being overflowed with water, perished: But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men. But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day. The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance. But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up. Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness, Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat? Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness. (2 Pet. 3:1-13, KJV)
 
-#### (a) 2 Pet. 3:1-4, - non-acceptance of the Word of God, the Covenant, Christ (majority)
+#### (a) 2 Pet. 3:1-4, - rejection of the Word of God, the Covenant, Christ (majority)
 > This second epistle, beloved, I now write unto you; in both which I stir up your pure minds by way of remembrance: That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour: Knowing this first, that there shall come in the last days scoffers, walking after their own lusts, And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as they were from the beginning of the creation. (2 Pet. 3:1-4, KJV)
 
 #### (b) 2 Pet. 3:5-6, - the importance of understanding the reason for the first judgment of God (the Flood – the rejection of the Word of God, the Covenant, Christ)
@@ -105,16 +105,16 @@
 #### (c) 2 Pet. 3:7, - the importance of understanding the reason for the second judgment of God (Lake of fire – rejection of the Word of God, the Covenant, Christ)
 > But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men. (2 Pet. 3:7, KJV)
 
-#### (d) 2 Pet. 3:8-9, - God's love and mercy, God's long-suffering
+#### (d) 2 Pet. 3:8-9, - God's love and mercy, the long-suffering of God
 > But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day. The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance. (2 Pet. 3:8-9, KJV)
 
-#### (e) 2 Pet. 3:10-13, - the inevitable fulfillment of the Word of God, the Covenant, Christ
+#### (e) 2 Pet. 3:10-13, - the inevitable fulfillment of the Word of God, the Covenant, of Christ
 > But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up. Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness, Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat? Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness. (2 Pet. 3:10-13, KJV)
 
-#### (e) 2 Pet. 3:11, - the importance of knowledge, the transmission of the Word of God, the Covenant, Christ, the importance of fulfilling the destiny of God's people
+#### (e) 2 Pet. 3:11, - the importance of knowledge, transmission of the Word of God, the Covenant, Christ, the importance of fulfilling the destiny of the people of God
 > Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness, (2 Pet. 3:11, KJV)
 
-### (2) 2 Pet. 3:14-18, - the importance of saving. Purity is the Word of God, the Covenant, Christ
+### (2) 2 Pet. 3:14-18, - the importance of saving. The purity of the Word of God, of the Covenant, of Christ
 > Wherefore, beloved, seeing that ye look for such things, be diligent that ye may be found of him in peace, without spot, and blameless. And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you; As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction. Ye therefore, beloved, seeing ye know these things before, beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness. But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen. (2 Pet. 3:14-18, KJV)
 
 #### (a) 2 Pet. 3:14, - the importance of living the right life (purpose)
@@ -123,22 +123,22 @@
 #### (b) 2 Pet. 3:15, - the understanding of God's sovereignty and control, the ministry of the Apostle Paul, the fulfillment of destiny
 > And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you; (2 Pet. 3:15, KJV)
 
-#### (c) 2 Pet. 3:16, - the action of Satan, the distortion of the Word of God, the Covenant, Christ
+#### (c) 2 Pet. 3:16, is an act of Satan, a distortion of the Word of God, the Covenant, and Christ
 > As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction. (2 Pet. 3:16, KJV)
 
 #### (d) 2 Pet. 3:17, - purity of the Word of God, the Covenant, Christ (falling away from God)
 > Ye therefore, beloved, seeing ye know these things before, beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness. (2 Pet. 3:17, KJV)
 
-#### (e) 2 Pet. 3:18, - the importance of knowing the Word of God, the Covenant, Christ 1 Tim. 2:4
+#### (e) 2 Pet. 3:18, - the importance of knowing the Word of God, the Covenant, and Christ 1 Tim. 2:4
 > But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen. (2 Pet. 3:18, KJV)
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 
 ## Conclusion:
 
-### (1) The importance of knowing and transmitting the Word of God, the Covenant, Christ (intended)
+### (1) The importance of knowing and communicating the Word of God, the Covenant, and Christ (intended)
 
 ### (2) The importance of sanctification and spiritual growth of man
 
-### (3) The importance of understanding the actions of Satan (false teachers, false teachings)
+### (3) The importance of understanding the work of Satan (false teachers, false teachings)
 
 ### (4) The importance of understanding the future, God's Plan

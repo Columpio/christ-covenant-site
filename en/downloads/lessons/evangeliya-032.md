@@ -2,13 +2,13 @@
 ## 1.1) Mark 4:26-29, is a seed that grows in an inconspicuous way
 > And he said, So is the kingdom of God, as if a man should cast seed into the ground; And should sleep, and rise night and day, and the seed should spring and grow up, he knoweth not how. For the earth bringeth forth fruit of herself; first the blade, then the ear, after that the full corn in the ear. But when the fruit is brought forth, immediately he putteth in the sickle, because the harvest is come. (Mark 4:26-29, KJV)
 
-### (1) Mark 4:26 (Rom. 3:2), - transmission of the Word of God, the Covenant, Christ, destiny
+### (1) Mark 4:26 (Rom. 3:2), - transmission of the Word of God, the Covenant, Christ, purpose
 > And he said, So is the kingdom of God, as if a man should cast seed into the ground; (Mark 4:26, KJV)
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 
 #### (a) The sower in the parable is a child of God, fulfilling his destiny
 
-#### (b) The true Sower is Christ, the working of the Holy Spirit in the children of God
+#### (b) The true Sower is Christ, the work of the Holy Spirit in the children of God
 
 #### (c) The Seed is the Word of God Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
@@ -31,7 +31,7 @@
 ## 2) Luke 7:40-43, - about two debtors
 > And Jesus answering said unto him, Simon, I have somewhat to say unto thee. And he saith, Master, say on. There was a certain creditor which had two debtors: the one owed five hundred pence, and the other fifty. And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most? Simon answered and said, I suppose that he, to whom he forgave most. And he said unto him, Thou hast rightly judged. (Luke 7:40-43, KJV)
 
-### (1) Luke 7:41, - the duty of man, the execution of the sentence of the Word of God
+### (1) Luke 7:41, - the duty of man, the fulfillment of the sentence of the Word of God
 > There was a certain creditor which had two debtors: the one owed five hundred pence, and the other fifty. (Luke 7:41, KJV)
 
 ### (2) Luke 7:42, - the realization of God's forgiveness and love, the sacrifice of Christ
@@ -64,7 +64,7 @@
 ### (7) Luke 10:35, - two denarii (the price paid by Christ)
 > And on the morrow when he departed, he took out two pence, and gave them to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee. (Luke 10:35, KJV)
 
-### (8) Luke 10:35, - promises of return (the second coming of Christ)
+### (8) Luke 10:35, - promises of the return (the second coming of Christ)
 > And on the morrow when he departed, he took out two pence, and gave them to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee. (Luke 10:35, KJV)
 
 ### (9) Luke 10:35, - additional payment upon return (God's reward)
@@ -87,7 +87,7 @@
 
 ## Conclusion:
 
-### (1) The Importance of Knowing and Communicating the Word of God, the Covenant, Christ, World Evangelism
+### (1) The importance of knowing and transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
 ### (2) The importance of understanding God's love and mercy. 1 Tim. 2:4
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)

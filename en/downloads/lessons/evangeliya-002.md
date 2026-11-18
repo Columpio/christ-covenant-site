@@ -2,7 +2,7 @@
 
 ## 1) The Importance of N.Z.'s Writings
 
-### (1) The meaning of the Scriptures of N.Z. – the fulfillment of the Word of God, the Covenant, Christ, the logical fulfillment and completion of V.Z., the coming of Christ, the salvation of man
+### (1) The meaning of the Scriptures of N.Z. is the fulfillment of the Word of God, the Covenant, Christ, the logical fulfillment and completion of V.Z., the coming of Christ, the salvation of man
 
 ### (2) The Importance of Understanding the Christocentricity of N.Z.'s Writings
 
@@ -16,7 +16,7 @@
 
 ### (4) The importance of understanding the order of events in the life of Christ
 
-## 3) The alignment of the Gospels (the main periods in the ministry of Christ)
+## 3) Reconciliation of the Gospels (the main periods in the ministry of Christ)
 
 ### (1) Birth and preparation for ministry (Bethlehem, Nazareth, 30 l.) Matt. 1-2 (Luke 1-2)
 
@@ -50,19 +50,19 @@
 
 #### (a) The coming Christ, the Messiah– is God in the flesh
 
-#### (b) Understanding His Death and Resurrection – fulfilling the Word of God 1 Pet. 1:10-11,Acts 10:43, - Ps. 110:1
+#### (b) Understanding His death and Resurrection – fulfilling the Word of God 1 Pet. 1:10-11,Acts 10:43, - Ps. 110:1
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
 > To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins. (Acts 10:43, KJV)
 > A Psalm of David. The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool. (Ps. 110:1, KJV)
 
-## 5) Luke 1:26-35,Matt. 1:18-23 (Isa. 7:14), - fulfillment of the Word of God, the Covenant, Christ
+## 5) Luke 1:26-35,Matt. 1:18-23 (Isa. 7:14), - fulfillment of the Word of God, the Covenant, of Christ
 > And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth, To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin’s name was Mary. And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women. And when she saw him, she was troubled at his saying, and cast in her mind what manner of salutation this should be. And the angel said unto her, Fear not, Mary: for thou hast found favour with God. And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS. He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David: And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end. Then said Mary unto the angel, How shall this be, seeing I know not a man? And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God. (Luke 1:26-35, KJV)
 > Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost. Then Joseph her husband, being a just man, and not willing to make her a publick example, was minded to put her away privily. But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost. And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins. Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying, Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us. (Matt. 1:18-23, KJV)
 > Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel. (Isa. 7:14, KJV)
 
 ### (1) The meaning of the name Yeshua (Jesus) is the Lord is Salvation
 
-### (2) The purpose of the parish is to solve the problem of sin, atonement and lawful liberation of man from the power of sin, death and hell, Satan
+### (2) The purpose of the parish is to solve the problem of sin, atonement and legitimate liberation of man from the power of sin, death and hell, Satan
 
 ### (3) Emmanuel – the return of man to his original form
 
@@ -107,7 +107,7 @@
 > In the beginning was the Word, and the Word was with God, and the Word was God. (John 1:1, KJV)
 > And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth. (John 1:14, KJV)
 
-## 7) Matt. 2, - understanding and fulfilling the Word of God, the Covenant, Christ
+## 7) Matt. 2, - understanding and fulfilling the Word of God, the Covenant, and Christ
 
 ### (1) Matt. 2:1-11, - the birth of Jesus Christ (Messiah, Savior)
 > Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem, Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him. When Herod the king had heard these things, he was troubled, and all Jerusalem with him. And when he had gathered all the chief priests and scribes of the people together, he demanded of them where Christ should be born. And they said unto him, In Bethlehem of Judaea: for thus it is written by the prophet, And thou Bethlehem, in the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel. Then Herod, when he had privily called the wise men, enquired of them diligently what time the star appeared. And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found him, bring me word again, that I may come and worship him also. When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was. When they saw the star, they rejoiced with exceeding great joy. And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh. (Matt. 2:1-11, KJV)
@@ -121,13 +121,13 @@
 ### (2) Understanding of the Messiah, Christ (Anointed One, position) – King, Priest, Prophet (gold, frankincense, myrrh). Gen. 25:1-6
 > Then again Abraham took a wife, and her name was Keturah. And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim. And the sons of Midian; Ephah, and Epher, and Hanoch, and Abidah, and Eldaah. All these were the children of Keturah. And Abraham gave all that he had unto Isaac. But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country. (Gen. 25:1-6, KJV)
 
-#### (a) Gold is the true King (the destruction of Satan's power)
+#### (a) Gold is the true King (destroying the power of Satan)
 
 #### (b) Frankincense is a true Priest (the power of sin, death and hell)
 
 #### (c) Smyrna is a true Prophet who must die, showing the way to God, explaining the past, present and future. (Myrrh is an incense used to care for the bodies of deceased people)
 
-### (3) The act of Satan is disobedience to the Word of God, the Covenant, Christ
+### (3) The act of Satan is to resist the Word of God, the Covenant, and Christ
 
 #### (a) Matt. 2:12-15, - the departure of the Magi by another way, the flight to Egypt Joseph, Mary, the infant Jesus Christ (God's control)
 > And being warned of God in a dream that they should not return to Herod, they departed into their own country another way. And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him. When he arose, he took the young child and his mother by night, and departed into Egypt: And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son. (Matt. 2:12-15, KJV)

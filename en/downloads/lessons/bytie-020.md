@@ -1,6 +1,6 @@
 # 20. Understanding Salvation, Rebirth, and the Baptism of the Holy Spirit in the New Testament
 
-## 1) Salvation is Emmanuel, God together with man. Rom. 8:2. (Rebirth, restoration to the original form, lawful liberation from the power of sin, death and hell, Satan)
+## 1) Salvation is Emmanuel, God together with man. Rom. 8:2. (Rebirth, restoration to the original form, legitimate liberation from the power of sin, death and hell, Satan)
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
 
 ### (1) Gen. 1:27; 2:7, 16-17; 1:28, - The Word of God, the Covenant, Christ, Emmanuel
@@ -35,13 +35,13 @@
 ### (3) Personal transgressions (past, present and future) Col. 2:13
 > And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses; (Col. 2:13, KJV)
 
-## 3) The importance of accepting the Word of God, the Covenant, Christ
+## 3) The importance of accepting the Word of God, the Covenant, and Christ
 
-### (1) The atonement of all the sins of all people is the legitimate basis for the forgiveness of every person (execution of the sentence of the Word of God)
+### (1) The atonement of all the sins of all people is the legitimate basis for the forgiveness of every human being (fulfillment of the sentence of the Word of God)
 
 ### (2) Redemption without forgiveness is not effective for man. (Atonement is the legitimate basis for human forgiveness)
 
-### (3) Forgiveness is the acceptance of the Word of God, the Covenant, Christ, the confession of man
+### (3) Forgiveness is the acceptance of the Word of God, the Covenant, of Christ, and the confession of man.
 
 #### (a) Who is Christ? – acceptance of the Divinity of Christ
 
@@ -103,8 +103,8 @@
 > But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned. (1 Cor. 2:14, KJV)
 > But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his. (Rom. 8:9, KJV)
 
-## 5) Understanding Salvation and Baptism Holy Spirit Salvation is the Holy Spirit in man. (Salvation is Emmanuel, God together with man, rebirth, restoration to its original form through acceptance of the Divinity of Christ and the All–sufficiency of His Sacrifice)
-- Baptism of the Holy Spirit is the Holy Spirit on a person. (The baptism of the Holy Spirit is the acceptance of power from God for the knowledge and transmission of the Word of God, the Covenant, Christ, the preparation of disciples, the fulfillment of World Evangelization, the preparation of the coming of Christ, the fulfillment of God's will)
+## 5) Understanding salvation and the baptism of the Holy Spirit Salvation is the Holy Spirit in man. (Salvation is Emmanuel, God together with man, rebirth, restoration to its original form through acceptance of the Divinity of Christ and the All–sufficiency of His Sacrifice)
+- The baptism of the Holy Spirit is the Holy Spirit on a person. (The Baptism of the Holy Spirit is the receiving of power from God for the knowledge and transmission of the Word of God, the Covenant, Christ, the preparation of disciples, the accomplishment of Worldwide Evangelization, the preparation of the coming of Christ, the fulfillment of God's will)
 
 ### (1) V.Z. – The Holy Spirit in believers (salvation, rebirth), and only on selected people (the power of God – kings, priests, prophets) 1 Pet. 1:10-11,Acts 10:43, - Judg. 3:10; 11:29,1 Sam. 10:9-10; 16:13, Isa. 61:1,Luke 2:25
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
@@ -120,7 +120,7 @@
 > And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham. (Luke 19:9, KJV)
 > (But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet given; because that Jesus was not yet glorified.) (John 7:39, KJV)
 
-### (3) N.Z. – The Holy Spirit in believers (salvation, rebirth), and on all believers (the power of God to know and transmit the Word of God, the Covenants, Christ – kings, priests, prophets) Acts 1:8,1 Pet. 2:9
+### (3) N.Z. – The Holy Spirit in believers (salvation, rebirth), and on all believers (the power of God to know and transmit the Word of God, the Covenant, Christ – kings, priests, prophets) Acts 1:8,1 Pet. 2:9
 > But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth. (Acts 1:8, KJV)
 > But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light: (1 Pet. 2:9, KJV)
 
@@ -131,7 +131,7 @@
 ### (1) Regarding salvation, it is the acceptance of the Divinity of Jesus Christ and the acceptance of the All–sufficiency of His Sacrifice. (The result is salvation and rebirth, the forgiveness of all sins, justification, adoption and the Church of man). Rom. 10:9
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-### (2) With regard to Baptism, the Holy Spirit is the desire to know and transmit the Word of God, the Covenant, the Christ, the desire to serve God and fulfill His will. (The result is the knowledge and transmission of the Word of God, the Covenants, Christ, the disciples, All. Ev, receiving power from God to fulfill his destiny, the effect of the gifts of power and the gifts of service in the lives of God's children) Luke 11:11-13
+### (2) With regard to the Baptism of the Holy Spirit, there is a desire to know and impart the Word of God, the Covenant, and Christ, and a desire to serve God and fulfill His will. (The result is the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, all of them, receiving power from God to fulfill his destiny, the effect of the gifts of power and the gifts of service in the lives of God's children) Luke 11:11-13
 > If a son shall ask bread of any of you that is a father, will he give him a stone? or if he ask a fish, will he for a fish give him a serpent? Or if he shall ask an egg, will he offer him a scorpion? If ye then, being evil, know how to give good gifts unto your children: how much more shall your heavenly Father give the Holy Spirit to them that ask him? (Luke 11:11-13, KJV)
 
 ## Conclusion:
@@ -142,4 +142,4 @@
 
 ### (3) The importance of confidence in salvation and forgiveness of all sins, Emmanuel
 
-### (4) The importance of knowing and transmitting the Word of God, the Covenant, Christ - fulfillment of purpose, establishment in the Word of God, the Covenant, Christ
+### (4) The importance of knowing and transmitting the Word of God, the Covenant, and Christ – fulfilling a purpose, establishing oneself in the Word of God, the Covenant, and Christ

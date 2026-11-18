@@ -2,7 +2,7 @@
 
 ## 1) Minor Prophets of the Judean (Southern) Kingdom: Joel, Obadiah, Micah, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi. (Amos lived in Judah, prophesied for the Israelite king.)
 
-## 2) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 2) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -14,27 +14,27 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-## 3) The ministry of the prophets is the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of God's people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+## 3) The ministry of the prophets is the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of God's people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 
 ### (1) The Prophets of V.Z. – understanding and acceptance of the Word of God, the Covenant, Christ, salvation and rebirth, the action of the Holy Spirit 1 Pet. 1:10-11,Acts 10:43,2 Pet. 1:19-21
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
 > To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins. (Acts 10:43, KJV)
 > We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts: Knowing this first, that no prophecy of the scripture is of any private interpretation. For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost. (2 Pet. 1:19-21, KJV)
 
-#### (a) Explaining the problem of man, of the people – the rejection of the Word of God, the Covenant, Christ, the rejection of destiny. (The consequence is idolatry, mammon, immorality)
+#### (a) The explanation of the problem of man and the people is the rejection of the Word of God, the Covenant, Christ, and the rejection of destiny. (The consequence is idolatry, mammon, immorality)
 
-#### (b) An explanation of the decision for the person, the people – acceptance of the Word of God, the Covenant, Christ, fulfillment of destiny
+#### (b) An explanation of the decision for the person, the people – the acceptance of the Word of God, the Covenant, Christ, the fulfillment of destiny
 
-#### (c) Explaining the reasons for the judgments of God – the inevitable execution of the sentence, the Word of God, the right of choice of man. Rom. 6:23,Deut. 30:19
+#### (c) The explanation of the reason for God's judgments is the inevitable execution of the sentence of the Word of God, the right of man to choose. Rom. 6:23,Deut. 30:19
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
-### (2) The modern people of God, the continuation of prophetic ministry – the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of the people of God. John 16:8-11. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+### (2) The modern people of God, the continuation of prophetic ministry – the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of the people of God. John 16:8-11. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 > And when he is come, he will reprove the world of sin, and of righteousness, and of judgment: Of sin, because they believe not on me; Of righteousness, because I go to my Father, and ye see me no more; Of judgment, because the prince of this world is judged. (John 16:8-11, KJV)
 
-## 4) Malachi (circa 397 B.C.), - misunderstanding of the Covenant, Christ
+## 4) Malachi (circa 397 B.C.), - misunderstanding of the Covenant, of Christ
 
-### (1) Mal. 1, - non-acceptance of the Word of God, the Covenant, Christ
+### (1) Mal. 1, - rejection of the Word of God, the Covenant, and Christ
 
 #### (a) Mal. 1:1-5, - God's sovereignty, foreknowledge and election of man, acceptance of the Word of God, the Covenant, Christ (Jacob, Esau) Rom. 8:29,Heb. 12:16
 > The burden of the word of the LORD to Israel by Malachi. I have loved you, saith the LORD. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob’s brother? saith the LORD: yet I loved Jacob, And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness. Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the LORD of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the LORD hath indignation for ever. And your eyes shall see, and ye shall say, The LORD will be magnified from the border of Israel. (Mal. 1:1-5, KJV)
@@ -46,10 +46,10 @@
 
 ### (2) Mal. 2, - priests, misunderstanding of the Word of God, the Covenant, Christ
 
-#### (a) Mal. 2:1-3, - deliberate distortion and opposition to the Word of God, the Covenant, Christ (priests), unbelief (curse and destruction)
+#### (a) Mal. 2:1-3, - deliberate distortion and opposition to the Word of God, the Covenant, Christ (priests), unbelief (damnation and destruction)
 > And now, O ye priests, this commandment is for you. If ye will not hear, and if ye will not lay it to heart, to give glory unto my name, saith the LORD of hosts, I will even send a curse upon you, and I will curse your blessings: yea, I have cursed them already, because ye do not lay it to heart. Behold, I will corrupt your seed, and spread dung upon your faces, even the dung of your solemn feasts; and one shall take you away with it. (Mal. 2:1-3, KJV)
 
-#### (b) Mal. 2:4-7, - understanding the mission of priests, proclaiming the Covenant of life and peace (the essence of the Word of God, the Covenant, Christ)
+#### (b) Mal. 2:4-7, - understanding the mission of priests, proclaiming the Covenant of Life and peace (the essence of the Word of God, the Covenant, Christ)
 > And ye shall know that I have sent this commandment unto you, that my covenant might be with Levi, saith the LORD of hosts. My covenant was with him of life and peace; and I gave them to him for the fear wherewith he feared me, and was afraid before my name. The law of truth was in his mouth, and iniquity was not found in his lips: he walked with me in peace and equity, and did turn many away from iniquity. For the priest’s lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the LORD of hosts. (Mal. 2:4-7, KJV)
 
 #### (c) Mal. 2:8-9, - priests, there is no fulfillment of destiny
@@ -58,11 +58,11 @@
 #### (d) Mal. 2:13-17 (15), - proper marriage, descendants, purity of teaching. (Marriages according to the flesh, Gentiles, the example of Abraham and Hagar)
 > And this have ye done again, covering the altar of the LORD with tears, with weeping, and with crying out, insomuch that he regardeth not the offering any more, or receiveth it with good will at your hand. Yet ye say, Wherefore? Because the LORD hath been witness between thee and the wife of thy youth, against whom thou hast dealt treacherously: yet is she thy companion, and the wife of thy covenant. And did not he make one? Yet had he the residue of the spirit. And wherefore one? That he might seek a godly seed. Therefore take heed to your spirit, and let none deal treacherously against the wife of his youth. For the LORD, the God of Israel, saith that he hateth putting away: for one covereth violence with his garment, saith the LORD of hosts: therefore take heed to your spirit, that ye deal not treacherously. Ye have wearied the LORD with your words. Yet ye say, Wherein have we wearied him? When ye say, Every one that doeth evil is good in the sight of the LORD, and he delighteth in them; or, Where is the God of judgment? (Mal. 2:13-17, KJV)
 
-#### (e) Mal. 2:16,Matt. 19:8, - divorce letter, God takes care of women
+#### (e) Mal. 2:16,Matt. 19:8, - letter of divorce, God's care for women
 > For the LORD, the God of Israel, saith that he hateth putting away: for one covereth violence with his garment, saith the LORD of hosts: therefore take heed to your spirit, that ye deal not treacherously. (Mal. 2:16, KJV)
 > He saith unto them, Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so. (Matt. 19:8, KJV)
 
-### (3) Mal. 3, - fulfillment of the Word of God, the Covenant, Christ, destiny
+### (3) Mal. 3, - fulfillment of the Word of God, Covenant, Christ, destiny
 
 #### (a) Mal. 3:1, - the Angel sent, the preparation of the way before God, the birth of John the Baptist. Matt. 11:7-10
 > Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts. (Mal. 3:1, KJV)
@@ -84,12 +84,12 @@
 #### (e) Mal. 3:16-18, - the importance of accepting the Word of God, the Covenant, Christ, the importance of fulfilling the destiny (the choice of God's children)
 > Then they that feared the LORD spake often one to another: and the LORD hearkened, and heard it, and a book of remembrance was written before him for them that feared the LORD, and that thought upon his name. And they shall be mine, saith the LORD of hosts, in that day when I make up my jewels; and I will spare them, as a man spareth his own son that serveth him. Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth him not. (Mal. 3:16-18, KJV)
 
-### (4) Mal. 4, - fulfillment of the Word of God, the Covenant, Christ
+### (4) Mal. 4, - fulfillment of the Word of God, the Covenant, of Christ
 
 #### (a) Mal. 4:1-3, is the 2nd coming of Christ. (Sun of Truth, Christ, resurrection from the dead, eternal life)
 > For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch. But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall. And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do this, saith the LORD of hosts. (Mal. 4:1-3, KJV)
 
-#### (b) Mal. 4:4, - the importance of the Word of God, the Covenant, Christ, for the people of God
+#### (b) Mal. 4:4, - the importance of the Word of God, the Covenant, of Christ, for the people of God
 > Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments. (Mal. 4:4, KJV)
 
 #### (c) Mal. 4:5 (Matt. 11:14; 17:10-13), - the parish of John the Baptist. (The coming of the Antichrist and the false prophet is a forgery of the promises of the Word of God)
@@ -102,6 +102,6 @@
 
 ## Conclusion:
 
-### (1) The importance of understanding and accepting the Word of God, the Covenant, Christ
+### (1) The importance of understanding and accepting the Word of God, the Covenant, and Christ
 
-### (2) The importance of understanding and fulfilling the purpose. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+### (2) The importance of understanding and fulfilling the purpose. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)

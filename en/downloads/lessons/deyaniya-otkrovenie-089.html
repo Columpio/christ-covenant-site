@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,16 +233,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>Eph. 6</h1>
-<h2 id="s1">6.1) Eph. 6:1-9, - the importance of understanding the Word of God. Of the Covenant, Christ</h2>
+<h2 id="s1">6.1) Eph. 6:1-9, - the importance of understanding the Word of God. Of the Covenant, of Christ</h2>
 <blockquote data-v="kjv"><p>Children, obey your parents in the Lord: for this is right. Honour thy father and mother; (which is the first commandment with promise;) That it may be well with thee, and thou mayest live long on the earth. And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord. Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ; Not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart; With good will doing service, as to the Lord, and not to men: Knowing that whatsoever good thing any man doeth, the same shall he receive of the Lord, whether he be bond or free. And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.</p><cite>Eph. 6:1-9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Children, obey your parents in the Lord, for this is right. “Honor your father and mother” (which is the first commandment with a promise), “that it may go well with you and that you may have a long life on the earth.” Fathers, do not provoke your children to wrath; instead, bring them up in the discipline and instruction of the Lord. Slaves, obey your earthly masters with respect and fear and sincerity of heart, just as you would obey Christ. And do this not only to please them while they are watching, but as servants of Christ, doing the will of God from your heart. Serve with good will, as to the Lord and not to men, because you know that the Lord will reward each one for whatever good he does, whether he is slave or free. And masters, do the same for your slaves. Give up your use of threats, because you know that He who is both their Master and yours is in heaven, and there is no favoritism with Him.</p><cite>Eph. 6:1-9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Children, obey your parents in the Lord, for this is right. “Honor your father and mother,” which is the first commandment with a promise: “that it may be well with you, and you may live long on the earth.” You fathers, don’t provoke your children to wrath, but nurture them in the discipline and instruction of the Lord. Servants, be obedient to those who according to the flesh are your masters, with fear and trembling, in singleness of your heart, as to Christ, not in the way of service only when eyes are on you, as men pleasers, but as servants of Christ, doing the will of God from the heart, with good will doing service as to the Lord and not to men, knowing that whatever good thing each one does, he will receive the same good again from the Lord, whether he is bound or free. You masters, do the same things to them, and give up threatening, knowing that he who is both their Master and yours is in heaven, and there is no partiality with him.</p><cite>Eph. 6:1-9 · WEB</cite></blockquote>
@@ -287,26 +289,26 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.</p><cite>Rom. 10:9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>that if you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised Him from the dead, you will be saved.</p><cite>Rom. 10:9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>that if you will confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.</p><cite>Rom. 10:9 · WEB</cite></blockquote>
-<h4>(a) Children – transmission of the Word of God, the Covenant, Christ by distance and time, education of disciples, Worldwide Evangelization, preparation of the coming of Christ</h4>
+<h4>(a) Children – transmission of the Word of God, the Covenant, and Christ by distance and time, education of disciples, Worldwide Evangelization, and preparation for the coming of Christ</h4>
 <h4>(b) The importance of obeying parents (physical and spiritual), the importance of accepting God's love and care. (The importance of understanding God's action through parents)</h4>
 <h4>(c) The importance of honoring parents – participation in the spiritual, mental and physical aspects of parents' lives</h4>
 <h4>(d) Rejection, non–acceptance of the Word of God, the Covenant, Christ by parents - the importance of proclaiming the Word of God, the Covenant, Christ, the possibility of salvation</h4>
-<h3>(2) Eph. 6:4, - the importance of transmitting the Word of God, the Christ Covenant, the importance of proper parenting (physical and spiritual)</h3>
+<h3>(2) Eph. 6:4, - the importance of transmitting the Word of God, the Covenant of Christ, the importance of proper upbringing of children (physical and spiritual)</h3>
 <blockquote data-v="kjv"><p>And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.</p><cite>Eph. 6:4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Fathers, do not provoke your children to wrath; instead, bring them up in the discipline and instruction of the Lord.</p><cite>Eph. 6:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>You fathers, don’t provoke your children to wrath, but nurture them in the discipline and instruction of the Lord.</p><cite>Eph. 6:4 · WEB</cite></blockquote>
-<h4>(a) The importance of passing on the Word of God, the Covenant, Christ to children, the purpose</h4>
-<h4>(b) Children – transmission of the Word of God, the Covenant, Christ by distance and time, education of disciples, Worldwide Evangelization, preparation of the coming of Christ</h4>
-<h4>(c) The importance of parents' legitimate demands on their children, full compliance with the Word of God, and the importance of fulfilling a destiny</h4>
+<h4>(a) The importance of passing on the Word of God, the Covenant, and Christ to children, and the purpose of</h4>
+<h4>(b) Children – transmission of the Word of God, the Covenant, and Christ by distance and time, education of disciples, Worldwide Evangelization, and preparation for the coming of Christ</h4>
+<h4>(c) The importance of parents' legitimate demands on their children, full compliance with the Word of God, and the importance of fulfilling their destiny</h4>
 <h4>(d) Do not annoy – the importance of the right approach to children, God's love and wisdom in the process of human education</h4>
-<h3>(3) Eph. 6:5-9, - the importance of conveying the Word of God, the Covenant, Christ, the importance of proper working relationships</h3>
+<h3>(3) Eph. 6:5-9, - the importance of conveying the Word of God, the Covenant, Christ, and the importance of proper working relationships</h3>
 <blockquote data-v="kjv"><p>Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ; Not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart; With good will doing service, as to the Lord, and not to men: Knowing that whatsoever good thing any man doeth, the same shall he receive of the Lord, whether he be bond or free. And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.</p><cite>Eph. 6:5-9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Slaves, obey your earthly masters with respect and fear and sincerity of heart, just as you would obey Christ. And do this not only to please them while they are watching, but as servants of Christ, doing the will of God from your heart. Serve with good will, as to the Lord and not to men, because you know that the Lord will reward each one for whatever good he does, whether he is slave or free. And masters, do the same for your slaves. Give up your use of threats, because you know that He who is both their Master and yours is in heaven, and there is no favoritism with Him.</p><cite>Eph. 6:5-9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Servants, be obedient to those who according to the flesh are your masters, with fear and trembling, in singleness of your heart, as to Christ, not in the way of service only when eyes are on you, as men pleasers, but as servants of Christ, doing the will of God from the heart, with good will doing service as to the Lord and not to men, knowing that whatever good thing each one does, he will receive the same good again from the Lord, whether he is bound or free. You masters, do the same things to them, and give up threatening, knowing that he who is both their Master and yours is in heaven, and there is no partiality with him.</p><cite>Eph. 6:5-9 · WEB</cite></blockquote>
 <h4>(a) The importance of understanding God's sovereignty, the participation of every person in the life of society and the country (work and activity)</h4>
-<h4>(b) The importance of proper working relationships between subordinates and superiors, the importance of doing work as for the Lord, fulfilling only legitimate requirements consistent with the Word of God, and the importance of proper priorities in life</h4>
+<h4>(b) The importance of proper working relationships between subordinates and superiors, the importance of doing work as for the Lord, fulfilling only the legitimate requirements of the Word of God, and the importance of proper priorities in life</h4>
 <h4>(c) The importance of proper working relations between superiors and subordinates, the importance of creating normal working conditions and legitimate requirements consistent with the Word of God, the importance of proper priorities in life</h4>
-<h4>(d) Work and working relationships – God's establishment, the possibility of proclaiming the Word of God, the Covenant, Christ, the fulfillment of World Evangelization, the fulfillment of the destiny of the people of God</h4>
+<h4>(d) Work and working relationships are God's institution, the opportunity to proclaim the Word of God, the Covenant, and Christ, the fulfillment of Worldwide Evangelization, and the fulfillment of the destiny of God's people</h4>
 <h4>(e) The importance of understanding the Lordship of God, the right priorities of life, and an understanding of accountability to God for every person on earth (bosses and employees)</h4>
 <h2 id="s2">2) Eph. 6:10-17, - the importance of fulfilling the destiny of the people of God, learning and transmitting the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, spiritual warfare, understanding the full armor of God</h2>
 <blockquote data-v="kjv"><p>Finally, my brethren, be strong in the Lord, and in the power of his might. Put on the whole armour of God, that ye may be able to stand against the wiles of the devil. For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places. Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand. Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness; And your feet shod with the preparation of the gospel of peace; Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked. And take the helmet of salvation, and the sword of the Spirit, which is the word of God:</p><cite>Eph. 6:10-17 · KJV</cite></blockquote>
@@ -317,9 +319,9 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through Me.</p><cite>John 14:6 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father, except through me.</p><cite>John 14:6 · WEB</cite></blockquote>
 <h4>(a) The importance of accepting the Scriptures as the Word of God</h4>
-<h4>(b) The importance of deep knowledge of the Word of God, the Covenant, Christ, and acceptance of the standards of Scripture, affirming the truth</h4>
+<h4>(b) The importance of deep knowledge of the Word of God, the Covenant, and Christ and acceptance of the standards of Scripture, affirming the truth</h4>
 <h4>(c) The importance of constant affirmation in the Word of God, the Covenant, Christ, affirmation in truth, the importance of fulfilling destiny</h4>
-<h4>(d) The importance of conveying the truth of the Word of God, the Covenant, Christ</h4>
+<h4>(d) The importance of conveying the truth of God's Word, Covenant, and Christ</h4>
 <h3>(2) The armor of Righteousness is Christ. 1 Cor. 1:30</h3>
 <blockquote data-v="kjv"><p>But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:</p><cite>1 Cor. 1:30 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>It is because of Him that you are in Christ Jesus, who has become for us wisdom from God: our righteousness, holiness, and redemption.</p><cite>1 Cor. 1:30 · BSB</cite></blockquote>
@@ -329,9 +331,9 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>Do not think that I have come to abolish the Law or the Prophets. I have not come to abolish them, but to fulfill them.</p><cite>Matt. 5:17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“Don’t think that I came to destroy the law or the prophets. I didn’t come to destroy, but to fulfill.</p><cite>Matt. 5:17 · WEB</cite></blockquote>
 <h4>(b) The importance of legal and factual righteousness – the importance of sanctification and the right life of God's people, service to God, fulfillment of destiny</h4>
-<h4>(c) The importance of understanding the righteousness of Christ – protection from all accusations of Satan (actual human imperfection), the importance of relationship with God, purpose</h4>
+<h4>(c) The importance of understanding the righteousness of Christ – protection from all charges of Satan (actual human imperfection), the importance of relationship with God, purpose</h4>
 <h4>(d) The importance of conveying the righteousness of Christ</h4>
-<h3>(3) Shoes of readiness to evangelize the world – transmission of the Word of God, the Covenant, Christ, World Evangelization Matt. 28:19-20,Acts 1:8,2 Tim. 2:2</h3>
+<h3>(3) Shoes of readiness to evangelize the world – transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization Matt. 28:19-20,Acts 1:8,2 Tim. 2:2</h3>
 <blockquote data-v="kjv"><p>Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.</p><cite>Matt. 28:19-20 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey all that I have commanded you. And surely I am with you always, even to the end of the age.”</p><cite>Matt. 28:19-20 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all things that I commanded you. Behold, I am with you always, even to the end of the age.” Amen.</p><cite>Matt. 28:19-20 · WEB</cite></blockquote>
@@ -341,10 +343,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also.</p><cite>2 Tim. 2:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And the things that you have heard me say among many witnesses, entrust these to faithful men who will be qualified to teach others as well.</p><cite>2 Tim. 2:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>The things which you have heard from me among many witnesses, commit the same things to faithful men who will be able to teach others also.</p><cite>2 Tim. 2:2 · WEB</cite></blockquote>
-<h4>(a) The importance of understanding and fulfilling the purpose – knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization</h4>
-<h4>(b) The importance of shoe preparation for Worldwide Evangelization – deep knowledge of the Word of God, the Covenant, Christ, systematic hearing of the Word of God</h4>
-<h4>(c) The importance of shoe Transmission Worldwide Evangelization – the training and education of disciples, the importance of Worldwide Evangelization in distance and time</h4>
-<h3>(4) Shield of Faith – understanding the Word of God, the Covenant, Christ, the foundations of faith. (God's faith is the correct understanding and fulfillment of God's Word)</h3>
+<h4>(a) The importance of understanding and fulfilling the purpose of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization</h4>
+<h4>(b) The importance of shoe preparation for Worldwide Evangelization is a deep knowledge of the Word of God, the Covenant, Christ, and systematic listening to the Word of God</h4>
+<h4>(c) The importance of passing on the shoes of Worldwide Evangelization – the training and education of disciples, the importance of Worldwide Evangelization in distance and time</h4>
+<h3>(4) Shield of Faith – understanding the Word of God, the Covenant, Christ, and the foundations of faith. (God's faith is the correct understanding and fulfillment of God's Word)</h3>
 <h4>(a) Acceptance of the Bible as the Word of God, Truth</h4>
 <h4>(b) Understanding the spiritual problem of humanity (sin)</h4>
 <h4>(c) Acceptance of the Trinity of God and acceptance of Christ as God in the flesh, image of the Invisible God</h4>
@@ -357,9 +359,9 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h4>(b) Confidence in the forgiveness of all sins and salvation – understanding and acceptance of God's love, the firm Christian life of God's people</h4>
 <h4>(c) Confidence in the forgiveness of all sins and salvation – the transmission of the Word of God, the Covenant, Christ, the fulfillment of destiny, the importance of understanding the future of God's people</h4>
 <h4>(d) The importance of the transmission and affirmation of man in salvation</h4>
-<h3>(6) The Spiritual Sword – understanding the Word of God, the Covenant, Christ</h3>
-<h4>(a) The importance of the spiritual sword - the destruction of Satan and all evil in the life of any person</h4>
-<h4>(b) The importance of receiving the spiritual sword – consciously accepting the Word of God, the Covenant, Christ, and joining the people of God</h4>
+<h3>(6) The Spiritual Sword – understanding the Word of God, the Covenant, and Christ</h3>
+<h4>(a) The importance of the spiritual sword is the crushing of Satan and all evil in the life of any human being</h4>
+<h4>(b) The importance of receiving the spiritual sword is the conscious acceptance of the Word of God, the Covenant, Christ, and joining the people of God</h4>
 <h4>(c) The importance of using the spiritual sword is a deep and systematic study of the Word of God, the Covenant, Christ, and the fulfillment of the destiny of God's people</h4>
 <h4>(d) The importance of passing on the Spiritual Sword</h4>
 <h2 id="s3">3) Eph. 6:18-20, - the importance of the correct prayer of the people of God</h2>
@@ -373,17 +375,17 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h4>(c) Prayer of thanksgiving (spiritual, mental, physical)</h4>
 <h4>(d) Our Father's Prayer – the Lord's prayer</h4>
 <h3>(3) Praying in the spirit is the right prayer, the invisible, the importance of affirming God's will (spiritual, mental, physical)</h3>
-<h3>(4) Prayer for all the saints (the people of God) is of particular importance in fulfilling the destiny of the people of God. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)</h3>
-<h2 id="s4">4) Eph. 6:21-24, - the importance of conveying the Word of God, the Covenant, Christ</h2>
+<h3>(4) Prayer for all the saints (God's people) is of particular importance in fulfilling the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)</h3>
+<h2 id="s4">4) Eph. 6:21-24, - the importance of conveying the Word of God, the Covenant, and Christ</h2>
 <blockquote data-v="kjv"><p>But that ye also may know my affairs, and how I do, Tychicus, a beloved brother and faithful minister in the Lord, shall make known to you all things: Whom I have sent unto you for the same purpose, that ye might know our affairs, and that he might comfort your hearts. Peace be to the brethren, and love with faith, from God the Father and the Lord Jesus Christ. Grace be with all them that love our Lord Jesus Christ in sincerity. Amen.</p><cite>Eph. 6:21-24 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Tychicus, the beloved brother and faithful servant in the Lord, will tell you everything, so that you also may know about me and what I am doing. I have sent him to you for this very purpose, that you may know about us, and that he may encourage your hearts. Peace to the brothers and love with faith from God the Father and the Lord Jesus Christ. Grace to all who love our Lord Jesus Christ with an undying love.</p><cite>Eph. 6:21-24 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But that you also may know my affairs, how I am doing, Tychicus, the beloved brother and faithful servant in the Lord, will make known to you all things. I have sent him to you for this very purpose, that you may know our state and that he may comfort your hearts. Peace be to the brothers, and love with faith, from God the Father and the Lord Jesus Christ. Grace be with all those who love our Lord Jesus Christ with incorruptible love. Amen.</p><cite>Eph. 6:21-24 · WEB</cite></blockquote>
 <h3>(1) Tychicus is a disciple of the Apostle Paul</h3>
-<h3>(2) The Importance of Disciples – the Accomplishment of Worldwide Evangelization</h3>
-<h3>(3) The importance of love and peace through faith in the Triune God and the Lord Christ, the daily affirmation of the choice of the people of God</h3>
+<h3>(2) The Importance of the Disciples – the Accomplishment of Worldwide Evangelization</h3>
+<h3>(3) The importance of love and peace through faith in the Triune God and the Lord Christ, the daily affirmation of the choice of God's people</h3>
 <h3>(4) The importance of understanding the operation of God's grace in God's people according to God's will, the fulfillment of destiny</h3>
 <h2 id="s5">Conclusion:</h2>
-<h3>(1) The importance of accepting the Word of God, the Covenant, Christ, and the importance of proper relationships among God's people</h3>
+<h3>(1) The importance of accepting the Word of God, the Covenant, and Christ, and the importance of proper relationships among God's people</h3>
 <h3>(2) The importance of understanding and fulfilling the destiny of God's people, the importance of accepting the full armor of God</h3>
 <h3>(3) The importance of proper prayer by God's people</h3>
 <h3>(4) The importance of students, the fulfillment of destiny</h3>

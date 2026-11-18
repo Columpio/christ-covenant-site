@@ -1,6 +1,6 @@
 # 11. Gen. 6, - Giants, the importance of the Ark
 
-## 1) Gen. 6:1-4, - non-acceptance of the Word of God, the Covenant, Christ
+## 1) Gen. 6:1-4, - rejection of the Word of God, the Covenant, Christ
 > And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them, That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose. And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years. There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown. (Gen. 6:1-4, KJV)
 
 ### (1) The importance of understanding the Antediluvian period (about 1600 years), the separation of mankind from Adam and Eve Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
@@ -14,7 +14,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-#### (a) Acceptance of the Word of God, the Covenant, Christ, the generation of the Covenant, Christ, the children of God. (The Sons of God are descendants of Seth, the Sethites)
+#### (a) Acceptance of the Word of God, the Covenant, Christ, the family of the Covenant, Christ, the children of God. (The Sons of God are descendants of Seth, the Sethites)
 
 #### (b) Rejection of the Word of God, the Covenant, Christ, the race of unbelief, the children of the devil (The daughters of men are descendants of Cain, the Cainites)
 
@@ -30,7 +30,7 @@
 
 ### (3) Giants – an explanation of the Word of God
 
-#### (a) Giants – people with visible success outside the Word of God, the Covenant, Christ, were born before and after the Flood. (Scientific confirmation, archeology – human remains from 3.5 to 5 meters, confirmation of the testimony of the Word of God) Gen. 6:4 (people), Acts 17:26, - Gen. 14:5,Num. 13:31-33,Deut. 2:10-11, 20; 3:11,1 Sam. 17:4,2 Sam. 21:16-22, - Isa. 14:9-15. (Rephaim, Zuzim, Emim – the name of the post-flood. giants)
+#### (a) Giants – people with visible success outside the Word of God, the Covenant, and Christ, were born before and after the Flood. (Scientific confirmation, archeology – human remains from 3.5 to 5 meters, confirmation of the testimony of the Word of God) Gen. 6:4 (people), Acts 17:26, - Gen. 14:5,Num. 13:31-33,Deut. 2:10-11, 20; 3:11,1 Sam. 17:4,2 Sam. 21:16-22, - Isa. 14:9-15. (Rephaim, Zuzim, Emim – the name of the post-flood. giants)
 > There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown. (Gen. 6:4, KJV)
 > And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation; (Acts 17:26, KJV)
 > And in the fourteenth year came Chedorlaomer, and the kings that were with him, and smote the Rephaims in Ashteroth Karnaim, and the Zuzims in Ham, and the Emims in Shaveh Kiriathaim, (Gen. 14:5, KJV)
@@ -57,7 +57,7 @@
 #### (b) Jude 1:14's reference to the prophecy, but not to the book of Enoch
 > And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord cometh with ten thousands of his saints, (Jude 1:14, KJV)
 
-#### (c) Contradictions The Word of God – giants of 3,000 cubits, God's angels taught people magic and spells, the souls of the slain giants will become evil spirits, i.e. demons (ch. 2:8-9, 3:47-51)
+#### (c) Contradictions of the Word of God – giants of 3,000 cubits, God's angels taught people magic and spells, the souls of the killed giants will become evil spirits, i.e. demons (ch. 2:8-9, 3:47-51)
 
 ## Result:
 
@@ -67,40 +67,40 @@
 ### (2) Human giants, rejection of the Word of God, the Covenant, Christ Gen. 6:4
 > There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown. (Gen. 6:4, KJV)
 
-### (3) "The Book of Enoch" is an apocryphal, contradictory Word of God
+### (3) The Book of Enoch is an apocryphal contradiction of the Word of God
 
-## 2) Gen. 6:3, - disregard for the Holy Spirit, rejection of the Word of God, the Covenant, Christ, shortening the time of a person's earthly life
+## 2) Gen. 6:3, - disregard of the Holy Spirit, rejection of the Word of God, the Covenant, Christ, shortening the time of a person's earthly life
 > And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years. (Gen. 6:3, KJV)
 
 ### (1) The importance of understanding the purpose and meaning of human life – acceptance or non-acceptance of the Word of God, the Covenant, Christ, the right to choose, preparation for life in eternity (where and with whom?). Deut. 30:19
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
-### (2) Non-acceptance of the Word of God, the Covenant, Christ, the inevitability of God's judgment for every human being, the fulfillment of the Word of God (Flood) Rom. 6:23
+### (2) Rejection of the Word of God, the Covenant, Christ, the inevitability of God's judgment for every human being, the fulfillment of the Word of God (Flood) Rom. 6:23
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
-## 3) Gen. 6:5-13, - non-acceptance of the Word of God, the Covenant, Christ, the judgment of God
+## 3) Gen. 6:5-13, - rejection of the Word of God, the Covenant, Christ, the judgment of God
 > And GOD saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually. And it repented the LORD that he had made man on the earth, and it grieved him at his heart. And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them. But Noah found grace in the eyes of the LORD. These are the generations of Noah: Noah was a just man and perfect in his generations, and Noah walked with God. And Noah begat three sons, Shem, Ham, and Japheth. The earth also was corrupt before God, and the earth was filled with violence. And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth. And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth. (Gen. 6:5-13, KJV)
 
-### (1) God's remorse for humanity (regret) is the rejection of the Word of God, the Covenant, Christ, and the death of many people. Matt. 23:37
+### (1) God's repentance for humanity (regret) is the rejection of the Word of God, the Covenant, Christ, and the death of many people. Matt. 23:37
 > O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not! (Matt. 23:37, KJV)
 
 ### (2) The Flood is God's judgment, human responsibility, and the right to choose
 
-### (3) The grace of God is the undeserved mercy of Communion with God, acceptance of the Word of God, the Covenant, Christ, and Noah's response and choice to the action of the Holy Spirit
+### (3) The grace of God is the undeserved mercy of Communion with God, acceptance of the Word of God, the Covenant, and Christ, and Noah's response and choice to the action of the Holy Spirit
 
-### (4) The righteousness of Noah is the acceptance of the Word of God, the Covenant, Christ, God's Prophet Heb. 11:7, - 2 Pet. 2:5,1 Pet. 1:10-11,Acts 10:43
+### (4) The righteousness of Noah is the acceptance of the Word of God, the Covenant, Christ, the Prophet of God Heb. 11:7, - 2 Pet. 2:5,1 Pet. 1:10-11,Acts 10:43
 > By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith. (Heb. 11:7, KJV)
 > And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly; (2 Pet. 2:5, KJV)
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
 > To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins. (Acts 10:43, KJV)
 
-## 4) Gen. 6:14-17, - the importance of accepting the Word of God, the Covenant, Christ, man's choice
+## 4) Gen. 6:14-17, - the importance of accepting the Word of God, the Covenant, Christ, and human choice
 > Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch. And this is the fashion which thou shalt make it of: The length of the ark shall be three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits. A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; with lower, second, and third stories shalt thou make it. And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein is the breath of life, from under heaven; and every thing that is in the earth shall die. (Gen. 6:14-17, KJV)
 
-### (1) Gen. 6:14-16, - the construction of the Ark, God's will and plan. (The Ark is a prototype of Christ and salvation, a consequence of accepting the Word of God, the Covenant, Christ, the importance of understanding a person's right to choose)
+### (1) Gen. 6:14-16, - the construction of the Ark, God's will and plan. (The Ark is a prototype of Christ and salvation, a consequence of accepting the Word of God, the Covenant, and Christ, and the importance of understanding a person's right to choose)
 > Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch. And this is the fashion which thou shalt make it of: The length of the ark shall be three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits. A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; with lower, second, and third stories shalt thou make it. (Gen. 6:14-16, KJV)
 
-### (2) Gen. 6:17, - the cause of the Flood, the rejection of the Word of God, the Covenant, Christ (The Flood is God's judgment by water, an indication of God's judgment by fire). 2 Pet. 3:3-10
+### (2) Gen. 6:17, is the cause of the Flood, the rejection of the Word of God, the Covenant, and Christ (The flood is God's judgment by water, an indication of God's judgment by fire). 2 Pet. 3:3-10
 > And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein is the breath of life, from under heaven; and every thing that is in the earth shall die. (Gen. 6:17, KJV)
 > Knowing this first, that there shall come in the last days scoffers, walking after their own lusts, And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as they were from the beginning of the creation. For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water: Whereby the world that then was, being overflowed with water, perished: But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men. But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day. The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance. But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up. (2 Pet. 3:3-10, KJV)
 
@@ -113,12 +113,12 @@
 
 ## Conclusion:
 
-### (1) The importance of accepting the Word of God, the Covenant, Christ, the fulfillment of Destiny
+### (1) The importance of accepting the Word of God, the Covenant, Christ, and fulfilling destiny
 
 ### (2) The importance of the invisible (the deceptiveness of the visible)
 
-### (3) The importance of understanding the judgment of God – the rejection of the Word of God, the Covenant, Christ
+### (3) The importance of understanding God's judgment is the rejection of God's Word, Covenant, and Christ
 
-### (4) The Ark, salvation is the consequence of accepting the Word of God, the Covenant, Christ
+### (4) The Ark, salvation is a consequence of accepting the Word of God, the Covenant, and Christ
 
 ### (5) The importance of understanding God's Sovereignty and Control

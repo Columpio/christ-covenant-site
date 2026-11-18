@@ -32,7 +32,7 @@
 
 #### (a) The human nature of Christ is the human spirit, soul, and glorified human body (unlimited possibilities)
 
-#### (b) The divine nature of Christ is the Holy One, the Triune God, and the functional priority of action is God the Word. (Priority of the Divine nature over man – God in the flesh) John 1:1, 14, 18,Col. 1:15-16; 2:9, - Eph. 3:9,Heb. 1:1-3, - Gen. 3:8; 18:1-2; 32:28,Ex. 24:9-11; 33:11,Dan. 3:25 (Judg. 6:12-16; 13:22)
+#### (b) The divine nature of Christ is the Holy One, the Triune God, and the functional priority of action is God the Word. (The priority of the Divine nature over man is God in the flesh) John 1:1, 14, 18,Col. 1:15-16; 2:9, - Eph. 3:9,Heb. 1:1-3, - Gen. 3:8; 18:1-2; 32:28,Ex. 24:9-11; 33:11,Dan. 3:25 (Judg. 6:12-16; 13:22)
 > In the beginning was the Word, and the Word was with God, and the Word was God. (John 1:1, KJV)
 > And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth. (John 1:14, KJV)
 > No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him. (John 1:18, KJV)
@@ -77,7 +77,7 @@
 > And Simon Peter answered and said, Thou art the Christ, the Son of the living God. (Matt. 16:16, KJV)
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 
-#### (a) The human nature of Christ is the human spirit, soul, and likeness of human sinful flesh, complete absence of original sin and sinful nature. (The possibility of suffering, temptation and death – the importance of executing the sentence of the Word of God) Rom. 8:3,Phil. 2:6-10, - 2 Cor. 5:21, - John 6:62; 17:5,Matt. 17:2
+#### (a) The human nature of Christ is the human spirit, soul, and likeness of human sinful flesh, complete absence of original sin and sinful nature. (The possibility of suffering, temptation and death – the importance of fulfilling the sentence of the Word of God) Rom. 8:3,Phil. 2:6-10, - 2 Cor. 5:21, - John 6:62; 17:5,Matt. 17:2
 > For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh: (Rom. 8:3, KJV)
 > Who, being in the form of God, thought it not robbery to be equal with God: But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men: And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross. Wherefore God also hath highly exalted him, and given him a name which is above every name: That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth; (Phil. 2:6-10, KJV)
 > For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him. (2 Cor. 5:21, KJV)
@@ -134,7 +134,7 @@
 > My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous: And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world. (1 John 2:1-2, KJV)
 > For there is one God, and one mediator between God and men, the man Christ Jesus; (1 Tim. 2:5, KJV)
 
-#### (b) The divine nature of Christ is the Holy, Triune, Omnipresent God, being with his children, Emmanuel (the functional priority of action is God the Word, the priority of the Divine nature over man – God in the flesh) John 14:23,1 Cor. 3:16, - 2 Cor. 13:5,Col. 1:27
+#### (b) The divine nature of Christ is the Holy, Triune, Omnipresent God, being with his children, Emmanuel (the functional priority of action is God the Word, the priority of the Divine nature over man is God in the flesh) John 14:23,1 Cor. 3:16, - 2 Cor. 13:5,Col. 1:27
 > Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him. (John 14:23, KJV)
 > Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you? (1 Cor. 3:16, KJV)
 > Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates? (2 Cor. 13:5, KJV)
@@ -142,12 +142,12 @@
 
 ## 3) The importance of understanding the purpose of Christ's coming. (Jesus Christ is Divine and Human nature united in one Person without transformation or mixing, 100% God and 100% Man)
 
-### (1) The fulfillment of the Word of God, the Covenant, Christ, the redemption of mankind – the fulfillment of the sentence of the Word of God by the Man Jesus Christ before the Holy Triune God – the Father, the Word, the Holy Spirit, i.e. In front of Himself. Job 17:3,Isa. 43:25,Deut. 32:18. (An example of a promise and fulfillment to oneself of visiting a hospital and donating blood to save a person is an action on the body, suffering of both the body and the soul and spirit of a person)
+### (1) The fulfillment of the Word of God, the Covenant, of Christ, the redemption of mankind – the fulfillment of the sentence of the Word of God by the Man Jesus Christ before the Holy Triune God – the Father, the Word, the Holy Spirit, i.e. In front of Himself. Job 17:3,Isa. 43:25,Deut. 32:18. (An example of a promise and fulfillment to oneself of visiting a hospital and donating blood to save a person is an action on the body, suffering of both the body and the soul and spirit of a person)
 > Lay down now, put me in a surety with thee; who is he that will strike hands with me? (Job 17:3, KJV)
 > I, even I, am he that blotteth out thy transgressions for mine own sake, and will not remember thy sins. (Isa. 43:25, KJV)
 > Of the Rock that begat thee thou art unmindful, and hast forgotten God that formed thee. (Deut. 32:18, KJV)
 
-### (2) Disciples – knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization
+### (2) Disciples – knowledge and transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
 ### (3) To show people the Holy, True God and His will
 

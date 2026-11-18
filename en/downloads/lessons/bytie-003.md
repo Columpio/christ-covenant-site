@@ -23,23 +23,23 @@
 
 ### (1) Cain, Abel – believers, understanding the importance of Worship
 
-### (2) The meaning of Abel's sacrifice is the shedding of blood, faith in Christ. (God's Prophet, acceptance of the Word of God, the Covenant, Christ is the Good News) Heb. 11:4, - Luke 11:49-51,1 Pet. 1:10-11,Acts 10:43
+### (2) The meaning of Abel's sacrifice is the shedding of blood, faith in Christ. (God's Prophet, acceptance of the Word of God, the Covenant, Christ – The Good News) Heb. 11:4, - Luke 11:49-51,1 Pet. 1:10-11,Acts 10:43
 > By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh. (Heb. 11:4, KJV)
 > Therefore also said the wisdom of God, I will send them prophets and apostles, and some of them they shall slay and persecute: That the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation; From the blood of Abel unto the blood of Zacharias, which perished between the altar and the temple: verily I say unto you, It shall be required of this generation. (Luke 11:49-51, KJV)
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
 > To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins. (Acts 10:43, KJV)
 
-### (3) The meaning of Cain's sacrifice is the fruits of the earth, his own strength, the deeds of man (the devil's Child, rejection of the Word of God, the Covenant, Christ – religion). 1 John 3:12
+### (3) The meaning of Cain's sacrifice is the fruits of the earth, his own strength, and human deeds (Child of the devil, rejection of the Word of God, the Covenant, and Christ – religion). 1 John 3:12
 > Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother’s righteous. (1 John 3:12, KJV)
 
 ## Result:
-- Evil is life outside the Word of God, the Covenant, Christ, man's choice, the root cause of all human evil deeds
-- Goodness is life in the Word of God, the Covenant, Christ, man's choice, the root cause of all right human actions
+- Evil is a life outside the Word of God, the Covenant, Christ, a person's choice, the root cause of all human evil deeds
+- Goodness is life in the Word of God, the Covenant, Christ, a person's choice, the root cause of all right human actions
 
 ## 3) Gen. 4:6-7, - God's mercy to the sinner
 > And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen? If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him. (Gen. 4:6-7, KJV)
 
-#### (a) Understanding sin – non-acceptance of the Word of God, the Covenant, Christ (Living outside the Word of God, the Covenant, Christ, absence of the Commandments of the Law)
+#### (a) The understanding of sin is the rejection of the Word of God, the Covenant, Christ (Living outside the Word of God, the Covenant, Christ, the absence of the Commandments of the Law)
 
 #### (b) God's mercy, love, and longsuffering are a call to accept the Word of God, the Covenant, Christ, and dominion over sin. 1 Tim. 2:4
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
@@ -62,7 +62,7 @@
 
 ### (5) The end of religion is eternal fire and destruction
 
-## 6) Gen. 4:8, - the action of Satan, stop the transmission of the Word of God, the Covenant, Christ
+## 6) Gen. 4:8, - the action of Satan, to stop the transmission of the Word of God, the Covenant, Christ
 > And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him. (Gen. 4:8, KJV)
 
 ### (1) Abel is God's prophet, the first martyr for Christ
@@ -72,7 +72,7 @@
 > The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. (John 10:33, KJV)
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
 
-## 7) Gen. 4:9-15, - non-acceptance of the Word of God, the Covenant, Christ
+## 7) Gen. 4:9-15, - rejection of the Word of God, the Covenant, Christ
 > And the LORD said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother’s keeper? And he said, What hast thou done? the voice of thy brother’s blood crieth unto me from the ground. And now art thou cursed from the earth, which hath opened her mouth to receive thy brother’s blood from thy hand; When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth. And Cain said unto the LORD, My punishment is greater than I can bear. Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that every one that findeth me shall slay me. And the LORD said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the LORD set a mark upon Cain, lest any finding him should kill him. (Gen. 4:9-15, KJV)
 
 ### (1) Gen. 4:9, - there is no repentance and repentance, deceiving God
@@ -99,7 +99,7 @@
 
 ## Result:
 
-### (1) Non–acceptance of the Word of God, the Covenant, Christ - destruction (Flood). Rom. 6:23
+### (1) Rejection of the Word of God, the Covenant, and Christ – destruction (Flood). Rom. 6:23
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
 ### (2) Cain – death at the hands of Lamech (opinion). Gen. 4:24
@@ -121,4 +121,4 @@
 
 ### (2) The importance of the right meaning of life for a person
 
-### (3) The Importance of Understanding the Inevitable Fulfillment of God's Word
+### (3) The importance of understanding the inevitable fulfillment of God's Word

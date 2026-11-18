@@ -1,6 +1,6 @@
 # 11. 1 Sam. 27–31: The sin of David, the death of Samuel and Saul
 
-## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -20,24 +20,24 @@
 ### (2) 1 Sam. 27:8, - David's war with the pagan nations in Canaan hostile to the Jews and Philistines
 > And David and his men went up, and invaded the Geshurites, and the Gezrites, and the Amalekites: for those nations were of old the inhabitants of the land, as thou goest to Shur, even unto the land of Egypt. (1 Sam. 27:8, KJV)
 
-### (3) 1 Sam. 27:9, - non-acceptance of the Word of God, the Covenant, Christ, the judgment of God on the pagan peoples of Canaan, the fulfillment of the Word of God Rom. 6:23
+### (3) 1 Sam. 27:9, - rejection of the Word of God, the Covenant, Christ, the judgment of God on the pagan peoples of Canaan, the fulfillment of the Word of God Rom. 6:23
 > And David smote the land, and left neither man nor woman alive, and took away the sheep, and the oxen, and the asses, and the camels, and the apparel, and returned, and came to Achish. (1 Sam. 27:9, KJV)
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
 ### (4) 1 Sam. 27:10-11, - the deception of David Achish (the war with the Jews), God's permission and judgment on the Gentiles. (David's circumstances)
 > And Achish said, Whither have ye made a road to day? And David said, Against the south of Judah, and against the south of the Jerahmeelites, and against the south of the Kenites. And David saved neither man nor woman alive, to bring tidings to Gath, saying, Lest they should tell on us, saying, So did David, and so will be his manner all the while he dwelleth in the country of the Philistines. (1 Sam. 27:10-11, KJV)
 
-### (5) 1 Sam. 27:12, - the joy of Anchusa (the devil's child), the war with the people of God (the action of Satan, stop the transmission of the Word of God, the Covenant, Christ)
+### (5) 1 Sam. 27:12, - the joy of Anchus (the devil's child), the war with the people of God (the action of Satan, to stop the transmission of the Word of God, the Covenant, Christ)
 > And Achish believed David, saying, He hath made his people Israel utterly to abhor him; therefore he shall be my servant for ever. (1 Sam. 27:12, KJV)
 
 ## 3) 1 Sam. 28, - God's sovereignty and control, the fate of man
 
-### (1) 1 Sam. 28:1-2, - Satan's action, stop the transmission of the Covenant, Christ
+### (1) 1 Sam. 28:1-2, - the action of Satan, to stop the transmission of the Covenant, of Christ
 > And it came to pass in those days, that the Philistines gathered their armies together for warfare, to fight with Israel. And Achish said unto David, Know thou assuredly, that thou shalt go out with me to battle, thou and thy men. And David said to Achish, Surely thou shalt know what thy servant can do. And Achish said to David, Therefore will I make thee keeper of mine head for ever. (1 Sam. 28:1-2, KJV)
 
 #### (a) David's seduction, understanding the human right to choose
 
-#### (b) David's sin is an attempt to participate in a war against the people of God
+#### (b) David's sin is an attempt to participate in a war against God's people
 
 ### (2) 1 Sam. 28:3; 25:1 (25:1), - death of Samuel, fulfillment of destiny
 > Now Samuel was dead, and all Israel had lamented him, and buried him in Ramah, even in his own city. And Saul had put away those that had familiar spirits, and the wizards, out of the land. (1 Sam. 28:3, KJV)
@@ -45,7 +45,7 @@
 
 #### (a) The preservation and transmission of the Word of God, the Covenant, Christ the Judges, Ruth, 1 Sam
 
-#### (b) Disciple David (the collapse in children is God's choice, responsible. person)
+#### (b) Disciple David (the collapse in children is God's choice, responsible. a person)
 
 #### (c) Samuel is the prototype of Christ (Prophet, Judge and Priest)
 
@@ -60,7 +60,7 @@
 #### (a) 1 Sam. 28:4-6, - Saul's actions, faith in God
 > And the Philistines gathered themselves together, and came and pitched in Shunem: and Saul gathered all Israel together, and they pitched in Gilboa. And when Saul saw the host of the Philistines, he was afraid, and his heart greatly trembled. And when Saul enquired of the LORD, the LORD answered him not, neither by dreams, nor by Urim, nor by prophets. (1 Sam. 28:4-6, KJV)
 
-#### (b) 1 Sam. 28:7-15, - Saul's faith, meeting with Samuel, God allowed
+#### (b) 1 Sam. 28:7-15, - Saul's faith, meeting with Samuel, God's words
 > Then said Saul unto his servants, Seek me a woman that hath a familiar spirit, that I may go to her, and enquire of her. And his servants said to him, Behold, there is a woman that hath a familiar spirit at Endor. And Saul disguised himself, and put on other raiment, and he went, and two men with him, and they came to the woman by night: and he said, I pray thee, divine unto me by the familiar spirit, and bring me him up, whom I shall name unto thee. And the woman said unto him, Behold, thou knowest what Saul hath done, how he hath cut off those that have familiar spirits, and the wizards, out of the land: wherefore then layest thou a snare for my life, to cause me to die? And Saul sware to her by the LORD, saying, As the LORD liveth, there shall no punishment happen to thee for this thing. Then said the woman, Whom shall I bring up unto thee? And he said, Bring me up Samuel. And when the woman saw Samuel, she cried with a loud voice: and the woman spake to Saul, saying, Why hast thou deceived me? for thou art Saul. And the king said unto her, Be not afraid: for what sawest thou? And the woman said unto Saul, I saw gods ascending out of the earth. And he said unto her, What form is he of? And she said, An old man cometh up; and he is covered with a mantle. And Saul perceived that it was Samuel, and he stooped with his face to the ground, and bowed himself. And Samuel said to Saul, Why hast thou disquieted me, to bring me up? And Saul answered, I am sore distressed; for the Philistines make war against me, and God is departed from me, and answereth me no more, neither by prophets, nor by dreams: therefore I have called thee, that thou mayest make known unto me what I shall do. (1 Sam. 28:7-15, KJV)
 
 #### (c) 1 Sam. 28:16-19, - the salvation of Saul and his sons. (Tomorrow you and your sons will be with me, that is, with Samuel)
@@ -73,9 +73,9 @@
 ## 4) 1 Sam. 29, - the importance of understanding God's sovereignty, understanding God's control over the lives of God's children. Gen. 20:6
 > And God said unto him in a dream, Yea, I know that thou didst this in the integrity of thy heart; for I also withheld thee from sinning against me: therefore suffered I thee not to touch her. (Gen. 20:6, KJV)
 
-### (1) David's sin is an attempt to participate in a war against the people of God
+### (1) David's sin is an attempt to participate in a war against God's people
 
-### (2) David's expulsion from the army of the Philistines is God's control
+### (2) David's expulsion from the Philistine army is God's control
 
 ## 5) 1 Sam. 30, - Understanding God's sovereignty and control
 
@@ -85,7 +85,7 @@
 ### (2) 1 Sam. 30:7-20, - David's victory, the importance of destiny. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Temple, the parish of Christ)
 > And David said to Abiathar the priest, Ahimelech’s son, I pray thee, bring me hither the ephod. And Abiathar brought thither the ephod to David. And David enquired at the LORD, saying, Shall I pursue after this troop? shall I overtake them? And he answered him, Pursue: for thou shalt surely overtake them, and without fail recover all. So David went, he and the six hundred men that were with him, and came to the brook Besor, where those that were left behind stayed. But David pursued, he and four hundred men: for two hundred abode behind, which were so faint that they could not go over the brook Besor. And they found an Egyptian in the field, and brought him to David, and gave him bread, and he did eat; and they made him drink water; And they gave him a piece of a cake of figs, and two clusters of raisins: and when he had eaten, his spirit came again to him: for he had eaten no bread, nor drunk any water, three days and three nights. And David said unto him, To whom belongest thou? and whence art thou? And he said, I am a young man of Egypt, servant to an Amalekite; and my master left me, because three days agone I fell sick. We made an invasion upon the south of the Cherethites, and upon the coast which belongeth to Judah, and upon the south of Caleb; and we burned Ziklag with fire. And David said to him, Canst thou bring me down to this company? And he said, Swear unto me by God, that thou wilt neither kill me, nor deliver me into the hands of my master, and I will bring thee down to this company. And when he had brought him down, behold, they were spread abroad upon all the earth, eating and drinking, and dancing, because of all the great spoil that they had taken out of the land of the Philistines, and out of the land of Judah. And David smote them from the twilight even unto the evening of the next day: and there escaped not a man of them, save four hundred young men, which rode upon camels, and fled. And David recovered all that the Amalekites had carried away: and David rescued his two wives. And there was nothing lacking to them, neither small nor great, neither sons nor daughters, neither spoil, nor any thing that they had taken to them: David recovered all. And David took all the flocks and the herds, which they drave before those other cattle, and said, This is David’s spoil. (1 Sam. 30:7-20, KJV)
 
-### (3) 1 Sam. 30:21-31, - the importance of participating in spiritual warfare, the equal reward of God's children (frontline or rear), the importance of understanding and fulfilling destiny. (Knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the Coming of Christ)
+### (3) 1 Sam. 30:21-31, - the importance of participating in spiritual warfare, the equal reward of God's children (frontline or rear), the importance of understanding and fulfilling destiny. (Knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ)
 > And David came to the two hundred men, which were so faint that they could not follow David, whom they had made also to abide at the brook Besor: and they went forth to meet David, and to meet the people that were with him: and when David came near to the people, he saluted them. Then answered all the wicked men and men of Belial, of those that went with David, and said, Because they went not with us, we will not give them ought of the spoil that we have recovered, save to every man his wife and his children, that they may lead them away, and depart. Then said David, Ye shall not do so, my brethren, with that which the LORD hath given us, who hath preserved us, and delivered the company that came against us into our hand. For who will hearken unto you in this matter? but as his part is that goeth down to the battle, so shall his part be that tarrieth by the stuff: they shall part alike. And it was so from that day forward, that he made it a statute and an ordinance for Israel unto this day. And when David came to Ziklag, he sent of the spoil unto the elders of Judah, even to his friends, saying, Behold a present for you of the spoil of the enemies of the LORD; To them which were in Beth-el, and to them which were in south Ramoth, and to them which were in Jattir, And to them which were in Aroer, and to them which were in Siphmoth, and to them which were in Eshtemoa, And to them which were in Rachal, and to them which were in the cities of the Jerahmeelites, and to them which were in the cities of the Kenites, And to them which were in Hormah, and to them which were in Chor-ashan, and to them which were in Athach, And to them which were in Hebron, and to all the places where David himself and his men were wont to haunt. (1 Sam. 30:21-31, KJV)
 
 ## 6) 1 Sam. 31, - the death of Saul and Jonathan, the fulfillment of God's Word, the importance of understanding God's control of life. Ps. 139:16
@@ -93,7 +93,7 @@
 
 ### (1) Saul's faith, there is no abandonment of the Word of God, the Covenant, Christ
 
-### (2) Renunciation of destiny, opposition to the will of God, affirmation of one's will (Satan's action from outside, the seduction of Saul)
+### (2) Abandoning one's destiny, resisting the will of God, asserting one's will (the action of Satan from outside, the seduction of Saul)
 
 ### (3) The importance of understanding the status of Saul (God's Anointed one), the saved child of God, and the evidence of God's Word
 

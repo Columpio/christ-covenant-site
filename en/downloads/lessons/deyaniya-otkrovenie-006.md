@@ -3,7 +3,7 @@
 ## 1) Acts 9:1-2, - transmission of the Word of God, the Covenant, Christ (34 A.D.)
 > And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest, And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem. (Acts 9:1-2, KJV)
 
-### (1) The importance of understanding the destiny of God's people – knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
+### (1) The importance of understanding the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
@@ -19,7 +19,7 @@
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-### (2) Saul the Pharisee – misunderstanding of the Word of God, the Covenant, Christ, there is no salvation and no rebirth, the devil child, misunderstanding of the destiny of the people of God. John 16:2
+### (2) Saul the Pharisee – misunderstanding of the Word of God, the Covenant, Christ, there is no salvation and no rebirth, a child of the devil, misunderstanding of the purpose of the people of God. John 16:2
 > They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service. (John 16:2, KJV)
 
 #### (a) Not accepting Jesus as the Messiah, the Christ, not understanding the nature of Christ. Acts 26:4-7,John 10:33 (Matt. 22:41-46)
@@ -33,7 +33,7 @@
 ## 2) Acts 9:3-9, - Saul's calling, meeting with Christ
 > And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven: And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me? And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks. And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do. And the men which journeyed with him stood speechless, hearing a voice, but seeing no man. And Saul arose from the earth; and when his eyes were opened, he saw no man: but they led him by the hand, and brought him into Damascus. And he was three days without sight, and neither did eat nor drink. (Acts 9:3-9, KJV)
 
-### (1) The importance of understanding the Goddess and the timetable of time
+### (1) The importance of understanding God's Sovereignty and Time schedule
 
 ### (2) The importance of understanding God's foreknowledge and election of every human being. Gal. 1:15,Eph. 1:4
 > But when it pleased God, who separated me from my mother’s womb, and called me by his grace, (Gal. 1:15, KJV)
@@ -42,33 +42,33 @@
 ## 3) Acts 9:10-22, - teaching, knowledge and transmission of the Word of God, the Covenant, Christ
 > And there was a certain disciple at Damascus, named Ananias; and to him said the Lord in a vision, Ananias. And he said, Behold, I am here, Lord. And the Lord said unto him, Arise, and go into the street which is called Straight, and enquire in the house of Judas for one called Saul, of Tarsus: for, behold, he prayeth, And hath seen in a vision a man named Ananias coming in, and putting his hand on him, that he might receive his sight. Then Ananias answered, Lord, I have heard by many of this man, how much evil he hath done to thy saints at Jerusalem: And here he hath authority from the chief priests to bind all that call on thy name. But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel: For I will shew him how great things he must suffer for my name’s sake. And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, even Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost. And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized. And when he had received meat, he was strengthened. Then was Saul certain days with the disciples which were at Damascus. And straightway he preached Christ in the synagogues, that he is the Son of God. But all that heard him were amazed, and said; Is not this he that destroyed them which called on this name in Jerusalem, and came hither for that intent, that he might bring them bound unto the chief priests? But Saul increased the more in strength, and confounded the Jews which dwelt at Damascus, proving that this is very Christ. (Acts 9:10-22, KJV)
 
-### (1) The importance of the disciple (Ananias), the importance of knowing and transmitting the Word of God, the Covenant, Christ, the fulfillment of destiny (Damascus)
+### (1) The importance of the disciple (Ananias), the importance of knowing and transmitting the Word of God, the Covenant, Christ, and fulfilling the purpose (Damascus)
 
-### (2) The importance of accepting Jesus as the Messiah, Christ, accepting His Sacrifice, Paul's epiphany (awareness of the Scriptures, grace B), salvation and rebirth, Paul's overflowing Holy Spirit
+### (2) The importance of accepting Jesus as the Messiah, Christ, accepting His Sacrifice, Paul's epiphany (understanding the Scriptures, grace B), salvation and rebirth, Paul's overflowing with the Holy Spirit
 
 ### (3) The importance of Water Baptism, Paul's visible affirmation of entering into a Covenant with God, and the fulfillment of God's will
 
-### (4) The importance of proclaiming the Word of God, the Covenant, Christ, the beginning of the ministry of the Apostle Paul in Damascus (Syria)
+### (4) The importance of proclaiming the Word of God, the Covenant, Christ, and the beginning of the ministry of the Apostle Paul in Damascus (Syria)
 
 ### (5) Paul's departure to Arabia (the importance of a deep understanding of the Word of God, the Covenant, and Christ), and his return to Damascus. Gal. 1:13-24 (17)
 > For ye have heard of my conversation in time past in the Jews’ religion, how that beyond measure I persecuted the church of God, and wasted it: And profited in the Jews’ religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers. But when it pleased God, who separated me from my mother’s womb, and called me by his grace, To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood: Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus. Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days. But other of the apostles saw I none, save James the Lord’s brother. Now the things which I write unto you, behold, before God, I lie not. Afterwards I came into the regions of Syria and Cilicia; And was unknown by face unto the churches of Judaea which were in Christ: But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed. And they glorified God in me. (Gal. 1:13-24, KJV)
 
-## 4) Acts 9:23-25,2 Cor. 11:32, - the importance of understanding the work of Satan
+## 4) Acts 9:23-25,2 Cor. 11:32, - the importance of understanding Satan's actions
 > And after that many days were fulfilled, the Jews took counsel to kill him: But their laying await was known of Saul. And they watched the gates day and night to kill him. Then the disciples took him by night, and let him down by the wall in a basket. (Acts 9:23-25, KJV)
 > In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me: (2 Cor. 11:32, KJV)
 
-### (1) Stop transmitting the Word of God, the Covenant, Christ, World Evangelization, Salvation of man
+### (1) Stop the transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, and human salvation
 
-### (2) False teachings and false disciples, resisting the Word of God, the Covenant, Christ
+### (2) False teachings and false disciples, opposition to the Word of God, the Covenant, and Christ
 
 ### (3) The attempted assassination of the Apostle Paul, escape, and arrival in Jerusalem (understanding God's sovereignty and control)
 
-## 5) Acts 9:26-30, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 5) Acts 9:26-30, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 > And when Saul was come to Jerusalem, he assayed to join himself to the disciples: but they were all afraid of him, and believed not that he was a disciple. But Barnabas took him, and brought him to the apostles, and declared unto them how he had seen the Lord in the way, and that he had spoken to him, and how he had preached boldly at Damascus in the name of Jesus. And he was with them coming in and going out at Jerusalem. And he spake boldly in the name of the Lord Jesus, and disputed against the Grecians: but they went about to slay him. Which when the brethren knew, they brought him down to Cæsarea, and sent him forth to Tarsus. (Acts 9:26-30, KJV)
 
 ### (1) Arrival in Jerusalem, intercession of Barnabas
 
-### (2) Ministry in Jerusalem, knowledge and transmission of the Word of God, the Covenant, Christ
+### (2) Ministry in Jerusalem, knowledge and transmission of the Word of God, the Covenant, and Christ
 
 ### (3) Return to Tarsus, God's sovereignty and control
 
@@ -103,7 +103,7 @@
 
 #### (a) Damascus – Arabia – Damascus – Jerusalem – Tarsus – Antioch, God's sovereignty and control, God's timetable
 
-#### (b) Paul's eight–year training is particularly important in accurately understanding and communicating the Word of God, the Covenant, Christ 1 Tim. 2:4
+#### (b) Paul's eight–year training is particularly important in accurately understanding and communicating the Word of God, the Covenant, and Christ 1 Tim. 2:4
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 
 ## 7) Acts 9:31-43, - affirmation of the Word of God, the Covenant, Christ (Eney and Tafiva)
@@ -120,4 +120,4 @@
 
 ### (2) The importance of understanding God's Sovereignty and Control
 
-### (3) The importance of knowing and transmitting the Word of God, the Covenant, Christ, the Disciples, World Evangelization,, preparation for the coming of Christ (purpose)
+### (3) The importance of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ (purpose)

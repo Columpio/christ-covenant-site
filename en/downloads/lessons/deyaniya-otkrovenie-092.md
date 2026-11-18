@@ -1,5 +1,5 @@
 # Phil. 4
-## 3.1) Phil. 3:8-16, - the importance of knowing the Word of God, the Covenant, Christ
+## 3.1) Phil. 3:8-16, - the importance of knowing the Word of God, the Covenant, and Christ
 > Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ, And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith: That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death; If by any means I might attain unto the resurrection of the dead. Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus. Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before, I press toward the mark for the prize of the high calling of God in Christ Jesus. Let us therefore, as many as be perfect, be thus minded: and if in any thing ye be otherwise minded, God shall reveal even this unto you. Nevertheless, whereto we have already attained, let us walk by the same rule, let us mind the same thing. (Phil. 3:8-16, KJV)
 
 ### (1) Phil. 3:8-9, - the importance of knowing the Word of God, the Covenant, Christ, understanding the only reason for human righteousness Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
@@ -29,7 +29,7 @@
 ### (3) Phil. 3:11, - the importance of the resurrection of the dead, the actual completion of the salvation of God's people (glorified bodies)
 > If by any means I might attain unto the resurrection of the dead. (Phil. 3:11, KJV)
 
-### (4) Phil. 3:12-14, - the importance of understanding the effect of God's grace, the importance of serving God, fulfilling his purpose. (God's reward is the knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization)
+### (4) Phil. 3:12-14, - the importance of understanding the effect of God's grace, the importance of serving God, fulfilling his purpose. (God's reward is the knowledge and transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization)
 > Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus. Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before, I press toward the mark for the prize of the high calling of God in Christ Jesus. (Phil. 3:12-14, KJV)
 
 ### (5) Phil. 3:15-16, - the importance of understanding God's sovereignty, the stages of the spiritual growth of God's people, proper prayer
@@ -38,7 +38,7 @@
 ## 2) Phil. 3:17-21, - the importance of fulfilling the purpose
 > Brethren, be followers together of me, and mark them which walk so as ye have us for an ensample. (For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ: Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.) For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ: Who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself. (Phil. 3:17-21, KJV)
 
-### (1) Phil. 3:17, - the importance of fulfilling the destiny of God's people, imitating the apostles and disciples of Christ. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+### (1) Phil. 3:17, - the importance of fulfilling the destiny of God's people, imitating the apostles and disciples of Christ. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 > Brethren, be followers together of me, and mark them which walk so as ye have us for an ensample. (Phil. 3:17, KJV)
 
 ### (2) Phil. 3:18-19, - rejection of the Word of God, the Covenant, Christ, the visible, the importance of understanding the actions of Satan (the right to choose until the end of life)
@@ -50,7 +50,7 @@
 ### (4) Phil. 3:20-21, - the importance of the Second Coming of Christ (resurrection of the dead, glorified bodies), the actual completion of salvation, the fulfillment of the Word of God, the Covenant, Christ
 > For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ: Who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself. (Phil. 3:20-21, KJV)
 
-## 3) Phil. 4:1-5, - the importance of understanding the Word of God, the Covenant, Christ
+## 3) Phil. 4:1-5, - the importance of understanding the Word of God, the Covenant, and Christ
 > Therefore, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord, my dearly beloved. I beseech Euodias, and beseech Syntyche, that they be of the same mind in the Lord. And I intreat thee also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and with other my fellowlabourers, whose names are in the book of life. Rejoice in the Lord alway: and again I say, Rejoice. Let your moderation be known unto all men. The Lord is at hand. (Phil. 4:1-5, KJV)
 
 ### (1) Phil. 4:1-3, - the importance of fulfilling the destiny of the people of God, the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization
@@ -65,7 +65,7 @@
 ### (4) Phil. 4:5, - the importance of meekness before God and His Word, the importance of living a right life, fulfilling a destiny
 > Let your moderation be known unto all men. The Lord is at hand. (Phil. 4:5, KJV)
 
-## 4) Phil. 4:6-9, - the importance of understanding the Word of God, the Covenant, Christ
+## 4) Phil. 4:6-9, - the importance of understanding the Word of God, the Covenant, and Christ
 > Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God. And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus. Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things. Those things, which ye have both learned, and received, and heard, and seen in me, do: and the God of peace shall be with you. (Phil. 4:6-9, KJV)
 
 ### (1) Phil. 4:6-7, - the importance of the correct prayer of the people of God
@@ -86,7 +86,7 @@
 ### (1) Phil. 4:10-20, - the importance of the financial service of the people of God, the fulfillment of purpose
 > But I rejoiced in the Lord greatly, that now at the last your care of me hath flourished again; wherein ye were also careful, but ye lacked opportunity. Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content. I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need. I can do all things through Christ which strengtheneth me. Notwithstanding ye have well done, that ye did communicate with my affliction. Now ye Philippians know also, that in the beginning of the gospel, when I departed from Macedonia, no church communicated with me as concerning giving and receiving, but ye only. For even in Thessalonica ye sent once and again unto my necessity. Not because I desire a gift: but I desire fruit that may abound to your account. But I have all, and abound: I am full, having received of Epaphroditus the things which were sent from you, an odour of a sweet smell, a sacrifice acceptable, wellpleasing to God. But my God shall supply all your need according to his riches in glory by Christ Jesus. Now unto God and our Father be glory for ever and ever. Amen. (Phil. 4:10-20, KJV)
 
-#### (a) The importance of caring for the cause of God – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ
+#### (a) The importance of caring for the cause of God – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ
 
 #### (b) The importance of being able to live in both scarcity and abundance – God's sovereignty and control, man's motivation
 
@@ -107,7 +107,7 @@
 
 ### (4) The importance of confidence in the forgiveness of all sins and salvation, the importance of preparing for the Second Coming of Christ
 
-### (5) The importance of right thinking and prayer, the affirmation of God's will, the importance of knowing the Word of God, the Covenant, Christ
+### (5) The importance of correct thinking and prayer, the affirmation of God's will, the importance of knowing the Word of God, the Covenant, and Christ
 
 ### (6) The importance of financial service to God's people
 

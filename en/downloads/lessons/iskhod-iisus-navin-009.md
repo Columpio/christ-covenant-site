@@ -1,6 +1,6 @@
 # 3. Ex. 25–40: The Tabernacle
 
-## 1) The importance of the Covenant, Christ in human life. (A Covenant is a Contract initiated by God)
+## 1) The importance of the Covenant, of Christ in human life. (A Covenant is a Contract initiated by God)
 
 ### (1) The General Covenant of Salvation is God's conditions for any person to stay with God, Emmanuel
 
@@ -132,15 +132,15 @@
 
 ## 5) The importance of the Tabernacle
 
-### (1) the Construction and description of the smallest detail of the Tabernacle – the importance of a deep and detailed understanding of the Word of God, Testament, Christ (God's guidance, grace, and full responsibility of the person)
+### (1) The construction and description of the smallest details of the Tabernacle is the importance of a deep and detailed understanding of the Word of God, the Covenant, and Christ (God's guidance, grace, and full human responsibility)
 
-### (2) The Tabernacle is the central place among the people of God (priority)
+### (2) The Tabernacle is a central place among God's people (priority)
 
-### (3) God is the leadership and control of the people of God (Tabernacle movement)
+### (3) God's guidance and control of God's people (Tabernacle movement)
 
 ### (4) The decoration of the Tabernacle – the importance of the Word of God, the Covenant, Christ, and Worship. (Man's priorities, God's best – work, time, finances)
 
-### (5) Priests, Levites - Divine service, purpose of the Church (Knowledge and transmission of the Word of God, Testament, Christ, disciples, World Evangelization)
+### (5) Priests, Levites – Worship, purpose of the Church (Knowledge and transmission of the Word of God, the Covenant, Christ, disciples, Worldwide Evangelization)
 
 ### (6) The high priest is a type of Christ. Ex. 28-29,Heb. 7:23-28. (Purification of the High Priest, the need for Xp, the human problem)
 > And they truly were many priests, because they were not suffered to continue by reason of death: But this man, because he continueth ever, hath an unchangeable priesthood. Wherefore he is able also to save them to the uttermost that come unto God by him, seeing he ever liveth to make intercession for them. For such an high priest became us, who is holy, harmless, undefiled, separate from sinners, and made higher than the heavens; Who needeth not daily, as those high priests, to offer up sacrifice, first for his own sins, and then for the people’s: for this he did once, when he offered up himself. For the law maketh men high priests which have infirmity; but the word of the oath, which was since the law, maketh the Son, who is consecrated for evermore. (Heb. 7:23-28, KJV)
@@ -152,20 +152,20 @@
 
 ### (2) Meeting and reconciliation with God, Emmanuel (the only place)
 
-### (3) The importance of the assembly, the unity of the people of God – understanding and fulfilling the purpose, fulfilling the will of God. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+### (3) The importance of the assembly, the unity of the people of God – understanding and fulfilling the purpose, fulfilling the will of God. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 
-## 7) Ex. 32-34, - the action of Satan (stop the transmission of the Covenant, Christ)
+## 7) Ex. 32-34, - the action of Satan (to stop the transmission of the Covenant, Christ)
 
-### (1) Abandonment of the Word of God, Covenant, Christ, golden calf (abolition of the Word of God)
+### (1) Rejection of the Word of God, the Covenant, Christ, the golden calf (abolition of the Word of God)
 
 ### (2) Moses is the prototype of Christ, unity with the people of God Ex. 32:13, 32
 > Remember Abraham, Isaac, and Israel, thy servants, to whom thou swarest by thine own self, and saidst unto them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give unto your seed, and they shall inherit it for ever. (Ex. 32:13, KJV)
 > Yet now, if thou wilt forgive their sin—; and if not, blot me, I pray thee, out of thy book which thou hast written. (Ex. 32:32, KJV)
 
-### (3) The Life of Aaron – the prayer of Moses (typified by Christ) Deut. 9:20
+### (3) The Life of Aaron – the prayer of Moses (the prototype of Christ) Deut. 9:20
 > And the LORD was very angry with Aaron to have destroyed him: and I prayed for Aaron also the same time. (Deut. 9:20, KJV)
 
-### (4) Book of Life – blotting out man (rejection of the Word of God, Covenant, Christ) Ex. 32:32-33
+### (4) The Book of Life – the Blotting out of man (rejection of the Word of God, the Covenant, Christ) Ex. 32:32-33
 > Yet now, if thou wilt forgive their sin—; and if not, blot me, I pray thee, out of thy book which thou hast written. And the LORD said unto Moses, Whosoever hath sinned against me, him will I blot out of my book. (Ex. 32:32-33, KJV)
 
 ## Conclusion:
@@ -176,7 +176,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-- V.Z. – the perfect Good News. John 5:39; 16:8-11. (Tabernacle – 3-5 times a year, local synagogue – every seventh day, the importance of studying the Word of God, the Testaments, Christ, Levites)
+- V.Z. – the perfect Good News. John 5:39; 16:8-11. (Tabernacle – 3-5 times a year, local synagogue – every seventh day, the importance of studying the Word of God, the Covenant, Christ, Leviticus)
 
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 > And when he is come, he will reprove the world of sin, and of righteousness, and of judgment: Of sin, because they believe not on me; Of righteousness, because I go to my Father, and ye see me no more; Of judgment, because the prince of this world is judged. (John 16:8-11, KJV)

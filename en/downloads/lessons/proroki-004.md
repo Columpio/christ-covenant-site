@@ -11,7 +11,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-## 2) The ministry of the prophets is the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of God's people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+## 2) The ministry of the prophets is the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of God's people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 
 ### (1) The Prophets of V.Z. – understanding and acceptance of the Word of God, the Covenant, Christ, salvation and rebirth, the action of the Holy Spirit 1 Pet. 1:10-11,Acts 10:43, - 2 Pet. 1:19-21,John 16:8-11
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
@@ -19,20 +19,20 @@
 > We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts: Knowing this first, that no prophecy of the scripture is of any private interpretation. For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost. (2 Pet. 1:19-21, KJV)
 > And when he is come, he will reprove the world of sin, and of righteousness, and of judgment: Of sin, because they believe not on me; Of righteousness, because I go to my Father, and ye see me no more; Of judgment, because the prince of this world is judged. (John 16:8-11, KJV)
 
-#### (a) The rejection of the Word of God, the Covenant, Christ is the problem of man, of the people. (The consequence is idolatry, mammon, immorality)
+#### (a) The rejection of the Word of God, the Covenant, and Christ is the problem of man and the people. (The consequence is idolatry, mammon, immorality)
 
-#### (b) The importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization (Emmanuel, the destiny of man, preparation for the coming of Christ)
+#### (b) The importance of knowing and transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization (Emmanuel, the destiny of man, preparation for the coming of Christ)
 
-#### (c) The judgments of God – the inevitable execution of the sentence of the Word of God, understanding the human right to choose. Rom. 6:23,Deut. 30:19
+#### (c) The judgments of God are the inevitable execution of the sentence of the Word of God, understanding the human right to choose. Rom. 6:23,Deut. 30:19
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
-### (2) The modern people of God, the continuation of prophetic ministry – the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of the people of God. John 16:8-11. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+### (2) The modern people of God, the continuation of prophetic ministry – the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of the people of God. John 16:8-11. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 > And when he is come, he will reprove the world of sin, and of righteousness, and of judgment: Of sin, because they believe not on me; Of righteousness, because I go to my Father, and ye see me no more; Of judgment, because the prince of this world is judged. (John 16:8-11, KJV)
 
-## 3) 2 Kgs. 2, - transmission of the Word of God, the Covenant, Christ (God is responsible)
+## 3) 2 Kgs. 2, - transmission of the Word of God, the Covenant, Christ (God's responsibility)
 
-### (1) 2 Kgs. 2:19-22, - the importance of knowledge and transmission of the Covenant, Christ
+### (1) 2 Kgs. 2:19-22, - the importance of knowing and transmitting the Covenant of Christ
 > And the men of the city said unto Elisha, Behold, I pray thee, the situation of this city is pleasant, as my lord seeth: but the water is naught, and the ground barren. And he said, Bring me a new cruse, and put salt therein. And they brought it to him. And he went forth unto the spring of the waters, and cast the salt in there, and said, Thus saith the LORD, I have healed these waters; there shall not be from thence any more death or barren land. So the waters were healed unto this day, according to the saying of Elisha which he spake. (2 Kgs. 2:19-22, KJV)
 
 #### (a) The Schools of the Prophets (Samuel) – Ramah, Gilgal, Bethel, Jericho, the sons of the prophets. 1 Sam. 19:20,2 Kgs. 2:3-5; 4:38; 6:1
@@ -47,22 +47,22 @@
 
 #### (d) The schools of the Prophets – the ministry of Elisha, the purpose
 
-### (2) 2 Kgs. 2:23-25, - non-acceptance of the Word of God, the Covenant, Christ
+### (2) 2 Kgs. 2:23-25, - rejection of the Word of God, the Covenant, Christ
 > And he went up from thence unto Beth-el: and as he was going up by the way, there came forth little children out of the city, and mocked him, and said unto him, Go up, thou bald head; go up, thou bald head. And he turned back, and looked on them, and cursed them in the name of the LORD. And there came forth two she bears out of the wood, and tare forty and two children of them. And he went from thence to mount Carmel, and from thence he returned to Samaria. (2 Kgs. 2:23-25, KJV)
 
 #### (a) Children – Ts.N., God's love and mercy
 
-#### (b) Parents – rejection of the Word of God, the Covenant, Christ, improper upbringing of children, the possibility of repentance (God is love and mercy)
+#### (b) Parents – rejection of the Word of God, the Covenant, Christ, improper upbringing of children, the possibility of repentance (God's love and mercy)
 
 ## 4) 2 Kgs. 3, - God's love and mercy, victory over enemies
 
-### (1) Jehoshaphat, king of Judah, acceptance of the Word of God, the Covenant, Christ, the testimony of the prophet Elisha. 2 Kgs. 3:11-18 (1 Kgs. 22:41-45)
+### (1) Jehoshaphat, king of Judah, acceptance of the Word of God, the Covenant, Christ, and the testimony of the prophet Elisha. 2 Kgs. 3:11-18 (1 Kgs. 22:41-45)
 > But Jehoshaphat said, Is there not here a prophet of the LORD, that we may enquire of the LORD by him? And one of the king of Israel’s servants answered and said, Here is Elisha the son of Shaphat, which poured water on the hands of Elijah. And Jehoshaphat said, The word of the LORD is with him. So the king of Israel and Jehoshaphat and the king of Edom went down to him. And Elisha said unto the king of Israel, What have I to do with thee? get thee to the prophets of thy father, and to the prophets of thy mother. And the king of Israel said unto him, Nay: for the LORD hath called these three kings together, to deliver them into the hand of Moab. And Elisha said, As the LORD of hosts liveth, before whom I stand, surely, were it not that I regard the presence of Jehoshaphat the king of Judah, I would not look toward thee, nor see thee. But now bring me a minstrel. And it came to pass, when the minstrel played, that the hand of the LORD came upon him. And he said, Thus saith the LORD, Make this valley full of ditches. For thus saith the LORD, Ye shall not see wind, neither shall ye see rain; yet that valley shall be filled with water, that ye may drink, both ye, and your cattle, and your beasts. And this is but a light thing in the sight of the LORD: he will deliver the Moabites also into your hand. (2 Kgs. 3:11-18, KJV)
 > And Jehoshaphat the son of Asa began to reign over Judah in the fourth year of Ahab king of Israel. Jehoshaphat was thirty and five years old when he began to reign; and he reigned twenty and five years in Jerusalem. And his mother’s name was Azubah the daughter of Shilhi. And he walked in all the ways of Asa his father; he turned not aside from it, doing that which was right in the eyes of the LORD: nevertheless the high places were not taken away; for the people offered and burnt incense yet in the high places. And Jehoshaphat made peace with the king of Israel. Now the rest of the acts of Jehoshaphat, and his might that he shewed, and how he warred, are they not written in the book of the chronicles of the kings of Judah? (1 Kgs. 22:41-45, KJV)
 
 ### (2) God's love and mercy, the possibility of repentance for King Joram of Israel
 
-### (3) Victory over enemies – the importance of accepting the Word of God, the Covenant, Christ, the importance of understanding and fulfilling destiny
+### (3) Victory over enemies – the importance of accepting the Word of God, the Covenant, and Christ, and the importance of understanding and fulfilling destiny
 
 ## 5) 2 Kgs. 4, - God's sovereignty and control
 
@@ -77,10 +77,10 @@
 > And Elisha came again to Gilgal: and there was a dearth in the land; and the sons of the prophets were sitting before him: and he said unto his servant, Set on the great pot, and seethe pottage for the sons of the prophets. And one went out into the field to gather herbs, and found a wild vine, and gathered thereof wild gourds his lap full, and came and shred them into the pot of pottage: for they knew them not. So they poured out for the men to eat. And it came to pass, as they were eating of the pottage, that they cried out, and said, O thou man of God, there is death in the pot. And they could not eat thereof. But he said, Then bring meal. And he cast it into the pot; and he said, Pour out for the people, that they may eat. And there was no harm in the pot. And there came a man from Baal-shalisha, and brought the man of God bread of the firstfruits, twenty loaves of barley, and full ears of corn in the husk thereof. And he said, Give unto the people, that they may eat. And his servitor said, What, should I set this before an hundred men? He said again, Give the people, that they may eat: for thus saith the LORD, They shall eat, and shall leave thereof. So he set it before them, and they did eat, and left thereof, according to the word of the LORD. (2 Kgs. 4:38-44, KJV)
 > But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you. (Matt. 6:33, KJV)
 
-## 6) 2 Kgs. 8:8-9 (8:8-9), - transmission of the Word of God, the Covenant, Christ (Syria, Ben-Hadad)
+## 6) 2 Kgs. 8:8-9 (8:8-9), - transmission of the Word of God, the Covenant, of Christ (Syria, Ben-Hadad)
 > And the king said unto Hazael, Take a present in thine hand, and go, meet the man of God, and enquire of the LORD by him, saying, Shall I recover of this disease? So Hazael went to meet him, and took a present with him, even of every good thing of Damascus, forty camels’ burden, and came and stood before him, and said, Thy son Ben-hadad king of Syria hath sent me to thee, saying, Shall I recover of this disease? (2 Kgs. 8:8-9, KJV)
 
-### (1) 2 Kgs. 5:1-5, - transmission of the Covenant, Christ (leprosy is the prototype of sin)
+### (1) 2 Kgs. 5:1-5, - transmission of the Covenant, of Christ (leprosy is the prototype of sin)
 > Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valour, but he was a leper. And the Syrians had gone out by companies, and had brought away captive out of the land of Israel a little maid; and she waited on Naaman’s wife. And she said unto her mistress, Would God my lord were with the prophet that is in Samaria! for he would recover him of his leprosy. And one went in, and told his lord, saying, Thus and thus said the maid that is of the land of Israel. And the king of Syria said, Go to, go, and I will send a letter unto the king of Israel. And he departed, and took with him ten talents of silver, and six thousand pieces of gold, and ten changes of raiment. (2 Kgs. 5:1-5, KJV)
 
 ### (2) 2 Kgs. 5:6-9, the Covenant, Christ (the decision of the "spirit. problems" from God)
@@ -93,7 +93,7 @@
 > And he returned to the man of God, he and all his company, and came, and stood before him: and he said, Behold, now I know that there is no God in all the earth, but in Israel: now therefore, I pray thee, take a blessing of thy servant. But he said, As the LORD liveth, before whom I stand, I will receive none. And he urged him to take it; but he refused. And Naaman said, Shall there not then, I pray thee, be given to thy servant two mules’ burden of earth? for thy servant will henceforth offer neither burnt offering nor sacrifice unto other gods, but unto the LORD. In this thing the LORD pardon thy servant, that when my master goeth into the house of Rimmon to worship there, and he leaneth on my hand, and I bow myself in the house of Rimmon: when I bow down myself in the house of Rimmon, the LORD pardon thy servant in this thing. (2 Kgs. 5:15-18, KJV)
 > And many lepers were in Israel in the time of Eliseus the prophet; and none of them was cleansed, saving Naaman the Syrian. (Luke 4:27, KJV)
 
-#### (a) The True God (transmission of the Covenant, Christ in the Syrian Kingdom)
+#### (a) The True God (transmission of the Covenant, Christ in the Syrian kingdom)
 
 #### (b) The importance of Canaan. Gen. 3:15, 21
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
@@ -109,11 +109,11 @@
 ### (5) 2 Kgs. 5:20-27, - inaccurate fulfillment of the Word of God, lost to posterity
 > But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but, as the LORD liveth, I will run after him, and take somewhat of him. So Gehazi followed after Naaman. And when Naaman saw him running after him, he lighted down from the chariot to meet him, and said, Is all well? And he said, All is well. My master hath sent me, saying, Behold, even now there be come to me from mount Ephraim two young men of the sons of the prophets: give them, I pray thee, a talent of silver, and two changes of garments. And Naaman said, Be content, take two talents. And he urged him, and bound two talents of silver in two bags, with two changes of garments, and laid them upon two of his servants; and they bare them before him. And when he came to the tower, he took them from their hand, and bestowed them in the house: and he let the men go, and they departed. But he went in, and stood before his master. And Elisha said unto him, Whence comest thou, Gehazi? And he said, Thy servant went no whither. And he said unto him, Went not mine heart with thee, when the man turned again from his chariot to meet thee? Is it a time to receive money, and to receive garments, and oliveyards, and vineyards, and sheep, and oxen, and menservants, and maidservants? The leprosy therefore of Naaman shall cleave unto thee, and unto thy seed for ever. And he went out from his presence a leper as white as snow. (2 Kgs. 5:20-27, KJV)
 
-## 7) 2 Kgs. 6-10, - the importance of accepting the Word of God, the Covenant, Christ
+## 7) 2 Kgs. 6-10, - the importance of accepting the Word of God, the Covenant, and Christ
 
-### (1) 2 Kgs. 6 (17)-7(1), - God's control and protection of the people of God
+### (1) 2 Kgs. 6(17)-7(1), - God's control and protection of God's people
 
-### (2) 2 Kgs. 8:8-9, - transmission of the Word of God, the Covenant, Christ (Syria, Ben-Hadad)
+### (2) 2 Kgs. 8:8-9, - transmission of the Word of God, the Covenant, of Christ (Syria, Ben-Hadad)
 > And the king said unto Hazael, Take a present in thine hand, and go, meet the man of God, and enquire of the LORD by him, saying, Shall I recover of this disease? So Hazael went to meet him, and took a present with him, even of every good thing of Damascus, forty camels’ burden, and came and stood before him, and said, Thy son Ben-hadad king of Syria hath sent me to thee, saying, Shall I recover of this disease? (2 Kgs. 8:8-9, KJV)
 
 ### (3) 2 Kgs. 9-10, - God's sovereignty and control, fulfillment of the Word of God (Jehu - death of Jezebel and the house of Ahab, prophets of Baal, idols)

@@ -1,6 +1,6 @@
 # 4. Holidays
 
-## 1) The importance of the Covenant, Christ in human life. (A Covenant is a Contract initiated by God)
+## 1) The importance of the Covenant, of Christ in human life. (A Covenant is a Contract initiated by God)
 
 ### (1) The General Covenant of Salvation is God's conditions for any person to stay with God, Emmanuel
 
@@ -53,7 +53,7 @@
 ### (1) Lev. 23:1-4, is the seventh day, the feast of the Lord
 > And the LORD spake unto Moses, saying, Speak unto the children of Israel, and say unto them, Concerning the feasts of the LORD, which ye shall proclaim to be holy convocations, even these are my feasts. Six days shall work be done: but the seventh day is the sabbath of rest, an holy convocation; ye shall do no work therein: it is the sabbath of the LORD in all your dwellings. These are the feasts of the LORD, even holy convocations, which ye shall proclaim in their seasons. (Lev. 23:1-4, KJV)
 
-#### (a) The importance of knowing and transmitting the Word of God, the Covenant, Christ, the importance of fulfilling the destiny of God's people, the importance of fulfilling God's will. 1 Tim. 2:4
+#### (a) The importance of knowing and transmitting the Word of God, the Covenant, and Christ, the importance of fulfilling the destiny of God's people, and the importance of fulfilling God's will. 1 Tim. 2:4
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 
 #### (b) The importance of the assembly of God's people, the importance of the personal relationship between man and God and between man and man
@@ -67,7 +67,7 @@
 > The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world. (John 1:29, KJV)
 > And almost all things are by the law purged with blood; and without shedding of blood is no remission. (Heb. 9:22, KJV)
 
-#### (b) Consistent fulfillment of the Word of God, the Covenant, Christ, the understanding of salvation Gen. 3:15, 21, Matt. 16:16, John 19:30
+#### (b) The constant fulfillment of the Word of God, the Covenant, Christ, the understanding of salvation Gen. 3:15, 21,Matt. 16:16,John 19:30
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 > And Simon Peter answered and said, Thou art the Christ, the Son of the living God. (Matt. 16:16, KJV)
@@ -92,7 +92,7 @@
 > And ye shall count unto you from the morrow after the sabbath, from the day that ye brought the sheaf of the wave offering; seven sabbaths shall be complete: Even unto the morrow after the seventh sabbath shall ye number fifty days; and ye shall offer a new meat offering unto the LORD. Ye shall bring out of your habitations two wave loaves of two tenth deals: they shall be of fine flour; they shall be baken with leaven; they are the firstfruits unto the LORD. And ye shall offer with the bread seven lambs without blemish of the first year, and one young bullock, and two rams: they shall be for a burnt offering unto the LORD, with their meat offering, and their drink offerings, even an offering made by fire, of sweet savour unto the LORD. Then ye shall sacrifice one kid of the goats for a sin offering, and two lambs of the first year for a sacrifice of peace offerings. And the priest shall wave them with the bread of the firstfruits for a wave offering before the LORD, with the two lambs: they shall be holy to the LORD for the priest. And ye shall proclaim on the selfsame day, that it may be an holy convocation unto you: ye shall do no servile work therein: it shall be a statute for ever in all your dwellings throughout your generations. And when ye reap the harvest of your land, thou shalt not make clean riddance of the corners of thy field when thou reapest, neither shalt thou gather any gleaning of thy harvest: thou shalt leave them unto the poor, and to the stranger: I am the LORD your God. (Lev. 23:15-22, KJV)
 > Also in the day of the firstfruits, when ye bring a new meat offering unto the LORD, after your weeks be out, ye shall have an holy convocation; ye shall do no servile work: (Num. 28:26, KJV)
 
-#### (a) Pentecost N.Z. – the birth of the Church of Jesus Christ, the Baptism of the Holy Spirit, the action of N.Z. (Receiving power from God – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization, preparation for the Second Coming of Christ) Matt. 16:18,Acts 2:47; 20:28, - Acts 1:8; 2:1-11,Matt. 28:19-20
+#### (a) Pentecost N.Z. – the birth of the Church of Jesus Christ, the Baptism of the Holy Spirit, the action of N.Z. (Receiving power from God – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation of the Second Coming of Christ) Matt. 16:18,Acts 2:47; 20:28, - Acts 1:8; 2:1-11,Matt. 28:19-20
 > And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it. (Matt. 16:18, KJV)
 > Praising God, and having favour with all the people. And the Lord added to the church daily such as should be saved. (Acts 2:47, KJV)
 > Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood. (Acts 20:28, KJV)
@@ -116,7 +116,7 @@
 > Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed, In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed. For this corruptible must put on incorruption, and this mortal must put on immortality. (1 Cor. 15:51-53, KJV)
 > For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first: (1 Thess. 4:16, KJV)
 
-### (5) Lev. 23:26-32, is the Day of Purification (Yom Kippur). (The Day of the Cleansing of the Holy of Holies is the entry and sprinkling of blood into the Holy of Holies, proclaiming the forgiveness and purification of God's people)
+### (5) Lev. 23:26-32, is the Day of Purification (Yom Kippur). (The Day of the Purification of V.Z. is the entry and sprinkling of blood into the Holy of Holies, the announcement of the forgiveness and purification of God's people)
 > And the LORD spake unto Moses, saying, Also on the tenth day of this seventh month there shall be a day of atonement: it shall be an holy convocation unto you; and ye shall afflict your souls, and offer an offering made by fire unto the LORD. And ye shall do no work in that same day: for it is a day of atonement, to make an atonement for you before the LORD your God. For whatsoever soul it be that shall not be afflicted in that same day, he shall be cut off from among his people. And whatsoever soul it be that doeth any work in that same day, the same soul will I destroy from among his people. Ye shall do no manner of work: it shall be a statute for ever throughout your generations in all your dwellings. It shall be unto you a sabbath of rest, and ye shall afflict your souls: in the ninth day of the month at even, from even unto even, shall ye celebrate your sabbath. (Lev. 23:26-32, KJV)
 
 #### (a) The Day of the Cleansing of N.Z. is the 1000th reign of Christ on earth with all the children of God. (Transmission of the Word of God, the Covenant, Christ, the disciples, enjoyment of the whole earth) Rev. 20:4-6, - Isa. 11:6-9; 65:20-25
@@ -124,7 +124,7 @@
 > The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them. And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox. And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice’ den. They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the LORD, as the waters cover the sea. (Isa. 11:6-9, KJV)
 > There shall be no more thence an infant of days, nor an old man that hath not filled his days: for the child shall die an hundred years old; but the sinner being an hundred years old shall be accursed. And they shall build houses, and inhabit them; and they shall plant vineyards, and eat the fruit of them. They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree are the days of my people, and mine elect shall long enjoy the work of their hands. They shall not labour in vain, nor bring forth for trouble; for they are the seed of the blessed of the LORD, and their offspring with them. And it shall come to pass, that before they call, I will answer; and while they are yet speaking, I will hear. The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust shall be the serpent’s meat. They shall not hurt nor destroy in all my holy mountain, saith the LORD. (Isa. 65:20-25, KJV)
 
-#### (b) Imprisonment of Satan for 1000 years. Rev. 20:1-3
+#### (b) The imprisonment of Satan for 1000 years. Rev. 20:1-3
 > And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand. And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years, And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season. (Rev. 20:1-3, KJV)
 
 #### (c) The people who will live in the 1000th kingdom of Christ are the resurrected children of God from Adam (glorified bodies), believers who have waited for Christ and survived persecution (mortal bodies), all children (mortal bodies)
@@ -167,13 +167,13 @@
 > And ye shall do no work in that same day: for it is a day of atonement, to make an atonement for you before the LORD your God. For whatsoever soul it be that shall not be afflicted in that same day, he shall be cut off from among his people. And whatsoever soul it be that doeth any work in that same day, the same soul will I destroy from among his people. Ye shall do no manner of work: it shall be a statute for ever throughout your generations in all your dwellings. (Lev. 23:28-31, KJV)
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
-### (5) The reason for the appearance and importance of the holidays is God's plan. salvation of mankind, the unchanging fulfillment of the Word of God, the Covenant, Christ
+### (5) The reason for the appearance and importance of the holidays is God's plan. salvation of mankind, the constant fulfillment of the Word of God, the Covenant, Christ
 
 ### (6) The observance of holidays in N.Z. is a person's choice and decision. (The complete abolition of the ordinances of V.Z. is the effect of N.Z., the complete fulfillment of the feasts of the Lord in Christ Jesus). Col. 2:16
 > Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days: (Col. 2:16, KJV)
 
 ### (7) The holidays of Purim and Hanukkah – see the Prophets section
-- V.Z. – the perfect Good News. John 5:39; 16:8-11. (Tabernacle – 3-5 times a year, local synagogue – every seventh day, the importance of studying the Word of God, the Testaments, Christ, Levites)
+- V.Z. – the perfect Good News. John 5:39; 16:8-11. (Tabernacle – 3-5 times a year, local synagogue – every seventh day, the importance of studying the Word of God, the Covenant, Christ, Leviticus)
 
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 > And when he is come, he will reprove the world of sin, and of righteousness, and of judgment: Of sin, because they believe not on me; Of righteousness, because I go to my Father, and ye see me no more; Of judgment, because the prince of this world is judged. (John 16:8-11, KJV)

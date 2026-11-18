@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -244,7 +246,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth? For the woman which hath an husband is bound by the law to her husband so long as he liveth; but if the husband be dead, she is loosed from the law of her husband. So then if, while her husband liveth, she be married to another man, she shall be called an adulteress: but if her husband be dead, she is free from that law; so that she is no adulteress, though she be married to another man. Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, even to him who is raised from the dead, that we should bring forth fruit unto God. For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death. But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter. What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet. But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead.</p><cite>Rom. 7:1-8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Do you not know, brothers (for I am speaking to those who know the law), that the law has authority over a man only as long as he lives? For instance, a married woman is bound by law to her husband as long as he lives. But if her husband dies, she is released from the law of marriage. So then, if she is joined to another man while her husband is still alive, she is called an adulteress; but if her husband dies, she is free from that law and is not an adulteress if she marries another man. Therefore, my brothers, you also died to the law through the body of Christ, that you might belong to another, to Him who was raised from the dead, in order that we might bear fruit to God. For when we lived according to the flesh, the sinful passions aroused by the law were at work in our bodies, bearing fruit for death. But now, having died to what bound us, we have been released from the law, so that we serve in the new way of the Spirit, and not in the old way of the written code. What then shall we say? Is the law sin? Certainly not! Indeed, I would not have been mindful of sin if not for the law. For I would not have been aware of coveting if the law had not said, “Do not covet.” But sin, seizing its opportunity through the commandment, produced in me every kind of covetous desire. For apart from the law, sin is dead.</p><cite>Rom. 7:1-8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Or don’t you know, brothers (for I speak to men who know the law), that the law has dominion over a man for as long as he lives? For the woman that has a husband is bound by law to the husband while he lives, but if the husband dies, she is discharged from the law of the husband. So then if, while the husband lives, she is joined to another man, she would be called an adulteress. But if the husband dies, she is free from the law, so that she is no adulteress, though she is joined to another man. Therefore, my brothers, you also were made dead to the law through the body of Christ, that you would be joined to another, to him who was raised from the dead, that we might produce fruit to God. For when we were in the flesh, the sinful passions which were through the law worked in our members to bring out fruit to death. But now we have been discharged from the law, having died to that in which we were held; so that we serve in newness of the spirit, and not in oldness of the letter. What shall we say then? Is the law sin? May it never be! However, I wouldn’t have known sin except through the law. For I wouldn’t have known coveting unless the law had said, “You shall not covet.” But sin, finding occasion through the commandment, produced in me all kinds of coveting. For apart from the law, sin is dead.</p><cite>Rom. 7:1-8 · WEB</cite></blockquote>
-<h3>(1) Rom. 7:1-4, - acceptance of the Word of God, the Covenant, Christ, the death of the old man, lawful liberation from the law and its consequences. (An example of the legal termination of marriage in a person's life) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9</h3>
+<h3>(1) Rom. 7:1-4, - acceptance of the Word of God, the Covenant, Christ, the death of the old man, legitimate liberation from the law and its consequences. (Example of the legal termination of marriage in a person's life) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9</h3>
 <blockquote data-v="kjv"><p>Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth? For the woman which hath an husband is bound by the law to her husband so long as he liveth; but if the husband be dead, she is loosed from the law of her husband. So then if, while her husband liveth, she be married to another man, she shall be called an adulteress: but if her husband be dead, she is free from that law; so that she is no adulteress, though she be married to another man. Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, even to him who is raised from the dead, that we should bring forth fruit unto God.</p><cite>Rom. 7:1-4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Do you not know, brothers (for I am speaking to those who know the law), that the law has authority over a man only as long as he lives? For instance, a married woman is bound by law to her husband as long as he lives. But if her husband dies, she is released from the law of marriage. So then, if she is joined to another man while her husband is still alive, she is called an adulteress; but if her husband dies, she is free from that law and is not an adulteress if she marries another man. Therefore, my brothers, you also died to the law through the body of Christ, that you might belong to another, to Him who was raised from the dead, in order that we might bear fruit to God.</p><cite>Rom. 7:1-4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Or don’t you know, brothers (for I speak to men who know the law), that the law has dominion over a man for as long as he lives? For the woman that has a husband is bound by law to the husband while he lives, but if the husband dies, she is discharged from the law of the husband. So then if, while the husband lives, she is joined to another man, she would be called an adulteress. But if the husband dies, she is free from the law, so that she is no adulteress, though she is joined to another man. Therefore, my brothers, you also were made dead to the law through the body of Christ, that you would be joined to another, to him who was raised from the dead, that we might produce fruit to God.</p><cite>Rom. 7:1-4 · WEB</cite></blockquote>
@@ -299,7 +301,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet. But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead.</p><cite>Rom. 7:7-8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>What then shall we say? Is the law sin? Certainly not! Indeed, I would not have been mindful of sin if not for the law. For I would not have been aware of coveting if the law had not said, “Do not covet.” But sin, seizing its opportunity through the commandment, produced in me every kind of covetous desire. For apart from the law, sin is dead.</p><cite>Rom. 7:7-8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>What shall we say then? Is the law sin? May it never be! However, I wouldn’t have known sin except through the law. For I wouldn’t have known coveting unless the law had said, “You shall not covet.” But sin, finding occasion through the commandment, produced in me all kinds of coveting. For apart from the law, sin is dead.</p><cite>Rom. 7:7-8 · WEB</cite></blockquote>
-<h2 id="s2">2) Rom. 7:9-13, - the importance of understanding sin and spiritual problems</h2>
+<h2 id="s2">2) Rom. 7:9-13, - the importance of understanding sin and the spiritual problem</h2>
 <blockquote data-v="kjv"><p>For I was alive without the law once: but when the commandment came, sin revived, and I died. And the commandment, which was ordained to life, I found to be unto death. For sin, taking occasion by the commandment, deceived me, and by it slew me. Wherefore the law is holy, and the commandment holy, and just, and good. Was then that which is good made death unto me? God forbid. But sin, that it might appear sin, working death in me by that which is good; that sin by the commandment might become exceeding sinful.</p><cite>Rom. 7:9-13 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Once I was alive apart from the law; but when the commandment came, sin sprang to life and I died. So I discovered that the very commandment that was meant to bring life actually brought death. For sin, seizing its opportunity through the commandment, deceived me and through the commandment put me to death. So then, the law is holy, and the commandment is holy, righteous, and good. Did that which is good, then, become death to me? Certainly not! But in order that sin might be exposed as sin, it produced death in me through what was good, so that through the commandment sin might become utterly sinful.</p><cite>Rom. 7:9-13 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I was alive apart from the law once, but when the commandment came, sin revived and I died. The commandment which was for life, this I found to be for death; for sin, finding occasion through the commandment, deceived me, and through it killed me. Therefore the law indeed is holy, and the commandment holy, righteous, and good. Did then that which is good become death to me? May it never be! But sin, that it might be shown to be sin, was producing death in me through that which is good; that through the commandment sin might become exceedingly sinful.</p><cite>Rom. 7:9-13 · WEB</cite></blockquote>
@@ -318,7 +320,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And the commandment, which was ordained to life, I found to be unto death.</p><cite>Rom. 7:10 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So I discovered that the very commandment that was meant to bring life actually brought death.</p><cite>Rom. 7:10 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>The commandment which was for life, this I found to be for death;</p><cite>Rom. 7:10 · WEB</cite></blockquote>
-<h3>(4) Rom. 7:10, - understanding the correctness and justice of God's commandments (given to man for life), the inability of man to live by the norms and standards of God, the importance of awareness of spiritual problems (served me to death). Rom. 6:23</h3>
+<h3>(4) Rom. 7:10, - understanding the correctness and justice of God's commandments (given to man for life), the inability of man to live by the norms and standards of God, the importance of realizing a spiritual problem (served me to death). Rom. 6:23</h3>
 <blockquote data-v="kjv"><p>And the commandment, which was ordained to life, I found to be unto death.</p><cite>Rom. 7:10 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So I discovered that the very commandment that was meant to bring life actually brought death.</p><cite>Rom. 7:10 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>The commandment which was for life, this I found to be for death;</p><cite>Rom. 7:10 · WEB</cite></blockquote>
@@ -387,7 +389,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For all have sinned, and come short of the glory of God;</p><cite>Rom. 3:23 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>for all have sinned and fall short of the glory of God,</p><cite>Rom. 3:23 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>for all have sinned, and fall short of the glory of God;</p><cite>Rom. 3:23 · WEB</cite></blockquote>
-<h4>(b) Sanctification is a process derived from holiness, the change and separation of man from the world to serve God through the knowledge and transmission of the Word of God, the Covenant, Christ (the image of Christ, the fruits of the Holy Spirit) Rev. 22:11,1 Thess. 4:3; 5:23-24, - John 8:31-32,1 Tim. 4:16</h4>
+<h4>(b) Sanctification is a process derived from holiness, the change and separation of man from the world to serve God through the knowledge and transmission of the Word of God, the Covenant, Christ (the reflection of Christ, the fruits of the Holy Spirit) Rev. 22:11,1 Thess. 4:3; 5:23-24, - John 8:31-32,1 Tim. 4:16</h4>
 <blockquote data-v="kjv"><p>He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still.</p><cite>Rev. 22:11 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Let the unrighteous continue to be unrighteous, and the vile continue to be vile; let the righteous continue to practice righteousness, and the holy continue to be holy.”</p><cite>Rev. 22:11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He who acts unjustly, let him act unjustly still. He who is filthy, let him be filthy still. He who is righteous, let him do righteousness still. He who is holy, let him be holy still.”</p><cite>Rev. 22:11 · WEB</cite></blockquote>
@@ -404,11 +406,11 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>Pay close attention to your life and to your teaching. Persevere in these things, for by so doing you will save both yourself and those who hear you.</p><cite>1 Tim. 4:16 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Pay attention to yourself and to your teaching. Continue in these things, for in doing this you will save both yourself and those who hear you.</p><cite>1 Tim. 4:16 · WEB</cite></blockquote>
 <h4>(c) Sanctification, the transformation of a person is not a condition for salvation, the impossibility of completely ridding oneself of the remnants of sinful essence on earth, the constant reminder of the importance of Christ, the complete completion of man's sanctification in Central Asia, the resurrection from the dead, a new glorified body</h4>
-<h3>(2) The loss of Righteousness and Holiness is the rejection of the Word of God, the Covenant, Christ</h3>
+<h3>(2) The loss of Righteousness and Holiness is the abandonment of the Word of God, the Covenant, and Christ</h3>
 <h2 id="s5">Conclusion:</h2>
 <h3>(1) The importance of understanding God's Faith, Love, and Mercy</h3>
 <h3>(2) The importance of sanctification and service to God, the importance of understanding and fulfilling the destiny of God's people</h3>
-<h3>(3) The importance of understanding the Word of God, the Covenant, Christ, understanding the Law and the consequences of the fall for the people of God, the effect of the remnants of sinful essence in the children of God</h3>
+<h3>(3) The importance of understanding the Word of God, the Covenant, and Christ, understanding the Law and the consequences of the fall for God's people, and the effect of the remnants of sin in God's children</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
 </body>

@@ -1,5 +1,5 @@
 # 2 Pet. 1–2
-## 1.1) 2 Pet. 1, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 1.1) 2 Pet. 1, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
 ### (1) 2 Pet. 1:1-2, - the importance of knowing the Word of God, the Covenant, Christ, the faith of God Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
 > Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ: Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord, (2 Pet. 1:1-2, KJV)
@@ -31,7 +31,7 @@
 ### (3) 2 Pet. 1:5-8, - The importance of faith, sanctification, and spiritual growth
 > And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge; And to knowledge temperance; and to temperance patience; and to patience godliness; And to godliness brotherly kindness; and to brotherly kindness charity. For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ. (2 Pet. 1:5-8, KJV)
 
-#### (a) Virtue – morality, moral purity of a person, a proper life in accordance with the definitions of the Word of God
+#### (a) Virtue – morality, moral purity of a person, a correct life in accordance with the definitions of the Word of God
 
 #### (b) Prudence – the correct understanding of things (good, evil) and the correctness of actions in accordance with the definitions of the Word of God
 
@@ -41,32 +41,32 @@
 
 #### (e) Piety is the right attitude towards God and man
 
-#### (e) Brotherly love – the right relationship between the people of God, affirmation in the Word of God, the Covenant, Christ, destiny
+#### (e) Brotherly love is the right relationship between God's people, affirmation in God's Word, Covenant, Christ, and purpose
 
-#### (g) God's love – knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization
+#### (g) God's love is the knowledge and transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
 ### (4) 2 Pet. 1:9-12, - the importance of knowledge, transmission of the Word of God, the Covenant, Christ
 > But he that lacketh these things is blind, and cannot see afar off, and hath forgotten that he was purged from his old sins. Wherefore the rather, brethren, give diligence to make your calling and election sure: for if ye do these things, ye shall never fall: For so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ. Wherefore I will not be negligent to put you always in remembrance of these things, though ye know them, and be established in the present truth. (2 Pet. 1:9-12, KJV)
 
-#### (a) 2 Pet. 1:9-11, - the importance of fulfilling the destiny of God's people, the importance of faith, sanctification, and doing God's will, the importance of understanding Satan's actions
+#### (a) 2 Pet. 1:9-11, - the importance of fulfilling the destiny of God's people, the importance of faith, sanctification, and doing God's will, and the importance of understanding Satan's work
 > But he that lacketh these things is blind, and cannot see afar off, and hath forgotten that he was purged from his old sins. Wherefore the rather, brethren, give diligence to make your calling and election sure: for if ye do these things, ye shall never fall: For so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ. (2 Pet. 1:9-11, KJV)
 
-#### (b) 2 Pet. 1:12-13, - the importance of conveying the Word of God, the Covenant, Christ, predestination
+#### (b) 2 Pet. 1:12-13, - the importance of conveying the Word of God, the Covenant, Christ, the predestination
 > Wherefore I will not be negligent to put you always in remembrance of these things, though ye know them, and be established in the present truth. Yea, I think it meet, as long as I am in this tabernacle, to stir you up by putting you in remembrance; (2 Pet. 1:12-13, KJV)
 
-#### (c) 2 Pet. 1:14, - understanding of the Covenant, Christ (assurance of salvation)
+#### (c) 2 Pet. 1:14, - understanding of the Covenant, of Christ (assurance of salvation)
 > Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ hath shewed me. (2 Pet. 1:14, KJV)
 
 #### (d) 2 Pet. 1:15, - the importance of the message and the disciple (epoch, future)
 > Moreover I will endeavour that ye may be able after my decease to have these things always in remembrance. (2 Pet. 1:15, KJV)
 
-### (5) 2 Pet. 1:16-21, - the importance of accepting the Word of God, the Covenant, Christ
+### (5) 2 Pet. 1:16-21, - the importance of accepting the Word of God, the Covenant, and Christ
 > For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty. For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased. And this voice which came from heaven we heard, when we were with him in the holy mount. We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts: Knowing this first, that no prophecy of the scripture is of any private interpretation. For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost. (2 Pet. 1:16-21, KJV)
 
-#### (a) 2 Pet. 1:16-18, - statement of the Word of God, the Covenant, Christ
+#### (a) 2 Pet. 1:16-18, is the affirmation of the Word of God, the Covenant, and Christ
 > For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty. For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased. And this voice which came from heaven we heard, when we were with him in the holy mount. (2 Pet. 1:16-18, KJV)
 
-#### (b) 2 Pet. 1:19, - the importance of cognition (conversion) The Word of God, the Covenant, Christ
+#### (b) 2 Pet. 1:19, - the importance of cognition (conversion) The Word of God, the Covenant, and Christ
 > We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts: (2 Pet. 1:19, KJV)
 
 #### (c) 2 Pet. 1:20-21, - The truth and Inspiration of the Scriptures, the proclamation of God's plan, God's sovereignty and control
@@ -74,19 +74,19 @@
 
 ## 2) 2 Pet. 2, - The importance of understanding Satan's actions
 
-### (1) 2 Pet. 2:1-3, - non-acceptance of the Word of God, the Covenant, Christ
+### (1) 2 Pet. 2:1-3, - rejection of the Word of God, the Covenant, and Christ
 > But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction. And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of. And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingereth not, and their damnation slumbereth not. (2 Pet. 2:1-3, KJV)
 
 #### (a) 2 Pet. 2:1, - false teachers, rejection of redemption, religion
 > But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction. (2 Pet. 2:1, KJV)
 
-#### (b) 2 Pet. 2:2, - non-acceptance of the Word of God, the Covenant, Christ (majority)
+#### (b) 2 Pet. 2:2, - rejection of the Word of God, the Covenant, Christ (majority)
 > And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of. (2 Pet. 2:2, KJV)
 
 #### (c) 2 Pet. 2:3, - the importance of the visible (meaning and purpose of religion)
 > And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingereth not, and their damnation slumbereth not. (2 Pet. 2:3, KJV)
 
-#### (d) 2 Pet. 2:3, - God's judgment, the unreliable fulfillment of the Word of God Rom. 6:23
+#### (d) 2 Pet. 2:3, - God's judgment, the inevitable fulfillment of God's Word Rom. 6:23
 > And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingereth not, and their damnation slumbereth not. (2 Pet. 2:3, KJV)
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
@@ -96,14 +96,14 @@
 
 #### (b) “Mixed Gospel” heresy, denial of the fact of forgiveness of all human sins, religion
 
-#### (c) The heresy of "partial salvation", the denial of Christ's decision of the consequences of sin – there is no salvation of soul and body, the effect of ancestral and acquired curses, the possession of children by God
+#### (c) The heresy of "partial salvation", the denial of Christ's decision of the consequences of sin – there is no salvation of soul and body, the effect of ancestral and acquired curses, the obsession of the children of God
 
 ### (3) The importance of understanding the essence of all religions of the world - salvation through the works and efforts of man
 
 ## Conclusion:
 
-### (1) The importance of knowing and transmitting the Word of God, the Covenant, Christ (intended)
+### (1) The importance of knowing and communicating the Word of God, the Covenant, and Christ (intended)
 
 ### (2) The importance of sanctification and spiritual growth of man
 
-### (3) The importance of understanding the actions of Satan (false teachers, false teachings)
+### (3) The importance of understanding the work of Satan (false teachers, false teachings)

@@ -1,6 +1,6 @@
 # 2nd Thessalonians
 
-## 1) 2 Thess. 1, - the importance of understanding the Word of God, the Covenant, Christ
+## 1) 2 Thess. 1, - the importance of understanding the Word of God, the Covenant, and Christ
 
 ### (1) 2 Thess. 1:1-5, - the importance of living the right life, the importance of fulfilling the destiny of God's people Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
 > Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ: Grace unto you, and peace, from God our Father and the Lord Jesus Christ. We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth; So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure: Which is a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer: (2 Thess. 1:1-5, KJV)
@@ -32,7 +32,7 @@
 ### (4) 2 Thess. 1:12, - the importance of glorifying Christ, the importance of fulfilling his destiny
 > That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ. (2 Thess. 1:12, KJV)
 
-## 2) 2 Thess. 2, - the importance of understanding the Word of God, the Covenant, Christ
+## 2) 2 Thess. 2, - the importance of understanding the Word of God, the Covenant, and Christ
 
 ### (1) 2 Thess. 2:1-2, - the importance of understanding the Word of God, the Covenant, Christ, the importance of understanding the events of the Second Coming of Christ
 > Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him, That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand. (2 Thess. 2:1-2, KJV)
@@ -40,7 +40,7 @@
 ### (2) 2 Thess. 2:3-5, - the importance of understanding the appearance of the Antichrist before the Second Coming of Christ. (A man of sin, will sit in a temple, will impersonate God)
 > Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition; Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God. Remember ye not, that, when I was yet with you, I told you these things? (2 Thess. 2:3-5, KJV)
 
-### (3) 2 Thess. 2:6-12, - the importance of understanding God's sovereignty, the action of the Holy Spirit (the time of the Church, the salvation of a number of people)
+### (3) 2 Thess. 2:6-12, - the importance of understanding God's sovereignty, the action of the Holy Spirit (the time of the Church, the salvation of a large number of people)
 > And now ye know what withholdeth that he might be revealed in his time. For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way. And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming: Even him, whose coming is after the working of Satan with all power and signs and lying wonders, And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved. And for this cause God shall send them strong delusion, that they should believe a lie: That they all might be damned who believed not the truth, but had pleasure in unrighteousness. (2 Thess. 2:6-12, KJV)
 
 ### (4) 2 Thess. 2:13-14, - the importance of confidence in salvation and eternal life in God
@@ -76,7 +76,7 @@
 ### (5) 2 Thess. 3:6-13, - the importance of the right life of God's people, an example to people, the importance of fulfilling a destiny
 > Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us. For yourselves know how ye ought to follow us: for we behaved not ourselves disorderly among you; Neither did we eat any man’s bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you: Not because we have not power, but to make ourselves an ensample unto you to follow us. For even when we were with you, this we commanded you, that if any would not work, neither should he eat. For we hear that there are some which walk among you disorderly, working not at all, but are busybodies. Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread. But ye, brethren, be not weary in well doing. (2 Thess. 3:6-13, KJV)
 
-### (6) 2 Thess. 3:14-15, - the importance of chastisement and church discipline in the people of God, the admonition and correction of people
+### (6) 2 Thess. 3:14-15, - the importance of chastisement and church discipline among the people of God, the admonition and correction of man
 > And if any man obey not our word by this epistle, note that man, and have no company with him, that he may be ashamed. Yet count him not as an enemy, but admonish him as a brother. (2 Thess. 3:14-15, KJV)
 
 ### (7) 2 Thess. 3:16-18, - the importance of Emmanuel and the grace of God
@@ -84,7 +84,7 @@
 
 ## Conclusion:
 
-### (1) The importance of accepting the Word of God, the Covenant, Christ
+### (1) The importance of accepting the Word of God, the Covenant, and Christ
 
 ### (2) The importance of understanding the Second Coming of Christ
 

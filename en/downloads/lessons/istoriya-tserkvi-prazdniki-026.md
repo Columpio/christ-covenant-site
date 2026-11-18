@@ -1,6 +1,6 @@
 # 14. Review of the Pentateuch – The Importance of Canaan
 
-## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -45,7 +45,7 @@
 #### (e) Num. 15:32-36, - seventh day (rejection of the Word of God, the Covenant, Christ)
 > And while the children of Israel were in the wilderness, they found a man that gathered sticks upon the sabbath day. And they that found him gathering sticks brought him unto Moses and Aaron, and unto all the congregation. And they put him in ward, because it was not declared what should be done to him. And the LORD said unto Moses, The man shall be surely put to death: all the congregation shall stone him with stones without the camp. And all the congregation brought him without the camp, and stoned him with stones, and he died; as the LORD commanded Moses. (Num. 15:32-36, KJV)
 
-#### (g) Num. 16 (13), - Korea (the struggle for power among the people of God, vanity)
+#### (g) Num. 16 (13), - Korea (power struggle among God's people, vanity)
 
 #### (h) Num. 21:5, - snakes (renunciation of salvation and destiny)
 > And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for there is no bread, neither is there any water; and our soul loatheth this light bread. (Num. 21:5, KJV)
@@ -60,7 +60,7 @@
 #### (b) Refusal to follow Christ – problems and death
 
 ### (2) Those who received salvation but did not enter Canaan (World Evangelization)
-- The reason is inaccurate fulfillment of the Word of God, the Covenant, Christ (methods, motives)
+- The reason is the inaccurate fulfillment of the Word of God, the Covenant, and Christ (methods, motives)
 - Num. 20:1-12, 28 (Deut. 32:48-52, 34), - Moses, Aaron
 
 > Then came the children of Israel, even the whole congregation, into the desert of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there. And there was no water for the congregation: and they gathered themselves together against Moses and against Aaron. And the people chode with Moses, and spake, saying, Would God that we had died when our brethren died before the LORD! And why have ye brought up the congregation of the LORD into this wilderness, that we and our cattle should die there? And wherefore have ye made us to come up out of Egypt, to bring us in unto this evil place? it is no place of seed, or of figs, or of vines, or of pomegranates; neither is there any water to drink. And Moses and Aaron went from the presence of the assembly unto the door of the tabernacle of the congregation, and they fell upon their faces: and the glory of the LORD appeared unto them. And the LORD spake unto Moses, saying, Take the rod, and gather thou the assembly together, thou, and Aaron thy brother, and speak ye unto the rock before their eyes; and it shall give forth his water, and thou shalt bring forth to them water out of the rock: so thou shalt give the congregation and their beasts drink. And Moses took the rod from before the LORD, as he commanded him. And Moses and Aaron gathered the congregation together before the rock, and he said unto them, Hear now, ye rebels; must we fetch you water out of this rock? And Moses lifted up his hand, and with his rod he smote the rock twice: and the water came out abundantly, and the congregation drank, and their beasts also. And the LORD spake unto Moses and Aaron, Because ye believed me not, to sanctify me in the eyes of the children of Israel, therefore ye shall not bring this congregation into the land which I have given them. (Num. 20:1-12, KJV)
@@ -69,7 +69,7 @@
 > Is not this laid up in store with me, and sealed up among my treasures? (Deut. 32:34, KJV)
 
 ### (3) Those who received salvation and entered Canaan (World Evangelization)
-- The reason is the exact fulfillment of the Word of God, the Covenant, and Christ
+- The reason is the exact fulfillment of the Word of God, the Covenant, of Christ
 - Num. 14:30, 38, - Joshua, Caleb
 
 > Doubtless ye shall not come into the land, concerning which I sware to make you dwell therein, save Caleb the son of Jephunneh, and Joshua the son of Nun. (Num. 14:30, KJV)
@@ -77,9 +77,9 @@
 
 ## Conclusion:
 
-### (1) The importance of understanding the Word of God, the Covenant, Christ (Canaan, World Evangelism)
+### (1) The Importance of Understanding the Word of God, the Covenant, and Christ (Canaan, World Evangelization)
 
 ### (2) Rejection of the Word of God, the Covenant, Christ – problems, death
 
-### (3) The meaning of God's people's life is the fulfillment of God's will, not his own. (Knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization) Col. 2:8
+### (3) The meaning of the life of God's people is the fulfillment of God's will, not their own. (Knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization) Col. 2:8
 > Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ. (Col. 2:8, KJV)

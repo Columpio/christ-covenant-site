@@ -1,6 +1,6 @@
 # 17. The Parables
 
-## 1) The importance of accurate understanding (knowledge) The Word of God, the Covenant, Christ
+## 1) The importance of accurate understanding (knowledge) The Word of God, the Covenant, and Christ
 
 ### (1) Wisdom is the fear of God (respect for God and His Word). Prov. 1:7; 9:10
 > The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction. (Prov. 1:7, KJV)
@@ -16,25 +16,25 @@
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
 > And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:16-17, KJV)
 
-#### (b) Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), - there is no understanding of the Covenant, Christ
+#### (b) Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), - there is no understanding of the Covenant, of Christ
 > Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons. (Gen. 3:1-7, KJV)
 > Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned: (Rom. 5:12, KJV)
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
 
-#### (c) Gen. 3:15, 21, - understanding the Word of God, the Covenant, Christ (Emmanuel)
+#### (c) Gen. 3:15, 21, - understanding the Word of God, the Covenant, and Christ (Emmanuel)
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-### (3) Wisdom – a person's life and actions based on understanding and applying the Word of God, the Covenant, Christ (physical and spiritual laws)
+### (3) Wisdom – a person's life and actions based on understanding and applying the Word of God, the Covenant, and Christ (physical and spiritual laws)
 
 ### (4) Acquisition of wisdom – knowledge of the Word of God, the Covenant, Christ (teaching)
 
-### (5) The human problem is the rejection of the Word of God, the Covenant, Christ (teaching)
+### (5) The human problem is the rejection of the Word of God, the Covenant, and Christ (teaching)
 
-## 2) The Book of Proverbs – Understanding God's Will for man
+## 2) The Book of Proverbs – Understanding God's will for man
 
-### (1) The importance of learning – the knowledge and transmission of the Word of God, the Covenant, Christ Prov. 1:28-33,Hos. 4:6, - Prov. 2:1-6, 8,1 Tim. 4:16
+### (1) The importance of learning is the knowledge and transmission of the Word of God, the Covenant, and Christ Prov. 1:28-33,Hos. 4:6, - Prov. 2:1-6, 8,1 Tim. 4:16
 > Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me: For that they hated knowledge, and did not choose the fear of the LORD: They would none of my counsel: they despised all my reproof. Therefore shall they eat of the fruit of their own way, and be filled with their own devices. For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them. But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil. (Prov. 1:28-33, KJV)
 > My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children. (Hos. 4:6, KJV)
 > My son, if thou wilt receive my words, and hide my commandments with thee; So that thou incline thine ear unto wisdom, and apply thine heart to understanding; Yea, if thou criest after knowledge, and liftest up thy voice for understanding; If thou seekest her as silver, and searchest for her as for hid treasures; Then shalt thou understand the fear of the LORD, and find the knowledge of God. For the LORD giveth wisdom: out of his mouth cometh knowledge and understanding. (Prov. 2:1-6, KJV)
@@ -74,7 +74,7 @@
 > Go to the ant, thou sluggard; consider her ways, and be wise: Which having no guide, overseer, or ruler, Provideth her meat in the summer, and gathereth her food in the harvest. How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep? Yet a little sleep, a little slumber, a little folding of the hands to sleep: So shall thy poverty come as one that travelleth, and thy want as an armed man. (Prov. 6:6-11, KJV)
 > The hand of the diligent shall bear rule: but the slothful shall be under tribute. (Prov. 12:24, KJV)
 
-#### (e) Proper upbringing of a person, a happy life. (Natural platform, God laws of earthly life)
+#### (e) Proper upbringing of a person, a happy life. (Natural Platform, God's laws of earthly life)
 
 ## Conclusion:
 
@@ -82,21 +82,21 @@
 
 #### (a) The experience of mankind, the affirmation of the Word of God
 
-#### (b) The importance of knowing and transmitting the Word of God, the Covenant, Christ
+#### (b) The importance of knowing and communicating the Word of God, the Covenant, and Christ
 
 #### (c) God's will for man, the rules of life (Decalogue)
 
-### (2) Difficulty in fulfilling God's laws
+### (2) Difficulty in following God's laws
 
 #### (a) The spiritual problem and the sinful nature of man
 
 #### (b) The impossibility of living according to the Word of God without Christ
 
-#### (c) Fulfilling the moral side of the Word of God without Christ is ruin
+#### (c) Fulfilling the moral side of God's Word without Christ is ruin
 
 ### (3) The difference between God's Wisdom and spiritual wisdom
 
-#### (a) God's wisdom - Christ, knowledge and communication of the Word of God, Covenant, Christ, service to people (emphasis on God, people and eternity).1 Cor. 1:30
+#### (a) God's wisdom is Christ, the knowledge and transmission of the Word of God, the Covenant, Christ, and service to people (emphasis on God, people, and eternity).1 Cor. 1:30
 > But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption: (1 Cor. 1:30, KJV)
 
 #### (b) Spiritual wisdom – rejection of the Word of God, the Covenant, Christ (madness), self-service (emphasis on oneself and the visible) 1 Cor. 3:19-20,Jas. 3:13-15,Luke 16:15
@@ -106,6 +106,6 @@
 
 ### (4) The importance of Christ to man
 
-### (1) Wisdom of God – understanding and transmission of the Word of God, the Covenant, Christ, World Evangelization (Adam – Noah – Abraham – Joseph – Moses – David – the Apostles)
+### (1) The Wisdom of God – understanding and transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization (Adam–Noah–Abraham–Joseph–Moses–David – the Apostles)
 
-### (2) The rejection of the Word of God, the Covenant, and Christ is the greatest folly of a rational creation before the Creator
+### (2) The rejection of the Word of God, the Covenant, and Christ is the greatest folly of a rational creation before the Creator.

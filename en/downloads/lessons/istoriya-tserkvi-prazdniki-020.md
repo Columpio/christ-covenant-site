@@ -19,11 +19,11 @@
 
 ### (2) The Militant Church is the physical world. (Local Churches on earth, constant spiritual warfare)
 
-### (3) The purpose of the people is God (the Church) – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization, preparation for the coming of Christ
+### (3) The purpose of God's people (the Church) is to know and transmit the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, and preparation for the coming of Christ
 
 ## 2) The absence of a Church before N.Z.
 
-### (1) Gen. 1:27; 2:7, 9, 16-17, - Creation, the Garden of Eden, the prototype of the Church, Emmanuel (the ideal and correct state of man)
+### (1) Gen. 1:27; 2:7, 9, 16-17, - Creation, the Garden of Eden, the prototype of the Church, Emmanuel (the ideal and correct human condition)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
@@ -54,29 +54,29 @@
 
 ## 3) Understanding the purpose of the Church
 
-### (1) Knowledge, transmission of the Word of God, Covenant, Christ, All. Eve, disciples, the coming of Christ (The particular importance of preserving the purity of the teachings of Christ)
+### (1) Knowledge, transmission of the Word of God, the Covenant, Christ, All Eves, disciples, the coming of Christ (The special importance of preserving the purity of Christ's teaching)
 
-### (2) The Beginning of World Evangelization – me and my place of residence (Abraham, Paul)
+### (2) The Beginning of Worldwide Evangelization – me and my place of residence (Abraham, Paul)
 
-### (3) Continued Worldwide Evangelization – the whole world (Abraham, Paul)
+### (3) The continuation of Worldwide Evangelization – the whole world (Abraham, Paul)
 
 ### (4) Completion of World Evangelization – The Disciples (Abraham, Paul)
 
-## 4) Human participation in the accomplishment of World Evangelization
+## 4) Human participation in World Evangelization
 
 ### (1) Personal Evangelism – Non-believers, the importance of communication
 
 ### (2) Church Evangelization – believers, the importance of communication
 
-### (3) Human participation in World Evangelization (local Church) – prayer, finance, and preaching (the importance of learning)
+### (3) Human participation in Worldwide Evangelization (local Church) – prayer, finance, and preaching (the importance of learning)
 
 #### (a) Hearing, conscious acceptance of the Word of God, the Covenant, Christ (the whole Bible)
 
-#### (b) Personal preparation for the transmission of the Word of God, the Covenant, Christ (the whole Bible)
+#### (b) Personal preparation for the transmission of the Word of God, the Covenant, and Christ (the entire Bible)
 
 #### (c) Training and education of disciples, Worldwide Evangelization (the whole Bible)
 
-## 5) Understanding the essence and meaning of World Evangelism
+## 5) Understanding the essence and meaning of Worldwide Evangelization
 
 ### (1) Saving predestined people, not changing the world
 
@@ -86,7 +86,7 @@
 ### (3) The method is only the Word of God, the Covenant, Christ, systematic Bible study, God's sovereignty, the complete collapse of human methods. John 8:47
 > He that is of God heareth God’s words: ye therefore hear them not, because ye are not of God. (John 8:47, KJV)
 
-### (4) The importance of proclaiming the Word of God, the Covenant, Christ – the Right to Choose, God's judgment
+### (4) The importance of proclaiming the Word of God, the Covenant, Christ – the right to choose, the judgment of God
 
 ### (5) The importance of the local Church – epoch, time schedule
 
@@ -96,10 +96,10 @@
 
 ### (2) World religions – human deeds and deeds
 
-### (3) Distortion of the Word of God, false teachings - heresy of Arianism, heresy of the mixed gospel, heresy of partial salvation
+### (3) Distortion of the Word of God, false teachings - the heresy of Arianism, the heresy of the mixed gospel, the heresy of partial salvation
 
 ## Conclusion:
 
-### (1) The importance of understanding and fulfilling the purpose of the Church – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization, the coming of Christ
+### (1) The importance of understanding and fulfilling the mission of the Church – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ
 
 ### (2) The importance of preserving the faith of God, preserving the Word of God, the Covenant, Christ, purity of teaching, faithfulness and dedication to God

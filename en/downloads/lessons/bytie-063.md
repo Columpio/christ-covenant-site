@@ -1,13 +1,13 @@
 # 60. Job
 
-## 1) Job 1:1-5, - understanding the Word of God, the Covenant, Christ
+## 1) Job 1:1-5, - understanding the Word of God, the Covenant, and Christ
 > There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil. And there were born unto him seven sons and three daughters. His substance also was seven thousand sheep, and three thousand camels, and five hundred yoke of oxen, and five hundred she asses, and a very great household; so that this man was the greatest of all the men of the east. And his sons went and feasted in their houses, every one his day; and sent and called for their three sisters to eat and to drink with them. And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all: for Job said, It may be that my sons have sinned, and cursed God in their hearts. Thus did Job continually. (Job 1:1-5, KJV)
 
 ### (1) The author of the book of Job is Moses, a Jewish tradition
 
 ### (2) Uts Land – the north of the Arabian Peninsula
 
-### (3) Job is a child of God, the patriarch of faith, the understanding of the Word of God, the Covenant, the Christ, the descendant of Abraham, the period of life between the death of Joseph and the birth of Moses. Gen. 25:1-6
+### (3) Job is a child of God, the patriarch of faith, an understanding of the Word of God, the Covenant, Christ, a descendant of Abraham, the period of life between the death of Joseph and the birth of Moses. Gen. 25:1-6
 > Then again Abraham took a wife, and her name was Keturah. And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim. And the sons of Midian; Ephah, and Epher, and Hanoch, and Abidah, and Eldaah. All these were the children of Keturah. And Abraham gave all that he had unto Isaac. But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country. (Gen. 25:1-6, KJV)
 
 #### (a) The absence of a Tabernacle or Temple is the absence of the Liturgical Law of V.Z. (priesthood, law on leprosy, etc.) Job 2:7
@@ -90,24 +90,24 @@
 ### (3) Failure to accept the Word of God, the Covenant, and Christ is ruin. Rom. 6:23
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
-- Reasons for Satan's access to man (circumstances)
+- The reasons for Satan's access to man (circumstances)
 
 ### (1) The problem of original sin. Rom. 5:12; 6:23,Eph. 2:2
 > Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned: (Rom. 5:12, KJV)
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
 
-### (2) The constant violation, distortion of the Word of God is God's punishment, allowing Satan to act from the outside (not from within) is the education of man. 1 Cor. 5:1-5,2 Cor. 12:7-9,Heb. 12:4-11
+### (2) The constant violation, distortion of the Word of God is God's punishment, the permission of Satan to act from the outside (not from within) is the education of man. 1 Cor. 5:1-5,2 Cor. 12:7-9,Heb. 12:4-11
 > It is reported commonly that there is fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father’s wife. And ye are puffed up, and have not rather mourned, that he that hath done this deed might be taken away from among you. For I verily, as absent in body, but present in spirit, have judged already, as though I were present, concerning him that hath so done this deed, In the name of our Lord Jesus Christ, when ye are gathered together, and my spirit, with the power of our Lord Jesus Christ, To deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus. (1 Cor. 5:1-5, KJV)
 > And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure. For this thing I besought the Lord thrice, that it might depart from me. And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me. (2 Cor. 12:7-9, KJV)
 > Ye have not yet resisted unto blood, striving against sin. And ye have forgotten the exhortation which speaketh unto you as unto children, My son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him: For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth. If ye endure chastening, God dealeth with you as with sons; for what son is he whom the father chasteneth not? But if ye be without chastisement, whereof all are partakers, then are ye bastards, and not sons. Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live? For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness. Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby. (Heb. 12:4-11, KJV)
 
-### (3) God's Plan – The Glorification of Christ Matt. 27:26,1 Thess. 2:18,Rev. 2:10
+### (3) God's Plan is the Glorification of Christ Matt. 27:26,1 Thess. 2:18,Rev. 2:10
 > Then released he Barabbas unto them: and when he had scourged Jesus, he delivered him to be crucified. (Matt. 27:26, KJV)
 > Wherefore we would have come unto you, even I Paul, once and again; but Satan hindered us. (1 Thess. 2:18, KJV)
 > Fear none of those things which thou shalt suffer: behold, the devil shall cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life. (Rev. 2:10, KJV)
 
-## 5) Job 3-37, - the importance of understanding the Word of God, the Covenant, Christ
+## 5) Job 3-37, - the importance of understanding the Word of God, the Covenant, and Christ
 
 ### (1) The Faith of Job's Friends (confession)
 
@@ -135,7 +135,7 @@
 > Also now, behold, my witness is in heaven, and my record is on high. (Job 16:19, KJV)
 > Lay down now, put me in a surety with thee; who is he that will strike hands with me? (Job 17:3, KJV)
 
-#### (c) Understanding the Second Coming of Christ, the Resurrection. Job 19:25
+#### (c) Understanding the second coming of Christ, the Resurrection. Job 19:25
 > For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth: (Job 19:25, KJV)
 
 ### (3) Religion and the Good News
@@ -160,7 +160,7 @@
 > Therefore hearken unto me, ye men of understanding: far be it from God, that he should do wickedness; and from the Almighty, that he should commit iniquity. For the work of a man shall he render unto him, and cause every man to find according to his ways. Yea, surely God will not do wickedly, neither will the Almighty pervert judgment. Who hath given him a charge over the earth? or who hath disposed the whole world? If he set his heart upon man, if he gather unto himself his spirit and his breath; All flesh shall perish together, and man shall turn again unto dust. (Job 34:10-15, KJV)
 > Touching the Almighty, we cannot find him out: he is excellent in power, and in judgment, and in plenty of justice: he will not afflict. Men do therefore fear him: he respecteth not any that are wise of heart. (Job 37:23-24, KJV)
 
-### (1) Understanding the God of Love and Sovereignty, Greatness and Domination
+### (1) Understanding God's Love and Sovereignty, Greatness and Dominion
 
 ### (2) The importance of loving and trusting God is the problem of "your thoughts"
 
@@ -179,7 +179,7 @@
 > He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil. (1 John 3:8, KJV)
 > Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil; And deliver them who through fear of death were all their lifetime subject to bondage. (Heb. 2:14-15, KJV)
 
-## 9) Job 42, - the importance of the Word of God, the Covenant, Christ for man
+## 9) Job 42, - the importance of the Word of God, the Covenant, and Christ for man
 
 ### (1) Job 42:1-9 (5), - transmission of the Word of God, the Covenant, Christ, the disciples, God's plan
 > Then Job answered the LORD, and said, I know that thou canst do every thing, and that no thought can be withholden from thee. Who is he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not. Hear, I beseech thee, and I will speak: I will demand of thee, and declare thou unto me. I have heard of thee by the hearing of the ear: but now mine eye seeth thee. Wherefore I abhor myself, and repent in dust and ashes. And it was so, that after the LORD had spoken these words unto Job, the LORD said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me the thing that is right, as my servant Job hath. Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you after your folly, in that ye have not spoken of me the thing which is right, like my servant Job. So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went, and did according as the LORD commanded them: the LORD also accepted Job. (Job 42:1-9, KJV)
@@ -187,7 +187,7 @@
 #### (a) Meeting with Christ, realizing and accepting God's sovereignty and control, Job's repentance. Rom. 8:28
 > And we know that all things work together for good to them that love God, to them who are the called according to his purpose. (Rom. 8:28, KJV)
 
-#### (b) The importance of accurately understanding the Word of God, the Covenant, Christ, the cause of God's wrath against man. John 3:36
+#### (b) The importance of accurately understanding the Word of God, the Covenant, Christ, and the cause of God's wrath against man. John 3:36
 > He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him. (John 3:36, KJV)
 
 #### (c) The importance of sacrifice and shedding of blood – the exaltation of mercy over judgment, the character and essence of Christ, the will of God
@@ -209,10 +209,10 @@
 ### (1) The moral of the Book of Job is man's limited understanding of God and His actions, and the importance of loving and trusting God. Jer. 29:11
 > For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end. (Jer. 29:11, KJV)
 
-### (2) All circumstances in the life of God's children are God's sovereignty and control (the problem of "his thoughts"). 1 Tim. 4:16
+### (2) All circumstances in the lives of God's children are God's sovereignty and control (the problem of "their thoughts"). 1 Tim. 4:16
 > Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee. (1 Tim. 4:16, KJV)
 
-### (3) God has no bad circumstances in the life of children (Joseph). Rom. 8:28
+### (3) There are no bad circumstances in the life of God's children (Joseph). Rom. 8:28
 > And we know that all things work together for good to them that love God, to them who are the called according to his purpose. (Rom. 8:28, KJV)
 
 ### (4) Grumbling, discontent – misunderstanding of God's sovereignty

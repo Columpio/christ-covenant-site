@@ -1,6 +1,6 @@
 # 1. Gen. 1-3, - Creation, Fall, Restoration
 
-## 1) God's people's purpose is to know and transmit the Word of God
+## 1) The purpose of God's people is to know and impart the Word of God
 
 ### (1) The Bible is the Written Word of God 2 Tim. 3:16,2 Pet. 1:20-21
 > All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness: (2 Tim. 3:16, KJV)
@@ -44,14 +44,14 @@
 
 - The purpose of man is Emmanuel, Communion with God and Knowledge of God, service and glorification of God. (A tree in the ground, a fish in the water, a man with God)
 
-### (3) Gen. 2:9, 16-17, - the importance of the Word of God, the Covenant, Christ for man
+### (3) Gen. 2:9, 16-17, - the importance of the Word of God, the Covenant, and Christ for man
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
 > And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:16-17, KJV)
 
 #### (a) The establishment of God's Covenant through the Word of God Hos. 6:7. (The Covenant is a Contract, God's terms of Emmanuel, the initiator is God)
 > But they like men have transgressed the covenant: there have they dealt treacherously against me. (Hos. 6:7, KJV)
 
-#### (b) Free will and the right to choose a person, a conscious choice or rejection of life in the Word of God, the Covenant, Christ, the decision of each person Gen. 1:28 (Two trees, life or death – the choice and responsibility of a person)
+#### (b) Free will and the right to choose a person, conscious choice or rejection of life in the Word of God, the Covenant, Christ, the decision of each person Gen. 1:28 (Two trees, life or death – the choice and responsibility of man)
 > And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth. (Gen. 1:28, KJV)
 
 #### (c) The purpose and meaning of human life in time is the choice regarding eternal life (where? and with Whom?). Deut. 30:19
@@ -76,32 +76,32 @@
 
 ### (2) Understanding the logic and thinking of Satan
 
-#### (a) Not accepting the status of a human being as a child of God, the first after God
+#### (a) Not accepting the status of a human being – a child of God, the first after God
 
 #### (b) The desire to be equal to God is resisting the Word of God Isa. 14:12-14. (Equality with God is to take the place of God in man, to become an eternal "god" for the children of God, legal equality with God)
 > How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations! For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north: I will ascend above the heights of the clouds; I will be like the most High. (Isa. 14:12-14, KJV)
 
-#### (c) The impossibility of dwelling in all people, the need for helpers, the acceptance of the word Satan, part of the angels. Matt. 25:41. (Ignorance of God as a consuming fire – there is no sin). Heb. 12:29
+#### (c) The impossibility of dwelling in all people, the need for helpers, acceptance of the word of Satan, part of the angels. Matt. 25:41. (Ignorance of God as a consuming fire – there is no sin). Heb. 12:29
 > Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels: (Matt. 25:41, KJV)
 > For our God is a consuming fire. (Heb. 12:29, KJV)
 
-#### (d) Satan's method of action is the abolition of the Word of God, the Covenant, Christ Gen. 3:1, 5. (The reason for Satan's admission is man's right to choose, God's admission)
+#### (d) Satan's method of action is the abolition of the Word of God, the Covenant, and Christ Gen. 3:1, 5. (The reason for Satan's admission is man's right to choose, God's admission)
 > Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? (Gen. 3:1, KJV)
 > For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. (Gen. 3:5, KJV)
 
-- Sin is a choice of life outside the Word of God 1 John 3:8,Hos. 6:7
+- Sin is the choice of living outside the Word of God 1 John 3:8,Hos. 6:7
 
 > He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil. (1 John 3:8, KJV)
 > But they like men have transgressed the covenant: there have they dealt treacherously against me. (Hos. 6:7, KJV)
 
-## 4) Gen. 3:7-12, is a consequence of the abolition of the Word of God, the Covenant, Christ
+## 4) Gen. 3:7-12, is a consequence of the abolition of the Word of God, the Covenant, and Christ
 > And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons. And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the LORD God amongst the trees of the garden. And the LORD God called unto Adam, and said unto him, Where art thou? And he said, I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself. And he said, Who told thee that thou wast naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat? And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat. (Gen. 3:7-12, KJV)
 
-### (1) Sin – living outside the Word of God, the Covenant, Christ (nakedness, flaws)
+### (1) Sin is living outside the Word of God, the Covenant, and Christ (nakedness, imperfections)
 
 ### (2) Death is a complete separation from God (fear of God)
 
-### (3) The Power of Satan is the presence, guidance, and control of man
+### (3) The power of Satan is the presence, guidance, and control of man
 
 #### (a) Religion – justification by deeds (leaves)
 
@@ -114,7 +114,7 @@
 
 #### (a) All sinners – status (Adam's sin), life outside the Word of God, the Covenant, Christ
 
-#### (b) The presence of a sinful entity. man – Resisting the Word of God 1 Cor. 2:14
+#### (b) The presence of a sinful entity. human resistance to the Word of God 1 Cor. 2:14
 > But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned. (1 Cor. 2:14, KJV)
 
 #### (c) The presence of Adam's sin and man's personal transgressions – past, present, and future (thoughts, emotions, and deeds)
@@ -145,7 +145,7 @@
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 
-#### (a) The justice of the Holy God, the importance of punishing sin, the fulfillment of the Word of God – either I or Christ in my stead. Ps. 138:2
+#### (a) The justice of the Holy God, the importance of punishing sin, the fulfillment of God's Word – either me or Christ in my stead. Ps. 138:2
 > I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name. (Ps. 138:2, KJV)
 
 #### (b) Fulfillment of the Word of God – Jesus Christ as God and Creator (the right to be responsible for his creation and completely change the sinful nature of man), and as a Perfect Man in the likeness of sinful flesh (the right to accept God's Judgment – suffering, death and hell for all the sins of mankind) Ps. 49:7,Job 4:18 (another kind of creation), - Rom. 8:3,Heb. 2:9
@@ -171,9 +171,9 @@
 #### (c) Personal transgressions (past, present and future) Col. 2:13
 > And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses; (Col. 2:13, KJV)
 
-- Sin is a choice of life outside the Word of God
+- Sin is the choice of living outside the Word of God
 - Death is separation from God
-- Salvation is God together with man, Emmanuel. (Rebirth, restoration to the original form, lawful liberation from the power of sin, death and hell, Satan) Rom. 8:2
+- Salvation is God together with man, Emmanuel. (Rebirth, restoration to its original form, lawful liberation from the power of sin, death and hell, Satan) Rom. 8:2
 
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
 

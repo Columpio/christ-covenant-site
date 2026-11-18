@@ -1,6 +1,6 @@
 # 29. Gen. 12-13, - Abraham and Lot
 
-## 1) Gen. 12, - transmission of the Word of God, the Covenant, Christ, World Evangelization
+## 1) Gen. 12, - transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization
 
 ### (1) Gen. 12:1-9, - God's sovereignty and control, the fulfillment of God's Word
 > Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee: And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing: And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed. So Abram departed, as the LORD had spoken unto him; and Lot went with him: and Abram was seventy and five years old when he departed out of Haran. And Abram took Sarai his wife, and Lot his brother’s son, and all their substance that they had gathered, and the souls that they had gotten in Haran; and they went forth to go into the land of Canaan; and into the land of Canaan they came. And Abram passed through the land unto the place of Sichem, unto the plain of Moreh. And the Canaanite was then in the land. And the LORD appeared unto Abram, and said, Unto thy seed will I give this land: and there builded he an altar unto the LORD, who appeared unto him. And he removed from thence unto a mountain on the east of Beth-el, and pitched his tent, having Beth-el on the west, and Hai on the east: and there he builded an altar unto the LORD, and called upon the name of the LORD. And Abram journeyed, going on still toward the south. (Gen. 12:1-9, KJV)
@@ -22,13 +22,13 @@
 #### (b) Gen. 12:1, - the importance of Canaan (modern Israel), the importance of understanding the Word of God, the Covenant, Christ, the importance of the coming of Christ
 > Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee: (Gen. 12:1, KJV)
 
-#### (c) Gen. 12:2, - importance of the people of God (descendants), knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ
+#### (c) Gen. 12:2, - the importance of the people of God (descendants), the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ
 > And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing: (Gen. 12:2, KJV)
 
 #### (d) Gen. 12:3, - the promise of the coming of Christ from the descendants of Abraham
 > And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed. (Gen. 12:3, KJV)
 
-#### (e) Gen. 12:4-9, - Abraham's departure from Haran, arrival and life in Canaan, altars –the affirmation of the Word of God, the Covenant, Christ, the fulfillment of World Evangelization, the fulfillment of the destiny of the people of God
+#### (e) Gen. 12:4-9, - Abraham's departure from Haran, arrival and life in Canaan, altars – the affirmation of the Word of God, the Covenant, Christ, the fulfillment of Worldwide Evangelization, the fulfillment of the destiny of the people of God
 > So Abram departed, as the LORD had spoken unto him; and Lot went with him: and Abram was seventy and five years old when he departed out of Haran. And Abram took Sarai his wife, and Lot his brother’s son, and all their substance that they had gathered, and the souls that they had gotten in Haran; and they went forth to go into the land of Canaan; and into the land of Canaan they came. And Abram passed through the land unto the place of Sichem, unto the plain of Moreh. And the Canaanite was then in the land. And the LORD appeared unto Abram, and said, Unto thy seed will I give this land: and there builded he an altar unto the LORD, who appeared unto him. And he removed from thence unto a mountain on the east of Beth-el, and pitched his tent, having Beth-el on the west, and Hai on the east: and there he builded an altar unto the LORD, and called upon the name of the LORD. And Abram journeyed, going on still toward the south. (Gen. 12:4-9, KJV)
 
 ### (2) Gen. 12:10-20, - God's sovereignty and control
@@ -41,7 +41,7 @@
 #### (b) Gen. 12:10, - inaccurate fulfillment of God's Word, Abraham's mistake, God's assumption (acceptance of man's choice)
 > And there was a famine in the land: and Abram went down into Egypt to sojourn there; for the famine was grievous in the land. (Gen. 12:10, KJV)
 
-#### (c) Gen. 12:11-16, - the importance of understanding the Word of God, the Covenant, Christ, understanding the influence of the remnants of the sinful essence on the people of God, the sale of a wife to Pharaoh’s harem. Gal. 2:16, 21,Heb. 13:5
+#### (c) Gen. 12:11-16, - the importance of understanding the Word of God, the Covenant, Christ, understanding the influence of the remnants of sinful essence on the people of God, the sale of a wife to the Pharaoh's harem. Gal. 2:16, 21,Heb. 13:5
 > And it came to pass, when he was come near to enter into Egypt, that he said unto Sarai his wife, Behold now, I know that thou art a fair woman to look upon: Therefore it shall come to pass, when the Egyptians shall see thee, that they shall say, This is his wife: and they will kill me, but they will save thee alive. Say, I pray thee, thou art my sister: that it may be well with me for thy sake; and my soul shall live because of thee. And it came to pass, that, when Abram was come into Egypt, the Egyptians beheld the woman that she was very fair. The princes also of Pharaoh saw her, and commended her before Pharaoh: and the woman was taken into Pharaoh’s house. And he entreated Abram well for her sake: and he had sheep, and oxen, and he asses, and menservants, and maidservants, and she asses, and camels. (Gen. 12:11-16, KJV)
 > Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified. (Gal. 2:16, KJV)
 > I do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead in vain. (Gal. 2:21, KJV)
@@ -50,20 +50,20 @@
 #### (d) Gen. 12:11-16, - Sarah's faith and self-sacrifice, faith in the coming of Christ from Abraham, fulfillment of God's will. (The unbelief of the birth of the son of promise personally from her is a remnant of the sinful essence of the children of God)
 > And it came to pass, when he was come near to enter into Egypt, that he said unto Sarai his wife, Behold now, I know that thou art a fair woman to look upon: Therefore it shall come to pass, when the Egyptians shall see thee, that they shall say, This is his wife: and they will kill me, but they will save thee alive. Say, I pray thee, thou art my sister: that it may be well with me for thy sake; and my soul shall live because of thee. And it came to pass, that, when Abram was come into Egypt, the Egyptians beheld the woman that she was very fair. The princes also of Pharaoh saw her, and commended her before Pharaoh: and the woman was taken into Pharaoh’s house. And he entreated Abram well for her sake: and he had sheep, and oxen, and he asses, and menservants, and maidservants, and she asses, and camels. (Gen. 12:11-16, KJV)
 
-#### (e) Gen. 12:17-20, - God's sovereignty and control. (The Family of the Covenant, Christ, Canaan, World Evangelization, preparation for the coming of Christ – the destiny of the people of God, the fate of Sarah)
+#### (e) Gen. 12:17-20, - God's sovereignty and control. (The family of the Covenant, Christ, Canaan, Worldwide Evangelization, preparation for the coming of Christ – the destiny of the people of God, the fate of Sarah)
 > And the LORD plagued Pharaoh and his house with great plagues because of Sarai Abram’s wife. And Pharaoh called Abram, and said, What is this that thou hast done unto me? why didst thou not tell me that she was thy wife? Why saidst thou, She is my sister? so I might have taken her to me to wife: now therefore behold thy wife, take her, and go thy way. And Pharaoh commanded his men concerning him: and they sent him away, and his wife, and all that he had. (Gen. 12:17-20, KJV)
 
-#### (e) Transmission of the Word of God, the Covenant, Christ in Egypt, Worldwide Evangelization Rom. 8:28. (Pharaoh – non-acceptance of the Word of God, the Covenant, Christ, the importance of the visible)
+#### (e) Transmission of the Word of God, the Covenant, Christ in Egypt, Worldwide Evangelization Rom. 8:28. (Pharaoh – rejection of the Word of God, the Covenant, Christ, the importance of the visible)
 > And we know that all things work together for good to them that love God, to them who are the called according to his purpose. (Rom. 8:28, KJV)
 
 ## 3) Gen. 13, - understanding the Word of God, the Covenant, Christ, the importance of Canaan
 
-### (1) Gen. 13:1-5, - God sovereignty, return to destiny. (The importance of understanding the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the coming of Christ)
+### (1) Gen. 13:1-5, - God's sovereignty, return to destiny. (The importance of understanding the destiny of God's people is the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ)
 > And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south. And Abram was very rich in cattle, in silver, and in gold. And he went on his journeys from the south even to Beth-el, unto the place where his tent had been at the beginning, between Beth-el and Hai; Unto the place of the altar, which he had made there at the first: and there Abram called on the name of the LORD. And Lot also, which went with Abram, had flocks, and herds, and tents. (Gen. 13:1-5, KJV)
 
 #### (a) Canaan - the importance of preparing the coming of Christ, World Evangelization, the redemption and salvation of mankind, the fulfillment of the will of God
 
-#### (b) Sacrifice – the importance of knowing and transmitting the Word of God, the Covenant, Christ, the preparation of disciples, and the multiplication of God's people
+#### (b) Sacrifice – the importance of knowing and transmitting the Word of God, the Covenant, and Christ, preparing disciples, and multiplying God's people
 
 ### (2) Gen. 13:2, 5, - the importance of fulfilling the destiny of God's people, proper understanding and attitude to finances
 > And Abram was very rich in cattle, in silver, and in gold. (Gen. 13:2, KJV)
@@ -85,7 +85,7 @@
 ### (2) Gen. 13:8-9, - Abraham's suggestion (God's assumption), Lot's motives, the importance of fulfilling the purpose
 > And Abram said unto Lot, Let there be no strife, I pray thee, between me and thee, and between my herdmen and thy herdmen; for we be brethren. Is not the whole land before thee? separate thyself, I pray thee, from me: if thou wilt take the left hand, then I will go to the right; or if thou depart to the right hand, then I will go to the left. (Gen. 13:8-9, KJV)
 
-### (3) Gen. 13:10-13, - the importance of the Word of God, the Covenant, Christ, destiny
+### (3) Gen. 13:10-13, - the importance of the Word of God, the Covenant, Christ, the purpose
 > And Lot lifted up his eyes, and beheld all the plain of Jordan, that it was well watered every where, before the LORD destroyed Sodom and Gomorrah, even as the garden of the LORD, like the land of Egypt, as thou comest unto Zoar. Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other. Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched his tent toward Sodom. But the men of Sodom were wicked and sinners before the LORD exceedingly. (Gen. 13:10-13, KJV)
 
 #### (a) Lot – the importance of the visible, life for oneself, renunciation of destiny, the right to choose a person (the collapse of life)
@@ -99,7 +99,7 @@
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 > For there is no respect of persons with God. (Rom. 2:11, KJV)
 
-### (4) Gen. 13:14-18, - affirmation of the Word of God, the Covenant, Christ
+### (4) Gen. 13:14-18, is the affirmation of the Word of God, the Covenant, and Christ
 > And the LORD said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward: For all the land which thou seest, to thee will I give it, and to thy seed for ever. And I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, then shall thy seed also be numbered. Arise, walk through the land in the length of it and in the breadth of it; for I will give it unto thee. Then Abram removed his tent, and came and dwelt in the plain of Mamre, which is in Hebron, and built there an altar unto the LORD. (Gen. 13:14-18, KJV)
 
 #### (a) Gen. 13:14-15, - understanding the importance of Canaan, the coming of Christ

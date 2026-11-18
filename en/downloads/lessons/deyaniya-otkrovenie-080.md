@@ -6,7 +6,7 @@
 
 #### (a) The heirs are the children of God, the foreknowledge of God
 
-#### (b) Child slaves of the devil (slavery of sin, death and hell, Satan), foreknowledge of God
+#### (b) Slaves are children of the devil (slavery to sin, death and hell, Satan), foreknowledge of God
 
 #### (c) The importance of understanding the common spiritual problem of every human being (no different from slaves) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
@@ -32,7 +32,7 @@
 #### (b) God's control over the lives of God's foreknown and chosen people (family, society). Rom. 8:29-30
 > For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren. Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified. (Rom. 8:29-30, KJV)
 
-### (3) Gal. 4:3, - misunderstanding of the Word of God, the Covenant, Christ before time, enslavement by the material principles of the world
+### (3) Gal. 4:3, - misunderstanding of the Word of God, the Covenant, Christ before the time, enslavement by the material principles of the world
 > Even so we, when we were children, were in bondage under the elements of the world: (Gal. 4:3, KJV)
 
 #### (a) Traditions and traditions,
@@ -41,10 +41,10 @@
 
 #### (c) Science, philosophy, etc.
 
-### (4) Gal. 4:4-7, - the importance of accepting the Word of God, the Covenant, Christ
+### (4) Gal. 4:4-7, - the importance of accepting the Word of God, the Covenant, and Christ
 > But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law, To redeem them that were under the law, that we might receive the adoption of sons. And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father. Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ. (Gal. 4:4-7, KJV)
 
-#### (a) Gal. 4:4, - God's sovereignty and control, God's timetable, fulfillment of God's Word, Covenant, Christ, the coming of Christ
+#### (a) Gal. 4:4, - God's sovereignty and control, God's timetable, the fulfillment of God's Word, Covenant, Christ, the coming of Christ
 > But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law, (Gal. 4:4, KJV)
 
 #### (b) Gal. 4:4, - submission to the Law, i.e. fulfillment by Christ of all requirements and full justice of the Law (all commandments and sentence of the Law). Matt. 5:17
@@ -65,13 +65,13 @@
 #### (e) Gal. 4:6-7, - the importance of Emmanuel (God and man together), the importance of understanding the status of the saved (children of God)
 > And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father. Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ. (Gal. 4:6-7, KJV)
 
-### (5) Gal. 4:8-11, - the importance of understanding the action of Satan
+### (5) Gal. 4:8-11, - The importance of understanding Satan's actions
 > Howbeit then, when ye knew not God, ye did service unto them which by nature are no gods. But now, after that ye have known God, or rather are known of God, how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage? Ye observe days, and months, and times, and years. I am afraid of you, lest I have bestowed upon you labour in vain. (Gal. 4:8-11, KJV)
 
 #### (a) Gal. 4:8, - ignorance of the Word of God, the Covenant, Christ, idolatry, the importance of understanding the spiritual problem of every human being
 > Howbeit then, when ye knew not God, ye did service unto them which by nature are no gods. (Gal. 4:8, KJV)
 
-#### (b) Gal. 4:9-10, - the importance of understanding the work of Satan, opposition to the Word of God, the Covenant, Christ, the affirmation of the "mixed gospel." (An attempt to comply with the Law for salvation, the abolition of V.Z.)
+#### (b) Gal. 4:9-10, - the importance of understanding the work of Satan, resisting the Word of God, the Covenant, Christ, and affirming the "mixed gospel." (An attempt to comply with the Law for salvation, the abolition of V.Z.)
 > But now, after that ye have known God, or rather are known of God, how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage? Ye observe days, and months, and times, and years. (Gal. 4:9-10, KJV)
 
 #### (c) Gal. 4:11, - the possibility of rejecting the Word of God, the Covenant, Christ, the right to choose a person, the importance of living in the faith of God (Paul's fears)
@@ -80,22 +80,22 @@
 ### (6) Gal. 4:12-18, - the importance of purity of the Word of God, the Covenant, Christ
 > Brethren, I beseech you, be as I am; for I am as ye are: ye have not injured me at all. Ye know how through infirmity of the flesh I preached the gospel unto you at the first. And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, even as Christ Jesus. Where is then the blessedness ye spake of? for I bear you record, that, if it had been possible, ye would have plucked out your own eyes, and have given them to me. Am I therefore become your enemy, because I tell you the truth? They zealously affect you, but not well; yea, they would exclude you, that ye might affect them. But it is good to be zealously affected always in a good thing, and not only when I am present with you. (Gal. 4:12-18, KJV)
 
-#### (a) Gal. 4:12-15, - the ministry of the Apostle Paul and the acceptance of the Word of God, the Covenant, Christ in Galatia, the action of God's grace, the importance of fulfilling the destiny of God's people. (Paul's illness is a problem with his eyesight, an assumption of God)
+#### (a) Gal. 4:12-15, - the ministry of the Apostle Paul and the acceptance of the Word of God, the Covenant, Christ in Galatia, the effect of God's grace, the importance of fulfilling the destiny of God's people. (Paul's illness is a problem with his eyesight, an assumption of God)
 > Brethren, I beseech you, be as I am; for I am as ye are: ye have not injured me at all. Ye know how through infirmity of the flesh I preached the gospel unto you at the first. And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, even as Christ Jesus. Where is then the blessedness ye spake of? for I bear you record, that, if it had been possible, ye would have plucked out your own eyes, and have given them to me. (Gal. 4:12-15, KJV)
 
-#### (b) Gal. 4:16, - the importance of affirming the Word of God, the Covenant, Christ, the importance of purity of teaching, understanding the actions of Satan (war against the Word of God)
+#### (b) Gal. 4:16, - the importance of affirming the Word of God, the Covenant, Christ, the importance of purity of teaching, understanding the work of Satan (war against the Word of God)
 > Am I therefore become your enemy, because I tell you the truth? (Gal. 4:16, KJV)
 
-#### (c) Gal. 4:17, - false teachers (act of Satan), impure zeal for the children of God, desire to separate the people of God from God, desire to make the people of God zealous for false teachings
+#### (c) Gal. 4:17, - false teachers (an act of Satan), impure zeal for the children of God, a desire to separate the people of God from God, a desire to make the people of God zealous for false teachings
 > They zealously affect you, but not well; yea, they would exclude you, that ye might affect them. (Gal. 4:17, KJV)
 
-#### (d) Gal. 4:18, - the importance of living in the faith of God, the importance of fulfilling the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+#### (d) Gal. 4:18, - the importance of living in the faith of God, the importance of fulfilling the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 > But it is good to be zealously affected always in a good thing, and not only when I am present with you. (Gal. 4:18, KJV)
 
 ## 2) Gal. 4:19-31, - understanding the difference between the Gospel and Religion
 > My little children, of whom I travail in birth again until Christ be formed in you, I desire to be present with you now, and to change my voice; for I stand in doubt of you. Tell me, ye that desire to be under the law, do ye not hear the law? For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman. But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise. Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar. For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children. But Jerusalem which is above is free, which is the mother of us all. For it is written, Rejoice, thou barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband. Now we, brethren, as Isaac was, are the children of promise. But as then he that was born after the flesh persecuted him that was born after the Spirit, even so it is now. Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman. So then, brethren, we are not children of the bondwoman, but of the free. (Gal. 4:19-31, KJV)
 
-### (1) Gal. 4:19, - the importance of accepting the Word of God, the Covenant, Christ (purity)
+### (1) Gal. 4:19, - the importance of accepting the Word of God, the Covenant, and Christ (purity)
 > My little children, of whom I travail in birth again until Christ be formed in you, (Gal. 4:19, KJV)
 
 #### (a) Gal. 3:2, - the spiritual birth of the Galatians, Paul's sermon
@@ -111,20 +111,20 @@
 ### (2) Gal. 4:20-21, - rejection of the Word of God, the Covenant, Christ, the desire to be justified by the works of the Law ("mixed gospel", Paul's surprise)
 > I desire to be present with you now, and to change my voice; for I stand in doubt of you. Tell me, ye that desire to be under the law, do ye not hear the law? (Gal. 4:20-21, KJV)
 
-### (3) Gal. 4:21-23, - understanding the difference between the Gospel and Religion. (Galatians, Gen. – a systematic study of the Word of God, the book of Genesis)
+### (3) Gal. 4:21-23, - understanding the difference between the Gospel and Religion. (Galatians, Gen. – systematic study of the Word of God, the book of Genesis)
 > Tell me, ye that desire to be under the law, do ye not hear the law? For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman. But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise. (Gal. 4:21-23, KJV)
 
 #### (a) Born according to the flesh, the son of a slave (Ishmael) – the deeds and efforts of man in achieving the salvation of mankind (Religion)
 
 #### (b) Born according to the Spirit, the son of the free (Isaac) – the action of God in the salvation of mankind (The Gospel)
 
-### (4) Gal. 4:24-26, - the importance of accepting the Word of God, the Covenant, Christ
+### (4) Gal. 4:24-26, - the importance of accepting the Word of God, the Covenant, and Christ
 > Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar. For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children. But Jerusalem which is above is free, which is the mother of us all. (Gal. 4:24-26, KJV)
 
 #### (a) Gal. 4:24, - The Covenant of Mount Sinai, the importance of understanding the spiritual problem of man (The Law is to understand the bondage of sin, death and hell, Satan)
 > Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar. (Gal. 4:24, KJV)
 
-#### (b) Gal. 4:25, - slavery of Jerusalem (Romans), non-acceptance of the Word of God, Covenant, Christ Matt. 22:41-46,Rom. 9:30-33. (Permanent slavery of Jews, non-acceptance of the Word of God, Covenant, Christ)
+#### (b) Gal. 4:25, - slavery of Jerusalem (Romans), non-acceptance of the Word of God, the Covenant, Christ Matt. 22:41-46,Rom. 9:30-33. (Permanent slavery of the Jews, non-acceptance of the Word of God, the Covenant, Christ)
 > For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children. (Gal. 4:25, KJV)
 > While the Pharisees were gathered together, Jesus asked them, Saying, What think ye of Christ? whose son is he? They say unto him, The Son of David. He saith unto them, How then doth David in spirit call him Lord, saying, The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool? If David then call him Lord, how is he his son? And no man was able to answer him a word, neither durst any man from that day forth ask him any more questions. (Matt. 22:41-46, KJV)
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
@@ -133,10 +133,10 @@
 > But Jerusalem which is above is free, which is the mother of us all. (Gal. 4:26, KJV)
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
 
-### (5) Gal. 4:27-31, - the importance of accepting the Word of God, the Covenant, Christ
+### (5) Gal. 4:27-31, - the importance of accepting the Word of God, the Covenant, and Christ
 > For it is written, Rejoice, thou barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband. Now we, brethren, as Isaac was, are the children of promise. But as then he that was born after the flesh persecuted him that was born after the Spirit, even so it is now. Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman. So then, brethren, we are not children of the bondwoman, but of the free. (Gal. 4:27-31, KJV)
 
-#### (a) Gal. 4:27-28, - the importance of accepting the Word of God, the Covenant, Christ, predestination, (children free by promise), foreknowledge of God
+#### (a) Gal. 4:27-28, - the importance of accepting the Word of God, the Covenant, Christ, predestination, (children of the promised land), foreknowledge of God
 > For it is written, Rejoice, thou barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband. Now we, brethren, as Isaac was, are the children of promise. (Gal. 4:27-28, KJV)
 
 #### (b) Gal. 4:29, - the constant conflict of Religion and the Gospel
@@ -147,10 +147,10 @@
 
 ## Conclusion:
 
-### (1) The importance of accepting the Word of God, the Covenant, Christ, Destiny
+### (1) The importance of accepting the Word of God, the Covenant, Christ, and destiny
 
 ### (2) The importance of understanding God's sovereignty and foreknowing God's – the children of slaves and the children of free
 
-### (3) The importance of understanding the action of Satan is another word
+### (3) The importance of understanding Satan's actions is another word
 
 ### (4) The importance of understanding the conflict between Religion and the Gospel

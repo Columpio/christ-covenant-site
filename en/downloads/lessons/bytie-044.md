@@ -1,11 +1,11 @@
 # 44. Gen. 23-25, - Sarah and Abraham (Life review)
 
-## 1) Gen. 23, - fulfillment of the Word of God, the Covenant, Christ
+## 1) Gen. 23, - fulfillment of the Word of God, the Covenant, of Christ
 
 ### (1) Gen. 23:1-2, - Sarah's death, fulfillment of destiny, God's sovereignty and control, God's timetable of time
 > And Sarah was an hundred and seven and twenty years old: these were the years of the life of Sarah. And Sarah died in Kirjath-arba; the same is Hebron in the land of Canaan: and Abraham came to mourn for Sarah, and to weep for her. (Gen. 23:1-2, KJV)
 
-#### (a) Accurate understanding of the Word of God, the Covenant, Christ Heb. 11:8-16 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+#### (a) An accurate understanding of the Word of God, the Covenant, Christ Heb. 11:8-16 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went. By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise: For he looked for a city which hath foundations, whose builder and maker is God. Through faith also Sara herself received strength to conceive seed, and was delivered of a child when she was past age, because she judged him faithful who had promised. Therefore sprang there even of one, and him as good as dead, so many as the stars of the sky in multitude, and as the sand which is by the sea shore innumerable. These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and pilgrims on the earth. For they that say such things declare plainly that they seek a country. And truly, if they had been mindful of that country from whence they came out, they might have had opportunity to have returned. But now they desire a better country, that is, an heavenly: wherefore God is not ashamed to be called their God: for he hath prepared for them a city. (Heb. 11:8-16, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -21,7 +21,7 @@
 
 #### (c) Abraham's helper, the fulfillment of God's will
 
-### (2) Sarah's Faith – acceptance and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization
+### (2) Sarah's Faith is the acceptance and transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
 #### (a) Faith in the Coming Christ, understanding of His Sacrifice
 
@@ -36,18 +36,18 @@
 ### (3) Gen. 23:3-20, - the burial of Sarah, the importance of Canaan
 > And Abraham stood up from before his dead, and spake unto the sons of Heth, saying, I am a stranger and a sojourner with you: give me a possession of a buryingplace with you, that I may bury my dead out of my sight. And the children of Heth answered Abraham, saying unto him, Hear us, my lord: thou art a mighty prince among us: in the choice of our sepulchres bury thy dead; none of us shall withhold from thee his sepulchre, but that thou mayest bury thy dead. And Abraham stood up, and bowed himself to the people of the land, even to the children of Heth. And he communed with them, saying, If it be your mind that I should bury my dead out of my sight; hear me, and intreat for me to Ephron the son of Zohar, That he may give me the cave of Machpelah, which he hath, which is in the end of his field; for as much money as it is worth he shall give it me for a possession of a buryingplace amongst you. And Ephron dwelt among the children of Heth: and Ephron the Hittite answered Abraham in the audience of the children of Heth, even of all that went in at the gate of his city, saying, Nay, my lord, hear me: the field give I thee, and the cave that is therein, I give it thee; in the presence of the sons of my people give I it thee: bury thy dead. And Abraham bowed down himself before the people of the land. And he spake unto Ephron in the audience of the people of the land, saying, But if thou wilt give it, I pray thee, hear me: I will give thee money for the field; take it of me, and I will bury my dead there. And Ephron answered Abraham, saying unto him, My lord, hearken unto me: the land is worth four hundred shekels of silver; what is that betwixt me and thee? bury therefore thy dead. And Abraham hearkened unto Ephron; and Abraham weighed to Ephron the silver, which he had named in the audience of the sons of Heth, four hundred shekels of silver, current money with the merchant. And the field of Ephron, which was in Machpelah, which was before Mamre, the field, and the cave which was therein, and all the trees that were in the field, that were in all the borders round about, were made sure Unto Abraham for a possession in the presence of the children of Heth, before all that went in at the gate of his city. And after this, Abraham buried Sarah his wife in the cave of the field of Machpelah before Mamre: the same is Hebron in the land of Canaan. And the field, and the cave that is therein, were made sure unto Abraham for a possession of a buryingplace by the sons of Heth. (Gen. 23:3-20, KJV)
 
-#### (a) Gen. 23:3-6, - transmission of the Word of God, the Covenant, Christ in Canaan, the sons of Heth (Abraham is the prince of God), fulfillment of destiny, Worldwide Evangelization, preparation for the coming of Christ
+#### (a) Gen. 23:3-6, - transmission of the Word of God, the Covenant, Christ to the Canaanites, the sons of Heth (Abraham is the prince of God), fulfillment of destiny, Worldwide Evangelization, preparation for the coming of Christ
 > And Abraham stood up from before his dead, and spake unto the sons of Heth, saying, I am a stranger and a sojourner with you: give me a possession of a buryingplace with you, that I may bury my dead out of my sight. And the children of Heth answered Abraham, saying unto him, Hear us, my lord: thou art a mighty prince among us: in the choice of our sepulchres bury thy dead; none of us shall withhold from thee his sepulchre, but that thou mayest bury thy dead. (Gen. 23:3-6, KJV)
 
-#### (b) Gen. 23:7-20, - the importance of Canaan, the constant reminder of the Word of God, the Covenant, Christ, Worldwide Evangelization, the destiny of the people of God (descendants)
+#### (b) Gen. 23:7-20, - the importance of Canaan, a constant reminder of the Word of God, the Covenant, Christ, Worldwide Evangelization, the destiny of God's people (descendants)
 > And Abraham stood up, and bowed himself to the people of the land, even to the children of Heth. And he communed with them, saying, If it be your mind that I should bury my dead out of my sight; hear me, and intreat for me to Ephron the son of Zohar, That he may give me the cave of Machpelah, which he hath, which is in the end of his field; for as much money as it is worth he shall give it me for a possession of a buryingplace amongst you. And Ephron dwelt among the children of Heth: and Ephron the Hittite answered Abraham in the audience of the children of Heth, even of all that went in at the gate of his city, saying, Nay, my lord, hear me: the field give I thee, and the cave that is therein, I give it thee; in the presence of the sons of my people give I it thee: bury thy dead. And Abraham bowed down himself before the people of the land. And he spake unto Ephron in the audience of the people of the land, saying, But if thou wilt give it, I pray thee, hear me: I will give thee money for the field; take it of me, and I will bury my dead there. And Ephron answered Abraham, saying unto him, My lord, hearken unto me: the land is worth four hundred shekels of silver; what is that betwixt me and thee? bury therefore thy dead. And Abraham hearkened unto Ephron; and Abraham weighed to Ephron the silver, which he had named in the audience of the sons of Heth, four hundred shekels of silver, current money with the merchant. And the field of Ephron, which was in Machpelah, which was before Mamre, the field, and the cave which was therein, and all the trees that were in the field, that were in all the borders round about, were made sure Unto Abraham for a possession in the presence of the children of Heth, before all that went in at the gate of his city. And after this, Abraham buried Sarah his wife in the cave of the field of Machpelah before Mamre: the same is Hebron in the land of Canaan. And the field, and the cave that is therein, were made sure unto Abraham for a possession of a buryingplace by the sons of Heth. (Gen. 23:7-20, KJV)
 
 #### (c) Gen. 23:10-18, is the payment of Abraham, the payment of God's people in fulfilling their destiny (time, labor, finances, etc.)
 > And Ephron dwelt among the children of Heth: and Ephron the Hittite answered Abraham in the audience of the children of Heth, even of all that went in at the gate of his city, saying, Nay, my lord, hear me: the field give I thee, and the cave that is therein, I give it thee; in the presence of the sons of my people give I it thee: bury thy dead. And Abraham bowed down himself before the people of the land. And he spake unto Ephron in the audience of the people of the land, saying, But if thou wilt give it, I pray thee, hear me: I will give thee money for the field; take it of me, and I will bury my dead there. And Ephron answered Abraham, saying unto him, My lord, hearken unto me: the land is worth four hundred shekels of silver; what is that betwixt me and thee? bury therefore thy dead. And Abraham hearkened unto Ephron; and Abraham weighed to Ephron the silver, which he had named in the audience of the sons of Heth, four hundred shekels of silver, current money with the merchant. And the field of Ephron, which was in Machpelah, which was before Mamre, the field, and the cave which was therein, and all the trees that were in the field, that were in all the borders round about, were made sure Unto Abraham for a possession in the presence of the children of Heth, before all that went in at the gate of his city. (Gen. 23:10-18, KJV)
 
-## 2) Gen. 24, - the importance of conveying the Word of God, the Covenant, Christ
+## 2) Gen. 24, - the importance of conveying the Word of God, the Covenant, and Christ
 
-### (1) Gen. 24:1-9, - the importance of proper marriage, the importance of Canaan (the family of the Covenant, Christ, World Evangelization, fulfillment of destiny)
+### (1) Gen. 24:1-9, - the importance of proper marriage, the importance of Canaan (the family of the Covenant, Christ, Worldwide Evangelization, fulfillment of destiny)
 > And Abraham was old, and well stricken in age: and the LORD had blessed Abraham in all things. And Abraham said unto his eldest servant of his house, that ruled over all that he had, Put, I pray thee, thy hand under my thigh: And I will make thee swear by the LORD, the God of heaven, and the God of the earth, that thou shalt not take a wife unto my son of the daughters of the Canaanites, among whom I dwell: But thou shalt go unto my country, and to my kindred, and take a wife unto my son Isaac. And the servant said unto him, Peradventure the woman will not be willing to follow me unto this land: must I needs bring thy son again unto the land from whence thou camest? And Abraham said unto him, Beware thou that thou bring not my son thither again. The LORD God of heaven, which took me from my father’s house, and from the land of my kindred, and which spake unto me, and that sware unto me, saying, Unto thy seed will I give this land; he shall send his angel before thee, and thou shalt take a wife unto my son from thence. And if the woman will not be willing to follow thee, then thou shalt be clear from this my oath: only bring not my son thither again. And the servant put his hand under the thigh of Abraham his master, and sware to him concerning that matter. (Gen. 24:1-9, KJV)
 
 ### (2) Gen. 24:10, - Mesopotamia, Nahor and Milcah, understanding the Word of God, the Covenant, Christ, the people of God, proper upbringing of descendants
@@ -65,15 +65,15 @@
 ### (6) Gen. 24:62-67, - the importance of Rebekah and Isaac, the family of the Covenant, Christ (Jacob), the preparation of the coming of Christ, the fulfillment of the Word of God
 > And Isaac came from the way of the well Lahai-roi; for he dwelt in the south country. And Isaac went out to meditate in the field at the eventide: and he lifted up his eyes, and saw, and, behold, the camels were coming. And Rebekah lifted up her eyes, and when she saw Isaac, she lighted off the camel. For she had said unto the servant, What man is this that walketh in the field to meet us? And the servant had said, It is my master: therefore she took a vail, and covered herself. And the servant told Isaac all things that he had done. And Isaac brought her into his mother Sarah’s tent, and took Rebekah, and she became his wife; and he loved her: and Isaac was comforted after his mother’s death. (Gen. 24:62-67, KJV)
 
-## 3) Gen. 25:1-10, - fulfillment of the Word of God, the Covenant, Christ
+## 3) Gen. 25:1-10, - fulfillment of the Word of God, the Covenant, of Christ
 > Then again Abraham took a wife, and her name was Keturah. And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim. And the sons of Midian; Ephah, and Epher, and Hanoch, and Abidah, and Eldaah. All these were the children of Keturah. And Abraham gave all that he had unto Isaac. But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country. And these are the days of the years of Abraham’s life which he lived, an hundred threescore and fifteen years. Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people. And his sons Isaac and Ishmael buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which is before Mamre; The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife. (Gen. 25:1-10, KJV)
 
 ### (1) Gen. 25:1-4, - the descendants of Abraham from Hettura, the self-will of Abraham, the influence of the remnants of sinful essence
 > Then again Abraham took a wife, and her name was Keturah. And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim. And the sons of Midian; Ephah, and Epher, and Hanoch, and Abidah, and Eldaah. All these were the children of Keturah. (Gen. 25:1-4, KJV)
 
-#### (a) Hettura is a pagan, there is no belonging to the people of God
+#### (a) Hettura is a pagan, does not belong to the people of God
 
-#### (b) Midian – rejection of the Word of God, the Covenant, Christ, enemies of the people of God
+#### (b) Midians – rejection of the Word of God, the Covenant, Christ, enemies of God's people
 
 ### (2) Gen. 25:5, - Isaac, son of promise, the importance of transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, the fulfillment of the Word of God
 > And Abraham gave all that he had unto Isaac. (Gen. 25:5, KJV)
@@ -82,7 +82,7 @@
 > But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country. (Gen. 25:6, KJV)
 > And we know that all things work together for good to them that love God, to them who are the called according to his purpose. (Rom. 8:28, KJV)
 
-### (4) The faith of Abraham is the acceptance and transmission of the Word of God, the Covenant, Christ, World Evangelization, the child and prophet of God. Gen. 20:7, - 1 Pet. 1:10-11,Acts 10:43
+### (4) Abraham's faith is the acceptance and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, a child and a prophet of God. Gen. 20:7, - 1 Pet. 1:10-11,Acts 10:43
 > Now therefore restore the man his wife; for he is a prophet, and he shall pray for thee, and thou shalt live: and if thou restore her not, know thou that thou shalt surely die, thou, and all that are thine. (Gen. 20:7, KJV)
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
 > To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins. (Acts 10:43, KJV)
@@ -95,18 +95,18 @@
 ### (5) Gen. 25:7-8, - the death of Abraham, the fulfillment of destiny, God's sovereignty and control, God's timetable of time
 > And these are the days of the years of Abraham’s life which he lived, an hundred threescore and fifteen years. Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people. (Gen. 25:7-8, KJV)
 
-#### (a) Accurate understanding of the Word of God, the Covenant, Christ Heb. 11:8-11
+#### (a) An accurate understanding of the Word of God, the Covenant, Christ Heb. 11:8-11
 > By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went. By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise: For he looked for a city which hath foundations, whose builder and maker is God. Through faith also Sara herself received strength to conceive seed, and was delivered of a child when she was past age, because she judged him faithful who had promised. (Heb. 11:8-11, KJV)
 
-#### (c) The right priorities – the invisible, the fulfillment of God's will (Comparing the life of Abraham and the life of Lot)
+#### (c) The right priorities are the invisible, the fulfillment of God's will (Comparing the life of Abraham and the life of Lot)
 
 ### (6) Understanding Abraham's sinful nature
 
 #### (a) Fear for his life, betrayal of his wife. Gen. 12, 20
 
-#### (b) An attempt to fulfill the promise of God on his own (Ishmael)
+#### (b) An attempt to fulfill God's promise on one's own (Ishmael)
 
-### (7) Gen. 25:9-10, - the burial of Abraham (Machpelah cave), the importance of Canaan, the constant reminder of the Word of God, the Covenant, Christ, Worldwide Evangelization, the destiny of God's people, the importance of descendants. (The importance of the disciple is the knowledge and transmission of the Word of God, the Covenant, Christ) Gen. 49:29-33; 50:25
+### (7) Gen. 25:9-10, - the burial of Abraham (Machpelah cave), the importance of Canaan, the constant reminder of the Word of God, the Covenant, Christ, Worldwide Evangelization, the purpose of the people of God, the importance of descendants. (The importance of the disciple is the knowledge and transmission of the Word of God, the Covenant, and Christ) Gen. 49:29-33; 50:25
 > And his sons Isaac and Ishmael buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which is before Mamre; The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife. (Gen. 25:9-10, KJV)
 > And he charged them, and said unto them, I am to be gathered unto my people: bury me with my fathers in the cave that is in the field of Ephron the Hittite, In the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan, which Abraham bought with the field of Ephron the Hittite for a possession of a buryingplace. There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah. The purchase of the field and of the cave that is therein was from the children of Heth. And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people. (Gen. 49:29-33, KJV)
 > And Joseph took an oath of the children of Israel, saying, God will surely visit you, and ye shall carry up my bones from hence. (Gen. 50:25, KJV)
@@ -115,7 +115,7 @@
 
 ### (1) Canaan – preparation for the coming of Christ, Worldwide Evangelization
 
-### (2) Descendants – the people of God, understanding the Word of God, the Covenant, Christ Gal. 3:7, 29
+### (2) Descendants are the people of God, understanding the Word of God, the Covenant, Christ Gal. 3:7, 29
 > Know ye therefore that they which are of faith, the same are the children of Abraham. (Gal. 3:7, KJV)
 > And if ye be Christ’s, then are ye Abraham’s seed, and heirs according to the promise. (Gal. 3:29, KJV)
 
@@ -134,4 +134,4 @@
 
 ### (3) The importance of raising descendants – disciples, Worldwide Evangelization
 
-### (4) The importance of understanding God's sovereignty and Control
+### (4) The importance of understanding God's Sovereignty and Control

@@ -21,7 +21,7 @@
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-### (2) Rom. 4:4-8 (Ps. 32:1-2), - understanding the Word of God, the Covenant, Christ, understanding and faith of David, justification of man by faith in Christ
+### (2) Rom. 4:4-8 (Ps. 32:1-2), - understanding of the Word of God, the Covenant, Christ, understanding and faith of David, justification of man by faith in Christ
 > Now to him that worketh is the reward not reckoned of grace, but of debt. But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness. Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works, Saying, Blessed are they whose iniquities are forgiven, and whose sins are covered. Blessed is the man to whom the Lord will not impute sin. (Rom. 4:4-8, KJV)
 > A Psalm of David, Maschil. Blessed is he whose transgression is forgiven, whose sin is covered. Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile. (Ps. 32:1-2, KJV)
 
@@ -29,18 +29,18 @@
 
 #### (b) Understanding the full justification of man through Christ
 
-### (3) Rom. 4:9-12, - the importance of proper understanding, fulfillment of the Word of God, the Covenant, Christ, the faith of God, understanding of Abraham
+### (3) Rom. 4:9-12, - the importance of proper understanding, fulfillment of the Word of God, the Covenant, Christ, faith of God, understanding of Abraham
 > Cometh this blessedness then upon the circumcision only, or upon the uncircumcision also? for we say that faith was reckoned to Abraham for righteousness. How was it then reckoned? when he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision. And he received the sign of circumcision, a seal of the righteousness of the faith which he had yet being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed unto them also: And the father of circumcision to them who are not of the circumcision only, but who also walk in the steps of that faith of our father Abraham, which he had being yet uncircumcised. (Rom. 4:9-12, KJV)
 
 #### (a) Abraham's faith was imputed to him as righteousness before circumcision. (The rite cannot give salvation and rebirth)
 
 #### (b) Circumcision (the seal of righteousness) is a consequence of God's faith
 
-#### (c) Abraham is the father of all uncircumcised believers (Gentiles), the importance of properly understanding God's people. (The people of God are not carnal, but spiritual birth from the seed of the Word of God, Jews and Gentiles, the importance of accepting the Word of God, the Covenant, Christ)
+#### (c) Abraham is the father of all uncircumcised believers (Gentiles), the importance of properly understanding God's people. (The people of God are not carnal, but spiritual birth from the seed of the Word of God, Jews and Gentiles, the importance of accepting the Word of God, the Covenant, and Christ)
 
 #### (c) Abraham is the father of all believers in circumcision (Jews), the importance of properly understanding God's people
 
-## 2) Rom. 4:13-15, - the difference between the God of the promise of salvation and the Law
+## 2) Rom. 4:13-15, - the difference between God's promise of salvation and the Law
 > For the promise, that he should be the heir of the world, was not to Abraham, or to his seed, through the law, but through the righteousness of faith. For if they which are of the law be heirs, faith is made void, and the promise made of none effect: Because the law worketh wrath: for where no law is, there is no transgression. (Rom. 4:13-15, KJV)
 
 ### (1) Rom. 4:13, - the promise of salvation before the Law. Gen. 3:15, 12
@@ -70,13 +70,13 @@
 ### (2) Gal. 3:16-17, - the importance of properly understanding the essence of God's promise for God's people (Christ)
 > Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ. And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect. (Gal. 3:16-17, KJV)
 
-### (3) The faith of Abraham – knowledge and transmission of the Word of God, the Covenant, Christ, Canaan, World Evangelization, preparation for the coming of Christ. Heb. 11:8-19
+### (3) The faith of Abraham is the knowledge and transmission of the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, and preparation for the coming of Christ. Heb. 11:8-19
 > By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went. By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise: For he looked for a city which hath foundations, whose builder and maker is God. Through faith also Sara herself received strength to conceive seed, and was delivered of a child when she was past age, because she judged him faithful who had promised. Therefore sprang there even of one, and him as good as dead, so many as the stars of the sky in multitude, and as the sand which is by the sea shore innumerable. These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and pilgrims on the earth. For they that say such things declare plainly that they seek a country. And truly, if they had been mindful of that country from whence they came out, they might have had opportunity to have returned. But now they desire a better country, that is, an heavenly: wherefore God is not ashamed to be called their God: for he hath prepared for them a city. By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten son, Of whom it was said, That in Isaac shall thy seed be called: Accounting that God was able to raise him up, even from the dead; from whence also he received him in a figure. (Heb. 11:8-19, KJV)
 
-## 4) Rom. 4:23-25, - God's understanding of the conditions for human salvation
+## 4) Rom. 4:23-25, - understanding God's conditions for human salvation
 > Now it was not written for his sake alone, that it was imputed to him; But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead; Who was delivered for our offences, and was raised again for our justification. (Rom. 4:23-25, KJV)
 
-### (1) God is the method of salvation and the imputation of Christ's righteousness to man. (Recognition of Jesus of Nazareth as the Christ, i.e., God in the flesh, who died for all the sins of the whole world and will be resurrected for our justification) Rom. 10:9
+### (1) God's method of salvation and the imputation of Christ's righteousness to man. (Recognition of Jesus of Nazareth as the Christ, i.e., God in the flesh, who died for all the sins of the whole world and will be resurrected for our justification) Rom. 10:9
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
 ### (2) The importance of accepting the Word of God, the Covenant, and Christ (essence and meaning)

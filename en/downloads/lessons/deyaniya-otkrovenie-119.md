@@ -2,7 +2,7 @@
 
 ## 1) God's Plan for the Book of Revelation
 
-### (1) The Ministry of Christ, the message to the seven Churches, the importance of knowing and transmitting the Word of God, understanding the future. Rev. 1-3
+### (1) The ministry of Christ, the message to the seven Churches, the importance of knowing and transmitting the Word of God, understanding the future. Rev. 1-3
 
 ## 2) Rev. 4, - understanding the Word of God, the Covenant, Christ (spiritual reality)
 
@@ -55,13 +55,13 @@
 ### (1) Rev. 5:1, - Understanding God's Plan (book)
 > And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals. (Rev. 5:1, KJV)
 
-### (2) Rev. 5:2-7, - understanding of Christ (fulfillment of the Word of God, God's plan)
+### (2) Rev. 5:2-7, - understanding of Christ (fulfillment of God's Word, God's plan)
 > And I saw a strong angel proclaiming with a loud voice, Who is worthy to open the book, and to loose the seals thereof? And no man in heaven, nor in earth, neither under the earth, was able to open the book, neither to look thereon. And I wept much, because no man was found worthy to open and to read the book, neither to look thereon. And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof. And I beheld, and, lo, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been slain, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth. And he came and took the book out of the right hand of him that sat upon the throne. (Rev. 5:2-7, KJV)
 
 ### (3) Rev. 5:8-14, - worship and glorification of Christ, the importance of understanding the Sacrifice and Blood of Jesus Christ (atonement)
 > And when he had taken the book, the four beasts and four and twenty elders fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of saints. And they sung a new song, saying, Thou art worthy to take the book, and to open the seals thereof: for thou wast slain, and hast redeemed us to God by thy blood out of every kindred, and tongue, and people, and nation; And hast made us unto our God kings and priests: and we shall reign on the earth. And I beheld, and I heard the voice of many angels round about the throne and the beasts and the elders: and the number of them was ten thousand times ten thousand, and thousands of thousands; Saying with a loud voice, Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honour, and glory, and blessing. And every creature which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them, heard I saying, Blessing, and honour, and glory, and power, be unto him that sitteth upon the throne, and unto the Lamb for ever and ever. And the four beasts said, Amen. And the four and twenty elders fell down and worshipped him that liveth for ever and ever. (Rev. 5:8-14, KJV)
 
-## 4) God's plan, the importance of understanding prophecies The Word of God The prophecy of the prophet Daniel and the prophecy of Jesus Christ
+## 4) God's plan, the importance of understanding the prophecies of the Word of God The prophecy of the prophet Daniel and the prophecy of Jesus Christ
 
 ### (1) Matt. 24:14-15,Dan. 9:24-26, - the relationship of God with the Jewish people during the 70 weeks, the parishes of Christ. (Christ's reference to the book of Daniel is 7+62=69 weeks or 49+434=483 years, with 1 week remaining of the last time)
 > And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come. When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:) (Matt. 24:14-15, KJV)
@@ -87,7 +87,7 @@
 #### (a) Dan. 12:1, - The Great Tribulation, the salvation of the foreknown Jews
 > And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book. (Dan. 12:1, KJV)
 
-#### (b) Dan. 12:11-12, - 1335:365=3.5 years after the end of the sacrifice, the end of the second half of the last week, the coming of Christ
+#### (b) Dan. 12:11-12. - 1335:365=3.5 years after the end of the sacrifice, the end of the second half of the last week, the coming of Christ
 > And from the time that the daily sacrifice shall be taken away, and the abomination that maketh desolate set up, there shall be a thousand two hundred and ninety days. Blessed is he that waiteth, and cometh to the thousand three hundred and five and thirty days. (Dan. 12:11-12, KJV)
 
 #### (c) Dan. 12:11, - 1335-1290=45 days, preparation of the Antichrist and the implementation of the Battle of Armageddon. (Rev. 16:14-16; 19:19-21)
@@ -100,7 +100,7 @@
 
 ## 5) Prophecies of the prophet Amos, Daniel and the Lord Jesus Christ – "God's calls" before the last week (the inevitable fulfillment of God's plan)
 
-### (1) Matt. 24:14, - proclamation of the Word of God, the Covenant, Christ throughout the whole earth, to all nations (fulfillment in the 20th century A.D.)
+### (1) Matt. 24:14, - proclamation of the Word of God, the Covenant, and Christ throughout the whole earth, to all nations (fulfillment in the 20th century A.D.)
 > And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come. (Matt. 24:14, KJV)
 
 ### (2) Amos 9:14-15 (Jer. 31:10,Ezek. 37:21-22), - the return of the Jewish people to the promised land, the restoration of the Jewish state (May 14, 1948)
@@ -142,7 +142,7 @@
 
 ## 7) The Prophecy of the Apostle Paul
 
-### (1) 2 Thess. 2:1-10, - Antichrist, false 3rd temple, stopping the sacrifices after 3.5 years, declaring oneself "god", the abomination of desolation for 3.5 years (the inability to declare oneself "God" while there is a "deterrent" - the Holy Spirit and the Church of Jesus Christ)
+### (1) 2 Thess. 2:1-10, - Antichrist, false 3rd temple, stopping sacrifices after 3.5 years, declaring oneself "god", the abomination of desolation for 3.5 years (the inability to declare oneself "God" as long as there is a "holdover" - the Holy Spirit and the Church of Jesus Christ)
 > Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him, That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand. Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition; Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God. Remember ye not, that, when I was yet with you, I told you these things? And now ye know what withholdeth that he might be revealed in his time. For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way. And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming: Even him, whose coming is after the working of Satan with all power and signs and lying wonders, And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved. (2 Thess. 2:1-10, KJV)
 
 #### (a) The lack of bifurcation of Mount Olivet. Zech. 14:4
@@ -162,7 +162,7 @@
 
 ### (1) The importance of understanding God's sovereignty and control, and understanding the existence of God's plan for humanity
 
-### (2) The importance of knowing and transmitting the Word of God, the Covenant, Christ
+### (2) The importance of knowing and communicating the Word of God, the Covenant, and Christ
 
 ### (3) The importance of understanding God's Plan of Events
 

@@ -1,12 +1,12 @@
 # Heb. 11
-## 7.1) Heb. 11:1-3, - the importance of the Word of God, of the Covenant, of Christ for every human being
+## 7.1) Heb. 11:1-3, - the importance of the Word of God, the Covenant, and Christ for every human being
 > Now faith is the substance of things hoped for, the evidence of things not seen. For by it the elders obtained a good report. Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear. (Heb. 11:1-3, KJV)
 
 ### (1) Heb. 11:1, - the importance of understanding God's faith. Mark 11:23
 > Now faith is the substance of things hoped for, the evidence of things not seen. (Heb. 11:1, KJV)
 > For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith. (Mark 11:23, KJV)
 
-#### (a) The faith of God is the correct understanding and fulfillment of the Word of God, the Covenant, Christ
+#### (a) The faith of God is the correct understanding and fulfillment of the Word of God, the Covenant, and Christ
 
 #### (b) Human faith – misunderstanding and fulfillment of the Word of God, the Covenant, Christ Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
@@ -49,7 +49,7 @@
 - V.Z. – faith in the coming Christ and His Sacrifice for all sins
 - N.Z. – faith in Jesus of Nazareth as Christ and His Sacrifice for all human sins (past, present, future)
 
-#### (d) The level and power of God's faith – knowledge and transmission of the Word of God, the Covenant, Christ, fulfillment of destiny
+#### (d) The level and power of God's faith is the knowledge and transmission of the Word of God, the Covenant, Christ, and the fulfillment of destiny
 
 ### (4) God's faith is an act of God's grace
 
@@ -62,20 +62,20 @@
 #### (c) Acceptance of the Word of God, the Covenant, Christ (choice, acceptance of faith) Deut. 30:19
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
-#### (d) Obedience to the Word of God, the Covenant, Christ (destiny) 1 Tim. 2:4
+#### (d) Obedience to the Word of God, the Covenant, and Christ (purpose) 1 Tim. 2:4
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 
 #### (e) Hope, i.e. full trust in the Word of God, the Covenant, Christ Rom. 8:24-25
 > For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for? But if we hope for that we see not, then do we with patience wait for it. (Rom. 8:24-25, KJV)
 
-### (5) Heb. 11:2, - the importance of understanding the Word of God, the Covenant, Christ, the testimony of the Word of God about the faith of the ancients (Adam – Moses)
+### (5) Heb. 11:2, - the importance of understanding the Word of God, the Covenant, Christ, the testimony of the Word of God about the faith of the ancients (Adam –Moses)
 > For by it the elders obtained a good report. (Heb. 11:2, KJV)
 
 #### (a) Adam, Eve – faith in the Divinity of Christ and His Self-sufficient Sacrifice, in His coming (the faith of God)
 
 #### (b) All the heroes of the Bible are faith in the Divinity of Christ and His Self–sufficient Sacrifice, in His coming (the faith of God)
 
-### (6) Heb. 11:3, - the importance of knowing the Word of God, the Covenant, Christ
+### (6) Heb. 11:3, - the importance of knowing the Word of God, the Covenant, and Christ
 > Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear. (Heb. 11:3, KJV)
 
 #### (a) The importance of understanding Creation – the effect of God's Word
@@ -87,7 +87,7 @@
 
 ### (1) Cain, Abel – believers, understanding the importance of Worship
 
-### (2) The meaning of Abel's sacrifice is the shedding of blood, faith in Christ. (God's Prophet, acceptance of the Word of God, the Covenant, Christ is the Good News) Heb. 11:4, – Luke 11:49-51,1 Pet. 1:10-11,Acts 10:43, -Jas. 1:18,1 Pet. 1:23 (1 Pet. 1:18-20,Rev. 13:8), - John 3:1-10
+### (2) The meaning of Abel's sacrifice is the shedding of blood, faith in Christ. (God's Prophet, acceptance of the Word of God, the Covenant, Christ – The Good News) Heb. 11:4, - Luke 11:49-51,1 Pet. 1:10-11,Acts 10:43, -Jas. 1:18,1 Pet. 1:23 (1 Pet. 1:18-20,Rev. 13:8), - John 3:1-10
 > By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh. (Heb. 11:4, KJV)
 > Therefore also said the wisdom of God, I will send them prophets and apostles, and some of them they shall slay and persecute: That the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation; From the blood of Abel unto the blood of Zacharias, which perished between the altar and the temple: verily I say unto you, It shall be required of this generation. (Luke 11:49-51, KJV)
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
@@ -98,7 +98,7 @@
 > And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world. (Rev. 13:8, KJV)
 > There was a man of the Pharisees, named Nicodemus, a ruler of the Jews: The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him. Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God. Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother’s womb, and be born? Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. That which is born of the flesh is flesh; and that which is born of the Spirit is spirit. Marvel not that I said unto thee, Ye must be born again. The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit. Nicodemus answered and said unto him, How can these things be? Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things? (John 3:1-10, KJV)
 
-### (3) The meaning of Cain's sacrifice is the fruits of the earth, his own strength, the deeds of man (the devil's Child, rejection of the Word of God, the Covenant, Christ – religion). 1 John 3:12
+### (3) The meaning of Cain's sacrifice is the fruits of the earth, his own strength, and human deeds (Child of the devil, rejection of the Word of God, the Covenant, and Christ – religion). 1 John 3:12
 > Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother’s righteous. (1 John 3:12, KJV)
 
 ### (4) Abel's eternal testimony is the teaching of multitudes
@@ -115,7 +115,7 @@
 ## 4) Heb. 11:5, - The importance of understanding Enoch's faith
 > By faith Enoch was translated that he should not see death; and was not found, because God had translated him: for before his translation he had this testimony, that he pleased God. (Heb. 11:5, KJV)
 
-### (1) Enoch is God's prophet, understanding the first coming of Christ and His Sacrifice, accepting the Word of God, the Covenant, Christ
+### (1) Enoch is God's prophet, understanding the first coming of Christ and His Sacrifice, accepting the Word of God, the Covenant, and Christ
 
 ### (2) Enoch – understanding the second coming of Christ, understanding the judgment of God and eternity with God. Jude 1:14
 > And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord cometh with ten thousands of his saints, (Jude 1:14, KJV)
@@ -127,16 +127,16 @@
 ## 5) Heb. 11:6, - the importance of God's faith for every human being
 > But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him. (Heb. 11:6, KJV)
 
-### (1) The impossibility of pleasing God without the faith of God, without the Word of God, the Covenant, Christ (the importance of accepting Christ)
+### (1) The impossibility of pleasing God without the faith of God, without the Word of God, the Covenant, and Christ (the importance of accepting Christ)
 
 ### (2) The importance of recognizing the existence of God and the importance of accepting the only way to meet Him (only Christ)
 
-### (3) The importance of understanding every person's complete dependence on God, the importance of understanding getting all the answers from God when searching for and accepting the Word of God, the Covenant, Christ
+### (3) The importance of understanding every person's complete dependence on God, the importance of understanding how to receive all the answers from God when searching for and accepting the Word of God, the Covenant, and Christ
 
 ## 6) Heb. 11:7, - The importance of understanding Noah's faith
 > By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith. (Heb. 11:7, KJV)
 
-### (1) Noah is God's prophet, accepting the Word of God, the Covenant, the Christ
+### (1) Noah is God's prophet, accepting the Word of God, the Covenant, and Christ
 
 ### (2) Noah – building the Ark, participating in the judgment of God, condemning and defeating the sinful and unbelieving world
 
@@ -149,4 +149,4 @@
 
 ### (1) The Importance of Understanding God's Faith
 
-### (2) The importance of understanding and fulfilling the purpose – knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization
+### (2) The importance of understanding and fulfilling the purpose of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization

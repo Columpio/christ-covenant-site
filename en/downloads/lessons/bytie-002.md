@@ -27,7 +27,7 @@
 
 ### (2) Acceptance of leather garments – acceptance of the Sacrifice and Feat of Christ (Salvation and rebirth, Emmanuel – the status of Adam and Eve)
 
-### (3) Expulsion from Paradise – affirmation of the Word of God, the Covenant, Christ Gen. 3:22-24. (Knowledge of good and evil, the will of God for man – the importance of theoretical rather than practical knowledge, parenting)
+### (3) Expulsion from Paradise is the affirmation of the Word of God, the Covenant, Christ Gen. 3:22-24. (Knowledge of good and evil, the will of God for man is the importance of theoretical rather than practical knowledge, parenting)
 > And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever: Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken. So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life. (Gen. 3:22-24, KJV)
 
 #### (a) Eternity with an imperfect soul and in an imperfect body is a violation of God's will (the principle of Creation)
@@ -43,7 +43,7 @@
 
 ### (1) Cain, Abel – believers, understanding the importance of Worship
 
-### (2) The meaning of Abel's sacrifice is the shedding of blood, faith in Christ. (God's Prophet, acceptance of the Word of God, the Covenant, Christ is the Good News) Heb. 11:4, - Luke 11:49-51,1 Pet. 1:10-11,Acts 10:43. (Jas. 1:18,1 Pet. 1:23, - 1 Pet. 1:18-20,Rev. 13:8)
+### (2) The meaning of Abel's sacrifice is the shedding of blood, faith in Christ. (God's Prophet, acceptance of the Word of God, the Covenant, Christ – The Good News) Heb. 11:4, - Luke 11:49-51,1 Pet. 1:10-11,Acts 10:43. (Jas. 1:18,1 Pet. 1:23, - 1 Pet. 1:18-20,Rev. 13:8)
 > By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh. (Heb. 11:4, KJV)
 > Therefore also said the wisdom of God, I will send them prophets and apostles, and some of them they shall slay and persecute: That the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation; From the blood of Abel unto the blood of Zacharias, which perished between the altar and the temple: verily I say unto you, It shall be required of this generation. (Luke 11:49-51, KJV)
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
@@ -53,17 +53,17 @@
 > Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers; But with the precious blood of Christ, as of a lamb without blemish and without spot: Who verily was foreordained before the foundation of the world, but was manifest in these last times for you, (1 Pet. 1:18-20, KJV)
 > And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world. (Rev. 13:8, KJV)
 
-### (3) The meaning of Cain's sacrifice is the fruits of the earth, his own strength, the deeds of man (the devil's Child, rejection of the Word of God, the Covenant, Christ – religion). 1 John 3:12
+### (3) The meaning of Cain's sacrifice is the fruits of the earth, his own strength, and human deeds (Child of the devil, rejection of the Word of God, the Covenant, and Christ – religion). 1 John 3:12
 > Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother’s righteous. (1 John 3:12, KJV)
 
 ## Result:
-- Evil is life outside the Word of God, the Covenant, Christ, man's choice, the root cause of all human evil deeds
-- Goodness is life in the Word of God, the Covenant, Christ, man's choice, the root cause of all right human actions
+- Evil is a life outside the Word of God, the Covenant, Christ, a person's choice, the root cause of all human evil deeds
+- Goodness is life in the Word of God, the Covenant, Christ, a person's choice, the root cause of all right human actions
 
 ## 4) Gen. 4:6-7, - God's mercy to the sinner
 > And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen? If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him. (Gen. 4:6-7, KJV)
 
-#### (a) Understanding sin – non-acceptance of the Word of God, the Covenant, Christ (Living outside the Word of God, the Covenant, Christ, absence of the Commandments of the Law)
+#### (a) The understanding of sin is the rejection of the Word of God, the Covenant, Christ (Living outside the Word of God, the Covenant, Christ, the absence of the Commandments of the Law)
 
 #### (b) God's mercy, love, and longsuffering are a call to accept the Word of God, the Covenant, Christ, and dominion over sin. 1 Tim. 2:4
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
@@ -71,9 +71,9 @@
 ## 5) The importance of understanding faith correctly. Mark 11:23
 > For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith. (Mark 11:23, KJV)
 
-### (1) Human faith is a misunderstanding and incorrect fulfillment of the Word of God, the Covenant, Christ (I believe "in my own way")
+### (1) Human faith is a misunderstanding and incorrect fulfillment of the Word of God, the Covenant, and Christ (I believe "in my own way")
 
-### (2) The Faith of God is the correct understanding and fulfillment of the Word of God, the Covenant, Christ (The Gift of God, the importance of hearing the Word of God) Rom. 10:17,1 Tim. 4:16
+### (2) The faith of God is the correct understanding and fulfillment of the Word of God, the Covenant, and Christ (The Gift of God, the importance of hearing the Word of God) Rom. 10:17,1 Tim. 4:16
 > So then faith cometh by hearing, and hearing by the word of God. (Rom. 10:17, KJV)
 > Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee. (1 Tim. 4:16, KJV)
 

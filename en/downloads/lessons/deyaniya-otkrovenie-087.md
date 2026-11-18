@@ -1,8 +1,8 @@
 # Eph. 4
-## 4.1) Eph. 4:1-6, - the importance of understanding the Word of God, the Covenant, Christ
+## 4.1) Eph. 4:1-6, - the importance of understanding the Word of God, the Covenant, and Christ
 > I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called, With all lowliness and meekness, with longsuffering, forbearing one another in love; Endeavouring to keep the unity of the Spirit in the bond of peace. There is one body, and one Spirit, even as ye are called in one hope of your calling; One Lord, one faith, one baptism, One God and Father of all, who is above all, and through all, and in you all. (Eph. 4:1-6, KJV)
 
-### (1) Eph. 4:1, - the importance of fulfilling the destiny of the people of God – knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
+### (1) Eph. 4:1, - the importance of fulfilling the destiny of God's people – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
 > I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called, (Eph. 4:1, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -21,28 +21,28 @@
 ### (2) Eph. 4:2, - the importance of proper relationships among God's people, the importance of sanctification, fulfillment of destiny
 > With all lowliness and meekness, with longsuffering, forbearing one another in love; (Eph. 4:2, KJV)
 
-### (3) Eph. 4:3, - the importance of the unity of the spirit (acceptance of the Word of God, the Covenant, Christ), the importance of understanding the destiny (union of peace) of the people of God
+### (3) Eph. 4:3, - the importance of the unity of the spirit (acceptance of the Word of God, the Covenant, Christ), the importance of understanding the destiny (union of peace) of God's people
 > Endeavouring to keep the unity of the Spirit in the bond of peace. (Eph. 4:3, KJV)
 
-### (4) Eph. 4:4, - the importance of understanding the Word of God, the Covenant, Christ
+### (4) Eph. 4:4, - the importance of understanding the Word of God, the Covenant, and Christ
 > There is one body, and one Spirit, even as ye are called in one hope of your calling; (Eph. 4:4, KJV)
 
 #### (a) The importance of the Church of Christ – One Body
 
-#### (b) The importance of Action The Holy Spirit is one spiritual
+#### (b) The importance of the Holy Spirit's action is one spiritual
 
 #### (c) The importance of understanding purpose – vocation and title
 
-### (5) Eph. 4:5, - the importance of understanding the Word of God, the Covenant, Christ
+### (5) Eph. 4:5, - the importance of understanding the Word of God, the Covenant, and Christ
 > One Lord, one faith, one baptism, (Eph. 4:5, KJV)
 
 #### (a) The uniqueness of Christ for humanity (one Lord)
 
-#### (b) The uniqueness of God's faith for humanity. (Correct understanding, correct fulfillment of the Word of God, the Covenant, Xp)
+#### (b) The uniqueness of God's faith for humanity. (Correct understanding, correct fulfillment of the Word of God, Covenant, Xp)
 
-#### (c) The uniqueness of God's institutions for mankind. (The importance of properly affirming the Word of God. The Covenant, Christ)
+#### (c) The uniqueness of God's institutions for mankind. (The importance of properly affirming the Word of God. Of the Covenant, of Christ)
 
-### (6) Eph. 4:6, - the importance of understanding the Word of God. Of the Covenant, Christ
+### (6) Eph. 4:6, - the importance of understanding the Word of God. Of the Covenant, of Christ
 > One God and Father of all, who is above all, and through all, and in you all. (Eph. 4:6, KJV)
 
 #### (a) The importance of understanding the Trinity of God – One God
@@ -55,7 +55,7 @@
 
 #### (e) The importance of understanding God's presence in God's children
 
-## 2) Eph. 4:7-16, - the importance of understanding the Word of God, the Covenant, Christ
+## 2) Eph. 4:7-16, - the importance of understanding the Word of God, the Covenant, and Christ
 > But unto every one of us is given grace according to the measure of the gift of Christ. Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men. (Now that he ascended, what is it but that he also descended first into the lower parts of the earth? He that descended is the same also that ascended up far above all heavens, that he might fill all things.) And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ: Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ: That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive; But speaking the truth in love, may grow up into him in all things, which is the head, even Christ: From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love. (Eph. 4:7-16, KJV)
 
 ### (1) Eph. 4:7, - The importance of understanding God's sovereignty
@@ -81,33 +81,33 @@
 ### (4) Eph. 4:10, - the importance of understanding the death and resurrection of Christ, His Divinity and Dominion, and His great love for every human being
 > He that descended is the same also that ascended up far above all heavens, that he might fill all things.) (Eph. 4:10, KJV)
 
-### (5) Eph. 4:11, - the importance of understanding the gifts of the Holy Spirit, the gifts of ministry. (The Gifts of the Holy Spirit are God's source, man's guide)
+### (5) Eph. 4:11, - the importance of understanding the gifts of the Holy Spirit, the gifts of ministry. (The gifts of the Holy Spirit are God the source, man the guide)
 > And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; (Eph. 4:11, KJV)
 
-#### (a) Evangelist – transmission of the Word of God, the Covenant, Christ (communication with people)
+#### (a) Evangelist – transmitting the Word of God, the Covenant, and Christ (connecting with people)
 
-#### (b) Pastor – transmission of the Word of God, the Covenant, Christ (leader of believers)
+#### (b) Pastor – transmission of the Word of God, the Covenant, and Christ (leader of believers)
 
-#### (c) The Teacher – transmission of the Covenant, Christ (arrangement and explanation)
+#### (c) The Teacher – transmission of the Covenant, of Christ (arrangement and explanation)
 
-#### (d) The Prophet – transmission of the Word of God, the Covenant, Christ (proclamation of the will of God)
+#### (d) The Prophet is the transmission of the Word of God, the Covenant, and Christ (proclaiming the will of God)
 
-#### (e) The Apostle is the transmission of the Word of God, the Covenant, Christ (the totality of gifts)
+#### (e) The Apostle is the transmission of the Word of God, the Covenant, and Christ (a set of gifts)
 
 ### (6) Eph. 4:12-13, - the importance of understanding the purpose of the gifts of service
 > For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ: Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ: (Eph. 4:12-13, KJV)
 
-#### (a) The consecration of saints (sanctification, fulfillment of purpose) – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization
+#### (a) The consecration of saints (sanctification, fulfillment of purpose) – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization
 
-#### (b) The work of ministry (human salvation) - knowledge and transmission of the Word of God, the Covenant, Christ, disciples, World Evangelization, preparation for the coming of Christ
+#### (b) The work of ministry (human salvation) – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation of the coming of Christ
 
-#### (c) Building Up the Body of Christ (the Church) – knowledge and transmission of the Word of God, the Covenants, Christ, the Disciples, Worldwide Evangelization
+#### (c) Building up the Body of Christ (the Church) – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization
 
-#### (d) The unity of faith and knowledge of the Son of God – knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization
+#### (d) The unity of faith and knowledge of the Son of God – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization
 
-#### (e) Reaching the full measure of the age of Christ (sanctification) – knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization
+#### (e) Reaching the full measure of the age of Christ (sanctification) – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization
 
-### (7) Eph. 4:14, - the importance of accurately understanding the Word of God, the Covenant, Christ, the importance of understanding the work of Satan (other teachings), the importance of the spiritual growth of God's people
+### (7) Eph. 4:14, - the importance of an accurate understanding of the Word of God, the Covenant, Christ, the importance of understanding the work of Satan (other teachings), the importance of the spiritual growth of the people of God
 > That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive; (Eph. 4:14, KJV)
 
 ### (8) Eph. 4:15, - the importance of God's love and the Christocentric teaching and life of God's people, the fulfillment of destiny
@@ -127,7 +127,7 @@
 ## 3) Eph. 4:17-24, - the importance of sanctifying God's people
 > This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind, Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart: Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness. But ye have not so learned Christ; If so be that ye have heard him, and have been taught by him, as the truth is in Jesus: That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts; And be renewed in the spirit of your mind; And that ye put on the new man, which after God is created in righteousness and true holiness. (Eph. 4:17-24, KJV)
 
-### (1) Eph. 4:17-19, - ignorance of the Word of God, the Covenant, Christ, the wrong life
+### (1) Eph. 4:17-19, - ignorance of the Word of God, the Covenant, Christ, wrong life
 > This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind, Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart: Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness. (Eph. 4:17-19, KJV)
 
 ### (2) Eph. 4:20-21, - the importance of knowing the Word of God, the Covenant, Christ, the importance of knowing Christ (hearing and teaching)
@@ -136,10 +136,10 @@
 ### (3) Eph. 4:22, - the importance of changing a person's life. (Man's decision, the act of God's grace)
 > That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts; (Eph. 4:22, KJV)
 
-### (4) Eph. 4:23, - the importance of knowing the Word of God, the Covenant, Christ, and learning. (To be renewed by the spirit of our mind is man's decision, God's grace)
+### (4) Eph. 4:23, - the importance of knowing the Word of God, the Covenant, Christ, and learning. (To be renewed by the spirit of our mind is a human decision, the grace of God)
 > And be renewed in the spirit of your mind; (Eph. 4:23, KJV)
 
-### (5) Eph. 4:24, - the importance of sanctification and human change. (To put on a new person – being born again, accepting the Word of God)
+### (5) Eph. 4:24, - the importance of sanctification and human transformation. (To put on a new person – being born again, accepting the Word of God)
 > And that ye put on the new man, which after God is created in righteousness and true holiness. (Eph. 4:24, KJV)
 
 ## 4) Eph. 4:25-32, - the importance of knowing the Word of God, the Covenant, Christ, the importance of sanctification and the right life of God's people
@@ -160,17 +160,17 @@
 
 #### (c) Doing the right thing (physical level)
 
-### (4) Eph. 4:28, - rejection of theft, the importance of work for people
+### (4) Eph. 4:28, - rejection of theft, the importance of work for man
 > Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth. (Eph. 4:28, KJV)
 
 ### (5) Eph. 4:29, - rejection of incorrect words
 > Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers. (Eph. 4:29, KJV)
 
-#### (a) The importance of correctly proclaiming the Word of God, the Covenant, Christ
+#### (a) The importance of correctly proclaiming the Word of God, the Covenant, and Christ
 
 #### (b) The importance of proper communication with others
 
-### (6) Eph. 4:30, - rejection of offending the Holy Spirit (Wrong words about God, distortion of the Word of God, the Covenant, Christ)
+### (6) Eph. 4:30, - rejection of the offense of the Holy Spirit (Incorrect words about God, distortion of the Word of God, the Covenant, Christ)
 > And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption. (Eph. 4:30, KJV)
 
 ### (7) Eph. 4:31, - rejection of irritation and rage, anger and shouting, slander and malice in the life of the people of God
@@ -181,7 +181,7 @@
 
 ## Conclusion:
 
-### (1) The importance of deeply understanding the Word of God. Of the Covenant, Christ
+### (1) The importance of a deep understanding of God's Word. Of the Covenant, of Christ
 
 ### (2) The importance of understanding God's Gifts of Service
 

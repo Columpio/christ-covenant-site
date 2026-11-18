@@ -1,7 +1,7 @@
 # 2 Cor. 8–10
 ## 4.1) 2 Cor. 8, - the importance of fulfilling purpose, financial service to the people of God
 
-### (1) 2 Cor. 8:1-5, is the financial ministry of the Macedonian Churches, fulfilling the destiny of the people of God. (Knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the Coming of Christ) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
+### (1) 2 Cor. 8:1-5, is the financial ministry of the Macedonian Churches, fulfilling the destiny of the people of God. (Knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the Coming of Christ) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
 > Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia; How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality. For to their power, I bear record, yea, and beyond their power they were willing of themselves; Praying us with much intreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints. And this they did, not as we hoped, but first gave their own selves to the Lord, and unto us by the will of God. (2 Cor. 8:1-5, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -26,7 +26,7 @@
 ### (4) 2 Cor. 8:9, - understanding the example of Jesus Christ, living for the sake of fulfilling God's will, and loving a person
 > For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich. (2 Cor. 8:9, KJV)
 
-### (5) 2 Cor. 8:10-11, - Paul's call to the fulfillment of the finale ministry, fulfilling the purpose of the Corinthian Church
+### (5) 2 Cor. 8:10-11, - Paul's call to financial ministry, fulfilling the purpose of the Corinthian Church
 > And herein I give my advice: for this is expedient for you, who have begun before, not only to do, but also to be forward a year ago. Now therefore perform the doing of it; that as there was a readiness to will, so there may be a performance also out of that which ye have. (2 Cor. 8:10-11, KJV)
 
 ### (6) 2 Cor. 8:12-15, - the importance of proper financial service to the extent possible (tithing and offerings)
@@ -36,7 +36,7 @@
 
 #### (b) Support for God's people in difficult situations
 
-#### (c) The inadmissibility of manipulating and robbing the people of God. (False teachings and accents are violations of the institutions of the Word of God)
+#### (c) The inadmissibility of manipulating and robbing the people of God. (False teachings and accents are violations of the precepts of the Word of God)
 
 ### (7) 2 Cor. 8:16-24, - the importance of team service, the importance of the order and control of the ministry of the people of God. (The ministry of Titus and the brothers is the fulfillment of destiny)
 > But thanks be to God, which put the same earnest care into the heart of Titus for you. For indeed he accepted the exhortation; but being more forward, of his own accord he went unto you. And we have sent with him the brother, whose praise is in the gospel throughout all the churches; And not that only, but who was also chosen of the churches to travel with us with this grace, which is administered by us to the glory of the same Lord, and declaration of your ready mind: Avoiding this, that no man should blame us in this abundance which is administered by us: Providing for honest things, not only in the sight of the Lord, but also in the sight of men. And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which I have in you. Whether any do enquire of Titus, he is my partner and fellowhelper concerning you: or our brethren be enquired of, they are the messengers of the churches, and the glory of Christ. Wherefore shew ye to them, and before the churches, the proof of your love, and of our boasting on your behalf. (2 Cor. 8:16-24, KJV)
@@ -49,14 +49,14 @@
 ### (2) 2 Cor. 9:6-11, - the importance of proper financial service to the extent possible (tithing and offerings)
 > But this I say, He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully. Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver. And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work: (As it is written, He hath dispersed abroad; he hath given to the poor: his righteousness remaineth for ever. Now he that ministereth seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;) Being enriched in every thing to all bountifulness, which causeth through us thanksgiving to God. (2 Cor. 9:6-11, KJV)
 
-### (3) 2 Cor. 9:12-14, - the final service of the people of God, the support of the people of God, the accomplishment of World Evangelization, thanksgiving and glorification of God
+### (3) 2 Cor. 9:12-14, - financial service to the people of God, support for the people of God, Worldwide Evangelization, thanksgiving and glorification of God
 > For the administration of this service not only supplieth the want of the saints, but is abundant also by many thanksgivings unto God; Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men; And by their prayer for you, which long after you for the exceeding grace of God in you. (2 Cor. 9:12-14, KJV)
 
 ### (4) 2 Cor. 9:14-15, - Participation in financial service is a gift and an act of God's grace among God's people. John 15:5
 > And by their prayer for you, which long after you for the exceeding grace of God in you. Thanks be unto God for his unspeakable gift. (2 Cor. 9:14-15, KJV)
 > I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing. (John 15:5, KJV)
 
-## 3) 2 Cor. 10, - the importance of accepting the Word of God, the Covenant, Christ, for man, purity of teaching, understanding the actions of Satan (Resisting the Word of God, the Covenant, Christ, false teachers, false apostles)
+## 3) 2 Cor. 10, - the importance of accepting the Word of God, the Covenant, Christ, for man, the purity of teaching, understanding the work of Satan (Resisting the Word of God, the Covenant, Christ, false teachers, false apostles)
 
 ### (1) 2 Cor. 10:1-2, - false accusations and criticism of Paul in Corinth, false teachers, rejection of the Word of God, the Covenant, Christ
 > Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence am base among you, but being absent am bold toward you: But I beseech you, that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh. (2 Cor. 10:1-2, KJV)
@@ -64,13 +64,13 @@
 ### (2) 2 Cor. 10:3-6, - correct understanding of spiritual warfare, affirmation of the Word of God, the Covenant, Christ, the right to choose a person
 > For though we walk in the flesh, we do not war after the flesh: (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;) Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ; And having in a readiness to revenge all disobedience, when your obedience is fulfilled. (2 Cor. 10:3-6, KJV)
 
-### (3) 2 Cor. 10:7-11, - problems of the Corinthian Church, inaccurate understanding of the Word of God, the Covenant, Christ, the importance of the 1st epistle to Corinth, the importance of chastising and correcting the people of God
+### (3) 2 Cor. 10:7-11, - problems of the Corinthian Church, inaccurate understanding of the Word of God, the Covenant, Christ, the importance of the 1st epistle to Corinth, the importance of chastisement and correction of the people of God
 > Do ye look on things after the outward appearance? If any man trust to himself that he is Christ’s, let him of himself think this again, that, as he is Christ’s, even so are we Christ’s. For though I should boast somewhat more of our authority, which the Lord hath given us for edification, and not for your destruction, I should not be ashamed: That I may not seem as if I would terrify you by letters. For his letters, say they, are weighty and powerful; but his bodily presence is weak, and his speech contemptible. Let such an one think this, that, such as we are in word by letters when we are absent, such will we be also in deed when we are present. (2 Cor. 10:7-11, KJV)
 
-### (4) 2 Cor. 10:10-13, - the influence of false teachers in the Corinthian Church, the right to choose a person, an inaccurate understanding of the Word of God, the Covenant, Christ
+### (4) 2 Cor. 10:10-13, - the influence of false teachers in the Church of Corinth, the right to choose a person, an inaccurate understanding of the Word of God, the Covenant, Christ
 > For his letters, say they, are weighty and powerful; but his bodily presence is weak, and his speech contemptible. Let such an one think this, that, such as we are in word by letters when we are absent, such will we be also in deed when we are present. For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise. But we will not boast of things without our measure, but according to the measure of the rule which God hath distributed to us, a measure to reach even unto you. (2 Cor. 10:10-13, KJV)
 
-### (5) 2 Cor. 10:14-16, - the importance of understanding and fulfilling the purpose of God's people in all situations. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+### (5) 2 Cor. 10:14-16, - the importance of understanding and fulfilling the purpose of God's people in all situations. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 > For we stretch not ourselves beyond our measure, as though we reached not unto you: for we are come as far as to you also in preaching the gospel of Christ: Not boasting of things without our measure, that is, of other men’s labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly, To preach the gospel in the regions beyond you, and not to boast in another man’s line of things made ready to our hand. (2 Cor. 10:14-16, KJV)
 
 ### (6) 2 Cor. 10:17-18, - understanding God's sovereignty, the importance of understanding God's judgment on God's people

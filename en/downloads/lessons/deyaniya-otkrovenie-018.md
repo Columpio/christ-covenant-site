@@ -48,18 +48,18 @@
 ### (3) Jas. 1:12-15, - the importance of understanding the reason for temptations
 > Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him. Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man: But every man is tempted, when he is drawn away of his own lust, and enticed. Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death. (Jas. 1:12-15, KJV)
 
-#### (a) Jas. 1:12, - importance of trials, human choice (motives), preservation of the Word of God, Covenant, Christ, salvation, eternal life with God
+#### (a) Jas. 1:12, - the importance of trials, the choice of a person (motives), the preservation of the Word of God, the Covenant, Christ, salvation, eternal life with God
 > Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him. (Jas. 1:12, KJV)
 
-#### (b) 1 Cor. 10:13, - God's understanding of sovereignty and control over the trials and temptations of God's people
+#### (b) 1 Cor. 10:13, - Understanding God's sovereignty and control over the trials and temptations of God's people
 > There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it. (1 Cor. 10:13, KJV)
 
 #### (c) Jas. 1:13-15, - the importance of understanding the process of temptation: thoughts (temptations) – desires (lust) – deeds – death. (Lust is a wrong, very strong human desire, contrary to the standards of the Word of God, a violation of the Word of God)
 > Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man: But every man is tempted, when he is drawn away of his own lust, and enticed. Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death. (Jas. 1:13-15, KJV)
 
-#### (d) The reason for man's temptations is the influence of the sinful essence, the world, Satan (ideology and worldview – man's lusts)
+#### (d) The cause of human temptations is the influence of the sinful essence, the world, Satan (ideology and worldview – human desires)
 
-#### (e) The importance of knowing and transmitting the Word of God, the Covenant, and Christ as God's method of resisting temptation for man. (Forming the right ideology and worldview)
+#### (e) The importance of knowing and transmitting the Word of God, the Covenant, and Christ is God's method of resisting human temptations. (Forming the right ideology and worldview)
 
 ### (4) Jas. 1:16-25, - understanding God and the purpose of the Church
 > Do not err, my beloved brethren. Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning. Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures. Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath: For the wrath of man worketh not the righteousness of God. Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls. But be ye doers of the word, and not hearers only, deceiving your own selves. For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass: For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was. But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed. (Jas. 1:16-25, KJV)
@@ -68,10 +68,10 @@
 > Do not err, my beloved brethren. Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning. (Jas. 1:16-17, KJV)
 > And we know that all things work together for good to them that love God, to them who are the called according to his purpose. (Rom. 8:28, KJV)
 
-#### (b) Jas. 1:18, - understanding God's method of salvation, the importance of accepting the Word of God, the Covenant, Christ, the right to choose a person
+#### (b) Jas. 1:18, - understanding God's method of salvation, the importance of accepting the Word of God, the Covenant, Christ, and the right to choose a person
 > Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures. (Jas. 1:18, KJV)
 
-#### (c) Jas. 1:19-21, - the importance of learning, accepting the Word of God, the Covenant, Christ (More listening, less words and emotions – a proper life)
+#### (c) Jas. 1:19-21, - the importance of learning, acceptance of the Word of God, the Covenant, Christ (More listening, less words and emotions – a proper life)
 > Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath: For the wrath of man worketh not the righteousness of God. Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls. (Jas. 1:19-21, KJV)
 
 #### (d) Jas. 1:22-25, - the importance of fulfilling the Word of God, theory and practice. (The Law of Freedom – understanding of Christ and His Sacrifice, purpose)
@@ -87,9 +87,9 @@
 
 #### (b) Justified Himself in the Spirit – the fulfillment of the Word of God, the salvation of man
 
-#### (c) He showed Himself to the Angels – the confirmation and fulfillment of the Father's will, the crushing of Satan and his authority, the promise of the 2nd coming
+#### (c) He showed Himself to the Angels – the confirmation and fulfillment of the Father's will, the crushing of Satan and his power, the promise of the 2nd coming
 
-#### (d) Preached among the nations – the uniqueness of Christ for the salvation of the human race, an understanding of the will of God and the actions of the Holy Spirit
+#### (d) Preached among the nations – the uniqueness of Christ for the salvation of the human race, an understanding of the will of God and the action of the Holy Spirit
 
 #### (e) Accepted by faith in the world – the effect of God's grace, the importance of accepting the Word of God, the Covenant, and Christ for the salvation of every human being
 
@@ -98,7 +98,7 @@
 ### (2) Jas. 1:26-27, - a true life of piety
 > If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion is vain. Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world. (Jas. 1:26-27, KJV)
 
-#### (a) Acceptance and knowledge of the Word of God, the Covenant, Christ, the mystery of Godliness. (Understanding Who is Christ? The purpose of His visit?)
+#### (a) Acceptance and knowledge of the Word of God, the Covenant, Christ, the mystery of piety. (Understanding Who is Christ? The purpose of His visit?)
 
 #### (b) The transmission of the Word of God, the Covenant, Christ, the importance of proclaiming the right words, the importance of curbing language. (Spiritual – the Word of God, the Covenant, Christ, spiritual – the right thoughts, physical – the right words for every person)
 
@@ -106,7 +106,7 @@
 
 #### (d) Helping one's neighbor – the spiritual, mental, and physical needs of every person (especially widows and orphans)
 - Bottom line (actual piety):
-- Knowledge and transmission of the Word of God, the Covenant, Christ – sanctification – helping one's neighbor (spiritual, mental and physical). Acts 10:1-2
+- Knowledge and transmission of the Word of God, the Covenant, and Christ – sanctification – helping one's neighbor (spiritually, mentally, and physically). Acts 10:1-2
 
 > There was a certain man in Cæsarea called Cornelius, a centurion of the band called the Italian band, A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway. (Acts 10:1-2, KJV)
 

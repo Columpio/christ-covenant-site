@@ -1,5 +1,5 @@
-# 17. 1 Cor. 12, 14: Baptism of the Holy Spirit Salvation is the Holy Spirit in man. (Salvation is Emmanuel, God together with man, rebirth, restoration to his original form, lawful liberation from the power of sin, death and hell, Satan)
-- Baptism of the Holy Spirit (God's Anointing) is the Holy Spirit on a person. (Acceptance of the power of God, deep knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation of the coming of Christ, fulfillment of the will of God)
+# 17. 1 Cor. 12, 14: The Baptism of the Holy Spirit Salvation is the Holy Spirit in man. (Salvation is Emmanuel, God together with man, rebirth, restoration to his original form, lawful liberation from the power of sin, death and hell, Satan)
+- The Baptism of the Holy Spirit (Anointing of God) is the Holy Spirit on a person. (Acceptance of the power of God, deep knowledge, transmission of the Word of God, the Covenant, Christ, disciples, Worldwide Evangelization, preparation for the coming of Christ, fulfillment of God's will)
 
 ## 1) Understanding Creation, the Fall, and Restoration
 
@@ -38,11 +38,11 @@
 > I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved. (Hab. 2:1, KJV)
 > But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his. (Rom. 8:9, KJV)
 
-### (2) Baptism of the Holy Spirit in V.Z. – The Holy Spirit on man, the importance of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, World Evangelization, the coming of Christ
+### (2) The Baptism of the Holy Spirit in V.Z. – The Holy Spirit on man, the importance of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ
 
 #### (a) Only Kings, Priests, and Prophets, not all of God's people
 
-#### (b) The step–by-step action of God - acceptance of salvation, baptism, etc., the action of the gifts of the Holy Spirit, except for the gift of "other tongues" Judg. 3:10; 11:29,1 Sam. 10:9-10; 16:13,Isa. 61:1,Luke 2:25
+#### (b) God's step–by-step action - acceptance of salvation, baptism, etc., the effect of the gifts of the Holy Spirit, except for the gift of "other tongues" Judg. 3:10; 11:29,1 Sam. 10:9-10; 16:13,Isa. 61:1,Luke 2:25
 > And the Spirit of the LORD came upon him, and he judged Israel, and went out to war: and the LORD delivered Chushan-rishathaim king of Mesopotamia into his hand; and his hand prevailed against Chushan-rishathaim. (Judg. 3:10, KJV)
 > Then the Spirit of the LORD came upon Jephthah, and he passed over Gilead, and Manasseh, and passed over Mizpeh of Gilead, and from Mizpeh of Gilead he passed over unto the children of Ammon. (Judg. 11:29, KJV)
 > And it was so, that when he had turned his back to go from Samuel, God gave him another heart: and all those signs came to pass that day. And when they came thither to the hill, behold, a company of prophets met him; and the Spirit of God came upon him, and he prophesied among them. (1 Sam. 10:9-10, KJV)
@@ -50,9 +50,9 @@
 > The Spirit of the Lord GOD is upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound; (Isa. 61:1, KJV)
 > And, behold, there was a man in Jerusalem, whose name was Simeon; and the same man was just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him. (Luke 2:25, KJV)
 
-## 3) Salvation and Baptism by the Holy Spirit in the ministry of Christ
+## 3) Salvation and the Baptism of the Holy Spirit in the ministry of Christ
 
-### (1) Salvation, rebirth in the ministry of Christ - the Holy Spirit in man, Em-l John 3:16-18, 36, Luke 19:1-10
+### (1) Salvation, rebirth in the service of Christ – The Holy Spirit in man, Em-l John 3:16-18, 36,Luke 19:1-10
 > For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. For God sent not his Son into the world to condemn the world; but that the world through him might be saved. He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God. (John 3:16-18, KJV)
 > He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him. (John 3:36, KJV)
 > And Jesus entered and passed through Jericho. And, behold, there was a man named Zacchæus, which was the chief among the publicans, and he was rich. And he sought to see Jesus who he was; and could not for the press, because he was little of stature. And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that way. And when Jesus came to the place, he looked up, and saw him, and said unto him, Zacchæus, make haste, and come down; for to day I must abide at thy house. And he made haste, and came down, and received him joyfully. And when they saw it, they all murmured, saying, That he was gone to be guest with a man that is a sinner. And Zacchæus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold. And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham. For the Son of man is come to seek and to save that which was lost. (Luke 19:1-10, KJV)
@@ -69,14 +69,14 @@
 > That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man; That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love, (Eph. 3:16-17, KJV)
 > Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints: To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory: (Col. 1:26-27, KJV)
 
-### (2) Baptism of the Holy Spirit in N.Z. – The Holy Spirit on man, the importance of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, World Evangelization, the coming of Christ. Acts 1:8
+### (2) The Baptism of the Holy Spirit in N.Z. – The Holy Spirit on man, the importance of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ. Acts 1:8
 > But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth. (Acts 1:8, KJV)
 
 ## 5) Examples of receiving the Holy Spirit in N.Z.
 
-### (1) Acts 2, - acceptance of the Word of God, the Covenant, Christ, (John), there is no imposition
+### (1) Acts 2, - acceptance of the Word of God, the Covenant, Christ, (Jn.), there is no imposition
 
-### (2) Acts 8:12, 14-17, - acceptance of the Word of God, the Covenant, Christ, (no jn. yaz.),
+### (2) Acts 8:12, 14-17, - acceptance of the Word of God, the Covenant, of Christ, (no jn. yaz.),
 > But when they believed Philip preaching the things concerning the kingdom of God, and the name of Jesus Christ, they were baptized, both men and women. (Acts 8:12, KJV)
 > Now when the apostles which were at Jerusalem heard that Samaria had received the word of God, they sent unto them Peter and John: Who, when they were come down, prayed for them, that they might receive the Holy Ghost: (For as yet he was fallen upon none of them: only they were baptized in the name of the Lord Jesus.) Then laid they their hands on them, and they received the Holy Ghost. (Acts 8:14-17, KJV)
 
@@ -86,20 +86,20 @@
 ### (4) Acts 9:17, - acceptance of the Word of God, the Covenant, Christ, (no jn.), laying on
 > And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, even Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost. (Acts 9:17, KJV)
 
-### (5) Acts 10:44; 11:17 (11:17), - acceptance of the Word of God, the Covenant, Christ, (John), no.
+### (5) Acts 10:44; 11:17 (11:17), - acceptance of the Word of God, the Covenant, of Christ, (Jn.
 > While Peter yet spake these words, the Holy Ghost fell on all them which heard the word. (Acts 10:44, KJV)
 > Forasmuch then as God gave them the like gift as he did unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God? (Acts 11:17, KJV)
 
 ### (6) Acts 19:4, - acceptance of the Word of God, the Covenant, Christ, (John), laying on
 > Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus. (Acts 19:4, KJV)
 
-## 6) The importance of properly understanding the acceptance of the Holy Spirit
+## 6) The importance of properly understanding the reception of the Holy Spirit
 
 ### (1) Acceptance of salvation (rebirth) – The Holy Spirit within man
 
 ### (2) Receiving the Baptism of the Holy Spirit – The Holy Spirit on a person
 
-### (3) One–time or step-by-step acceptance of the Holy Spirit - God sovereignty
+### (3) The one–time or step-by-step reception of the Holy Spirit is God's sovereignty
 
 ### (4) Not always the laying on of hands. Acts 8:36; 10:44
 > And as they went on their way, they came unto a certain water: and the eunuch said, See, here is water; what doth hinder me to be baptized? (Acts 8:36, KJV)
@@ -107,7 +107,7 @@
 
 ### (5) The sign of other tongues is not always one of the gifts of the Holy Spirit.
 
-### (6) Always understanding, confessing and transmitting the Word of God, the Covenant, Christ
+### (6) Always understanding, confessing, and communicating the Word of God, the Covenant, and Christ
 
 ## 7) Understanding the gift of "other languages"
 
@@ -125,14 +125,14 @@
 ### (4) Mark 16:17, - believers (plural, Church)
 > And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues; (Mark 16:17, KJV)
 
-## 8) Witness to Salvation and Baptism by the Holy Spirit
+## 8) Witness to Salvation and the Baptism of the Holy Spirit
 
 ### (1) The confession of man. Rom. 10:9,1 Pet. 3:15,2 Cor. 13:5
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 > But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear: (1 Pet. 3:15, KJV)
 > Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates? (2 Cor. 13:5, KJV)
 
-### (2) Knowledge of the Word of God, the Covenant, Christ, Teaching, Local Church
+### (2) Knowledge of the Word of God, the Covenant, Christ, teaching, local Church
 
 ### (3) Transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization, the Coming of Christ
 
@@ -142,12 +142,12 @@
 
 ## 9) Correct verification of "other languages"
 
-### (1) "Other tongues" is a test of the spirit, a test of the anointed one. (Understanding and professing the Word of God, the Covenant, Christ) Rom. 10:9, - 1 John 4:1,2 John 1:9
+### (1) "Other tongues" is a test of the spirit, a test of the anointed one. (Understanding and professing the Word of God, the Covenant, and Christ) Rom. 10:9, - 1 John 4:1,2 John 1:9
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 > Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world. (1 John 4:1, KJV)
 > Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son. (2 John 1:9, KJV)
 
-### (2) Verification of the anointed one – the conformity of actions to the Word of God (The impossibility of contradicting the actions of the Holy Spirit to the Word of God)
+### (2) The test of the anointed one is the conformity of the actions of the Word of God (The impossibility of contradicting the actions of the Holy Spirit to the Word of God)
 
 ### (3) Miracles and signs are not a criterion of God's anointing
 
@@ -171,22 +171,22 @@
 #### (c) Chastisement – conformity to the Word of God Matt. 18:15-17
 > Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother. But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established. And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican. (Matt. 18:15-17, KJV)
 
-### (6) Separation of prophecy and "other language" 1 Cor. 14:1-5, 39-40. (God's priority in the ministry of the people is the proclamation of the Word of God, the Covenant, Christ)
+### (6) Separation of prophecy and "other language" 1 Cor. 14:1-5, 39-40. (The priority in the ministry of God's people is the proclamation of the Word of God, the Covenant, and Christ)
 > Follow after charity, and desire spiritual gifts, but rather that ye may prophesy. For he that speaketh in an unknown tongue speaketh not unto men, but unto God: for no man understandeth him; howbeit in the spirit he speaketh mysteries. But he that prophesieth speaketh unto men to edification, and exhortation, and comfort. He that speaketh in an unknown tongue edifieth himself; but he that prophesieth edifieth the church. I would that ye all spake with tongues, but rather that ye prophesied: for greater is he that prophesieth than he that speaketh with tongues, except he interpret, that the church may receive edifying. (1 Cor. 14:1-5, KJV)
 > Wherefore, brethren, covet to prophesy, and forbid not to speak with tongues. Let all things be done decently and in order. (1 Cor. 14:39-40, KJV)
 
-## 10) Problems of Receiving the Baptism of the Holy Spirit
+## 10) Problems of receiving the Baptism of the Holy Spirit
 
-### (1) Failure to accept the Word of God, the Covenant, Christ - no salvation and baptism of the Holy Spirit
+### (1) Rejection of the Word of God, the Covenant, and Christ – there is no salvation and no baptism of the Holy Spirit
 
-### (2) God has his own motives for not accepting the destiny of the people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+### (2) The rejection of the destiny of God's people has its own motives. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization, the Coming of Christ)
 
 ### (3) Prayer for the Baptism of the Holy Spirit is a 100% answer, faith. Luke 11:11-13. (Simplicity, not mysticism – a requirement of other languages, a violation of the Word of God)
 > If a son shall ask bread of any of you that is a father, will he give him a stone? or if he ask a fish, will he for a fish give him a serpent? Or if he shall ask an egg, will he offer him a scorpion? If ye then, being evil, know how to give good gifts unto your children: how much more shall your heavenly Father give the Holy Spirit to them that ask him? (Luke 11:11-13, KJV)
 
-### (4) Loss of the Baptism of the Holy Spirit - rejection of the Word of God, the Covenant, Christ, false teaching. (Loss of salvation, sin unto death, no Emmanuel, perdition of man)
+### (4) The loss of the Baptism of the Holy Spirit is a rejection of the Word of God, the Covenant, Christ, and false teachings. (Loss of salvation, sin to death, no Emmanuel, death of man)
 
-### (5) The quenching of the Holy Spirit – the abandonment of destiny, the loss of the power of the Holy Spirit
+### (5) The quenching of the Holy Spirit is the abandonment of destiny, the loss of the power of the Holy Spirit
 
 ## 11) Misunderstanding of the Baptism of the Holy Spirit
 
@@ -194,7 +194,7 @@
 
 ### (2) Other languages as conditions for salvation and the baptism of the Holy Spirit
 
-## 12) Fulfillment of the Holy Spirit is a special action of the Holy Spirit through man in the knowledge and transmission of the Word of God, the Covenant, Christ Acts 4:8; 7:55, – Eph. 5:18. (Fulfillment of the Holy Spirit is the knowledge and transmission of the Word of God, the Covenant, Christ)
+## 12) The fulfillment of the Holy Spirit is a special action of the Holy Spirit through a person in the knowledge and transmission of the Word of God, the Covenant, Christ Acts 4:8; 7:55, – Eph. 5:18. (The fulfillment of the Holy Spirit is the knowledge and transmission of the Word of God, the Covenant, Christ)
 > Then Peter, filled with the Holy Ghost, said unto them, Ye rulers of the people, and elders of Israel, (Acts 4:8, KJV)
 > But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God, (Acts 7:55, KJV)
 > And be not drunk with wine, wherein is excess; but be filled with the Spirit; (Eph. 5:18, KJV)
@@ -203,6 +203,6 @@
 
 ### (1) The importance of understanding the immutability of God and His actions
 
-### (2) The Importance of Understanding Salvation and the Baptism of the Holy Spirit
+### (2) The importance of Understanding Salvation and the Baptism of the Holy Spirit
 
 ### (3) The importance of understanding the work of Satan – false teachings, false gifts, false anointed ones (a statement of another word)

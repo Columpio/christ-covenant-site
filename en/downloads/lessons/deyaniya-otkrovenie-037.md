@@ -6,7 +6,7 @@
 
 #### (a) The people of God – acceptance of the Word of God, the Covenant, Christ, believers in Christ
 
-#### (b) The advantage of God's people is understanding and transmitting the Word of God Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
+#### (b) The advantage of the people of God is the understanding and transmission of the Word of God Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
@@ -21,11 +21,11 @@
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-#### (c) The rejection of the Word of God, the Covenant, Christ is the false people of God. Gal. 3:7, 29
+#### (c) The rejection of the Word of God, the Covenant, and Christ – the false people of God. Gal. 3:7, 29
 > Know ye therefore that they which are of faith, the same are the children of Abraham. (Gal. 3:7, KJV)
 > And if ye be Christ’s, then are ye Abraham’s seed, and heirs according to the promise. (Gal. 3:29, KJV)
 
-### (2) Rom. 3:3-8, - non-acceptance of the Word of God, the Covenant, Christ, destiny. (Jews)
+### (2) Rom. 3:3-8, - rejection of the Word of God, the Covenant, Christ, destiny. (Jews)
 > For what if some did not believe? shall their unbelief make the faith of God without effect? God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged. But if our unrighteousness commend the righteousness of God, what shall we say? Is God unrighteous who taketh vengeance? (I speak as a man) God forbid: for then how shall God judge the world? For if the truth of God hath more abounded through my lie unto his glory; why yet am I also judged as a sinner? And not rather, (as we be slanderously reported, and as some affirm that we say,) Let us do evil, that good may come? whose damnation is just. (Rom. 3:3-8, KJV)
 
 #### (a) Rom. 3:3, - the unfaithfulness of the Jews, the rejection of Jesus of Nazareth as Christ, the Messiah, the rejection of the destiny of the people of God
@@ -34,7 +34,7 @@
 #### (b) Rom. 3:3-4, - the unfaithfulness of the Jews, the affirmation of God's faithfulness, the coming of Christ, the redemption of mankind
 > For what if some did not believe? shall their unbelief make the faith of God without effect? God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged. (Rom. 3:3-4, KJV)
 
-#### (c) Rom. 3:5-7, - understanding the judgment of God, the importance of accepting and fulfilling the Word of God, the Covenant, Christ (the right to choose a person)
+#### (c) Rom. 3:5-7, - understanding the judgment of God, the importance of accepting and fulfilling the Word of God, the Covenant, and Christ (the right to choose a person)
 > But if our unrighteousness commend the righteousness of God, what shall we say? Is God unrighteous who taketh vengeance? (I speak as a man) God forbid: for then how shall God judge the world? For if the truth of God hath more abounded through my lie unto his glory; why yet am I also judged as a sinner? (Rom. 3:5-7, KJV)
 
 #### (d) Rom. 3:8, - distortion of the Word of God, the Covenant, Christ (evil serves for good), the importance of the right life of God's people
@@ -74,19 +74,19 @@
 ### (2) Rom. 3:24-30, - justification of man, redemption, fulfillment of the Word of God
 > Being justified freely by his grace through the redemption that is in Christ Jesus: Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God; To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus. Where is boasting then? It is excluded. By what law? of works? Nay: but by the law of faith. Therefore we conclude that a man is justified by faith without the deeds of the law. Is he the God of the Jews only? is he not also of the Gentiles? Yes, of the Gentiles also: Seeing it is one God, which shall justify the circumcision by faith, and uncircumcision through faith. (Rom. 3:24-30, KJV)
 
-#### (a) Rom. 3:24, - redemption, justification, and forgiveness of man are possible only through the Sacrifice and Blood of Christ (judgment is the Word of God)
+#### (a) Rom. 3:24, - redemption, justification and forgiveness of man is possible only through the Sacrifice and Blood of Christ (sentence of the Word of God)
 > Being justified freely by his grace through the redemption that is in Christ Jesus: (Rom. 3:24, KJV)
 
 #### (b) Rom. 3:25, is the sacrifice of Christ, the fulfillment of God's promise. (The forgiveness of all sins committed before, God's confirmation of salvation before and in V.Z. – faith and trust in Christ, not the Law)
 > Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God; (Rom. 3:25, KJV)
 
-#### (c) Rom. 3:26, - the importance of the coming of Christ (the longsuffering of God), the importance of accepting the Word of God, the Covenant, Christ for every human being. (The testimony of God's truth at this time, Emmanuel, the justification of every believer through the Sacrifice of Christ)
+#### (c) Rom. 3:26, - the importance of the coming of Christ (the longsuffering of God), the importance of accepting the Word of God, the Covenant, and Christ for every human being. (The testimony of God's truth at this time, Emmanuel, the justification of every believer through the Sacrifice of Christ)
 > To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus. (Rom. 3:26, KJV)
 
 #### (d) Rom. 3:27, - The Law of Works (death), the Law of Faith (eternal life)
 > Where is boasting then? It is excluded. By what law? of works? Nay: but by the law of faith. (Rom. 3:27, KJV)
 
-#### (e) Rom. 3:28, - the importance of correctly understanding and fulfilling the Word of God, the Covenant, Christ (the Sacrifice of Christ), the faith of God, understanding the only way to justify man. Gal. 2:16, 21
+#### (e) Rom. 3:28, - the importance of correct understanding and fulfillment of the Word of God, the Covenant, Christ (the Sacrifice of Christ), the faith of God, understanding the only way to justify a person. Gal. 2:16, 21
 > Therefore we conclude that a man is justified by faith without the deeds of the law. (Rom. 3:28, KJV)
 > Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified. (Gal. 2:16, KJV)
 > I do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead in vain. (Gal. 2:21, KJV)
@@ -101,7 +101,7 @@
 
 #### (a) The Law – to realize the problem of sin (legitimate application)
 
-#### (b) Christ is God, the method of salvation (indication and completion of the Law)
+#### (b) Christ is God's method of salvation (indication and completion of the Law)
 
 ## Conclusion:
 

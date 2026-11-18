@@ -53,7 +53,7 @@
 > Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers; But with the precious blood of Christ, as of a lamb without blemish and without spot: Who verily was foreordained before the foundation of the world, but was manifest in these last times for you, (1 Pet. 1:18-20, KJV)
 > And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world. (Rev. 13:8, KJV)
 
-## 2) Proper understanding of Easter and Unleavened Bread – the importance of proper understanding of the Word of God, the Covenant, Christ
+## 2) A proper understanding of Easter and Unleavened Bread is the importance of a proper understanding of the Word of God, the Covenant, and Christ
 
 ### (1) The reason for the slavery of God's people is the inaccurate fulfillment of God's Word, the inaccurate emphasis on Sacrifice (Abraham). Gen. 15:9-14
 > And he said unto him, Take me an heifer of three years old, and a she goat of three years old, and a ram of three years old, and a turtledove, and a young pigeon. And he took unto him all these, and divided them in the midst, and laid each piece one against another: but the birds divided he not. And when the fowls came down upon the carcases, Abram drove them away. And when the sun was going down, a deep sleep fell upon Abram; and, lo, an horror of great darkness fell upon him. And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years; And also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance. (Gen. 15:9-14, KJV)
@@ -65,12 +65,12 @@
 ### (1) Ex. 12:1-7, - preparation and celebration of the Lord's Passover
 > And the LORD spake unto Moses and Aaron in the land of Egypt, saying, This month shall be unto you the beginning of months: it shall be the first month of the year to you. Speak ye unto all the congregation of Israel, saying, In the tenth day of this month they shall take to them every man a lamb, according to the house of their fathers, a lamb for an house: And if the household be too little for the lamb, let him and his neighbour next unto his house take it according to the number of the souls; every man according to his eating shall make your count for the lamb. Your lamb shall be without blemish, a male of the first year: ye shall take it out from the sheep, or from the goats: And ye shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it in the evening. And they shall take of the blood, and strike it on the two side posts and on the upper door post of the houses, wherein they shall eat it. (Ex. 12:1-7, KJV)
 
-#### (a) A lamb without blemish, 3 days of abode – perfect sacrifice, shedding of blood, reasoning over the Word of God Gen. 3:15, 21,Heb. 9:22
+#### (a) A lamb without blemish, 3 days of stay – perfect sacrifice, shedding of blood, reasoning on the Word of God Gen. 3:15, 21,Heb. 9:22
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 > And almost all things are by the law purged with blood; and without shedding of blood is no remission. (Heb. 9:22, KJV)
 
-#### (b) The Society of the Israelites – the people of God, acceptance of the Word of God, the Covenant, Christ
+#### (b) The Society of the Israelites is the people of God, accepting the Word of God, the Covenant, and Christ
 
 ### (2) Ex. 12:8-11, - cooking and eating the Lamb
 > And they shall eat the flesh in that night, roast with fire, and unleavened bread; and with bitter herbs they shall eat it. Eat not of it raw, nor sodden at all with water, but roast with fire; his head with his legs, and with the purtenance thereof. And ye shall let nothing of it remain until the morning; and that which remaineth of it until the morning ye shall burn with fire. And thus shall ye eat it; with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it is the LORD’s passover. (Ex. 12:8-11, KJV)
@@ -83,7 +83,7 @@
 #### (c) Unleavened bread, bitter herbs – slavery, a bitter life outside of God. the importance of deliverance for man. John 8:36
 > If the Son therefore shall make you free, ye shall be free indeed. (John 8:36, KJV)
 
-#### (d) Girded, clothed, shod, staff, haste – Exodus, the importance of Canaan, the importance of fulfilling the destiny of the people of God (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ). Matt. 28:19-20,Eph. 6:11-20; 5:15-16
+#### (d) Girded, clothed, shod, staff, haste – Exodus, the importance of Canaan, the importance of fulfilling the destiny of the people of God (Knowledge and transmission of the Word of God, the Covenant, Christ, disciples, Worldwide Evangelization, preparation for the coming of Christ). Matt. 28:19-20,Eph. 6:11-20; 5:15-16
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
 > Put on the whole armour of God, that ye may be able to stand against the wiles of the devil. For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places. Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand. Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness; And your feet shod with the preparation of the gospel of peace; Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked. And take the helmet of salvation, and the sword of the Spirit, which is the word of God: Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints; And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel, For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak. (Eph. 6:11-20, KJV)
 > See then that ye walk circumspectly, not as fools, but as wise, Redeeming the time, because the days are evil. (Eph. 5:15-16, KJV)
@@ -91,7 +91,7 @@
 ### (3) Ex. 12:12-14, - the fulfillment of Easter
 > For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I am the LORD. And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy you, when I smite the land of Egypt. And this day shall be unto you for a memorial; and ye shall keep it a feast to the LORD throughout your generations; ye shall keep it a feast by an ordinance for ever. (Ex. 12:12-14, KJV)
 
-#### (a) Ex. 12:14, - the eternal institution, the affirmation of the Word of God, the Covenant, Christ
+#### (a) Ex. 12:14, - the eternal establishment, the affirmation of the Word of God, the Covenant, of Christ
 > And this day shall be unto you for a memorial; and ye shall keep it a feast to the LORD throughout your generations; ye shall keep it a feast by an ordinance for ever. (Ex. 12:14, KJV)
 
 #### (b) Num. 9:1-14, - the importance of Easter, there is no reference to the day
@@ -104,7 +104,7 @@
 
 #### (b) 7 days – reflection on the Word of God, the importance of learning
 
-#### (c) The eternal institution is the affirmation of the Word of God, the Covenant, Christ
+#### (c) The eternal institution is the affirmation of the Word of God, the Covenant, and Christ
 
 ## 4) Correct understanding of the Passover and Unleavened Bread John 1:29,1 Cor. 5:7, - Matt. 26:26-27 (Mark 14:22-24,Luke 22:19-20, 1 Cor. 11:23-26)
 > The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world. (John 1:29, KJV)
@@ -118,7 +118,7 @@
 
 #### (a) Easter V.Z. – the Paschal lamb (the prototype of the death of Christ)
 
-#### (b) Unleavened bread V.Z. – unleavened bread (the prototype of the resurrection of Christ)
+#### (b) Unleavened bread V.Z. – unleavened bread (a prototype of the resurrection of Christ)
 
 ### (2) N.Z. – Easter (from Thursday evening to Friday evening) and Unleavened Bread (Sunday), the death and Resurrection of Christ
 
@@ -128,7 +128,7 @@
 
 ## 5) The beginning of Easter week (Palm Sunday)
 
-### (1) Matt. 21:1-11 (Zech. 9:9), -the solemn arrival of Jesus Christ in Jerusalem, the importance of the fulfillment of the True Passover of the Lord, the Sacrifice of Jesus Christ (God's plan, prophecies of V.Z.)
+### (1) Matt. 21:1-11 (Zech. 9:9), -the solemn entry of Jesus Christ into Jerusalem, the importance of the fulfillment of the True Passover of the Lord, the Sacrifice of Jesus Christ (God's plan, prophecies of V.Z.)
 > And when they drew nigh unto Jerusalem, and were come to Bethphage, unto the mount of Olives, then sent Jesus two disciples, Saying unto them, Go into the village over against you, and straightway ye shall find an ass tied, and a colt with her: loose them, and bring them unto me. And if any man say ought unto you, ye shall say, The Lord hath need of them; and straightway he will send them. All this was done, that it might be fulfilled which was spoken by the prophet, saying, Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt the foal of an ass. And the disciples went, and did as Jesus commanded them, And brought the ass, and the colt, and put on them their clothes, and they set him thereon. And a very great multitude spread their garments in the way; others cut down branches from the trees, and strawed them in the way. And the multitudes that went before, and that followed, cried, saying, Hosanna to the Son of David: Blessed is he that cometh in the name of the Lord; Hosanna in the highest. And when he was come into Jerusalem, all the city was moved, saying, Who is this? And the multitude said, This is Jesus the prophet of Nazareth of Galilee. (Matt. 21:1-11, KJV)
 > Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass. (Zech. 9:9, KJV)
 
@@ -137,7 +137,7 @@
 > And the Jews’ passover was at hand, and Jesus went up to Jerusalem, And found in the temple those that sold oxen and sheep and doves, and the changers of money sitting: And when he had made a scourge of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers’ money, and overthrew the tables; And said unto them that sold doves, Take these things hence; make not my Father’s house an house of merchandise. And his disciples remembered that it was written, The zeal of thine house hath eaten me up. (John 2:13-17, KJV)
 > My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children. (Hos. 4:6, KJV)
 
-### (3) Non–acceptance of the Word of God, the Covenant, Christ, the Pharisees and the Scribes (the temple) - non-acceptance of the Divinity of Christ (the political leader) and the Sufficiency of His Sacrifice (salvation through the works of the law) John 10:33,Rom. 9:30-33, - John 8:44, - Matt. 24:1-2
+### (3) Rejection of the Word of God, the Covenant, Christ, Pharisees and Scribes (temple) – rejection of the Divinity of Christ (political leader) and the Sufficiency of His Sacrifice (salvation through the works of the law) John 10:33,Rom. 9:30-33, - John 8:44, - Matt. 24:1-2
 > The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. (John 10:33, KJV)
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
 > Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it. (John 8:44, KJV)
@@ -145,7 +145,7 @@
 
 ## 6) The unworthy celebration of Passover and Unleavened Bread
 
-### (1) Misunderstanding of the Word of God, the Covenant, Christ (the essence of sin)
+### (1) Misunderstanding of the Word of God, the Covenant, and Christ (the essence of sin)
 
 #### (a) A rite is a meaningless act without understanding the Covenant, Christ
 
@@ -159,5 +159,5 @@
 
 #### (b) “Mixed Gospel” heresy, denial of the fact of forgiveness of all human sins, religion
 
-#### (c) The heresy of "partial salvation", the denial of Christ's decision of the consequences of sin – there is no salvation of soul and body, the effect of ancestral and acquired curses, The children's obsession with God and WORTHY PARTICIPATION IN THE LORD'S PASSOVER is an affirmation of the Divinity of Christ and the Omnipotence of His Sacrifice to solve all human problems.
+#### (c) The heresy of "partial salvation", the denial of Christ's decision of the consequences of sin – there is no salvation of soul and body, the effect of ancestral and acquired curses, The obsession of God's children and THEIR WORTHY PARTICIPATION IN THE LORD'S PASSOVER is an affirmation of the Divinity of Christ and the Omnipotence of His Sacrifice to solve all human problems.
 - An UNWORTHY PARTICIPATION IN THE LORD'S PASSOVER is a denial of the Divinity of Christ and the All–sufficiency of His Sacrifice to solve all human problems.

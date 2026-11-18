@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,16 +233,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>2nd Thessalonians</h1>
-<h2 id="s1">1) 2 Thess. 1, - the importance of understanding the Word of God, the Covenant, Christ</h2>
+<h2 id="s1">1) 2 Thess. 1, - the importance of understanding the Word of God, the Covenant, and Christ</h2>
 <h3>(1) 2 Thess. 1:1-5, - the importance of living the right life, the importance of fulfilling the destiny of God's people Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9</h3>
 <blockquote data-v="kjv"><p>Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ: Grace unto you, and peace, from God our Father and the Lord Jesus Christ. We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth; So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure: Which is a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer:</p><cite>2 Thess. 1:1-5 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Paul, Silvanus, and Timothy, To the church of the Thessalonians in God our Father and the Lord Jesus Christ: Grace and peace to you from God our Father and the Lord Jesus Christ. We are obligated to thank God for you all the time, brothers, as is fitting, because your faith is growing more and more, and your love for one another is increasing. That is why we boast among God’s churches about your perseverance and faith in the face of all the persecution and affliction you are enduring. All this is clear evidence of God’s righteous judgment. And so you will be counted worthy of the kingdom of God, for which you are suffering.</p><cite>2 Thess. 1:1-5 · BSB</cite></blockquote>
@@ -301,7 +303,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ.</p><cite>2 Thess. 1:12 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>so that the name of our Lord Jesus will be glorified in you, and you in Him, according to the grace of our God and of the Lord Jesus Christ.</p><cite>2 Thess. 1:12 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.</p><cite>2 Thess. 1:12 · WEB</cite></blockquote>
-<h2 id="s2">2) 2 Thess. 2, - the importance of understanding the Word of God, the Covenant, Christ</h2>
+<h2 id="s2">2) 2 Thess. 2, - the importance of understanding the Word of God, the Covenant, and Christ</h2>
 <h3>(1) 2 Thess. 2:1-2, - the importance of understanding the Word of God, the Covenant, Christ, the importance of understanding the events of the Second Coming of Christ</h3>
 <blockquote data-v="kjv"><p>Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him, That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.</p><cite>2 Thess. 2:1-2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Now concerning the coming of our Lord Jesus Christ and our being gathered together to Him, we ask you, brothers, not to be easily disconcerted or alarmed by any spirit or message or letter seeming to be from us, alleging that the Day of the Lord has already come.</p><cite>2 Thess. 2:1-2 · BSB</cite></blockquote>
@@ -310,7 +312,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition; Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God. Remember ye not, that, when I was yet with you, I told you these things?</p><cite>2 Thess. 2:3-5 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Let no one deceive you in any way, for it will not come until the rebellion occurs and the man of lawlessness—the son of destruction—is revealed. He will oppose and exalt himself above every so-called god or object of worship. So he will seat himself in the temple of God, proclaiming himself to be God. Do you not remember that I told you these things while I was still with you?</p><cite>2 Thess. 2:3-5 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Let no one deceive you in any way. For it will not be unless the rebellion comes first, and the man of sin is revealed, the son of destruction. He opposes and exalts himself against all that is called God or that is worshiped, so that he sits as God in the temple of God, setting himself up as God. Don’t you remember that when I was still with you, I told you these things?</p><cite>2 Thess. 2:3-5 · WEB</cite></blockquote>
-<h3>(3) 2 Thess. 2:6-12, - the importance of understanding God's sovereignty, the action of the Holy Spirit (the time of the Church, the salvation of a number of people)</h3>
+<h3>(3) 2 Thess. 2:6-12, - the importance of understanding God's sovereignty, the action of the Holy Spirit (the time of the Church, the salvation of a large number of people)</h3>
 <blockquote data-v="kjv"><p>And now ye know what withholdeth that he might be revealed in his time. For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way. And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming: Even him, whose coming is after the working of Satan with all power and signs and lying wonders, And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved. And for this cause God shall send them strong delusion, that they should believe a lie: That they all might be damned who believed not the truth, but had pleasure in unrighteousness.</p><cite>2 Thess. 2:6-12 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And you know what is now restraining him, so that he may be revealed at the proper time. For the mystery of lawlessness is already at work, but the one who now restrains it will continue until he is taken out of the way. And then the lawless one will be revealed, whom the Lord Jesus will slay with the breath of His mouth and annihilate by the majesty of His arrival. The coming of the lawless one will be accompanied by the working of Satan, with every kind of power, sign, and false wonder, and with every wicked deception directed against those who are perishing, because they refused the love of the truth that would have saved them. For this reason God will send them a powerful delusion so that they believe the lie, in order that judgment may come upon all who have disbelieved the truth and delighted in wickedness.</p><cite>2 Thess. 2:6-12 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now you know what is restraining him, to the end that he may be revealed in his own season. For the mystery of lawlessness already works. Only there is one who restrains now, until he is taken out of the way. Then the lawless one will be revealed, whom the Lord will kill with the breath of his mouth and destroy by the manifestation of his coming; even he whose coming is according to the working of Satan with all power and signs and lying wonders, and with all deception of wickedness for those who are being lost, because they didn’t receive the love of the truth, that they might be saved. Because of this, God sends them a powerful delusion, that they should believe a lie, that they all might be judged who didn’t believe the truth, but had pleasure in unrighteousness.</p><cite>2 Thess. 2:6-12 · WEB</cite></blockquote>
@@ -348,7 +350,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us. For yourselves know how ye ought to follow us: for we behaved not ourselves disorderly among you; Neither did we eat any man’s bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you: Not because we have not power, but to make ourselves an ensample unto you to follow us. For even when we were with you, this we commanded you, that if any would not work, neither should he eat. For we hear that there are some which walk among you disorderly, working not at all, but are busybodies. Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread. But ye, brethren, be not weary in well doing.</p><cite>2 Thess. 3:6-13 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Now we command you, brothers, in the name of our Lord Jesus Christ, to keep away from any brother who leads an undisciplined life that is not in keeping with the tradition you received from us. For you yourselves know how you ought to imitate us, because we were not undisciplined among you, nor did we eat anyone’s food without paying for it. Instead, in labor and toil, we worked night and day so that we would not be a burden to any of you. Not that we lack this right, but we wanted to offer ourselves as an example for you to imitate. For even while we were with you, we gave you this command: “If anyone is unwilling to work, he shall not eat.” For we hear that some of you are leading undisciplined lives, accomplishing nothing, but being busybodies. We command and urge such people by our Lord Jesus Christ to begin working quietly to earn their own living. But as for you, brothers, do not grow weary in well-doing.</p><cite>2 Thess. 3:6-13 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now we command you, brothers, in the name of our Lord Jesus Christ, that you withdraw yourselves from every brother who walks in rebellion and not after the tradition which they received from us. For you know how you ought to imitate us. For we didn’t behave ourselves rebelliously among you, neither did we eat bread from anyone’s hand without paying for it, but in labor and travail worked night and day, that we might not burden any of you. This was not because we don’t have the right, but to make ourselves an example to you, that you should imitate us. For even when we were with you, we commanded you this: “If anyone is not willing to work, don’t let him eat.” For we hear of some who walk among you in rebellion, who don’t work at all, but are busybodies. Now those who are that way, we command and exhort in the Lord Jesus Christ, that they work with quietness and eat their own bread. But you, brothers, don’t be weary in doing what is right.</p><cite>2 Thess. 3:6-13 · WEB</cite></blockquote>
-<h3>(6) 2 Thess. 3:14-15, - the importance of chastisement and church discipline in the people of God, the admonition and correction of people</h3>
+<h3>(6) 2 Thess. 3:14-15, - the importance of chastisement and church discipline among the people of God, the admonition and correction of man</h3>
 <blockquote data-v="kjv"><p>And if any man obey not our word by this epistle, note that man, and have no company with him, that he may be ashamed. Yet count him not as an enemy, but admonish him as a brother.</p><cite>2 Thess. 3:14-15 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Take note of anyone who does not obey the instructions we have given in this letter. Do not associate with him, so that he may be ashamed. Yet do not regard him as an enemy, but admonish him as a brother.</p><cite>2 Thess. 3:14-15 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>If any man doesn’t obey our word in this letter, note that man and have no company with him, to the end that he may be ashamed. Don’t count him as an enemy, but admonish him as a brother.</p><cite>2 Thess. 3:14-15 · WEB</cite></blockquote>
@@ -357,7 +359,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>Now may the Lord of peace Himself give you peace at all times and in every way. The Lord be with all of you. This greeting is in my own hand—Paul. This is my mark in every letter; it is the way I write. The grace of our Lord Jesus Christ be with all of you.</p><cite>2 Thess. 3:16-18 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now may the Lord of peace himself give you peace at all times in all ways. The Lord be with you all. I, Paul, write this greeting with my own hand, which is the sign in every letter. This is how I write. The grace of our Lord Jesus Christ be with you all. Amen.</p><cite>2 Thess. 3:16-18 · WEB</cite></blockquote>
 <h2 id="s4">Conclusion:</h2>
-<h3>(1) The importance of accepting the Word of God, the Covenant, Christ</h3>
+<h3>(1) The importance of accepting the Word of God, the Covenant, and Christ</h3>
 <h3>(2) The importance of understanding the Second Coming of Christ</h3>
 <h3>(3) The importance of living a good life and fulfilling a purpose</h3>
 </main>

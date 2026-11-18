@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -285,14 +287,14 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins.</p><cite>Acts 10:43 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>All the prophets testify about Him that everyone who believes in Him receives forgiveness of sins through His name.”</p><cite>Acts 10:43 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>All the prophets testify about him, that through his name everyone who believes in him will receive remission of sins.”</p><cite>Acts 10:43 · WEB</cite></blockquote>
-<h3>(3) The rejection of the Word of God, the Covenant, Christ, the majority of Jews, the rejection of the Divinity of Christ and the Sufficiency of His Sacrifice. John 10:33, - Rom. 9:30-33</h3>
+<h3>(3) The rejection of the Word of God, the Covenant, Christ, by the majority of Jews, the rejection of the Divinity of Christ and the All-sufficiency of His Sacrifice. John 10:33, - Rom. 9:30-33</h3>
 <blockquote data-v="kjv"><p>The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God.</p><cite>John 10:33 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>“We are not stoning You for any good work,” said the Jews, “but for blasphemy, because You, who are a man, make Yourself out to be God.”</p><cite>John 10:33 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>The Jews answered him, “We don’t stone you for a good work, but for blasphemy, because you, being a man, make yourself God.”</p><cite>John 10:33 · WEB</cite></blockquote>
 <blockquote data-v="kjv"><p>What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed.</p><cite>Rom. 9:30-33 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>What then will we say? That the Gentiles, who did not pursue righteousness, have obtained it, a righteousness that is by faith; but Israel, who pursued a law of righteousness, has not attained it. Why not? Because their pursuit was not by faith, but as if it were by works. They stumbled over the stumbling stone, as it is written: “See, I lay in Zion a stone of stumbling and a rock of offense; and the one who believes in Him will never be put to shame.”</p><cite>Rom. 9:30-33 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>What shall we say then? That the Gentiles, who didn’t follow after righteousness, attained to righteousness, even the righteousness which is of faith; but Israel, following after a law of righteousness, didn’t arrive at the law of righteousness. Why? Because they didn’t seek it by faith, but as it were by works of the law. They stumbled over the stumbling stone, even as it is written, “Behold, I lay in Zion a stumbling stone and a rock of offense; and no one who believes in him will be disappointed.”</p><cite>Rom. 9:30-33 · WEB</cite></blockquote>
-<h3>(4) The importance of understanding God's sovereignty and control, the inevitability of fulfilling God's Word, Covenant, Christ, God's Plan</h3>
+<h3>(4) The importance of understanding God's sovereignty and control, the inevitability of fulfilling God's Word, Covenant, Christ, and God's plan</h3>
 <h2 id="s2">2) The importance of Christ's conformity to God's prophecies</h2>
 <h3>(1) Christ will be a True Priest Ps. 110:4, - Heb. 3:1; 5:5-6</h3>
 <blockquote data-v="kjv"><p>The LORD hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek.</p><cite>Ps. 110:4 · KJV</cite></blockquote>
@@ -353,7 +355,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>Examine yourselves to see whether you are in the faith; test yourselves. Do you not realize that Jesus Christ is in you—unless you fail the test?</p><cite>2 Cor. 13:5 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Examine your own selves, whether you are in the faith. Test your own selves. Or don’t you know about your own selves, that Jesus Christ is in you?—unless indeed you are disqualified.</p><cite>2 Cor. 13:5 · WEB</cite></blockquote>
 <h4>(a) The importance of understanding the fall of mankind – the power of sin, death and hell, Satan, the destruction of the True Temple of God (man), the legitimate and eternal separation of man from God</h4>
-<h4>(b) The importance of understanding the work of Christ – solving all human problems, legitimate liberation from the power of sin, death and hell, Satan, restoring man to his original form, restoring the True Temple of God (Emmanuel)</h4>
+<h4>(b) The importance of understanding the work of Christ – the solution of all human problems, legitimate liberation from the power of sin, death and hell, Satan, the restoration of man to his original form, the restoration of the True Temple of God (Emmanuel)</h4>
 <h3>(6) Christ will be a "stumbling block" for the Jews Ps. 118:22, - Rom. 9:30-33,1 Pet. 2:4-8</h3>
 <blockquote data-v="kjv"><p>The stone which the builders refused is become the head stone of the corner.</p><cite>Ps. 118:22 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>The stone the builders rejected has become the cornerstone.</p><cite>Ps. 118:22 · BSB</cite></blockquote>
@@ -365,7 +367,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>As you come to Him, the living stone, rejected by men but chosen and precious in God’s sight, you also, like living stones, are being built into a spiritual house to be a holy priesthood, offering spiritual sacrifices acceptable to God through Jesus Christ. For it stands in Scripture: “See, I lay in Zion a stone, a chosen and precious cornerstone; and the one who believes in Him will never be put to shame.” To you who believe, then, this stone is precious. But to those who do not believe, “The stone the builders rejected has become the cornerstone,” and, “A stone of stumbling and a rock of offense.” They stumble because they disobey the word—and to this they were appointed.</p><cite>1 Pet. 2:4-8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Come to him, a living stone, rejected indeed by men, but chosen by God, precious. You also as living stones are built up as a spiritual house, to be a holy priesthood, to offer up spiritual sacrifices, acceptable to God through Jesus Christ. Because it is contained in Scripture, “Behold, I lay in Zion a chief cornerstone, chosen and precious. He who believes in him will not be disappointed.” For you who believe therefore is the honor, but for those who are disobedient, “The stone which the builders rejected has become the chief cornerstone,” and, “a stumbling stone and a rock of offense.” For they stumble at the word, being disobedient, to which also they were appointed.</p><cite>1 Pet. 2:4-8 · WEB</cite></blockquote>
 <h4>(a) The importance of properly understanding the Word of God from the perspective of the Covenant, Christ</h4>
-<h4>(b) Understanding Satan's actions – resisting the Word of God, the Covenant, Christ, establishing religion (earning salvation), visible</h4>
+<h4>(b) Understanding of Satan's actions – resisting the Word of God, the Covenant, Christ, establishing religion (earning salvation), visible</h4>
 <h3>(7) Christ will enter Jerusalem on a donkey Zech. 9:9, - Matt. 21:6-11</h3>
 <blockquote data-v="kjv"><p>Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.</p><cite>Zech. 9:9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Rejoice greatly, O Daughter of Zion! Shout in triumph, O Daughter of Jerusalem! See, your King comes to you, righteous and victorious, humble and riding on a donkey, on a colt, the foal of a donkey.</p><cite>Zech. 9:9 · BSB</cite></blockquote>
@@ -374,7 +376,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>So the disciples went and did as Jesus had directed them. They brought the donkey and the colt and laid their cloaks on them, and Jesus sat on them. A massive crowd spread their cloaks on the road, while others cut branches from the trees and spread them on the road. The crowds that went ahead of Him and those that followed were shouting: “Hosanna to the Son of David!” “Blessed is He who comes in the name of the Lord!” “Hosanna in the highest!” When Jesus had entered Jerusalem, the whole city was stirred and asked, “Who is this?” The crowds replied, “This is Jesus, the prophet from Nazareth in Galilee.”</p><cite>Matt. 21:6-11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>The disciples went and did just as Jesus commanded them, and brought the donkey and the colt and laid their clothes on them; and he sat on them. A very great multitude spread their clothes on the road. Others cut branches from the trees and spread them on the road. The multitudes who went in front of him, and those who followed, kept shouting, “Hosanna to the son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!” When he had come into Jerusalem, all the city was stirred up, saying, “Who is this?” The multitudes said, “This is the prophet, Jesus, from Nazareth of Galilee.”</p><cite>Matt. 21:6-11 · WEB</cite></blockquote>
 <h4>(a) The importance of understanding the mission of Christ – serving man, fulfilling the sentence of the Word of God in place of every human being</h4>
-<h4>(b) The importance of understanding and fulfilling the destiny of God's people – serving man, bringing the Word of God, the Covenant, Christ (The importance of knowing and transmitting the Word of God, the Covenant, Christ, the Disciples, World Evangelization)</h4>
+<h4>(b) The importance of understanding and fulfilling the destiny of God's people – serving man, bringing the Word of God, the Covenant, and Christ (The importance of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization)</h4>
 <h3>(8) Christ will enter the Temple Mal. 3:1,Ps. 69:9, - John 2:15-17,Matt. 21:12</h3>
 <blockquote data-v="kjv"><p>Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts.</p><cite>Mal. 3:1 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>“Behold, I will send My messenger, who will prepare the way before Me. Then the Lord whom you seek will suddenly come to His temple—the Messenger of the covenant, in whom you delight—see, He is coming,” says the LORD of Hosts.</p><cite>Mal. 3:1 · BSB</cite></blockquote>
@@ -471,7 +473,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>Pay attention to yourself and to your teaching. Continue in these things, for in doing this you will save both yourself and those who hear you.</p><cite>1 Tim. 4:16 · WEB</cite></blockquote>
 <h3>(3) The importance of understanding the mission of Christ</h3>
 <h4>(a) To die for all the sins of all people is man's atonement</h4>
-<h4>(b) Prepare the disciples - the importance of knowing and transmitting the Word of God, the Covenant, Christ, World Evangelization, preparation for the second coming of Christ</h4>
+<h4>(b) Prepare the disciples - the importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, preparation for the second coming of Christ</h4>
 <h4>(c) To show people the Holy, True God</h4>
 <h3>(4) The importance of fulfilling the destiny of God's people</h3>
 <h3>(5) The importance of understanding Satan's actions</h3>

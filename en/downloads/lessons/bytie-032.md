@@ -1,9 +1,9 @@
 # 32. Gen. 15, - Abraham, the importance of descendants
 
-## 1) Gen. 15:1-6, - the importance of conveying the Word of God, the Covenant, Christ
+## 1) Gen. 15:1-6, - the importance of conveying the Word of God, the Covenant, and Christ
 > After these things the word of the LORD came unto Abram in a vision, saying, Fear not, Abram: I am thy shield, and thy exceeding great reward. And Abram said, Lord GOD, what wilt thou give me, seeing I go childless, and the steward of my house is this Eliezer of Damascus? And Abram said, Behold, to me thou hast given no seed: and, lo, one born in my house is mine heir. And, behold, the word of the LORD came unto him, saying, This shall not be thine heir; but he that shall come forth out of thine own bowels shall be thine heir. And he brought him forth abroad, and said, Look now toward heaven, and tell the stars, if thou be able to number them: and he said unto him, So shall thy seed be. And he believed in the LORD; and he counted it to him for righteousness. (Gen. 15:1-6, KJV)
 
-### (1) Abraham's experiences – the importance of descendants, the coming of Christ, the fulfillment of the sentence of the Word of God, the redemption of mankind. (The importance of understanding and fulfilling the destiny of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the Coming of Christ) Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+### (1) Abraham's experiences – the importance of descendants, the coming of Christ, the fulfillment of the sentence of the Word of God, the redemption of mankind. (The importance of understanding and fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ) Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:17, KJV)
@@ -26,7 +26,7 @@
 #### (b) The righteousness of Christ is God's acceptance. Phil. 3:7-9
 > But what things were gain to me, those I counted loss for Christ. Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ, And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith: (Phil. 3:7-9, KJV)
 
-#### (c) The descendants of Abraham are the people of God, understanding the Word of God, the Covenant, Christ Rom. 9:6-8, Gal. 3:7, 29
+#### (c) The descendants of Abraham are the people of God, understanding the Word of God, the Covenant, Christ Rom. 9:6-8,Gal. 3:7, 29
 > Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel: Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called. That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed. (Rom. 9:6-8, KJV)
 > Know ye therefore that they which are of faith, the same are the children of Abraham. (Gal. 3:7, KJV)
 > And if ye be Christ’s, then are ye Abraham’s seed, and heirs according to the promise. (Gal. 3:29, KJV)
@@ -42,20 +42,20 @@
 
 ### (2) Inaccurate emphasis on the Sacrifice of Christ (fine line) – inaccurate fulfillment of the Word of God, the Covenant, Christ – problems and slavery of descendants. (The heresy of the mixed gospel and the heresy of partial salvation)
 
-#### (a) There is no fire, God, birds, terror, darkness – an inaccurate fulfillment of the Word of God
+#### (a) There is no fire of God, birds, terror, darkness – an inaccurate fulfillment of the Word of God
 
 #### (b) The consequence is 400 years of Egyptian slavery
 
 #### (c) God's love and mercy is the liberation of God's people
 
-#### (d) God's judgment – transmission of the Covenant, Christ (mercy to the sinner) Gen. 14:13
+#### (d) God's judgment – the transmission of the Covenant, of Christ (mercy to the sinner) Gen. 14:13
 > And there came one that had escaped, and told Abram the Hebrew; for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these were confederate with Abram. (Gen. 14:13, KJV)
 
 ### (3) Right Worship, Sacrifice, Covenant, Christ - Canaan, World Evangelism
 
-#### (a) God's love and mercy, acceptance of Worship – God is fire
+#### (a) God's love and mercy, acceptance of Worship – God's fire
 
-#### (b) The Promise of Canaan – Worldwide Evangelization, the destiny of the people of God
+#### (b) The Promise of Canaan – Worldwide Evangelization, the destiny of God's people
 
 ## 3) Gen. 15:18-21, - the importance of the Word of God, the Covenant, Christ, understanding the Covenant of God, understanding the meaning of the blessing of Abraham and his descendants
 > In the same day the LORD made a covenant with Abram, saying, Unto thy seed have I given this land, from the river of Egypt unto the great river, the river Euphrates: The Kenites, and the Kenizzites, and the Kadmonites, And the Hittites, and the Perizzites, and the Rephaims, And the Amorites, and the Canaanites, and the Girgashites, and the Jebusites. (Gen. 15:18-21, KJV)
@@ -94,8 +94,8 @@
 
 ## Conclusion:
 
-### (1) The importance of understanding and fulfilling purpose. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+### (1) The importance of understanding and fulfilling purpose. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 
 ### (2) The importance of proper worship and purity of teaching. (An inaccurate understanding of Sacrifice is the heresy of the mixed gospel and the heresy of partial salvation, the problems and slavery of descendants)
 
-### (3) The importance of understanding God's sovereignty and Control
+### (3) The importance of understanding God's Sovereignty and Control

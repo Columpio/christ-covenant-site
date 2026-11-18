@@ -3,7 +3,7 @@
 ## 1) Matt. 10:32-42, - the importance of understanding purpose
 > Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven. But whosoever shall deny me before men, him will I also deny before my Father which is in heaven. Think not that I am come to send peace on earth: I came not to send peace, but a sword. For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law. And a man’s foes shall be they of his own household. He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me. And he that taketh not his cross, and followeth after me, is not worthy of me. He that findeth his life shall lose it: and he that loseth his life for my sake shall find it. He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me. He that receiveth a prophet in the name of a prophet shall receive a prophet’s reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man’s reward. And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward. (Matt. 10:32-42, KJV)
 
-### (1) The purpose of the people of God is to preserve and transmit the Word of God, the Covenant, Christ, Worldwide Evangelization, and preparation for the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+### (1) The purpose of the people of God is to preserve and transmit the Word of God, the Covenant, Christ, worldwide Evangelization, and preparation for the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -18,18 +18,18 @@
 ### (2) Matt. 10:32-33, - the importance of the Word of God, the Covenant, the Christ of man
 > Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven. But whosoever shall deny me before men, him will I also deny before my Father which is in heaven. (Matt. 10:32-33, KJV)
 
-#### (a) The importance of accepting the Word of God, the Covenant, Christ, the right to choose and the salvation of man
+#### (a) The importance of accepting the Word of God, the Covenant, Christ, the right to choose, and human salvation
 
-#### (b) The importance of preserving the Word of God, the Covenant, Christ before the end of earthly life, the right to choose and the salvation of man
+#### (b) The importance of preserving the Word of God, the Covenant, and Christ until the end of earthly life, the right to choose, and human salvation
 
 #### (c) The importance of understanding the possibility of falling away from God, the right to choose a person, and the understanding of sin leading to death
 
-### (3) Matt. 10:34-37, - acceptance and non-acceptance of the Word of God, the Covenant, Christ
+### (3) Matt. 10:34-37, - acceptance and non-acceptance of the Word of God, the Covenant, and Christ
 > Think not that I am come to send peace on earth: I came not to send peace, but a sword. For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law. And a man’s foes shall be they of his own household. He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me. (Matt. 10:34-37, KJV)
 
 #### (a) Hearing the Word of God, the Covenant, Christ, the actual exercise of a person's right to choose, the action of God's grace
 
-#### (b) The importance of understanding the division of humanity, the choice and reaction of each person to hearing the Word of God, the Covenant, Christ
+#### (b) The importance of understanding the division of humanity, the choice and reaction of each person to hearing the Word of God, the Covenant, and Christ
 
 #### (c) The importance of the right priorities in a person's life – God and the Church, spouses, children, parents, work, etc.
 
@@ -42,14 +42,14 @@
 
 #### (b) Dedication and life for God – the salvation of man
 
-### (4) Matt. 10:40-42, - the importance of transmitting the Word of God, the Covenant, Christ, World Evangelization
+### (4) Matt. 10:40-42, - the importance of transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization
 > He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me. He that receiveth a prophet in the name of a prophet shall receive a prophet’s reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man’s reward. And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward. (Matt. 10:40-42, KJV)
 
-#### (a) Acceptance of the Disciple, the Word of God, the Covenant, Christ – acceptance of Christ and God
+#### (a) Acceptance of the disciple, the Word of God, the Covenant, Christ – acceptance of Christ and God
 
-#### (b) The acceptance of a prophet or a righteous man – the promotion of ministry, the reward for the transmission of the Word of God, the Covenant, Christ, the accomplishment of World Evangelization
+#### (b) The acceptance of a prophet or a righteous man is the promotion of ministry, a reward for the transmission of the Word of God, the Covenant, Christ, and the accomplishment of Worldwide Evangelization
 
-#### (c) A cup of cold water in the name of the disciple – promoting the ministry of the disciples of Christ, a reward for transmitting the Word of God, the Covenant, Christ, World Evangelization
+#### (c) A cup of cold water in the name of the disciple is a contribution to the ministry of the disciples of Christ, a reward for transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
 ## 2) Matt. 11:1-19, - the importance of understanding purpose
 > And it came to pass, when Jesus had made an end of commanding his twelve disciples, he departed thence to teach and to preach in their cities. Now when John had heard in the prison the works of Christ, he sent two of his disciples, And said unto him, Art thou he that should come, or do we look for another? Jesus answered and said unto them, Go and shew John again those things which ye do hear and see: The blind receive their sight, and the lame walk, the lepers are cleansed, and the deaf hear, the dead are raised up, and the poor have the gospel preached to them. And blessed is he, whosoever shall not be offended in me. And as they departed, Jesus began to say unto the multitudes concerning John, What went ye out into the wilderness to see? A reed shaken with the wind? But what went ye out for to see? A man clothed in soft raiment? behold, they that wear soft clothing are in kings’ houses. But what went ye out for to see? A prophet? yea, I say unto you, and more than a prophet. For this is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee. Verily I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he. And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force. For all the prophets and the law prophesied until John. And if ye will receive it, this is Elias, which was for to come. He that hath ears to hear, let him hear. But whereunto shall I liken this generation? It is like unto children sitting in the markets, and calling unto their fellows, And saying, We have piped unto you, and ye have not danced; we have mourned unto you, and ye have not lamented. For John came neither eating nor drinking, and they say, He hath a devil. The Son of man came eating and drinking, and they say, Behold a man gluttonous, and a winebibber, a friend of publicans and sinners. But wisdom is justified of her children. (Matt. 11:1-19, KJV)
@@ -71,14 +71,14 @@
 #### (e) God's love and Control (Adam, Solomon). Heb. 13:5
 > Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee. (Heb. 13:5, KJV)
 
-#### (e) John the Baptist– the Forerunner of Christ in eternity (Abraham's bosom)
+#### (f) John the Baptist– the Forerunner of Christ in eternity (Abraham's bosom)
 
-#### (g) The meaning of life is the transmission of the Word of God, the Covenant, Christ (the coming of Christ)
+#### (g) The meaning of life is the transmission of the Word of God, the Covenant, and Christ (the coming of Christ)
 
-### (2) Matt. 11:11-19, - the importance of preserving the Word of God, the Covenant, Christ
+### (2) Matt. 11:11-19, - the importance of preserving the Word of God, the Covenant, and Christ
 > Verily I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he. And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force. For all the prophets and the law prophesied until John. And if ye will receive it, this is Elias, which was for to come. He that hath ears to hear, let him hear. But whereunto shall I liken this generation? It is like unto children sitting in the markets, and calling unto their fellows, And saying, We have piped unto you, and ye have not danced; we have mourned unto you, and ye have not lamented. For John came neither eating nor drinking, and they say, He hath a devil. The Son of man came eating and drinking, and they say, Behold a man gluttonous, and a winebibber, a friend of publicans and sinners. But wisdom is justified of her children. (Matt. 11:11-19, KJV)
 
-#### (a) Matt. 11:11, - the importance of accepting and preserving the Word of God, the Covenant, Christ (John the Baptist is the greatest among all people, but coming to Ts.N. is the most human, living a life in the faith of God)
+#### (a) Matt. 11:11, - the importance of accepting and preserving the Word of God, the Covenant, and Christ (John the Baptist is the greatest among all people, but coming to Ts.N. is the most human, living a life in the faith of God)
 > Verily I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he. (Matt. 11:11, KJV)
 
 #### (b) Matt. 11:12, - knowledge, transmission of the Word of God, the Covenant, Christ, the life of God's faith, the responsibility of every human being. (The use of effort is an act of God's grace). John 15:5
@@ -88,7 +88,7 @@
 #### (c) Matt. 11:13, - the importance of understanding the fullness of V.Z's Writings
 > For all the prophets and the law prophesied until John. (Matt. 11:13, KJV)
 
-#### (d) Matt. 11:14, - the fulfillment of the Word of God, the prophet Malachi. Mal. 4:5-6
+#### (d) Matt. 11:14, - fulfillment of the Word of God, the prophet Malachi. Mal. 4:5-6
 > And if ye will receive it, this is Elias, which was for to come. (Matt. 11:14, KJV)
 > Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD: And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse. (Mal. 4:5-6, KJV)
 
@@ -99,35 +99,35 @@
 
 ### (1) The importance of understanding the purpose and meaning of human life – the choice regarding eternal life (where?, with whom?)
 
-### (2) The example of Sodom and Gomorrah is the rejection of the Word of God, the Covenant, Christ, the rejection of the coming Christ and His Sacrifice for salvation. (Meeting with Melchizedek, the sermon of Abraham and Lot)
+### (2) The example of Sodom and Gomorrah is the rejection of the Word of God, the Covenant, and Christ, the rejection of the coming Christ and His Sacrifice for salvation. (Meeting with Melchizedek, the sermon of Abraham and Lot)
 
-### (3) The importance of understanding human responsibility in relation to Hearing the Word of God, the Covenant, Christ Luke 12:48
+### (3) The importance of understanding human responsibility in relation to hearing the Word of God, the Covenant, and Christ Luke 12:48
 > But he that knew not, and did commit things worthy of stripes, shall be beaten with few stripes. For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more. (Luke 12:48, KJV)
 
-## 4) Matt. 11:25-30, - the importance of accepting the Word of God, the Covenant, Christ
+## 4) Matt. 11:25-30, - the importance of accepting the Word of God, the Covenant, and Christ
 > At that time Jesus answered and said, I thank thee, O Father, Lord of heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them unto babes. Even so, Father: for so it seemed good in thy sight. All things are delivered unto me of my Father: and no man knoweth the Son, but the Father; neither knoweth any man the Father, save the Son, and he to whomsoever the Son will reveal him. Come unto me, all ye that labour and are heavy laden, and I will give you rest. Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls. For my yoke is easy, and my burden is light. (Matt. 11:25-30, KJV)
 
 ### (1) Matt. 11:25-27, - The importance of understanding God's sovereignty
 > At that time Jesus answered and said, I thank thee, O Father, Lord of heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them unto babes. Even so, Father: for so it seemed good in thy sight. All things are delivered unto me of my Father: and no man knoweth the Son, but the Father; neither knoweth any man the Father, save the Son, and he to whomsoever the Son will reveal him. (Matt. 11:25-27, KJV)
 
-#### (a) Understanding the Word of God, the Covenant, Christ – God's Sovereignty and Control, God's Timetable of Time
+#### (a) Understanding the Word of God, the Covenant, Christ – God's sovereignty and control, God's timetable of time
 
 #### (b) The true knowledge of God is only in Christ.
 
 #### (c) Understanding God and His Word - God's action, God's foreknowledge of every person
 
-### (2) Matt. 11:28-30, - the importance of accepting the Word of God, the Covenant, Christ
+### (2) Matt. 11:28-30, - the importance of accepting the Word of God, the Covenant, and Christ
 > Come unto me, all ye that labour and are heavy laden, and I will give you rest. Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls. For my yoke is easy, and my burden is light. (Matt. 11:28-30, KJV)
 
 #### (a) The importance of accepting the Word of God, the Covenant, Christ (come to Christ), true peace for every human being
 
-#### (b) Take up the yoke and burden of Christ – the importance of knowing and transmitting the Word of God, the Covenant, Christ, World Evangelization, fulfillment of destiny
+#### (b) To take up the yoke and burden of Christ – the importance of knowing and transmitting the Word of God, the Covenant, Christ, the accomplishment of Worldwide Evangelization, the fulfillment of destiny
 
-#### (c) The yoke of Christ is good and the burden is light – the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, a right and happy life for man
+#### (c) The yoke of Christ is good and the burden is light – knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, a right and happy life for man
 
 ## Conclusion:
 
-### (1) The importance of accepting and preserving the Word of God, the Covenant, Christ
+### (1) The importance of accepting and preserving the Word of God, the Covenant, and Christ
 
 ### (2) The importance of understanding and fulfilling purpose
 

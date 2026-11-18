@@ -22,10 +22,10 @@
 > And Jesus put forth his hand, and touched him, saying, I will; be thou clean. And immediately his leprosy was cleansed. (Matt. 8:3, KJV)
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 
-### (4) Matt. 8:3, - God's authority (Priest) to purify and save people
+### (4) Matt. 8:3, - God's authority (Priest) to purify and save man
 > And Jesus put forth his hand, and touched him, saying, I will; be thou clean. And immediately his leprosy was cleansed. (Matt. 8:3, KJV)
 
-### (5) Matt. 8:4, - the statement of the Word of God (V.Z. – the importance of sacrifice, not miracles)
+### (5) Matt. 8:4, - affirmation of the Word of God (V.Z. – the importance of sacrifice, not miracles)
 > And Jesus saith unto him, See thou tell no man; but go thy way, shew thyself to the priest, and offer the gift that Moses commanded, for a testimony unto them. (Matt. 8:4, KJV)
 
 ## 2) Matt. 8:5-17, - The Covenant, Christ, God's non-acceptance
@@ -34,16 +34,16 @@
 ### (1) Matt. 8:6, - understanding of Christ (the Lord) and His Omnipotence
 > And saying, Lord, my servant lieth at home sick of the palsy, grievously tormented. (Matt. 8:6, KJV)
 
-### (2) Matt. 8:8-9, - understanding the action of the Word of God
+### (2) Matt. 8:8-9, - understanding the operation of the Word of God
 > The centurion answered and said, Lord, I am not worthy that thou shouldest come under my roof: but speak the word only, and my servant shall be healed. For I am a man under authority, having soldiers under me: and I say to this man, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth it. (Matt. 8:8-9, KJV)
 
-### (3) Matt. 8:10, - faith is God (correct understanding and fulfillment of the Word of God)
+### (3) Matt. 8:10, - the faith of God (correct understanding and fulfillment of the Word of God)
 > When Jesus heard it, he marvelled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel. (Matt. 8:10, KJV)
 
-### (4) Matt. 8:11-12, is the condition of salvation (faith is God, acceptance is Christ, Pagan.)
+### (4) Matt. 8:11-12, - the condition of salvation (faith of God, acceptance of Christ, paganism)
 > And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven. But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth. (Matt. 8:11-12, KJV)
 
-### (5) Matt. 8:13-17, - God's power to heal and free people
+### (5) Matt. 8:13-17, - God's power to heal and set man free
 > And Jesus said unto the centurion, Go thy way; and as thou hast believed, so be it done unto thee. And his servant was healed in the selfsame hour. And when Jesus was come into Peter’s house, he saw his wife’s mother laid, and sick of a fever. And he touched her hand, and the fever left her: and she arose, and ministered unto them. When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with his word, and healed all that were sick: That it might be fulfilled which was spoken by Esaias the prophet, saying, Himself took our infirmities, and bare our sicknesses. (Matt. 8:13-17, KJV)
 
 ## 3) Matt. 8:18-22, - understanding the destiny of God's people
@@ -71,7 +71,7 @@
 ### (1) Matt. 8:23-24, - God's sovereignty, a test of faith
 > And when he was entered into a ship, his disciples followed him. And, behold, there arose a great tempest in the sea, insomuch that the ship was covered with the waves: but he was asleep. (Matt. 8:23-24, KJV)
 
-### (2) Matt. 8:25-26, - misunderstanding of the Word of God, the Covenant, Christ (intended. Christ)
+### (2) Matt. 8:25-26, - misunderstanding of the Word of God, the Covenant, and Christ (intended. Of Christ)
 > And his disciples came to him, and awoke him, saying, Lord, save us: we perish. And he saith unto them, Why are ye fearful, O ye of little faith? Then he arose, and rebuked the winds and the sea; and there was a great calm. (Matt. 8:25-26, KJV)
 
 ### (3) Matt. 8:27, - God's sovereignty, authority, and dominion
@@ -80,12 +80,12 @@
 ## 5) Matt. 8:28-34, - understanding the actions of Satan
 > And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way. And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time? And there was a good way off from them an herd of many swine feeding. So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine. And he said unto them, Go. And when they were come out, they went into the herd of swine: and, behold, the whole herd of swine ran violently down a steep place into the sea, and perished in the waters. And they that kept them fled, and went their ways into the city, and told every thing, and what was befallen to the possessed of the devils. And, behold, the whole city came out to meet Jesus: and when they saw him, they besought him that he would depart out of their coasts. (Matt. 8:28-34, KJV)
 
-### (1) Matt. 8:28-29, - understanding the Word of God, the essence of Christ, the future of Satan (Mark 5:1-9,Luke 8:26-33, - the absence of contradictions in the Gospels, a more accurate explanation of the order of events, two possessed, but one saved, God's sovereignty)
+### (1) Matt. 8:28-29, - understanding the Word of God, the essence of Christ, the future of Satan (Mark 5:1-9,Luke 8:26-33, - absence of contradictions in the Gospels, a more accurate explanation of the order of events, two possessed, but one saved, God's sovereignty)
 > And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way. And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time? (Matt. 8:28-29, KJV)
 > And they came over unto the other side of the sea, into the country of the Gadarenes. And when he was come out of the ship, immediately there met him out of the tombs a man with an unclean spirit, Who had his dwelling among the tombs; and no man could bind him, no, not with chains: Because that he had been often bound with fetters and chains, and the chains had been plucked asunder by him, and the fetters broken in pieces: neither could any man tame him. And always, night and day, he was in the mountains, and in the tombs, crying, and cutting himself with stones. But when he saw Jesus afar off, he ran and worshipped him, And cried with a loud voice, and said, What have I to do with thee, Jesus, thou Son of the most high God? I adjure thee by God, that thou torment me not. For he said unto him, Come out of the man, thou unclean spirit. And he asked him, What is thy name? And he answered, saying, My name is Legion: for we are many. (Mark 5:1-9, KJV)
 > And they arrived at the country of the Gadarenes, which is over against Galilee. And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in any house, but in the tombs. When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, thou Son of God most high? I beseech thee, torment me not. (For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness.) And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him. And they besought him that he would not command them to go out into the deep. And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them. Then went the devils out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked. (Luke 8:26-33, KJV)
 
-### (2) Matt. 8:30-31, - understanding of the action and authority of Christ (contrariwise Satan)
+### (2) Matt. 8:30-31, - an understanding of the action and authority of Christ (lk. of Satan)
 > And there was a good way off from them an herd of many swine feeding. So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine. (Matt. 8:30-31, KJV)
 
 ### (3) Matt. 8:32; 7:6 (7:6,Rom. 8:2), - understanding the legitimate basis of the Word of God (A herd of pigs is a prototype of unbelievers, complete destruction)
@@ -102,6 +102,6 @@
 
 ## Conclusion:
 
-### (1) The importance of accepting the Word of God, the Covenant, Christ, and Human Salvation
+### (1) The importance of accepting the Word of God, the Covenant, Christ, and human salvation
 
-### (2) The importance of understanding and fulfilling the purpose – knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization
+### (2) The importance of understanding and fulfilling the purpose of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization

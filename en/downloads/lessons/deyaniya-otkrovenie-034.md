@@ -16,24 +16,24 @@
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-### (1) Knowledge and transmission of the Word of God, the Covenant, Christ (the servant of Jesus Christ, the importance of fully and responsibly fulfilling the will of God)
+### (1) Knowledge and transmission of the Word of God, the Covenant, and Christ (servant of Jesus Christ, the importance of fully and responsibly fulfilling God's will)
 
 ### (2) God's sovereignty (foreknowledge, election, calling)
 
-### (3) Knowledge of the Word of God, the Covenant, Christ (sanctification)
+### (3) Knowledge of the Word of God, the Covenant, and Christ (sanctification)
 
 ### (4) God's sovereignty and control (preservation in salvation)
 
-## 2) Jude 1:3-4, - the importance of understanding the Word of God, the Covenant, Christ
+## 2) Jude 1:3-4, - the importance of understanding the Word of God, the Covenant, and Christ
 > Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once delivered unto the saints. For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ. (Jude 1:3-4, KJV)
 
 ### (1) Common salvation – The Sacrifice and the Struggle of Christ, confidence
 
 ### (2) The importance of preserving faith is the purity of teaching (the Word of God, the Covenant, Christ)
 
-### (3) False teachers, distortion of the Word of God, the Testaments, Christ, Nicolaitans. (God's permission is everyone's right to choose)
+### (3) False teachers, distortion of the Word of God, the Covenant, Christ, the Nicolaitans. (God's permission is everyone's right to choose)
 
-## 3) Jude 1:5-7, - rejection of the Word of God, the Covenant, Christ (examples of unbelief)
+## 3) Jude 1:5-7, - rejection of the Word of God, the Covenant, and Christ (examples of unbelief)
 > I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not. And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day. Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire. (Jude 1:5-7, KJV)
 
 ### (1) The People of Israel. Heb. 3:14, 19
@@ -45,7 +45,7 @@
 
 ### (3) Sodom and Gomorrah
 
-## 4) Jude 1:8-13, - non-acceptance of the Word of God, the Covenant, Christ, false teachers
+## 4) Jude 1:8-13, - rejection of the Word of God, the Covenant, Christ, the false teacher
 > Likewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of dignities. Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke thee. But these speak evil of those things which they know not: but what they know naturally, as brute beasts, in those things they corrupt themselves. Woe unto them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the gainsaying of Core. These are spots in your feasts of charity, when they feast with you, feeding themselves without fear: clouds they are without water, carried about of winds; trees whose fruit withereth, without fruit, twice dead, plucked up by the roots; Raging waves of the sea, foaming out their own shame; wandering stars, to whom is reserved the blackness of darkness for ever. (Jude 1:8-13, KJV)
 
 ### (1) Jude 1:4, - designed since ancient times
@@ -54,7 +54,7 @@
 #### (a) God's foreknowledge and election of every human being. Rom. 8:29
 > For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren. (Rom. 8:29, KJV)
 
-#### (b) God's sovereignty – God's assumption, God's permissible will
+#### (b) God's sovereignty is God's assumption, God's permissible will
 
 #### (c) A person's right to choose – understanding the reason for Satan's actions
 
@@ -78,7 +78,7 @@
 ### (4) Jude 1:12-13, - eyes open to believers
 > These are spots in your feasts of charity, when they feast with you, feeding themselves without fear: clouds they are without water, carried about of winds; trees whose fruit withereth, without fruit, twice dead, plucked up by the roots; Raging waves of the sea, foaming out their own shame; wandering stars, to whom is reserved the blackness of darkness for ever. (Jude 1:12-13, KJV)
 
-#### (a) Waterless clouds – no water and no permanence (lack of correct teaching, the Word of God, the Covenant, Christ) John 4:14
+#### (a) Waterless clouds – there is no water and there is no permanence (absence of the correct teaching of the Word of God, the Covenant, Christ) John 4:14
 > But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life. (John 4:14, KJV)
 
 #### (b) Barren trees – no fruit (understanding salvation), twice dead and uprooted – separation from God during earthly life and in eternity (God's foreknowledge and election) Rom. 8:29,1 Pet. 1:1-2
@@ -99,24 +99,24 @@
 
 ### (1) Enoch is God's prophet, proclaiming the Word of God
 
-### (2) Understanding the 1st Coming of Christ – the Salvation of mankind
+### (2) Understanding the 1st Coming of Christ - the Salvation of mankind
 
-### (3) Understanding of the 2nd coming of Christ is the judgment of sinners. (Murmurers, deeds of the flesh, idle talk, hypocrisy, self-interest)
+### (3) The understanding of the 2nd coming of Christ is judgment on sinners. (Murmurers, deeds of the flesh, idle talk, hypocrisy, self-interest)
 
-## 6) Jude 1:17-19, - the undoubted fulfillment of the Word of God, the Covenant, Christ
+## 6) Jude 1:17-19, - the undoubted fulfillment of the Word of God, the Covenant, of Christ
 > But, beloved, remember ye the words which were spoken before of the apostles of our Lord Jesus Christ; How that they told you there should be mockers in the last time, who should walk after their own ungodly lusts. These be they who separate themselves, sensual, having not the Spirit. (Jude 1:17-19, KJV)
 
 ### (1) False teachers, the action of Satan is a person's right to choose
 
-### (2) Rejection of the Word of God, the Covenant, Christ (spiritual, visible)
+### (2) Rejection of the Word of God, the Covenant, and Christ (spiritual, visible)
 
 ## 7) Jude 1:20-25, - knowledge and transmission of the Word of God, the Covenant, Christ
 > But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost, Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life. And of some have compassion, making a difference: And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh. Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy, To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen. (Jude 1:20-25, KJV)
 
-### (1) Jude 1:20-21, - The importance of abiding in the Word of God, the Covenant, Christ (The importance of constant and systematic learning)
+### (1) Jude 1:20-21, - The importance of abiding in the Word of God, the Covenant, and Christ (The importance of constant and systematic learning)
 > But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost, Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life. (Jude 1:20-21, KJV)
 
-### (2) Jude 1:22-23, - the importance of transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization (The importance of the right approach, admonition and explanation of the Word of God, the Covenant, Christ to every person, fulfilling the will of God)
+### (2) Jude 1:22-23, - the importance of transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization (The importance of the right approach, admonition, and explanation of the Word of God, the Covenant, and Christ to each person, fulfilling the will of God)
 > And of some have compassion, making a difference: And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh. (Jude 1:22-23, KJV)
 
 ### (3) Jude 1:24, - The importance of understanding God's sovereignty and overseeing the salvation of every human being in God's people

@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,16 +233,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>Eph. 3</h1>
-<h2 id="s1">3.1) Eph. 3:1-12, - the importance of understanding the Word of God, the Covenant, Christ</h2>
+<h2 id="s1">3.1) Eph. 3:1-12, - the importance of understanding the Word of God, the Covenant, and Christ</h2>
 <blockquote data-v="kjv"><p>For this cause I Paul, the prisoner of Jesus Christ for you Gentiles, If ye have heard of the dispensation of the grace of God which is given me to you-ward: How that by revelation he made known unto me the mystery; (as I wrote afore in few words, Whereby, when ye read, ye may understand my knowledge in the mystery of Christ) Which in other ages was not made known unto the sons of men, as it is now revealed unto his holy apostles and prophets by the Spirit; That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel: Whereof I was made a minister, according to the gift of the grace of God given unto me by the effectual working of his power. Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ; And to make all men see what is the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ: To the intent that now unto the principalities and powers in heavenly places might be known by the church the manifold wisdom of God, According to the eternal purpose which he purposed in Christ Jesus our Lord: In whom we have boldness and access with confidence by the faith of him.</p><cite>Eph. 3:1-12 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For this reason I, Paul, the prisoner of Christ Jesus for the sake of you Gentiles... Surely you have heard about the stewardship of God’s grace that was given to me for you, that is, the mystery made known to me by revelation, as I have already written briefly. In reading this, then, you will be able to understand my insight into the mystery of Christ, which was not made known to men in other generations as it has now been revealed by the Spirit to God’s holy apostles and prophets. This mystery is that through the gospel the Gentiles are fellow heirs, fellow members of the body, and fellow partakers of the promise in Christ Jesus. I became a servant of this gospel by the gift of God’s grace, given me through the working of His power. Though I am less than the least of all the saints, this grace was given me: to preach to the Gentiles the unsearchable riches of Christ, and to illuminate for everyone the stewardship of this mystery, which for ages past was kept hidden in God, who created all things. His purpose was that now, through the church, the manifold wisdom of God should be made known to the rulers and authorities in the heavenly realms, according to the eternal purpose that He accomplished in Christ Jesus our Lord. In Him and through faith in Him we may enter God’s presence with boldness and confidence.</p><cite>Eph. 3:1-12 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For this cause I, Paul, am the prisoner of Christ Jesus on behalf of you Gentiles, if it is so that you have heard of the administration of that grace of God which was given me toward you, how that by revelation the mystery was made known to me, as I wrote before in few words, by which, when you read, you can perceive my understanding in the mystery of Christ, which in other generations was not made known to the children of men, as it has now been revealed to his holy apostles and prophets in the Spirit, that the Gentiles are fellow heirs and fellow members of the body, and fellow partakers of his promise in Christ Jesus through the Good News, of which I was made a servant according to the gift of that grace of God which was given me according to the working of his power. To me, the very least of all saints, was this grace given, to preach to the Gentiles the unsearchable riches of Christ, and to make all men see what is the administration of the mystery which for ages has been hidden in God, who created all things through Jesus Christ, to the intent that now through the assembly the manifold wisdom of God might be made known to the principalities and the powers in the heavenly places, according to the eternal purpose which he accomplished in Christ Jesus our Lord. In him we have boldness and access in confidence through our faith in him.</p><cite>Eph. 3:1-12 · WEB</cite></blockquote>
@@ -302,7 +304,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>For God does not show favoritism.</p><cite>Rom. 2:11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For there is no partiality with God.</p><cite>Rom. 2:11 · WEB</cite></blockquote>
 <h4>(a) V.Z. – the importance of joining the Israelites according to the flesh through accepting the Word of God, the Covenant, and Christ (a mystery hidden until time)</h4>
-<h4>(b) Understanding the mystery of Christ is the action of the Holy Spirit</h4>
+<h4>(b) Understanding the mystery of Christ is the work of the Holy Spirit</h4>
 <h3>(4) Eph. 3:7, - the importance of understanding God's sovereignty and control, the importance of God's grace for being able to serve God</h3>
 <blockquote data-v="kjv"><p>Whereof I was made a minister, according to the gift of the grace of God given unto me by the effectual working of his power.</p><cite>Eph. 3:7 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>I became a servant of this gospel by the gift of God’s grace, given me through the working of His power.</p><cite>Eph. 3:7 · BSB</cite></blockquote>
@@ -311,7 +313,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ; And to make all men see what is the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ: To the intent that now unto the principalities and powers in heavenly places might be known by the church the manifold wisdom of God, According to the eternal purpose which he purposed in Christ Jesus our Lord: In whom we have boldness and access with confidence by the faith of him.</p><cite>Eph. 3:8-12 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Though I am less than the least of all the saints, this grace was given me: to preach to the Gentiles the unsearchable riches of Christ, and to illuminate for everyone the stewardship of this mystery, which for ages past was kept hidden in God, who created all things. His purpose was that now, through the church, the manifold wisdom of God should be made known to the rulers and authorities in the heavenly realms, according to the eternal purpose that He accomplished in Christ Jesus our Lord. In Him and through faith in Him we may enter God’s presence with boldness and confidence.</p><cite>Eph. 3:8-12 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>To me, the very least of all saints, was this grace given, to preach to the Gentiles the unsearchable riches of Christ, and to make all men see what is the administration of the mystery which for ages has been hidden in God, who created all things through Jesus Christ, to the intent that now through the assembly the manifold wisdom of God might be made known to the principalities and the powers in the heavenly places, according to the eternal purpose which he accomplished in Christ Jesus our Lord. In him we have boldness and access in confidence through our faith in him.</p><cite>Eph. 3:8-12 · WEB</cite></blockquote>
-<h4>(a) Eph. 3:8, - the gospel of the unsearchable riches of Christ, the knowledge and transmission of the Word of God, the Covenant, Christ</h4>
+<h4>(a) Eph. 3:8, - the proclamation of the unsearchable riches of Christ, the knowledge and transmission of the Word of God, the Covenant, of Christ</h4>
 <blockquote data-v="kjv"><p>Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ;</p><cite>Eph. 3:8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Though I am less than the least of all the saints, this grace was given me: to preach to the Gentiles the unsearchable riches of Christ,</p><cite>Eph. 3:8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>To me, the very least of all saints, was this grace given, to preach to the Gentiles the unsearchable riches of Christ,</p><cite>Eph. 3:8 · WEB</cite></blockquote>
@@ -338,18 +340,18 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>In whom we have boldness and access with confidence by the faith of him.</p><cite>Eph. 3:12 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>In Him and through faith in Him we may enter God’s presence with boldness and confidence.</p><cite>Eph. 3:12 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>In him we have boldness and access in confidence through our faith in him.</p><cite>Eph. 3:12 · WEB</cite></blockquote>
-<h2 id="s2">2) Eph. 3:13-21, - the importance of understanding the Word of God, the Covenant, Christ</h2>
+<h2 id="s2">2) Eph. 3:13-21, - the importance of understanding the Word of God, the Covenant, and Christ</h2>
 <blockquote data-v="kjv"><p>Wherefore I desire that ye faint not at my tribulations for you, which is your glory. For this cause I bow my knees unto the Father of our Lord Jesus Christ, Of whom the whole family in heaven and earth is named, That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man; That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love, May be able to comprehend with all saints what is the breadth, and length, and depth, and height; And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God. Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us, Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen.</p><cite>Eph. 3:13-21 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So I ask you not to be discouraged because of my sufferings for you, which are your glory. ... for this reason I bow my knees before the Father, from whom every family in heaven and on earth derives its name. I ask that out of the riches of His glory He may strengthen you with power through His Spirit in your inner being, so that Christ may dwell in your hearts through faith. Then you, being rooted and grounded in love, will have power, together with all the saints, to comprehend the length and width and height and depth of the love of Christ, and to know this love that surpasses knowledge, that you may be filled with all the fullness of God. Now to Him who is able to do immeasurably more than all we ask or imagine, according to His power that is at work within us, to Him be the glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen.</p><cite>Eph. 3:13-21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Therefore I ask that you may not lose heart at my troubles for you, which are your glory. For this cause, I bow my knees to the Father of our Lord Jesus Christ, from whom every family in heaven and on earth is named, that he would grant you, according to the riches of his glory, that you may be strengthened with power through his Spirit in the inner person, that Christ may dwell in your hearts through faith, to the end that you, being rooted and grounded in love, may be strengthened to comprehend with all the saints what is the width and length and height and depth, and to know Christ’s love which surpasses knowledge, that you may be filled with all the fullness of God. Now to him who is able to do exceedingly abundantly above all that we ask or think, according to the power that works in us, to him be the glory in the assembly and in Christ Jesus to all generations, forever and ever. Amen.</p><cite>Eph. 3:13-21 · WEB</cite></blockquote>
-<h3>(1) Eph. 3:13, - the importance of fulfilling the destiny of the people of God</h3>
+<h3>(1) Eph. 3:13, - the importance of fulfilling the destiny of God's people</h3>
 <blockquote data-v="kjv"><p>Wherefore I desire that ye faint not at my tribulations for you, which is your glory.</p><cite>Eph. 3:13 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So I ask you not to be discouraged because of my sufferings for you, which are your glory.</p><cite>Eph. 3:13 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Therefore I ask that you may not lose heart at my troubles for you, which are your glory.</p><cite>Eph. 3:13 · WEB</cite></blockquote>
-<h4>(a) Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization</h4>
+<h4>(a) Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization</h4>
 <h4>(b) The importance of preparing for the 2nd Coming of Christ</h4>
 <h4>(c) The importance of accepting the Word of God, the Covenant, and Christ, guided not by the visible, but by the invisible (glory to the Ephesians, the persecution of Ap. St. Paul's)</h4>
-<h3>(2) Eph. 3:14-15, - the importance of accepting the Word of God, the Covenant, Christ</h3>
+<h3>(2) Eph. 3:14-15, - the importance of accepting the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>For this cause I bow my knees unto the Father of our Lord Jesus Christ, Of whom the whole family in heaven and earth is named,</p><cite>Eph. 3:14-15 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>... for this reason I bow my knees before the Father, from whom every family in heaven and on earth derives its name.</p><cite>Eph. 3:14-15 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For this cause, I bow my knees to the Father of our Lord Jesus Christ, from whom every family in heaven and on earth is named,</p><cite>Eph. 3:14-15 · WEB</cite></blockquote>
@@ -357,7 +359,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h4>(b) The importance of understanding God's fatherhood – God is the Father of Christ (the Only Begotten Son of God) and the Father of all God's children (adoption by the great love, mercy and grace of God)</h4>
 <h4>(c) The importance of understanding spiritual fatherhood – the transmission of the Word of God, the Covenant, Christ, the multiplication of God's children</h4>
 <h4>(d) The importance of physical fatherhood – the importance of family, the coming of man into the physical world, preparation and choice for eternity, the fulfillment of God's plan</h4>
-<h3>(3) Eph. 3:16-19, - the importance of accepting the Word of God, the Covenant, Christ</h3>
+<h3>(3) Eph. 3:16-19, - the importance of accepting the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man; That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love, May be able to comprehend with all saints what is the breadth, and length, and depth, and height; And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God.</p><cite>Eph. 3:16-19 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>I ask that out of the riches of His glory He may strengthen you with power through His Spirit in your inner being, so that Christ may dwell in your hearts through faith. Then you, being rooted and grounded in love, will have power, together with all the saints, to comprehend the length and width and height and depth of the love of Christ, and to know this love that surpasses knowledge, that you may be filled with all the fullness of God.</p><cite>Eph. 3:16-19 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>that he would grant you, according to the riches of his glory, that you may be strengthened with power through his Spirit in the inner person, that Christ may dwell in your hearts through faith, to the end that you, being rooted and grounded in love, may be strengthened to comprehend with all the saints what is the width and length and height and depth, and to know Christ’s love which surpasses knowledge, that you may be filled with all the fullness of God.</p><cite>Eph. 3:16-19 · WEB</cite></blockquote>
@@ -365,11 +367,11 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man;</p><cite>Eph. 3:16 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>I ask that out of the riches of His glory He may strengthen you with power through His Spirit in your inner being,</p><cite>Eph. 3:16 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>that he would grant you, according to the riches of his glory, that you may be strengthened with power through his Spirit in the inner person,</p><cite>Eph. 3:16 · WEB</cite></blockquote>
-<h4>(b) Eph. 3:17, - importance of the faith of God, acceptance of the Word of God, the Covenant, Christ, salvation of man (Christ in us)</h4>
+<h4>(b) Eph. 3:17, - the importance of God's faith, acceptance of God's Word, Covenant, Christ, salvation of man (Christ is in us)</h4>
 <blockquote data-v="kjv"><p>That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love,</p><cite>Eph. 3:17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>so that Christ may dwell in your hearts through faith. Then you, being rooted and grounded in love,</p><cite>Eph. 3:17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>that Christ may dwell in your hearts through faith, to the end that you, being rooted and grounded in love,</p><cite>Eph. 3:17 · WEB</cite></blockquote>
-<h4>(c) Eph. 3:18, - the importance of learning, the systematic knowledge of the Word of God, the Covenant, Christ, the establishment and rooting in the love of God, the correct understanding of the essence and meaning of the environment through the action of the love of God</h4>
+<h4>(c) Eph. 3:18, - the importance of learning, the systematic knowledge of the Word of God, the Covenant, Christ, the establishment and rooting in the love of God, the correct understanding of the essence and meaning of the environment through the action of God's love</h4>
 <blockquote data-v="kjv"><p>May be able to comprehend with all saints what is the breadth, and length, and depth, and height;</p><cite>Eph. 3:18 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>will have power, together with all the saints, to comprehend the length and width and height and depth</p><cite>Eph. 3:18 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>may be strengthened to comprehend with all the saints what is the width and length and height and depth,</p><cite>Eph. 3:18 · WEB</cite></blockquote>
@@ -377,7 +379,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God.</p><cite>Eph. 3:19 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>of the love of Christ, and to know this love that surpasses knowledge, that you may be filled with all the fullness of God.</p><cite>Eph. 3:19 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>and to know Christ’s love which surpasses knowledge, that you may be filled with all the fullness of God.</p><cite>Eph. 3:19 · WEB</cite></blockquote>
-<h3>(4) Eph. 3:20-21, - the importance of knowing and transmitting the Word of God, the Covenant, Christ</h3>
+<h3>(4) Eph. 3:20-21, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us, Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen.</p><cite>Eph. 3:20-21 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Now to Him who is able to do immeasurably more than all we ask or imagine, according to His power that is at work within us, to Him be the glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen.</p><cite>Eph. 3:20-21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now to him who is able to do exceedingly abundantly above all that we ask or think, according to the power that works in us, to him be the glory in the assembly and in Christ Jesus to all generations, forever and ever. Amen.</p><cite>Eph. 3:20-21 · WEB</cite></blockquote>

@@ -13,7 +13,7 @@
 
 ### (1) Rejection of the Word of God, the Covenant, Christ, loss of purpose – slavery
 
-### (2) The preservation of the Covenant family, Christ – the knowledge and transmission of the Word of God (Daniel, Shadrach, Mesach, Abednego, Ezra, Nehemiah. Mordecai, etc.)
+### (2) The preservation of the family of the Covenant, of Christ, is the knowledge and transmission of the Word of God (Daniel, Shadrach, Mesach, Abednego, Ezra, Nehemiah. Mordecai, etc.)
 
 ## 2) The stages of the return of God's people
 
@@ -31,18 +31,18 @@
 
 ### (3) Stage 3 – Nehemiah, the walls of Jerusalem (444 BC) (King Artaxerxes 1,464-423 BC)
 
-## 3) Ezra 1-6, - God sovereignty, the 1st stage of the return of the people of God 2 Chr. 36:5-23,Isa. 44:28; 45:1-4,Jer. 29:10
+## 3) Ezra 1-6, - God's sovereignty, the 1st stage of the return of God's people 2 Chr. 36:5-23,Isa. 44:28; 45:1-4,Jer. 29:10
 > Jehoiakim was twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did that which was evil in the sight of the LORD his God. Against him came up Nebuchadnezzar king of Babylon, and bound him in fetters, to carry him to Babylon. Nebuchadnezzar also carried of the vessels of the house of the LORD to Babylon, and put them in his temple at Babylon. Now the rest of the acts of Jehoiakim, and his abominations which he did, and that which was found in him, behold, they are written in the book of the kings of Israel and Judah: and Jehoiachin his son reigned in his stead. Jehoiachin was eight years old when he began to reign, and he reigned three months and ten days in Jerusalem: and he did that which was evil in the sight of the LORD. And when the year was expired, king Nebuchadnezzar sent, and brought him to Babylon, with the goodly vessels of the house of the LORD, and made Zedekiah his brother king over Judah and Jerusalem. Zedekiah was one and twenty years old when he began to reign, and reigned eleven years in Jerusalem. And he did that which was evil in the sight of the LORD his God, and humbled not himself before Jeremiah the prophet speaking from the mouth of the LORD. And he also rebelled against king Nebuchadnezzar, who had made him swear by God: but he stiffened his neck, and hardened his heart from turning unto the LORD God of Israel. Moreover all the chief of the priests, and the people, transgressed very much after all the abominations of the heathen; and polluted the house of the LORD which he had hallowed in Jerusalem. And the LORD God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place: But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the LORD arose against his people, till there was no remedy. Therefore he brought upon them the king of the Chaldees, who slew their young men with the sword in the house of their sanctuary, and had no compassion upon young man or maiden, old man, or him that stooped for age: he gave them all into his hand. And all the vessels of the house of God, great and small, and the treasures of the house of the LORD, and the treasures of the king, and of his princes; all these he brought to Babylon. And they burnt the house of God, and brake down the wall of Jerusalem, and burnt all the palaces thereof with fire, and destroyed all the goodly vessels thereof. And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia: To fulfil the word of the LORD by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years. Now in the first year of Cyrus king of Persia, that the word of the LORD spoken by the mouth of Jeremiah might be accomplished, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying, Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the LORD God of heaven given me; and he hath charged me to build him an house in Jerusalem, which is in Judah. Who is there among you of all his people? The LORD his God be with him, and let him go up. (2 Chr. 36:5-23, KJV)
 > That saith of Cyrus, He is my shepherd, and shall perform all my pleasure: even saying to Jerusalem, Thou shalt be built; and to the temple, Thy foundation shall be laid. (Isa. 44:28, KJV)
 > Thus saith the LORD to his anointed, to Cyrus, whose right hand I have holden, to subdue nations before him; and I will loose the loins of kings, to open before him the two leaved gates; and the gates shall not be shut; I will go before thee, and make the crooked places straight: I will break in pieces the gates of brass, and cut in sunder the bars of iron: And I will give thee the treasures of darkness, and hidden riches of secret places, that thou mayest know that I, the LORD, which call thee by thy name, am the God of Israel. For Jacob my servant’s sake, and Israel mine elect, I have even called thee by thy name: I have surnamed thee, though thou hast not known me. (Isa. 45:1-4, KJV)
 > For thus saith the LORD, That after seventy years be accomplished at Babylon I will visit you, and perform my good word toward you, in causing you to return to this place. (Jer. 29:10, KJV)
 
-### (1) Ezra 1, - God sovereignty, fulfillment of the Word of God, decree of Cyrus
+### (1) Ezra 1, - God's sovereignty, fulfillment of God's Word, Cyrus decree
 
-#### (a) Ezra 1:1-4, - Cyrus, acceptance of the Word of God, the Covenant, Christ, Daniel's sermon
+#### (a) Ezra 1:1-4, - Cyrus, acceptance of the Word of God, the Covenant, Christ, Daniel's preaching
 > Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying, Thus saith Cyrus king of Persia, The LORD God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which is in Judah. Who is there among you of all his people? his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the LORD God of Israel, (he is the God,) which is in Jerusalem. And whosoever remaineth in any place where he sojourneth, let the men of his place help him with silver, and with gold, and with goods, and with beasts, beside the freewill offering for the house of God that is in Jerusalem. (Ezra 1:1-4, KJV)
 
-#### (b) Ezra 1:5-6, - the fulfillment of the Word of God, the Covenant, Christ, the participation of the people of God
+#### (b) Ezra 1:5-6, - fulfillment of the Word of God, the Covenant, of Christ, and the participation of God's people
 > Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all them whose spirit God had raised, to go up to build the house of the LORD which is in Jerusalem. And all they that were about them strengthened their hands with vessels of silver, with gold, with goods, and with beasts, and with precious things, beside all that was willingly offered. (Ezra 1:5-6, KJV)
 
 #### (c) Ezra 1:7-11, - the importance of Worship, Worldwide Evangelization (vessels)
@@ -58,9 +58,9 @@
 
 #### (d) The people of God
 
-### (3) Ezra 3, - restoration of the Temple, Worldwide Evangelization, mission
+### (3) Ezra 3, - restoration of the Temple, Worldwide Evangelization, purpose
 
-#### (a) Ezra 2:68-69, - Financial ministry of the people of God, Worldwide Evangelization
+#### (a) Ezra 2:68-69, - financial ministry of the people of God, Worldwide Evangelization
 > And some of the chief of the fathers, when they came to the house of the LORD which is at Jerusalem, offered freely for the house of God to set it up in his place: They gave after their ability unto the treasure of the work threescore and one thousand drams of gold, and five thousand pound of silver, and one hundred priests’ garments. (Ezra 2:68-69, KJV)
 
 #### (b) Ezra 3:1-6, - the resumption of Divine Services, the altar. (The importance of sacrifice, understanding the coming of Christ)
@@ -70,7 +70,7 @@
 > They gave money also unto the masons, and to the carpenters; and meat, and drink, and oil, unto them of Zidon, and to them of Tyre, to bring cedar trees from Lebanon to the sea of Joppa, according to the grant that they had of Cyrus king of Persia. Now in the second year of their coming unto the house of God at Jerusalem, in the second month, began Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and the remnant of their brethren the priests and the Levites, and all they that were come out of the captivity unto Jerusalem; and appointed the Levites, from twenty years old and upward, to set forward the work of the house of the LORD. Then stood Jeshua with his sons and his brethren, Kadmiel and his sons, the sons of Judah, together, to set forward the workmen in the house of God: the sons of Henadad, with their sons and their brethren the Levites. And when the builders laid the foundation of the temple of the LORD, they set the priests in their apparel with trumpets, and the Levites the sons of Asaph with cymbals, to praise the LORD, after the ordinance of David king of Israel. And they sang together by course in praising and giving thanks unto the LORD; because he is good, for his mercy endureth for ever toward Israel. And all the people shouted with a great shout, when they praised the LORD, because the foundation of the house of the LORD was laid. But many of the priests and Levites and chief of the fathers, who were ancient men, that had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice; and many shouted aloud for joy: So that the people could not discern the noise of the shout of joy from the noise of the weeping of the people: for the people shouted with a loud shout, and the noise was heard afar off. (Ezra 3:7-13, KJV)
 > In the seventh month, in the one and twentieth day of the month, came the word of the LORD by the prophet Haggai, saying, Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying, Who is left among you that saw this house in her first glory? and how do ye see it now? is it not in your eyes in comparison of it as nothing? Yet now be strong, O Zerubbabel, saith the LORD; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the LORD, and work: for I am with you, saith the LORD of hosts: According to the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not. For thus saith the LORD of hosts; Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land; And I will shake all nations, and the desire of all nations shall come: and I will fill this house with glory, saith the LORD of hosts. (Hag. 2:1-7, KJV)
 
-### (4) Ezra 4, - the action of Satan, stop the transmission of the Word of God, the Covenant, Christ
+### (4) Ezra 4, - the action of Satan, to stop the transmission of the Word of God, the Covenant, Christ
 
 #### (a) Ezra 4:1-5, - Samaritans, inaccurate understanding of the Word of God, the Covenant, Christ, the special importance of preserving the purity of the Word of God, the Covenant, Christ
 > Now when the adversaries of Judah and Benjamin heard that the children of the captivity builded the temple unto the LORD God of Israel; Then they came to Zerubbabel, and to the chief of the fathers, and said unto them, Let us build with you: for we seek your God, as ye do; and we do sacrifice unto him since the days of Esar-haddon king of Assur, which brought us up hither. But Zerubbabel, and Jeshua, and the rest of the chief of the fathers of Israel, said unto them, Ye have nothing to do with us to build an house unto our God; but we ourselves together will build unto the LORD God of Israel, as king Cyrus the king of Persia hath commanded us. Then the people of the land weakened the hands of the people of Judah, and troubled them in building, And hired counsellors against them, to frustrate their purpose, all the days of Cyrus king of Persia, even until the reign of Darius king of Persia. (Ezra 4:1-5, KJV)
@@ -80,17 +80,17 @@
 
 ### (5) Ezra 5, - God's sovereignty and control
 
-#### (a) Ezra 5:1-2, - fulfillment of the Word of God, the Covenant, Christ, God's plan and control
+#### (a) Ezra 5:1-2, - fulfillment of God's Word, Covenant, Christ, God's plan and control
 > Then the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that were in Judah and Jerusalem in the name of the God of Israel, even unto them. Then rose up Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and began to build the house of God which is at Jerusalem: and with them were the prophets of God helping them. (Ezra 5:1-2, KJV)
 
-#### (b) Ezra 5:3-17, - Satan's action, opposition to the fulfillment of the Word of God, the Covenant, Christ, report to King Darius of Persia
+#### (b) Ezra 5:3-17, is the act of Satan, resisting the fulfillment of the Word of God, the Covenant, and Christ, reporting to King Darius of Persia
 > At the same time came to them Tatnai, governor on this side the river, and Shethar-boznai, and their companions, and said thus unto them, Who hath commanded you to build this house, and to make up this wall? Then said we unto them after this manner, What are the names of the men that make this building? But the eye of their God was upon the elders of the Jews, that they could not cause them to cease, till the matter came to Darius: and then they returned answer by letter concerning this matter. The copy of the letter that Tatnai, governor on this side the river, and Shethar-boznai, and his companions the Apharsachites, which were on this side the river, sent unto Darius the king: They sent a letter unto him, wherein was written thus; Unto Darius the king, all peace. Be it known unto the king, that we went into the province of Judea, to the house of the great God, which is builded with great stones, and timber is laid in the walls, and this work goeth fast on, and prospereth in their hands. Then asked we those elders, and said unto them thus, Who commanded you to build this house, and to make up these walls? We asked their names also, to certify thee, that we might write the names of the men that were the chief of them. And thus they returned us answer, saying, We are the servants of the God of heaven and earth, and build the house that was builded these many years ago, which a great king of Israel builded and set up. But after that our fathers had provoked the God of heaven unto wrath, he gave them into the hand of Nebuchadnezzar the king of Babylon, the Chaldean, who destroyed this house, and carried the people away into Babylon. But in the first year of Cyrus the king of Babylon the same king Cyrus made a decree to build this house of God. And the vessels also of gold and silver of the house of God, which Nebuchadnezzar took out of the temple that was in Jerusalem, and brought them into the temple of Babylon, those did Cyrus the king take out of the temple of Babylon, and they were delivered unto one, whose name was Sheshbazzar, whom he had made governor; And said unto him, Take these vessels, go, carry them into the temple that is in Jerusalem, and let the house of God be builded in his place. Then came the same Sheshbazzar, and laid the foundation of the house of God which is in Jerusalem: and since that time even until now hath it been in building, and yet it is not finished. Now therefore, if it seem good to the king, let there be search made in the king’s treasure house, which is there at Babylon, whether it be so, that a decree was made of Cyrus the king to build this house of God at Jerusalem, and let the king send his pleasure to us concerning this matter. (Ezra 5:3-17, KJV)
 
 #### (c) God's sovereignty and control – the end of the reign of Cambyses II or Artaxerxes (536-522 BC)
 
-### (6) Ezra 6, - God sovereignty and control, fulfillment of the Word of God, the Covenant, Christ
+### (6) Ezra 6, - God's sovereignty and control, fulfillment of God's Word, Covenant, Christ
 
-#### (a) Ezra 6:1-14, - God sovereignty, King Darius, completion of the Temple
+#### (a) Ezra 6:1-14, - God's sovereignty, King Darius, completion of the Temple
 > Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon. And there was found at Achmetha, in the palace that is in the province of the Medes, a roll, and therein was a record thus written: In the first year of Cyrus the king the same Cyrus the king made a decree concerning the house of God at Jerusalem, Let the house be builded, the place where they offered sacrifices, and let the foundations thereof be strongly laid; the height thereof threescore cubits, and the breadth thereof threescore cubits; With three rows of great stones, and a row of new timber: and let the expenses be given out of the king’s house: And also let the golden and silver vessels of the house of God, which Nebuchadnezzar took forth out of the temple which is at Jerusalem, and brought unto Babylon, be restored, and brought again unto the temple which is at Jerusalem, every one to his place, and place them in the house of God. Now therefore, Tatnai, governor beyond the river, Shethar-boznai, and your companions the Apharsachites, which are beyond the river, be ye far from thence: Let the work of this house of God alone; let the governor of the Jews and the elders of the Jews build this house of God in his place. Moreover I make a decree what ye shall do to the elders of these Jews for the building of this house of God: that of the king’s goods, even of the tribute beyond the river, forthwith expenses be given unto these men, that they be not hindered. And that which they have need of, both young bullocks, and rams, and lambs, for the burnt offerings of the God of heaven, wheat, salt, wine, and oil, according to the appointment of the priests which are at Jerusalem, let it be given them day by day without fail: That they may offer sacrifices of sweet savours unto the God of heaven, and pray for the life of the king, and of his sons. Also I have made a decree, that whosoever shall alter this word, let timber be pulled down from his house, and being set up, let him be hanged thereon; and let his house be made a dunghill for this. And the God that hath caused his name to dwell there destroy all kings and people, that shall put to their hand to alter and to destroy this house of God which is at Jerusalem. I Darius have made a decree; let it be done with speed. Then Tatnai, governor on this side the river, Shethar-boznai, and their companions, according to that which Darius the king had sent, so they did speedily. And the elders of the Jews builded, and they prospered through the prophesying of Haggai the prophet and Zechariah the son of Iddo. And they builded, and finished it, according to the commandment of the God of Israel, and according to the commandment of Cyrus, and Darius, and Artaxerxes king of Persia. (Ezra 6:1-14, KJV)
 
 #### (b) Ezra 6:15-22, - consecration of the Temple, Sacrifice, Easter, Unleavened bread, fulfillment of the Word of God (516 BC)
@@ -98,7 +98,7 @@
 
 ## 4) The importance of understanding the meaning of the Temple
 
-### (1) The Temple – the importance of knowing and transmitting the Word of God, the Covenant, Christ, the ministry and glorification of God
+### (1) The Temple – the importance of knowing and transmitting the Word of God, the Covenant, Christ, serving and glorifying God
 
 ### (2) The loss of the Temple's purpose is destruction and annihilation
 
@@ -118,18 +118,18 @@
 
 ## 5) The importance of understanding the meaning of the books of Ezra, Esther, Nehemiah for the people of God in the New Testament
 
-### (1) The importance of the conquest of Canaan, the importance of rebuilding the Altar, the Temple, and Jerusalem – knowledge and transmission of the Word of God, the Covenants, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ
+### (1) The importance of the conquest of Canaan, the importance of rebuilding the Altar, the Temple, and Jerusalem – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, and preparation for the coming of Christ
 
 ### (2) Canaan in N.Z. – the whole world, the importance of local Churches to the ends of the earth, Worldwide Evangelization, fulfillment of destiny
 
-### (3) The Altar and Sacrifice in N.Z. – the importance of understanding Jesus Christ and His Sacrifice on the Cross of Calvary, the importance of properly understanding the Word of God, the Covenant, and Christ for man
+### (3) The Altar and Sacrifice in N.Z. – the importance of understanding Jesus Christ and His Sacrifice on the Cross of Calvary, the importance of a proper understanding of the Word of God, the Covenant, and Christ for man
 
 ### (4) The Temple and Jerusalem in N.Z. – the house of prayer, the local Churches, the central place of God's faith, the self-awareness of God's people, the importance of fulfilling the destiny
 
 ### (5) The Walls of Jerusalem in N.Z. – spiritual warfare, protection of the faith of God, the importance of proper Liturgy in N.Z. Acts 2:42
 > And they continued stedfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers. (Acts 2:42, KJV)
 
-### (6) The Book of Esther in N.Z. – understanding the unchanging actions of Satan, the attempt to destroy the people of God, stopping the knowledge and transmission of the Word of God, the Covenant, Christ (God's sovereignty and control)
+### (6) The Book of Esther in N.Z. – understanding the unchanging work of Satan, an attempt to destroy the people of God, stopping the knowledge and transmission of the Word of God, the Covenant, Christ (God's sovereignty and control)
 
 ## Conclusion:
 
@@ -137,14 +137,14 @@
 
 ### (2) The importance of understanding and fulfilling purpose
 
-### (3) The action of Satan is to stop the transmission of the Word of God, the Covenant, Christ, World Evangelization (Complaints to the kings of Persia – the importance of the Temple, World Evangelization)
+### (3) Satan's action is to stop the transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization (Complaints to the kings of Persia about the importance of the Temple and Worldwide Evangelization)
 
 ### (4) The Book of Ezra is an explanation of God's will for man
 
-#### (a) Zerubbabel, Jesus, Zechariah (King, Priest, Prophet) – the Prophet. Christ
+#### (a) Zerubbabel, Jesus, Zechariah (King, Priest, Prophet) – the Prophet. Of Christ
 
 #### (b) The people of God are the prototype of the Church
 
 #### (c) Christ and the Church – the restoration of God's Temple (people)
 
-#### (d) The Temple of God – knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization (The importance of teaching, the importance of disciples – descendants, the people of God)
+#### (d) The Temple of God – the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization (The importance of teaching, the importance of disciples – descendants, the people of God)

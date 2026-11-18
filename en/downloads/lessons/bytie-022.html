@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -268,7 +270,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>Only this have I found: I have discovered that God made mankind upright, but they have sought out many schemes.”</p><cite>Eccl. 7:29 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Behold, I have only found this: that God made mankind upright; but they search for many inventions.”</p><cite>Eccl. 7:29 · WEB</cite></blockquote>
 <h4>(a) The Holy and Righteous Man—the cause of Emmanuel, the status and responsibility of man</h4>
-<h4>(b) The spiritual man is the cause of Emmanuel, the knowledge and transmission of the Word of God, the Covenant, Christ, the fruits of the Spirit. 1 Cor. 2:14,Gal. 5:22-23</h4>
+<h4>(b) The spiritual man is the cause of Emmanuel, the knowledge and transmission of the Word of God, the Covenant, Christ, the fruits of the spirit. 1 Cor. 2:14,Gal. 5:22-23</h4>
 <blockquote data-v="kjv"><p>But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned.</p><cite>1 Cor. 2:14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>The natural man does not accept the things that come from the Spirit of God. For they are foolishness to him, and he cannot understand them, because they are spiritually discerned.</p><cite>1 Cor. 2:14 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now the natural man doesn’t receive the things of God’s Spirit, for they are foolishness to him; and he can’t know them, because they are spiritually discerned.</p><cite>1 Cor. 2:14 · WEB</cite></blockquote>
@@ -289,7 +291,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>in which you used to walk when you conformed to the ways of this world and of the ruler of the power of the air, the spirit who is now at work in the sons of disobedience.</p><cite>Eph. 2:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the children of disobedience.</p><cite>Eph. 2:2 · WEB</cite></blockquote>
 <h4>(a) Sinful and unrighteous man - no Emmanuel, status and responsibility of man</h4>
-<h4>(b) Carnal or spiritual man – there is no Emmanuel, lack of knowledge and transmission of the Word of God, the Covenant, Christ, the works of the flesh 1 Cor. 2:14,Gal. 5:19-21</h4>
+<h4>(b) Carnal or spiritual man – there is no Emmanuel, the lack of knowledge and transmission of the Word of God, the Covenant, Christ, the work of the flesh 1 Cor. 2:14,Gal. 5:19-21</h4>
 <blockquote data-v="kjv"><p>But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned.</p><cite>1 Cor. 2:14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>The natural man does not accept the things that come from the Spirit of God. For they are foolishness to him, and he cannot understand them, because they are spiritually discerned.</p><cite>1 Cor. 2:14 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now the natural man doesn’t receive the things of God’s Spirit, for they are foolishness to him; and he can’t know them, because they are spiritually discerned.</p><cite>1 Cor. 2:14 · WEB</cite></blockquote>
@@ -323,7 +325,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, Meekness, temperance: against such there is no law.</p><cite>Gal. 5:22-23 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. Against such things there is no law.</p><cite>Gal. 5:22-23 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faith, gentleness, and self-control. Against such things there is no law.</p><cite>Gal. 5:22-23 · WEB</cite></blockquote>
-<h4>(c) Carnal believer (strong influence of the remnants of sin) – the reason is Emmanuel, weak knowledge and transmission of the Word of God, the Covenant, Christ, self-will, desire for the visible. 1 Cor. 3:1-4</h4>
+<h4>(c) Carnal believer (strong influence of the remnants of sin) – the cause is Emmanuel, weak knowledge and transmission of the Word of God, the Covenant, Christ, self-will, desire for the visible. 1 Cor. 3:1-4</h4>
 <blockquote data-v="kjv"><p>And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ. I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able. For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men? For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?</p><cite>1 Cor. 3:1-4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Brothers, I could not address you as spiritual, but as worldly—as infants in Christ. I gave you milk, not solid food, for you were not yet ready for solid food. In fact, you are still not ready, for you are still worldly. For since there is jealousy and dissension among you, are you not worldly? Are you not walking in the way of man? For when one of you says, “I follow Paul,” and another, “I follow Apollos,” are you not mere men?</p><cite>1 Cor. 3:1-4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Brothers, I couldn’t speak to you as to spiritual, but as to fleshly, as to babies in Christ. I fed you with milk, not with solid food, for you weren’t yet ready. Indeed, you aren’t ready even now, for you are still fleshly. For insofar as there is jealousy, strife, and factions among you, aren’t you fleshly, and don’t you walk in the ways of men? For when one says, “I follow Paul,” and another, “I follow Apollos,” aren’t you fleshly?</p><cite>1 Cor. 3:1-4 · WEB</cite></blockquote>
@@ -360,7 +362,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>For by one offering he has perfected forever those who are being sanctified.</p><cite>Heb. 10:14 · WEB</cite></blockquote>
 <h4>(a) RELIGION – works for obtaining Holiness and Righteousness</h4>
 <h4>(b) The GOOD NEWS – works as a consequence of receiving Holiness and Righteousness through faith in Christ and accepting His Sacrifice, the action and help of God's grace</h4>
-<h3>(4) God's Holiness and Righteousness "de jure" - the status and responsibility of man, acceptance and preservation of the Word of God, the Covenant, Christ</h3>
+<h3>(4) God's de jure Holiness and Righteousness is the status and responsibility of man, the acceptance and preservation of the Word of God, the Covenant, and Christ</h3>
 <h3>(5) God's "de facto" Holiness and Righteousness is the effect of God's grace, sanctification and change of man 1 Pet. 1:15-16,Heb. 12:14,Eph. 1:4-5</h3>
 <blockquote data-v="kjv"><p>But as he which hath called you is holy, so be ye holy in all manner of conversation; Because it is written, Be ye holy; for I am holy.</p><cite>1 Pet. 1:15-16 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But just as He who called you is holy, so be holy in all you do, for it is written: “Be holy, because I am holy.”</p><cite>1 Pet. 1:15-16 · BSB</cite></blockquote>
@@ -395,7 +397,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ, And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:</p><cite>Phil. 3:8-9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>More than that, I count all things as loss compared to the surpassing excellence of knowing Christ Jesus my Lord, for whom I have lost all things. I consider them rubbish, that I may gain Christ and be found in Him, not having my own righteousness from the law, but that which is through faith in Christ, the righteousness from God on the basis of faith.</p><cite>Phil. 3:8-9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yes most certainly, and I count all things to be a loss for the excellency of the knowledge of Christ Jesus, my Lord, for whom I suffered the loss of all things, and count them nothing but refuse, that I may gain Christ and be found in him, not having a righteousness of my own, that which is of the law, but that which is through faith in Christ, the righteousness which is from God by faith,</p><cite>Phil. 3:8-9 · WEB</cite></blockquote>
-<h3>(7) Loss of Righteousness and Holiness – rejection of the Word of God, the Covenant, Christ</h3>
+<h3>(7) The loss of Righteousness and Holiness is the abandonment of the Word of God, the Covenant, and Christ</h3>
 <h2 id="s3">3) The imputation of Righteousness and Holiness to man</h2>
 <h3>(1) V.Z. – faith in the coming Christ, understanding of His Sacrifice. (Imputation of holiness and righteousness by faith, regardless of works)</h3>
 <h4>(a) Heb. 11:4,Luke 11:49-51 (1 Pet. 1:10-11,Acts 10:43), - Abel</h4>
@@ -463,7 +465,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>or because of these surpassingly great revelations. So to keep me from becoming conceited, I was given a thorn in my flesh, a messenger of Satan, to torment me. Three times I pleaded with the Lord to take it away from me. But He said to me, “My grace is sufficient for you, for My power is perfected in weakness.” Therefore I will boast all the more gladly in my weaknesses, so that the power of Christ may rest on me.</p><cite>2 Cor. 12:7-9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>By reason of the exceeding greatness of the revelations, that I should not be exalted excessively, a thorn in the flesh was given to me: a messenger of Satan to torment me, that I should not be exalted excessively. Concerning this thing, I begged the Lord three times that it might depart from me. He has said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Most gladly therefore I will rather glory in my weaknesses, that the power of Christ may rest on me.</p><cite>2 Cor. 12:7-9 · WEB</cite></blockquote>
 <h2 id="s4">4) Correct understanding of Sanctification</h2>
-<h3>(1) Sanctification (process, derivative of holiness, action of the Holy Spirit) is the change and separation of a person from the world to serve God through the knowledge and transmission of the Word of God, the Covenant, Christ Rev. 22:11,1 Thess. 4:3; 5:23-24, - John 8:31-32; 17:19; 15:5</h3>
+<h3>(1) Sanctification (a process derived from holiness, the action of the Holy Spirit) is the change and separation of a person from the world to serve God through the knowledge and transmission of the Word of God, the Covenant, Christ Rev. 22:11,1 Thess. 4:3; 5:23-24, - John 8:31-32; 17:19; 15:5</h3>
 <blockquote data-v="kjv"><p>He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still.</p><cite>Rev. 22:11 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Let the unrighteous continue to be unrighteous, and the vile continue to be vile; let the righteous continue to practice righteousness, and the holy continue to be holy.”</p><cite>Rev. 22:11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He who acts unjustly, let him act unjustly still. He who is filthy, let him be filthy still. He who is righteous, let him do righteousness still. He who is holy, let him be holy still.”</p><cite>Rev. 22:11 · WEB</cite></blockquote>
@@ -484,12 +486,12 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>I am the vine. You are the branches. He who remains in me and I in him bears much fruit, for apart from me you can do nothing.</p><cite>John 15:5 · WEB</cite></blockquote>
 <h3>(2) Sanctification, the transformation of man, is not a condition, but a consequence of salvation (the impossibility of completely getting rid of the influence of the remnants of sinful nature, the world and Satan), a constant reminder of the importance of Christ (the complete completion of man's sanctification in Central Asia, resurrection from the dead, a new glorified body)</h3>
 <h2 id="s5">5) Understanding the method of human formation</h2>
-<h3>(1) The formation of human thinking is the ideology of the world, another word. (Ideology, value system – thoughts – desires – actions)</h3>
-<h3>(2) Shaping the thinking of the people of God is the ideology of God. (Ideology, value system – thoughts – desires – actions)</h3>
+<h3>(1) The formation of human thinking is the ideology of peace, another word. (Ideology, value system – thoughts – desires – actions)</h3>
+<h3>(2) The formation of the mindset of God's people is the ideology of God. (Ideology, value system – thoughts – desires – actions)</h3>
 <h3>(3) Unwillingness to know and transmit the Word of God, the Covenant, Christ, man's choice (Idols, vanity – man's worldly ideology and worldview, wrong priorities of life, emphasis on the visible)</h3>
 <h2 id="s6">Conclusion:</h2>
-<h3>(1) The importance of understanding the Word of God, the Covenant, Christ</h3>
-<h3>(2) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization</h3>
+<h3>(1) The importance of understanding the Word of God, the Covenant, and Christ</h3>
+<h3>(2) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
 </body>

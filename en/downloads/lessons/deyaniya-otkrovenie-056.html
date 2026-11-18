@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -316,17 +318,17 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h2 id="s2">2) The importance of understanding the consequences of sin</h2>
 <h3>(1) Understanding the consequences of sin for man</h3>
 <h4>(a) The spiritual part – curses, death (decided by Christ)</h4>
-<h4>(b) The physical part – the consequences of life (God sovereignty)</h4>
+<h4>(b) The physical part – the consequences of life (God's sovereignty)</h4>
 <h3>(2) Understanding the punishment and education of God's people</h3>
-<h4>(a) Heb. 12:4-11,1 Cor. 11:32 - The importance of Understanding God's punishment</h4>
+<h4>(a) Heb. 12:4-11,1 Cor. 11:32 - The importance of understanding God's punishment</h4>
 <blockquote data-v="kjv"><p>Ye have not yet resisted unto blood, striving against sin. And ye have forgotten the exhortation which speaketh unto you as unto children, My son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him: For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth. If ye endure chastening, God dealeth with you as with sons; for what son is he whom the father chasteneth not? But if ye be without chastisement, whereof all are partakers, then are ye bastards, and not sons. Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live? For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness. Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby.</p><cite>Heb. 12:4-11 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>In your struggle against sin, you have not yet resisted to the point of shedding your blood. And you have forgotten the exhortation that addresses you as sons: “My son, do not take lightly the discipline of the Lord, and do not lose heart when He rebukes you. For the Lord disciplines the one He loves, and He chastises every son He receives.” Endure suffering as discipline; God is treating you as sons. For what son is not disciplined by his father? If you do not experience discipline like everyone else, then you are illegitimate children and not true sons. Furthermore, we have all had earthly fathers who disciplined us, and we respected them. Should we not much more submit to the Father of our spirits and live? Our fathers disciplined us for a short time as they thought best, but God disciplines us for our good, so that we may share in His holiness. No discipline seems enjoyable at the time, but painful. Later on, however, it yields a harvest of righteousness and peace to those who have been trained by it.</p><cite>Heb. 12:4-11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>You have not yet resisted to blood, striving against sin. You have forgotten the exhortation which reasons with you as with children, “My son, don’t take lightly the chastening of the Lord, nor faint when you are reproved by him; for whom the Lord loves, he disciplines, and chastises every son whom he receives.” It is for discipline that you endure. God deals with you as with children, for what son is there whom his father doesn’t discipline? But if you are without discipline, of which all have been made partakers, then you are illegitimate, and not children. Furthermore, we had the fathers of our flesh to chasten us, and we paid them respect. Shall we not much rather be in subjection to the Father of spirits and live? For they indeed for a few days disciplined us as seemed good to them, but he for our profit, that we may be partakers of his holiness. All chastening seems for the present to be not joyous but grievous; yet afterward it yields the peaceful fruit of righteousness to those who have been trained by it.</p><cite>Heb. 12:4-11 · WEB</cite></blockquote>
 <blockquote data-v="kjv"><p>But when we are judged, we are chastened of the Lord, that we should not be condemned with the world.</p><cite>1 Cor. 11:32 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But when we are judged by the Lord, we are being disciplined so that we will not be condemned with the world.</p><cite>1 Cor. 11:32 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But when we are judged, we are disciplined by the Lord, that we may not be condemned with the world.</p><cite>1 Cor. 11:32 · WEB</cite></blockquote>
-<h4>(b) The goal is to educate a person (living a proper life, serving God)</h4>
-<h4>(c) God punishment is an expression of God's love for children. God (education)</h4>
+<h4>(b) The goal is to educate a person (to live a proper life, to serve God)</h4>
+<h4>(c) God's punishment is an expression of God's love for God's children (education)</h4>
 <h4>(d) Wrath of God – rejection of the Word of God, the Covenant, Christ (sinners) John 3:18, 36</h4>
 <blockquote data-v="kjv"><p>He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God.</p><cite>John 3:18 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Whoever believes in Him is not condemned, but whoever does not believe has already been condemned, because he has not believed in the name of God’s one and only Son.</p><cite>John 3:18 · BSB</cite></blockquote>
@@ -334,22 +336,22 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him.</p><cite>John 3:36 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Whoever believes in the Son has eternal life. Whoever rejects the Son will not see life. Instead, the wrath of God remains on him.”</p><cite>John 3:36 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>One who believes in the Son has eternal life, but one who disobeys the Son won’t see life, but the wrath of God remains on him.”</p><cite>John 3:36 · WEB</cite></blockquote>
-<h2 id="s3">3) Understanding the measures of ecclesiastical influence – understanding the rights and responsibilities of the people God has taken Preliminary measures (sin does not lead to death)</h2>
-<h3>(1) Exhortation – to point out and explain the problem, to clarify the opinion of the Word of God on this situation Matt. 18:15-17, - 1 Thess. 5:11</h3>
+<h2 id="s3">3) Understanding the measures of ecclesiastical influence – understanding the rights and responsibilities of God's people Preliminary measures (sin does not lead to death)</h2>
+<h3>(1) Exhortation – to point out and clarify the problem, to clarify the opinion of the Word of God on this situation Matt. 18:15-17, - 1 Thess. 5:11</h3>
 <blockquote data-v="kjv"><p>Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother. But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established. And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.</p><cite>Matt. 18:15-17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>If your brother sins against you, go and confront him privately. If he listens to you, you have won your brother over. But if he will not listen, take one or two others along, so that ‘every matter may be established by the testimony of two or three witnesses.’ If he refuses to listen to them, tell it to the church. And if he refuses to listen even to the church, regard him as you would a pagan or a tax collector.</p><cite>Matt. 18:15-17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“If your brother sins against you, go, show him his fault between you and him alone. If he listens to you, you have gained back your brother. But if he doesn’t listen, take one or two more with you, that at the mouth of two or three witnesses every word may be established. If he refuses to listen to them, tell it to the assembly. If he refuses to hear the assembly also, let him be to you as a Gentile or a tax collector.</p><cite>Matt. 18:15-17 · WEB</cite></blockquote>
 <blockquote data-v="kjv"><p>Wherefore comfort yourselves together, and edify one another, even as also ye do.</p><cite>1 Thess. 5:11 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Therefore encourage and build one another up, just as you are already doing.</p><cite>1 Thess. 5:11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Therefore exhort one another, and build each other up, even as you also do.</p><cite>1 Thess. 5:11 · WEB</cite></blockquote>
-<h3>(2) Admonition – to point out and explain the problem, to clarify the opinion of the Word of God on the given situation with one or two witnesses. Matt. 18:15-17, - 1 Thess. 5:14</h3>
+<h3>(2) Admonition – to point out and clarify the problem, to clarify the opinion of the Word of God on a given situation with one or two witnesses. Matt. 18:15-17, - 1 Thess. 5:14</h3>
 <blockquote data-v="kjv"><p>Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother. But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established. And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.</p><cite>Matt. 18:15-17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>If your brother sins against you, go and confront him privately. If he listens to you, you have won your brother over. But if he will not listen, take one or two others along, so that ‘every matter may be established by the testimony of two or three witnesses.’ If he refuses to listen to them, tell it to the church. And if he refuses to listen even to the church, regard him as you would a pagan or a tax collector.</p><cite>Matt. 18:15-17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“If your brother sins against you, go, show him his fault between you and him alone. If he listens to you, you have gained back your brother. But if he doesn’t listen, take one or two more with you, that at the mouth of two or three witnesses every word may be established. If he refuses to listen to them, tell it to the assembly. If he refuses to hear the assembly also, let him be to you as a Gentile or a tax collector.</p><cite>Matt. 18:15-17 · WEB</cite></blockquote>
 <blockquote data-v="kjv"><p>Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men.</p><cite>1 Thess. 5:14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And we urge you, brothers, to admonish the unruly, encourage the fainthearted, help the weak, and be patient with everyone.</p><cite>1 Thess. 5:14 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>We exhort you, brothers: Admonish the disorderly; encourage the faint-hearted; support the weak; be patient toward all.</p><cite>1 Thess. 5:14 · WEB</cite></blockquote>
-<h3>(3) Chastisement and prohibition – to point out and explain the problem, to clarify the opinion of the Word of God on this situation in front of the whole Church. Matt. 18:15-17, - 1 Tim. 5:20,2 Tim. 4:2</h3>
+<h3>(3) Chastisement and prohibition – to point out and clarify the problem, to clarify the opinion of the Word of God on this situation in the presence of the whole Church. Matt. 18:15-17, - 1 Tim. 5:20,2 Tim. 4:2</h3>
 <blockquote data-v="kjv"><p>Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother. But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established. And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.</p><cite>Matt. 18:15-17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>If your brother sins against you, go and confront him privately. If he listens to you, you have won your brother over. But if he will not listen, take one or two others along, so that ‘every matter may be established by the testimony of two or three witnesses.’ If he refuses to listen to them, tell it to the church. And if he refuses to listen even to the church, regard him as you would a pagan or a tax collector.</p><cite>Matt. 18:15-17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“If your brother sins against you, go, show him his fault between you and him alone. If he listens to you, you have gained back your brother. But if he doesn’t listen, take one or two more with you, that at the mouth of two or three witnesses every word may be established. If he refuses to listen to them, tell it to the assembly. If he refuses to hear the assembly also, let him be to you as a Gentile or a tax collector.</p><cite>Matt. 18:15-17 · WEB</cite></blockquote>
@@ -365,7 +367,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <ul>
 <li>Executive measures (sin does not lead to death)</li>
 </ul>
-<h3>(1) Remark – to point out and explain the problem, to affirm conscious opposition to the standards and norms of the Word of God, to announce the remark in front of witnesses or the entire Church for a certain period of time (the discretion of the ministers) Matt. 18:15-17, - 2 Thess. 3:14-15,1 Tim. 5:19</h3>
+<h3>(1) Remark – to indicate and clarify the problem, to affirm conscious opposition to the standards and norms of the Word of God, to announce the remark in front of witnesses or the entire Church for a certain period of time (the discretion of the ministers) Matt. 18:15-17, - 2 Thess. 3:14-15,1 Tim. 5:19</h3>
 <blockquote data-v="kjv"><p>Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother. But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established. And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.</p><cite>Matt. 18:15-17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>If your brother sins against you, go and confront him privately. If he listens to you, you have won your brother over. But if he will not listen, take one or two others along, so that ‘every matter may be established by the testimony of two or three witnesses.’ If he refuses to listen to them, tell it to the church. And if he refuses to listen even to the church, regard him as you would a pagan or a tax collector.</p><cite>Matt. 18:15-17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“If your brother sins against you, go, show him his fault between you and him alone. If he listens to you, you have gained back your brother. But if he doesn’t listen, take one or two more with you, that at the mouth of two or three witnesses every word may be established. If he refuses to listen to them, tell it to the assembly. If he refuses to hear the assembly also, let him be to you as a Gentile or a tax collector.</p><cite>Matt. 18:15-17 · WEB</cite></blockquote>
@@ -376,22 +378,22 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>Do not entertain an accusation against an elder, except on the testimony of two or three witnesses.</p><cite>1 Tim. 5:19 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Don’t receive an accusation against an elder except at the word of two or three witnesses.</p><cite>1 Tim. 5:19 · WEB</cite></blockquote>
 <h2 id="s5">Result:</h2>
-<h3>(1) The application of executive measures is a conscious opposition to standards, norms of the Word of God, conscious human responsibility</h3>
+<h3>(1) The application of executive measures is a conscious opposition to the standards and norms of the Word of God, a conscious human responsibility</h3>
 <h3>(2) The executive measure "remark" is a general punishment, i.e., suspension from performing ministry, admission to participate in the Sacrament of Communion (a sin not leading to death)</h3>
 <h3>(3) Recognizing and confessing the problem in front of witnesses or the entire Church, confirming a conscious understanding of the problem and testing the time –removing the executive action of "admonition" and restoring the person to full participation in the life of the Church</h3>
 <h3>(4) The measure of trust is the discretion and responsibility of the ministers</h3>
-<h3>(2) Excommunication – to point out and explain the problem, to affirm conscious opposition to the standards and norms of the Word of God, to declare excommunication in front of witnesses or the entire Church. (Exclusion of a person from the membership of a local Church, removal of responsibility for a person's life and actions in order to avoid stumbling in the faith for other people, sin does not lead to death) Matt. 18:17, - 1 Cor. 5 (1-5,11-13)</h3>
+<h3>(2) Excommunication – to indicate and clarify the problem, to affirm conscious opposition to the standards and norms of the Word of God, to declare excommunication in front of witnesses or the entire Church. (Exclusion of a person from the membership of a local Church, removal of responsibility for a person's life and actions in order to avoid stumbling in the faith for other people, sin does not lead to death) Matt. 18:17, - 1 Cor. 5 (1-5,11-13)</h3>
 <blockquote data-v="kjv"><p>And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.</p><cite>Matt. 18:17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>If he refuses to listen to them, tell it to the church. And if he refuses to listen even to the church, regard him as you would a pagan or a tax collector.</p><cite>Matt. 18:17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>If he refuses to listen to them, tell it to the assembly. If he refuses to hear the assembly also, let him be to you as a Gentile or a tax collector.</p><cite>Matt. 18:17 · WEB</cite></blockquote>
 <h2 id="s6">Result:</h2>
-<h3>(1) The application of executive measures is a conscious opposition to standards, norms of the Word of God, conscious human responsibility</h3>
+<h3>(1) The application of executive measures is a conscious opposition to the standards and norms of the Word of God, a conscious human responsibility</h3>
 <h3>(2) The executive measure "excommunication" is a spiritual punishment, i.e. suspension from ministry, deprivation of membership in a local Church, and admission to participate in the Sacrament of Communion</h3>
 <h3>(3) The recognition and confession of the problem in front of witnesses or the entire Church, the confirmation of a conscious understanding of the problem and the test of time –the lifting of the executive measure "excommunication" and the restoration of a person to full participation in the life of the Church</h3>
 <h3>(4) The measure of trust is the discretion and responsibility of the ministers</h3>
 <ul>
 <li>Exceptional measure</li>
-<li>Anathema – to point out and explain the problem of rejection of the Word of God, the Covenant, Christ (sin to death), to affirm conscious opposition to the teaching of the Word of God, the Covenant, Christ (heresy), to declare anathema in front of witnesses or the whole Church</li>
+<li>Anathema – to point out and clarify the problem of rejection of the Word of God, the Covenant, Christ (sin to death), to affirm conscious opposition to the teaching of the Word of God, the Covenant, Christ (heresy), to declare anathema in front of witnesses or the entire Church</li>
 <li>1 Cor. 16:22,Gal. 1:6-9,1 Tim. 1:18-20,Titus 3:10 (Rom. 11:16-24)</li>
 </ul>
 <blockquote data-v="kjv"><p>If any man love not the Lord Jesus Christ, let him be Anathema Maranatha.</p><cite>1 Cor. 16:22 · KJV</cite></blockquote>
@@ -415,13 +417,13 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h3>(3) The measure of trust is the discretion and responsibility of the ministers</h3>
 <h2 id="s8">4) The correct application of measures of influence</h2>
 <h3>(1) The importance of understanding the legitimate application of ecclesiastical measures of influence is a measure of human misconduct. (The authority of the presbyter is the purity of teaching and the conduct of divine Services.)</h3>
-<h3>(2) The importance of the correct motives for the application of ecclesiastical measures of influence is the awareness of the problem and the correction of man (The problem of vanity and the desire for domination over the people of God)</h3>
+<h3>(2) The importance of the correct motives for applying ecclesiastical measures of influence is awareness of the problem and correction of man (The problem of vanity and the desire for domination over the people of God)</h3>
 <h3>(3) The application of measures of church influence is a decision of a person, minister or council of a local Church. (The importance of a balanced application of Church measures)</h3>
 <h2 id="s9">5) The importance of understanding the types of sins (different consequences)</h2>
 <h3>(1) Sins against oneself</h3>
 <h3>(2) Sins against one's neighbor</h3>
 <h3>(3) Sins against the Church and the destiny of God's people</h3>
-<h2 id="s10">6) Prohibition of the presence of people at Worship services</h2>
+<h2 id="s10">6) Prohibition of the presence of a person at a Divine service</h2>
 <h3>(1) Hygiene, infectious diseases</h3>
 <h3>(2) Actual obstruction of the Divine Service. (Shouting, swearing, attacking people, etc.)</h3>
 <h3>(3) Preaching of other teachings, resisting the purpose</h3>
@@ -429,7 +431,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h2 id="s11">Conclusion:</h2>
 <h3>(1) The importance of understanding the Word of God, the Covenant, and Christ – understanding the rights and responsibilities of God's people and the servants of the Church</h3>
 <h3>(2) The importance of understanding and fulfilling destiny – God's help and support for man (C. Discipline)</h3>
-<h2 id="s12">6.1) 1 Cor. 6:1-8, - inaccurate understanding of the Word of God, the Covenant, Christ, the problem of carnal Christianity. conflicts among God's people, the influence of remnants of sinful nature, the world and Satan</h2>
+<h2 id="s12">6.1) 1 Cor. 6:1-8, - inaccurate understanding of the Word of God, the Testament, Christ, the problem of carnal Christianity. conflicts among God's people, the influence of the remnants of the sinful essence, the world and Satan</h2>
 <blockquote data-v="kjv"><p>Dare any of you, having a matter against another, go to law before the unjust, and not before the saints? Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the smallest matters? Know ye not that we shall judge angels? how much more things that pertain to this life? If then ye have judgments of things pertaining to this life, set them to judge who are least esteemed in the church. I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren? But brother goeth to law with brother, and that before the unbelievers. Now therefore there is utterly a fault among you, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer yourselves to be defrauded? Nay, ye do wrong, and defraud, and that your brethren.</p><cite>1 Cor. 6:1-8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>If any of you has a grievance against another, how dare he go to law before the unrighteous instead of before the saints! Do you not know that the saints will judge the world? And if you are to judge the world, are you not competent to judge trivial cases? Do you not know that we will judge angels? How much more the things of this life! So if you need to settle everyday matters, do you appoint as judges those of no standing in the church? I say this to your shame. Is there really no one among you wise enough to arbitrate between his brothers? Instead, one brother goes to law against another, and this in front of unbelievers! The very fact that you have lawsuits among you means that you are thoroughly defeated already. Why not rather be wronged? Why not rather be cheated? Instead, you yourselves cheat and do wrong, even against your own brothers!</p><cite>1 Cor. 6:1-8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Dare any of you, having a matter against his neighbor, go to law before the unrighteous, and not before the saints? Don’t you know that the saints will judge the world? And if the world is judged by you, are you unworthy to judge the smallest matters? Don’t you know that we will judge angels? How much more, things that pertain to this life? If then you have to judge things pertaining to this life, do you set them to judge who are of no account in the assembly? I say this to move you to shame. Isn’t there even one wise man among you who would be able to decide between his brothers? But brother goes to law with brother, and that before unbelievers! Therefore it is already altogether a defect in you that you have lawsuits one with another. Why not rather be wronged? Why not rather be defrauded? No, but you yourselves do wrong and defraud, and that against your brothers.</p><cite>1 Cor. 6:1-8 · WEB</cite></blockquote>
@@ -478,7 +480,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Saying, Did not we straitly command you that ye should not teach in this name? and, behold, ye have filled Jerusalem with your doctrine, and intend to bring this man’s blood upon us. Then Peter and the other apostles answered and said, We ought to obey God rather than men.</p><cite>Acts 5:28-29 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>“We gave you strict orders not to teach in this name,” he said. “Yet you have filled Jerusalem with your teaching and are determined to make us responsible for this man’s blood.” But Peter and the other apostles replied, “We must obey God rather than men.</p><cite>Acts 5:28-29 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>saying, “Didn’t we strictly command you not to teach in this name? Behold, you have filled Jerusalem with your teaching, and intend to bring this man’s blood on us.” But Peter and the apostles answered, “We must obey God rather than men.</p><cite>Acts 5:28-29 · WEB</cite></blockquote>
-<h4>(c) Inaccurate understanding of the Word of God, the Covenant, Christ, the constant problem of wrong relationships among God's people, the importance of the right approach in solving problems</h4>
+<h4>(c) Inaccurate understanding of the Word of God, the Covenant, and Christ, the constant problem of improper relationships among God's people, and the importance of the right approach to solving problems</h4>
 <h3>(2) 1 Cor. 6:2-3, - understanding the Word of God, the Covenant, Christ, understanding the future</h3>
 <blockquote data-v="kjv"><p>Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the smallest matters? Know ye not that we shall judge angels? how much more things that pertain to this life?</p><cite>1 Cor. 6:2-3 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Do you not know that the saints will judge the world? And if you are to judge the world, are you not competent to judge trivial cases? Do you not know that we will judge angels? How much more the things of this life!</p><cite>1 Cor. 6:2-3 · BSB</cite></blockquote>
@@ -486,7 +488,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h4>(a) Understanding the Last Judgment, the end of the 1000th century</h4>
 <h4>(b) The participation of God's people at the Last Judgment by God</h4>
 <h4>(c) The condemnation of every creation that has chosen eternal life outside of the Word of God, outside of God (S. and fallen angels, sinners)</h4>
-<h4>(d) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization</h4>
+<h4>(d) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization</h4>
 <h2 id="s13">2) 1 Cor. 6:9-11, - the importance of accepting the Word of God, the Covenant, Christ, the importance of changing a person's ideology and worldview – right thoughts, desires and actions, changing lives. (Being born again, the process of sanctifying a person through learning)</h2>
 <blockquote data-v="kjv"><p>Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind, Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God. And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God.</p><cite>1 Cor. 6:9-11 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Do you not know that the wicked will not inherit the kingdom of God? Do not be deceived: Neither the sexually immoral, nor idolaters, nor adulterers, nor men who submit to or perform homosexual acts, nor thieves, nor the greedy, nor drunkards, nor verbal abusers, nor swindlers, will inherit the kingdom of God. And that is what some of you were. But you were washed, you were sanctified, you were justified, in the name of the Lord Jesus Christ and by the Spirit of our God.</p><cite>1 Cor. 6:9-11 · BSB</cite></blockquote>
@@ -500,10 +502,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap. For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.</p><cite>Gal. 6:7-8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Do not be deceived: God is not to be mocked. Whatever a man sows, he will reap in return. The one who sows to please his flesh, from the flesh will reap destruction; but the one who sows to please the Spirit, from the Spirit will reap eternal life.</p><cite>Gal. 6:7-8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Don’t be deceived. God is not mocked, for whatever a man sows, that he will also reap. For he who sows to his own flesh will from the flesh reap corruption. But he who sows to the Spirit will from the Spirit reap eternal life.</p><cite>Gal. 6:7-8 · WEB</cite></blockquote>
-<h3>(3) Freedom in Christ is the freedom to live up to the standards of the Word of God, freed from the bondage of many sins.</h3>
+<h3>(3) Freedom in Christ is the freedom to live by the standards of God's Word, freed from the bondage of many sins.</h3>
 <h3>(4) The importance of understanding the process of sanctification and man's growth in God's freedom through the action of God's grace</h3>
-<h3>(5) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization</h3>
-<h2 id="s15">4) 1 Cor. 6:13-14, - the importance of accepting the Word of God, the Covenant, Christ</h2>
+<h3>(5) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization</h3>
+<h2 id="s15">4) 1 Cor. 6:13-14, - the importance of accepting the Word of God, the Covenant, and Christ</h2>
 <blockquote data-v="kjv"><p>Meats for the belly, and the belly for meats: but God shall destroy both it and them. Now the body is not for fornication, but for the Lord; and the Lord for the body. And God hath both raised up the Lord, and will also raise up us by his own power.</p><cite>1 Cor. 6:13-14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>“Food for the stomach and the stomach for food,” but God will destroy them both. The body is not intended for sexual immorality, but for the Lord, and the Lord for the body. By His power God raised the Lord from the dead, and He will raise us also.</p><cite>1 Cor. 6:13-14 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“Foods for the belly, and the belly for foods,” but God will bring to nothing both it and them. But the body is not for sexual immorality, but for the Lord, and the Lord for the body. Now God raised up the Lord, and will also raise us up by his power.</p><cite>1 Cor. 6:13-14 · WEB</cite></blockquote>
@@ -511,7 +513,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h3>(2) The importance of understanding the eternity of the invisible</h3>
 <h3>(3) The Importance of Understanding Emmanuel – the Perfect Will of God</h3>
 <h3>(4) The importance of understanding the 2nd Coming of Christ, the resurrection from the dead, and eternal life with God</h3>
-<h2 id="s16">5) 1 Cor. 6:15-20, - the importance of accepting the Word of God, the Covenant, Christ</h2>
+<h2 id="s16">5) 1 Cor. 6:15-20, - the importance of accepting the Word of God, the Covenant, and Christ</h2>
 <blockquote data-v="kjv"><p>Know ye not that your bodies are the members of Christ? shall I then take the members of Christ, and make them the members of an harlot? God forbid. What? know ye not that he which is joined to an harlot is one body? for two, saith he, shall be one flesh. But he that is joined unto the Lord is one spirit. Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body. What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own? For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s.</p><cite>1 Cor. 6:15-20 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Do you not know that your bodies are members of Christ? Shall I then take the members of Christ and unite them with a prostitute? Never! Or don’t you know that he who unites himself with a prostitute is one with her in body? For it is said, “The two will become one flesh.” But he who unites himself with the Lord is one with Him in spirit. Flee from sexual immorality. Every other sin a man can commit is outside his body, but he who sins sexually sins against his own body. Do you not know that your body is a temple of the Holy Spirit who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore glorify God with your body.</p><cite>1 Cor. 6:15-20 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Don’t you know that your bodies are members of Christ? Shall I then take the members of Christ and make them members of a prostitute? May it never be! Or don’t you know that he who is joined to a prostitute is one body? For, “The two”, he says, “will become one flesh.” But he who is joined to the Lord is one spirit. Flee sexual immorality! “Every sin that a man does is outside the body,” but he who commits sexual immorality sins against his own body. Or don’t you know that your body is a temple of the Holy Spirit who is in you, whom you have from God? You are not your own, for you were bought with a price. Therefore glorify God in your body and in your spirit, which are God’s.</p><cite>1 Cor. 6:15-20 · WEB</cite></blockquote>
@@ -549,7 +551,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h3>(2) The importance of understanding the future, the 2nd Coming of Christ, the Resurrection from the Dead, the 1000th Kingdom, the Last Judgment</h3>
 <h3>(3) The importance of sanctification and a proper understanding of freedom in Christ, understanding the grace of God</h3>
 <h3>(4) The importance of understanding salvation, the church, and the full belonging of God's people to Christ</h3>
-<h3>(5) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization</h3>
+<h3>(5) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
 </body>

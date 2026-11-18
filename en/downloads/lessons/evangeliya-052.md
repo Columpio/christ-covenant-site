@@ -19,11 +19,11 @@
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
 > To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins. (Acts 10:43, KJV)
 
-### (3) The rejection of the Word of God, the Covenant, Christ, the majority of Jews, the rejection of the Divinity of Christ and the Sufficiency of His Sacrifice. John 10:33, - Rom. 9:30-33
+### (3) The rejection of the Word of God, the Covenant, Christ, by the majority of Jews, the rejection of the Divinity of Christ and the All-sufficiency of His Sacrifice. John 10:33, - Rom. 9:30-33
 > The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. (John 10:33, KJV)
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
 
-### (4) The importance of understanding God's sovereignty and control, the inevitability of fulfilling God's Word, Covenant, Christ, God's Plan
+### (4) The importance of understanding God's sovereignty and control, the inevitability of fulfilling God's Word, Covenant, Christ, and God's plan
 
 ## 2) The importance of Christ's conformity to God's prophecies
 
@@ -50,9 +50,9 @@
 
 #### (a) Understanding God's sovereignty and man's foreknowledge
 
-#### (b) Ruth, the Gentile, accepting the Word of God, the Covenant, Christ, fulfilling the will of God
+#### (b) Ruth, a pagan, accepting the Word of God, the Covenant, Christ, doing the will of God
 
-#### (c) Jesse, understanding the Word of God, the Covenant, Christ, fulfilling the will of God
+#### (c) Jesse, understanding the Word of God, the Covenant, Christ, doing the will of God
 
 ### (4) Christ will also be a descendant of David Jer. 23:5,2 Sam. 7:12-16,Ps. 132:11, - Luke 3:31,Matt. 9:27; 22:43-45
 > Behold, the days come, saith the LORD, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth. (Jer. 23:5, KJV)
@@ -64,7 +64,7 @@
 
 #### (a) Understanding God's sovereignty and man's foreknowledge
 
-#### (b) David, understanding the Word of God, the Covenant, Christ, fulfilling the will of God
+#### (b) David, understanding the Word of God, the Covenant, Christ, doing the will of God
 
 ### (5) Christ will forgive all iniquities and cover all the sins of people who believe in Him Ps. 32:1-2, - Col. 2:13,2 Cor. 5:17-21
 > A Psalm of David, Maschil. Blessed is he whose transgression is forgiven, whose sin is covered. Blessed is the man unto whom the LORD imputeth not iniquity, and in whose spirit there is no guile. (Ps. 32:1-2, KJV)
@@ -81,7 +81,7 @@
 
 #### (a) The importance of understanding God's sovereignty and Control – God's plan, God's guidance of God's people
 
-#### (b) The importance of understanding Emmanuel – the Christ with Man Rom. 8:9, 14
+#### (b) The importance of understanding Emmanuel – Christ with Man Rom. 8:9, 14
 > But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his. (Rom. 8:9, KJV)
 > For as many as are led by the Spirit of God, they are the sons of God. (Rom. 8:14, KJV)
 
@@ -108,7 +108,7 @@
 
 #### (a) Understanding of Satan's action is to stop the coming of Christ, to stop the legitimate redemption of mankind
 
-#### (b) Understanding the action of Satan – hatred of man
+#### (b) Understanding Satan's actions – hating man
 
 ### (10) The coming of Christ will be announced by a special Forerunner Mal. 3:1; 4:5,Isa. 40:3-5, - Matt. 3:1; 11:10
 > Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts. (Mal. 3:1, KJV)
@@ -154,7 +154,7 @@
 
 #### (a) To die for all the sins of all people is man's atonement
 
-#### (b) Prepare the disciples - the importance of knowing and transmitting the Word of God, the Covenant, Christ, World Evangelization, preparation for the second coming of Christ
+#### (b) Prepare the disciples - the importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, preparation for the second coming of Christ
 
 #### (c) To show people the Holy, True God
 

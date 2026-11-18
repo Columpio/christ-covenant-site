@@ -64,7 +64,7 @@
 
 ### (2) Unrighteous wealth – the life of God's people in a sinful world, the power of Satan (there is a lot wrong with the world order and the financial system of the world), the importance of understanding the Fall (the whole world lies in evil)
 
-### (3) Unrighteous wealth must be converted into the right things – development and service to humanity, help to man, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ
+### (3) Unrighteous wealth must be turned into the right things – development and service to humanity, help to man, transmission of the Word of God, the Covenant, Christ, disciples, Worldwide Evangelization, the coming of Christ
 
 ## 2) Luke 18:1-8, - about the unrighteous judge
 > And he spake a parable unto them to this end, that men ought always to pray, and not to faint; Saying, There was in a city a judge, which feared not God, neither regarded man: And there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary. And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man; Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me. And the Lord said, Hear what the unjust judge saith. And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them? I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth? (Luke 18:1-8, KJV)
@@ -72,10 +72,10 @@
 ### (1) Luke 18:1-5, - human nature, egoism
 > And he spake a parable unto them to this end, that men ought always to pray, and not to faint; Saying, There was in a city a judge, which feared not God, neither regarded man: And there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary. And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man; Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me. (Luke 18:1-5, KJV)
 
-### (2) Luke 18:6-7, - nature is God, love and mercy (comparison)
+### (2) Luke 18:6-7, - the nature of God, love and mercy (comparison)
 > And the Lord said, Hear what the unjust judge saith. And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them? (Luke 18:6-7, KJV)
 
-### (3) Luke 18:8, - God's understanding of sovereignty and time schedule
+### (3) Luke 18:8, - Understanding God's sovereignty and time schedule
 > I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth? (Luke 18:8, KJV)
 
 ### (4) Luke 18:8 (Mark 11:23), - the importance of God's faith for man
@@ -89,7 +89,7 @@
 
 ### (2) The publican – awareness of sinfulness, trust in God
 
-### (3) God's judgment – acceptance or non-acceptance of the Word of God, the Covenant, Christ
+### (3) God's judgment is the acceptance or non–acceptance of the Word of God, the Covenant, and Christ
 
 ## 4) Luke 19:12-27, - about ten mines
 > He said therefore, A certain nobleman went into a far country to receive for himself a kingdom, and to return. And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come. But his citizens hated him, and sent a message after him, saying, We will not have this man to reign over us. And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading. Then came the first, saying, Lord, thy pound hath gained ten pounds. And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities. And the second came, saying, Lord, thy pound hath gained five pounds. And he said likewise to him, Be thou also over five cities. And another came, saying, Lord, behold, here is thy pound, which I have kept laid up in a napkin: For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow. And he saith unto him, Out of thine own mouth will I judge thee, thou wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow: Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury? And he said unto them that stood by, Take from him the pound, and give it to him that hath ten pounds. (And they said unto him, Lord, he hath ten pounds.) For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him. But those mine enemies, which would not that I should reign over them, bring hither, and slay them before me. (Luke 19:12-27, KJV)
@@ -100,7 +100,7 @@
 ### (2) Luke 19:13, - mina (the gift of God, the ability to serve God), the importance of fulfilling the destiny of God's people
 > And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come. (Luke 19:13, KJV)
 
-### (3) Luke 19:14, - non-acceptance of the Word of God, the Covenant, Christ, man's right to choose
+### (3) Luke 19:14, - rejection of the Word of God, the Covenant, Christ, the right to choose a person
 > But his citizens hated him, and sent a message after him, saying, We will not have this man to reign over us. (Luke 19:14, KJV)
 
 ### (4) Luke 19:15, - The Second Coming of Christ, the judgment of God's people
@@ -109,7 +109,7 @@
 ### (5) Luke 19:16-19, - fulfillment of destiny, fruits, God's reward
 > Then came the first, saying, Lord, thy pound hath gained ten pounds. And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities. And the second came, saying, Lord, thy pound hath gained five pounds. And he said likewise to him, Be thou also over five cities. (Luke 19:16-19, KJV)
 
-### (6) The importance of knowing and transmitting the Word of God, the Covenant, Christ, the importance of fulfilling destiny, understanding the options for man
+### (6) The importance of knowing and transmitting the Word of God, the Covenant, and Christ, the importance of fulfilling a purpose, and understanding human options
 
 #### (a) Luke 19:20-26, - there is no fulfillment of destiny, there is no fruit, the condemnation of God, but saved as if from fire (Lot, Saul) 1 Cor. 3:10-15
 > And another came, saying, Lord, behold, here is thy pound, which I have kept laid up in a napkin: For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow. And he saith unto him, Out of thine own mouth will I judge thee, thou wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow: Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury? And he said unto them that stood by, Take from him the pound, and give it to him that hath ten pounds. (And they said unto him, Lord, he hath ten pounds.) For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him. (Luke 19:20-26, KJV)
@@ -126,8 +126,8 @@
 
 ## Conclusion:
 
-### (1) Parables – understanding the Word of God, the Covenant, Christ, God sovereignty
+### (1) Parables – understanding the Word of God, the Covenant, Christ, God's Sovereignty
 
 ### (2) The importance of understanding the meaning of life and eternity (intended)
 
-### (3) The importance of properly understanding and following the Word of God
+### (3) The importance of properly understanding and fulfilling the Word of God

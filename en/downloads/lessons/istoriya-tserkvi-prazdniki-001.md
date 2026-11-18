@@ -14,7 +14,7 @@
 
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-- The purpose of the Church (the people of God) is to know and transmit the Word of God, the Covenants, Christ, the disciples, World Evangelization, and preparation for the coming of Christ
+- The purpose of the Church (the people of God) is to know and transmit the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, and preparation for the coming of Christ
 - Temple (house of prayer) – a place for worship
 - Congregation – Saved and Unsaved people
 
@@ -28,7 +28,7 @@
 
 ## 2) The absence of a Church before N.Z.
 
-### (1) Gen. 1:27; 2:7, 9, 16-17, - Creation, the Garden of Eden, the prototype of the Church, Emmanuel (the ideal and correct state of man)
+### (1) Gen. 1:27; 2:7, 9, 16-17, - Creation, the Garden of Eden, the prototype of the Church, Emmanuel (the ideal and correct human condition)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
@@ -87,7 +87,7 @@
 
 ### (5) 33 A.D. – the day of Pentecost, the birth of the Church of Christ
 
-### (6) The First Apostolic Church is the time of the apostles' life. (Knowledge and transmission of the Word of God, the Covenants, Christ, the Disciples, Worldwide Evangelization, preparation for the coming of Christ, being born again)
+### (6) The First Apostolic Church is the time of the apostles' life. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ, being born again)
 
 ### (7) The persecution and persecution of the Church before 313 A.D. – Constantine the Great, the Edict of Milan, the end of the persecution. (The reason for the persecution is the refusal of Christians to worship the emperor as "god incarnate," i.e., the worship of Jesus Christ is a resistance to the "true gods" and the Roman Empire
 
@@ -104,7 +104,7 @@
 
 ### (1) The Teaching of the Apostles (Christ's) is a systematic study of the Word of God, in God's order of the books of Scripture from the perspective of the Covenant, Christ (Creation, Fall, Restoration – the importance of Christ)
 
-### (2) Fellowship is the joint reasoning and explanation of the Word of God from the perspective of the Covenant, Christ, and the destiny of God's people
+### (2) Fellowship is a joint discussion and explanation of the Word of God from the perspective of the Covenant, Christ, and the purpose of God's people.
 
 ### (3) The breaking of bread is the Sacrament of Communion (the visible confirmation of the Covenant with God in Christ Jesus) and a meal together (the unity of God's people, family relationships)
 
@@ -133,36 +133,36 @@
 
 #### (d) Christ (V.Z. – High Priest according to the order of Milchesedek) – The Head, Creator and Guardian of the Church, the Shepherd
 
-### (2) Appointment of Church ministers (man's life, God's election)
+### (2) Appointment of Church ministers (human life, election of God)
 
 #### (a) Ordination of a person by ministers of the Church. Acts 6:1-6
 > And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration. Then the twelve called the multitude of the disciples unto them, and said, It is not reason that we should leave the word of God, and serve tables. Wherefore, brethren, look ye out among you seven men of honest report, full of the Holy Ghost and wisdom, whom we may appoint over this business. But we will give ourselves continually to prayer, and to the ministry of the word. And the saying pleased the whole multitude: and they chose Stephen, a man full of faith and of the Holy Ghost, and Philip, and Prochorus, and Nicanor, and Timon, and Parmenas, and Nicolas a proselyte of Antioch: Whom they set before the apostles: and when they had prayed, they laid their hands on them. (Acts 6:1-6, KJV)
 
-#### (b) The minister in fact is God's sovereignty. 1 Cor. 9:2
+#### (b) A minister is God's sovereignty after serving. 1 Cor. 9:2
 > If I be not an apostle unto others, yet doubtless I am to you: for the seal of mine apostleship are ye in the Lord. (1 Cor. 9:2, KJV)
 
 ### (3) Addressing the Church's pressing issues
 
-#### (a) Fraternal Council – decisions in the Word of God Acts 6:1-6
+#### (a) Fraternal Council – solutions in the Word of God Acts 6:1-6
 > And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration. Then the twelve called the multitude of the disciples unto them, and said, It is not reason that we should leave the word of God, and serve tables. Wherefore, brethren, look ye out among you seven men of honest report, full of the Holy Ghost and wisdom, whom we may appoint over this business. But we will give ourselves continually to prayer, and to the ministry of the word. And the saying pleased the whole multitude: and they chose Stephen, a man full of faith and of the Holy Ghost, and Philip, and Prochorus, and Nicanor, and Timon, and Parmenas, and Nicolas a proselyte of Antioch: Whom they set before the apostles: and when they had prayed, they laid their hands on them. (Acts 6:1-6, KJV)
 
-#### (b) Church Discipline – a decision in the Word of God 1 Cor. 14:40
+#### (b) Church discipline – the solution in the Word of God 1 Cor. 14:40
 > Let all things be done decently and in order. (1 Cor. 14:40, KJV)
 
-#### (c) Fasting and prayer – a solution in the Word of God Acts 13:1-5
+#### (c) Fasting and prayer – the solution in the Word of God Acts 13:1-5
 > Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul. As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them. And when they had fasted and prayed, and laid their hands on them, they sent them away. So they, being sent forth by the Holy Ghost, departed unto Seleucia; and from thence they sailed to Cyprus. And when they were at Salamis, they preached the word of God in the synagogues of the Jews: and they had also John to their minister. (Acts 13:1-5, KJV)
 
 ## 8) Problems of the First Apostolic Church (false teaching)
 
-### (1) The Jerusalem Church, 33 A.D. – Peter, James. (Inaccurate understanding of the Word of God, the Covenant, Christ the Law, the Gentiles) Acts 15:1, 5; 21:17-26 (God's verdict – 70 A.D., Roman general Titus, the destruction of Jerusalem and the Temple)
+### (1) The Jerusalem Church, 33 A.D. – Peter, James. (Inaccurate understanding of the Word of God, the Covenant, Christ – the Law, the Gentiles) Acts 15:1, 5; 21:17-26 (God's verdict – 70 A.D., Roman general Titus, the destruction of Jerusalem and the Temple)
 > And certain men which came down from Judæa taught the brethren, and said, Except ye be circumcised after the manner of Moses, ye cannot be saved. (Acts 15:1, KJV)
 > But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command them to keep the law of Moses. (Acts 15:5, KJV)
 > And when we were come to Jerusalem, the brethren received us gladly. And the day following Paul went in with us unto James; and all the elders were present. And when he had saluted them, he declared particularly what things God had wrought among the Gentiles by his ministry. And when they heard it, they glorified the Lord, and said unto him, Thou seest, brother, how many thousands of Jews there are which believe; and they are all zealous of the law: And they are informed of thee, that thou teachest all the Jews which are among the Gentiles to forsake Moses, saying that they ought not to circumcise their children, neither to walk after the customs. What is it therefore? the multitude must needs come together: for they will hear that thou art come. Do therefore this that we say to thee: We have four men which have a vow on them; Them take, and purify thyself with them, and be at charges with them, that they may shave their heads: and all may know that those things, whereof they were informed concerning thee, are nothing; but that thou thyself also walkest orderly, and keepest the law. As touching the Gentiles which believe, we have written and concluded that they observe no such thing, save only that they keep themselves from things offered to idols, and from blood, and from strangled, and from fornication. Then Paul took the men, and the next day purifying himself with them entered into the temple, to signify the accomplishment of the days of purification, until that an offering should be offered for every one of them. (Acts 21:17-26, KJV)
 
-### (2) The Church of Antioch, 42 A.D. – Barnabas, Paul. (Accurate understanding of the Word of God, the Covenant, Christ is the Good News, Gentiles) Acts 11:19-26
+### (2) The Church of Antioch, 42 A.D. – Barnabas, Paul. (Accurate understanding of the Word of God, the Covenant, Christ – Good News, Gentiles) Acts 11:19-26
 > Now they which were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but unto the Jews only. And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spake unto the Grecians, preaching the Lord Jesus. And the hand of the Lord was with them: and a great number believed, and turned unto the Lord. Then tidings of these things came unto the ears of the church which was in Jerusalem: and they sent forth Barnabas, that he should go as far as Antioch. Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave unto the Lord. For he was a good man, and full of the Holy Ghost and of faith: and much people was added unto the Lord. Then departed Barnabas to Tarsus, for to seek Saul: And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch. (Acts 11:19-26, KJV)
 
-### (3) Recognition not of "ecclesiastical authorities or opinions," but of Biblical truth, the importance of affirming the Word of God, the Covenant, and Christ as the destiny of God's people
+### (3) Recognition not of "ecclesiastical authorities or opinions," but of Biblical truth, the importance of affirming the Word of God, the Covenant, and Christ – the destiny of God's people
 
 ## Conclusion:
 

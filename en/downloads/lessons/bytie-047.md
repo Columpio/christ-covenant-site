@@ -1,8 +1,8 @@
 # 47. Gen. 27-28, - Jacob's blessing
 
-## 1) Gen. 27, - the importance of conveying the Word of God, the Covenant, Christ
+## 1) Gen. 27, - the importance of conveying the Word of God, the Covenant, and Christ
 
-### (1) Gen. 27:1-4, - Isaac's mistake (the desire to bless Esau), disobedience to the Word of God, the influence of the remnants of sin. The essence of children is God
+### (1) Gen. 27:1-4, - Isaac's mistake (the desire to bless Esau), resisting the Word of God, the influence of the remnants of sin. the essences of God's children
 > And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, here am I. And he said, Behold now, I am old, I know not the day of my death: Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out to the field, and take me some venison; And make me savoury meat, such as I love, and bring it to me, that I may eat; that my soul may bless thee before I die. (Gen. 27:1-4, KJV)
 
 #### (a) God's sovereignty, God's foreknowledge and election of Jacob, God's plan for the coming of Christ. Gen. 25:22-23, - Rom. 8:29,1 Pet. 1:1
@@ -33,11 +33,11 @@
 #### (a) The Word of God is the supreme law, the correctness of Rebekah's actions Acts 5:29
 > Then Peter and the other apostles answered and said, We ought to obey God rather than men. (Acts 5:29, KJV)
 
-#### (b) The word God is above all human authority, the problem of the authoritarianism of ministers and secular authorities (the importance of understanding the possibility of error of any person) Gal. 1:8-9,Ps. 138:1-2
+#### (b) The Word of God is above all human authorities, the problem of authoritarianism of ministers and secular authorities (the importance of understanding the possibility of error of any person) Gal. 1:8-9, Ps. 138:1-2
 > But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed. As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed. (Gal. 1:8-9, KJV)
 > A Psalm of David. I will praise thee with my whole heart: before the gods will I sing praise unto thee. I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name. (Ps. 138:1-2, KJV)
 
-### (3) Gen. 27:30-41, - non-acceptance of the Word of God, the Covenant, Christ, Esau's choice, the inevitable fulfillment of the Word of God
+### (3) Gen. 27:30-41, - rejection of the Word of God, the Covenant, Christ, the choice of Esau, the inevitable fulfillment of the Word of God
 > And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting. And he also had made savoury meat, and brought it unto his father, and said unto his father, Let my father arise, and eat of his son’s venison, that thy soul may bless me. And Isaac his father said unto him, Who art thou? And he said, I am thy son, thy firstborn Esau. And Isaac trembled very exceedingly, and said, Who? where is he that hath taken venison, and brought it me, and I have eaten of all before thou camest, and have blessed him? yea, and he shall be blessed. And when Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said unto his father, Bless me, even me also, O my father. And he said, Thy brother came with subtilty, and hath taken away thy blessing. And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing. And he said, Hast thou not reserved a blessing for me? And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto thee, my son? And Esau said unto his father, Hast thou but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept. And Isaac his father answered and said unto him, Behold, thy dwelling shall be the fatness of the earth, and of the dew of heaven from above; And by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck. And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob. (Gen. 27:30-41, KJV)
 
 #### (a) Esau's position is the desire for power and the visible
@@ -68,15 +68,15 @@
 ### (1) Gen. 28:1-5, - the importance of fulfilling the purpose
 > And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan. Arise, go to Padan-aram, to the house of Bethuel thy mother’s father; and take thee a wife from thence of the daughters of Laban thy mother’s brother. And God Almighty bless thee, and make thee fruitful, and multiply thee, that thou mayest be a multitude of people; And give thee the blessing of Abraham, to thee, and to thy seed with thee; that thou mayest inherit the land wherein thou art a stranger, which God gave unto Abraham. And Isaac sent away Jacob: and he went to Padan-aram unto Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob’s and Esau’s mother. (Gen. 28:1-5, KJV)
 
-#### (a) Isaac's position is acceptance and affirmation of the Word of God, admission of error, Jacob's repeated blessing, affirmation of the Word of God
+#### (a) Isaac's position is acceptance and affirmation of God's Word, admission of error, Jacob's repeated blessing, affirmation of God's Word
 
-#### (b) The importance of proper marriage – descendants, knowledge and transmission of the Word of God, the Covenant, Christ, purity of teaching, disciples, Worldwide Evangelization, the importance of preparing for the coming of Christ (the Covenant family, Christ)
+#### (b) The importance of proper marriage – descendants, knowledge and transmission of the Word of God, the Covenant, Christ, purity of teaching, disciples, Worldwide Evangelization, the importance of preparing for the coming of Christ (the family of the Covenant, Christ)
 
 ### (2) Gen. 28:6-9; 26:34 (26:34), - rejection of the Word of God, the Covenant, Christ
 > When Esau saw that Isaac had blessed Jacob, and sent him away to Padan-aram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughters of Canaan; And that Jacob obeyed his father and his mother, and was gone to Padan-aram; And Esau seeing that the daughters of Canaan pleased not Isaac his father; Then went Esau unto Ishmael, and took unto the wives which he had Mahalath the daughter of Ishmael Abraham’s son, the sister of Nebajoth, to be his wife. (Gen. 28:6-9, KJV)
 > And Esau was forty years old when he took to wife Judith the daughter of Beeri the Hittite, and Bashemath the daughter of Elon the Hittite: (Gen. 26:34, KJV)
 
-#### (a) Esau – an attempt to please the family, the wife is a descendant of Ishmael, relatives, rejection of the Word of God, the Covenant, Christ (A visible action without understanding the meaning is Esau's unbelief)
+#### (a) Esau - an attempt to please the family, his wife is a descendant of Ishmael, relatives, non-acceptance of the Word of God, the Covenant, Christ (Visible action without understanding the meaning - Esau’s unbelief)
 
 #### (b) Esau – Gentile wives, descendants, rejection of the Word of God, the Covenant, Christ
 
@@ -97,7 +97,7 @@
 
 ## Conclusion:
 
-### (1) The importance of Understanding the blessing of God – accepting, knowing, and transmitting the Word of God, the Covenant, and Christ
+### (1) The importance of understanding the blessing of God – accepting, knowing, and transmitting the Word of God, the Covenant, and Christ
 
 ### (2) The importance of proper prayer is all the answers for a person
 

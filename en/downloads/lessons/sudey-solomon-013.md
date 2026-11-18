@@ -1,6 +1,6 @@
 # 8. 1 Sam. 16–17: David's Calling
 
-## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -17,21 +17,21 @@
 ### (1) 1 Sam. 16:1, - Samuel's deep sorrow
 > And the LORD said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel? fill thine horn with oil, and go, I will send thee to Jesse the Beth-lehemite: for I have provided me a king among his sons. (1 Sam. 16:1, KJV)
 
-#### (a) The importance of knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization, the importance of preparing for the coming of Christ
+#### (a) The importance of knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, and the importance of preparing for the coming of Christ
 
 #### (b) Saul is a child of God, rejecting the destiny of God's people
 
-### (2) 1 Sam. 16:1-2, - the problem of kings, self-will, disobedience to the Word of God
+### (2) 1 Sam. 16:1-2, - the problem of kings, self-will, opposition to the Word of God
 > And the LORD said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel? fill thine horn with oil, and go, I will send thee to Jesse the Beth-lehemite: for I have provided me a king among his sons. And Samuel said, How can I go? if Saul hear it, he will kill me. And the LORD said, Take an heifer with thee, and say, I am come to sacrifice to the LORD. (1 Sam. 16:1-2, KJV)
 
 #### (a) Building his kingdom is the prototype of many ministers
 
 #### (b) The desire to suppress other ministers – a lack of understanding of the purpose of God's people, a desire for power and finances
 
-### (3) 1 Sam. 16:1-13, - God sovereignty and election, Baptism of the Holy Spirit
+### (3) 1 Sam. 16:1-13, - God's sovereignty and election, the Baptism of the Holy Spirit
 > And the LORD said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel? fill thine horn with oil, and go, I will send thee to Jesse the Beth-lehemite: for I have provided me a king among his sons. And Samuel said, How can I go? if Saul hear it, he will kill me. And the LORD said, Take an heifer with thee, and say, I am come to sacrifice to the LORD. And call Jesse to the sacrifice, and I will shew thee what thou shalt do: and thou shalt anoint unto me him whom I name unto thee. And Samuel did that which the LORD spake, and came to Beth-lehem. And the elders of the town trembled at his coming, and said, Comest thou peaceably? And he said, Peaceably: I am come to sacrifice unto the LORD: sanctify yourselves, and come with me to the sacrifice. And he sanctified Jesse and his sons, and called them to the sacrifice. And it came to pass, when they were come, that he looked on Eliab, and said, Surely the LORD’s anointed is before him. But the LORD said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for the Lord seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart. Then Jesse called Abinadab, and made him pass before Samuel. And he said, Neither hath the LORD chosen this. Then Jesse made Shammah to pass by. And he said, Neither hath the LORD chosen this. Again, Jesse made seven of his sons to pass before Samuel. And Samuel said unto Jesse, The LORD hath not chosen these. And Samuel said unto Jesse, Are here all thy children? And he said, There remaineth yet the youngest, and, behold, he keepeth the sheep. And Samuel said unto Jesse, Send and fetch him: for we will not sit down till he come hither. And he sent, and brought him in. Now he was ruddy, and withal of a beautiful countenance, and goodly to look to. And the LORD said, Arise, anoint him: for this is he. Then Samuel took the horn of oil, and anointed him in the midst of his brethren: and the Spirit of the LORD came upon David from that day forward. So Samuel rose up, and went to Ramah. (1 Sam. 16:1-13, KJV)
 
-#### (a) The importance of understanding the view of God 1 Sam. 16:7 (1 Tim. 2:4)
+#### (a) The importance of understanding God's view 1 Sam. 16:7 (1 Tim. 2:4)
 > But the LORD said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for the Lord seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart. (1 Sam. 16:7, KJV)
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 
@@ -49,7 +49,7 @@
 ### (1) 1 Sam. 17:1-3, - spiritual warfare, understanding destiny
 > Now the Philistines gathered together their armies to battle, and were gathered together at Shochoh, which belongeth to Judah, and pitched between Shochoh and Azekah, in Ephes-dammim. And Saul and the men of Israel were gathered together, and pitched by the valley of Elah, and set the battle in array against the Philistines. And the Philistines stood on a mountain on the one side, and Israel stood on a mountain on the other side: and there was a valley between them. (1 Sam. 17:1-3, KJV)
 
-#### (a) Philistines – rejection of the Word of God, the Covenant, Christ
+#### (a) Philistines – rejection of the Word of God, the Covenant, and Christ
 
 #### (b) Philistines – worship of false gods
 
@@ -60,14 +60,14 @@
 
 #### (b) Goliath's confession is a reproach to God
 
-#### (c) The action of Satan is to stop the transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization, the coming of Christ (the desire for the slavery of the people of God)
+#### (c) The action of Satan is to stop the transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization, the coming of Christ (the desire for the slavery of God's people)
 
 #### (d) The importance of understanding the constant war of God's people against the giants of this world (the action of the world and demons)
 
 ### (3) 1 Sam. 17:11, - the influence of the remnants of the sinful essence
 > When Saul and all Israel heard those words of the Philistine, they were dismayed, and greatly afraid. (1 Sam. 17:11, KJV)
 
-#### (a) Fear – the importance of affirming the Word of God, the Covenant, Christ
+#### (a) Fear – the importance of affirming the Word of God, the Covenant, and Christ
 
 #### (b) The importance of confidence in the forgiveness of all sins and salvation (Emmanuel), the importance of confidence in God's guidance and victory (understanding God's sovereignty and control)
 
@@ -76,9 +76,9 @@
 
 #### (a) David is a child of God, fulfilling his destiny
 
-#### (b) David's Confession is the affirmation of the Word of God, of the Covenant, of Christ
+#### (b) David's confession is the affirmation of the Word of God, the Covenant, and Christ
 
-#### (c) The action and power of the Holy Spirit – the transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization, the coming of Christ (the importance of fulfilling the destiny)
+#### (c) The action and power of the Holy Spirit – the transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ (the importance of fulfilling the destiny)
 
 #### (d) The importance of understanding God's sovereignty and control, human life and destiny, and the importance of trusting God
 
@@ -87,12 +87,12 @@
 
 ## Conclusion:
 
-### (1) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization
+### (1) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization
 
 ### (2) The importance of understanding God's Sovereignty and Control
 
 ### (3) The Importance of understanding the Spiritual Warfare of God's People
 
-### (4) The importance of understanding the operation of Satan – the seduction of God's people
+### (4) The importance of understanding Satan's Work of Deceiving God's People
 
 ### (5) The importance of right hope and priorities in life

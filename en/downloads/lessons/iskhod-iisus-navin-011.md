@@ -2,7 +2,7 @@
 
 ## 1) The importance of understanding the problem of slavery (humanity)
 
-### (1) Gen. 15:7-14, - the slavery of the people of God, the responsibility of the ancestors
+### (1) Gen. 15:7-14, - the slavery of God's people, the responsibility of the ancestors
 > And he said unto him, I am the LORD that brought thee out of Ur of the Chaldees, to give thee this land to inherit it. And he said, Lord GOD, whereby shall I know that I shall inherit it? And he said unto him, Take me an heifer of three years old, and a she goat of three years old, and a ram of three years old, and a turtledove, and a young pigeon. And he took unto him all these, and divided them in the midst, and laid each piece one against another: but the birds divided he not. And when the fowls came down upon the carcases, Abram drove them away. And when the sun was going down, a deep sleep fell upon Abram; and, lo, an horror of great darkness fell upon him. And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years; And also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance. (Gen. 15:7-14, KJV)
 
 ### (2) Understanding Creation and the Fall – the Slavery of Man Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2)
@@ -19,9 +19,9 @@
 
 ### (4) Life in slavery – suffering, death (no future)
 
-## 2) The importance of understanding God's decision for man – only Easter
+## 2) The importance of understanding God's decision for a person is Easter only
 
-### (1) Salvation, liberation of man – God is action. Gen. 3:15, 21. (The seed of the wife is the coming Christ, the Sacrifice is the fulfillment of the Word of God)
+### (1) Salvation, the liberation of man, is God's action. Gen. 3:15, 21. (The seed of the wife is the coming Christ, the Sacrifice is the fulfillment of the Word of God)
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
@@ -31,7 +31,7 @@
 
 ### (4) Miracles and Signs – the impossibility of human liberation
 
-### (5) Easter – Christ (the only and eternal institution of God) Rev. 13:8, - Gen. 3:15, 21,Ex. 12,Matt. 16:16,John 19:30 (1 Cor. 5:7)
+### (5) Easter – Christ (God's only and eternal institution) Rev. 13:8, - Gen. 3:15, 21,Ex. 12,Matt. 16:16,John 19:30 (1 Cor. 5:7)
 > And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world. (Rev. 13:8, KJV)
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
@@ -47,7 +47,7 @@
 
 ### (1) Verification, education, preparation for the service of God (motives)
 
-### (2) Understanding Emmanuel - the experience of living with God, all the answers for man (Realizing God's love and care – God's complete control of life)
+### (2) Understanding Emmanuel is the experience of living with God, all the answers for man (Awareness of God's love and care is God's complete control of life)
 
 ### (3) The obligatory passage of the wilderness for the people of God
 
@@ -61,7 +61,7 @@
 
 ## 5) The importance of understanding the purpose of God's people
 
-### (1) Knowledge and preservation of the Word of God, the Covenant, Christ (purity of teaching)
+### (1) Knowledge and preservation of the Word of God, the Covenant, and Christ (purity of teaching)
 
 ### (2) Transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization – the conquest of Canaan, preparation for the coming of Christ (actual fulfillment of the Word of God)
 
@@ -71,7 +71,7 @@
 
 ### (1) The importance of understanding the problem of slavery
 
-### (2) The importance of understanding God's decision method – Easter, Christ
+### (2) The Importance of Understanding God's Method of Decision – Easter, Christ
 
 ### (3) The importance of human education and training
 

@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -267,12 +269,12 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:</p><cite>Rom. 5:12 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Therefore, just as sin entered the world through one man, and death through sin, so also death was passed on to all men, because all sinned.</p><cite>Rom. 5:12 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Therefore, as sin entered into the world through one man, and death through sin, so death passed to all men because all sinned.</p><cite>Rom. 5:12 · WEB</cite></blockquote>
-<h4>(b) The soul is a spiritual person, obedience is the Word of God 1 Cor. 2:14</h4>
+<h4>(b) The soul is a spiritual person, obeying the Word of God 1 Cor. 2:14</h4>
 <blockquote data-v="kjv"><p>But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned.</p><cite>1 Cor. 2:14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>The natural man does not accept the things that come from the Spirit of God. For they are foolishness to him, and he cannot understand them, because they are spiritually discerned.</p><cite>1 Cor. 2:14 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now the natural man doesn’t receive the things of God’s Spirit, for they are foolishness to him; and he can’t know them, because they are spiritually discerned.</p><cite>1 Cor. 2:14 · WEB</cite></blockquote>
 <h4>(c) The body is perfect, eternal (there is no disease, aging, death)</h4>
-<h4>(d) The absence of a legitimate reason for the presence of a demon in a person</h4>
+<h4>(d) The absence of a legitimate reason for the presence of demons in a person</h4>
 <h3>(2) Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), - renunciation of the Covenant, Christ, death. (The importance of understanding the trinity of man after the fall)</h3>
 <blockquote data-v="kjv"><p>Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.</p><cite>Gen. 3:1-7 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Now the serpent was more crafty than any beast of the field that the LORD God had made. And he said to the woman, “Did God really say, ‘You must not eat from any tree in the garden?’” The woman answered the serpent, “We may eat the fruit of the trees of the garden, but about the fruit of the tree in the middle of the garden, God has said, ‘You must not eat of it or touch it, or you will die.’” “You will not surely die,” the serpent told the woman. “For God knows that in the day you eat of it, your eyes will be opened and you will be like God, knowing good and evil.” When the woman saw that the tree was good for food and pleasing to the eyes, and that it was desirable for obtaining wisdom, she took the fruit and ate it. She also gave some to her husband who was with her, and he ate it. And the eyes of both of them were opened, and they knew that they were naked; so they sewed together fig leaves and made coverings for themselves.</p><cite>Gen. 3:1-7 · BSB</cite></blockquote>
@@ -286,10 +288,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:</p><cite>Eph. 2:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>in which you used to walk when you conformed to the ways of this world and of the ruler of the power of the air, the spirit who is now at work in the sons of disobedience.</p><cite>Eph. 2:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the children of disobedience.</p><cite>Eph. 2:2 · WEB</cite></blockquote>
-<h4>(a) The Spirit is dead, separation from God, the power of demons (spirit. possession)</h4>
-<h4>(b) The soul is a spiritual person (sinful essence), God is resisting</h4>
+<h4>(a) The Spirit is dead, separation from God, the power of demons (spirit possession)</h4>
+<h4>(b) Soul – a spiritual person (sinful essence), resisting God</h4>
 <h4>(c) The body is a curse, illness, aging, death</h4>
-<h4>(d) The presence of a legitimate reason for demons to dwell in a person is the power of sin, death and hell, Satan Eph. 2:1-2,Acts 26:18,2 Tim. 2:25-26</h4>
+<h4>(d) The presence of a legitimate reason for the presence of demons in man – the power of sin, death and hell, Satan Eph. 2:1-2,Acts 26:18,2 Tim. 2:25-26</h4>
 <blockquote data-v="kjv"><p>And you hath he quickened, who were dead in trespasses and sins; Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:</p><cite>Eph. 2:1-2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And you were dead in your trespasses and sins, in which you used to walk when you conformed to the ways of this world and of the ruler of the power of the air, the spirit who is now at work in the sons of disobedience.</p><cite>Eph. 2:1-2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>You were made alive when you were dead in transgressions and sins, in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the children of disobedience.</p><cite>Eph. 2:1-2 · WEB</cite></blockquote>
@@ -314,18 +316,18 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>When Jesus had received the sour wine, He said, “It is finished.” And bowing His head, He yielded up His spirit.</p><cite>John 19:30 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>When Jesus therefore had received the vinegar, he said, “It is finished!” Then he bowed his head and gave up his spirit.</p><cite>John 19:30 · WEB</cite></blockquote>
 <h4>(a) The regenerated Spirit, Emmanuel, God's guidance</h4>
-<h4>(b) A regenerated soul, a spiritual person, obeying the Word of God</h4>
-<h4>(c) The body is redeemed, there are no curses, imperfect. (Fulfillment of the Word of God – Resurrection of the dead, new body). Gen. 3:19</h4>
+<h4>(b) A regenerated soul, a spiritual person, obedience to the Word of God</h4>
+<h4>(c) The body is redeemed, there are no curses, imperfect. (The fulfillment of God's Word is the resurrection of the dead, a new body). Gen. 3:19</h4>
 <blockquote data-v="kjv"><p>In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return.</p><cite>Gen. 3:19 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>By the sweat of your brow you will eat your bread, until you return to the ground—because out of it were you taken. For dust you are, and to dust you shall return.”</p><cite>Gen. 3:19 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>You will eat bread by the sweat of your face until you return to the ground, for you were taken out of it. For you are dust, and you shall return to dust.”</p><cite>Gen. 3:19 · WEB</cite></blockquote>
-<h4>(d) The absence of a legitimate reason for the presence of a demon in a person</h4>
-<h2 id="s2">2) God's method of liberation is the transmission of the Word of God, the Covenant, Christ</h2>
-<h3>(1) Transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization – the liberation of people, the destiny of the people of God, the will of God. Mark 16:17</h3>
+<h4>(d) The absence of a legitimate reason for the presence of demons in a person</h4>
+<h2 id="s2">2) God's method of liberation is the transmission of God's Word, Covenant, and Christ</h2>
+<h3>(1) The transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization – the liberation of people, the destiny of the people of God, the will of God. Mark 16:17</h3>
 <blockquote data-v="kjv"><p>And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;</p><cite>Mark 16:17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And these signs will accompany those who believe: In My name they will drive out demons; they will speak in new tongues;</p><cite>Mark 16:17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>These signs will accompany those who believe: in my name they will cast out demons; they will speak with new languages;</p><cite>Mark 16:17 · WEB</cite></blockquote>
-<h3>(2) Accepting the Word of God, the Covenant, Christ is God's only method of liberating man, 100% of people. Rom. 8:2 (Acts 16:16-19)</h3>
+<h3>(2) Accepting the Word of God, the Covenant, and Christ is God's only method of liberating man, 100% of people. Rom. 8:2 (Acts 16:16-19)</h3>
 <blockquote data-v="kjv"><p>For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.</p><cite>Rom. 8:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For in Christ Jesus the law of the Spirit of life set you free from the law of sin and death.</p><cite>Rom. 8:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For the law of the Spirit of life in Christ Jesus made me free from the law of sin and of death.</p><cite>Rom. 8:2 · WEB</cite></blockquote>
@@ -364,7 +366,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you.</p><cite>Luke 10:19 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Behold, I have given you authority to tread on snakes and scorpions, and over all the power of the enemy. Nothing will harm you.</p><cite>Luke 10:19 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Behold, I give you authority to tread on serpents and scorpions, and over all the power of the enemy. Nothing will in any way hurt you.</p><cite>Luke 10:19 · WEB</cite></blockquote>
-<h3>(6) Fasting and prayer – constant and deep abiding in the Word of God, the Covenant, Christ, understanding spiritual laws. Matt. 17:14-21</h3>
+<h3>(6) Fasting and prayer are constant and deep abiding in the Word of God, the Covenant, Christ, and understanding spiritual laws. Matt. 17:14-21</h3>
 <blockquote data-v="kjv"><p>And when they were come to the multitude, there came to him a certain man, kneeling down to him, and saying, Lord, have mercy on my son: for he is lunatick, and sore vexed: for ofttimes he falleth into the fire, and oft into the water. And I brought him to thy disciples, and they could not cure him. Then Jesus answered and said, O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him hither to me. And Jesus rebuked the devil; and he departed out of him: and the child was cured from that very hour. Then came the disciples to Jesus apart, and said, Why could not we cast him out? And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you. Howbeit this kind goeth not out but by prayer and fasting.</p><cite>Matt. 17:14-21 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>When they came to the crowd, a man came up to Jesus and knelt before Him. “Lord, have mercy on my son,” he said. “He has seizures and is suffering terribly. He often falls into the fire or into the water. I brought him to Your disciples, but they could not heal him.” “O unbelieving and perverse generation!” Jesus replied. “How long must I remain with you? How long must I put up with you? Bring the boy here to Me.” Then Jesus rebuked the demon, and it came out of the boy, and he was healed from that moment. Afterward the disciples came to Jesus privately and asked, “Why couldn’t we drive it out?” “Because you have so little faith,” He answered. “For truly I tell you, if you have faith the size of a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you.”</p><cite>Matt. 17:14-21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>When they came to the multitude, a man came to him, kneeling down to him and saying, “Lord, have mercy on my son, for he is epileptic and suffers grievously; for he often falls into the fire, and often into the water. So I brought him to your disciples, and they could not cure him.” Jesus answered, “Faithless and perverse generation! How long will I be with you? How long will I bear with you? Bring him here to me.” Jesus rebuked the demon, and it went out of him, and the boy was cured from that hour. Then the disciples came to Jesus privately, and said, “Why weren’t we able to cast it out?” He said to them, “Because of your unbelief. For most certainly I tell you, if you have faith as a grain of mustard seed, you will tell this mountain, ‘Move from here to there,’ and it will move; and nothing will be impossible for you. But this kind doesn’t go out except by prayer and fasting.”</p><cite>Matt. 17:14-21 · WEB</cite></blockquote>
@@ -382,7 +384,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Fear none of those things which thou shalt suffer: behold, the devil shall cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life.</p><cite>Rev. 2:10 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Do not fear what you are about to suffer. Behold, the devil is about to throw some of you into prison to test you, and you will suffer tribulation for ten days. Be faithful even unto death, and I will give you the crown of life.</p><cite>Rev. 2:10 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Don’t be afraid of the things which you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested; and you will have oppression for ten days. Be faithful to death, and I will give you the crown of life.</p><cite>Rev. 2:10 · WEB</cite></blockquote>
-<h3>(2) Constant violation of the Word of God – God permits Satan to act from outside, the consequences of sin are not death, the education of man 1 Sam. 16:14-16, 23,1 Cor. 5:1-5,2 Cor. 12:7-9 (Heb. 12:4-11)</h3>
+<h3>(2) The constant violation of the Word of God is God's permission for Satan to act from outside, the consequences of sin are not death, the education of man 1 Sam. 16:14-16, 23,1 Cor. 5:1-5,2 Cor. 12:7-9 (Heb. 12:4-11)</h3>
 <blockquote data-v="kjv"><p>But the Spirit of the LORD departed from Saul, and an evil spirit from the LORD troubled him. And Saul’s servants said unto him, Behold now, an evil spirit from God troubleth thee. Let our lord now command thy servants, which are before thee, to seek out a man, who is a cunning player on an harp: and it shall come to pass, when the evil spirit from God is upon thee, that he shall play with his hand, and thou shalt be well.</p><cite>1 Sam. 16:14-16 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Now the Spirit of the LORD departed from Saul, and a spirit of distress from the LORD began to torment him. Saul’s servants said to him, “Surely a spirit of distress from God is tormenting you. Let our lord command your servants here to seek out someone who can skillfully play the harp. Whenever the spirit of distress from God is upon you, he is to play it, and you will be well.”</p><cite>1 Sam. 16:14-16 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now Yahweh’s Spirit departed from Saul, and an evil spirit from Yahweh troubled him. Saul’s servants said to him, “See now, an evil spirit from God troubles you. Let our lord now command your servants who are in front of you to seek out a man who is a skillful player on the harp. Then when the evil spirit from God is on you, he will play with his hand, and you will be well.”</p><cite>1 Sam. 16:14-16 · WEB</cite></blockquote>
@@ -415,7 +417,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>When an unclean spirit comes out of a man, it passes through arid places seeking rest and does not find it. Then it says, ‘I will return to the house I left.’ On its return, it finds the house vacant, swept clean, and put in order. Then it goes and brings with it seven other spirits more wicked than itself, and they go in and dwell there. And the final plight of that man is worse than the first. So will it be with this wicked generation.”</p><cite>Matt. 12:43-45 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“When an unclean spirit has gone out of a man, he passes through waterless places seeking rest, and doesn’t find it. Then he says, ‘I will return into my house from which I came;’ and when he has come back, he finds it empty, swept, and put in order. Then he goes and takes with himself seven other spirits more evil than he is, and they enter in and dwell there. The last state of that man becomes worse than the first. Even so will it be also to this evil generation.”</p><cite>Matt. 12:43-45 · WEB</cite></blockquote>
 <h2 id="s4">Conclusion:</h2>
-<h3>(1) The doctrine of the possibility of children being possessed by God is an insult, a humiliation of Christ and His Sacrifice 1 Cor. 12:13,Eph. 4:4, – 2 Cor. 6:15-16,Matt. 12:43-45. (The impossibility of two spirits being in a person at the same time)</h3>
+<h3>(1) The doctrine of the possibility of possession by the children of God is an insult, a humiliation of Christ and His Sacrifice 1 Cor. 12:13,Eph. 4:4, – 2 Cor. 6:15-16,Matt. 12:43-45. (The impossibility of two spirits being in a person at the same time)</h3>
 <blockquote data-v="kjv"><p>For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.</p><cite>1 Cor. 12:13 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For in one Spirit we were all baptized into one body, whether Jews or Greeks, slave or free, and we were all given one Spirit to drink.</p><cite>1 Cor. 12:13 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For in one Spirit we were all baptized into one body, whether Jews or Greeks, whether bond or free; and were all given to drink into one Spirit.</p><cite>1 Cor. 12:13 · WEB</cite></blockquote>
@@ -429,7 +431,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>When an unclean spirit comes out of a man, it passes through arid places seeking rest and does not find it. Then it says, ‘I will return to the house I left.’ On its return, it finds the house vacant, swept clean, and put in order. Then it goes and brings with it seven other spirits more wicked than itself, and they go in and dwell there. And the final plight of that man is worse than the first. So will it be with this wicked generation.”</p><cite>Matt. 12:43-45 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“When an unclean spirit has gone out of a man, he passes through waterless places seeking rest, and doesn’t find it. Then he says, ‘I will return into my house from which I came;’ and when he has come back, he finds it empty, swept, and put in order. Then he goes and takes with himself seven other spirits more evil than he is, and they enter in and dwell there. The last state of that man becomes worse than the first. Even so will it be also to this evil generation.”</p><cite>Matt. 12:43-45 · WEB</cite></blockquote>
 <h3>(2) The importance of understanding the false doctrines of modernity</h3>
-<h4>(a) The heresy of the "mixed gospel" (Christ + the works of man), the recognition of God's abandonment of his children in the sin and possession of God's children – a misunderstanding of the Word of God, the Covenant, Christ, lack of salvation. Rom. 8:2,1 John 2:2,Col. 2:13-14</h4>
+<h4>(a) The heresy of the "mixed gospel" (Christ + the works of man), the recognition of God's abandonment of his children in the sin and possession of God's children – a misunderstanding of the Word of God, the Covenant, Christ, and the lack of salvation. Rom. 8:2,1 John 2:2,Col. 2:13-14</h4>
 <blockquote data-v="kjv"><p>For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.</p><cite>Rom. 8:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For in Christ Jesus the law of the Spirit of life set you free from the law of sin and death.</p><cite>Rom. 8:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For the law of the Spirit of life in Christ Jesus made me free from the law of sin and of death.</p><cite>Rom. 8:2 · WEB</cite></blockquote>
@@ -446,7 +448,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And what concord hath Christ with Belial? or what part hath he that believeth with an infidel? And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.</p><cite>2 Cor. 6:15-16 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>What harmony is there between Christ and Belial? Or what does a believer have in common with an unbeliever? What agreement can exist between the temple of God and idols? For we are the temple of the living God. As God has said: “I will dwell with them and walk among them, and I will be their God, and they will be My people.”</p><cite>2 Cor. 6:15-16 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>What agreement does Christ have with Belial? Or what portion does a believer have with an unbeliever? What agreement does a temple of God have with idols? For you are a temple of the living God. Even as God said, “I will dwell in them and walk in them. I will be their God and they will be my people.”</p><cite>2 Cor. 6:15-16 · WEB</cite></blockquote>
-<h3>(3) The importance of accepting the Word of God, the Covenant, Christ, lawful deliverance from the power of sin, death and hell, Satan, lawful justification, adoption and the church of man. Rom. 8:2</h3>
+<h3>(3) The importance of accepting the Word of God, the Covenant, Christ, legitimate liberation from the power of sin, death and hell, Satan, legitimate justification, adoption and the church of man. Rom. 8:2</h3>
 <blockquote data-v="kjv"><p>For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.</p><cite>Rom. 8:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For in Christ Jesus the law of the Spirit of life set you free from the law of sin and death.</p><cite>Rom. 8:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For the law of the Spirit of life in Christ Jesus made me free from the law of sin and of death.</p><cite>Rom. 8:2 · WEB</cite></blockquote>

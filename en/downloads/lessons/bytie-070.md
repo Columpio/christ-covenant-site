@@ -9,7 +9,7 @@
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
 > And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:16-17, KJV)
 
-### (1) Reasons to Thank and Glorify God
+### (1) Reasons to thank and glorify God
 
 #### (a) Spiritual – The Word of God, the Covenant, Christ, Emmanuel, the child of God, eternal life
 
@@ -19,7 +19,7 @@
 
 #### (d) The cause of mental and physical is spiritual (priority)
 
-### (2) The highest way to thank and glorify God is to know and transmit the Word of God, the Covenant, Christ (the purpose of the children is God)
+### (2) The highest way to thank and glorify God is to know and transmit the Word of God, the Covenant, and Christ (the purpose of God's children)
 
 ## 2) Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), - there is no Word of God, Covenant, Christ
 > Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons. (Gen. 3:1-7, KJV)
@@ -55,7 +55,7 @@
 
 #### (d) The cause of mental and physical is spiritual (priority)
 
-### (2) The highest way to thank and glorify God is to know and transmit the Word of God, the Covenant, Christ (the purpose of the children is God)
+### (2) The highest way to thank and glorify God is to know and transmit the Word of God, the Covenant, and Christ (the purpose of God's children)
 
 ## 4) Examples of giving thanks and praising God
 
@@ -97,10 +97,10 @@
 > Then said his wife unto him, Dost thou still retain thine integrity? curse God, and die. But he said unto her, Thou speakest as one of the foolish women speaketh. What? shall we receive good at the hand of God, and shall we not receive evil? In all this did not Job sin with his lips. (Job 2:9-10, KJV)
 > Although the fig tree shall not blossom, neither shall fruit be in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and there shall be no herd in the stalls: Yet I will rejoice in the LORD, I will joy in the God of my salvation. (Hab. 3:17-18, KJV)
 
-### (3) The most important answer for a person, the reason for thanking and glorifying God is Emmanuel, salvation, knowledge and transmission of the Word of God, the Covenant, Christ Genesis, the Evangelistic lesson
+### (3) The most important answer for man, the reason for thanking and glorifying God, is Emmanuel, salvation, knowledge and transmission of the Word of God, the Covenant, Genesis of Christ, the Evangelistic lesson
 - Gen. 1-3, - Creation, Fall, Restoration
 
-## 1) God's people's purpose is to know and transmit the Word of God
+## 1) The purpose of God's people is to know and impart the Word of God
 
 ### (1) The Bible is the Written Word of God 2 Tim. 3:16,2 Pet. 1:20-21
 > All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness: (2 Tim. 3:16, KJV)
@@ -138,14 +138,14 @@
 - Man is a soul that has a spirit and lives in a body.
 - The purpose of man is Emmanuel, Communion with God and Knowledge of God, service and glorification of God. (A tree in the ground, a fish in the water, a man with God)
 
-### (3) Gen. 2:9, 16-17, - the importance of the Word of God, the Covenant, Christ for man
+### (3) Gen. 2:9, 16-17, - the importance of the Word of God, the Covenant, and Christ for man
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
 > And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:16-17, KJV)
 
 #### (a) The establishment of God's Covenant through the Word of God Hos. 6:7. (The Covenant is a Contract, God's terms of Emmanuel, the initiator is God)
 > But they like men have transgressed the covenant: there have they dealt treacherously against me. (Hos. 6:7, KJV)
 
-#### (b) Free will and the right to choose a person, a conscious choice or rejection of life in the Word of God, the Covenant, Christ, the decision of each person Gen. 1:28 (Two trees, life or death – the choice and responsibility of a person)
+#### (b) Free will and the right to choose a person, conscious choice or rejection of life in the Word of God, the Covenant, Christ, the decision of each person Gen. 1:28 (Two trees, life or death – the choice and responsibility of man)
 > And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth. (Gen. 1:28, KJV)
 
 #### (c) The purpose and meaning of human life in time is the choice regarding eternal life (where? and with Whom?). Deut. 30:19
@@ -165,16 +165,16 @@
 
 ### (2) Understanding the logic and thinking of Satan
 
-#### (a) Not accepting the status of a human being as a child of God, the first after God
+#### (a) Not accepting the status of a human being – a child of God, the first after God
 
 #### (b) The desire to be equal to God is resisting the Word of God Isa. 14:14. (Equality with God is to take the place of God in man, to become an eternal "god" for the children of God, legal equality with God)
 > I will ascend above the heights of the clouds; I will be like the most High. (Isa. 14:14, KJV)
 
-#### (c) Acceptance of the word Satan, part of the angels – human control Matt. 25:41. (Ignorance of God as a consuming fire – there is no sin). Heb. 12:29
+#### (c) Accepting the word of Satan, part of the angels – human control Matt. 25:41. (Ignorance of God as a consuming fire – there is no sin). Heb. 12:29
 > Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels: (Matt. 25:41, KJV)
 > For our God is a consuming fire. (Heb. 12:29, KJV)
 
-#### (d) Satan's method of action is the abolition of the Word of God, the Covenant, Christ Gen. 3:1-7. (The reason for Satan's admission is man's right to choose, God's admission)
+#### (d) Satan's method of action is the abolition of the Word of God, the Covenant, and Christ Gen. 3:1-7. (The reason for Satan's admission is man's right to choose, God's admission)
 > Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons. (Gen. 3:1-7, KJV)
 
 - Sin is a conscious choice to live outside the Word of God 1 John 3:8,Hos. 6:7
@@ -182,14 +182,14 @@
 > He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil. (1 John 3:8, KJV)
 > But they like men have transgressed the covenant: there have they dealt treacherously against me. (Hos. 6:7, KJV)
 
-## 4) Gen. 3:7-12, is a consequence of the abolition of the Word of God, the Covenant, Christ
+## 4) Gen. 3:7-12, is a consequence of the abolition of the Word of God, the Covenant, and Christ
 > And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons. And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the LORD God amongst the trees of the garden. And the LORD God called unto Adam, and said unto him, Where art thou? And he said, I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself. And he said, Who told thee that thou wast naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat? And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat. (Gen. 3:7-12, KJV)
 
-### (1) Sin – living outside the Word of God, the Covenant, Christ (nakedness, flaws)
+### (1) Sin is living outside the Word of God, the Covenant, and Christ (nakedness, imperfections)
 
 ### (2) Death is a complete separation from God (fear of God)
 
-### (3) The Power of Satan is the presence, guidance, and control of man
+### (3) The power of Satan is the presence, guidance, and control of man
 
 #### (a) Religion – justification by deeds (leaves)
 
@@ -202,7 +202,7 @@
 
 #### (a) All sinners – status (Adam's sin), life outside the Word of God, the Covenant, Christ
 
-#### (b) The presence of a sinful entity. man – Resisting the Word of God 1 Cor. 2:14
+#### (b) The presence of a sinful entity. human resistance to the Word of God 1 Cor. 2:14
 > But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned. (1 Cor. 2:14, KJV)
 
 #### (c) The presence of Adam's sin and man's personal transgressions – past, present, and future (thoughts, emotions, and deeds)
@@ -233,10 +233,10 @@
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 
-#### (a) The justice of the Holy God, the importance of punishing sin, the fulfillment of the Word of God – either I or Christ in my stead. Ps. 138:2
+#### (a) The justice of the Holy God, the importance of punishing sin, the fulfillment of God's Word – either me or Christ in my stead. Ps. 138:2
 > I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name. (Ps. 138:2, KJV)
 
-#### (b) Fulfillment of the Word of God – Jesus Christ as God and Creator (the right to be responsible for his creation), and as perfect, a sinless Man in the likeness of sinful flesh (the right to accept suffering and death for all the sins of mankind) Ps. 49:7,Job 4:18 (another kind of creation), - Rom. 8:3
+#### (b) The fulfillment of the Word of God – Jesus Christ as God and Creator (the right to be responsible for his creation), and as perfect, a sinless Man in the likeness of sinful flesh (the right to accept suffering and death for all the sins of mankind) Ps. 49:7,Job 4:18 (another kind of creation), - Rom. 8:3
 > None of them can by any means redeem his brother, nor give to God a ransom for him: (Ps. 49:7, KJV)
 > Behold, he put no trust in his servants; and his angels he charged with folly: (Job 4:18, KJV)
 > For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh: (Rom. 8:3, KJV)
@@ -267,13 +267,13 @@
 
 ### (1) Cain, Abel – believers, understanding the importance of Worship
 
-### (2) The meaning of Abel's sacrifice is the shedding of blood, faith in Christ. (God's Prophet, acceptance of the Word of God, the Covenant, Christ is the Good News) Heb. 11:4,Luke 11:49-51, – 1 Pet. 1:10-11,Acts 10:43
+### (2) The meaning of Abel's sacrifice is the shedding of blood, faith in Christ. (God's Prophet, acceptance of God's Word, Covenant, Christ – Good News) Heb. 11:4,Luke 11:49-51, - 1 Pet. 1:10-11,Acts 10:43
 > By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh. (Heb. 11:4, KJV)
 > Therefore also said the wisdom of God, I will send them prophets and apostles, and some of them they shall slay and persecute: That the blood of all the prophets, which was shed from the foundation of the world, may be required of this generation; From the blood of Abel unto the blood of Zacharias, which perished between the altar and the temple: verily I say unto you, It shall be required of this generation. (Luke 11:49-51, KJV)
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
 > To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins. (Acts 10:43, KJV)
 
-### (3) The meaning of Cain's sacrifice is the fruits of the earth, his own strength, the deeds of man (the devil's Child, rejection of the Word of God, the Covenant, Christ – religion). 1 John 3:12
+### (3) The meaning of Cain's sacrifice is the fruits of the earth, his own strength, and human deeds (Child of the devil, rejection of the Word of God, the Covenant, and Christ – religion). 1 John 3:12
 > Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother’s righteous. (1 John 3:12, KJV)
 
 - The importance of Understanding Salvation in V.Z. and N.Z.

@@ -18,7 +18,7 @@
 
 ### (3) 586 B.C., The Babylonian Kingdom, King Nebuchadnezzar conquered and destroyed the Kingdom of Judah, the destruction of Jerusalem and the Temple, the Babylonian captivity of the people of God for 70 years. 2 Kgs. 25
 
-## 2) The ministry of the prophets is the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of God's people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+## 2) The ministry of the prophets is the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of God's people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 
 ### (1) The Prophets of V.Z. – understanding and acceptance of the Word of God, the Covenant, Christ, salvation and rebirth, the action of the Holy Spirit 1 Pet. 1:10-11,Acts 10:43, - 2 Pet. 1:19-21,John 16:8-11
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
@@ -26,20 +26,20 @@
 > We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts: Knowing this first, that no prophecy of the scripture is of any private interpretation. For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost. (2 Pet. 1:19-21, KJV)
 > And when he is come, he will reprove the world of sin, and of righteousness, and of judgment: Of sin, because they believe not on me; Of righteousness, because I go to my Father, and ye see me no more; Of judgment, because the prince of this world is judged. (John 16:8-11, KJV)
 
-#### (a) The rejection of the Word of God, the Covenant, Christ is the problem of man, of the people. (The consequence is idolatry, mammon, immorality)
+#### (a) The rejection of the Word of God, the Covenant, and Christ is the problem of man and the people. (The consequence is idolatry, mammon, immorality)
 
-#### (b) The importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization (Emmanuel, the destiny of man, preparation for the coming of Christ)
+#### (b) The importance of knowing and transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization (Emmanuel, the destiny of man, preparation for the coming of Christ)
 
-#### (c) The judgments of God – the inevitable execution of the sentence of the Word of God, understanding the human right to choose. Rom. 6:23,Deut. 30:19
+#### (c) The judgments of God are the inevitable execution of the sentence of the Word of God, understanding the human right to choose. Rom. 6:23,Deut. 30:19
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
-### (2) The modern people of God, the continuation of prophetic ministry – the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of the people of God. John 16:8-11. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+### (2) The modern people of God, the continuation of prophetic ministry – the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of the people of God. John 16:8-11. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 > And when he is come, he will reprove the world of sin, and of righteousness, and of judgment: Of sin, because they believe not on me; Of righteousness, because I go to my Father, and ye see me no more; Of judgment, because the prince of this world is judged. (John 16:8-11, KJV)
 
 ## 3) The meaning of the Book of the Prophet Isaiah (before the Babylonian captivity)
 
-### (1) Isa. 1:4; 2:6-8, 22; 5:2; 44:9-22; 64:6, - non-acceptance of the Word of God, the Covenant, Christ, loss of purpose, sin unto death
+### (1) Isa. 1:4; 2:6-8, 22; 5:2; 44:9-22; 64:6, - non-acceptance of the Word of God, the Covenant, Christ, loss of purpose, sin to death
 > Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the LORD, they have provoked the Holy One of Israel unto anger, they are gone away backward. (Isa. 1:4, KJV)
 > Therefore thou hast forsaken thy people the house of Jacob, because they be replenished from the east, and are soothsayers like the Philistines, and they please themselves in the children of strangers. Their land also is full of silver and gold, neither is there any end of their treasures; their land is also full of horses, neither is there any end of their chariots: Their land also is full of idols; they worship the work of their own hands, that which their own fingers have made: (Isa. 2:6-8, KJV)
 > Cease ye from man, whose breath is in his nostrils: for wherein is he to be accounted of? (Isa. 2:22, KJV)
@@ -47,7 +47,7 @@
 > They that make a graven image are all of them vanity; and their delectable things shall not profit; and they are their own witnesses; they see not, nor know; that they may be ashamed. Who hath formed a god, or molten a graven image that is profitable for nothing? Behold, all his fellows shall be ashamed: and the workmen, they are of men: let them all be gathered together, let them stand up; yet they shall fear, and they shall be ashamed together. The smith with the tongs both worketh in the coals, and fashioneth it with hammers, and worketh it with the strength of his arms: yea, he is hungry, and his strength faileth: he drinketh no water, and is faint. The carpenter stretcheth out his rule; he marketh it out with a line; he fitteth it with planes, and he marketh it out with the compass, and maketh it after the figure of a man, according to the beauty of a man; that it may remain in the house. He heweth him down cedars, and taketh the cypress and the oak, which he strengtheneth for himself among the trees of the forest: he planteth an ash, and the rain doth nourish it. Then shall it be for a man to burn: for he will take thereof, and warm himself; yea, he kindleth it, and baketh bread; yea, he maketh a god, and worshippeth it; he maketh it a graven image, and falleth down thereto. He burneth part thereof in the fire; with part thereof he eateth flesh; he roasteth roast, and is satisfied: yea, he warmeth himself, and saith, Aha, I am warm, I have seen the fire: And the residue thereof he maketh a god, even his graven image: he falleth down unto it, and worshippeth it, and prayeth unto it, and saith, Deliver me; for thou art my god. They have not known nor understood: for he hath shut their eyes, that they cannot see; and their hearts, that they cannot understand. And none considereth in his heart, neither is there knowledge nor understanding to say, I have burned part of it in the fire; yea, also I have baked bread upon the coals thereof; I have roasted flesh, and eaten it: and shall I make the residue thereof an abomination? shall I fall down to the stock of a tree? He feedeth on ashes: a deceived heart hath turned him aside, that he cannot deliver his soul, nor say, Is there not a lie in my right hand? Remember these, O Jacob and Israel; for thou art my servant: I have formed thee; thou art my servant: O Israel, thou shalt not be forgotten of me. I have blotted out, as a thick cloud, thy transgressions, and, as a cloud, thy sins: return unto me; for I have redeemed thee. (Isa. 44:9-22, KJV)
 > But we are all as an unclean thing, and all our righteousnesses are as filthy rags; and we all do fade as a leaf; and our iniquities, like the wind, have taken us away. (Isa. 64:6, KJV)
 
-### (2) Isa. 14:12-14 (1 John 3:8), - understanding the action of Satan
+### (2) Isa. 14:12-14 (1 John 3:8), - understanding the work of Satan
 > How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations! For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north: I will ascend above the heights of the clouds; I will be like the most High. (Isa. 14:12-14, KJV)
 > He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil. (1 John 3:8, KJV)
 
@@ -66,7 +66,7 @@
 > For other foundation can no man lay than that is laid, which is Jesus Christ. (1 Cor. 3:11, KJV)
 > These things said Esaias, when he saw his glory, and spake of him. (John 12:41, KJV)
 
-### (6) Isa. 53:11 (John 8:32,1 Tim. 4:16), - the importance of learning, proper understanding of the Word of God, the Covenant, Christ Isa. 43:11, 25; 44:2; 49:15
+### (6) Isa. 53:11 (John 8:32,1 Tim. 4:16), - the importance of learning, the correct understanding of the Word of God, the Covenant, Christ Isa. 43:11, 25; 44:2; 49:15
 > He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities. (Isa. 53:11, KJV)
 > And ye shall know the truth, and the truth shall make you free. (John 8:32, KJV)
 > Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee. (1 Tim. 4:16, KJV)
@@ -75,13 +75,13 @@
 > Thus saith the LORD that made thee, and formed thee from the womb, which will help thee; Fear not, O Jacob, my servant; and thou, Jesurun, whom I have chosen. (Isa. 44:2, KJV)
 > Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee. (Isa. 49:15, KJV)
 
-### (7) Isa. 14:24, 27; 46:10; 55:8-11, - God sovereignty, fulfillment of the Word of God
+### (7) Isa. 14:24, 27; 46:10; 55:8-11, - God's sovereignty, fulfillment of God's Word
 > The LORD of hosts hath sworn, saying, Surely as I have thought, so shall it come to pass; and as I have purposed, so shall it stand: (Isa. 14:24, KJV)
 > For the LORD of hosts hath purposed, and who shall disannul it? and his hand is stretched out, and who shall turn it back? (Isa. 14:27, KJV)
 > Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure: (Isa. 46:10, KJV)
 > For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD. For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts. For as the rain cometh down, and the snow from heaven, and returneth not thither, but watereth the earth, and maketh it bring forth and bud, that it may give seed to the sower, and bread to the eater: So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it. (Isa. 55:8-11, KJV)
 
-### (8) Isa. 6:8-10; 59:21; 54:17; 61:1-3 (54:17), 61:1-3, - The importance of the transmission of the Covenant, Christ
+### (8) Isa. 6:8-10; 59:21; 54:17; 61:1-3 (54:17), 61:1-3, - The importance of the transmission of the Covenant, of Christ
 > Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here am I; send me. And he said, Go, and tell this people, Hear ye indeed, but understand not; and see ye indeed, but perceive not. Make the heart of this people fat, and make their ears heavy, and shut their eyes; lest they see with their eyes, and hear with their ears, and understand with their heart, and convert, and be healed. (Isa. 6:8-10, KJV)
 > As for me, this is my covenant with them, saith the LORD; My spirit that is upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed’s seed, saith the LORD, from henceforth and for ever. (Isa. 59:21, KJV)
 > No weapon that is formed against thee shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn. This is the heritage of the servants of the LORD, and their righteousness is of me, saith the LORD. (Isa. 54:17, KJV)
@@ -93,11 +93,11 @@
 > But with righteousness shall he judge the poor, and reprove with equity for the meek of the earth: and he shall smite the earth with the rod of his mouth, and with the breath of his lips shall he slay the wicked. And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins. The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them. And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox. And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice’ den. They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the LORD, as the waters cover the sea. (Isa. 11:4-9, KJV)
 > And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand. And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years, And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season. And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years. But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection. Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years. (Rev. 20:1-6, KJV)
 
-## 4) The importance of accepting the Word of God, the Covenant, Christ, Destiny
+## 4) The importance of accepting the Word of God, the Covenant, Christ, and destiny
 
-### (1) Isa. 36-39, - acceptance of the Covenant, Christ, destiny. (Hezekiah, the salvation of Judah from the Assyrian Empire)
+### (1) Isa. 36-39, - acceptance of the Covenant, of Christ, of destiny. (Hezekiah, the salvation of Judah from the Assyrian Empire)
 
-### (2) Isa. 44:28; 45:1-4, - non-acceptance of the Word of God, the Covenant, Christ, destiny. (The destruction and rebuilding of Jerusalem, the Temple)
+### (2) Isa. 44:28; 45:1-4, - rejection of the Word of God, the Covenant, Christ, destiny. (The destruction and rebuilding of Jerusalem, the Temple)
 > That saith of Cyrus, He is my shepherd, and shall perform all my pleasure: even saying to Jerusalem, Thou shalt be built; and to the temple, Thy foundation shall be laid. (Isa. 44:28, KJV)
 > Thus saith the LORD to his anointed, to Cyrus, whose right hand I have holden, to subdue nations before him; and I will loose the loins of kings, to open before him the two leaved gates; and the gates shall not be shut; I will go before thee, and make the crooked places straight: I will break in pieces the gates of brass, and cut in sunder the bars of iron: And I will give thee the treasures of darkness, and hidden riches of secret places, that thou mayest know that I, the LORD, which call thee by thy name, am the God of Israel. For Jacob my servant’s sake, and Israel mine elect, I have even called thee by thy name: I have surnamed thee, though thou hast not known me. (Isa. 45:1-4, KJV)
 

@@ -1,8 +1,8 @@
 # 15. Acts 25-28, - conclusion of the Apostle Paul, governor Porcius Festus, King Agrippa, journey and sermon in Rome, 58-63 A.D.
 
-## 1) Acts 25, - the importance of conveying the Word of God, the Covenant, Christ
+## 1) Acts 25, - the importance of conveying the Word of God, the Covenant, and Christ
 
-### (1) Acts 25:1-7, - action of Satan, stop transmitting the Word of God, the Covenant, Christ Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
+### (1) Acts 25:1-7, - the action of Satan, to stop the transmission of the Word of God, the Covenant, Christ Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
 > Now when Festus was come into the province, after three days he ascended from Cæsarea to Jerusalem. Then the high priest and the chief of the Jews informed him against Paul, and besought him, And desired favour against him, that he would send for him to Jerusalem, laying wait in the way to kill him. But Festus answered, that Paul should be kept at Cæsarea, and that he himself would depart shortly thither. Let them therefore, said he, which among you are able, go down with me, and accuse this man, if there be any wickedness in him. And when he had tarried among them more than ten days, he went down unto Cæsarea; and the next day sitting on the judgment seat commanded Paul to be brought. And when he was come, the Jews which came down from Jerusalem stood round about, and laid many and grievous complaints against Paul, which they could not prove. (Acts 25:1-7, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -19,12 +19,12 @@
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-### (2) Acts 25:8-27, - God's sovereignty and control, the importance of transmitting the Word of God, the Covenant, Christ (Agrippa and Berenice)
+### (2) Acts 25:8-27, - God's sovereignty and control, the importance of transmitting the Word of God, the Covenant, and Christ (Agrippa and Berenice)
 > While he answered for himself, Neither against the law of the Jews, neither against the temple, nor yet against Cæsar, have I offended any thing at all. But Festus, willing to do the Jews a pleasure, answered Paul, and said, Wilt thou go up to Jerusalem, and there be judged of these things before me? Then said Paul, I stand at Cæsar’s judgment seat, where I ought to be judged: to the Jews have I done no wrong, as thou very well knowest. For if I be an offender, or have committed any thing worthy of death, I refuse not to die: but if there be none of these things whereof these accuse me, no man may deliver me unto them. I appeal unto Cæsar. Then Festus, when he had conferred with the council, answered, Hast thou appealed unto Cæsar? unto Cæsar shalt thou go. And after certain days king Agrippa and Bernice came unto Cæsarea to salute Festus. And when they had been there many days, Festus declared Paul’s cause unto the king, saying, There is a certain man left in bonds by Felix: About whom, when I was at Jerusalem, the chief priests and the elders of the Jews informed me, desiring to have judgment against him. To whom I answered, It is not the manner of the Romans to deliver any man to die, before that he which is accused have the accusers face to face, and have licence to answer for himself concerning the crime laid against him. Therefore, when they were come hither, without any delay on the morrow I sat on the judgment seat, and commanded the man to be brought forth. Against whom when the accusers stood up, they brought none accusation of such things as I supposed: But had certain questions against him of their own superstition, and of one Jesus, which was dead, whom Paul affirmed to be alive. And because I doubted of such manner of questions, I asked him whether he would go to Jerusalem, and there be judged of these matters. But when Paul had appealed to be reserved unto the hearing of Augustus, I commanded him to be kept till I might send him to Cæsar. Then Agrippa said unto Festus, I would also hear the man myself. To morrow, said he, thou shalt hear him. And on the morrow, when Agrippa was come, and Bernice, with great pomp, and was entered into the place of hearing, with the chief captains, and principal men of the city, at Festus’ commandment Paul was brought forth. And Festus said, King Agrippa, and all men which are here present with us, ye see this man, about whom all the multitude of the Jews have dealt with me, both at Jerusalem, and also here, crying that he ought not to live any longer. But when I found that he had committed nothing worthy of death, and that he himself hath appealed to Augustus, I have determined to send him. Of whom I have no certain thing to write unto my lord. Wherefore I have brought him forth before you, and specially before thee, O king Agrippa, that, after examination had, I might have somewhat to write. For it seemeth to me unreasonable to send a prisoner, and not withal to signify the crimes laid against him. (Acts 25:8-27, KJV)
 
-## 2) Acts 26, - the importance of properly understanding the Word of God, the Covenant, Christ
+## 2) Acts 26, - the importance of properly understanding the Word of God, the Covenant, and Christ
 
-### (1) Acts 26:1-7, - understanding the Word of God, the Covenant, Christ (the importance of coming XR)
+### (1) Acts 26:1-7, - understanding the Word of God, the Covenant, and Christ (the importance of coming XR)
 > Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself: I think myself happy, king Agrippa, because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews: Especially because I know thee to be expert in all customs and questions which are among the Jews: wherefore I beseech thee to hear me patiently. My manner of life from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews; Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee. And now I stand and am judged for the hope of the promise made of God unto our fathers: Unto which promise our twelve tribes, instantly serving God day and night, hope to come. For which hope’s sake, king Agrippa, I am accused of the Jews. (Acts 26:1-7, KJV)
 
 ### (2) Acts 26:8-11, - non-acceptance of Jesus of Nazareth as Christ
@@ -33,7 +33,7 @@
 ### (3) Acts 26:12-18, - meeting with Christ, realizing the Word of God, the Covenant, Christ, the importance of fulfilling the destiny of God's people
 > Whereupon as I went to Damascus with authority and commission from the chief priests, At midday, O king, I saw in the way a light from heaven, above the brightness of the sun, shining round about me and them which journeyed with me. And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue, Saul, Saul, why persecutest thou me? it is hard for thee to kick against the pricks. And I said, Who art thou, Lord? And he said, I am Jesus whom thou persecutest. But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee; Delivering thee from the people, and from the Gentiles, unto whom now I send thee, To open their eyes, and to turn them from darkness to light, and from the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me. (Acts 26:12-18, KJV)
 
-### (4) Acts 26:19-23, - transmission of the Word of God, the Covenant, Christ, World Evangelization
+### (4) Acts 26:19-23, - transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization
 > Whereupon, O king Agrippa, I was not disobedient unto the heavenly vision: But shewed first unto them of Damascus, and at Jerusalem, and throughout all the coasts of Judæa, and then to the Gentiles, that they should repent and turn to God, and do works meet for repentance. For these causes the Jews caught me in the temple, and went about to kill me. Having therefore obtained help of God, I continue unto this day, witnessing both to small and great, saying none other things than those which the prophets and Moses did say should come: That Christ should suffer, and that he should be the first that should rise from the dead, and should shew light unto the people, and to the Gentiles. (Acts 26:19-23, KJV)
 
 ### (5) Acts 26:24-29, - rejection of the Word of God, the Covenant, Christ, the right to choose
@@ -42,9 +42,9 @@
 ### (6) Acts 26:30-32, - God's sovereignty and Control, World Evangelization, Rom
 > And when he had thus spoken, the king rose up, and the governor, and Bernice, and they that sat with them: And when they were gone aside, they talked between themselves, saying, This man doeth nothing worthy of death or of bonds. Then said Agrippa unto Festus, This man might have been set at liberty, if he had not appealed unto Cæsar. (Acts 26:30-32, KJV)
 
-## 3) Acts 27, - transmission of the Word of God, the Covenant, Christ (4th journey, Rome)
+## 3) Acts 27, - transmission of the Word of God, the Covenant, and Christ (4th journey, Rome)
 
-### (1) Acts 27:1-13, - the importance of fulfilling God's plan, the importance of transmitting the Word of God, the Covenant, Christ in Rome
+### (1) Acts 27:1-13, - the importance of fulfilling God's plan, the importance of transmitting the Word of God, the Covenant, and Christ in Rome
 > And when it was determined that we should sail into Italy, they delivered Paul and certain other prisoners unto one named Julius, a centurion of Augustus’ band. And entering into a ship of Adramyttium, we launched, meaning to sail by the coasts of Asia; one Aristarchus, a Macedonian of Thessalonica, being with us. And the next day we touched at Sidon. And Julius courteously entreated Paul, and gave him liberty to go unto his friends to refresh himself. And when we had launched from thence, we sailed under Cyprus, because the winds were contrary. And when we had sailed over the sea of Cilicia and Pamphylia, we came to Myra, a city of Lycia. And there the centurion found a ship of Alexandria sailing into Italy; and he put us therein. And when we had sailed slowly many days, and scarce were come over against Cnidus, the wind not suffering us, we sailed under Crete, over against Salmone; And, hardly passing it, came unto a place which is called The fair havens; nigh whereunto was the city of Lasea. Now when much time was spent, and when sailing was now dangerous, because the fast was now already past, Paul admonished them, And said unto them, Sirs, I perceive that this voyage will be with hurt and much damage, not only of the lading and ship, but also of our lives. Nevertheless the centurion believed the master and the owner of the ship, more than those things which were spoken by Paul. And because the haven was not commodious to winter in, the more part advised to depart thence also, if by any means they might attain to Phenice, and there to winter; which is an haven of Crete, and lieth toward the south west and north west. And when the south wind blew softly, supposing that they had obtained their purpose, loosing thence, they sailed close by Crete. (Acts 27:1-13, KJV)
 
 ### (2) Acts 27:14-44, - the importance of understanding God's sovereignty and control, life circumstances (storm, shipwreck)
@@ -54,9 +54,9 @@
 > And when neither sun nor stars in many days appeared, and no small tempest lay on us, all hope that we should be saved was then taken away. But after long abstinence Paul stood forth in the midst of them, and said, Sirs, ye should have hearkened unto me, and not have loosed from Crete, and to have gained this harm and loss. And now I exhort you to be of good cheer: for there shall be no loss of any man’s life among you, but of the ship. For there stood by me this night the angel of God, whose I am, and whom I serve, Saying, Fear not, Paul; thou must be brought before Cæsar: and, lo, God hath given thee all them that sail with thee. Wherefore, sirs, be of good cheer: for I believe God, that it shall be even as it was told me. Howbeit we must be cast upon a certain island. (Acts 27:20-26, KJV)
 > Jesus Christ the same yesterday, and to day, and for ever. (Heb. 13:8, KJV)
 
-## 4) Acts 28, - the importance of transmitting the Word of God, the Covenant, Christ, World Evangelization
+## 4) Acts 28, - the importance of transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
-### (1) 28:1-16, - the fulfillment of the Word of God, World Evangelization, Rom
+### (1) 28:1-16, - the fulfillment of the Word of God, Worldwide Evangelization, Rom
 
 #### (a) The importance of understanding God's sovereignty and control – salvation from destruction, snake bite, preaching in Melita. Matt. 28:19-20
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
@@ -73,7 +73,7 @@
 #### (b) Acts 28:24-29, - acceptance, non-acceptance of the Covenant, Xp, the right to choose. (The importance of V.Z.'s Writings, the importance of the Gentiles – God's plan)
 > And some believed the things which were spoken, and some believed not. And when they agreed not among themselves, they departed, after that Paul had spoken one word, Well spake the Holy Ghost by Esaias the prophet unto our fathers, Saying, Go unto this people, and say, Hearing ye shall hear, and shall not understand; and seeing ye shall see, and not perceive: For the heart of this people is waxed gross, and their ears are dull of hearing, and their eyes have they closed; lest they should see with their eyes, and hear with their ears, and understand with their heart, and should be converted, and I should heal them. Be it known therefore unto you, that the salvation of God is sent unto the Gentiles, and that they will hear it. And when he had said these words, the Jews departed, and had great reasoning among themselves. (Acts 28:24-29, KJV)
 
-#### (c) Acts 28:30-31, - transmission of the Word of God, the Covenant, Christ, the importance of learning
+#### (c) Acts 28:30-31, - transmission of the Word of God, the Covenant, Christ, the importance of teaching
 > And Paul dwelt two whole years in his own hired house, and received all that came in unto him, Preaching the kingdom of God, and teaching those things which concern the Lord Jesus Christ, with all confidence, no man forbidding him. (Acts 28:30-31, KJV)
 
 ## 5) History of the Church, chronology of the events of the Book of Acts
@@ -104,7 +104,7 @@
 ### (10) 48 A.D. – visit to the Ap. Peter of the Antiochian Church, the chastisement of Ap. By Paul in relation to the Gentiles (Gal. 2:11-14)
 > But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed. For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision. And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation. But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews? (Gal. 2:11-14, KJV)
 
-### (11) 48 A.D. – Epistle of Ap. St. Paul's Galatians, the affirmation of the Word of God, the Covenant, Christ, the importance of accepting the Sacrifice and the Feat of Christ. (False teachers, affirmation of the "mixed gospel" in Galatian Churches, circumcision as a condition for salvation)
+### (11) 48 A.D. – Epistle of Ap. St. Paul's Galatians, the affirmation of the Word of God, the Covenant, Christ, the importance of accepting the Sacrifice and Asceticism of Christ. (False teachers, affirmation of the "mixed gospel" in Galatian Churches, circumcision as a condition for salvation)
 
 ### (12) A.D. 50 – Apostolic Council in Jerusalem (Acts 15)
 
@@ -133,9 +133,9 @@
 
 ## Conclusion:
 
-### (1) The importance of understanding the chronology of the Book of Acts – events over the course of 30 years, the fulfillment of God's plan, Worldwide Evangelization
+### (1) The importance of understanding the chronology of the Book of Acts – events over the course of 30 years, the fulfillment of God's plan, and Worldwide Evangelization
 
-### (2) The importance of understanding the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization, the coming of Christ
+### (2) The importance of understanding the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ
 
 ### (3) The importance of understanding God's sovereignty and time schedule, God's control of events and circumstances
 

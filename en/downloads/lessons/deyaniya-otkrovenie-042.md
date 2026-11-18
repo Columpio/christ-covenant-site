@@ -1,5 +1,5 @@
 # Rom. 8
-## 7.1) Rom. 8:1-16, - understanding the Word of God, the Covenant, Christ
+## 7.1) Rom. 8:1-16, - understanding the Word of God, the Covenant, and Christ
 > There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit. For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh: That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit. For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit. For to be carnally minded is death; but to be spiritually minded is life and peace. Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be. So then they that are in the flesh cannot please God. But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his. And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness. But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you. Therefore, brethren, we are debtors, not to the flesh, to live after the flesh. For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live. For as many as are led by the Spirit of God, they are the sons of God. For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father. The Spirit itself beareth witness with our spirit, that we are the children of God: (Rom. 8:1-16, KJV)
 
 ### (1) Rom. 8:1-2, - understanding the Word of God, the Covenant, Christ, salvation
@@ -21,33 +21,33 @@
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-#### (b) Rom. 8:2, - the importance of understanding the law of "sin and death." (Original sin is the power of sin, death and hell, Satan)
+#### (b) Rom. 8:2, - the importance of understanding the law of "sin and death." (Original sin is the power of sin, death and hell, and Satan)
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
 
-#### (c) Rom. 8:2, - the importance of understanding the law of the "spirit of life in Christ" (Execution of the sentence of the Word of God instead of man – Sacrifice and Feat of Xp)
+#### (c) Rom. 8:2, - the importance of understanding the law of the "spirit of life in Christ" (Fulfilling the sentence of the Word of God instead of man – the Sacrifice and Feat of Xp)
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
 
 #### (d) The importance of understanding the legitimate liberation of man
 
-### (2) Rom. 8:3-4, - understanding the Word of God, the Covenant, Christ
+### (2) Rom. 8:3-4, - understanding the Word of God, the Covenant, and Christ
 > For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh: That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit. (Rom. 8:3-4, KJV)
 
 #### (a) Rom. 8:3, - the impossibility of saving a person through the law
 > For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh: (Rom. 8:3, KJV)
 
-#### (b) Rom. 8:3, - the indication of the law of sin and the need for Christ, the likeness of sinful flesh, the fulfillment of the sentence of the Word of God instead of man
+#### (b) Rom. 8:3, - pointing out the law of sin and the need for Christ, the likeness of sinful flesh, the fulfillment of the sentence of the Word of God instead of man
 > For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh: (Rom. 8:3, KJV)
 
-#### (c) Rom. 8:4, - justification of the law through the acceptance of Christ, the spiritual life. (Perfect fulfillment of the law of Christ – commandments and sentence)
+#### (c) Rom. 8:4, - justification of the law through acceptance of Christ, spiritual life. (Perfect fulfillment of Christ's law – commandments and sentence)
 > That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit. (Rom. 8:4, KJV)
 
-### (3) Rom. 8:5-8, - understanding the Word of God, the Covenant, Christ
+### (3) Rom. 8:5-8, - understanding the Word of God, the Covenant, and Christ
 > For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit. For to be carnally minded is death; but to be spiritually minded is life and peace. Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be. So then they that are in the flesh cannot please God. (Rom. 8:5-8, KJV)
 
 #### (a) Rom. 8:5, - life according to the flesh (non-acceptance of the Covenant, Christ, visible)
 > For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit. (Rom. 8:5, KJV)
 
-#### (b) Rom. 8:5, - life according to the spirit (acceptance of the Covenant, Christ, the invisible)
+#### (b) Rom. 8:5, - life according to the spirit (acceptance of the Covenant, Christ, invisible)
 > For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit. (Rom. 8:5, KJV)
 
 #### (c) Rom. 8:6, is the result of a person's choice. (Eternal separation from God or eternal life, peace with God and with oneself)
@@ -56,25 +56,25 @@
 #### (d) Rom. 8:7-8, - rejection of the Word of God, the Covenant, Christ, God's condemnation
 > Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be. So then they that are in the flesh cannot please God. (Rom. 8:7-8, KJV)
 
-### (4) Rom. 8:9-13, - understanding the Word of God, the Covenant, Christ
+### (4) Rom. 8:9-13, - understanding the Word of God, the Covenant, and Christ
 > But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his. And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness. But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you. Therefore, brethren, we are debtors, not to the flesh, to live after the flesh. For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live. (Rom. 8:9-13, KJV)
 
 #### (a) Rom. 8:9-10, - the importance of Emmanuel and God's guidance. (Understanding and confidence in salvation, understanding the status of a person)
 > But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his. And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness. (Rom. 8:9-10, KJV)
 
-#### (b) Rom. 8:11, - understanding the future, correct priorities. (The Coming of Christ, the Resurrection of God's children, the 1000th Kingdom, Eternity with God)
+#### (b) Rom. 8:11, - understanding the future, correct priorities. (The Coming of Christ, the resurrection of God's children, the 1000th kingdom, eternity with God)
 > But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you. (Rom. 8:11, KJV)
 
 #### (c) Rom. 8:12-13, - the importance of sanctification and growth in the faith of God (Knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, purity of teaching)
 > Therefore, brethren, we are debtors, not to the flesh, to live after the flesh. For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live. (Rom. 8:12-13, KJV)
 
-### (5) Rom. 8:14-16, - understanding the Word of God, the Covenant, Christ
+### (5) Rom. 8:14-16, - understanding the Word of God, the Covenant, and Christ
 > For as many as are led by the Spirit of God, they are the sons of God. For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father. The Spirit itself beareth witness with our spirit, that we are the children of God: (Rom. 8:14-16, KJV)
 
 #### (a) Rom. 8:14, - the importance of Emmanuel and God's guidance
 > For as many as are led by the Spirit of God, they are the sons of God. (Rom. 8:14, KJV)
 
-#### (b) Rom. 8:15, - the acceptance of the Holy Spirit, the resolution of spiritual bondage and fear, the adoption of God, the importance of confidence in salvation
+#### (b) Rom. 8:15, - receiving the Holy Spirit, resolving spiritual bondage and fear, adopting God, the importance of confidence in salvation
 > For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father. (Rom. 8:15, KJV)
 
 #### (c) Rom. 8:16, - understanding the Word of God, the Covenant, Christ, the testimony of the Holy Spirit
@@ -89,13 +89,13 @@
 ### (2) Rom. 8:17-18, - the importance of fulfilling the purpose
 > And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together. For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us. (Rom. 8:17-18, KJV)
 
-### (3) Rom. 8:19-22, - the consequences of refusal and acceptance of the Word of God, the Covenant, Christ (Sin of Adam - curse of creation, Sacrifice of Christ - restored)
+### (3) Rom. 8:19-22, - the consequences of rejecting and accepting the Word of God, the Covenant, and Christ (Adam's sin is the curse of creation, Christ's sacrifice is restoration).
 > For the earnest expectation of the creature waiteth for the manifestation of the sons of God. For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope, Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God. For we know that the whole creation groaneth and travaileth in pain together until now. (Rom. 8:19-22, KJV)
 
 ### (4) Rom. 8:23, - the second coming of Christ, the resurrection of the dead, the importance of understanding the stages of God's plan of salvation
 > And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body. (Rom. 8:23, KJV)
 
-### (5) Rom. 8:24-25, - correct understanding of salvation in hope. (Confidence beyond practical experience – the stages of saving a person)
+### (5) Rom. 8:24-25, - correct understanding of salvation in hope. (Confidence beyond practical experience – the stages of human salvation)
 > For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for? But if we hope for that we see not, then do we with patience wait for it. (Rom. 8:24-25, KJV)
 
 ### (6) Rom. 8:26-27, - understanding the intercession of the Holy Spirit (Christ is the only Intercessor, understanding the Trinity of God)

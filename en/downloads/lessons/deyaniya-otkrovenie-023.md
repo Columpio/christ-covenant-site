@@ -1,5 +1,5 @@
 # 1 Pet. 2
-## 2.1) 1 Pet. 2:1-8, - the importance of the Word of God, the Covenant, Christ for man
+## 2.1) 1 Pet. 2:1-8, - the importance of the Word of God, the Covenant, and Christ for man
 > Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings, As newborn babes, desire the sincere milk of the word, that ye may grow thereby: If so be ye have tasted that the Lord is gracious. To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious, Ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ. Wherefore also it is contained in the scripture, Behold, I lay in Sion a chief corner stone, elect, precious: and he that believeth on him shall not be confounded. Unto you therefore which believe he is precious: but unto them which be disobedient, the stone which the builders disallowed, the same is made the head of the corner, And a stone of stumbling, and a rock of offence, even to them which stumble at the word, being disobedient: whereunto also they were appointed. (1 Pet. 2:1-8, KJV)
 
 ### (1) 1 Pet. 2:1-3, - the importance of knowing the Word of God, the Covenant, Christ, learning, the importance of sanctification, life change and worldview Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
@@ -24,15 +24,15 @@
 
 #### (a) To be with Christ (The Living Stone) - Emmanuel
 
-#### (b) To build the true house of God (the Church) – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ
+#### (b) To build the true house of God (the Church) – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ
 
-#### (c) Spiritual sacrifices – the importance of Communion with God and Knowledge of God, the importance of Worship, the affirmation of the Word of God, the Covenant, Christ
+#### (c) Spiritual sacrifices – the importance of Communion with God and Knowledge of God, the importance of Worship, the affirmation of the Word of God, the Covenant, and Christ
 
 ### (3) 1 Pet. 2:6-8, - the importance of hearing and reasoning about the Sacrifice of Christ, acceptance or non-acceptance of the Word of God, the Covenant, Christ, understanding the right of choice of each person. Deut. 30:19. (Precious stone or stumbling block and temptation – rejection of the Word of God, the Covenant, Christ, life outside of God)
 > Wherefore also it is contained in the scripture, Behold, I lay in Sion a chief corner stone, elect, precious: and he that believeth on him shall not be confounded. Unto you therefore which believe he is precious: but unto them which be disobedient, the stone which the builders disallowed, the same is made the head of the corner, And a stone of stumbling, and a rock of offence, even to them which stumble at the word, being disobedient: whereunto also they were appointed. (1 Pet. 2:6-8, KJV)
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
-## 2) 1 Pet. 2:9-10, - the importance of transmitting the Word of God, the Covenant. Christ
+## 2) 1 Pet. 2:9-10, - the importance of conveying the Word of God, the Covenant. Of Christ
 > But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light: Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy. (1 Pet. 2:9-10, KJV)
 
 ### (1) 1 Pet. 2:9 (John 1:12), - the "spiritual status" of God's people
@@ -43,13 +43,13 @@
 > And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it. (Matt. 16:18, KJV)
 > But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye them that are entering to go in. (Matt. 23:13, KJV)
 
-### (3) John 20:23, - understanding the "spiritual state" of a person. (Explaining God's solutions to the problems of sin, death and hell, the power of Satan)
+### (3) John 20:23, - understanding the "spiritual state" of a person. (Explanation of God's solution to the problems of sin, death and hell, and the power of Satan)
 > Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained. (John 20:23, KJV)
 
 ### (4) Matt. 28:19-20,2 Tim. 2:2, - transmission of the Word of God, the Covenant, Christ, the disciples
 > And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also. (2 Tim. 2:2, KJV)
 
-## 3) 1 Pet. 2:11-25, - God sovereignty, the right life of man
+## 3) 1 Pet. 2:11-25, - God's sovereignty, the right life of man
 > Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul; Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they shall behold, glorify God in the day of visitation. Submit yourselves to every ordinance of man for the Lord’s sake: whether it be to the king, as supreme; Or unto governors, as unto them that are sent by him for the punishment of evildoers, and for the praise of them that do well. For so is the will of God, that with well doing ye may put to silence the ignorance of foolish men: As free, and not using your liberty for a cloke of maliciousness, but as the servants of God. Honour all men. Love the brotherhood. Fear God. Honour the king. Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the froward. For this is thankworthy, if a man for conscience toward God endure grief, suffering wrongfully. For what glory is it, if, when ye be buffeted for your faults, ye shall take it patiently? but if, when ye do well, and suffer for it, ye take it patiently, this is acceptable with God. For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps: Who did no sin, neither was guile found in his mouth: Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously: Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed. For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls. (1 Pet. 2:11-25, KJV)
 
 ### (1) 1 Pet. 2:11-12, - the importance of sanctification, living the right life and serving God, fulfilling the destiny of God's people
@@ -62,7 +62,7 @@
 ### (3) 1 Pet. 2:18-20, - the importance of proper relations in the work and life of the state for the people of God. (Always think about God and do good in any situation)
 > Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the froward. For this is thankworthy, if a man for conscience toward God endure grief, suffering wrongfully. For what glory is it, if, when ye be buffeted for your faults, ye shall take it patiently? but if, when ye do well, and suffer for it, ye take it patiently, this is acceptable with God. (1 Pet. 2:18-20, KJV)
 
-### (4) Acts 5:28-29, - the importance of correct priorities for man (the will of God), the importance of understanding the priority of the Word of God over human opinions and laws
+### (4) Acts 5:28-29, - the importance of right priorities for man (God's will), the importance of understanding the priority of God's Word over human opinions and laws
 > Saying, Did not we straitly command you that ye should not teach in this name? and, behold, ye have filled Jerusalem with your doctrine, and intend to bring this man’s blood upon us. Then Peter and the other apostles answered and said, We ought to obey God rather than men. (Acts 5:28-29, KJV)
 
 ### (5) 1 Pet. 2:21-24, - understanding the example of Christ, the importance of doing God's will for God's people
@@ -77,7 +77,7 @@
 
 ## Conclusion:
 
-### (1) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ
+### (1) The importance of fulfilling the destiny of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ
 
 ### (2) The importance of understanding each person's right to choose, the importance of understanding the purpose and meaning of life on earth
 

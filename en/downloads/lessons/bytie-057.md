@@ -19,7 +19,7 @@
 
 #### (a) Sin, the absence of Emmanuel, is the cause of the troubles and sufferings of mankind, the work of Satan, evil, disease, death, etc.
 
-#### (b) Lack of knowledge and transmission of the Word of God, the Covenant, Christ – no understanding of the purpose and meaning of life in time, wandering man
+#### (b) The lack of knowledge and transmission of the Word of God, the Covenant, Christ – there is no understanding of the purpose and meaning of life in time, the wandering of man
 
 ### (3) Gen. 3:15, 21, - Understanding Recovery
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
@@ -27,33 +27,33 @@
 
 #### (a) The importance of Emmanuel is the solution of all problems and the complete restoration of man (God's plan)
 
-#### (b) The importance of knowing and transmitting the Word of God, the Covenant, Christ, destiny. (The divinity of Christ and the All–sufficiency of His Sacrifice) – understanding the purpose and meaning of human life in time (Where is the choice regarding eternity? And with Whom?)
+#### (b) The importance of knowing and communicating the Word of God, the Covenant, Christ, and destiny. (The divinity of Christ and the All–sufficiency of His Sacrifice) – understanding the purpose and meaning of human life in time (Where is the choice regarding eternity? And with Whom?)
 
 ## 2) Understanding religion
 
-### (1) The emergence of religion – the choice and action of Satan
+### (1) The emergence of religion is the choice and action of Satan
 
 ### (2) All religions are human deeds and efforts
 
-### (3) The meaning of religion is to resist the Word of God, the Covenant, Christ (the Garden of Eden, the leaves, Cain and Abel, the Giants, Babel. The Tower)
+### (3) The meaning of religion is to resist the Word of God, the Covenant, and Christ (the Garden of Eden, the leaves, Cain and Abel, the Giants, Babel. The Tower)
 - The Importance of Distinguishing between Religion and the Gospel
 - RELIGION is self–salvation (all religions are "deeds")
 - THE GOOD NEWS is salvation from God (Christ died in my place)
 
 ## 3) Understanding the Judgment of God
 
-### (1) The meaning of God's judgment is the rejection of the Word of God, the Covenant, Christ
+### (1) The meaning of God's judgment is the rejection of the Word of God, the Covenant, and Christ
 
-#### (a) Non–acceptance of the Word of God, the Covenant, Christ is the majority. Matt. 7:13-14
+#### (a) The rejection of the Word of God, the Covenant, and Christ is the majority. Matt. 7:13-14
 > Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it. (Matt. 7:13-14, KJV)
 
-#### (b) Accepting the Word of God, the Covenant, Christ is a minority
+#### (b) Accepting the Word of God, the Covenant, and Christ is a minority
 
 ### (2) Types of God's judgments in the history of mankind
 
 #### (a) Judgment by water, Flood – rejection of the Word of God, the Covenant, Christ
 
-#### (b) Judgment by Blood, Golgotha – the importance of accepting the Word of God, the Covenant, Christ
+#### (b) Judgment by Blood, Golgotha – the importance of accepting the Word of God, the Covenant, and Christ
 
 #### (c) The Judgment by fire, the Great Throne – the rejection of the Word of God, the Covenant, Christ
 
@@ -71,16 +71,16 @@
 > Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken: Ought not Christ to have suffered these things, and to enter into his glory? And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself. (Luke 24:25-27, KJV)
 > And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me. (Luke 24:44, KJV)
 
-### (2) The meaning and purpose of the patriarchs' life is the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization, and preparation for the coming of Christ
+### (2) The meaning and purpose of the patriarchs' life is the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, and preparation for the coming of Christ
 
 ### (3) Mistakes of the patriarchs – there is no rejection of the Word of God, the Covenant, Christ, the importance of understanding sin to death and sin not to death (Cain, Ishmael, Esau). 1 John 5:16-17
 > If any man see his brother sin a sin which is not unto death, he shall ask, and he shall give him life for them that sin not unto death. There is a sin unto death: I do not say that he shall pray for it. All unrighteousness is sin: and there is a sin not unto death. (1 John 5:16-17, KJV)
 
 #### (a) The patriarchs' mistakes do not negate the status of God's people
 
-#### (b) The mistakes of the patriarchs do not negate the destiny of the people.
+#### (b) The mistakes of the patriarchs do not negate the destiny of God's people.
 
-## 5) Understanding the purpose of God’s people - knowledge and transmission of the Word of God, the Covenant, Christ, the immutability of God’s will for man
+## 5) Understanding the destiny of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ, the immutability of God's will for man
 
 ### (1) The Age of the Patriarchs (Adam–Moses)
 
@@ -114,9 +114,9 @@
 
 ## 7) The importance of understanding the meaning of the blessing of Abraham and his descendants
 
-### (1) Emmanuel – acceptance of the Word of God, the Covenant, Christ
+### (1) Emmanuel – acceptance of the Word of God, the Covenant, and Christ
 
-### (2) Knowledge and transmission of the Word of God, the Covenants, Christ, the Disciples, Worldwide Evangelization, preparation for the coming of Christ (Canaan)
+### (2) Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ (Canaan)
 
 #### (a) From us, Christ is the salvation of many people
 
@@ -128,7 +128,7 @@
 
 ### (2) Understanding the Sacrifice of Christ (forgiveness of all sins, salvation)
 
-### (3) Understanding and fulfilling the destiny of the people of God – the knowledge and transmission of the Word of God, the Covenant, the Christ, the choice and decision of man. (Meeting God's conditions means getting all the other answers for every person's successful life). Matt. 6:33
+### (3) Understanding and fulfilling the destiny of the people of God is the knowledge and transmission of the Word of God, the Covenant, Christ, and man's choice and decision. (Meeting God's conditions means getting all the other answers for every person's successful life). Matt. 6:33
 > But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you. (Matt. 6:33, KJV)
 
 ## Conclusion:

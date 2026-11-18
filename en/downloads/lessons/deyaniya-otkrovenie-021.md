@@ -1,8 +1,8 @@
 # Jas. 5
-## 4.1) Jas. 5:1-6, - non-acceptance of the Word of God, the Covenant, Christ
+## 4.1) Jas. 5:1-6, - rejection of the Word of God, the Covenant, Christ
 > Go to now, ye rich men, weep and howl for your miseries that shall come upon you. Your riches are corrupted, and your garments are motheaten. Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days. Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth. Ye have lived in pleasure on the earth, and been wanton; ye have nourished your hearts, as in a day of slaughter. Ye have condemned and killed the just; and he doth not resist you. (Jas. 5:1-6, KJV)
 
-### (1) Man–mammon's false hope, visible, death Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
+### (1) The false hope of the Mammon man, visible, the death of Gen. 1:27; 2:7, 9, 16-17, – Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
@@ -25,23 +25,23 @@
 
 ### (3) Wrong attitude towards man (oppression and deception), the importance of gain, abomination before God (mammon's influence)
 
-### (4) Jas. 5:6, - service to mammon, opposition to the Word of God, the Covenant, Christ (Pharisees - false condemnation and murder of Christ, action of Satan)
+### (4) Jas. 5:6, - serving Mammon, resisting the Word of God, the Covenant, and Christ (Pharisees – false condemnation and murder of Christ, act of Satan)
 > Ye have condemned and killed the just; and he doth not resist you. (Jas. 5:6, KJV)
 
 ## 2) Jas. 5:7-11, - the importance of patience for God's people
 > Be patient therefore, brethren, unto the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early and latter rain. Be ye also patient; stablish your hearts: for the coming of the Lord draweth nigh. Grudge not one against another, brethren, lest ye be condemned: behold, the judge standeth before the door. Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience. Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy. (Jas. 5:7-11, KJV)
 
-### (1) Understanding God's Sovereignty and Control, God's Plan, the inevitable fulfillment of God's Word, the 2nd Coming of Christ
+### (1) Understanding of God's sovereignty and Control, God's plan, the inevitable fulfillment of God's Word, the 2nd Coming of Christ
 
 ### (2) Limited understanding of man, circumstances and events, the importance of trusting God (God's sovereignty and control)
 
 ### (3) The example of many prophets is the proclamation of the Word of God, the Covenant, Christ, difficult circumstances, persecution, and death for Christ
 
-### (4) Job's example, the importance of understanding the Word of God, the Covenant, Christ
+### (4) Job's example, the importance of understanding the Word of God, the Covenant, and Christ
 
 #### (a) Job's circumstances, patience, and faithfulness to God
 
-#### (b) Misunderstanding of the reason for what is happening (God sovereignty)
+#### (b) Misunderstanding of the reason for what is happening (God's sovereignty)
 
 #### (c) Doubting God's love
 
@@ -54,7 +54,7 @@
 
 ### (1) The importance of portraying Christ, the quality of God's people
 
-### (2) The importance of understanding the Inevitable Fulfillment of the Word of God Ps. 138:2
+### (2) The importance of understanding the Inevitable Fulfillment of God's Word Ps. 138:2
 > I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name. (Ps. 138:2, KJV)
 
 ## 4) Jas. 5:13-16, - the importance of prayer and confession of sins
@@ -70,7 +70,7 @@
 
 ## 5) The importance of understanding the causes of diseases
 
-### (1) Non–acceptance (rejection) of the Word of God, Covenant, Christ The healing method is repentance, acceptance of the Word of God, Covenant, Christ
+### (1) Rejection of the Word of God, Covenant, Christ The method of healing is repentance, acceptance of the Word of God, Covenant, Christ
 
 ### (2) Human Transgressions (God's upbringing)
 - The method of healing is the confession of sin, the change of life
@@ -78,9 +78,9 @@
 ### (3) For the glory of God
 - The healing method is prayer, understanding God's time schedule
 
-### (4) Natural causes, fulfillment of God's Word, Healing method – observance of God's physical laws, doctors, the right way of life, resurrection from the dead
+### (4) Natural causes, the fulfillment of God's Word, the method of healing – the observance of God's physical laws, doctors, the right way of life, the resurrection from the dead
 
-## 6) God's understanding of healing methods. 1 Pet. 2:24
+## 6) Understanding God's Healing methods. 1 Pet. 2:24
 > Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed. (1 Pet. 2:24, KJV)
 
 ### (1) The natural method is doctors, the right way of life
@@ -108,16 +108,16 @@
 ## 8) Jas. 5:19-20, - understanding the actions of Satan, the right to choose a person
 > Brethren, if any of you do err from the truth, and one convert him; Let him know, that he which converteth the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins. (Jas. 5:19-20, KJV)
 
-### (1) Deviation from the truth – the possibility of falling away from God, the importance of preserving the Word of God, the Covenant, Christ (the right to choose a person)
+### (1) Deviation from the truth – the possibility of falling away from God, the importance of preserving the Word of God, the Covenant, and Christ (the right to choose a person)
 
-### (2) The possibility of conversion is the understanding of God's love and mercy for every human being, the salvation of the soul and the covering of sins. (The multitude of sins is the possibility of renouncing God, sin leads to death)
+### (2) The possibility of conversion is the understanding of God's love and mercy for every human being, the salvation of the soul and the covering of sins. (The multitude of sins is the possibility of abandoning God, a sin leading to death)
 
-### (3) The importance of understanding Satan's actions is to stop the knowledge and transmission of the Word of God, the Covenant, Christ, to lead man away from God. 1 Pet. 5:8
+### (3) The importance of understanding Satan's actions is to stop the knowledge and transmission of the Word of God, the Covenant, and Christ, and to lead man away from God. 1 Pet. 5:8
 > Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: (1 Pet. 5:8, KJV)
 
 ## Conclusion:
 
-### (1) The importance of accepting the Word of God, the Covenant, Christ, and Service to God
+### (1) The importance of accepting the Word of God, the Covenant, Christ, and serving God
 
 ### (2) The importance of understanding God's Sovereignty and Control
 

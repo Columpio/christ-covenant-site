@@ -1,6 +1,6 @@
 # 10. Matthew 5 chapter. (The Main Ministry of Christ, the Sermon on the Mount)
 
-## 1) Matt. 5:13-16, - transmission of the Word of God, the Covenant, Christ (the purpose of Ts.) Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 1) Matt. 5:13-16, - transmission of the Word of God, the Covenant, of Christ (purpose of Ts.) Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men. Ye are the light of the world. A city that is set on an hill cannot be hid. Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house. Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven. (Matt. 5:13-16, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -14,29 +14,29 @@
 
 ### (1) The importance of salt (decomposition protection)
 
-#### (a) The importance of C. – knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization
+#### (a) The importance of Ts. – knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization
 
-#### (b) The importance of preserving the purity of teaching, the Word of God is the true salt
+#### (b) The importance of preserving the purity of the teaching of the Word of God is the true salt
 
 ### (2) The importance of light – there is no darkness, the right view
 
 #### (a) The True Light is Christ, the Word of God
 
-#### (b) The Church of Christ – the conductor of Light, the transmission of the Word of God, the Covenant, Christ, World Evangelization
+#### (b) The Church of Christ is a conduit of Light, transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
-#### (c) The human problem is the rejection of the Word of God, the Covenant, Christ (spirit. probl.)
+#### (c) The human problem is the rejection of the Word of God, the Covenant, and Christ (spirit. probl.)
 
-#### (d) The solution is Christ (the execution of the sentence is the Word of God instead of man)
+#### (d) The solution is Christ (execution of the sentence of the Word of God instead of man)
 
-#### (e) The importance of transmitting the Word of God, the Covenant, Christ, the disciples, World Evangelization
+#### (e) The importance of transmitting the Word of God, the Covenant, Christ, the Disciples, and Worldwide Evangelization
 
 ### (3) The importance of understanding the purpose of the Church
 
 #### (a) Good deeds – knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization
 
-#### (b) Loss of the Word of God, of the Covenant, of Christ – loss of purpose
+#### (b) The loss of the Word of God, of the Covenant, of Christ – the loss of purpose
 
-## 2) Matt. 5:17-18, - the importance of fulfilling the Word of God, the Covenant, Christ
+## 2) Matt. 5:17-18, - the importance of fulfilling the Word of God, the Covenant, of Christ
 > Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil. For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled. (Matt. 5:17-18, KJV)
 
 ### (1) Christ is God in the flesh, the impossibility of breaking the Law
@@ -49,7 +49,7 @@
 
 ### (2) Understanding the requirement (fulfillment of all the commandments of God) and the justice of the Law (death)
 
-#### (a) The importance of executing the sentence of the Law for man, the immutability of the Word of God, the justification of man. Ps. 138:2,Rom. 10:4
+#### (a) The importance of the execution of the sentence of the Law for man, the immutability of the Word of God, the justification of man. Ps. 138:2,Rom. 10:4
 > I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name. (Ps. 138:2, KJV)
 > For Christ is the end of the law for righteousness to every one that believeth. (Rom. 10:4, KJV)
 
@@ -58,7 +58,7 @@
 
 #### (c) The mechanism of salvation is the death of Christ for the sins of the whole world
 
-#### (d) The non–acceptance of Christ is the personal fulfillment of the sentence of the Word of God
+#### (d) Non–acceptance of Christ is the personal fulfillment of the sentence of the Word of God
 
 ## 3) Matt. 5:19, - understanding of the greater, lesser and least Commandments of God – the Commandments of the Covenant, the Commandments of the Law, the Commandments of Bliss
 > Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach them, the same shall be called great in the kingdom of heaven. (Matt. 5:19, KJV)
@@ -104,9 +104,9 @@
 ## 6) Matt. 5:48, - the importance of accepting, knowing and transmitting the Word of God, the Covenant, Christ, God's method of perfection for every human being (the importance of understanding holiness and sanctification)
 > Be ye therefore perfect, even as your Father which is in heaven is perfect. (Matt. 5:48, KJV)
 
-#### (a) The importance of being born again, accepting the Word of God, the Covenant, Christ, holiness and righteousness "de jure"
+#### (a) The importance of being born again, accepting the Word of God, the Covenant, Christ, and de jure holiness and righteousness
 
-#### (b) The importance of knowing and transmitting the Word of God, the Covenant, Christ, holiness and righteousness "de facto" (the importance of displaying Christ) Gen. 1:27,Gal. 4:19, - John 8:31-32
+#### (b) The importance of knowing and transmitting the Word of God, the Covenant, Christ, the "de facto" holiness and righteousness (the importance of displaying Christ) Gen. 1:27,Gal. 4:19, - John 8:31-32
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > My little children, of whom I travail in birth again until Christ be formed in you, (Gal. 4:19, KJV)
 > Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; And ye shall know the truth, and the truth shall make you free. (John 8:31-32, KJV)

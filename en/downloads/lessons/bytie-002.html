@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -286,7 +288,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>Adam knew his wife again. She gave birth to a son, and named him Seth, saying, “for God has given me another child instead of Abel, for Cain killed him.”</p><cite>Gen. 4:25 · WEB</cite></blockquote>
 <h3>(1) Accepting the promise of the seed of the woman is faith in the coming Christ</h3>
 <h3>(2) Acceptance of leather garments – acceptance of the Sacrifice and Feat of Christ (Salvation and rebirth, Emmanuel – the status of Adam and Eve)</h3>
-<h3>(3) Expulsion from Paradise – affirmation of the Word of God, the Covenant, Christ Gen. 3:22-24. (Knowledge of good and evil, the will of God for man – the importance of theoretical rather than practical knowledge, parenting)</h3>
+<h3>(3) Expulsion from Paradise is the affirmation of the Word of God, the Covenant, Christ Gen. 3:22-24. (Knowledge of good and evil, the will of God for man is the importance of theoretical rather than practical knowledge, parenting)</h3>
 <blockquote data-v="kjv"><p>And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever: Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken. So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.</p><cite>Gen. 3:22-24 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Then the LORD God said, “Behold, the man has become like one of Us, knowing good and evil. And now, lest he reach out his hand and take also from the tree of life, and eat, and live forever...” Therefore the LORD God banished him from the Garden of Eden to work the ground from which he had been taken. So He drove out the man and stationed cherubim on the east side of the Garden of Eden, along with a whirling sword of flame to guard the way to the tree of life.</p><cite>Gen. 3:22-24 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh God said, “Behold, the man has become like one of us, knowing good and evil. Now, lest he reach out his hand, and also take of the tree of life, and eat, and live forever—” Therefore Yahweh God sent him out from the garden of Eden, to till the ground from which he was taken. So he drove out the man; and he placed cherubim at the east of the garden of Eden, and a flaming sword which turned every way, to guard the way to the tree of life.</p><cite>Gen. 3:22-24 · WEB</cite></blockquote>
@@ -304,7 +306,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>Behold, I tell you a mystery. We will not all sleep, but we will all be changed, in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound and the dead will be raised incorruptible, and we will be changed. For this perishable body must become imperishable, and this mortal must put on immortality. But when this perishable body will have become imperishable, and this mortal will have put on immortality, then what is written will happen: “Death is swallowed up in victory.”</p><cite>1 Cor. 15:51-54 · WEB</cite></blockquote>
 <h2 id="s3">3) Proper Worship – examples of faith</h2>
 <h3>(1) Cain, Abel – believers, understanding the importance of Worship</h3>
-<h3>(2) The meaning of Abel's sacrifice is the shedding of blood, faith in Christ. (God's Prophet, acceptance of the Word of God, the Covenant, Christ is the Good News) Heb. 11:4, - Luke 11:49-51,1 Pet. 1:10-11,Acts 10:43. (Jas. 1:18,1 Pet. 1:23, - 1 Pet. 1:18-20,Rev. 13:8)</h3>
+<h3>(2) The meaning of Abel's sacrifice is the shedding of blood, faith in Christ. (God's Prophet, acceptance of the Word of God, the Covenant, Christ – The Good News) Heb. 11:4, - Luke 11:49-51,1 Pet. 1:10-11,Acts 10:43. (Jas. 1:18,1 Pet. 1:23, - 1 Pet. 1:18-20,Rev. 13:8)</h3>
 <blockquote data-v="kjv"><p>By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh.</p><cite>Heb. 11:4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>By faith Abel offered God a better sacrifice than Cain did. By faith he was commended as righteous when God gave approval to his gifts. And by faith he still speaks, even though he is dead.</p><cite>Heb. 11:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>By faith Abel offered to God a more excellent sacrifice than Cain, through which he had testimony given to him that he was righteous, God testifying with respect to his gifts; and through it he, being dead, still speaks.</p><cite>Heb. 11:4 · WEB</cite></blockquote>
@@ -329,20 +331,20 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world.</p><cite>Rev. 13:8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And all who dwell on the earth will worship the beast—all whose names have not been written from the foundation of the world in the Book of Life belonging to the Lamb who was slain.</p><cite>Rev. 13:8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>All who dwell on the earth will worship him, everyone whose name has not been written from the foundation of the world in the book of life of the Lamb who has been killed.</p><cite>Rev. 13:8 · WEB</cite></blockquote>
-<h3>(3) The meaning of Cain's sacrifice is the fruits of the earth, his own strength, the deeds of man (the devil's Child, rejection of the Word of God, the Covenant, Christ – religion). 1 John 3:12</h3>
+<h3>(3) The meaning of Cain's sacrifice is the fruits of the earth, his own strength, and human deeds (Child of the devil, rejection of the Word of God, the Covenant, and Christ – religion). 1 John 3:12</h3>
 <blockquote data-v="kjv"><p>Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother’s righteous.</p><cite>1 John 3:12 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Do not be like Cain, who belonged to the evil one and murdered his brother. And why did Cain slay him? Because his own deeds were evil, while those of his brother were righteous.</p><cite>1 John 3:12 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>unlike Cain, who was of the evil one and killed his brother. Why did he kill him? Because his deeds were evil, and his brother’s righteous.</p><cite>1 John 3:12 · WEB</cite></blockquote>
 <h2 id="s4">Result:</h2>
 <ul>
-<li>Evil is life outside the Word of God, the Covenant, Christ, man's choice, the root cause of all human evil deeds</li>
-<li>Goodness is life in the Word of God, the Covenant, Christ, man's choice, the root cause of all right human actions</li>
+<li>Evil is a life outside the Word of God, the Covenant, Christ, a person's choice, the root cause of all human evil deeds</li>
+<li>Goodness is life in the Word of God, the Covenant, Christ, a person's choice, the root cause of all right human actions</li>
 </ul>
 <h2 id="s5">4) Gen. 4:6-7, - God's mercy to the sinner</h2>
 <blockquote data-v="kjv"><p>And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen? If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.</p><cite>Gen. 4:6-7 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>“Why are you angry,” said the LORD to Cain, “and why has your countenance fallen? If you do what is right, will you not be accepted? But if you refuse to do what is right, sin is crouching at your door; it desires you, but you must master it.”</p><cite>Gen. 4:6-7 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh said to Cain, “Why are you angry? Why has the expression of your face fallen? If you do well, won’t it be lifted up? If you don’t do well, sin crouches at the door. Its desire is for you, but you are to rule over it.”</p><cite>Gen. 4:6-7 · WEB</cite></blockquote>
-<h4>(a) Understanding sin – non-acceptance of the Word of God, the Covenant, Christ (Living outside the Word of God, the Covenant, Christ, absence of the Commandments of the Law)</h4>
+<h4>(a) The understanding of sin is the rejection of the Word of God, the Covenant, Christ (Living outside the Word of God, the Covenant, Christ, the absence of the Commandments of the Law)</h4>
 <h4>(b) God's mercy, love, and longsuffering are a call to accept the Word of God, the Covenant, Christ, and dominion over sin. 1 Tim. 2:4</h4>
 <blockquote data-v="kjv"><p>Who will have all men to be saved, and to come unto the knowledge of the truth.</p><cite>1 Tim. 2:4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>who wants everyone to be saved and to come to the knowledge of the truth.</p><cite>1 Tim. 2:4 · BSB</cite></blockquote>
@@ -351,8 +353,8 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith.</p><cite>Mark 11:23 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>“Truly I tell you that if anyone says to this mountain, ‘Be lifted up and thrown into the sea,’ and has no doubt in his heart but believes that it will happen, it will be done for him.</p><cite>Mark 11:23 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For most certainly I tell you, whoever may tell this mountain, ‘Be taken up and cast into the sea,’ and doesn’t doubt in his heart, but believes that what he says is happening, he shall have whatever he says.</p><cite>Mark 11:23 · WEB</cite></blockquote>
-<h3>(1) Human faith is a misunderstanding and incorrect fulfillment of the Word of God, the Covenant, Christ (I believe "in my own way")</h3>
-<h3>(2) The Faith of God is the correct understanding and fulfillment of the Word of God, the Covenant, Christ (The Gift of God, the importance of hearing the Word of God) Rom. 10:17,1 Tim. 4:16</h3>
+<h3>(1) Human faith is a misunderstanding and incorrect fulfillment of the Word of God, the Covenant, and Christ (I believe "in my own way")</h3>
+<h3>(2) The faith of God is the correct understanding and fulfillment of the Word of God, the Covenant, and Christ (The Gift of God, the importance of hearing the Word of God) Rom. 10:17,1 Tim. 4:16</h3>
 <blockquote data-v="kjv"><p>So then faith cometh by hearing, and hearing by the word of God.</p><cite>Rom. 10:17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Consequently, faith comes by hearing, and hearing by the word of Christ.</p><cite>Rom. 10:17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>So faith comes by hearing, and hearing by the word of God.</p><cite>Rom. 10:17 · WEB</cite></blockquote>

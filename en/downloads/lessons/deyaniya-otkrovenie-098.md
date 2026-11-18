@@ -1,5 +1,5 @@
 # 1 Thess. 5
-## 3.1) 1 Thess. 5:1-11, - the importance of understanding the Word of God, the Covenant, Christ
+## 3.1) 1 Thess. 5:1-11, - the importance of understanding the Word of God, the Covenant, and Christ
 > But of the times and the seasons, brethren, ye have no need that I write unto you. For yourselves know perfectly that the day of the Lord so cometh as a thief in the night. For when they shall say, Peace and safety; then sudden destruction cometh upon them, as travail upon a woman with child; and they shall not escape. But ye, brethren, are not in darkness, that that day should overtake you as a thief. Ye are all the children of light, and the children of the day: we are not of the night, nor of darkness. Therefore let us not sleep, as do others; but let us watch and be sober. For they that sleep sleep in the night; and they that be drunken are drunken in the night. But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation. For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ, Who died for us, that, whether we wake or sleep, we should live together with him. Wherefore comfort yourselves together, and edify one another, even as also ye do. (1 Thess. 5:1-11, KJV)
 
 ### (1) 1 Thess. 5:1-3, - the importance of understanding the Word of God, the Covenant, Christ, the importance of understanding the past, present and future Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
@@ -48,7 +48,7 @@
 ### (5) 1 Thess. 5:19, - the importance of fulfilling the purpose, the importance of the correct goal-setting of the life of the people of God
 > Quench not the Spirit. (1 Thess. 5:19, KJV)
 
-### (6) 1 Thess. 5:20, - the importance of accurately conveying the Word of God, the Covenant, Christ
+### (6) 1 Thess. 5:20, - the importance of accurately conveying the Word of God, the Covenant, and Christ
 > Despise not prophesyings. (1 Thess. 5:20, KJV)
 
 ### (7) 1 Thess. 5:21-22, - the importance of Christian life, the importance of fulfilling the destiny of God's people
@@ -57,15 +57,15 @@
 ### (8) 1 Thess. 5:23-24, - the importance of understanding the operation of God's grace, the sanctification and preservation of man's trimeria, God's sovereignty and control
 > And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ. Faithful is he that calleth you, who also will do it. (1 Thess. 5:23-24, KJV)
 
-### (9) 1 Thess. 5:25, - the importance of prayer for the people of God, the will of God, the fulfillment of destiny. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+### (9) 1 Thess. 5:25, - the importance of prayer for the people of God, the will of God, the fulfillment of destiny. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 > Brethren, pray for us. (1 Thess. 5:25, KJV)
 
-### (10) 1 Thess. 5:26-28, - the importance of studying all the books of Scripture for the people of God, the importance of understanding the Word of God, the Covenant, Christ
+### (10) 1 Thess. 5:26-28, - the importance of studying all the books of Scripture for the people of God, the importance of understanding the Word of God, the Covenant, and Christ
 > Greet all the brethren with an holy kiss. I charge you by the Lord that this epistle be read unto all the holy brethren. The grace of our Lord Jesus Christ be with you. Amen. (1 Thess. 5:26-28, KJV)
 
 ## Conclusion:
 
-### (1) The importance of accepting the Word of God, the Covenant, Christ, and the importance of understanding the past, present, and future
+### (1) The importance of accepting the Word of God, the Covenant, and Christ, and the importance of understanding the past, present, and future
 
 ### (2) The importance of understanding the Second Coming of Christ
 

@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -257,7 +259,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>And the LORD God commanded him, “You may eat freely from every tree of the garden, but you must not eat from the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”</p><cite>Gen. 2:16-17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh God commanded the man, saying, “You may freely eat of every tree of the garden; but you shall not eat of the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”</p><cite>Gen. 2:16-17 · WEB</cite></blockquote>
 <h3>(1) The purpose and meaning of human life is Communion with God, Knowledge of God, service and glorification of the Holy, True God</h3>
-<h3>(2) Understanding the method of serving and glorifying God – knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization</h3>
+<h3>(2) Understanding the method of serving and glorifying God – learning and transmitting the Word of God, the Covenant, Christ, the Disciples, and Worldwide Evangelization</h3>
 <h3>(3) The importance of serving the Creator rather than the creation</h3>
 <h2 id="s2">2) Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), - the importance of understanding the Fall, the appearance of idols and idolatry</h2>
 <blockquote data-v="kjv"><p>Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.</p><cite>Gen. 3:1-7 · KJV</cite></blockquote>
@@ -321,7 +323,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.</p><cite>Col. 2:8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>See to it that no one takes you captive through philosophy and empty deception, which are based on human tradition and the spiritual forces of the world rather than on Christ.</p><cite>Col. 2:8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Be careful that you don’t let anyone rob you through his philosophy and vain deceit, after the tradition of men, after the elemental spirits of the world, and not after Christ.</p><cite>Col. 2:8 · WEB</cite></blockquote>
-<h4>(c) Witchcraft, Satanism – the open and conscious service of Satan</h4>
+<h4>(c) Witchcraft, Satanism – open and conscious service to Satan</h4>
 <h2 id="s4">4) Gen. 3:15, 21,Matt. 16:16,John 19:30, - the importance of understanding the Restoration, the breaking of idols and idolatry</h2>
 <blockquote data-v="kjv"><p>And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.</p><cite>Gen. 3:15 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And I will put enmity between you and the woman, and between your seed and her seed. He will crush your head, and you will strike his heel.”</p><cite>Gen. 3:15 · BSB</cite></blockquote>
@@ -336,7 +338,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>When Jesus had received the sour wine, He said, “It is finished.” And bowing His head, He yielded up His spirit.</p><cite>John 19:30 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>When Jesus therefore had received the vinegar, he said, “It is finished!” Then he bowed his head and gave up his spirit.</p><cite>John 19:30 · WEB</cite></blockquote>
 <h3>(1) The restoration of the true meaning and purpose of human life – Communion with God, Knowledge of God, service and glorification of the Holy, True God</h3>
-<h3>(2) Understanding the method of serving and glorifying God – knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization</h3>
+<h3>(2) Understanding the method of serving and glorifying God – learning and transmitting the Word of God, the Covenant, Christ, the Disciples, and Worldwide Evangelization</h3>
 <h3>(3) The importance of serving the Creator rather than the creation</h3>
 <h4>(a) Idols, another god is a sin unto death (golden calf, Baal, etc.) Ex. 20:1-6, - Matt. 6:24; 10:37, - Matt. 22:36-40</h4>
 <blockquote data-v="kjv"><p>And God spake all these words, saying, I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage. Thou shalt have no other gods before me. Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; And shewing mercy unto thousands of them that love me, and keep my commandments.</p><cite>Ex. 20:1-6 · KJV</cite></blockquote>
@@ -356,14 +358,14 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>Put to death, therefore, the components of your earthly nature: sexual immorality, impurity, lust, evil desires, and greed, which is idolatry.</p><cite>Col. 3:5 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Put to death therefore your members which are on the earth: sexual immorality, uncleanness, depraved passion, evil desire, and covetousness, which is idolatry.</p><cite>Col. 3:5 · WEB</cite></blockquote>
 <h2 id="s5">5) The importance of understanding spiritual reality</h2>
-<h3>(1) Understanding of salvation - conscious acceptance of the Word of God, the Covenant, Christ, a change in the status of a person (child of the devil - child of God). John 8:44; 1:12</h3>
+<h3>(1) Understanding salvation is the conscious acceptance of the Word of God, the Covenant, Christ, and the change in human status (child of the devil – child of God). John 8:44; 1:12</h3>
 <blockquote data-v="kjv"><p>Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.</p><cite>John 8:44 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>You belong to your father, the devil, and you want to carry out his desires. He was a murderer from the beginning, refusing to uphold the truth, because there is no truth in him. When he lies, he speaks his native language, because he is a liar and the father of lies.</p><cite>John 8:44 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>You are of your father the devil, and you want to do the desires of your father. He was a murderer from the beginning, and doesn’t stand in the truth, because there is no truth in him. When he speaks a lie, he speaks on his own; for he is a liar, and the father of lies.</p><cite>John 8:44 · WEB</cite></blockquote>
 <blockquote data-v="kjv"><p>But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:</p><cite>John 1:12 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But to all who did receive Him, to those who believed in His name, He gave the right to become children of God—</p><cite>John 1:12 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But as many as received him, to them he gave the right to become God’s children, to those who believe in his name:</p><cite>John 1:12 · WEB</cite></blockquote>
-<h3>(2) Understanding Sin to Death – rejection of the Word of God, the Covenant, Christ, idolatry, rejection of salvation. 1 John 5:16-17, 21</h3>
+<h3>(2) Understanding sin to death – rejection of the Word of God, the Covenant, Christ, idolatry, rejection of salvation. 1 John 5:16-17, 21</h3>
 <blockquote data-v="kjv"><p>If any man see his brother sin a sin which is not unto death, he shall ask, and he shall give him life for them that sin not unto death. There is a sin unto death: I do not say that he shall pray for it. All unrighteousness is sin: and there is a sin not unto death.</p><cite>1 John 5:16-17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>If anyone sees his brother committing a sin not leading to death, he should ask God, who will give life to those who commit this kind of sin. There is a sin that leads to death; I am not saying he should ask regarding that sin. All unrighteousness is sin, yet there is sin that does not lead to death.</p><cite>1 John 5:16-17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>If anyone sees his brother sinning a sin not leading to death, he shall ask, and God will give him life for those who sin not leading to death. There is sin leading to death. I don’t say that he should make a request concerning this. All unrighteousness is sin, and there is sin not leading to death.</p><cite>1 John 5:16-17 · WEB</cite></blockquote>
@@ -371,17 +373,17 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>Little children, keep yourselves from idols.</p><cite>1 John 5:21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Little children, keep yourselves from idols.</p><cite>1 John 5:21 · WEB</cite></blockquote>
 <h3>(3) Understanding the problem of carnal Christianity – acceptance of the Word of God, the Covenant, Christ, non-acceptance of the destiny of God's people, visible (influence of remnants of sinful essence, the world and Satan)</h3>
-<h3>(4) The importance of fulfilling the destiny – knowing and transmitting the Word of God, the Covenant, Christ, sanctification, the correct worldview of the people of God (invisible)</h3>
-<h2 id="s6">6) Understanding a person's priorities and responsibilities</h2>
+<h3>(4) The importance of fulfilling the destiny – knowledge and transmission of the Word of God, the Covenant, Christ, sanctification, the correct worldview of the people of God (invisible)</h3>
+<h2 id="s6">6) Understanding human priorities and responsibilities</h2>
 <h3>(1) God and the Church are the fulfillment of destiny</h3>
 <h3>(2) Husband, wife – family, care and support</h3>
 <h3>(3) Children, parents – education, care and support</h3>
-<h3>(4) The people around you have the right attitude, the transmission of the Word of God</h3>
+<h3>(4) The people around you – the right attitude, the transmission of the Word of God</h3>
 <h2 id="s7">Conclusion:</h2>
 <h3>(1) The importance of understanding the purpose and meaning of human life</h3>
 <h3>(2) The importance of serving the Creator rather than the creation</h3>
 <h3>(3) The importance of understanding the temporality of the visible</h3>
-<h3>(4) The importance of understanding Satan's action to destroy man</h3>
+<h3>(4) The importance of understanding Satan's action to Destroy man</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
 </body>

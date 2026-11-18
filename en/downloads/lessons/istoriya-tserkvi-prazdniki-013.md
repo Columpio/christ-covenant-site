@@ -5,7 +5,7 @@
 > Who is the image of the invisible God, the firstborn of every creature: For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him: (Col. 1:15-16, KJV)
 > For there is one God, and one mediator between God and men, the man Christ Jesus; (1 Tim. 2:5, KJV)
 
-### (1) Faith in a Triune God is faith in a Single God in numerical terms, in which there are three eternal differences – God the Father, God the Word, God the Holy Spirit, the Almighty, Omniscient, Omnipresent Absolute of God. (Three eternal differences in the human being – spirit, soul and body) 1 John 5:7,John 4:24, - John 1:18,1 John 4:12,1 Tim. 6:16
+### (1) Faith in the Triune God is faith in the One God in numerical terms, in which there are three eternal differences – God the Father, God the Word, God the Holy Spirit, the Almighty, Omniscient, Omnipresent Absolute of God. (Three eternal differences in the human being – spirit, soul and body) 1 John 5:7,John 4:24, - John 1:18,1 John 4:12,1 Tim. 6:16
 > For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one. (1 John 5:7, KJV)
 > God is a Spirit: and they that worship him must worship him in spirit and in truth. (John 4:24, KJV)
 > No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him. (John 1:18, KJV)
@@ -16,7 +16,7 @@
 
 #### (a) The human nature of Christ is the human spirit, soul, and glorified human body (unlimited possibilities)
 
-#### (b) The divine nature of Christ is the Holy One, the Triune God, and the functional priority of action is God the Word. (Priority of the Divine nature over man – God in the flesh) John 1:1, 14, 18,Col. 1:15-16; 2:9, - Eph. 3:9,Heb. 1:1-3. (Gen. 3:8; 18:1-2; 32:28,Ex. 24:9-11; 33:11,Dan. 3:25)
+#### (b) The divine nature of Christ is the Holy One, the Triune God, and the functional priority of action is God the Word. (The priority of the Divine nature over man is God in the flesh) John 1:1, 14, 18,Col. 1:15-16; 2:9, - Eph. 3:9,Heb. 1:1-3. (Gen. 3:8; 18:1-2; 32:28,Ex. 24:9-11; 33:11,Dan. 3:25)
 > In the beginning was the Word, and the Word was with God, and the Word was God. (John 1:1, KJV)
 > And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth. (John 1:14, KJV)
 > No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him. (John 1:18, KJV)
@@ -69,7 +69,7 @@
 #### (e) Mic. 5:2, - the prophet Micah
 > But thou, Beth-lehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall he come forth unto me that is to be ruler in Israel; whose goings forth have been from of old, from everlasting. (Mic. 5:2, KJV)
 
-### (2) The rejection of the Word of God, the Covenant, Christ, the human faith, the majority – a misunderstanding of Christmas (God in the flesh) and Easter (the All-sufficient Sacrifice of Christ)
+### (2) The rejection of the Word of God, the Covenant, Christ, the human faith, the majority is a misunderstanding of Christmas (God in the flesh) and Easter (the All–sufficient Sacrifice of Christ)
 
 #### (a) Pharisees and Scribes. John 10:33,Rom. 9:30-33, - John 8:44
 > The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. (John 10:33, KJV)
@@ -110,14 +110,14 @@
 
 ## 5) Misunderstanding of Christmas
 
-### (1) Traditions, mysticism (Santa Claus, reindeer, etc.) – actions without understanding and affirming the Word of God, the Covenant, Christ (The importance of correctly communicating the Word of God to children, the Covenant, Christ – the birth of Jesus Christ, gifts from God through parents, etc.)
+### (1) Traditions, mysticism (Santa Claus, reindeer, etc.) – actions without understanding and affirming the Word of God, the Covenant, Christ (The importance of correctly communicating the Word of God, the Covenant, Christ to children – the birth of Jesus Christ, gifts from God through parents, etc.)
 
-### (2) Religion – non-acceptance of the Word of God, the Covenant, Christ (The heresy of "Arianism", "mixed gospel" and "partial salvation" – denial of the fact of forgiveness of all sins and salvation through Jesus Christ and His Sacrifice)
+### (2) Religion – non-acceptance of the Word of God, the Covenant, and Christ (The heresy of "Arianism", "mixed gospel", and "partial salvation" – denial of the fact of forgiveness of all sins and salvation through Jesus Christ and His Sacrifice)
 
 ## Conclusion:
 
-### (1) The importance of celebrating the Nativity of Christ with a correct, deep and accurate understanding of the Word of God, the Covenant, Christ
+### (1) The importance of celebrating the Nativity of Christ with a correct, deep and accurate understanding of the Word of God, the Covenant, and Christ
 
-### (2) The special importance of the Church is the explanation of the Word of God, the Covenant, Christ, the importance of understanding the meaning and purpose of the birth of Christ
+### (2) The special importance of the Church is the explanation of the Word of God, the Covenant, and Christ, and the importance of understanding the meaning and purpose of Christ's birth
 
-### (3) Christmas is God's control of time, the importance of human choice in relation to eternity (acceptance of the Divinity of Christ and the All–sufficiency of His Sacrifice), the importance of fulfilling the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+### (3) Christmas is God's control of time, the importance of human choice in relation to eternity (acceptance of the Divinity of Christ and the All–sufficiency of His Sacrifice), the importance of fulfilling the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)

@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,16 +233,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>Heb. 11</h1>
-<h2 id="s1">8.1) Heb. 11:1-2, - the importance of the Word of God, of the Covenant, of Christ for every human being</h2>
+<h2 id="s1">8.1) Heb. 11:1-2, - the importance of the Word of God, the Covenant, and Christ for every human being</h2>
 <blockquote data-v="kjv"><p>Now faith is the substance of things hoped for, the evidence of things not seen. For by it the elders obtained a good report.</p><cite>Heb. 11:1-2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Now faith is the assurance of what we hope for and the certainty of what we do not see. This is why the ancients were commended.</p><cite>Heb. 11:1-2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now faith is assurance of things hoped for, proof of things not seen. For by this, the elders obtained approval.</p><cite>Heb. 11:1-2 · WEB</cite></blockquote>
@@ -251,7 +253,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith.</p><cite>Mark 11:23 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>“Truly I tell you that if anyone says to this mountain, ‘Be lifted up and thrown into the sea,’ and has no doubt in his heart but believes that it will happen, it will be done for him.</p><cite>Mark 11:23 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For most certainly I tell you, whoever may tell this mountain, ‘Be taken up and cast into the sea,’ and doesn’t doubt in his heart, but believes that what he says is happening, he shall have whatever he says.</p><cite>Mark 11:23 · WEB</cite></blockquote>
-<h4>(a) The faith of God is the correct understanding and fulfillment of the Word of God, the Covenant, Christ</h4>
+<h4>(a) The faith of God is the correct understanding and fulfillment of the Word of God, the Covenant, and Christ</h4>
 <h4>(b) Human faith – misunderstanding and fulfillment of the Word of God, the Covenant, Christ Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9</h4>
 <blockquote data-v="kjv"><p>So God created man in his own image, in the image of God created he him; male and female created he them.</p><cite>Gen. 1:27 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So God created man in His own image; in the image of God He created him; male and female He created them.</p><cite>Gen. 1:27 · BSB</cite></blockquote>
@@ -330,7 +332,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <li>V.Z. – faith in the coming Christ and His Sacrifice for all sins</li>
 <li>N.Z. – faith in Jesus of Nazareth as Christ and His Sacrifice for all human sins (past, present, future)</li>
 </ul>
-<h4>(d) The level and power of God's faith – knowledge and transmission of the Word of God, the Covenant, Christ, fulfillment of destiny</h4>
+<h4>(d) The level and power of God's faith is the knowledge and transmission of the Word of God, the Covenant, Christ, and the fulfillment of destiny</h4>
 <h3>(4) God's faith is an act of God's grace</h3>
 <h4>(a) Hearing the Word of God, the Covenant, Christ Rom. 10:17</h4>
 <blockquote data-v="kjv"><p>So then faith cometh by hearing, and hearing by the word of God.</p><cite>Rom. 10:17 · KJV</cite></blockquote>
@@ -344,7 +346,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live:</p><cite>Deut. 30:19 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>I call heaven and earth as witnesses against you today that I have set before you life and death, blessing and cursing. Therefore choose life, so that you and your descendants may live,</p><cite>Deut. 30:19 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I call heaven and earth to witness against you today that I have set before you life and death, the blessing and the curse. Therefore choose life, that you may live, you and your descendants,</p><cite>Deut. 30:19 · WEB</cite></blockquote>
-<h4>(d) Obedience to the Word of God, the Covenant, Christ (destiny) 1 Tim. 2:4</h4>
+<h4>(d) Obedience to the Word of God, the Covenant, and Christ (purpose) 1 Tim. 2:4</h4>
 <blockquote data-v="kjv"><p>Who will have all men to be saved, and to come unto the knowledge of the truth.</p><cite>1 Tim. 2:4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>who wants everyone to be saved and to come to the knowledge of the truth.</p><cite>1 Tim. 2:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>who desires all people to be saved and come to full knowledge of the truth.</p><cite>1 Tim. 2:4 · WEB</cite></blockquote>
@@ -352,7 +354,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for? But if we hope for that we see not, then do we with patience wait for it.</p><cite>Rom. 8:24-25 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For in this hope we were saved; but hope that is seen is no hope at all. Who hopes for what he can already see? But if we hope for what we do not yet see, we wait for it patiently.</p><cite>Rom. 8:24-25 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For we were saved in hope, but hope that is seen is not hope. For who hopes for that which he sees? But if we hope for that which we don’t see, we wait for it with patience.</p><cite>Rom. 8:24-25 · WEB</cite></blockquote>
-<h3>(5) Heb. 11:2, - the importance of understanding the Word of God, the Covenant, Christ, the testimony of the Word of God about the faith of the ancients (Adam – Moses)</h3>
+<h3>(5) Heb. 11:2, - the importance of understanding the Word of God, the Covenant, Christ, the testimony of the Word of God about the faith of the ancients (Adam –Moses)</h3>
 <blockquote data-v="kjv"><p>For by it the elders obtained a good report.</p><cite>Heb. 11:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>This is why the ancients were commended.</p><cite>Heb. 11:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For by this, the elders obtained approval.</p><cite>Heb. 11:2 · WEB</cite></blockquote>
@@ -362,7 +364,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went. By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise: For he looked for a city which hath foundations, whose builder and maker is God. Through faith also Sara herself received strength to conceive seed, and was delivered of a child when she was past age, because she judged him faithful who had promised. Therefore sprang there even of one, and him as good as dead, so many as the stars of the sky in multitude, and as the sand which is by the sea shore innumerable. These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and pilgrims on the earth. For they that say such things declare plainly that they seek a country. And truly, if they had been mindful of that country from whence they came out, they might have had opportunity to have returned. But now they desire a better country, that is, an heavenly: wherefore God is not ashamed to be called their God: for he hath prepared for them a city. By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten son, Of whom it was said, That in Isaac shall thy seed be called: Accounting that God was able to raise him up, even from the dead; from whence also he received him in a figure.</p><cite>Heb. 11:8-19 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>By faith Abraham, when called to go to a place he would later receive as his inheritance, obeyed and went, without knowing where he was going. By faith he dwelt in the promised land as a stranger in a foreign country. He lived in tents, as did Isaac and Jacob, who were heirs with him of the same promise. For he was looking forward to the city with foundations, whose architect and builder is God. By faith Sarah, even though she was barren and beyond the proper age, was enabled to conceive a child, because she considered Him faithful who had promised. And so from one man, and he as good as dead, came descendants as numerous as the stars in the sky and as countless as the sand on the seashore. All these people died in faith, without having received the things they were promised. However, they saw them and welcomed them from afar. And they acknowledged that they were strangers and exiles on the earth. Now those who say such things show that they are seeking a country of their own. If they had been thinking of the country they had left, they would have had opportunity to return. Instead, they were longing for a better country, a heavenly one. Therefore God is not ashamed to be called their God, for He has prepared a city for them. By faith Abraham, when he was tested, offered up Isaac on the altar. He who had received the promises was ready to offer his one and only son, even though God had said to him, “Through Isaac your offspring will be reckoned.” Abraham reasoned that God could raise the dead, and in a sense, he did receive Isaac back from death.</p><cite>Heb. 11:8-19 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>By faith Abraham, when he was called, obeyed to go out to the place which he was to receive for an inheritance. He went out, not knowing where he went. By faith he lived as an alien in the land of promise, as in a land not his own, dwelling in tents with Isaac and Jacob, the heirs with him of the same promise. For he was looking for the city which has foundations, whose builder and maker is God. By faith even Sarah herself received power to conceive, and she bore a child when she was past age, since she counted him faithful who had promised. Therefore as many as the stars of the sky in multitude, and as innumerable as the sand which is by the sea shore, were fathered by one man, and him as good as dead. These all died in faith, not having received the promises, but having seen them and embraced them from afar, and having confessed that they were strangers and pilgrims on the earth. For those who say such things make it clear that they are seeking a country of their own. If indeed they had been thinking of that country from which they went out, they would have had enough time to return. But now they desire a better country, that is, a heavenly one. Therefore God is not ashamed of them, to be called their God, for he has prepared a city for them. By faith, Abraham, being tested, offered up Isaac. Yes, he who had gladly received the promises was offering up his only born son, to whom it was said, “Your offspring will be accounted as from Isaac,” concluding that God is able to raise up even from the dead. Figuratively speaking, he also did receive him back from the dead.</p><cite>Heb. 11:8-19 · WEB</cite></blockquote>
-<h3>(1) Heb. 11:8, - Abraham, accepting the Word of God, the Covenant, Christ, accepting the call of God, the prophet of God. Gen. 12:1; 20:7</h3>
+<h3>(1) Heb. 11:8, - Abraham, acceptance of the Word of God, the Covenant, Christ, acceptance of the call of God, the prophet of God. Gen. 12:1; 20:7</h3>
 <blockquote data-v="kjv"><p>By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went.</p><cite>Heb. 11:8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>By faith Abraham, when called to go to a place he would later receive as his inheritance, obeyed and went, without knowing where he was going.</p><cite>Heb. 11:8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>By faith Abraham, when he was called, obeyed to go out to the place which he was to receive for an inheritance. He went out, not knowing where he went.</p><cite>Heb. 11:8 · WEB</cite></blockquote>
@@ -427,11 +429,11 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob. And Joseph took an oath of the children of Israel, saying, God will surely visit you, and ye shall carry up my bones from hence.</p><cite>Gen. 50:24-25 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Then Joseph said to his brothers, “I am about to die, but God will surely visit you and bring you up from this land to the land He promised on oath to Abraham, Isaac, and Jacob.” And Joseph made the sons of Israel take an oath and said, “God will surely attend to you, and then you must carry my bones up from this place.”</p><cite>Gen. 50:24-25 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Joseph said to his brothers, “I am dying, but God will surely visit you, and bring you up out of this land to the land which he swore to Abraham, to Isaac, and to Jacob.” Joseph took an oath from the children of Israel, saying, “God will surely visit you, and you shall carry up my bones from here.”</p><cite>Gen. 50:24-25 · WEB</cite></blockquote>
-<h3>(2) The importance of burial in Canaan is to confirm the descendants in the destiny of God's people, to prepare for the coming of Christ. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)</h3>
+<h3>(2) The importance of burial in Canaan is to confirm the descendants in the destiny of God's people, to prepare for the coming of Christ. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)</h3>
 <h3>(3) The meaning of Joseph's faith is Christ</h3>
 <h2 id="s6">Conclusion:</h2>
 <h3>(1) The Importance of Understanding God's Faith</h3>
-<h3>(2) The importance of understanding and fulfilling the purpose – knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization</h3>
+<h3>(2) The importance of understanding and fulfilling the purpose of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
 </body>

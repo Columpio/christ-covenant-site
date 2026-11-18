@@ -3,7 +3,7 @@
 ## 1) Matt. 5:17, - the importance of understanding the purpose of Christ's coming
 > Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil. (Matt. 5:17, KJV)
 
-### (1) Execution of the sentence The Word of God, salvation of mankind Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
+### (1) Execution of the sentence of the Word of God, salvation of mankind Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
@@ -45,7 +45,7 @@
 > And in those days Peter stood up in the midst of the disciples, and said, (the number of names together were about an hundred and twenty,) (Acts 1:15, KJV)
 > But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed. For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision. And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation. But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews? (Gal. 2:11-14, KJV)
 
-### (3) The importance of learning, knowing and transmitting the Word of God, the Covenant, Christ, abiding in the Word of God, Fulfilling purpose, Worldwide Evangelization
+### (3) The importance of learning, knowledge and transmission of the Word of God, the Covenant, Christ, constant abiding in the Word of God, fulfillment of purpose, Worldwide Evangelization
 
 ## 4) The First Apostolic Church - the time of the Church during the life of the apostles, 1st century AD
 
@@ -53,7 +53,7 @@
 
 ### (2) The Apostles from 70 – the disciples of the 12 apostles and the Apostle Paul
 
-## 5) Understanding the purpose of the Church – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, the Whole world, the preparation of the coming of Christ (the importance of preserving the purity of Christ's teaching)
+## 5) Understanding the purpose of the Church – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, the Whole Ev, the preparation of the coming of Christ (the importance of preserving the purity of Christ's teaching)
 
 ## 6) A brief history of the First Apostolic Church
 
@@ -83,7 +83,7 @@
 ### (10) 48 A.D. – visit to the Ap. Peter of the Antiochian Church, the chastisement of Ap. By Paul in relation to the Gentiles (Gal. 2:11-14)
 > But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed. For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision. And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation. But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews? (Gal. 2:11-14, KJV)
 
-### (11) 48 A.D. – Epistle of Ap. St. Paul's Galatians, the affirmation of the Word of God, the Covenant, Christ, the importance of accepting the Sacrifice and the Feat of Christ. (False teachers, affirmation of the "mixed gospel" in Galatian Churches, circumcision as a condition for salvation)
+### (11) 48 A.D. – Epistle of Ap. St. Paul's Galatians, the affirmation of the Word of God, the Covenant, Christ, the importance of accepting the Sacrifice and Asceticism of Christ. (False teachers, affirmation of the "mixed gospel" in Galatian Churches, circumcision as a condition for salvation)
 
 ### (12) A.D. 50 – Apostolic Council in Jerusalem (Acts 15)
 

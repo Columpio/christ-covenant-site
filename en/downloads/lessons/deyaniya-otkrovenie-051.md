@@ -1,8 +1,8 @@
 # 16. Review of the Epistle to the Romans
 
-## 1) Rom. 1, - the importance of understanding the purpose of man, understanding the operation of the power of God, understanding the problem of man
+## 1) Rom. 1, - the importance of understanding the purpose of man, understanding the action of the power of God, understanding the problem of man
 
-### (1) Rom. 1:1-6, - the importance of understanding the destiny of the people of God (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
+### (1) Rom. 1:1-6, - the importance of understanding the destiny of God's people (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
 > Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God, (Which he had promised afore by his prophets in the holy scriptures,) Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh; And declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead: By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name: Among whom are ye also the called of Jesus Christ: (Rom. 1:1-6, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -24,7 +24,7 @@
 ### (3) Rom. 1:18-25, - the importance of understanding the essence of a person's problem. (Original sin, choosing to live outside the Word of God, idolatry)
 > For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness; Because that which may be known of God is manifest in them; for God hath shewed it unto them. For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse: Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened. Professing themselves to be wise, they became fools, And changed the glory of the uncorruptible God into an image made like to corruptible man, and to birds, and fourfooted beasts, and creeping things. Wherefore God also gave them up to uncleanness through the lusts of their own hearts, to dishonour their own bodies between themselves: Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen. (Rom. 1:18-25, KJV)
 
-### (4) Rom. 1:28-32, - the wrong life and actions of a person, the consequence of the problem of not accepting the Word of God, the Covenant, Christ
+### (4) Rom. 1:28-32, - the wrong life and actions of a person, a consequence of the problem of non-acceptance of the Word of God, the Covenant, Christ
 > And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient; Being filled with all unrighteousness, fornication, wickedness, covetousness, maliciousness; full of envy, murder, debate, deceit, malignity; whisperers, Backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, disobedient to parents, Without understanding, covenantbreakers, without natural affection, implacable, unmerciful: Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them. (Rom. 1:28-32, KJV)
 
 ## 2) Rom. 2, - the importance of understanding the problem of sin
@@ -35,9 +35,9 @@
 ### (2) Rom. 2:12-13, - the impossibility of salvation through human deeds and efforts, the problem of religion, the rejection of the Word of God, the Covenant, Christ
 > For as many as have sinned without law shall also perish without law: and as many as have sinned in the law shall be judged by the law; (For not the hearers of the law are just before God, but the doers of the law shall be justified. (Rom. 2:12-13, KJV)
 
-## 3) Rom. 3, - the importance of properly understanding the Word of God, the Covenant, Christ
+## 3) Rom. 3, - the importance of properly understanding the Word of God, the Covenant, and Christ
 
-### (1) Rom. 3:2, - the importance of understanding the purpose of the people of God, (Especially the importance of understanding the value of the Word of God, the Covenant, Christ, and the responsibility of the people of God before God and humanity)
+### (1) Rom. 3:2, - the importance of understanding the purpose of God's people, (Especially the importance of understanding the value of the Word of God, the Covenant, Christ, and the responsibility of God's people before God and humanity)
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 
 ### (2) Rom. 3:9-20, - the special importance of correctly understanding the purpose of the law of God. (Awareness of sin and the impossibility of salvation by human forces)
@@ -49,12 +49,12 @@
 ### (4) Rom. 3:31, - the importance of understanding the consistency of law and faith, a complete complement and affirmation of each other
 > Do we then make void the law through faith? God forbid: yea, we establish the law. (Rom. 3:31, KJV)
 
-## 4) Rom. 4, - the importance of understanding and accepting the Word of God, the Covenant, Christ
+## 4) Rom. 4, - the importance of understanding and accepting the Word of God, the Covenant, and Christ
 
 ### (1) Rom. 4:6-8, - the importance of understanding the mechanism of salvation, the importance of understanding sin "de facto" and sin "de jure"
 > Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works, Saying, Blessed are they whose iniquities are forgiven, and whose sins are covered. Blessed is the man to whom the Lord will not impute sin. (Rom. 4:6-8, KJV)
 
-### (2) Rom. 4:23-25, - the importance of accepting the Word of God, the Covenant, Christ, man's choice
+### (2) Rom. 4:23-25, - the importance of accepting the Word of God, the Covenant, Christ, and human choice
 > Now it was not written for his sake alone, that it was imputed to him; But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead; Who was delivered for our offences, and was raised again for our justification. (Rom. 4:23-25, KJV)
 
 ## 5) Rom. 5, - the importance of understanding God's salvation
@@ -78,7 +78,7 @@
 > For in that he died, he died unto sin once: but in that he liveth, he liveth unto God. Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord. (Rom. 6:10-11, KJV)
 > But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life. (Rom. 6:22, KJV)
 
-### (3) Rom. 6:23, - the importance of understanding the judgment of the Word of God in relation to sin and God's method of judgment
+### (3) Rom. 6:23, - the importance of understanding the verdict of God's Word regarding sin and God's method of judgment
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
 ## 7) Rom. 7, - the importance of the Law, the remnants of sin. The people of God
@@ -88,15 +88,15 @@
 > Wherefore the law is holy, and the commandment holy, and just, and good. (Rom. 7:12, KJV)
 > But we know that the law is good, if a man use it lawfully; (1 Tim. 1:8, KJV)
 
-### (2) Rom. 7:18-25, - understanding the influence of the remnants of sin. the impact on a person, the importance of fulfilling their destiny. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+### (2) Rom. 7:18-25, - understanding the influence of the remnants of sin. the impact on a person, the importance of fulfilling their destiny. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 > For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but how to perform that which is good I find not. For the good that I would I do not: but the evil which I would not, that I do. Now if I do that I would not, it is no more I that do it, but sin that dwelleth in me. I find then a law, that, when I would do good, evil is present with me. For I delight in the law of God after the inward man: But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members. O wretched man that I am! who shall deliver me from the body of this death? I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin. (Rom. 7:18-25, KJV)
 
-## 8) Rom. 8, - the importance of accepting the Word of God, the Covenant, Christ
+## 8) Rom. 8, - the importance of accepting the Word of God, the Covenant, and Christ
 
 ### (1) Rom. 8:1-9, - the importance of accepting the Word of God, the Covenant, Christ, Emmanuel, the legitimate possibility of living according to the spirit
 > There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit. For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh: That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit. For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit. For to be carnally minded is death; but to be spiritually minded is life and peace. Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be. So then they that are in the flesh cannot please God. But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his. (Rom. 8:1-9, KJV)
 
-#### (a) Understanding life according to the flesh – there is no salvation and no rebirth, resisting the Word of God, the Covenant, Christ
+#### (a) Understanding life according to the flesh – there is no salvation and no rebirth, resisting the Word of God, the Covenant, and Christ
 
 #### (b) Understanding life according to the spirit – salvation and rebirth, life in the Word of God, the Covenant, Christ, fulfillment of destiny
 
@@ -108,7 +108,7 @@
 
 ## 9) Rom. 9, - the importance of understanding the true people of God
 
-### (1) Rom. 9:1-8, - the true people of God, acceptance of the Word of God, the Covenant, Christ
+### (1) Rom. 9:1-8, - the true people of God, the acceptance of the Word of God, the Covenant, of Christ
 > I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost, That I have great heaviness and continual sorrow in my heart. For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh: Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises; Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen. Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel: Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called. That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed. (Rom. 9:1-8, KJV)
 
 ### (2) Rom. 9:9-13, - foreknowledge and knowledge of the people of God by God
@@ -117,12 +117,12 @@
 ### (3) Rom. 9:30-33, - non-acceptance of the Word of God, the Covenant, Christ, the false people of God
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
 
-## 10) Rom. 10, - the importance of accepting the Word of God, the Covenant, Christ
+## 10) Rom. 10, - the importance of accepting the Word of God, the Covenant, and Christ
 
 ### (1) Rom. 10:1-4, - understanding the fulfillment of the Law by Christ
 > Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved. For I bear them record that they have a zeal of God, but not according to knowledge. For they being ignorant of God’s righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God. For Christ is the end of the law for righteousness to every one that believeth. (Rom. 10:1-4, KJV)
 
-### (2) Rom. 10:9, - an explanation of God's conditions for the salvation of man
+### (2) Rom. 10:9, - an explanation of God's conditions for human salvation
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
 ### (3) Rom. 10:17, - an explanation of God's conditions for receiving God's gift of God's faith
@@ -134,7 +134,7 @@
 > I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin. God hath not cast away his people which he foreknew. Wot ye not what the scripture saith of Elias? how he maketh intercession to God against Israel, saying, Lord, they have killed thy prophets, and digged down thine altars; and I am left alone, and they seek my life. But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal. Even so then at this present time also there is a remnant according to the election of grace. (Rom. 11:1-5, KJV)
 > For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in. And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob: (Rom. 11:25-26, KJV)
 
-### (2) Rom. 11:11, - the importance of understanding the inevitability of fulfilling the Word of God, the Covenant, Christ (the rejection of the Jews, the calling of the Gentiles)
+### (2) Rom. 11:11, - the importance of understanding the inevitability of fulfilling the Word of God, the Covenant, and Christ (the rejection of the Jews, the calling of the Gentiles)
 > I say then, Have they stumbled that they should fall? God forbid: but rather through their fall salvation is come unto the Gentiles, for to provoke them to jealousy. (Rom. 11:11, KJV)
 
 ### (3) Rom. 11:13-18, - understanding the possibility of renouncing salvation (sin to death), the right to choose a person
@@ -148,7 +148,7 @@
 ### (2) Rom. 12:4-8, - the importance of serving God's people
 > For as we have many members in one body, and all members have not the same office: So we, being many, are one body in Christ, and every one members one of another. Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith; Or ministry, let us wait on our ministering: or he that teacheth, on teaching; Or he that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness. (Rom. 12:4-8, KJV)
 
-### (3) Rom. 12:9-18, - the importance of the right attitude towards people, the importance of transmitting the Word of God, the Covenant, Christ
+### (3) Rom. 12:9-18, - the importance of treating people right, the importance of conveying the Word of God, the Covenant, and Christ
 > Let love be without dissimulation. Abhor that which is evil; cleave to that which is good. Be kindly affectioned one to another with brotherly love; in honour preferring one another; Not slothful in business; fervent in spirit; serving the Lord; Rejoicing in hope; patient in tribulation; continuing instant in prayer; Distributing to the necessity of saints; given to hospitality. Bless them which persecute you: bless, and curse not. Rejoice with them that do rejoice, and weep with them that weep. Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits. Recompense to no man evil for evil. Provide things honest in the sight of all men. If it be possible, as much as lieth in you, live peaceably with all men. (Rom. 12:9-18, KJV)
 
 ## 13) Rom. 13, - Understanding God's sovereignty and control
@@ -175,13 +175,13 @@
 ### (2) Rom. 15:24-25, - the importance of fulfilling destiny, the example of the Apostle Paul
 > Whensoever I take my journey into Spain, I will come to you: for I trust to see you in my journey, and to be brought on my way thitherward by you, if first I be somewhat filled with your company. But now I go unto Jerusalem to minister unto the saints. (Rom. 15:24-25, KJV)
 
-## 16) Rom. 16, - the importance of the people of God, the disciples, the importance of knowing and transmitting the Word of God, the Covenant, Christ, World Evangelization, the coming of Christ
+## 16) Rom. 16, - the importance of the people of God, the disciples, the importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ
 
 ## Conclusion:
 
 ### (1) The Importance of understanding the Fall and Restoration
 
-### (2) The importance of accepting the Word of God, the Covenant, Christ (salvation)
+### (2) The importance of accepting the Word of God, the Covenant, and Christ (salvation)
 
 ### (3) The importance of right living and sanctification (living according to the spirit)
 
@@ -191,7 +191,7 @@
 
 ### (6) The importance of understanding God's conditions for salvation and receiving God's gift of faith.
 
-### (7) The importance of understanding the true Israel and the possibility of rejecting the Word of God, the Covenant, Christ
+### (7) The importance of understanding the true Israel and the possibility of rejecting the Word of God, the Covenant, and Christ
 
 ### (8) The importance of serving people
 

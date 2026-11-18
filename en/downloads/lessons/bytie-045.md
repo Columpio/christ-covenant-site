@@ -13,7 +13,7 @@
 ### (2) Mental freedom – freedom from fear (peace and rest of God), freedom from addictions
 
 ### (3) Physical freedom – freedom from disease, aging, death, freedom of movement of a person on planet earth
-- The reason for true human freedom is Emmanuel, the knowledge and transmission of the Word of God, the Covenant, Christ (spiritual) 2 Pet. 3:17
+- The reason for true human freedom is Emmanuel, the knowledge and transmission of the Word of God, the Covenant, and Christ (spiritual) 2 Pet. 3:17
 
 > Ye therefore, beloved, seeing ye know these things before, beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness. (2 Pet. 3:17, KJV)
 
@@ -23,7 +23,7 @@
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
 
-### (1) Spiritual slavery – there is no choice of eternal life with God or outside of God, there is no choice of the Word of God, the Covenant. Christ, the power of another word in various versions. (The power of sin, death and hell, Satan – there is no de facto choice)
+### (1) Spiritual slavery – there is no possibility of choosing eternal life with God or outside of God, there is no possibility of choosing the Word of God, the Covenant. Christ, the power of another word in various versions. (The power of sin, death and hell, Satan – there is no de facto choice)
 
 ### (2) Mental slavery – fear (there is no peace and quiet), various addictions (tobacco, alcohol, drugs, gambling, etc.)
 
@@ -41,7 +41,7 @@
 ### (2) Mental freedom - freedom from fear (the peace and quiet of God), freedom from various addictions (tobacco, alcohol, drugs, gambling, etc.) - the process of sanctification
 
 ### (3) Physical freedom – freedom from disease, aging, and death at the Second Coming of Jesus Christ, the freedom of human movement on planet earth at the Second Coming of Jesus Christ (the lack of complete mental and physical freedom is a reminder of spiritual reality, the importance of understanding God's plan for the salvation of mankind, the importance of understanding the First and Second Coming of Jesus Christ)
-- The reason for true human freedom is Emmanuel, the knowledge and transmission of the Word of God, the Covenant, Christ (spiritual) 2 Pet. 3:17
+- The reason for true human freedom is Emmanuel, the knowledge and transmission of the Word of God, the Covenant, and Christ (spiritual) 2 Pet. 3:17
 
 > Ye therefore, beloved, seeing ye know these things before, beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness. (2 Pet. 3:17, KJV)
 
@@ -55,12 +55,12 @@
 
 ### (3) Christ died for the sins of the whole world – the mechanism of freedom
 
-### (4) The action of the Holy Spirit – the knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the importance of accepting the Sacrifice and Asceticism of Christ for man
+### (4) The action of the Holy Spirit is the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, and the importance of accepting the Sacrifice and Asceticism of Christ for man
 
 ### (5) Living in freedom is a person's right to choose. Deut. 30:19
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
-## 5) The importance of understanding the actions of Satan – lies and deception
+## 5) The importance of understanding Satan's actions – Lies and deception
 
 ### (1) Life outside of God (God himself) is "true freedom" for man. 2 Pet. 2:19. (The impossibility of spiritual, mental and physical freedom by human forces is an obvious fact of human life)
 > While they promise them liberty, they themselves are the servants of corruption: for of whom a man is overcome, of the same is he brought in bondage. (2 Pet. 2:19, KJV)
@@ -83,6 +83,6 @@
 
 ### (1) The importance of understanding the cause of slavery for humans
 
-### (2) The importance of Emmanuel, the importance of knowing and transmitting the Word of God, the Covenant, Christ is the only possibility of freedom for man
+### (2) The importance of Emmanuel, the importance of knowing and transmitting the Word of God, the Covenant, and Christ is the only possibility of freedom for man
 
 ### (3) The importance of understanding God's plan of salvation – The First and Second Coming of Jesus Christ, complete freedom for man

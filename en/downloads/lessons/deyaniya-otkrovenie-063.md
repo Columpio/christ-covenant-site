@@ -1,6 +1,6 @@
 # 11. Financial Service of God's People
 
-## 1) The purpose of Ts. – preservation and transmission of the Word of God, the Covenant, Christ
+## 1) The purpose of Ts. – preservation and transmission of the Word of God, the Covenant, and Christ
 
 ### (1) Gen. 1:27; 2:7, 9, 16-17; 1:28, - knowledge, transmission of the Word of God, the Covenant, Christ
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
@@ -23,9 +23,9 @@
 
 ## 2) Types of financial service of the people of God
 
-### (1) Tithing – participation in the cause of God, glorification and thanksgiving to God, confirmation of participation in God's Covenant, fulfillment of predestined
+### (1) Tithing – participation in God's work, glorification and thanksgiving of God, confirmation of participation in God's Covenant, fulfillment of predestined
 
-### (2) Donation and vows – God's participation in the cause, man's decision
+### (2) Donation and Vows – participation in God's cause, man's decision
 
 ### (3) Alms is the support of those in need, the decision of a person
 
@@ -43,7 +43,7 @@
 #### (c) The purpose of tithing is to glorify and thank God, to affirm participation in God's Covenant, and to fulfill the purpose of tithing.
 
 ### (2) Donations and vows before V.Z
-- The purpose of donations and vows before V.Z. – participation in the cause of God (purpose), glorification and thanksgiving of God, the importance of knowing and transmitting the Word of God, the Covenant, Christ, World Evangelization
+- The purpose of donations and vows before the Second World War is to participate in the cause of God (purpose), glorify and thank God, the importance of knowing and transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization
 - Gen. 23:16-18; 33:18-20 (Land of Canaan)
 
 > And Abraham hearkened unto Ephron; and Abraham weighed to Ephron the silver, which he had named in the audience of the sons of Heth, four hundred shekels of silver, current money with the merchant. And the field of Ephron, which was in Machpelah, which was before Mamre, the field, and the cave which was therein, and all the trees that were in the field, that were in all the borders round about, were made sure Unto Abraham for a possession in the presence of the children of Heth, before all that went in at the gate of his city. (Gen. 23:16-18, KJV)
@@ -65,9 +65,9 @@
 #### (a) Num. 18:19-28 (21), - the first tithe (maaser rishon)
 > All the heave offerings of the holy things, which the children of Israel offer unto the LORD, have I given thee, and thy sons and thy daughters with thee, by a statute for ever: it is a covenant of salt for ever before the LORD unto thee and to thy seed with thee. And the LORD spake unto Aaron, Thou shalt have no inheritance in their land, neither shalt thou have any part among them: I am thy part and thine inheritance among the children of Israel. And, behold, I have given the children of Levi all the tenth in Israel for an inheritance, for their service which they serve, even the service of the tabernacle of the congregation. Neither must the children of Israel henceforth come nigh the tabernacle of the congregation, lest they bear sin, and die. But the Levites shall do the service of the tabernacle of the congregation, and they shall bear their iniquity: it shall be a statute for ever throughout your generations, that among the children of Israel they have no inheritance. But the tithes of the children of Israel, which they offer as an heave offering unto the LORD, I have given to the Levites to inherit: therefore I have said unto them, Among the children of Israel they shall have no inheritance. And the LORD spake unto Moses, saying, Thus speak unto the Levites, and say unto them, When ye take of the children of Israel the tithes which I have given you from them for your inheritance, then ye shall offer up an heave offering of it for the LORD, even a tenth part of the tithe. And this your heave offering shall be reckoned unto you, as though it were the corn of the threshingfloor, and as the fulness of the winepress. Thus ye also shall offer an heave offering unto the LORD of all your tithes, which ye receive of the children of Israel; and ye shall give thereof the LORD’s heave offering to Aaron the priest. (Num. 18:19-28, KJV)
 
-- The purpose of the first tithe is the maintenance of Levites and priests, the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization (Participation in the cause of God, the importance of fulfilling one's destiny, glorifying and thanking God, and affirming participation in God's Covenant)
+- The purpose of the first tithe is the maintenance of Levites and priests, the knowledge and transmission of the Word of God, the Covenant, and Christ, Worldwide Evangelization (Participation in the cause of God, the importance of fulfilling one's destiny, glorifying and thanking God, and affirming participation in God's Covenant)
 - Josh. 13-21
-- The place of offering is the Tabernacle, the Temple. Deut. 12:5-7. (The Statute of Salt, the eternal Covenant – the importance of understanding the importance of knowing and transmitting the Word of God, the Covenant, Christ, the self-reliance of the people of God)
+- The place of offering is the Tabernacle, the Temple. Deut. 12:5-7. (The Statute of Salt, the Eternal Covenant – the importance of understanding the importance of knowing and transmitting the Word of God, the Covenant, Christ, the self-sufficiency of God's people)
 
 > But unto the place which the LORD your God shall choose out of all your tribes to put his name there, even unto his habitation shall ye seek, and thither thou shalt come: And thither ye shall bring your burnt offerings, and your sacrifices, and your tithes, and heave offerings of your hand, and your vows, and your freewill offerings, and the firstlings of your herds and of your flocks: And there ye shall eat before the LORD your God, and ye shall rejoice in all that ye put your hand unto, ye and your households, wherein the LORD thy God hath blessed thee. (Deut. 12:5-7, KJV)
 
@@ -88,7 +88,7 @@
 
 - The place of offering is the local tithe accumulator
 
-#### (d) Mal. 3:7-10, - theft of tithes, non-acceptance of the Word of God, the Covenant, Christ, no participation in the work of God, glorification and thanksgiving of God, service to Mammon, rejection of God, curse and destruction. (Matt. 23:23,Luke 18:10-14, - Jesus Christ, V.Z.'s statement)
+#### (d) Mal. 3:7-10, - stealing tithes, not accepting the Word of God, the Covenant, Christ, not participating in the work of God, glorifying and thanking God, serving Mammon, rejecting God, damnation and destruction. (Matt. 23:23,Luke 18:10-14, - Jesus Christ, V.Z.'s statement)
 > Even from the days of your fathers ye are gone away from mine ordinances, and have not kept them. Return unto me, and I will return unto you, saith the LORD of hosts. But ye said, Wherein shall we return? Will a man rob God? Yet ye have robbed me. But ye say, Wherein have we robbed thee? In tithes and offerings. Ye are cursed with a curse: for ye have robbed me, even this whole nation. Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it. (Mal. 3:7-10, KJV)
 > Woe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted the weightier matters of the law, judgment, mercy, and faith: these ought ye to have done, and not to leave the other undone. (Matt. 23:23, KJV)
 > Two men went up into the temple to pray; the one a Pharisee, and the other a publican. The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men are, extortioners, unjust, adulterers, or even as this publican. I fast twice in the week, I give tithes of all that I possess. And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner. I tell you, this man went down to his house justified rather than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted. (Luke 18:10-14, KJV)
@@ -137,7 +137,7 @@
 > Because that for his name’s sake they went forth, taking nothing of the Gentiles. (3 John 1:7, KJV)
 > What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him? If a brother or sister be naked, and destitute of daily food, And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit? Even so faith, if it hath not works, is dead, being alone. (Jas. 2:14-17, KJV)
 
-- The purpose of tithing N.Z. is the maintenance of Church servants, the knowledge and transmission of the Word of God, the Covenant, Christ, the fulfillment of World Evangelization (Participation in the cause of God, the importance of fulfilling the purpose, glorification and thanksgiving of God, affirmation of participation in God's Covenant)
+- The purpose of tithing N.Z. is the maintenance of Church servants, the knowledge and transmission of the Word of God, the Covenant, Christ, the accomplishment of Worldwide Evangelization (Participation in the cause of God, the importance of fulfilling the purpose, glorification and thanksgiving of God, affirmation of participation in God's Covenant)
 - The place of offering is a local Church
 
 ### (2) Donations and vows in N.Z.
@@ -151,7 +151,7 @@
 > Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy; That they do good, that they be rich in good works, ready to distribute, willing to communicate; Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life. (1 Tim. 6:17-19, KJV)
 > Bring Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them. And let ours also learn to maintain good works for necessary uses, that they be not unfruitful. (Titus 3:13-14, KJV)
 
-- The purpose of donations and vows in N.Z. is the maintenance of Church servants, the maintenance of the Temple, the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, participation in the cause of God, glorification and thanksgiving to God
+- The purpose of donations and vows in N.Z. is the maintenance of Church servants, the maintenance of the Temple, the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, participation in the cause of God, the glorification and thanksgiving of God
 - The place of offering is a local Church
 
 ### (3) Alms in N.Z.
@@ -181,7 +181,7 @@
 
 ## 7) The appointment of finances in the Church
 
-### (1) Knowledge and transmission of the Word of God, the Covenants, Christ, the disciples, Worldwide Evangelization (Travel, transportation, etc. – fulfilling the purpose of the Ts.B.)
+### (1) Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization (Travel, transportation, etc. – fulfilling the purpose of the Ts.B.)
 
 ### (2) Financial support for Church ministers
 
@@ -199,14 +199,14 @@
 
 ## Conclusion:
 
-### (1) A proper understanding of financial service
+### (1) Proper understanding of financial service
 
 #### (a) Everything visible and invisible is God's property
 
 #### (b) The importance of understanding and doing God's will.1 Tim. 2:4
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 
-#### (c) The responsibility of each person before God in the use of finance – the knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization Matt. 28:19-20; 6:33
+#### (c) The responsibility of every person before God in the use of finance is the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization Matt. 28:19-20; 6:33
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
 > But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you. (Matt. 6:33, KJV)
 

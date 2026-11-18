@@ -1,8 +1,8 @@
 # Gal. 1–2
-## 1.1) Gal. 1:1-12, - the importance of accepting the Word of God, the Covenant, Christ
+## 1.1) Gal. 1:1-12, - the importance of accepting the Word of God, the Covenant, and Christ
 > Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;) And all the brethren which are with me, unto the churches of Galatia: Grace be to you and peace from God the Father, and from our Lord Jesus Christ, Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father: To whom be glory for ever and ever. Amen. I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel: Which is not another; but there be some that trouble you, and would pervert the gospel of Christ. But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed. As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed. For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ. But I certify you, brethren, that the gospel which was preached of me is not after man. For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ. (Gal. 1:1-12, KJV)
 
-### (1) Gal. 1:1-5, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+### (1) Gal. 1:1-5, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 > Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;) And all the brethren which are with me, unto the churches of Galatia: Grace be to you and peace from God the Father, and from our Lord Jesus Christ, Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father: To whom be glory for ever and ever. Amen. (Gal. 1:1-5, KJV)
 
 #### (a) Gal. 1:1-3, - the importance of understanding the destiny of God's people, God's sovereignty, man's election and vocation Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
@@ -24,21 +24,21 @@
 #### (b) Gal. 1:4-5, - the importance of understanding the Word of God, the Covenant, Christ, understanding the will of God, the death of Christ for all the sins of mankind
 > Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father: To whom be glory for ever and ever. Amen. (Gal. 1:4-5, KJV)
 
-### (2) Gal. 1:6-12, - the importance of the rules. Understanding the Word of God, the Covenant, Christ
+### (2) Gal. 1:6-12, - the importance of the rules. understanding the Word of God, the Covenant, and Christ
 > I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel: Which is not another; but there be some that trouble you, and would pervert the gospel of Christ. But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed. As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed. For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ. But I certify you, brethren, that the gospel which was preached of me is not after man. For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ. (Gal. 1:6-12, KJV)
 
-#### (a) Gal. 1:6-9, - the importance of understanding the actions of Satan, resisting the Word of God, the Covenant, Christ, false teachers, and other evangelism. (The adoption of another word is circumcision as a condition for salvation, the preaching of the false brethren of the Jerusalem Church, false teachers, anathema - a curse, sin to death, falling away from God). Gal. 5:4
+#### (a) Gal. 1:6-9, - the importance of understanding the work of Satan, resisting the Word of God, the Covenant, Christ, false teachers, and other evangelism. (The adoption of another word is circumcision as a condition for salvation, the preaching of the false brethren of the Jerusalem Church, false teachers, anathema - a curse, sin to death, falling away from God). Gal. 5:4
 > I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel: Which is not another; but there be some that trouble you, and would pervert the gospel of Christ. But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed. As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed. (Gal. 1:6-9, KJV)
 > Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace. (Gal. 5:4, KJV)
 
-#### (c) Gal. 1:10, - the special importance of accurately proclaiming the Word of God, the Covenant, Christ, purity of teaching, (pleasing God, not people), the importance of fulfilling the destiny of God's people
+#### (c) Gal. 1:10, - the special importance of the accurate proclamation of the Word of God, the Covenant, Christ, the purity of doctrine, (pleasing God, not people), the importance of fulfilling the purpose of God's people
 > For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ. (Gal. 1:10, KJV)
 
 #### (d) Gal. 1:11, - God is the author of the Word of God, the Covenant, Christ (the Gospel), the proclamation of God's will and plan for the salvation of mankind, the importance of understanding the Divinity of the Scriptures. 2 Pet. 1:21
 > But I certify you, brethren, that the gospel which was preached of me is not after man. (Gal. 1:11, KJV)
 > For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost. (2 Pet. 1:21, KJV)
 
-#### (e) Gal. 1:12, - the importance of understanding the "phenomenon" of Paul (the personal revelation of Jesus Christ as understood by the Word of God), the problems of the Jerusalem Church (Jews, Gentiles). 2 Pet. 3:15
+#### (e) Gal. 1:12, - the importance of understanding the "phenomenon" of Paul (the personal revelation of Jesus Christ in the understanding of the Word of God), the problem of the Jerusalem Church (Jews, Gentiles). 2 Pet. 3:15
 > For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ. (Gal. 1:12, KJV)
 > And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you; (2 Pet. 3:15, KJV)
 
@@ -78,7 +78,7 @@
 ### (8) Gal. 2:11-14, - 48 A.D., Peter's visit to the Church of Antioch, Paul's chastisement of the Gentiles (circumcision)
 > But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed. For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision. And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation. But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews? (Gal. 2:11-14, KJV)
 
-### (9) 48 A.D. – Epistle of Ap. St. Paul's Galatians, the affirmation of the Word of God, the Covenant, Christ, the importance of accepting the Sacrifice and the Feat of Christ. (False teachers, affirmation of the "mixed gospel" in Galatian Churches, circumcision as a condition for salvation)
+### (9) 48 A.D. – Epistle of Ap. St. Paul's Galatians, the affirmation of the Word of God, the Covenant, Christ, the importance of accepting the Sacrifice and Asceticism of Christ. (False teachers, affirmation of the "mixed gospel" in Galatian Churches, circumcision as a condition for salvation)
 
 ### (10) A.D. 50 – Apostolic Council in Jerusalem (Acts 15:22)
 > Then pleased it the apostles and elders, with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas; namely, Judas surnamed Barsabas, and Silas, chief men among the brethren: (Acts 15:22, KJV)
@@ -86,16 +86,16 @@
 ## 3) Acts 15:22-31, - conclusion of the Ap. The Cathedral in Jerusalem
 > Then pleased it the apostles and elders, with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas; namely, Judas surnamed Barsabas, and Silas, chief men among the brethren: And they wrote letters by them after this manner; The apostles and elders and brethren send greeting unto the brethren which are of the Gentiles in Antioch and Syria and Cilicia: Forasmuch as we have heard, that certain which went out from us have troubled you with words, subverting your souls, saying, Ye must be circumcised, and keep the law: to whom we gave no such commandment: It seemed good unto us, being assembled with one accord, to send chosen men unto you with our beloved Barnabas and Paul, Men that have hazarded their lives for the name of our Lord Jesus Christ. We have sent therefore Judas and Silas, who shall also tell you the same things by mouth. For it seemed good to the Holy Ghost, and to us, to lay upon you no greater burden than these necessary things; That ye abstain from meats offered to idols, and from blood, and from things strangled, and from fornication: from which if ye keep yourselves, ye shall do well. Fare ye well. So when they were dismissed, they came to Antioch: and when they had gathered the multitude together, they delivered the epistle: Which when they had read, they rejoiced for the consolation. (Acts 15:22-31, KJV)
 
-### (1) The condemnation of legalism as a condition for salvation, the importance of accepting the Word of God, the Covenant, Christ (the oneness of Christ)
+### (1) The condemnation of legalism as a condition for salvation, the importance of accepting the Word of God, the Covenant, and Christ (the oneness of Christ)
 
 ### (2) The rule for ecclesiastical pagans is to abstain from fornication, idolatry, and strangulation, and not to act with others as you do not wish for yourself.
 
 ### (3) The law is to realize the problem of sin, serving God and man. (The abolition of the Liturgical and social-legal law, the tightening of the Decalogue – God's decree of N.Z.)
 
-## 4) Gal. 2:15-21, - the importance of properly understanding the Word of God, the Covenant, Christ (Religion and the Good News)
+## 4) Gal. 2:15-21, - the importance of properly understanding the Word of God, the Covenant, and Christ (Religion and the Good News)
 > We who are Jews by nature, and not sinners of the Gentiles, Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified. But if, while we seek to be justified by Christ, we ourselves also are found sinners, is therefore Christ the minister of sin? God forbid. For if I build again the things which I destroyed, I make myself a transgressor. For I through the law am dead to the law, that I might live unto God. I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me. I do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead in vain. (Gal. 2:15-21, KJV)
 
-### (1) Gal. 2:15-16, - the importance of understanding the difference between Religion and the Good News, the importance of understanding the only way to justify and save every person (faith, not works). (Heresy of the "mixed gospel", distortion of the Word of God, the Covenant, Christ)
+### (1) Gal. 2:15-16, - the importance of understanding the difference between Religion and the Good News, the importance of understanding the only way to justify and save everyone (faith, not works). (The heresy of the "mixed gospel", a distortion of the Word of God, the Covenant, and Christ)
 > We who are Jews by nature, and not sinners of the Gentiles, Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified. (Gal. 2:15-16, KJV)
 
 ### (2) Gal. 2:17, - the teaching of the Gospel about the salvation of man through the Sacrifice of Christ makes Jesus Christ a minister of sin, if justification comes through the fulfillment of the Law
@@ -106,7 +106,7 @@
 > As it is written, There is none righteous, no, not one: (Rom. 3:10, KJV)
 > For all have sinned, and come short of the glory of God; (Rom. 3:23, KJV)
 
-### (4) Gal. 2:19, - the death of the old man to the Law through the acceptance of the Word of God, the Covenant, Christ, the rebirth, the new creation, the action of the gospel in the life of God's people. Rom. 8:2
+### (4) Gal. 2:19, - the death of the old man to the Law through the acceptance of the Word of God, the Covenant, Christ, the new birth, the new creation, the operation of the Gospel in the life of the people of God. Rom. 8:2
 > For I through the law am dead to the law, that I might live unto God. (Gal. 2:19, KJV)
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
 
@@ -121,8 +121,8 @@
 
 ### (1) The importance of the Word of God, the Covenant, and Christ for man (purity of teaching)
 
-### (2) The importance of understanding the work of Satan, the mixed gospel, false teachers and false apostles, opposition to the Word of God, the Covenant, Christ
+### (2) The importance of understanding the work of Satan, the mixed gospel, false teachers and false apostles, opposition to the Word of God, the Covenant, and Christ
 
-### (3) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization
+### (3) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization
 
 ### (4) The importance of understanding God's method of justifying man, the importance of understanding the purpose of the Law and the Gospel

@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -272,7 +274,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>And the LORD God made garments of skin for Adam and his wife, and He clothed them.</p><cite>Gen. 3:21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh God made garments of animal skins for Adam and for his wife, and clothed them.</p><cite>Gen. 3:21 · WEB</cite></blockquote>
 <h3>(1) Rejection of the Word of God, the Covenant, Christ, loss of purpose – slavery</h3>
-<h3>(2) The preservation of the Covenant family, Christ – the knowledge and transmission of the Word of God (Daniel, Shadrach, Mesach, Abednego, Ezra, Nehemiah. Mordecai, etc.)</h3>
+<h3>(2) The preservation of the family of the Covenant, of Christ, is the knowledge and transmission of the Word of God (Daniel, Shadrach, Mesach, Abednego, Ezra, Nehemiah. Mordecai, etc.)</h3>
 <h2 id="s2">2) The stages of the return of God's people</h2>
 <h3>(1) 1st stage – Zerubbabel Temple (538 BC)</h3>
 <h4>(a) Cyrus the Great II (539-536 BC) – the fulfillment of the Word of God, the Covenant, Christ, the return of the Jews to Canaan, the coming of Christ</h4>
@@ -289,7 +291,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>And we know that God works all things together for the good of those who love Him, who are called according to His purpose.</p><cite>Rom. 8:28 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>We know that all things work together for good for those who love God, for those who are called according to his purpose.</p><cite>Rom. 8:28 · WEB</cite></blockquote>
 <h4>(c) Mordecai – saving the king's life</h4>
-<h3>(2) Esth. 3, - the action of Satan, stop the transmission of the Word of God, the Covenant, Christ</h3>
+<h3>(2) Esth. 3, - the action of Satan, to stop the transmission of the Word of God, the Covenant, Christ</h3>
 <h4>(a) Esth. 3:1, - Haman, rejection of the Word of God, the Covenant, Christ</h4>
 <blockquote data-v="kjv"><p>After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that were with him.</p><cite>Esth. 3:1 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>After these events, King Xerxes honored Haman son of Hammedatha, the Agagite, elevating him to a position above all the princes who were with him.</p><cite>Esth. 3:1 · BSB</cite></blockquote>
@@ -311,18 +313,18 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>And the LORD God made garments of skin for Adam and his wife, and He clothed them.</p><cite>Gen. 3:21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh God made garments of animal skins for Adam and for his wife, and clothed them.</p><cite>Gen. 3:21 · WEB</cite></blockquote>
 <h4>(c) Esther's courage, God's protection of Mordecai, Haman's death</h4>
-<h3>(4) Esth. 9:24-26 (9:24-26), - God sovereignty and control (473 BC)</h3>
+<h3>(4) Esth. 9:24-26 (9:24-26), - God's sovereignty and Control (473 BC)</h3>
 <blockquote data-v="kjv"><p>Because Haman the son of Hammedatha, the Agagite, the enemy of all the Jews, had devised against the Jews to destroy them, and had cast Pur, that is, the lot, to consume them, and to destroy them; But when Esther came before the king, he commanded by letters that his wicked device, which he devised against the Jews, should return upon his own head, and that he and his sons should be hanged on the gallows. Wherefore they called these days Purim after the name of Pur. Therefore for all the words of this letter, and of that which they had seen concerning this matter, and which had come unto them,</p><cite>Esth. 9:24-26 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For Haman son of Hammedatha, the Agagite, the enemy of all the Jews, had plotted against the Jews to destroy them and had cast the Pur (that is, the lot) to crush and destroy them. But when it came before the king, he commanded by letter that the wicked scheme which Haman had devised against the Jews should come back upon his own head, and that he and his sons should be hanged on the gallows. Therefore these days are called Purim, from the word Pur. Because of all the instructions in this letter, and because of all they had seen and experienced,</p><cite>Esth. 9:24-26 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>because Haman the son of Hammedatha, the Agagite, the enemy of all the Jews, had plotted against the Jews to destroy them, and had cast “Pur”, that is the lot, to consume them and to destroy them; but when this became known to the king, he commanded by letters that his wicked plan, which he had planned against the Jews, should return on his own head, and that he and his sons should be hanged on the gallows. Therefore they called these days “Purim”, from the word “Pur.” Therefore because of all the words of this letter, and of that which they had seen concerning this matter, and that which had come to them,</p><cite>Esth. 9:24-26 · WEB</cite></blockquote>
-<h4>(a) Allowing Jews to defend themselves is God's preservation of the people</h4>
-<h4>(b) The feast of Purim – God's protection and deliverance (pur – lot)</h4>
-<h4>(c) Mordecai, Esther – fulfillment of destiny. (God's Preservation of the People – transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization)</h4>
+<h4>(a) Allowing Jews to defend themselves is the preservation of God's people</h4>
+<h4>(b) The feast of Purim is God's protection and deliverance (pur – lot)</h4>
+<h4>(c) Mordecai, Esther – fulfillment of destiny. (The Preservation of God's people is the transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization)</h4>
 <h2 id="s4">Conclusion:</h2>
 <h3>(1) The importance of understanding and fulfilling the destiny of God's people, God's sovereignty and control. (Esther's Sermon – the ministry of Ezra and Nehemiah)</h3>
-<h3>(2) The action of Satan is to stop the transmission of the Word of God, the Covenant, Christ, World Evangelization</h3>
+<h3>(2) Satan's action is to stop the transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization</h3>
 <h4>(a) Complaints to the Kings of Persia - Importance of the Temple (Covenant, Christ, World Evangelism)</h4>
-<h4>(b) The physical destruction of the Jews – the transmission of the Word of God, the Covenant, Christ</h4>
+<h4>(b) The physical destruction of the Jews is the transmission of the Word of God, the Covenant, and Christ</h4>
 <h4>(c) Pagan wives (purity of teaching, descendants)</h4>
 <h3>(3) The Stages of the Return of God's people</h3>
 <h4>(a) 1st stage – Zerubbabel, Zechariah, Haggai, Temple (538 BC)</h4>
@@ -336,15 +338,15 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h4>(d) Xerxes or Artaxerxes (485-464 BC) – Esther's husband</h4>
 <h4>(e) Artaxerxes 1 (464-423 BC) – Ezra, Nehemiah, Jerusalem</h4>
 <h3>(5) The importance of understanding the meaning of the books of Ezra, Esther, Nehemiah for the people of God in the New Testament</h3>
-<h4>(a) The importance of the conquest of Canaan, the importance of rebuilding the Altar, the Temple, and Jerusalem – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ</h4>
+<h4>(a) The importance of the conquest of Canaan, the importance of rebuilding the Altar, the Temple, and Jerusalem –knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, and preparation for the coming of Christ</h4>
 <h4>(b) Canaan in N.Z. – the whole world, the importance of local Churches to the ends of the earth, Worldwide Evangelization, fulfillment of destiny</h4>
-<h4>(c) The Altar and Sacrifice in N.Z. – the importance of understanding Jesus Christ and His Sacrifice on the Cross of Calvary, the importance of properly understanding the Word of God, the Covenant, Christ for man</h4>
+<h4>(c) The Altar and Sacrifice in N.Z. – the importance of understanding Jesus Christ and His Sacrifice on the Cross of Calvary, the importance of a proper understanding of the Word of God, the Covenant, and Christ for man</h4>
 <h4>(d) The Temple and Jerusalem in N.Z. – the house of prayer, the local Churches, the central place of God's faith, the self-awareness of God's people, the importance of fulfilling their destiny</h4>
 <h4>(e) The Walls of Jerusalem in N.Z. – spiritual warfare, protection of the faith of God, the importance of proper Liturgy in N.Z. Acts 2:42</h4>
 <blockquote data-v="kjv"><p>And they continued stedfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers.</p><cite>Acts 2:42 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>They devoted themselves to the apostles’ teaching and to the fellowship, to the breaking of bread and to prayer.</p><cite>Acts 2:42 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>They continued steadfastly in the apostles’ teaching and fellowship, in the breaking of bread, and prayer.</p><cite>Acts 2:42 · WEB</cite></blockquote>
-<h4>(e) The Book of Esther in N.Z. – understanding the unchanging actions of Satan, the attempt to destroy the people of God, stopping the knowledge and transmission of the Word of God, the Covenant, Christ (God's sovereignty and control)</h4>
+<h4>(e) The Book of Esther in N.Z. – understanding the unchanging work of Satan, an attempt to destroy the people of God, stopping the knowledge and transmission of the Word of God, the Covenant, Christ (God's sovereignty and control)</h4>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
 </body>

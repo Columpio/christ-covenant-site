@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,20 +233,20 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>22. Matthew 18 chapter</h1>
-<h2 id="s1">1) Matt. 18:1-5, - the importance of understanding the Word of God, the Covenant, Christ</h2>
+<h2 id="s1">1) Matt. 18:1-5, - the importance of understanding the Word of God, the Covenant, and Christ</h2>
 <blockquote data-v="kjv"><p>At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven? And Jesus called a little child unto him, and set him in the midst of them, And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven. Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven. And whoso shall receive one such little child in my name receiveth me.</p><cite>Matt. 18:1-5 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>At that time the disciples came to Jesus and asked, “Who then is the greatest in the kingdom of heaven?” Jesus invited a little child to stand among them. “Truly I tell you,” He said, “unless you change and become like little children, you will never enter the kingdom of heaven. Therefore, whoever humbles himself like this little child is the greatest in the kingdom of heaven. And whoever welcomes a little child like this in My name welcomes Me.</p><cite>Matt. 18:1-5 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>In that hour the disciples came to Jesus, saying, “Who then is greatest in the Kingdom of Heaven?” Jesus called a little child to himself, and set him in the middle of them and said, “Most certainly I tell you, unless you turn and become as little children, you will in no way enter into the Kingdom of Heaven. Whoever therefore humbles himself as this little child is the greatest in the Kingdom of Heaven. Whoever receives one such little child in my name receives me,</p><cite>Matt. 18:1-5 · WEB</cite></blockquote>
-<h3>(1) Matt. 18:1, - inaccurate understanding of the Word of God, the Testament, Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21</h3>
+<h3>(1) Matt. 18:1, - inaccurate understanding of the Word of God, the Covenant, Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21</h3>
 <blockquote data-v="kjv"><p>At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?</p><cite>Matt. 18:1 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>At that time the disciples came to Jesus and asked, “Who then is the greatest in the kingdom of heaven?”</p><cite>Matt. 18:1 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>In that hour the disciples came to Jesus, saying, “Who then is greatest in the Kingdom of Heaven?”</p><cite>Matt. 18:1 · WEB</cite></blockquote>
@@ -275,7 +277,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.</p><cite>Gen. 3:21 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And the LORD God made garments of skin for Adam and his wife, and He clothed them.</p><cite>Gen. 3:21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh God made garments of animal skins for Adam and for his wife, and clothed them.</p><cite>Gen. 3:21 · WEB</cite></blockquote>
-<h3>(2) Matt. 18:2-4, - the importance of understanding the Word of God, the Covenant, Christ</h3>
+<h3>(2) Matt. 18:2-4, - the importance of understanding the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>And Jesus called a little child unto him, and set him in the midst of them, And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven. Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven.</p><cite>Matt. 18:2-4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Jesus invited a little child to stand among them. “Truly I tell you,” He said, “unless you change and become like little children, you will never enter the kingdom of heaven. Therefore, whoever humbles himself like this little child is the greatest in the kingdom of heaven.</p><cite>Matt. 18:2-4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Jesus called a little child to himself, and set him in the middle of them and said, “Most certainly I tell you, unless you turn and become as little children, you will in no way enter into the Kingdom of Heaven. Whoever therefore humbles himself as this little child is the greatest in the Kingdom of Heaven.</p><cite>Matt. 18:2-4 · WEB</cite></blockquote>
@@ -290,7 +292,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea. Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh! Wherefore if thy hand or thy foot offend thee, cut them off, and cast them from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire. And if thine eye offend thee, pluck it out, and cast it from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire. Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven.</p><cite>Matt. 18:6-10 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But if anyone causes one of these little ones who believe in Me to stumble, it would be better for him to have a large millstone hung around his neck and to be drowned in the depths of the sea. Woe to the world for the causes of sin. These stumbling blocks must come, but woe to the man through whom they come! If your hand or your foot causes you to sin, cut it off and throw it away. It is better for you to enter life crippled or lame than to have two hands and two feet and be thrown into the eternal fire. And if your eye causes you to sin, gouge it out and throw it away. It is better for you to enter life with one eye than to have two eyes and be thrown into the fire of hell. See that you do not look down on any of these little ones. For I tell you that their angels in heaven always see the face of My Father in heaven.</p><cite>Matt. 18:6-10 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>but whoever causes one of these little ones who believe in me to stumble, it would be better for him if a huge millstone were hung around his neck and that he were sunk in the depths of the sea. “Woe to the world because of occasions of stumbling! For it must be that the occasions come, but woe to that person through whom the occasion comes! If your hand or your foot causes you to stumble, cut it off and cast it from you. It is better for you to enter into life maimed or crippled, rather than having two hands or two feet to be cast into the eternal fire. If your eye causes you to stumble, pluck it out and cast it from you. It is better for you to enter into life with one eye, rather than having two eyes to be cast into the Gehenna of fire. See that you don’t despise one of these little ones, for I tell you that in heaven their angels always see the face of my Father who is in heaven.</p><cite>Matt. 18:6-10 · WEB</cite></blockquote>
-<h3>(1) Matt. 18:6, - seduction of children by God (act of Satan, false teachings)</h3>
+<h3>(1) Matt. 18:6, - seduction of God's children (act of Satan, false teachings)</h3>
 <blockquote data-v="kjv"><p>But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea.</p><cite>Matt. 18:6 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But if anyone causes one of these little ones who believe in Me to stumble, it would be better for him to have a large millstone hung around his neck and to be drowned in the depths of the sea.</p><cite>Matt. 18:6 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>but whoever causes one of these little ones who believe in me to stumble, it would be better for him if a huge millstone were hung around his neck and that he were sunk in the depths of the sea.</p><cite>Matt. 18:6 · WEB</cite></blockquote>
@@ -305,11 +307,11 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Wherefore if thy hand or thy foot offend thee, cut them off, and cast them from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire. And if thine eye offend thee, pluck it out, and cast it from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire.</p><cite>Matt. 18:8-9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>If your hand or your foot causes you to sin, cut it off and throw it away. It is better for you to enter life crippled or lame than to have two hands and two feet and be thrown into the eternal fire. And if your eye causes you to sin, gouge it out and throw it away. It is better for you to enter life with one eye than to have two eyes and be thrown into the fire of hell.</p><cite>Matt. 18:8-9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>If your hand or your foot causes you to stumble, cut it off and cast it from you. It is better for you to enter into life maimed or crippled, rather than having two hands or two feet to be cast into the eternal fire. If your eye causes you to stumble, pluck it out and cast it from you. It is better for you to enter into life with one eye, rather than having two eyes to be cast into the Gehenna of fire.</p><cite>Matt. 18:8-9 · WEB</cite></blockquote>
-<h3>(4) Matt. 18:10, - the importance of understanding the ministry of angels to the children of God</h3>
+<h3>(4) Matt. 18:10, - the importance of understanding the service of angels to the children of God</h3>
 <blockquote data-v="kjv"><p>Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven.</p><cite>Matt. 18:10 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>See that you do not look down on any of these little ones. For I tell you that their angels in heaven always see the face of My Father in heaven.</p><cite>Matt. 18:10 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>See that you don’t despise one of these little ones, for I tell you that in heaven their angels always see the face of my Father who is in heaven.</p><cite>Matt. 18:10 · WEB</cite></blockquote>
-<h2 id="s3">3) Matt. 18:11-14, - affirmation of the Word of God, the Covenant, Christ</h2>
+<h2 id="s3">3) Matt. 18:11-14, - affirmation of the Word of God, the Covenant, of Christ</h2>
 <blockquote data-v="kjv"><p>For the Son of man is come to save that which was lost. How think ye? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray? And if so be that he find it, verily I say unto you, he rejoiceth more of that sheep, than of the ninety and nine which went not astray. Even so it is not the will of your Father which is in heaven, that one of these little ones should perish.</p><cite>Matt. 18:11-14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>What do you think? If a man has a hundred sheep and one of them goes astray, will he not leave the ninety-nine on the hills and go out to search for the one that is lost? And if he finds it, truly I tell you, he rejoices more over that one sheep than over the ninety-nine that did not go astray. In the same way, your Father in heaven is not willing that any of these little ones should perish.</p><cite>Matt. 18:11-14 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For the Son of Man came to save that which was lost. “What do you think? If a man has one hundred sheep, and one of them goes astray, doesn’t he leave the ninety-nine, go to the mountains, and seek that which has gone astray? If he finds it, most certainly I tell you, he rejoices over it more than over the ninety-nine which have not gone astray. Even so it is not the will of your Father who is in heaven that one of these little ones should perish.</p><cite>Matt. 18:11-14 · WEB</cite></blockquote>
@@ -317,11 +319,11 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For the Son of man is come to save that which was lost.</p><cite>Matt. 18:11 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For the Son of man is come to save that which was lost.</p><cite>Matt. 18:11 · KJV</cite></blockquote>
 <blockquote data-v="web"><p>For the Son of Man came to save that which was lost.</p><cite>Matt. 18:11 · WEB</cite></blockquote>
-<h3>(2) Matt. 18:12-14, - the importance of preserving the Word of God, the Covenant, Christ</h3>
+<h3>(2) Matt. 18:12-14, - the importance of preserving the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>How think ye? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray? And if so be that he find it, verily I say unto you, he rejoiceth more of that sheep, than of the ninety and nine which went not astray. Even so it is not the will of your Father which is in heaven, that one of these little ones should perish.</p><cite>Matt. 18:12-14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>What do you think? If a man has a hundred sheep and one of them goes astray, will he not leave the ninety-nine on the hills and go out to search for the one that is lost? And if he finds it, truly I tell you, he rejoices more over that one sheep than over the ninety-nine that did not go astray. In the same way, your Father in heaven is not willing that any of these little ones should perish.</p><cite>Matt. 18:12-14 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“What do you think? If a man has one hundred sheep, and one of them goes astray, doesn’t he leave the ninety-nine, go to the mountains, and seek that which has gone astray? If he finds it, most certainly I tell you, he rejoices over it more than over the ninety-nine which have not gone astray. Even so it is not the will of your Father who is in heaven that one of these little ones should perish.</p><cite>Matt. 18:12-14 · WEB</cite></blockquote>
-<h4>(a) The possibility of getting lost is the effect of Satan, temptation</h4>
+<h4>(a) The possibility of getting lost is an act of Satan, temptation</h4>
 <h4>(b) If they find it, they can get completely lost. (Understanding the possibility of falling away from Christ)</h4>
 <h4>(c) Understanding the will of God is the salvation of man. 1 Tim. 2:4</h4>
 <blockquote data-v="kjv"><p>Who will have all men to be saved, and to come unto the knowledge of the truth.</p><cite>1 Tim. 2:4 · KJV</cite></blockquote>
@@ -331,7 +333,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother. But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established. And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican. Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven. Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven. For where two or three are gathered together in my name, there am I in the midst of them.</p><cite>Matt. 18:15-20 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>If your brother sins against you, go and confront him privately. If he listens to you, you have won your brother over. But if he will not listen, take one or two others along, so that ‘every matter may be established by the testimony of two or three witnesses.’ If he refuses to listen to them, tell it to the church. And if he refuses to listen even to the church, regard him as you would a pagan or a tax collector. Truly I tell you, whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven. Again, I tell you truly that if two of you on the earth agree about anything you ask for, it will be done for you by My Father in heaven. For where two or three gather together in My name, there am I with them.”</p><cite>Matt. 18:15-20 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“If your brother sins against you, go, show him his fault between you and him alone. If he listens to you, you have gained back your brother. But if he doesn’t listen, take one or two more with you, that at the mouth of two or three witnesses every word may be established. If he refuses to listen to them, tell it to the assembly. If he refuses to hear the assembly also, let him be to you as a Gentile or a tax collector. Most certainly I tell you, whatever things you bind on earth will have been bound in heaven, and whatever things you release on earth will have been released in heaven. Again, assuredly I tell you, that if two of you will agree on earth concerning anything that they will ask, it will be done for them by my Father who is in heaven. For where two or three are gathered together in my name, there I am in the middle of them.”</p><cite>Matt. 18:15-20 · WEB</cite></blockquote>
-<h3>(1) Matt. 18:15-17, - God's understanding of the order of chastisement of the people of God</h3>
+<h3>(1) Matt. 18:15-17, - understanding God's order of chastisement of God's people</h3>
 <blockquote data-v="kjv"><p>Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother. But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established. And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.</p><cite>Matt. 18:15-17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>If your brother sins against you, go and confront him privately. If he listens to you, you have won your brother over. But if he will not listen, take one or two others along, so that ‘every matter may be established by the testimony of two or three witnesses.’ If he refuses to listen to them, tell it to the church. And if he refuses to listen even to the church, regard him as you would a pagan or a tax collector.</p><cite>Matt. 18:15-17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“If your brother sins against you, go, show him his fault between you and him alone. If he listens to you, you have gained back your brother. But if he doesn’t listen, take one or two more with you, that at the mouth of two or three witnesses every word may be established. If he refuses to listen to them, tell it to the assembly. If he refuses to hear the assembly also, let him be to you as a Gentile or a tax collector.</p><cite>Matt. 18:15-17 · WEB</cite></blockquote>
@@ -339,7 +341,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h4>(b) Stage 2 – exposure in front of two or three witnesses</h4>
 <h4>(c) Stage 3 – a remark in front of the entire local Church</h4>
 <h4>(d) Stage 4 – exclusion from membership of the local Church</h4>
-<h3>(2) Matt. 18:18, - understanding the authority of the Church of God. (Bind or allow – to voice the spiritual state of a person)</h3>
+<h3>(2) Matt. 18:18, - understanding the authority of the Church of God. (Bind or allow – to voice a person's spiritual state)</h3>
 <blockquote data-v="kjv"><p>Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.</p><cite>Matt. 18:18 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Truly I tell you, whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.</p><cite>Matt. 18:18 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Most certainly I tell you, whatever things you bind on earth will have been bound in heaven, and whatever things you release on earth will have been released in heaven.</p><cite>Matt. 18:18 · WEB</cite></blockquote>
@@ -382,7 +384,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>That is how My heavenly Father will treat each of you unless you forgive your brother from your heart.”</p><cite>Matt. 18:35 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>So my heavenly Father will also do to you, if you don’t each forgive your brother from your hearts for his misdeeds.”</p><cite>Matt. 18:35 · WEB</cite></blockquote>
 <h2 id="s6">Conclusion:</h2>
-<h3>(1) The importance of knowing and communicating the Word of God, the Covenant, Christ, World Evangelism, understanding and fulfilling the purpose of God's people</h3>
+<h3>(1) The importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, understanding and fulfilling the destiny of God's people</h3>
 <h3>(2) The importance of understanding Satan's actions</h3>
 <h3>(3) The Importance of Understanding the Church of God</h3>
 <h3>(4) The importance of the right life and actions of God's people</h3>

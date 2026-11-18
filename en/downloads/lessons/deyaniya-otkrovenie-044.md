@@ -1,7 +1,7 @@
 # Rom. 9: God's sovereignty, man's destiny
 ## 9.1) Rom. 9, - Understanding God's sovereignty and salvation
 
-### (1) Rom. 9:1-5, - understanding the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization, preparation for the coming of Christ – Canaan, the Law, the Tabernacle, the Temple) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
+### (1) Rom. 9:1-5, - understanding the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ – Canaan, the Law, the Tabernacle, the Temple) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
 > I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost, That I have great heaviness and continual sorrow in my heart. For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh: Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises; Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen. (Rom. 9:1-5, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -58,7 +58,7 @@
 
 #### (a) Ishmael – rejection of the Word of God, the Covenant, Christ, a choice confirmed by human life
 
-#### (b) Isaac - acceptance of the Word of God, the Covenant, Christ, a choice confirmed by human life
+#### (b) Isaac – acceptance of the Word of God, the Covenant, Christ, a choice confirmed by human life
 
 ### (2) Rom. 9:10-14, - God's sovereignty, the election of Jacob
 > And not only this; but when Rebecca also had conceived by one, even by our father Isaac; (For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;) It was said unto her, The elder shall serve the younger. As it is written, Jacob have I loved, but Esau have I hated. What shall we say then? Is there unrighteousness with God? God forbid. (Rom. 9:10-14, KJV)
@@ -66,14 +66,14 @@
 #### (a) Esau – rejection of the Word of God, the Covenant, Christ, a choice confirmed by human life. Heb. 12:16-17
 > Lest there be any fornicator, or profane person, as Esau, who for one morsel of meat sold his birthright. For ye know how that afterward, when he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears. (Heb. 12:16-17, KJV)
 
-#### (b) Jacob - acceptance of the Word of God, the Covenant, Christ, a choice confirmed by human life
+#### (b) James – acceptance of the Word of God, the Covenant, Christ, a choice confirmed by human life
 
 #### (c) The importance of understanding God's absolute justice
 
 ### (3) Rom. 9:15-16, - God's sovereignty, God's justice
 > For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion. So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy. (Rom. 9:15-16, KJV)
 
-#### (a) The meaning of God's love and mercy for man – the Word of God, the Covenant, Christ
+#### (a) The meaning of God's love and mercy for man is the Word of God, the Covenant, Christ
 
 #### (b) The importance of understanding God's foreknowledge and the operation of God's grace. Rev. 3:20,John 6:44, 65; 15:5
 > Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me. (Rev. 3:20, KJV)
@@ -96,20 +96,20 @@
 
 #### (b) The importance of understanding God's foreknowledge and man's fate (Man's hardening is Satan's permission to act, man's choice)
 
-#### (c) The importance of understanding a person's responsibility in following God and their destiny. Acts 13:43,Heb. 2:1
+#### (c) The importance of understanding human responsibility in relation to following God and one's destiny. Acts 13:43,Heb. 2:1
 > Now when the congregation was broken up, many of the Jews and religious proselytes followed Paul and Barnabas: who, speaking to them, persuaded them to continue in the grace of God. (Acts 13:43, KJV)
 > Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip. (Heb. 2:1, KJV)
 
-#### (d) Affirmation of God's foreknowledge, election, and destiny – a choice confirmed by a person's life (a person's responsibility)
+#### (d) Affirmation of God's foreknowledge, election, and destiny – a choice confirmed by human life (human responsibility)
 
 ### (6) Rom. 9:21-24, - The importance of understanding God's sovereignty
 > Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour? What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction: And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory, Even us, whom he hath called, not of the Jews only, but also of the Gentiles? (Rom. 9:21-24, KJV)
 
 #### (a) All people are God's creations, the same clay
 
-#### (b) Vessels of high use – acceptance of the Word of God, the Covenant, Christ, the children of God, God's foreknowledge and election (Abraham, Paul)
+#### (b) Vessels of high use – acceptance of the Word of God, the Covenant, Christ, children of God, God's foreknowledge and election (Abraham, Paul)
 
-#### (c) Vessels of low use – rejection of the Word of God, the Covenant, Christ, the children of the devil, God's foreknowledge and election (Pharaoh, Judas). Ps. 73
+#### (c) Vessels of low use – rejection of the Word of God, the Covenant, Christ, children of the devil, God's foreknowledge and election (Pharaoh, Judas). Ps. 73
 
 #### (d) All people and all creation serve God regardless of their desire – an understanding of God's Dominion and Omnipotence
 
@@ -119,13 +119,13 @@
 
 #### (f) The importance of understanding the purpose and meaning of human life – choosing eternal life (with whom? and where?)
 
-#### (g) The importance of understanding the unchanging judgment of God, understanding the inevitable fulfillment of the Word of God Rom. 6:23
+#### (g) The importance of understanding the unchanging judgment of God, understanding the inevitable fulfillment of God's Word Rom. 6:23
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
 ## 3) Rom. 9:24-33, - the importance of understanding God's people
 > Even us, whom he hath called, not of the Jews only, but also of the Gentiles? As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved. And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God. Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved: For he will finish the work, and cut it short in righteousness: because a short work will the Lord make upon the earth. And as Esaias said before, Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha. What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:24-33, KJV)
 
-### (1) Rom. 9:24-29 (27), - God's understanding of the people (Jews and Gentiles)
+### (1) Rom. 9:24-29 (27), - understanding of God's people (Jews and Gentiles)
 > Even us, whom he hath called, not of the Jews only, but also of the Gentiles? As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved. And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God. Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved: For he will finish the work, and cut it short in righteousness: because a short work will the Lord make upon the earth. And as Esaias said before, Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha. (Rom. 9:24-29, KJV)
 
 #### (a) Understanding the concealment of God's people in the Gentiles
@@ -142,15 +142,15 @@
 
 #### (a) Acceptance of the Word of God, the Covenant, Christ, the Good News – Gentiles
 
-#### (b) Non–acceptance of the Word of God, the Covenant, Christ, the works of the Law - Jews
+#### (b) Rejection of the Word of God, the Covenant, Christ, and the work of the law – Jews
 
 #### (c) The importance of accepting the true righteousness of God – accepting the Sacrifice and Work of Christ, righteousness by faith
 
-#### (d) Understanding the work of Satan – resisting the Word of God, the Covenant, Christ
+#### (d) Understanding the work of Satan – resisting the Word of God, the Covenant, and Christ
 
 ## Conclusion:
 
-### (1) The importance of understanding and fulfilling the destiny of the people of God (Knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ)
+### (1) The importance of understanding and fulfilling the destiny of God's people (Knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ)
 
 ### (2) The importance of understanding the true descendants of Abraham
 

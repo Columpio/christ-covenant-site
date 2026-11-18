@@ -1,5 +1,5 @@
 # Rom. 5
-## 4.1) Rom. 5:1-11, - the importance of understanding the Word of God, the Covenant, Christ
+## 4.1) Rom. 5:1-11, - the importance of understanding the Word of God, the Covenant, and Christ
 > Therefore being justified by faith, we have peace with God through our Lord Jesus Christ: By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God. And not only so, but we glory in tribulations also: knowing that tribulation worketh patience; And patience, experience; and experience, hope: And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us. For when we were yet without strength, in due time Christ died for the ungodly. For scarcely for a righteous man will one die: yet peradventure for a good man some would even dare to die. But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us. Much more then, being now justified by his blood, we shall be saved from wrath through him. For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life. And not only so, but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement. (Rom. 5:1-11, KJV)
 
 ### (1) Rom. 5:1, - acceptance of the Word of God, the Covenant, Christ, justification and peace with God through the Sacrifice of Christ (the essence and meaning of the Gospel) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
@@ -34,7 +34,7 @@
 ### (2) Rom. 5:2, - the importance of accepting the Sacrifice and Asceticism of Christ
 > By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God. (Rom. 5:2, KJV)
 
-#### (a) Legitimately receiving the grace of God through the gift of God's faith (correctly understanding and fulfilling the Word of God, the Covenant, Christ)
+#### (a) Legitimately receiving God's grace through the gift of God's faith (correctly understanding and fulfilling God's Word, Covenant, and Christ)
 
 #### (b) The importance of confidence in salvation and the life of the next age, the importance of understanding the resurrection of the dead, the 2nd coming of Christ
 
@@ -44,7 +44,7 @@
 #### (a) Rom. 5:3, - the importance of tribulation and patience, the importance of understanding a person's right to choose and motives
 > And not only so, but we glory in tribulations also: knowing that tribulation worketh patience; (Rom. 5:3, KJV)
 
-#### (b) The importance of understanding the cause of dire circumstances – violating the Word of God or for the glory of God
+#### (b) The importance of understanding the cause of difficult circumstances – a violation of the Word of God or for the glory of God
 
 #### (c) Rom. 5:4, - the importance of the experience of faith, understanding God's sovereignty and control over the life of the human race. (Joseph, Job, Christ). Rom. 8:28
 > And patience, experience; and experience, hope: (Rom. 5:4, KJV)
@@ -93,7 +93,7 @@
 > (For until the law sin was in the world: but sin is not imputed when there is no law. (Rom. 5:13, KJV)
 > For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law unto themselves: Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while accusing or else excusing one another;) (Rom. 2:14-15, KJV)
 
-#### (b) Rom. 5:14, - the importance of understanding the essence of true sin, life outside the Word of God, the Covenant, Christ, the legitimate effect of death as a consequence of sin before the appearance of a documented Law. (The legitimate effect of the law of sin and death in human life)Rom. 8:2
+#### (b) Rom. 5:14, - the importance of understanding the essence of true sin, life outside the Word of God, the Covenant, Christ, the legitimate effect of death as a consequence of sin before the appearance of a documented Law. (The legitimate operation of the law of sin and death in human life)Rom. 8:2
 > Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam’s transgression, who is the figure of him that was to come. (Rom. 5:14, KJV)
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
 
@@ -114,7 +114,7 @@
 #### (c) Rom. 5:15, - "death for many" and "gift by grace for many" (God's sovereignty, foreknowledge and election of man)
 > But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many. (Rom. 5:15, KJV)
 
-#### (d) Rom. 5:16, is the consequence of every crime, the Word of God, the gift of grace (the Sacrifice of Christ) for many crimes. (Understanding God's foreknowledge, man's right to choose – acceptance or non-acceptance of the Word of God, the Covenant, Christ, God's forgiveness and justification)
+#### (d) Rom. 5:16, - the consequence of every crime is the sentence of the Word of God, the gift of grace (Sacrifice of Christ) for many crimes. (Understanding God's foreknowledge, a person's right to choose – acceptance or non-acceptance of God's Word, Covenant, Christ, God's forgiveness and justification)
 > And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences unto justification. (Rom. 5:16, KJV)
 
 ### (4) Rom. 5:17-19, - the importance of understanding the Sacrifice of Christ
@@ -126,7 +126,7 @@
 #### (b) Rom. 5:18, - the special importance of understanding the universality of sin and the redemption of mankind through the Sacrifice of Jesus Christ. (The consequence of Adam's sin and the consequence of Christ's Sacrifice for all, atonement is the basis for the forgiveness of sins, but not salvation)
 > Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life. (Rom. 5:18, KJV)
 
-#### (c) Rom. 5:19, - the importance of understanding God's foreknowledge of man, the importance of understanding the partial effect of salvation. (Adam – many sinners, Christ – many righteous, the importance of understanding a person's right to choose – acceptance or non-acceptance of the Word of God, the Covenant, Christ, partial action of salvation)
+#### (c) Rom. 5:19, - the importance of understanding God's foreknowledge of man, the importance of understanding the partial effect of salvation. (Adam is many sinners, Christ is many righteous, the importance of understanding a person's right to choose is acceptance or non–acceptance of the Word of God, the Covenant, Christ, the partial effect of salvation)
 > For as by one man’s disobedience many were made sinners, so by the obedience of one shall many be made righteous. (Rom. 5:19, KJV)
 
 ### (5) Rom. 5:20-21, - the importance of understanding Law and Grace
@@ -138,7 +138,7 @@
 > For all have sinned, and come short of the glory of God; (Rom. 3:23, KJV)
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
-#### (b) Rom. 5:20, - the documentary appearance of the Law, the abundant effect of God's grace, the fulfillment of the destiny of God's people, the proclamation of the Word of God, the Covenant, Christ, faith and trust in Christ Rom. 3:2,Gal. 3:24
+#### (b) Rom. 5:20, - the documentary appearance of the Law, the abundant action of God's grace, the fulfillment of the destiny of God's people, the proclamation of the Word of God, the Covenant, Christ, faith and trust in Christ Rom. 3:2,Gal. 3:24
 > Moreover the law entered, that the offence might abound. But where sin abounded, grace did much more abound: (Rom. 5:20, KJV)
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith. (Gal. 3:24, KJV)

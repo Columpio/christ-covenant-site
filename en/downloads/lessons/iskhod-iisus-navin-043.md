@@ -1,5 +1,5 @@
 # Josh. 22–24
-## 5.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, the coming of Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 5.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, the coming of Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:17, KJV)
@@ -12,7 +12,7 @@
 
 ### (1) The importance of conquering Canaan and expelling the Canaanite tribes (God's sovereignty and Plan for the Future)
 
-#### (a) Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization, preparation for the coming of Christ
+#### (a) Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ
 
 #### (b) The special importance of the separation of God's people from the world is the wrong faith, idols, worldview, and value system. (The importance of purity of teaching and fulfillment of purpose)
 
@@ -42,13 +42,13 @@
 
 ### (3) Circumcision is the complete restoration of the people of God, the problem of the unbelief of the ancestors (rejection of the Covenant and destiny)
 
-### (4) Easter, Unleavened Bread – the importance of affirming the Word of God, the Covenant, Christ
+### (4) Easter, Unleavened Bread – the importance of affirming the Word of God, the Covenant, and Christ
 
-### (5) Walking in the Covenant and Predestination – a personal encounter and deep communion with Jesus Christ
+### (5) Walking in the Covenant and destiny – a personal encounter and deep communion with Jesus Christ
 
-### (6) The Covenant of Jericho (the Breaking of the Strongholds of Satan) – the importance of walking in the Covenant of God (the Ark of the Covenant) and destiny (The Trumpet Call)
+### (6) The Covenant of Jericho (the Breaking of Satan's strongholds) – the importance of walking in God's Covenant (the Ark of the Covenant) and destiny (The Trumpet Call)
 
-### (7) The salvation of Rahab and her family is God's non–acceptance, God's love and mercy for every human being, the importance of accepting the Word of God (the family of the Covenant, Christ)
+### (7) The salvation of Rahab and her family is God's non–acceptance, God's love and mercy for every human being, the importance of accepting the Word of God (the kind of Covenant, Christ)
 
 ### (8) The importance of understanding the curse – acting from the outside, the importance of living a good life, the importance of fulfilling a destiny
 
@@ -56,13 +56,13 @@
 
 ### (10) The Hivites, the inhabitants of Gibeon – acceptance of the Word of God, salvation, God's protection, love and mercy
 
-### (11) The complete conquest of Canaan in seven years – the undoubted fulfillment of the Word of God, the Covenant, Christ (God's plan, the importance of Christ's coming, the redemption of mankind)
+### (11) The complete conquest of Canaan in seven years is the undoubted fulfillment of God's Word, Covenant, and Christ (God's plan, the importance of Christ's coming, and the redemption of mankind)
 
-## 3) Josh. 22, - the importance of the Word of God, the Covenant, Christ for the people of God
+## 3) Josh. 22, - the importance of the Word of God, the Covenant, and Christ for the people of God
 
-### (1) The Importance of a single Divine Service is the Sacrifice of Christ
+### (1) The importance of a single Divine Service – The Sacrifice of Christ
 
-### (2) The Importance of the one Altar (the Cross) – The Sacrifice of Christ
+### (2) The Importance of the single Altar (the Cross) – The Sacrifice of Christ
 
 ### (3) The importance of descendants (the altar of Unity) – The Cross, the Sacrifice of Christ, the only reason for the unity of God's people throughout the earth
 
@@ -76,16 +76,16 @@
 
 ## 4) Josh. 23-24, - statement of the Word of God, the Covenant, Christ, the testament of Joshua (importance of descendants)
 
-### (1) Josh. 23:1-16, - the importance of knowing, preserving and transmitting the Word of God, the Covenant, Christ, the importance of man's being with God, the importance of understanding sin to death
+### (1) Josh. 23:1-16, - the importance of knowing, preserving, and transmitting the Word of God, the Covenant, and Christ, the importance of man's being with God, and the importance of understanding sin to death
 > And it came to pass a long time after that the LORD had given rest unto Israel from all their enemies round about, that Joshua waxed old and stricken in age. And Joshua called for all Israel, and for their elders, and for their heads, and for their judges, and for their officers, and said unto them, I am old and stricken in age: And ye have seen all that the LORD your God hath done unto all these nations because of you; for the LORD your God is he that hath fought for you. Behold, I have divided unto you by lot these nations that remain, to be an inheritance for your tribes, from Jordan, with all the nations that I have cut off, even unto the great sea westward. And the LORD your God, he shall expel them from before you, and drive them from out of your sight; and ye shall possess their land, as the LORD your God hath promised unto you. Be ye therefore very courageous to keep and to do all that is written in the book of the law of Moses, that ye turn not aside therefrom to the right hand or to the left; That ye come not among these nations, these that remain among you; neither make mention of the name of their gods, nor cause to swear by them, neither serve them, nor bow yourselves unto them: But cleave unto the LORD your God, as ye have done unto this day. For the LORD hath driven out from before you great nations and strong: but as for you, no man hath been able to stand before you unto this day. One man of you shall chase a thousand: for the LORD your God, he it is that fighteth for you, as he hath promised you. Take good heed therefore unto yourselves, that ye love the LORD your God. Else if ye do in any wise go back, and cleave unto the remnant of these nations, even these that remain among you, and shall make marriages with them, and go in unto them, and they to you: Know for a certainty that the LORD your God will no more drive out any of these nations from before you; but they shall be snares and traps unto you, and scourges in your sides, and thorns in your eyes, until ye perish from off this good land which the LORD your God hath given you. And, behold, this day I am going the way of all the earth: and ye know in all your hearts and in all your souls, that not one thing hath failed of all the good things which the LORD your God spake concerning you; all are come to pass unto you, and not one thing hath failed thereof. Therefore it shall come to pass, that as all good things are come upon you, which the LORD your God promised you; so shall the LORD bring upon you all evil things, until he have destroyed you from off this good land which the LORD your God hath given you. When ye have transgressed the covenant of the LORD your God, which he commanded you, and have gone and served other gods, and bowed yourselves to them; then shall the anger of the LORD be kindled against you, and ye shall perish quickly from off the good land which he hath given unto you. (Josh. 23:1-16, KJV)
 
-### (2) Josh. 24:1-2, - rejection of the Word of God, the Covenant, Christ, sin to death. (Terah is the father of Abraham, the family of the Covenant, Christ)
+### (2) Josh. 24:1-2, - rejection of the Word of God, the Covenant, Christ, sin to death. (Terah is the father of Abraham, the family of the Covenant, of Christ)
 > And Joshua gathered all the tribes of Israel to Shechem, and called for the elders of Israel, and for their heads, and for their judges, and for their officers; and they presented themselves before God. And Joshua said unto all the people, Thus saith the LORD God of Israel, Your fathers dwelt on the other side of the flood in old time, even Terah, the father of Abraham, and the father of Nachor: and they served other gods. (Josh. 24:1-2, KJV)
 
 ### (3) Josh. 24:3, - God's faithfulness, love and mercy, the calling of Abraham and the introduction to destiny (the blessing of Canaan)
 > And I took your father Abraham from the other side of the flood, and led him throughout all the land of Canaan, and multiplied his seed, and gave him Isaac. (Josh. 24:3, KJV)
 
-### (4) Josh. 24:4-13, - God's faithfulness, fulfillment of the Word of God, the Covenant, Christ
+### (4) Josh. 24:4-13, - God's faithfulness, fulfillment of God's Word, Covenant, Christ
 > And I gave unto Isaac Jacob and Esau: and I gave unto Esau mount Seir, to possess it; but Jacob and his children went down into Egypt. I sent Moses also and Aaron, and I plagued Egypt, according to that which I did among them: and afterward I brought you out. And I brought your fathers out of Egypt: and ye came unto the sea; and the Egyptians pursued after your fathers with chariots and horsemen unto the Red sea. And when they cried unto the LORD, he put darkness between you and the Egyptians, and brought the sea upon them, and covered them; and your eyes have seen what I have done in Egypt: and ye dwelt in the wilderness a long season. And I brought you into the land of the Amorites, which dwelt on the other side Jordan; and they fought with you: and I gave them into your hand, that ye might possess their land; and I destroyed them from before you. Then Balak the son of Zippor, king of Moab, arose and warred against Israel, and sent and called Balaam the son of Beor to curse you: But I would not hearken unto Balaam; therefore he blessed you still: so I delivered you out of his hand. And ye went over Jordan, and came unto Jericho: and the men of Jericho fought against you, the Amorites, and the Perizzites, and the Canaanites, and the Hittites, and the Girgashites, the Hivites, and the Jebusites; and I delivered them into your hand. And I sent the hornet before you, which drave them out from before you, even the two kings of the Amorites; but not with thy sword, nor with thy bow. And I have given you a land for which ye did not labour, and cities which ye built not, and ye dwell in them; of the vineyards and oliveyards which ye planted not do ye eat. (Josh. 24:4-13, KJV)
 
 ### (5) Josh. 24:14-28, - understanding the human right to choose
@@ -102,8 +102,8 @@
 
 ## Conclusion:
 
-### (1) The importance of understanding the purpose of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+### (1) The importance of understanding the purpose of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 
 ### (2) The importance of accepting the Word of God, the Covenant, and Christ for man
 
-### (3) The Importance of Walking in the Word of God, the Covenant, Christ, Destiny
+### (3) The importance of Walking in God's Word, Covenant, Christ, Purpose

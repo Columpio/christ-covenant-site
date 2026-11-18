@@ -3,7 +3,7 @@
 ## 1) Matt. 24:45-51, - about faithful and unfaithful slaves
 > Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season? Blessed is that servant, whom his lord when he cometh shall find so doing. Verily I say unto you, That he shall make him ruler over all his goods. But and if that evil servant shall say in his heart, My lord delayeth his coming; And shall begin to smite his fellowservants, and to eat and drink with the drunken; The lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of, And shall cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth. (Matt. 24:45-51, KJV)
 
-### (1) Matt. 24:45, - purpose of the people God, transmission of the Word of God Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+### (1) Matt. 24:45, - the purpose of God's people, the transmission of the Word of God Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season? (Matt. 24:45, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -27,7 +27,7 @@
 ### (1) Matt. 25:1, - lamps, human life
 > Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom. (Matt. 25:1, KJV)
 
-### (2) Matt. 25:1-5, - oil in lamps, the firstfruits of the Word of God Rom. 1:18-20
+### (2) Matt. 25:1-5, - oil in lamps, the beginnings of the Word of God Rom. 1:18-20
 > Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom. And five of them were wise, and five were foolish. They that were foolish took their lamps, and took no oil with them: But the wise took oil in their vessels with their lamps. While the bridegroom tarried, they all slumbered and slept. (Matt. 25:1-5, KJV)
 > For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness; Because that which may be known of God is manifest in them; for God hath shewed it unto them. For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse: (Rom. 1:18-20, KJV)
 
@@ -44,13 +44,13 @@
 ### (1) Matt. 25:14-15, - talent, gift of God, ability to serve
 > For the kingdom of heaven is as a man travelling into a far country, who called his own servants, and delivered unto them his goods. And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey. (Matt. 25:14-15, KJV)
 
-### (2) Matt. 25:16-23, - God's service, increase, fruits, God's reward
+### (2) Matt. 25:16-23, - service to God, increase, fruits, God's reward
 > Then he that had received the five talents went and traded with the same, and made them other five talents. And likewise he that had received two, he also gained other two. But he that had received one went and digged in the earth, and hid his lord’s money. After a long time the lord of those servants cometh, and reckoneth with them. And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more. His lord said unto him, Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord. He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them. His lord said unto him, Well done, good and faithful servant; thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord. (Matt. 25:16-23, KJV)
 
-### (3) Matt. 25:24-30, - rejection of the Word of God, the Covenant, Christ, no fruit, destruction
+### (3) Matt. 25:24-30, - rejection of the Word of God, the Covenant, Christ, no fruit, death
 > Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed: And I was afraid, and went and hid thy talent in the earth: lo, there thou hast that is thine. His lord answered and said unto him, Thou wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed: Thou oughtest therefore to have put my money to the exchangers, and then at my coming I should have received mine own with usury. Take therefore the talent from him, and give it unto him which hath ten talents. For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath. And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth. (Matt. 25:24-30, KJV)
 
-### (4) Matt. 25:26-29, - the importance of transmitting the Word of God, the Covenant, Christ, World Evangelization
+### (4) Matt. 25:26-29, - the importance of transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization
 > His lord answered and said unto him, Thou wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed: Thou oughtest therefore to have put my money to the exchangers, and then at my coming I should have received mine own with usury. Take therefore the talent from him, and give it unto him which hath ten talents. For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath. (Matt. 25:26-29, KJV)
 
 ## 4) Matt. 25:31-46, - about the last trial
@@ -66,20 +66,20 @@
 ### (3) Matt. 25:33, - goats, children of the devil, rejection of the Word of God, the Covenant, Christ
 > And he shall set the sheep on his right hand, but the goats on the left. (Matt. 25:33, KJV)
 
-### (4) Matt. 25:34, - salvation, God foreknowledge
+### (4) Matt. 25:34, - salvation, God's foreknowledge
 > Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world: (Matt. 25:34, KJV)
 
-### (5) Matt. 25:35-40, - transmission of the Word of God, the Covenant, Christ, the children of God, eternal life. (True food and drink, true home, true clothing, true medicine and liberation – spiritual and physical needs of a person)
+### (5) Matt. 25:35-40, - transmission of the Word of God, the Covenant, Christ, children of God, eternal life. (True food and drink, true home, true clothing, true medicine and liberation – spiritual and physical human needs)
 > For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in: Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me. Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink? When saw we thee a stranger, and took thee in? or naked, and clothed thee? Or when saw we thee sick, or in prison, and came unto thee? And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me. (Matt. 25:35-40, KJV)
 
-#### (e) Matt. 25:41-46, - non-acceptance of the Word of God, the Covenant, Christ, the children of the devil, death
+#### (e) Matt. 25:41-46, - rejection of the Word of God, the Covenant, Christ, children of the devil, death
 > Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels: For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink: I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not. Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee? Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not to one of the least of these, ye did it not to me. And these shall go away into everlasting punishment: but the righteous into life eternal. (Matt. 25:41-46, KJV)
 
 ## Conclusion:
 
 ### (1) The importance of understanding the future for a person
 
-### (2) Trying to find an answer outside of the Word of God is deception, ruin
+### (2) Trying to find an answer outside of the Word of God is deceit, ruin
 
 ### (3) True understanding of the Future – The Word of God, teaching
 

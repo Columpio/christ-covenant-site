@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -261,8 +263,8 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For Adam was first formed, then Eve.</p><cite>1 Tim. 2:13 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For Adam was formed first, and then Eve.</p><cite>1 Tim. 2:13 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For Adam was formed first, then Eve.</p><cite>1 Tim. 2:13 · WEB</cite></blockquote>
-<h4>(b) Adam's emphasis on the Word of God, the Covenant, Christ, the ministry of God (The importance of understanding priorities - God, Spouse, Children)</h4>
-<h4>(c) The meaning of life and marriage (intended) - service, glorification of God (Knowledge and transmission of the Word of God, the Testament, Christ, disciples, World Evangelization)</h4>
+<h4>(b) Adam's focus on the Word of God, the Covenant, Christ, serving God (The importance of understanding priorities - God, spouse, children)</h4>
+<h4>(c) The meaning of life and marriage (intended) – service, glorification of God (Knowledge and transmission of the Word of God, the Covenant, Christ, disciples, Worldwide Evangelization)</h4>
 <h4>(d) Children – the multiplication of God's children, eternal life with God, the eternal continuation of God's creation</h4>
 <h3>(2) Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), - loss of value. human</h3>
 <blockquote data-v="kjv"><p>Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.</p><cite>Gen. 3:1-7 · KJV</cite></blockquote>
@@ -277,9 +279,9 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:</p><cite>Eph. 2:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>in which you used to walk when you conformed to the ways of this world and of the ruler of the power of the air, the spirit who is now at work in the sons of disobedience.</p><cite>Eph. 2:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the children of disobedience.</p><cite>Eph. 2:2 · WEB</cite></blockquote>
-<h4>(a) The importance of actually confirming a person's choice. (The right to choose, "exam" - transmission of the Word of God, the Covenant, Christ, descendants)</h4>
+<h4>(a) The importance of actually confirming a person's choice. (The right to choose, "examination" - transmission of the Word of God, the Covenant, Christ, descendants)</h4>
 <h4>(b) Rejection of the Word of God, the Covenant, Christ (sin) – the collapse of life, marriage, family</h4>
-<h4>(c) Loss of purpose - there is no knowledge and transmission of the Word of God, the Covenant, Christ (Loss of the true meaning and purpose of life – emptiness and suffering)</h4>
+<h4>(c) Loss of purpose. – there is no knowledge and transmission of the Word of God, the Covenant, Christ (Loss of the true meaning and purpose of life – emptiness and suffering)</h4>
 <h4>(d) Spouse, children and Mammon – as the purpose and meaning of life (idols)</h4>
 <h4>(e) The unresolved spiritual problem is the eternal suffering of the spouses and their offspring, the obligatory personal execution of the sentence of the Word of God</h4>
 <h3>(3) Gen. 3:15, 21, - The Word of God, the Covenant, Christ,, the restoration of man</h3>
@@ -289,16 +291,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.</p><cite>Gen. 3:21 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And the LORD God made garments of skin for Adam and his wife, and He clothed them.</p><cite>Gen. 3:21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh God made garments of animal skins for Adam and for his wife, and clothed them.</p><cite>Gen. 3:21 · WEB</cite></blockquote>
-<h4>(a) Adam's focus on the Word of God, the Covenant, Christ, the ministry of God (The importance of understanding priorities - God, Spouse, Children)</h4>
-<h4>(b) Return to the true meaning of life and marriage – the service of God (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization)</h4>
-<h4>(c) Children – transmission of the Word of God, the Covenant, Christ in time, the coming of Christ, eternal life with God, the eternal continuation of God's creation</h4>
+<h4>(a) Adam's focus on the Word of God, the Covenant, Christ, serving God (The importance of understanding priorities - God, spouse, children)</h4>
+<h4>(b) Return to the true meaning of life and marriage – service to God (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)</h4>
+<h4>(c) Children – the transmission of the Word of God, the Covenant, of Christ in time, the coming of Christ, eternal life with God, the eternal continuation of God's creation</h4>
 <h2 id="s2">2) The importance of proper marriage</h2>
 <h3>(1) The right to choose, the decision of a person. 1 Cor. 9:5</h3>
 <blockquote data-v="kjv"><p>Have we not power to lead about a sister, a wife, as well as other apostles, and as the brethren of the Lord, and Cephas?</p><cite>1 Cor. 9:5 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Have we no right to take along a believing wife, as do the other apostles and the Lord’s brothers and Cephas?</p><cite>1 Cor. 9:5 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Have we no right to take along a wife who is a believer, even as the rest of the apostles, and the brothers of the Lord, and Cephas?</p><cite>1 Cor. 9:5 · WEB</cite></blockquote>
-<h3>(2) The importance of understanding the purpose of marriage, the motives of a person (Fulfillment of purpose – knowledge, transmission of the Word of God, Worldwide Evangelization)</h3>
-<h3>(3) The importance of accepting the Word of God, the Covenant, Christ, God, faith man 2 Cor. 6:14</h3>
+<h3>(2) The importance of understanding the purpose of marriage, human motives (Fulfillment of purpose – knowledge, transmission of the Word of God, Worldwide Evangelization)</h3>
+<h3>(3) The importance of Accepting the Word of God, the Covenant, Christ, God's Human Faith 2 Cor. 6:14</h3>
 <blockquote data-v="kjv"><p>Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?</p><cite>2 Cor. 6:14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Do not be unequally yoked with unbelievers. For what partnership can righteousness have with wickedness? Or what fellowship does light have with darkness?</p><cite>2 Cor. 6:14 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Don’t be unequally yoked with unbelievers, for what fellowship do righteousness and iniquity have? Or what fellowship does light have with darkness?</p><cite>2 Cor. 6:14 · WEB</cite></blockquote>
@@ -306,12 +308,12 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel.</p><cite>1 Tim. 5:8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>If anyone does not provide for his own, and especially his own household, he has denied the faith and is worse than an unbeliever.</p><cite>1 Tim. 5:8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But if anyone doesn’t provide for his own, and especially his own household, he has denied the faith and is worse than an unbeliever.</p><cite>1 Tim. 5:8 · WEB</cite></blockquote>
-<h3>(5) The legality of marriage – the laws of the country (God sovereignty). Rom. 13</h3>
-<h3>(6) Understanding God's Sovereignty – the collapse of Marriage beyond God's Will Ps. 127:1</h3>
+<h3>(5) The legality of marriage – the laws of the land (God's sovereignty). Rom. 13</h3>
+<h3>(6) Understanding God's Sovereignty – the Collapse of Marriage beyond God's Will Ps. 127:1</h3>
 <blockquote data-v="kjv"><p>A Song of degrees for Solomon. Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain.</p><cite>Ps. 127:1 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>A song of ascents. Of Solomon. Unless the LORD builds the house, its builders labor in vain; unless the LORD protects the city, its watchmen stand guard in vain.</p><cite>Ps. 127:1 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>A Song of Ascents. By Solomon. Unless Yahweh builds the house, they who build it labor in vain. Unless Yahweh watches over the city, the watchman guards it in vain.</p><cite>Ps. 127:1 · WEB</cite></blockquote>
-<h3>(7) The blessing of Ts. – affirmation of the will of God Matt. 26:42; 6:33</h3>
+<h3>(7) The blessing of Ts. – affirmation of God's will Matt. 26:42; 6:33</h3>
 <blockquote data-v="kjv"><p>He went away again the second time, and prayed, saying, O my Father, if this cup may not pass away from me, except I drink it, thy will be done.</p><cite>Matt. 26:42 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>A second time He went away and prayed, “My Father, if this cup cannot pass unless I drink it, may Your will be done.”</p><cite>Matt. 26:42 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Again, a second time he went away and prayed, saying, “My Father, if this cup can’t pass away from me unless I drink it, your desire be done.”</p><cite>Matt. 26:42 · WEB</cite></blockquote>
@@ -327,12 +329,12 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And I say unto you, Whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery: and whoso marrieth her which is put away doth commit adultery.</p><cite>Matt. 19:9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Now I tell you that whoever divorces his wife, except for sexual immorality, and marries another woman commits adultery.”</p><cite>Matt. 19:9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I tell you that whoever divorces his wife, except for sexual immorality, and marries another, commits adultery; and he who marries her when she is divorced commits adultery.”</p><cite>Matt. 19:9 · WEB</cite></blockquote>
-<h3>(3) Spiritual Incompatibility – rejection of the Word of God, the Covenant, Christ</h3>
-<h4>(a) A direct desire for the dissolution of marriage. 1 Cor. 7:10-17. (Non–believers, believers - the right to choose, the responsibility of a person)</h4>
+<h3>(3) Spiritual incompatibility – rejection of the Word of God, the Covenant, and Christ</h3>
+<h4>(a) A direct desire to end the marriage. 1 Cor. 7:10-17. (Non–believers, believers - the right to choose, human responsibility)</h4>
 <blockquote data-v="kjv"><p>And unto the married I command, yet not I, but the Lord, Let not the wife depart from her husband: But and if she depart, let her remain unmarried, or be reconciled to her husband: and let not the husband put away his wife. But to the rest speak I, not the Lord: If any brother hath a wife that believeth not, and she be pleased to dwell with him, let him not put her away. And the woman which hath an husband that believeth not, and if he be pleased to dwell with her, let her not leave him. For the unbelieving husband is sanctified by the wife, and the unbelieving wife is sanctified by the husband: else were your children unclean; but now are they holy. But if the unbelieving depart, let him depart. A brother or a sister is not under bondage in such cases: but God hath called us to peace. For what knowest thou, O wife, whether thou shalt save thy husband? or how knowest thou, O man, whether thou shalt save thy wife? But as God hath distributed to every man, as the Lord hath called every one, so let him walk. And so ordain I in all churches.</p><cite>1 Cor. 7:10-17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>To the married I give this command (not I, but the Lord): A wife must not separate from her husband. But if she does, she must remain unmarried or else be reconciled to her husband. And a husband must not divorce his wife. To the rest I say this (I, not the Lord): If a brother has an unbelieving wife and she is willing to live with him, he must not divorce her. And if a woman has an unbelieving husband and he is willing to live with her, she must not divorce him. For the unbelieving husband is sanctified through his believing wife, and the unbelieving wife is sanctified through her believing husband. Otherwise your children would be unclean, but now they are holy. But if the unbeliever leaves, let him go. The believing brother or sister is not bound in such cases. God has called you to live in peace. How do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife? Regardless, each one should lead the life that the Lord has assigned to him and to which God has called him. This is what I prescribe in all the churches.</p><cite>1 Cor. 7:10-17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But to the married I command—not I, but the Lord—that the wife not leave her husband (but if she departs, let her remain unmarried, or else be reconciled to her husband), and that the husband not leave his wife. But to the rest I—not the Lord—say, if any brother has an unbelieving wife, and she is content to live with him, let him not leave her. The woman who has an unbelieving husband, and he is content to live with her, let her not leave her husband. For the unbelieving husband is sanctified in the wife, and the unbelieving wife is sanctified in the husband. Otherwise your children would be unclean, but now they are holy. Yet if the unbeliever departs, let there be separation. The brother or the sister is not under bondage in such cases, but God has called us in peace. For how do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife? Only, as the Lord has distributed to each man, as God has called each, so let him walk. So I command in all the assemblies.</p><cite>1 Cor. 7:10-17 · WEB</cite></blockquote>
-<h4>(b) Inclination to another faith or false teachings, witchcraft and direct service to Satan Deut. 13:6-11,Neh. 13:23-29</h4>
+<h4>(b) Inciting to another faith or false teachings, witchcraft and direct service to Satan Deut. 13:6-11,Neh. 13:23-29</h4>
 <blockquote data-v="kjv"><p>If thy brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, which is as thine own soul, entice thee secretly, saying, Let us go and serve other gods, which thou hast not known, thou, nor thy fathers; Namely, of the gods of the people which are round about you, nigh unto thee, or far off from thee, from the one end of the earth even unto the other end of the earth; Thou shalt not consent unto him, nor hearken unto him; neither shall thine eye pity him, neither shalt thou spare, neither shalt thou conceal him: But thou shalt surely kill him; thine hand shall be first upon him to put him to death, and afterwards the hand of all the people. And thou shalt stone him with stones, that he die; because he hath sought to thrust thee away from the LORD thy God, which brought thee out of the land of Egypt, from the house of bondage. And all Israel shall hear, and fear, and shall do no more any such wickedness as this is among you.</p><cite>Deut. 13:6-11 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>If your very own brother, or your son or daughter, or the wife you embrace, or your closest friend secretly entices you, saying, “Let us go and worship other gods” (which neither you nor your fathers have known, the gods of the peoples around you, whether near or far, whether from one end of the earth or the other), you must not yield to him or listen to him. Show him no pity, and do not spare him or shield him. Instead, you must surely kill him. Your hand must be the first against him to put him to death, and then the hands of all the people. Stone him to death for trying to turn you away from the LORD your God, who brought you out of the land of Egypt, out of the house of slavery. Then all Israel will hear and be afraid, and will never again do such a wicked thing among you.</p><cite>Deut. 13:6-11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>If your brother, the son of your mother, or your son, or your daughter, or the wife of your bosom, or your friend who is as your own soul, entices you secretly, saying, “Let’s go and serve other gods”—which you have not known, you, nor your fathers; of the gods of the peoples who are around you, near to you, or far off from you, from the one end of the earth even to the other end of the earth— you shall not consent to him nor listen to him; neither shall your eye pity him, neither shall you spare, neither shall you conceal him; but you shall surely kill him. Your hand shall be first on him to put him to death, and afterwards the hands of all the people. You shall stone him to death with stones, because he has sought to draw you away from Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage. All Israel shall hear, and fear, and shall not do any more wickedness like this among you.</p><cite>Deut. 13:6-11 · WEB</cite></blockquote>
@@ -344,7 +346,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>If anyone does not provide for his own, and especially his own household, he has denied the faith and is worse than an unbeliever.</p><cite>1 Tim. 5:8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But if anyone doesn’t provide for his own, and especially his own household, he has denied the faith and is worse than an unbeliever.</p><cite>1 Tim. 5:8 · WEB</cite></blockquote>
 <h2 id="s4">4) Illegal dissolution of marriage</h2>
-<h3>(1) The initiator is the direct desire for the dissolution of the marriage. (Non–believers, believers - the right to choose, the responsibility of a person)</h3>
+<h3>(1) The initiator is the direct desire for the dissolution of the marriage. (Non–believers, believers - the right to choose, human responsibility)</h3>
 <h4>(a) Abandonment in illness</h4>
 <h4>(b) The inability to have children is God's sovereignty</h4>
 <h4>(c) Physical, material benefits</h4>
@@ -354,7 +356,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h3>(2) Financial problems (see lesson "finance")</h3>
 <h3>(3) Health problems – rules. lifestyle (sports, nutrition)</h3>
 <h3>(4) Intimate issues – the importance of communication, learning</h3>
-<h3>(5) Childlessness – prayer, doctors (understanding the Goddess)</h3>
+<h3>(5) Childlessness – prayer, doctors (understanding God's sovereignty)</h3>
 <h4>(a) The fulfillment of a person's destiny does not depend on children. (The absence of a spouse or children among God's people is God's actual affirmation in the Holy Scriptures)</h4>
 <h4>(b) The absence of a human family and the possibility of continuing the human race in eternal life with God – the importance of the family of God, God's sovereignty. Matt. 22:23-32</h4>
 <blockquote data-v="kjv"><p>The same day came to him the Sadducees, which say that there is no resurrection, and asked him, Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother. Now there were with us seven brethren: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother: Likewise the second also, and the third, unto the seventh. And last of all the woman died also. Therefore in the resurrection whose wife shall she be of the seven? for they all had her. Jesus answered and said unto them, Ye do err, not knowing the scriptures, nor the power of God. For in the resurrection they neither marry, nor are given in marriage, but are as the angels of God in heaven. But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living.</p><cite>Matt. 22:23-32 · KJV</cite></blockquote>
@@ -368,9 +370,9 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>“If anyone comes to Me and does not hate his father and mother and wife and children and brothers and sisters—yes, even his own life—he cannot be My disciple.</p><cite>Luke 14:26 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“If anyone comes to me, and doesn’t disregard his own father, mother, wife, children, brothers, and sisters, yes, and his own life also, he can’t be my disciple.</p><cite>Luke 14:26 · WEB</cite></blockquote>
 <h2 id="s6">Conclusion:</h2>
-<h3>(1) God's acceptance of the dissolution of marriage is a person's right to choose</h3>
+<h3>(1) God's permission for the dissolution of marriage is a person's right to choose</h3>
 <h3>(2) Understanding the lawful and unlawful dissolution of marriage</h3>
-<h3>(3) Illegal dissolution of marriage – confession, seeking God's will</h3>
+<h3>(3) Illegal dissolution of marriage – confession, seeking the will of God</h3>
 <h3>(4) Understanding the seriousness of God's attitude towards marriage. (A letter of divorce is God's protection of a woman's rights and a woman's protection from her husband's false accusations, the possibility of remarrying and starting a family). Matt. 19:3-9,Deut. 24:1-2</h3>
 <blockquote data-v="kjv"><p>The Pharisees also came unto him, tempting him, and saying unto him, Is it lawful for a man to put away his wife for every cause? And he answered and said unto them, Have ye not read, that he which made them at the beginning made them male and female, And said, For this cause shall a man leave father and mother, and shall cleave to his wife: and they twain shall be one flesh? Wherefore they are no more twain, but one flesh. What therefore God hath joined together, let not man put asunder. They say unto him, Why did Moses then command to give a writing of divorcement, and to put her away? He saith unto them, Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so. And I say unto you, Whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery: and whoso marrieth her which is put away doth commit adultery.</p><cite>Matt. 19:3-9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Then some Pharisees came and tested Him by asking, “Is it lawful for a man to divorce his wife for any reason?” Jesus answered, “Have you not read that from the beginning the Creator ‘made them male and female,’ and said, ‘For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh’? So they are no longer two, but one flesh. Therefore what God has joined together, let man not separate.” “Why then,” they asked, “did Moses order a man to give his wife a certificate of divorce and send her away?” Jesus replied, “Moses permitted you to divorce your wives because of your hardness of heart. But it was not this way from the beginning. Now I tell you that whoever divorces his wife, except for sexual immorality, and marries another woman commits adultery.”</p><cite>Matt. 19:3-9 · BSB</cite></blockquote>
@@ -378,7 +380,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>When a man hath taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he hath found some uncleanness in her: then let him write her a bill of divorcement, and give it in her hand, and send her out of his house. And when she is departed out of his house, she may go and be another man’s wife.</p><cite>Deut. 24:1-2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>If a man marries a woman, but she becomes displeasing to him because he finds some indecency in her, he may write her a certificate of divorce, hand it to her, and send her away from his house. If, after leaving his house, she goes and becomes another man’s wife,</p><cite>Deut. 24:1-2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>When a man takes a wife and marries her, then it shall be, if she finds no favor in his eyes because he has found some unseemly thing in her, that he shall write her a certificate of divorce, put it in her hand, and send her out of his house. When she has departed out of his house, she may go and be another man’s wife.</p><cite>Deut. 24:1-2 · WEB</cite></blockquote>
-<h3>(5) God's Understanding of Sovereignty – the Collapse or Preservation of marriage</h3>
+<h3>(5) Understanding God's Sovereignty – the Collapse or Preservation of Marriage</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
 </body>

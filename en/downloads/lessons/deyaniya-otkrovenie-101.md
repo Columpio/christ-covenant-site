@@ -1,7 +1,7 @@
 # 1 Tim. 3–4
-## 2.1) 1 Tim. 3, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 2.1) 1 Tim. 3, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
-### (1) 1 Tim. 3:1-15, - the importance of the ministers and God's order of the Church of Christ, the importance of knowing and transmitting the Word of God, the Covenant, Christ Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
+### (1) 1 Tim. 3:1-15, - the importance of the ministers and God's order of the Church of Christ, the importance of knowing and transmitting the Word of God, the Covenant, of Christ Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
 > This is a true saying, If a man desire the office of a bishop, he desireth a good work. A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach; Not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous; One that ruleth well his own house, having his children in subjection with all gravity; (For if a man know not how to rule his own house, how shall he take care of the church of God?) Not a novice, lest being lifted up with pride he fall into the condemnation of the devil. Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil. Likewise must the deacons be grave, not doubletongued, not given to much wine, not greedy of filthy lucre; Holding the mystery of the faith in a pure conscience. And let these also first be proved; then let them use the office of a deacon, being found blameless. Even so must their wives be grave, not slanderers, sober, faithful in all things. Let the deacons be the husbands of one wife, ruling their children and their own houses well. For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus. These things write I unto thee, hoping to come unto thee shortly: But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth. (1 Tim. 3:1-15, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -26,7 +26,7 @@
 
 #### (d) Christ (V.Z. – High Priest according to the order of Milchesedek) – The Head, Creator and Guardian of the Church of God
 
-#### (e) 1 Tim. 3:14-15, - the importance of the Church of the Living God, the pillar and affirmation of truth, the importance of proclaiming the Word of God, the Covenant, Christ
+#### (e) 1 Tim. 3:14-15, - the importance of the Church of the Living God, the pillar and affirmation of truth, the importance of proclaiming the Word of God, the Covenant, and Christ
 > These things write I unto thee, hoping to come unto thee shortly: But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth. (1 Tim. 3:14-15, KJV)
 
 #### (f) The importance of sanctification – service to God and people, the possibility of fulfilling the destiny of God's people
@@ -38,9 +38,9 @@
 
 #### (b) Justified Himself in the Spirit – the fulfillment of the Word of God, the salvation of man
 
-#### (c) He showed Himself to the Angels – the confirmation and fulfillment of the Father's will, the crushing of Satan and his authority, the promise of the 2nd coming
+#### (c) He showed Himself to the Angels – the confirmation and fulfillment of the Father's will, the crushing of Satan and his power, the promise of the 2nd coming
 
-#### (d) Preached among the nations – the uniqueness of Christ for the salvation of the human race, an understanding of the will of God and the actions of the Holy Spirit
+#### (d) Preached among the nations – the uniqueness of Christ for the salvation of the human race, an understanding of the will of God and the action of the Holy Spirit
 
 #### (e) Accepted by faith in the world – the effect of God's grace, the importance of accepting the Word of God, the Covenant, and Christ for the salvation of every human being
 
@@ -49,16 +49,16 @@
 ### (3) Jas. 1:26-27, - a true life of piety
 > If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion is vain. Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world. (Jas. 1:26-27, KJV)
 
-#### (a) Acceptance and knowledge of the Word of God, the Covenant, Christ, the mystery of Godliness. (Understanding Who is Christ? The purpose of His visit?)
+#### (a) Acceptance and knowledge of the Word of God, the Covenant, Christ, the mystery of piety. (Understanding Who is Christ? The purpose of His visit?)
 
 #### (b) The transmission of the Word of God, the Covenant, Christ, the importance of proclaiming the right words, the importance of curbing language. (Spiritual – the Word of God, the Covenant, Christ, spiritual – the right thoughts, physical – the right words for every person)
 
 #### (c) A person's desire to live according to the will and standards of God, (a different ideology and worldview), the importance of keeping a person undefiled from the world (sanctification)
 
 #### (d) Helping one's neighbor – the spiritual, mental, and physical needs of every person (especially widows and orphans)
-- Piety is a person's life that is right and pleasing to God. (Knowledge and transmission of the Word of God, the Covenant, Christ – sanctification – helping one's neighbor, especially the helpless)
+- Piety is a person's life that is right and pleasing to God. (Knowledge and transmission of the Word of God, the Covenant, and Christ – sanctification – helping one's neighbor, especially the helpless)
 
-## 2) 1 Tim. 4, - the importance of understanding the Word of God, the Covenant, Christ
+## 2) 1 Tim. 4, - the importance of understanding the Word of God, the Covenant, and Christ
 
 ### (1) 1 Tim. 4:1-5, - the action of Satan, false teachings (prohibition of marriage and the use of food for salvation), apostasy from faith, mixed gospel (destruction)
 > Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils; Speaking lies in hypocrisy; having their conscience seared with a hot iron; Forbidding to marry, and commanding to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth. For every creature of God is good, and nothing to be refused, if it be received with thanksgiving: For it is sanctified by the word of God and prayer. (1 Tim. 4:1-5, KJV)
@@ -71,7 +71,7 @@
 #### (b) Christ is the Savior of all men, the only way for every man (true piety). 1 Tim. 4:10
 > For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe. (1 Tim. 4:10, KJV)
 
-### (3) 1 Tim. 4:12-16, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, fulfillment of destiny (being a model)
+### (3) 1 Tim. 4:12-16, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, fulfilling the purpose (to be a model)
 > Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity. Till I come, give attendance to reading, to exhortation, to doctrine. Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery. Meditate upon these things; give thyself wholly to them; that thy profiting may appear to all. Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee. (1 Tim. 4:12-16, KJV)
 
 #### (a) The importance of reading, instruction, and teaching (systematics)
@@ -82,11 +82,11 @@
 
 ## Conclusion:
 
-### (1) The importance of knowing and transmitting the Word of God, the Covenant, Christ, the importance of understanding the Church of Christ (mission and minister)
+### (1) The importance of knowing and transmitting the Word of God, the Covenant, and Christ, and the importance of understanding the Church of Christ (mission and minister)
 
 ### (2) The Importance of Understanding the Great Mystery of Piety
 
-### (3) The importance of understanding the work of Satan (false teaching)
+### (3) The importance of understanding Satan's actions (false teachings)
 
 ### (4) The importance of understanding the only way of salvation
 

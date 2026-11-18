@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,16 +233,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>4. The Feast of Trumpets (Rosh Hashanah), the Day of Atonement (Yom Kippur), the Feast of Tabernacles (Sukkot). (First, ninth and fifteenth day of the seventh month)</h1>
-<h2 id="s1">1) The importance of the Covenant, Christ in human life. (A Covenant is a Contract initiated by God)</h2>
+<h2 id="s1">1) The importance of the Covenant, of Christ in human life. (A Covenant is a Contract initiated by God)</h2>
 <h3>(1) The General Covenant of Salvation is God's conditions for any person to stay with God, Emmanuel</h3>
 <h3>(2) Personal Covenant of Purpose - a promise from God or man to a person</h3>
 <h2 id="s2">2) Understanding the Common Covenants of Salvation in the history of mankind</h2>
@@ -329,7 +331,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And the LORD spake unto Moses, saying, Speak unto the children of Israel, and say unto them, Concerning the feasts of the LORD, which ye shall proclaim to be holy convocations, even these are my feasts. Six days shall work be done: but the seventh day is the sabbath of rest, an holy convocation; ye shall do no work therein: it is the sabbath of the LORD in all your dwellings. These are the feasts of the LORD, even holy convocations, which ye shall proclaim in their seasons.</p><cite>Lev. 23:1-4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Then the LORD said to Moses, “Speak to the Israelites and say to them, ‘These are My appointed feasts, the feasts of the LORD that you are to proclaim as sacred assemblies. For six days work may be done, but the seventh day is a Sabbath of complete rest, a day of sacred assembly. You must not do any work; wherever you live, it is a Sabbath to the LORD. These are the LORD’s appointed feasts, the sacred assemblies you are to proclaim at their appointed times.</p><cite>Lev. 23:1-4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh spoke to Moses, saying, “Speak to the children of Israel, and tell them, ‘The set feasts of Yahweh, which you shall proclaim to be holy convocations, even these are my set feasts. “‘Six days shall work be done, but on the seventh day is a Sabbath of solemn rest, a holy convocation; you shall do no kind of work. It is a Sabbath to Yahweh in all your dwellings. “‘These are the set feasts of Yahweh, even holy convocations, which you shall proclaim in their appointed season.</p><cite>Lev. 23:1-4 · WEB</cite></blockquote>
-<h4>(a) The importance of knowing and transmitting the Word of God, the Covenant, Christ, the importance of fulfilling the destiny of God's people, the importance of fulfilling God's will. 1 Tim. 2:4</h4>
+<h4>(a) The importance of knowing and transmitting the Word of God, the Covenant, and Christ, the importance of fulfilling the destiny of God's people, and the importance of fulfilling God's will. 1 Tim. 2:4</h4>
 <blockquote data-v="kjv"><p>Who will have all men to be saved, and to come unto the knowledge of the truth.</p><cite>1 Tim. 2:4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>who wants everyone to be saved and to come to the knowledge of the truth.</p><cite>1 Tim. 2:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>who desires all people to be saved and come to full knowledge of the truth.</p><cite>1 Tim. 2:4 · WEB</cite></blockquote>
@@ -351,7 +353,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And almost all things are by the law purged with blood; and without shedding of blood is no remission.</p><cite>Heb. 9:22 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>According to the law, in fact, nearly everything must be purified with blood, and without the shedding of blood there is no forgiveness.</p><cite>Heb. 9:22 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>According to the law, nearly everything is cleansed with blood, and apart from shedding of blood there is no remission.</p><cite>Heb. 9:22 · WEB</cite></blockquote>
-<h4>(b) Consistent fulfillment of the Word of God, the Covenant, Christ, the understanding of salvation Gen. 3:15, 21, Matt. 16:16, John 19:30</h4>
+<h4>(b) The constant fulfillment of the Word of God, the Covenant, Christ, the understanding of salvation Gen. 3:15, 21,Matt. 16:16,John 19:30</h4>
 <blockquote data-v="kjv"><p>And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.</p><cite>Gen. 3:15 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And I will put enmity between you and the woman, and between your seed and her seed. He will crush your head, and you will strike his heel.”</p><cite>Gen. 3:15 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I will put hostility between you and the woman, and between your offspring and her offspring. He will bruise your head, and you will bruise his heel.”</p><cite>Gen. 3:15 · WEB</cite></blockquote>
@@ -391,7 +393,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Also in the day of the firstfruits, when ye bring a new meat offering unto the LORD, after your weeks be out, ye shall have an holy convocation; ye shall do no servile work:</p><cite>Num. 28:26 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>On the day of firstfruits, when you present an offering of new grain to the LORD during the Feast of Weeks, you are to hold a sacred assembly; you must not do any regular work.</p><cite>Num. 28:26 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“‘Also in the day of the first fruits, when you offer a new meal offering to Yahweh in your feast of weeks, you shall have a holy convocation. You shall do no regular work;</p><cite>Num. 28:26 · WEB</cite></blockquote>
-<h4>(a) Pentecost N.Z. – the birth of the Church of Jesus Christ, the Baptism of the Holy Spirit, the action of N.Z. (Receiving power from God – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization, preparation for the Second Coming of Christ) Matt. 16:18,Acts 2:47; 20:28, - Acts 1:8; 2:1-11,Matt. 28:19-20</h4>
+<h4>(a) Pentecost N.Z. – the birth of the Church of Jesus Christ, the Baptism of the Holy Spirit, the action of N.Z. (Receiving power from God – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation of the Second Coming of Christ) Matt. 16:18,Acts 2:47; 20:28, - Acts 1:8; 2:1-11,Matt. 28:19-20</h4>
 <blockquote data-v="kjv"><p>And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.</p><cite>Matt. 16:18 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And I tell you that you are Peter, and on this rock I will build My church, and the gates of Hades will not prevail against it.</p><cite>Matt. 16:18 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I also tell you that you are Peter, and on this rock I will build my assembly, and the gates of Hades will not prevail against it.</p><cite>Matt. 16:18 · WEB</cite></blockquote>
@@ -436,7 +438,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:</p><cite>1 Thess. 4:16 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For the Lord Himself will descend from heaven with a loud command, with the voice of an archangel, and with the trumpet of God, and the dead in Christ will be the first to rise.</p><cite>1 Thess. 4:16 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For the Lord himself will descend from heaven with a shout, with the voice of the archangel and with God’s trumpet. The dead in Christ will rise first,</p><cite>1 Thess. 4:16 · WEB</cite></blockquote>
-<h3>(5) Lev. 23:26-32, is the Day of Purification (Yom Kippur). (The Day of the Cleansing of the Holy of Holies is the entry and sprinkling of blood into the Holy of Holies, proclaiming the forgiveness and purification of God's people)</h3>
+<h3>(5) Lev. 23:26-32, is the Day of Purification (Yom Kippur). (The Day of the Purification of V.Z. is the entry and sprinkling of blood into the Holy of Holies, the announcement of the forgiveness and purification of God's people)</h3>
 <blockquote data-v="kjv"><p>And the LORD spake unto Moses, saying, Also on the tenth day of this seventh month there shall be a day of atonement: it shall be an holy convocation unto you; and ye shall afflict your souls, and offer an offering made by fire unto the LORD. And ye shall do no work in that same day: for it is a day of atonement, to make an atonement for you before the LORD your God. For whatsoever soul it be that shall not be afflicted in that same day, he shall be cut off from among his people. And whatsoever soul it be that doeth any work in that same day, the same soul will I destroy from among his people. Ye shall do no manner of work: it shall be a statute for ever throughout your generations in all your dwellings. It shall be unto you a sabbath of rest, and ye shall afflict your souls: in the ninth day of the month at even, from even unto even, shall ye celebrate your sabbath.</p><cite>Lev. 23:26-32 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Again the LORD said to Moses, “The tenth day of this seventh month is the Day of Atonement. You shall hold a sacred assembly and humble yourselves, and present a food offering to the LORD. On this day you are not to do any work, for it is the Day of Atonement, when atonement is made for you before the LORD your God. If anyone does not humble himself on this day, he must be cut off from his people. I will destroy from among his people anyone who does any work on this day. You are not to do any work at all. This is a permanent statute for the generations to come, wherever you live. It will be a Sabbath of complete rest for you, and you shall humble yourselves. From the evening of the ninth day of the month until the following evening you are to keep your Sabbath.”</p><cite>Lev. 23:26-32 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh spoke to Moses, saying, “However on the tenth day of this seventh month is the day of atonement. It shall be a holy convocation to you. You shall afflict yourselves and you shall offer an offering made by fire to Yahweh. You shall do no kind of work in that same day, for it is a day of atonement, to make atonement for you before Yahweh your God. For whoever it is who shall not deny himself in that same day shall be cut off from his people. Whoever does any kind of work in that same day, I will destroy that person from among his people. You shall do no kind of work: it is a statute forever throughout your generations in all your dwellings. It shall be a Sabbath of solemn rest for you, and you shall deny yourselves. In the ninth day of the month at evening, from evening to evening, you shall keep your Sabbath.”</p><cite>Lev. 23:26-32 · WEB</cite></blockquote>
@@ -450,7 +452,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>There shall be no more thence an infant of days, nor an old man that hath not filled his days: for the child shall die an hundred years old; but the sinner being an hundred years old shall be accursed. And they shall build houses, and inhabit them; and they shall plant vineyards, and eat the fruit of them. They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree are the days of my people, and mine elect shall long enjoy the work of their hands. They shall not labour in vain, nor bring forth for trouble; for they are the seed of the blessed of the LORD, and their offspring with them. And it shall come to pass, that before they call, I will answer; and while they are yet speaking, I will hear. The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust shall be the serpent’s meat. They shall not hurt nor destroy in all my holy mountain, saith the LORD.</p><cite>Isa. 65:20-25 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>No longer will a nursing infant live but a few days, or an old man fail to live out his years. For the youth will die at a hundred years, and he who fails to reach a hundred will be considered accursed. They will build houses and dwell in them; they will plant vineyards and eat their fruit. No longer will they build houses for others to inhabit, nor plant for others to eat. For as is the lifetime of a tree, so will be the days of My people, and My chosen ones will fully enjoy the work of their hands. They will not labor in vain or bear children doomed to disaster; for they will be a people blessed by the LORD—they and their descendants with them. Even before they call, I will answer, and while they are still speaking, I will hear. The wolf and the lamb will feed together, and the lion will eat straw like the ox, but the food of the serpent will be dust. They will neither harm nor destroy on all My holy mountain,” says the LORD.</p><cite>Isa. 65:20-25 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“No more will there be an infant who only lives a few days, nor an old man who has not filled his days; for the child will die one hundred years old, and the sinner being one hundred years old will be accursed. They will build houses and inhabit them. They will plant vineyards and eat their fruit. They will not build and another inhabit. They will not plant and another eat; for the days of my people will be like the days of a tree, and my chosen will long enjoy the work of their hands. They will not labor in vain nor give birth for calamity; for they are the offspring of Yahweh’s blessed and their descendants with them. It will happen that before they call, I will answer; and while they are yet speaking, I will hear. The wolf and the lamb will feed together. The lion will eat straw like the ox. Dust will be the serpent’s food. They will not hurt nor destroy in all my holy mountain,” says Yahweh.</p><cite>Isa. 65:20-25 · WEB</cite></blockquote>
-<h4>(b) Imprisonment of Satan for 1000 years. Rev. 20:1-3</h4>
+<h4>(b) The imprisonment of Satan for 1000 years. Rev. 20:1-3</h4>
 <blockquote data-v="kjv"><p>And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand. And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years, And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season.</p><cite>Rev. 20:1-3 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Then I saw an angel coming down from heaven with the key to the Abyss, holding in his hand a great chain. He seized the dragon, that ancient serpent who is the devil and Satan, and bound him for a thousand years. And he threw him into the Abyss, shut it, and sealed it over him, so that he could not deceive the nations until the thousand years were complete. After that, he must be released for a brief period of time.</p><cite>Rev. 20:1-3 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I saw an angel coming down out of heaven, having the key of the abyss and a great chain in his hand. He seized the dragon, the old serpent, who is the devil and Satan, who deceives the whole inhabited earth, and bound him for a thousand years, and cast him into the abyss, and shut it and sealed it over him, that he should deceive the nations no more until the thousand years were finished. After this, he must be freed for a short time.</p><cite>Rev. 20:1-3 · WEB</cite></blockquote>
@@ -482,7 +484,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>Do you not know that the saints will judge the world? And if you are to judge the world, are you not competent to judge trivial cases?</p><cite>1 Cor. 6:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Don’t you know that the saints will judge the world? And if the world is judged by you, are you unworthy to judge the smallest matters?</p><cite>1 Cor. 6:2 · WEB</cite></blockquote>
 <h2 id="s5">Result:</h2>
-<h3>(1) The reason for the appearance and importance of holidays is God's plan for the salvation of mankind, the unchanging fulfillment of the Word of God, the Covenant, Christ</h3>
+<h3>(1) The reason for the appearance and importance of holidays is God's plan for the salvation of mankind, the unchanging fulfillment of God's Word, Covenant, and Christ</h3>
 <h3>(2) The observance of holidays in N.Z. is a person's choice and decision. (The complete abolition of the ordinances of V.Z. is the effect of N.Z., the complete fulfillment of the feasts of the Lord in Christ Jesus). Col. 2:16</h3>
 <blockquote data-v="kjv"><p>Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days:</p><cite>Col. 2:16 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Therefore let no one judge you by what you eat or drink, or with regard to a feast, a New Moon, or a Sabbath.</p><cite>Col. 2:16 · BSB</cite></blockquote>

@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -264,7 +266,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>that if you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised Him from the dead, you will be saved.</p><cite>Rom. 10:9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>that if you will confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.</p><cite>Rom. 10:9 · WEB</cite></blockquote>
 <ul>
-<li>The purpose of the Church (the people of God) is to preserve, know and transmit the Word of God, the Covenants, Christ, the disciples, World Evangelization, and preparation for the coming of Christ. 1 Tim. 2:4</li>
+<li>The purpose of the Church (the people of God) is to preserve, know and transmit the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, and preparation for the coming of Christ. 1 Tim. 2:4</li>
 </ul>
 <blockquote data-v="kjv"><p>Who will have all men to be saved, and to come unto the knowledge of the truth.</p><cite>1 Tim. 2:4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>who wants everyone to be saved and to come to the knowledge of the truth.</p><cite>1 Tim. 2:4 · BSB</cite></blockquote>
@@ -351,13 +353,13 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And hath put all things under his feet, and gave him to be the head over all things to the church, Which is his body, the fulness of him that filleth all in all.</p><cite>Eph. 1:22-23 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And God put everything under His feet and made Him head over everything for the church, which is His body, the fullness of Him who fills all in all.</p><cite>Eph. 1:22-23 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He put all things in subjection under his feet, and gave him to be head over all things for the assembly, which is his body, the fullness of him who fills all in all.</p><cite>Eph. 1:22-23 · WEB</cite></blockquote>
-<h3>(9) The mission of the Church of Christ (the people of God) is to preserve, know and transmit the Word of God, the Covenants, Christ, the disciples, World Evangelization, and preparation for the Second Coming of Jesus Christ. 1 Tim. 2:4</h3>
+<h3>(9) The mission of the Church of Christ (the people of God) is to preserve, know and transmit the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, and preparation for the Second Coming of Jesus Christ. 1 Tim. 2:4</h3>
 <blockquote data-v="kjv"><p>Who will have all men to be saved, and to come unto the knowledge of the truth.</p><cite>1 Tim. 2:4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>who wants everyone to be saved and to come to the knowledge of the truth.</p><cite>1 Tim. 2:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>who desires all people to be saved and come to full knowledge of the truth.</p><cite>1 Tim. 2:4 · WEB</cite></blockquote>
-<h2 id="s3">3) Understanding Salvation and Baptism Holy Spirit Salvation is the Holy Spirit in man. (Salvation is Emmanuel, God together with man, rebirth, restoration to his original form, lawful liberation from the power of sin, death and hell, Satan)</h2>
+<h2 id="s3">3) Understanding salvation and the Baptism of the Holy Spirit Salvation is the Holy Spirit in man. (Salvation is Emmanuel, God together with man, rebirth, restoration to his original form, lawful liberation from the power of sin, death and hell, Satan)</h2>
 <ul>
-<li>Baptism of the Holy Spirit is the Holy Spirit on a person. (Acceptance of the power of God – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ, fulfillment of the will of God)</li>
+<li>The baptism of the Holy Spirit is the Holy Spirit on a person. (Receiving the power of God – knowing and transmitting the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparing for the coming of Christ, fulfilling God's will)</li>
 </ul>
 <h3>(1) V.Z. – The Holy Spirit in believers (salvation, rebirth), and only on selected people (the power of God - kings, priests, prophets) 1 Pet. 1:10-11,Acts 10:43, - Judg. 11:29,1 Sam. 10:9-10; 16:13, Isa. 61:1,Luke 2:25</h3>
 <blockquote data-v="kjv"><p>Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.</p><cite>1 Pet. 1:10-11 · KJV</cite></blockquote>
@@ -388,7 +390,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>(But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet given; because that Jesus was not yet glorified.)</p><cite>John 7:39 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>He was speaking about the Spirit, whom those who believed in Him were later to receive. For the Spirit had not yet been given, because Jesus had not yet been glorified.</p><cite>John 7:39 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But he said this about the Spirit, which those believing in him were to receive. For the Holy Spirit was not yet given, because Jesus wasn’t yet glorified.</p><cite>John 7:39 · WEB</cite></blockquote>
-<h3>(3) N.Z. – The Holy Spirit in believers (salvation, rebirth), and on all believers (the power of God to preserve, know and transmit the Word of God, the Covenant, Christ – kings, priests, prophets) 1 Cor. 3:16,Acts 2:1-4,1 Pet. 2:9, - Acts 1:8,Rom. 1:16, 1 Cor. 1:18, - 1 Tim. 2:4</h3>
+<h3>(3) N.Z. – The Holy Spirit in believers (salvation, rebirth), and on all believers (the power of God to preserve, know, and transmit the Word of God, the Covenant, and Christ – kings, priests, and prophets) 1 Cor. 3:16,Acts 2:1-4,1 Pet. 2:9, - Acts 1:8,Rom. 1:16, 1 Cor. 1:18, - 1 Tim. 2:4</h3>
 <blockquote data-v="kjv"><p>Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?</p><cite>1 Cor. 3:16 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Do you not know that you yourselves are God’s temple, and that God’s Spirit dwells in you?</p><cite>1 Cor. 3:16 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Don’t you know that you are God’s temple and that God’s Spirit lives in you?</p><cite>1 Cor. 3:16 · WEB</cite></blockquote>
@@ -410,7 +412,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Who will have all men to be saved, and to come unto the knowledge of the truth.</p><cite>1 Tim. 2:4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>who wants everyone to be saved and to come to the knowledge of the truth.</p><cite>1 Tim. 2:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>who desires all people to be saved and come to full knowledge of the truth.</p><cite>1 Tim. 2:4 · WEB</cite></blockquote>
-<h4>(a) The power and gifts of the Holy Spirit for the preservation, knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, preparation for the coming of Christ Eph. 4:11-13,1 Cor. 12:4-11, 28-30</h4>
+<h4>(a) The power and gifts of the Holy Spirit for the preservation, knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ Eph. 4:11-13,1 Cor. 12:4-11, 28-30</h4>
 <blockquote data-v="kjv"><p>And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ: Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:</p><cite>Eph. 4:11-13 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And it was He who gave some to be apostles, some to be prophets, some to be evangelists, and some to be pastors and teachers, to equip the saints for works of ministry and to build up the body of Christ, until we all reach unity in the faith and in the knowledge of the Son of God, as we mature to the full measure of the stature of Christ.</p><cite>Eph. 4:11-13 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He gave some to be apostles; and some, prophets; and some, evangelists; and some, shepherds and teachers; for the perfecting of the saints, to the work of serving, to the building up of the body of Christ, until we all attain to the unity of the faith and of the knowledge of the Son of God, to a full grown man, to the measure of the stature of the fullness of Christ,</p><cite>Eph. 4:11-13 · WEB</cite></blockquote>
@@ -438,11 +440,11 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.</p><cite>Rom. 10:9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>that if you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised Him from the dead, you will be saved.</p><cite>Rom. 10:9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>that if you will confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.</p><cite>Rom. 10:9 · WEB</cite></blockquote>
-<h3>(2) With regard to Baptism, the Holy Spirit is the desire to know and transmit the Word of God, the Covenant, the Christ, the desire to serve God and fulfill His will. (The result is the knowledge and transmission of the Word of God, the Covenants, Christ, the disciples, All. Ev, receiving power from God to fulfill his destiny, the effect of the gifts of power and the gifts of service in the lives of God's children) Luke 11:11-13</h3>
+<h3>(2) With regard to the Baptism of the Holy Spirit, there is a desire to know and impart the Word of God, the Covenant, and Christ, and a desire to serve God and fulfill His will. (The result is the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, all of them, receiving power from God to fulfill his destiny, the effect of the gifts of power and the gifts of service in the lives of God's children) Luke 11:11-13</h3>
 <blockquote data-v="kjv"><p>If a son shall ask bread of any of you that is a father, will he give him a stone? or if he ask a fish, will he for a fish give him a serpent? Or if he shall ask an egg, will he offer him a scorpion? If ye then, being evil, know how to give good gifts unto your children: how much more shall your heavenly Father give the Holy Spirit to them that ask him?</p><cite>Luke 11:11-13 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>What father among you, if his son asks for a fish, will give him a snake instead? Or if he asks for an egg, will give him a scorpion? So if you who are evil know how to give good gifts to your children, how much more will your Father in heaven give the Holy Spirit to those who ask Him!”</p><cite>Luke 11:11-13 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“Which of you fathers, if your son asks for bread, will give him a stone? Or if he asks for a fish, he won’t give him a snake instead of a fish, will he? Or if he asks for an egg, he won’t give him a scorpion, will he? If you then, being evil, know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to those who ask him?”</p><cite>Luke 11:11-13 · WEB</cite></blockquote>
-<h2 id="s5">5) Understanding the meaning of Pentecost – Jesus of Nazareth is the Christ (God in the flesh, the actual execution of the sentence of the Word of God), the birth of the Church of Jesus Christ</h2>
+<h2 id="s5">5) Understanding the meaning of Pentecost – Jesus of Nazareth is the Christ (God in the flesh, the actual fulfillment of the sentence of the Word of God), the birth of the Church of Jesus Christ</h2>
 <h3>(1) Cancellation of the Temple of V.Z., Worship in any place</h3>
 <h3>(2) The abolition of the sacrifices of V.Z., the establishment of Communion</h3>
 <h3>(3) Cancellation of V.Z. circumcision, N.Z. circumcision (Water Treatment) Col. 2:11</h3>
@@ -461,7 +463,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:</p><cite>2 Tim. 3:16 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>All Scripture is God-breathed and is useful for instruction, for conviction, for correction, and for training in righteousness,</p><cite>2 Tim. 3:16 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Every Scripture is God-breathed and profitable for teaching, for reproof, for correction, and for instruction in righteousness,</p><cite>2 Tim. 3:16 · WEB</cite></blockquote>
-<h3>(7) The encouragement of the peoples of the earth is the continuation of Worldwide Evangelization on a large scale, God's love and mercy, the fulfillment of God's will 1 Tim. 2:4, - Matt. 28:19-20,Acts 1:8, - Gen. 9:27</h3>
+<h3>(7) Encouragement of the peoples of the earth – continuation of Worldwide Evangelization on a large scale, God's love and mercy, fulfillment of God's will 1 Tim. 2:4, - Matt. 28:19-20,Acts 1:8, - Gen. 9:27</h3>
 <blockquote data-v="kjv"><p>Who will have all men to be saved, and to come unto the knowledge of the truth.</p><cite>1 Tim. 2:4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>who wants everyone to be saved and to come to the knowledge of the truth.</p><cite>1 Tim. 2:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>who desires all people to be saved and come to full knowledge of the truth.</p><cite>1 Tim. 2:4 · WEB</cite></blockquote>
@@ -474,7 +476,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant.</p><cite>Gen. 9:27 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>May God expand the territory of Japheth; may he dwell in the tents of Shem, and may Canaan be his servant.”</p><cite>Gen. 9:27 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>May God enlarge Japheth. Let him dwell in the tents of Shem. Let Canaan be his servant.”</p><cite>Gen. 9:27 · WEB</cite></blockquote>
-<h3>(8) Denunciation of the Jews, non-acceptance of the Word of God, the Covenant, Christ Isa. 28:7-12, - John 10:33, Rom. 9:30-33, - Acts 2:12-36</h3>
+<h3>(8) Chastisement of the Jews, rejection of the Word of God, the Covenant, Christ Isa. 28:7-12, - John 10:33,Rom. 9:30-33, - Acts 2:12-36</h3>
 <blockquote data-v="kjv"><p>But they also have erred through wine, and through strong drink are out of the way; the priest and the prophet have erred through strong drink, they are swallowed up of wine, they are out of the way through strong drink; they err in vision, they stumble in judgment. For all tables are full of vomit and filthiness, so that there is no place clean. Whom shall he teach knowledge? and whom shall he make to understand doctrine? them that are weaned from the milk, and drawn from the breasts. For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little: For with stammering lips and another tongue will he speak to this people. To whom he said, This is the rest wherewith ye may cause the weary to rest; and this is the refreshing: yet they would not hear.</p><cite>Isa. 28:7-12 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>These also stagger from wine and stumble from strong drink: Priests and prophets reel from strong drink and are befuddled by wine. They stumble because of strong drink, muddled in their visions and stumbling in their judgments. For all their tables are covered with vomit; there is not a place without filth. Whom is He trying to teach? To whom is He explaining His message? To infants just weaned from milk? To babies removed from the breast? For they hear: “Order on order, order on order, line on line, line on line; a little here, a little there.” Indeed, with mocking lips and foreign tongues, He will speak to this people to whom He has said: “This is the place of rest, let the weary rest; this is the place of repose.” But they would not listen.</p><cite>Isa. 28:7-12 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>They also reel with wine, and stagger with strong drink. The priest and the prophet reel with strong drink. They are swallowed up by wine. They stagger with strong drink. They err in vision. They stumble in judgment. For all tables are completely full of filthy vomit and filthiness. Whom will he teach knowledge? To whom will he explain the message? Those who are weaned from the milk, and drawn from the breasts? For it is precept on precept, precept on precept; line on line, line on line; here a little, there a little. But he will speak to this nation with stammering lips and in another language, to whom he said, “This is the resting place. Give rest to the weary,” and “This is the refreshing;” yet they would not hear.</p><cite>Isa. 28:7-12 · WEB</cite></blockquote>
@@ -492,7 +494,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <ul>
 <li>V.Z.)</li>
 </ul>
-<h3>(2) Understanding the purpose of the Church, the power and gifts of the Holy Spirit – the preservation, knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization, preparation for the Second Coming of Jesus Christ</h3>
+<h3>(2) Understanding the purpose of the Church, the power and gifts of the Holy Spirit – the preservation, knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the Second Coming of Jesus Christ</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
 </body>

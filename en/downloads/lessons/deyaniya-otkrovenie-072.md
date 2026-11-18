@@ -1,6 +1,6 @@
 # 20. 1 Cor. 1–16: Review of 1 Corinthians
 
-## 1) The purpose of Ts. – knowledge and transmission of the Word of God, the Covenant, Christ, preparation of the coming of Christ. Disciples, World Evangelization Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
+## 1) The purpose of the Church is the knowledge and transmission of the Word of God, the Testament, Christ, preparation for the coming of Christ. disciples, World Evangelization Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
@@ -46,7 +46,7 @@
 
 ### (1) Divisions and focus on the person (the leaders) rather than on Jesus Christ, misunderstanding of purpose
 
-### (2) The importance of following Jesus Christ, rather than following a person, understanding destiny. – knowledge and transmission of the Word of God, the Covenants, Christ, training and education of disciples, World Evangelization, the 2nd parish of Christ
+### (2) The importance of following Jesus Christ rather than following a human being, of understanding destiny. – knowledge and transmission of the Word of God, the Covenant, Christ, training and education of disciples, Worldwide Evangelization, the 2nd parish of Christ
 
 ## 3) 1 Cor. 5, - the sinful essence of man (incest)
 
@@ -66,7 +66,7 @@
 
 ## 5) 1 Cor. 6-7, - inaccurate understanding of marriage, family (fornication)
 
-### (1) The importance of family and marriage – God is the establishment, preservation of man
+### (1) The importance of family and marriage is God's institution, man's preservation
 
 ### (2) Acceptance of the Word of God, the Covenant, Christ, destiny. – the right marriage
 
@@ -92,9 +92,9 @@
 
 ### (1) The importance of understanding Communion is to affirm participation in the Covenant with God through the Sacrifice and Asceticism of Jesus Christ
 
-### (2) The importance of reasoning about the Body and Blood of Jesus Christ, His Sacrifice – confidence in the forgiveness of all sins and salvation, the affirmation of the all-sufficiency of the Sacrifice of Jesus Christ and the solution of all human problems (the power of sin, death, curses)
+### (2) The importance of reasoning about the Body and Blood of Jesus Christ, His Sacrifice – the certainty of forgiveness of all sins and salvation, the affirmation of the all-sufficiency of the Sacrifice of Jesus Christ and the solution of all human problems (the power of sin, death, curses)
 
-### (3) Misunderstanding and misunderstanding of Communion – there is no salvation and rebirth, the importance of accepting the Word of God, the Covenant, Christ
+### (3) Misunderstanding and misunderstanding of Communion – there is no salvation and no rebirth, the importance of accepting the Word of God, the Covenant, and Christ
 
 ## 9) 1 Cor. 12-14, - inaccurate understanding of the gifts of the Holy Spirit
 
@@ -110,7 +110,7 @@
 
 ### (1) The meaninglessness of Christianity, the sacrifice of Christ without resurrection from the dead – "the victory of sin, death and hell, Satan"
 
-### (2) The statement of the absence of resurrection – the humiliation of Christ and His Sacrifice, the misunderstanding of Creation, the Fall, Restoration, the importance of accepting the Word of God, the Covenant, Christ
+### (2) The statement of the absence of resurrection – the humiliation of Christ and His Sacrifice, the misunderstanding of Creation, the Fall, the Restoration, the importance of accepting the Word of God, the Covenant, Christ
 
 ### (3) The importance of understanding the future, the resurrection from the dead, and the life of the next age is God's will for every human being.
 
@@ -123,4 +123,4 @@
 ### (2) God's view of the Church – the Covenant, Christ, the Good News, there is no loss of the status of God's people (saints). 1 Cor. 1:1-3
 > Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother, Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours: Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ. (1 Cor. 1:1-3, KJV)
 
-### (3) The importance of understanding and fulfilling the destiny of God's people (knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization) is God's method of solving all the problems of the local Churches
+### (3) The importance of understanding and fulfilling the destiny of God's people (knowing and transmitting the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization) is God's method of solving all the problems of the local Churches

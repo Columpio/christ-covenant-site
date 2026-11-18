@@ -1,5 +1,5 @@
 # 1 Pet. 4–5
-## 4.1) 1 Pet. 4:1-6, - the importance of conveying the Word of God, the Covenant, Christ
+## 4.1) 1 Pet. 4:1-6, - the importance of conveying the Word of God, the Covenant, and Christ
 > Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin; That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God. For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries: Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you: Who shall give account to him that is ready to judge the quick and the dead. For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit. (1 Pet. 4:1-6, KJV)
 
 ### (1) 1 Pet. 4:1-2, - the importance of knowledge, transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, fulfillment of the destiny of the people of God. 1 Tim. 2:4
@@ -24,7 +24,7 @@
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-### (2) 1 Pet. 4:3-5, - rejection of the Word of God, the Covenant, Christ, a different ideology and value system, a different way of life, an understanding of God's judgment
+### (2) 1 Pet. 4:3-5, - rejection of the Word of God, the Covenant, Christ, different ideology and value system, different way of life, understanding of God's judgment
 > For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries: Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you: Who shall give account to him that is ready to judge the quick and the dead. (1 Pet. 4:3-5, KJV)
 
 ### (3) 1 Pet. 4:6, - acceptance of the Word of God, the Covenant, Christ, salvation
@@ -35,20 +35,20 @@
 
 > By which also he went and preached unto the spirits in prison; (1 Pet. 3:19, KJV)
 
-#### (b) God's judgment of the flesh is the death of the old, carnal man (spirit and physical).
+#### (b) God's judgment of the flesh is the death of the old, carnal man (spirit and physical)
 
 #### (c) Living according to the Spirit is for God the salvation and rebirth of man
 
 ## 2) 1 Pet. 4:7-11, - understanding the purpose of the Church of God
 > But the end of all things is at hand: be ye therefore sober, and watch unto prayer. And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins. Use hospitality one to another without grudging. As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God. If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen. (1 Pet. 4:7-11, KJV)
 
-### (1) 1 Pet. 4:7, - the importance of constantly abiding in the Word of God
+### (1) 1 Pet. 4:7, - the importance of abiding in the Word of God
 > But the end of all things is at hand: be ye therefore sober, and watch unto prayer. (1 Pet. 4:7, KJV)
 
 ### (2) 1 Pet. 4:8-11, - right relationships, support, covering shortcomings, fulfilling purpose
 > And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins. Use hospitality one to another without grudging. As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God. If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen. (1 Pet. 4:8-11, KJV)
 
-#### (a) The Importance of the love of God – the importance of knowing and communicating the Word of God, the Covenant, Christ, the right relationship
+#### (a) The Importance of the love of God – the importance of knowing and communicating the Word of God, the Covenant, Christ, and the right relationship
 
 #### (b) Serving in the gifts of God – glorifying Christ and God
 
@@ -63,7 +63,7 @@
 ### (2) 1 Pet. 4:17, - correct understanding of the judgment of God
 > For the time is come that judgment must begin at the house of God: and if it first begin at us, what shall the end be of them that obey not the gospel of God? (1 Pet. 4:17, KJV)
 
-#### (a) The acceptance of the Word of God, the Covenant, Christ, the fulfillment of the judgment of God. John 3:18
+#### (a) Acceptance of the Word of God, the Covenant, Christ, and the fulfillment of God's judgment. John 3:18
 > He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God. (John 3:18, KJV)
 
 #### (b) Understanding of God's punishment - execution of God's judgment (thoughts, emotions and actions of God's children), education of God's people (God is the Father). 1 Cor. 11:31-32,Heb. 12:4-13,Ps. 119:39
@@ -76,9 +76,9 @@
 
 #### (a) The righteous are God's foreknowledge of every human being
 
-#### (b) The importance of entering into the purity of the teachings of the Word of God, the Covenant, Christ, God's action and grace (understanding the action of Satan)
+#### (b) The importance of entering into the purity of the teaching of the Word of God, the Covenant, Christ, God's action and grace (understanding the work of Satan)
 
-#### (c) The importance of preserving the purity of the teachings of the Word of God, the Covenant, Christ, God's action and grace (understanding the action of Satan)
+#### (c) The importance of preserving the purity of the teaching of the Word of God, the Covenant, Christ, God's action and grace (understanding the work of Satan)
 
 #### (d) The importance of living the right life and fulfilling one's destiny (the problem of temptations), God's action and grace
 
@@ -86,7 +86,7 @@
 > Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator. (1 Pet. 4:19, KJV)
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 
-## 4) 1 Pet. 5, - knowledge and transmission of the Word of God, the Covenant, Christ (intended)
+## 4) 1 Pet. 5, - knowledge and transmission of the Word of God, the Covenant, and Christ (intended)
 
 ### (1) 1 Pet. 5:1-4, - Understanding pastoral ministry
 > The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed: Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind; Neither as being lords over God’s heritage, but being ensamples to the flock. And when the chief Shepherd shall appear, ye shall receive a crown of glory that fadeth not away. (1 Pet. 5:1-4, KJV)
@@ -97,16 +97,16 @@
 
 #### (c) Understanding God's Reward
 
-### (2) 1 Pet. 5:5-7, - the right relationship among the people of God
+### (2) 1 Pet. 5:5-7, - the right relationship among God's people
 > Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble. Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time: Casting all your care upon him; for he careth for you. (1 Pet. 5:5-7, KJV)
 
 #### (a) A proper understanding of the authority of pastors (teaching, Worship)
 
 #### (b) Understanding equality and brotherhood among God's people
 
-#### (c) Humility before God – full acceptance of God's Word, Covenant, and Xp, acceptance of God's sovereignty and control
+#### (c) Humility before God is the complete acceptance of God's Word, Covenant, Xp, and acceptance of God's sovereignty and control
 
-#### (d) Pride – non-acceptance of God's Word, Covenant, Christ, non-acceptance of God's sovereignty and control
+#### (d) Pride – non-acceptance of the Word of God, the Covenant, Christ, non-acceptance of God's sovereignty and control
 
 #### (e) Humility before God is the help of God's grace, pride is God's resistance and the education of man.
 
@@ -115,13 +115,13 @@
 ### (3) 1 Pet. 5:8-9, - understanding of Satan's actions, false teachings
 > Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world. (1 Pet. 5:8-9, KJV)
 
-#### (a) Consume those who are not his - bringing the children of God back into his power, abandoning the Word of God, the Covenant, Christ (sin unto death)
+#### (a) To devour those who do not belong to him – to bring the children of God back into his power, abandoning the Word of God, the Covenant, Christ (sin to death)
 
 #### (b) Firm faith – knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, understanding and fulfilling the destiny of God's people
 
 #### (c) God's control, protection, and support of God's people
 
-### (4) 1 Pet. 5:10-11, - the importance of conveying the Word of God, the Covenant, Christ
+### (4) 1 Pet. 5:10-11, - the importance of conveying the Word of God, the Covenant, and Christ
 > But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you. To him be glory and dominion for ever and ever. Amen. (1 Pet. 5:10-11, KJV)
 
 #### (a) God is the only source of all grace – universal, calling, saving, teaching, preaching, testing, preserving. (Grace is the undeserved grace of Communion with God)

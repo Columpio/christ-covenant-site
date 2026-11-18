@@ -10,7 +10,7 @@
 
 #### (a) Emmanuel, eternal life
 
-#### (b) Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples
+#### (b) Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples
 
 ### (2) Spiritual success and human work
 
@@ -26,9 +26,9 @@
 
 #### (b) Covering physical needs, work from God
 
-### (4) The reason for a person's spiritual, mental and physical success
+### (4) The reason for a person's spiritual, mental, and physical success
 
-#### (a) God's grace, the knowledge and transmission of the Word of God, the Covenant, Christ, the fulfillment of the destiny of God's people
+#### (a) God's grace, the knowledge and transmission of the Word of God, the Covenant, Christ, and the fulfillment of the destiny of God's people
 
 #### (b) God's method of success is learning
 
@@ -42,13 +42,13 @@
 
 #### (a) The loss of Emmanuel and eternal life with God
 
-#### (b) Loss of knowledge and transmission of the Word of God, the Covenant, Christ is another word
+#### (b) The loss of knowledge and transmission of the Word of God, the Covenant, Christ is another word
 
 ### (2) The mental collapse of man
 
 #### (a) "Beneficial" communication, friendship, family – mammoth
 
-#### (b) Distorted knowledge of oneself, life, and the universe is the work of Satan
+#### (b) Distorted knowledge of oneself, life, and the universe is an act of Satan
 
 #### (c) The absence of perfect peace, joy, and peace
 
@@ -74,7 +74,7 @@
 
 #### (a) Emmanuel, eternal life
 
-#### (b) Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples
+#### (b) Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples
 
 ### (2) Spiritual success and human work
 
@@ -94,9 +94,9 @@
 
 #### (c) The complete perfection of the physical – the resurrection of the dead
 
-### (4) The reason for a person's spiritual, mental and physical success
+### (4) The reason for a person's spiritual, mental, and physical success
 
-#### (a) God is grace, the knowledge and transmission of the Word of God, the Covenant, Christ, the fulfillment of the destiny of God's people
+#### (a) God's grace, the knowledge and transmission of the Word of God, the Covenant, Christ, and the fulfillment of the destiny of God's people
 
 #### (b) God's method of success is learning
 
@@ -125,7 +125,7 @@
 
 ### (3) Christ died for the sins of the whole world – the mechanism of salvation
 
-### (4) The action of the Holy Spirit – the knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the importance of accepting the Sacrifice and Asceticism of Christ for man
+### (4) The action of the Holy Spirit is the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, and the importance of accepting the Sacrifice and Asceticism of Christ for man
 
 ### (5) A successful life is a person's right to choose. Deut. 30:19
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
@@ -134,7 +134,7 @@
 
 ### (1) Understanding and accepting Christ – forgiveness of all sins and salvation, reconciliation with God, Emmanuel and eternal life
 
-### (2) Knowledge and transmission of the Word of God, the Covenant, Christ, the purpose of saving many people, Worldwide Evangelization, preparation for the coming of Christ
+### (2) Knowledge and transmission of the Word of God, the Covenant, and Christ, the purpose of saving many people, Worldwide Evangelization, and preparation for the coming of Christ
 
 ### (3) Understanding God's sovereignty – confidence in God's guidance and victory, understanding the future
 
@@ -150,6 +150,6 @@
 
 ### (2) Spiritual, mental and physical work on earth - service to God and humanity
 
-### (3) The importance of properly understanding success in Life – knowing and communicating the Word of God, the Covenant, Christ, Destiny
+### (3) The importance of properly understanding success in life – knowing and communicating the Word of God, the Covenant, Christ, and purpose
 
 ### (4) The right balance of spiritual, mental and physical is the fullness of every person's successful life.

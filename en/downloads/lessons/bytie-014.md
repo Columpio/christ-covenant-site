@@ -19,7 +19,7 @@
 #### (b) God's judgment is a consequence of sin and evil, God's reaction to sin and evil, the nature and justice of God. John 3:19
 > And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil. (John 3:19, KJV)
 
-### (3) Gen. 3:15, 21,Matt. 16:16,John 19:30 (Matt. 1:21,Heb. 10:14), - the importance of the Word of God, the Covenant, Christ, justice and justice of God, the obligatory fulfillment of the Word of God (either me or Christ instead of me), understanding the solution to the problem of all human sins. Col. 2:13. (The meaning of God's judgment is acceptance or non–acceptance of the Word of God, the Covenant, Christ)
+### (3) Gen. 3:15, 21,Matt. 16:16,John 19:30 (Matt. 1:21,Heb. 10:14), - the importance of the Word of God, the Covenant, Christ, justice and justice of God, the obligatory fulfillment of the Word of God (either me or Christ instead of me), understanding the solution to the problem of all human sins. Col. 2:13. (The meaning of God's judgment is acceptance or non–acceptance of the Word of God, the Covenant, and Christ)
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 > And Simon Peter answered and said, Thou art the Christ, the Son of the living God. (Matt. 16:16, KJV)
@@ -28,15 +28,15 @@
 > For by one offering he hath perfected for ever them that are sanctified. (Heb. 10:14, KJV)
 > And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses; (Col. 2:13, KJV)
 
-## 2) The importance of accepting the Word of God, the Covenant, Christ, the salvation of man, legitimate liberation from the Judgment of God. Rom. 8:2,John 5:24
+## 2) The importance of accepting the Word of God, the Covenant, Christ, the salvation of man, and lawful release from God's Judgment. Rom. 8:2,John 5:24
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
 > Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life. (John 5:24, KJV)
 
-### (1) The atonement of all the sins of all people is the legitimate basis for the forgiveness of every person (execution of the sentence of the Word of God)
+### (1) The atonement of all the sins of all people is the legitimate basis for the forgiveness of every human being (fulfillment of the sentence of the Word of God)
 
 ### (2) Redemption without forgiveness is not effective for man. (Atonement is the legitimate basis for human forgiveness)
 
-### (3) Forgiveness is the acceptance of the Word of God, the Covenant, Christ, the confession of man
+### (3) Forgiveness is the acceptance of the Word of God, the Covenant, of Christ, and the confession of man.
 
 #### (a) Who is Christ? – acceptance of the Divinity of Christ
 
@@ -48,13 +48,13 @@
 
 ### (1) Judgment by water, Flood – rejection of the Word of God, the Covenant, Christ
 
-### (2) Judgment by Blood, Golgotha – the importance of accepting the Word of God, the Covenant, Christ
+### (2) Judgment by Blood, Golgotha – the importance of accepting the Word of God, the Covenant, and Christ
 
 ### (3) Judgment by fire, the Great Throne – rejection of the Word of God, the Covenant, Christ
 
 ## 4) Understanding the judgment of God, Satan and demons
 
-### (1) Rev. 20:10,Matt. 25:41,1 John 3:8, - God's judgment by demons and Satan, a conscious choice of his eternal life outside the Word of God (judgment lake ohg.)
+### (1) Rev. 20:10,Matt. 25:41,1 John 3:8, - God's judgment by demons and Satan, a conscious choice of one's eternal life outside the Word of God (judgment lake ohg.)
 > And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever. (Rev. 20:10, KJV)
 > Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels: (Matt. 25:41, KJV)
 > He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil. (1 John 3:8, KJV)
@@ -81,7 +81,7 @@
 > And all his sons and all his daughters rose up to comfort him; but he refused to be comforted; and he said, For I will go down into the grave unto my son mourning. Thus his father wept for him. (Gen. 37:35, KJV)
 > But now he is dead, wherefore should I fast? can I bring him back again? I shall go to him, but he shall not return to me. (2 Sam. 12:23, KJV)
 
-#### (c) Prisons are a place for people who have never heard the Word of God, the Covenant, Christ, the possibility of choice 1 Pet. 3:19
+#### (c) Prisons are a place for people who have never heard the Words of God, the Covenant, or Christ, and the opportunity to choose 1 Pet. 3:19
 > By which also he went and preached unto the spirits in prison; (1 Pet. 3:19, KJV)
 
 #### (d) The Abyss is a place of imprisonment of demons Rev. 9:1, 11; 20:1-3, - Luke 8:31
@@ -109,7 +109,7 @@
 
 ## 7) Understanding the judgment of God, children
 
-### (1) Matt. 19:13-14, - no judgment for children, Kingdom of Heaven. (The impossibility of accepting the Word of God, the Covenant, Christ the children). Rom. 5:12
+### (1) Matt. 19:13-14, - no judgment for children, Kingdom of Heaven. (The impossibility of accepting the Word of God, the Covenant, and Christ – children). Rom. 5:12
 > Then were there brought unto him little children, that he should put his hands on them, and pray: and the disciples rebuked them. But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven. (Matt. 19:13-14, KJV)
 > Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned: (Rom. 5:12, KJV)
 
@@ -123,7 +123,7 @@
 
 ## 8) Understanding the judgment of God, the righteous
 
-### (1) The Judgment of God's people – acceptance of the Word of God, the Covenant, Christ, the Sacrifice and the Deed of Christ (Cross – hell – judgment in the Sanctuary) 1 Pet. 4:17-18, - John 19:30, - Heb. 9:12, 24, 22; 10:14
+### (1) The judgment of God's people – acceptance of the Word of God, the Covenant, Christ, the Sacrifice and the Deed of Christ (Cross – hell – judgment in the Sanctuary) 1 Pet. 4:17-18, - John 19:30, - Heb. 9:12, 24, 22; 10:14
 > For the time is come that judgment must begin at the house of God: and if it first begin at us, what shall the end be of them that obey not the gospel of God? And if the righteous scarcely be saved, where shall the ungodly and the sinner appear? (1 Pet. 4:17-18, KJV)
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us. (Heb. 9:12, KJV)
@@ -141,7 +141,7 @@
 > Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life. (John 5:24, KJV)
 > He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day. (John 12:48, KJV)
 
-### (4) The Kingdom of heaven, the judgment of God concerning man's reward (Knowledge and transmission of the Word of God, the Covenant, Christ, salvation of men, predestination) Heb. 9:27, - Rom. 14:10,2 Cor. 5:10
+### (4) The kingdom of heaven, the judgment of God concerning man's reward (Knowledge and transmission of the Word of God, the Covenant, Christ, salvation of men, predestination) Heb. 9:27, - Rom. 14:10,2 Cor. 5:10
 > And as it is appointed unto men once to die, but after this the judgment: (Heb. 9:27, KJV)
 > But why dost thou judge thy brother? or why dost thou set at nought thy brother? for we shall all stand before the judgment seat of Christ. (Rom. 14:10, KJV)
 > For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad. (2 Cor. 5:10, KJV)
@@ -152,6 +152,6 @@
 
 ### (1) The importance of understanding God's Judgment – God's Justice
 
-### (2) The importance of accepting the Word of God, the Covenant, Christ is the love and mercy of God
+### (2) The importance of accepting the Word of God, the Covenant, and Christ – the love and mercy of God
 
 ### (3) Life on earth is a preparation for eternity (the right to choose)

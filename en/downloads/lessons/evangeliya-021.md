@@ -23,13 +23,13 @@
 > And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was. (John 17:5, KJV)
 > And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light. (Matt. 17:2, KJV)
 
-#### (a) Human Nature Christ is a glorified body
+#### (a) Christ's human nature is a glorified body
 
-#### (b) The Divine nature of Christ, the Holy, Triune God
+#### (b) The divine nature of Christ is the Holy, Triune God
 
 #### (c) The divine and human natures were inseparably united in one person, without transformation or mixing
 
-#### (d) The God–man is the true God and the true man, but at the same time the same Christ (the one person). (Priority of the Divine nature over man – God in the flesh) Gen. 1:27, - Gen. 14:18 (John 8:56-58,Heb. 7:1-10), Gen. 18:1; 32:24-29, Ex. 24:9-11; 33:20-23,Judg. 6, 13,Josh. 5:13-15,Acts 2:25
+#### (d) The God–man is the true God and the true man, but at the same time one and the same Christ (one person). (The priority of the Divine nature over man is God in the flesh) Gen. 1:27, - Gen. 14:18 (John 8:56-58,Heb. 7:1-10), Gen. 18:1; 32:24-29, Ex. 24:9-11; 33:20-23,Judg. 6, 13,Josh. 5:13-15,Acts 2:25
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And Melchizedek king of Salem brought forth bread and wine: and he was the priest of the most high God. (Gen. 14:18, KJV)
 > Your father Abraham rejoiced to see my day: and he saw it, and was glad. Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham? Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am. (John 8:56-58, KJV)
@@ -107,14 +107,14 @@
 > Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned: (Rom. 5:12, KJV)
 > From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day. Then Peter took him, and began to rebuke him, saying, Be it far from thee, Lord: this shall not be unto thee. But he turned, and said unto Peter, Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men. (Matt. 16:21-23, KJV)
 
-### (5) Matt. 17:20, - the importance of faith in God, understanding and fulfilling the will of God, solving all problems and issues in human life Matt. 6:33
+### (5) Matt. 17:20, - the importance of God's faith, understanding and fulfilling God's will, solving all problems and issues in human life Matt. 6:33
 > And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you. (Matt. 17:20, KJV)
 > But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you. (Matt. 6:33, KJV)
 
-### (6) Matt. 17:21, - the importance of communion with God (prayer), the importance of focusing on the Word of God, the Covenant, Christ (fasting)
+### (6) Matt. 17:21, - the importance of communion with God (prayer), the importance of focusing on the Word of God, the Covenant, and Christ (fasting)
 > Howbeit this kind goeth not out but by prayer and fasting. (Matt. 17:21, KJV)
 
-#### (a) Prayer – the importance of accepting and reflecting on the Word of God, the Covenant, Christ (Emmanuel, communion with God), the importance of understanding spiritual reality and spiritual laws 1 Cor. 2:14,John 1:12
+#### (a) Prayer – the importance of accepting and reflecting on the Word of God, the Covenant, and Christ (Emmanuel, communion with God), the importance of understanding spiritual reality and spiritual laws 1 Cor. 2:14,John 1:12
 > But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned. (1 Cor. 2:14, KJV)
 > But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name: (John 1:12, KJV)
 
@@ -129,12 +129,12 @@
 #### (b) Jesus Christ is God in the flesh, the liberation of man, God's sovereignty and control, God's timetable (Jesus Christ did not liberate all people). Matt. 13:58
 > And he did not many mighty works there because of their unbelief. (Matt. 13:58, KJV)
 
-## 5) Matt. 17:22-23, - the importance of fulfilling the Word of God, the Covenant, Christ
+## 5) Matt. 17:22-23, - the importance of fulfilling the Word of God, the Covenant, and Christ
 > And while they abode in Galilee, Jesus said unto them, The Son of man shall be betrayed into the hands of men: And they shall kill him, and the third day he shall be raised again. And they were exceeding sorry. (Matt. 17:22-23, KJV)
 
-### (1) God's sovereignty and control, the inevitable fulfillment of God's Word, Covenant, Christ, the importance of understanding the death and resurrection of Jesus Christ (God's plan for the salvation of mankind)
+### (1) God's sovereignty and control, the inevitable fulfillment of God's Word, Covenant, and Christ, the importance of understanding the death and resurrection of Jesus Christ (God's plan for the salvation of mankind)
 
-### (2) The importance of a logical rather than a spiritual understanding of the Word of God, the Covenant, Christ – the faith of God (the importance of constant and systematic study of the Word of God, the Covenant, Christ for the people of God) Rom. 10:17, -Acts 21:10-14
+### (2) The importance of a logical rather than a spiritual understanding of the Word of God, the Covenant, and Christ is the faith of God (the importance of constant and systematic study of the Word of God, the Covenant, and Christ for the people of God) Rom. 10:17, -Acts 21:10-14
 > So then faith cometh by hearing, and hearing by the word of God. (Rom. 10:17, KJV)
 > And as we tarried there many days, there came down from Judæa a certain prophet, named Agabus. And when he was come unto us, he took Paul’s girdle, and bound his own hands and feet, and said, Thus saith the Holy Ghost, So shall the Jews at Jerusalem bind the man that owneth this girdle, and shall deliver him into the hands of the Gentiles. And when we heard these things, both we, and they of that place, besought him not to go up to Jerusalem. Then Paul answered, What mean ye to weep and to break mine heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus. And when he would not be persuaded, we ceased, saying, The will of the Lord be done. (Acts 21:10-14, KJV)
 
@@ -175,10 +175,10 @@
 #### (b) The Prophecy of Christ – the end of the Second World War, the coming of the Second World War, the destruction of the temple (70 A.D.) Matt. 24:1-2
 > And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple. And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down. (Matt. 24:1-2, KJV)
 
-### (4) Matt. 17:27, - the importance of correctly communicating the Word of God, the Covenant, Christ
+### (4) Matt. 17:27, - the importance of correctly communicating the Word of God, the Covenant, and Christ
 > Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee. (Matt. 17:27, KJV)
 
-#### (a) Understanding the condition of the Jewish people, the importance of wisely proclaiming the Word of God, the Covenant, Christ, and the importance of avoiding temptation
+#### (a) Understanding the condition of the Jewish people, the importance of wisely proclaiming the Word of God, the Covenant, and Christ, and the importance of avoiding temptation
 
 #### (b) Supernatural payment – the special importance of understanding the Divinity of Christ and the All-sufficiency of His Sacrifice (God's plan of salvation), the true meaning of the temple's existence
 
@@ -186,8 +186,8 @@
 
 ### (1) The importance of a proper understanding of Christ for man
 
-### (2) The importance of accepting the Word of God, the Covenant, Christ, and the crushing of Satan's power
+### (2) The importance of accepting the Word of God, the Covenant, Christ, and breaking the power of Satan
 
-### (3) The importance of faith in God is a logical, not a spiritual understanding
+### (3) The importance of God's faith is a logical, not a spiritual understanding
 
-### (4) The importance of fulfilling the destiny of God's people, the importance of correctly communicating the Word of God, the Covenant, the Christ, the importance of proper human education and affirmation
+### (4) The importance of fulfilling the destiny of God's people, the importance of correctly communicating the Word of God, the Covenant, and Christ, and the importance of proper human education and affirmation

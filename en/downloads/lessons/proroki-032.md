@@ -43,7 +43,7 @@
 
 ### (2) Failure to accept the Divinity of Christ and the All–sufficiency of His Sacrifice is ruin.
 
-## 3) Understanding the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the immutability of God's will for man
+## 3) Understanding the destiny of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ, the immutability of God's will for man
 
 ### (1) The Age of the Patriarchs (Adam–Moses)
 
@@ -57,9 +57,9 @@
 
 ### (1) Understanding the Old Testament before the coming of Christ – two points of view
 
-#### (a) Correct understanding of the Word of God, the Covenant, Christ – The Divinity of Christ and the All-sufficiency of His Sacrifice (Zechariah, Joseph, Mary, Simeon, John the Baptist, etc.)
+#### (a) A correct understanding of the Word of God, the Covenant, and Christ – the Divinity of Christ and the All-sufficiency of His Sacrifice (Zechariah, Joseph, Mary, Simeon, John the Baptist, etc.)
 
-#### (b) Misunderstanding of the Word of God, the Covenant, Christ – denial of the Divinity of Christ and the Sufficiency of His Sacrifice (Pharisees, Sadducees, Scribes and almost the entire Jewish people) Matt. 7:13-14
+#### (b) Misunderstanding of the Word of God, the Covenant, and Christ – denial of the Divinity of Christ and the Sufficiency of His Sacrifice (Pharisees, Sadducees, Scribes, and almost the entire Jewish people) Matt. 7:13-14
 > Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it. (Matt. 7:13-14, KJV)
 
 ### (2) Misunderstanding of the meaning of the First Coming of Christ – the salvation of mankind through the Sacrifice of Christ
@@ -127,7 +127,7 @@
 
 ### (1) The non–acceptance of Jesus of Nazareth as the Messiah, the Christ, the reason is that Jesus of Nazareth did not fulfill the prophecies of V.Z. related to the Second Coming of Christ. (The importance of the restoration of the State of Israel, the coming of the Messiah, the rebuilding of the temple in Jerusalem, the kingdom of the Messiah on earth led by the Jewish people)
 
-### (2) Resisting the Word of God, the Covenant, Christ until the construction of the false third temple and the beginning of the last week 2 Cor. 3:13-16, - Rom. 11:25-26; 9:6-8
+### (2) Resisting the Word of God, the Covenant, and Christ until the construction of the false third temple and the beginning of the last week 2 Cor. 3:13-16, - Rom. 11:25-26; 9:6-8
 > And not as Moses, which put a vail over his face, that the children of Israel could not stedfastly look to the end of that which is abolished: But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which vail is done away in Christ. But even unto this day, when Moses is read, the vail is upon their heart. Nevertheless when it shall turn to the Lord, the vail shall be taken away. (2 Cor. 3:13-16, KJV)
 > For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in. And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob: (Rom. 11:25-26, KJV)
 > Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel: Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called. That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed. (Rom. 9:6-8, KJV)
@@ -137,12 +137,12 @@
 ### (1) The Christocentricity of the Writings of V.Z. John 5:39
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 
-### (2) The author and Inspirer of the Writings of V.Z. is the Holy Spirit (witness Christ) 2 Pet. 1:19-21,2 Tim. 3:16,1 Thess. 2:13
+### (2) The author and Inspirer of the Writings of V.Z. is the Holy Spirit (witness of Christ) 2 Pet. 1:19-21,2 Tim. 3:16,1 Thess. 2:13
 > We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts: Knowing this first, that no prophecy of the scripture is of any private interpretation. For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost. (2 Pet. 1:19-21, KJV)
 > All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness: (2 Tim. 3:16, KJV)
 > For this cause also thank we God without ceasing, because, when ye received the word of God which ye heard of us, ye received it not as the word of men, but as it is in truth, the word of God, which effectually worketh also in you that believe. (1 Thess. 2:13, KJV)
 
-### (3) Explaining the essence and meaning of salvation in the Writings of V.Z 1 Pet. 1:10-11,Acts 10:43,Luke 24:25-27, 44,2 Tim. 3:15
+### (3) Explanation of the essence and meaning of salvation in the Writings of V.Z 1 Pet. 1:10-11,Acts 10:43,Luke 24:25-27, 44,2 Tim. 3:15
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
 > To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins. (Acts 10:43, KJV)
 > Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken: Ought not Christ to have suffered these things, and to enter into his glory? And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself. (Luke 24:25-27, KJV)
@@ -151,7 +151,7 @@
 
 ### (4) Explanation and affirmation of N.Z. through the Writings of V.Z. (Gospels, Acts, Romans, Galatians, Hebrews, etc.)
 
-### (5) Without understanding V.Z., it is impossible to understand the fullness of N.Z. (Understanding the Word of God, the Covenant, Christ by the Church of N.Z. through the Writings of V.Z.)
+### (5) Without understanding V.Z., it is impossible to understand the fullness of N.Z. (Understanding of the Word of God, the Covenant, and Christ by the Church of N.Z. through the Writings of V.Z.)
 
 ## 6) Disadvantages and cancellation of V.Z. Heb. 8:7
 > For if that first covenant had been faultless, then should no place have been sought for the second. (Heb. 8:7, KJV)
@@ -170,6 +170,6 @@
 
 ### (2) The essence of V.Z. is faith in the coming Christ, the fulfillment of the Word of God
 
-### (3) The essence of N.Z. is faith in the Christ who has come, the fulfillment of the Word of God
+### (3) The essence of N.Z. is faith in the coming Christ, the fulfillment of the Word of God
 
 ### (4) N.Z. cancels V.Z. (the coming of Christ, the actual fulfillment of the Word of God)

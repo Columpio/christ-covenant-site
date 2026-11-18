@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,16 +233,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>1 John 1–2</h1>
-<h2 id="s1">1.1) 1 John 1, - the statement of the Word of God, the Covenant, Christ</h2>
+<h2 id="s1">1.1) 1 John 1, is the affirmation of the Word of God, the Covenant, and Christ</h2>
 <h3>(1) 1 John 1:1-2, - fulfillment of the Word of God, the Covenant, Christ, the Divinity of Christ Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9</h3>
 <blockquote data-v="kjv"><p>That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life; (For the life was manifested, and we have seen it, and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;)</p><cite>1 John 1:1-2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>That which was from the beginning, which we have heard, which we have seen with our own eyes, which we have gazed upon and touched with our own hands—this is the Word of life. And this is the life that was revealed; we have seen it and testified to it, and we proclaim to you the eternal life that was with the Father and was revealed to us.</p><cite>1 John 1:1-2 · BSB</cite></blockquote>
@@ -298,19 +300,19 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.</p><cite>John 14:6 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through Me.</p><cite>John 14:6 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father, except through me.</p><cite>John 14:6 · WEB</cite></blockquote>
-<h3>(2) 1 John 1:3-4, - the importance of understanding the Word of God, the Covenant, Christ</h3>
+<h3>(2) 1 John 1:3-4, - the importance of understanding the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ. And these things write we unto you, that your joy may be full.</p><cite>1 John 1:3-4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>We proclaim to you what we have seen and heard, so that you also may have fellowship with us. And this fellowship of ours is with the Father and with His Son, Jesus Christ. We write these things so that our joy may be complete.</p><cite>1 John 1:3-4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>that which we have seen and heard we declare to you, that you also may have fellowship with us. Yes, and our fellowship is with the Father and with his Son, Jesus Christ. And we write these things to you, that our joy may be fulfilled.</p><cite>1 John 1:3-4 · WEB</cite></blockquote>
 <h4>(a) The importance of communion with God and the people of God, the importance of fulfilling the purpose (knowledge and transmission of the Word of God)</h4>
 <h4>(b) The importance of understanding the cause of human joy – communion with God (Emmanuel, fulfillment of God's will), communion with God's people, fulfillment of destiny</h4>
-<h3>(3) 1 John 1:5-7, - the importance of accepting the Word of God, the Covenant, Christ</h3>
+<h3>(3) 1 John 1:5-7, - the importance of accepting the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all. If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth: But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin.</p><cite>1 John 1:5-7 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And this is the message we have heard from Him and announce to you: God is light, and in Him there is no darkness at all. If we say we have fellowship with Him yet walk in the darkness, we lie and do not practice the truth. But if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus His Son cleanses us from all sin.</p><cite>1 John 1:5-7 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>This is the message which we have heard from him and announce to you, that God is light, and in him is no darkness at all. If we say that we have fellowship with him and walk in the darkness, we lie and don’t tell the truth. But if we walk in the light as he is in the light, we have fellowship with one another, and the blood of Jesus Christ his Son cleanses us from all sin.</p><cite>1 John 1:5-7 · WEB</cite></blockquote>
 <h4>(a) God is light and there is no darkness in Him – the importance of understanding the causes of evil, sin and all the problems of creation. (The wrong choice of God's creation, the consequences, the attempt to accuse God of creating evil, sin, etc.)</h4>
-<h4>(b) Walking in darkness (outside of Christ) – non-acceptance of the Word of God, the Covenant, Christ (no confession and works of faith), lack of communion with God, Emmanuel and eternal life (human self-deception)</h4>
-<h4>(c) To walk in the light (in Christ) – acceptance of the Word of God, the Covenant, Christ (confession and works of faith), communion with God and the people of God, the constant action of the Word of God, the Covenant, Christ in human life. (The constant washing and cleansing of man by the Blood of Christ)</h4>
+<h4>(b) Walking in darkness (outside of Christ) – non-acceptance of the Word of God, the Covenant, Christ (no confession and works of faith), lack of communion with God, Emmanuel and eternal life (self-deception of man)</h4>
+<h4>(c) To walk in the light (in Christ) is the acceptance of the Word of God, the Covenant, of Christ (confession and works of faith), communion with God and the people of God, the constant action of the Word of God, the Covenant, of Christ in human life. (The constant washing and cleansing of man by the Blood of Christ)</h4>
 <h3>(4) 1 John 1:8-10, - the importance of understanding a spiritual problem</h3>
 <blockquote data-v="kjv"><p>If we say that we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness. If we say that we have not sinned, we make him a liar, and his word is not in us.</p><cite>1 John 1:8-10 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>If we say we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness. If we say we have not sinned, we make Him out to be a liar, and His word is not in us.</p><cite>1 John 1:8-10 · BSB</cite></blockquote>
@@ -319,11 +321,11 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>If we say that we have no sin, we deceive ourselves, and the truth is not in us.</p><cite>1 John 1:8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>If we say we have no sin, we deceive ourselves, and the truth is not in us.</p><cite>1 John 1:8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>If we say that we have no sin, we deceive ourselves, and the truth is not in us.</p><cite>1 John 1:8 · WEB</cite></blockquote>
-<h4>(b) 1 John 1:9, - the importance of confessing sins before God (sinners, repentance), the importance of accepting and constantly affirming the Word of God, the Covenant, Christ, man's choice (1st opinion). (Accepting the Sacrifice of Christ, forgiving all human sins – past, present and future, solving all problems)</h4>
+<h4>(b) 1 John 1:9, - the importance of confessing sins before God (sinners, repentance), the importance of accepting and constantly affirming the Word of God, the Covenant, Christ, and human choice (1st opinion). (Accepting the Sacrifice of Christ, forgiving all human sins – past, present and future, solving all problems)</h4>
 <blockquote data-v="kjv"><p>If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.</p><cite>1 John 1:9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.</p><cite>1 John 1:9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>If we confess our sins, he is faithful and righteous to forgive us the sins and to cleanse us from all unrighteousness.</p><cite>1 John 1:9 · WEB</cite></blockquote>
-<h4>(c) 1 John 1:9, - the importance of confessing sins before God (the people of God, confession of sins), the importance of accepting and constantly affirming the Word of God, the Covenant, Christ, solving the physical consequences of the sins of the people of God (2nd opinion). (Understanding man's imperfections, accepting Christ's Sacrifice, forgiving all man's sins – past, present, and future)</h4>
+<h4>(c) 1 John 1:9, - the importance of confessing sins before God (the people of God, confession of sins), the importance of accepting and constantly affirming the Word of God, the Covenant, Christ, solving the physical consequences of the sins of the people of God (2nd opinion). (Understanding human imperfection, accepting Christ's Sacrifice, forgiving all human sins – past, present, and future)</h4>
 <blockquote data-v="kjv"><p>If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.</p><cite>1 John 1:9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.</p><cite>1 John 1:9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>If we confess our sins, he is faithful and righteous to forgive us the sins and to cleanse us from all unrighteousness.</p><cite>1 John 1:9 · WEB</cite></blockquote>
@@ -337,7 +339,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>My little children, I write these things to you so that you may not sin. If anyone sins, we have a Counselor with the Father, Jesus Christ, the righteous. And he is the atoning sacrifice for our sins, and not for ours only, but also for the whole world.</p><cite>1 John 2:1-2 · WEB</cite></blockquote>
 <h3>(1) The importance of living the right life, fulfilling the purpose</h3>
 <h3>(2) The importance of understanding Christ as an Advocate for every human being</h3>
-<h3>(3) The importance of understanding the Sacrifice of Christ, the atonement of all the sins of the world (past, present, future), the importance of faith in God</h3>
+<h3>(3) The importance of understanding Christ's Sacrifice, the atonement of all the sins of the world (past, present, and future), and the importance of God's faith</h3>
 <h2 id="s3">Conclusion:</h2>
 <h3>(1) The importance of understanding the Divinity of Jesus Christ</h3>
 <h3>(2) The importance of understanding the problem of sin (spiritual problem)</h3>

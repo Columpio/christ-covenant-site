@@ -2,7 +2,7 @@
 
 ## 1) Minor Prophets of the Judean (Southern) Kingdom: Joel, Obadiah, Micah, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi. (Amos lived in Judah, prophesied for the Israelite king.)
 
-## 2) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 2) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -14,22 +14,22 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-## 3) The ministry of the prophets is the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of God's people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+## 3) The ministry of the prophets is the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of God's people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 
 ### (1) The Prophets of V.Z. – understanding and acceptance of the Word of God, the Covenant, Christ, salvation and rebirth, the action of the Holy Spirit 1 Pet. 1:10-11,Acts 10:43,2 Pet. 1:19-21
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
 > To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins. (Acts 10:43, KJV)
 > We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts: Knowing this first, that no prophecy of the scripture is of any private interpretation. For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost. (2 Pet. 1:19-21, KJV)
 
-#### (a) Explaining the problem of man, of the people – the rejection of the Word of God, the Covenant, Christ, the rejection of destiny. (The consequence is idolatry, mammon, immorality)
+#### (a) The explanation of the problem of man and the people is the rejection of the Word of God, the Covenant, Christ, and the rejection of destiny. (The consequence is idolatry, mammon, immorality)
 
-#### (b) An explanation of the decision for the person, the people – acceptance of the Word of God, the Covenant, Christ, fulfillment of destiny
+#### (b) An explanation of the decision for the person, the people – the acceptance of the Word of God, the Covenant, Christ, the fulfillment of destiny
 
-#### (c) Explaining the reasons for the judgments of God – the inevitable execution of the sentence, the Word of God, the right of choice of man. Rom. 6:23,Deut. 30:19
+#### (c) The explanation of the reason for God's judgments is the inevitable execution of the sentence of the Word of God, the right of man to choose. Rom. 6:23,Deut. 30:19
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
-### (2) The modern people of God, the continuation of prophetic ministry – the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of the people of God. John 16:8-11. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+### (2) The modern people of God, the continuation of prophetic ministry – the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of the people of God. John 16:8-11. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 > And when he is come, he will reprove the world of sin, and of righteousness, and of judgment: Of sin, because they believe not on me; Of righteousness, because I go to my Father, and ye see me no more; Of judgment, because the prince of this world is judged. (John 16:8-11, KJV)
 
 ## 4) The stages of the return of God's people
@@ -38,7 +38,7 @@
 
 #### (a) Cyrus the Great II (539-536 BC) – the fulfillment of the Word of God, the Covenant, Christ, the return of the Jews to Canaan. Ezra 1-3
 
-#### (b) Cambyses the 2nd or Artaxerxes (536-522 BC) – Satan's action, stopping the construction of the Temple (535 BC) Ezra 4
+#### (b) Cambyses the 2nd or Artaxerxes (536-522 BC) – the action of Satan, stopping the construction of the Temple (535 BC) Ezra 4
 
 #### (c) The Message of the Prophet Haggai, continuation of the restoration of the Temple foundation (535 BC) Ezra 5 (1-3)
 
@@ -46,14 +46,14 @@
 
 #### (d) Completion of the restoration. Temple (516 BC) Ezra 6 (15)
 
-## 5) Hag. 1 (circa 535 BC), – the importance of the Word of God, the Covenant, Christ
+## 5) Hag. 1 (circa 535 BC), – the importance of the Word of God, the Covenant, and Christ
 
-### (1) Hag. 1:1-11, - the importance of fulfilling the purpose of the people of God, knowledge and transmission of the Word of God, Covenant, Christ, Temple, All. Eve, the coming of Christ
+### (1) Hag. 1:1-11, - the importance of fulfilling the destiny of the people of God, the knowledge and dedication of the Word of God, the Covenant, Christ, the Temple, the Sun. Ev, the parish of Christ
 > In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the LORD by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying, Thus speaketh the LORD of hosts, saying, This people say, The time is not come, the time that the LORD’s house should be built. Then came the word of the LORD by Haggai the prophet, saying, Is it time for you, O ye, to dwell in your cieled houses, and this house lie waste? Now therefore thus saith the LORD of hosts; Consider your ways. Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages to put it into a bag with holes. Thus saith the LORD of hosts; Consider your ways. Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, saith the LORD. Ye looked for much, and, lo, it came to little; and when ye brought it home, I did blow upon it. Why? saith the LORD of hosts. Because of mine house that is waste, and ye run every man unto his own house. Therefore the heaven over you is stayed from dew, and the earth is stayed from her fruit. And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon that which the ground bringeth forth, and upon men, and upon cattle, and upon all the labour of the hands. (Hag. 1:1-11, KJV)
 
 #### (a) The purpose and meaning of the Tabernacle, the Temple (the prototype of Jesus Christ) is the salvation and reconciliation of man with God
 
-#### (b) The reason for the destruction of the Temple is the refusal to know and transmit the Word of God, the Covenant, Christ, World Evangelization, preparation for the coming of Christ, religion
+#### (b) The reason for the destruction of the Temple is the rejection of the knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, preparation for the coming of Christ, religion
 - (1st time – 586 BC, Nebuchadnezzar, 2nd time – 70 BC, Titus)
 
 #### (c) The restoration of the Temple – the knowledge and transmission of the Word of God, the Covenant, the Church, the disciples, World Evangelization, the preparation of the 1st coming of Christ. Acts 2:1-11
@@ -80,14 +80,14 @@
 > Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God; And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone; In whom all the building fitly framed together groweth unto an holy temple in the Lord: In whom ye also are builded together for an habitation of God through the Spirit. (Eph. 2:19-22, KJV)
 > To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious, Ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ. (1 Pet. 2:4-5, KJV)
 
-#### (b) God's method of building the Temple of N.Z. (Church of Christ) – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization, the coming of Christ (The importance of Emanuel and the action of God's grace)
+#### (b) God's method of building the Temple of N.Z. (Church of Christ) – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ (The importance of Emanuel and the action of God's grace)
 
 ## 6) Hag. 2, - the importance of understanding and fulfilling the purpose
 
 ### (1) Hag. 2:1-3, - The 2nd Temple is much smaller compared to the 1st
 > In the seventh month, in the one and twentieth day of the month, came the word of the LORD by the prophet Haggai, saying, Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying, Who is left among you that saw this house in her first glory? and how do ye see it now? is it not in your eyes in comparison of it as nothing? (Hag. 2:1-3, KJV)
 
-### (2) Hag. 2:4-9, - the importance of understanding the Word of God, the Covenant, Christ, destiny
+### (2) Hag. 2:4-9, - the importance of understanding the Word of God, the Covenant, Christ, and destiny
 > Yet now be strong, O Zerubbabel, saith the LORD; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the LORD, and work: for I am with you, saith the LORD of hosts: According to the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not. For thus saith the LORD of hosts; Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land; And I will shake all nations, and the desire of all nations shall come: and I will fill this house with glory, saith the LORD of hosts. The silver is mine, and the gold is mine, saith the LORD of hosts. The glory of this latter house shall be greater than of the former, saith the LORD of hosts: and in this place will I give peace, saith the LORD of hosts. (Hag. 2:4-9, KJV)
 
 #### (a) Emmanuel, Canaan, Temple – preparation for the 1st coming of Christ
@@ -104,19 +104,19 @@
 > And the Jews’ passover was at hand, and Jesus went up to Jerusalem, And found in the temple those that sold oxen and sheep and doves, and the changers of money sitting: And when he had made a scourge of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers’ money, and overthrew the tables; And said unto them that sold doves, Take these things hence; make not my Father’s house an house of merchandise. And his disciples remembered that it was written, The zeal of thine house hath eaten me up. (John 2:13-17, KJV)
 > And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves, And said unto them, It is written, My house shall be called the house of prayer; but ye have made it a den of thieves. (Matt. 21:12-13, KJV)
 
-### (3) Hag. 2:10-19, - rejection of the Word of God, the Covenant, Christ, rejection of destiny, problems and the hard life of the people of God
+### (3) Hag. 2:10-19, - rejection of the Word of God, the Covenant, Christ, rejection of destiny, problems and the difficult life of the people of God
 > In the four and twentieth day of the ninth month, in the second year of Darius, came the word of the LORD by Haggai the prophet, saying, Thus saith the LORD of hosts; Ask now the priests concerning the law, saying, If one bear holy flesh in the skirt of his garment, and with his skirt do touch bread, or pottage, or wine, or oil, or any meat, shall it be holy? And the priests answered and said, No. Then said Haggai, If one that is unclean by a dead body touch any of these, shall it be unclean? And the priests answered and said, It shall be unclean. Then answered Haggai, and said, So is this people, and so is this nation before me, saith the LORD; and so is every work of their hands; and that which they offer there is unclean. And now, I pray you, consider from this day and upward, from before a stone was laid upon a stone in the temple of the LORD: Since those days were, when one came to an heap of twenty measures, there were but ten: when one came to the pressfat for to draw out fifty vessels out of the press, there were but twenty. I smote you with blasting and with mildew and with hail in all the labours of your hands; yet ye turned not to me, saith the LORD. Consider now from this day and upward, from the four and twentieth day of the ninth month, even from the day that the foundation of the LORD’s temple was laid, consider it. Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, hath not brought forth: from this day will I bless you. (Hag. 2:10-19, KJV)
 
 #### (a) Hag. 2:10-14, - renunciation of purpose and visible performance of Worship (non-acceptance by God, impure)
 > In the four and twentieth day of the ninth month, in the second year of Darius, came the word of the LORD by Haggai the prophet, saying, Thus saith the LORD of hosts; Ask now the priests concerning the law, saying, If one bear holy flesh in the skirt of his garment, and with his skirt do touch bread, or pottage, or wine, or oil, or any meat, shall it be holy? And the priests answered and said, No. Then said Haggai, If one that is unclean by a dead body touch any of these, shall it be unclean? And the priests answered and said, It shall be unclean. Then answered Haggai, and said, So is this people, and so is this nation before me, saith the LORD; and so is every work of their hands; and that which they offer there is unclean. (Hag. 2:10-14, KJV)
 
-#### (b) Hag. 2:15-17, - refusal to fulfill the destiny, problems, the difficult life of the people of God (the importance of the Temple, the coming of Christ)
+#### (b) Hag. 2:15-17, - refusal to fulfill the destiny, problems, the difficult life of God's people (the importance of the Temple, the coming of Christ)
 > And now, I pray you, consider from this day and upward, from before a stone was laid upon a stone in the temple of the LORD: Since those days were, when one came to an heap of twenty measures, there were but ten: when one came to the pressfat for to draw out fifty vessels out of the press, there were but twenty. I smote you with blasting and with mildew and with hail in all the labours of your hands; yet ye turned not to me, saith the LORD. (Hag. 2:15-17, KJV)
 
 #### (c) Hag. 2:18-19, - the importance of returning to the destination, the construction of the Temple, the coming of Christ, all the blessings of God
 > Consider now from this day and upward, from the four and twentieth day of the ninth month, even from the day that the foundation of the LORD’s temple was laid, consider it. Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, hath not brought forth: from this day will I bless you. (Hag. 2:18-19, KJV)
 
-### (4) Hag. 2:20-23, - the inevitable fulfillment of the Word of God, the Covenant, Christ, the importance of understanding the 2nd coming of Jesus Christ
+### (4) Hag. 2:20-23, - the inevitable fulfillment of the Word of God, the Covenant, of Christ, the importance of understanding the 2nd coming of Jesus Christ
 > And again the word of the LORD came unto Haggai in the four and twentieth day of the month, saying, Speak to Zerubbabel, governor of Judah, saying, I will shake the heavens and the earth; And I will overthrow the throne of kingdoms, and I will destroy the strength of the kingdoms of the heathen; and I will overthrow the chariots, and those that ride in them; and the horses and their riders shall come down, every one by the sword of his brother. In that day, saith the LORD of hosts, will I take thee, O Zerubbabel, my servant, the son of Shealtiel, saith the LORD, and will make thee as a signet: for I have chosen thee, saith the LORD of hosts. (Hag. 2:20-23, KJV)
 
 #### (a) Hag. 2:20-22, - the 2nd coming of Christ, the judgment of God, the rejection of the Word of God, the Covenant, Christ (pagan nations and kingdoms). Rev. 19
@@ -135,6 +135,6 @@
 
 ### (1) The importance of understanding the purpose and meaning of the Temple – the salvation and reconciliation of man with God (the prototype of Jesus Christ)
 
-### (2) The importance of building the Temple of N.Z. – the Church of Christ, the importance of understanding and fulfilling the destiny of the people of God
+### (2) The importance of building the Temple of N.Z. – the Church of Christ, the importance of understanding and fulfilling the destiny of God's people
 
 ### (3) The importance of understanding Satan's actions

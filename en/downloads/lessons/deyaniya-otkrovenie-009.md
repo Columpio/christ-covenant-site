@@ -20,15 +20,15 @@
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-#### (a) The importance of people believing in God, the importance of accurately understanding the Word of God, the Covenant, Christ, the importance of human salvation
+#### (a) The importance of people believing in God, the importance of accurately understanding the Word of God, the Covenant, Christ, and the importance of human salvation
 
-#### (b) The importance of systematic study of the Holy Scriptures, the proper emphasis of the faith of God. Hos. 4:6. (The action of Satan is an emphasis on songs, deeds, prayers, etc.)
+#### (b) The importance of systematic study of the Holy Scriptures, the proper emphasis of the faith of God. Hos. 4:6. (Satan's action is an emphasis on songs, deeds, prayers, etc.)
 > My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children. (Hos. 4:6, KJV)
 
 #### (c) The importance of a correct understanding of the scriptures from the perspective of the Covenant and Christ. John 5:39
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 
-### (2) Acts 14:2, - the action of Satan, stop the transmission of the Word of God, the Covenant, Christ
+### (2) Acts 14:2, - the action of Satan, to stop the transmission of the Word of God, the Covenant, Christ
 > But the unbelieving Jews stirred up the Gentiles, and made their minds evil affected against the brethren. (Acts 14:2, KJV)
 
 ### (3) Acts 14:3-4, - the right to choose a person, the importance of understanding the personal responsibility of each person in relation to the Word of God, the Covenant, Christ, understanding the calling grace of God
@@ -44,7 +44,7 @@
 ### (1) Acts 14:8-10, - understanding the effect of calling grace, hearing the Word of God, the Covenant, Christ, receiving the gift of faith, healing
 > And there sat a certain man at Lystra, impotent in his feet, being a cripple from his mother’s womb, who never had walked: The same heard Paul speak: who stedfastly beholding him, and perceiving that he had faith to be healed, Said with a loud voice, Stand upright on thy feet. And he leaped and walked. (Acts 14:8-10, KJV)
 
-### (2) Acts 14:11-18, - misunderstanding of the Word of God, the action of Satan, temptations, the importance of teaching and establishing a person in the Word of God, the Covenant, Christ
+### (2) Acts 14:11-18, - misunderstanding of the Word of God, the work of Satan, temptations, the importance of teaching and establishing a person in the Word of God, the Covenant, and Christ
 > And when the people saw what Paul had done, they lifted up their voices, saying in the speech of Lycaonia, The gods are come down to us in the likeness of men. And they called Barnabas, Jupiter; and Paul, Mercurius, because he was the chief speaker. Then the priest of Jupiter, which was before their city, brought oxen and garlands unto the gates, and would have done sacrifice with the people. Which when the apostles, Barnabas and Paul, heard of, they rent their clothes, and ran in among the people, crying out, And saying, Sirs, why do ye these things? We also are men of like passions with you, and preach unto you that ye should turn from these vanities unto the living God, which made heaven, and earth, and the sea, and all things that are therein: Who in times past suffered all nations to walk in their own ways. Nevertheless he left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food and gladness. And with these sayings scarce restrained they the people, that they had not done sacrifice unto them. (Acts 14:11-18, KJV)
 
 ### (3) Acts 14:19-20, - the importance of understanding the action of Satan, to stop the transmission of the Word of God, the Covenant, Christ, the stoning of the Apostle Paul 2 Cor. 12:1-5
@@ -60,20 +60,20 @@
 
 ### (3) Ordination of ministers
 
-### (4) An account in the Church of Antioch. (The importance of God's order and arrangement is matching the Word of God)
+### (4) An account in the Church of Antioch. (The importance of God's order and arrangement is conformity to the Word of God)
 
-## 4) Acts 14:28, - the importance of the fellowship of the people of God, the importance of knowing and transmitting the Word of God, the Covenant, Christ (purpose)
+## 4) Acts 14:28, - the importance of the fellowship of the people of God, the importance of knowing and transmitting the Word of God, the Covenant, and Christ (purpose)
 > And there they abode long time with the disciples. (Acts 14:28, KJV)
 
 ## Result:
 
-### (1) The purpose of man is to know and transmit the Word of God, the Covenant, Christ, (Communion with God and Knowledge of God, service and glorification of God, the importance of staying in the local Church and achieving Worldwide Evangelization)
+### (1) The purpose of man is to know and transmit the Word of God, the Covenant, and Christ (Communion with God and Knowledge of God, service and glorification of God, the importance of staying in the local Church and achieving Worldwide Evangelization)
 
 #### (a) Personal Evangelism - ordinary people. (Prayer, finances, personal preaching)
 
 #### (b) Church Evangelization – meetings of believers. (Prayer, Finances, personal preaching)
 
-### (2) The Importance of Understanding God's Method of Doing Worldwide Evangelization
+### (2) The Importance of understanding God's Method of Worldwide Evangelization
 
 #### (a) Go to the scene (believers). Matt. 28:19-20,Acts 1:8
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
@@ -98,9 +98,9 @@
 
 ### (1) The importance of fulfilling the destiny of God's people
 
-### (2) The importance of transmitting the Word of God, the Covenant, Christ to the ends of the earth
+### (2) The importance of transmitting the Word of God, the Covenant, and Christ to the ends of the earth
 
-### (3) The importance of understanding the actions of Satan, the spiritual warfare of the people of God
+### (3) The importance of understanding the work of Satan, the spiritual warfare of God's people
 
 ### (4) The importance of understanding prepared disciples in every place, God's sovereignty and control, and meeting schedules. John 8:47
 > He that is of God heareth God’s words: ye therefore hear them not, because ye are not of God. (John 8:47, KJV)

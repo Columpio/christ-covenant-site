@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,20 +233,20 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>Jas. 5</h1>
-<h2 id="s1">4.1) Jas. 5:1-6, - non-acceptance of the Word of God, the Covenant, Christ</h2>
+<h2 id="s1">4.1) Jas. 5:1-6, - rejection of the Word of God, the Covenant, Christ</h2>
 <blockquote data-v="kjv"><p>Go to now, ye rich men, weep and howl for your miseries that shall come upon you. Your riches are corrupted, and your garments are motheaten. Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days. Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud, crieth: and the cries of them which have reaped are entered into the ears of the Lord of sabaoth. Ye have lived in pleasure on the earth, and been wanton; ye have nourished your hearts, as in a day of slaughter. Ye have condemned and killed the just; and he doth not resist you.</p><cite>Jas. 5:1-6 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Come now, you who are rich, weep and wail over the misery to come upon you. Your riches have rotted and moths have eaten your clothes. Your gold and silver are corroded. Their corrosion will testify against you and consume your flesh like fire. You have hoarded treasure in the last days. Look, the wages you withheld from the workmen who mowed your fields are crying out against you. The cries of the harvesters have reached the ears of the Lord of Hosts. You have lived on earth in luxury and self-indulgence. You have fattened your hearts in the day of slaughter. You have condemned and murdered the righteous, who did not resist you.</p><cite>Jas. 5:1-6 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Come now, you rich, weep and howl for your miseries that are coming on you. Your riches are corrupted and your garments are moth-eaten. Your gold and your silver are corroded, and their corrosion will be for a testimony against you and will eat your flesh like fire. You have laid up your treasure in the last days. Behold, the wages of the laborers who mowed your fields, which you have kept back by fraud, cry out; and the cries of those who reaped have entered into the ears of the Lord of Armies. You have lived in luxury on the earth, and taken your pleasure. You have nourished your hearts as in a day of slaughter. You have condemned and you have murdered the righteous one. He doesn’t resist you.</p><cite>Jas. 5:1-6 · WEB</cite></blockquote>
-<h3>(1) Man–mammon's false hope, visible, death Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9</h3>
+<h3>(1) The false hope of the Mammon man, visible, the death of Gen. 1:27; 2:7, 9, 16-17, – Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9</h3>
 <blockquote data-v="kjv"><p>So God created man in his own image, in the image of God created he him; male and female created he them.</p><cite>Gen. 1:27 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So God created man in His own image; in the image of God He created him; male and female He created them.</p><cite>Gen. 1:27 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>God created man in his own image. In God’s image he created him; male and female he created them.</p><cite>Gen. 1:27 · WEB</cite></blockquote>
@@ -298,7 +300,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>What will it profit a man if he gains the whole world, yet forfeits his soul? Or what can a man give in exchange for his soul?</p><cite>Matt. 16:26 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For what will it profit a man if he gains the whole world and forfeits his life? Or what will a man give in exchange for his life?</p><cite>Matt. 16:26 · WEB</cite></blockquote>
 <h3>(3) Wrong attitude towards man (oppression and deception), the importance of gain, abomination before God (mammon's influence)</h3>
-<h3>(4) Jas. 5:6, - service to mammon, opposition to the Word of God, the Covenant, Christ (Pharisees - false condemnation and murder of Christ, action of Satan)</h3>
+<h3>(4) Jas. 5:6, - serving Mammon, resisting the Word of God, the Covenant, and Christ (Pharisees – false condemnation and murder of Christ, act of Satan)</h3>
 <blockquote data-v="kjv"><p>Ye have condemned and killed the just; and he doth not resist you.</p><cite>Jas. 5:6 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>You have condemned and murdered the righteous, who did not resist you.</p><cite>Jas. 5:6 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>You have condemned and you have murdered the righteous one. He doesn’t resist you.</p><cite>Jas. 5:6 · WEB</cite></blockquote>
@@ -306,12 +308,12 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Be patient therefore, brethren, unto the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early and latter rain. Be ye also patient; stablish your hearts: for the coming of the Lord draweth nigh. Grudge not one against another, brethren, lest ye be condemned: behold, the judge standeth before the door. Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience. Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy.</p><cite>Jas. 5:7-11 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Be patient, then, brothers, until the Lord’s coming. See how the farmer awaits the precious fruit of the soil—how patient he is for the fall and spring rains. You, too, be patient and strengthen your hearts, because the Lord’s coming is near. Do not complain about one another, brothers, so that you will not be judged. Look, the Judge is standing at the door! Brothers, as an example of patience in affliction, take the prophets who spoke in the name of the Lord. See how blessed we consider those who have persevered. You have heard of Job’s perseverance and have seen the outcome from the Lord. The Lord is full of compassion and mercy.</p><cite>Jas. 5:7-11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Be patient therefore, brothers, until the coming of the Lord. Behold, the farmer waits for the precious fruit of the earth, being patient over it, until it receives the early and late rain. You also be patient. Establish your hearts, for the coming of the Lord is at hand. Don’t grumble, brothers, against one another, so that you won’t be judged. Behold, the judge stands at the door. Take, brothers, for an example of suffering and of perseverance, the prophets who spoke in the name of the Lord. Behold, we call them blessed who endured. You have heard of the perseverance of Job and have seen the Lord in the outcome, and how the Lord is full of compassion and mercy.</p><cite>Jas. 5:7-11 · WEB</cite></blockquote>
-<h3>(1) Understanding God's Sovereignty and Control, God's Plan, the inevitable fulfillment of God's Word, the 2nd Coming of Christ</h3>
+<h3>(1) Understanding of God's sovereignty and Control, God's plan, the inevitable fulfillment of God's Word, the 2nd Coming of Christ</h3>
 <h3>(2) Limited understanding of man, circumstances and events, the importance of trusting God (God's sovereignty and control)</h3>
 <h3>(3) The example of many prophets is the proclamation of the Word of God, the Covenant, Christ, difficult circumstances, persecution, and death for Christ</h3>
-<h3>(4) Job's example, the importance of understanding the Word of God, the Covenant, Christ</h3>
+<h3>(4) Job's example, the importance of understanding the Word of God, the Covenant, and Christ</h3>
 <h4>(a) Job's circumstances, patience, and faithfulness to God</h4>
-<h4>(b) Misunderstanding of the reason for what is happening (God sovereignty)</h4>
+<h4>(b) Misunderstanding of the reason for what is happening (God's sovereignty)</h4>
 <h4>(c) Doubting God's love</h4>
 <h4>(d) Job's faithfulness is the salvation of friends, the affirmation of God's Word</h4>
 <h4>(e) The complete restoration of Job's life, the glorification of Christ</h4>
@@ -320,7 +322,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>Above all, my brothers, do not swear, not by heaven or earth or by any other oath. Simply let your “Yes” be yes, and your “No,” no, so that you will not fall under judgment.</p><cite>Jas. 5:12 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But above all things, my brothers, don’t swear—not by heaven, or by the earth, or by any other oath; but let your “yes” be “yes”, and your “no”, “no”, so that you don’t fall into hypocrisy.</p><cite>Jas. 5:12 · WEB</cite></blockquote>
 <h3>(1) The importance of portraying Christ, the quality of God's people</h3>
-<h3>(2) The importance of understanding the Inevitable Fulfillment of the Word of God Ps. 138:2</h3>
+<h3>(2) The importance of understanding the Inevitable Fulfillment of God's Word Ps. 138:2</h3>
 <blockquote data-v="kjv"><p>I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name.</p><cite>Ps. 138:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>I bow down toward Your holy temple and give thanks to Your name for Your loving devotion and Your faithfulness; You have exalted Your name and Your word above all else.</p><cite>Ps. 138:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I will bow down toward your holy temple, and give thanks to your Name for your loving kindness and for your truth; for you have exalted your Name and your Word above all.</p><cite>Ps. 138:2 · WEB</cite></blockquote>
@@ -343,7 +345,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>or because of these surpassingly great revelations. So to keep me from becoming conceited, I was given a thorn in my flesh, a messenger of Satan, to torment me. Three times I pleaded with the Lord to take it away from me. But He said to me, “My grace is sufficient for you, for My power is perfected in weakness.” Therefore I will boast all the more gladly in my weaknesses, so that the power of Christ may rest on me.</p><cite>2 Cor. 12:7-9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>By reason of the exceeding greatness of the revelations, that I should not be exalted excessively, a thorn in the flesh was given to me: a messenger of Satan to torment me, that I should not be exalted excessively. Concerning this thing, I begged the Lord three times that it might depart from me. He has said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Most gladly therefore I will rather glory in my weaknesses, that the power of Christ may rest on me.</p><cite>2 Cor. 12:7-9 · WEB</cite></blockquote>
 <h2 id="s5">5) The importance of understanding the causes of diseases</h2>
-<h3>(1) Non–acceptance (rejection) of the Word of God, Covenant, Christ The healing method is repentance, acceptance of the Word of God, Covenant, Christ</h3>
+<h3>(1) Rejection of the Word of God, Covenant, Christ The method of healing is repentance, acceptance of the Word of God, Covenant, Christ</h3>
 <h3>(2) Human Transgressions (God's upbringing)</h3>
 <ul>
 <li>The method of healing is the confession of sin, the change of life</li>
@@ -352,8 +354,8 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <ul>
 <li>The healing method is prayer, understanding God's time schedule</li>
 </ul>
-<h3>(4) Natural causes, fulfillment of God's Word, Healing method – observance of God's physical laws, doctors, the right way of life, resurrection from the dead</h3>
-<h2 id="s6">6) God's understanding of healing methods. 1 Pet. 2:24</h2>
+<h3>(4) Natural causes, the fulfillment of God's Word, the method of healing – the observance of God's physical laws, doctors, the right way of life, the resurrection from the dead</h3>
+<h2 id="s6">6) Understanding God's Healing methods. 1 Pet. 2:24</h2>
 <blockquote data-v="kjv"><p>Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.</p><cite>1 Pet. 2:24 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>He Himself bore our sins in His body on the tree, so that we might die to sin and live to righteousness. “By His stripes you are healed.”</p><cite>1 Pet. 2:24 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He himself bore our sins in his body on the tree, that we, having died to sins, might live to righteousness. You were healed by his wounds.</p><cite>1 Pet. 2:24 · WEB</cite></blockquote>
@@ -387,14 +389,14 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Brethren, if any of you do err from the truth, and one convert him; Let him know, that he which converteth the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins.</p><cite>Jas. 5:19-20 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>My brothers, if one of you should wander from the truth and someone should bring him back, consider this: Whoever turns a sinner from the error of his way will save his soul from death and cover over a multitude of sins.</p><cite>Jas. 5:19-20 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Brothers, if any among you wanders from the truth and someone turns him back, let him know that he who turns a sinner from the error of his way will save a soul from death and will cover a multitude of sins.</p><cite>Jas. 5:19-20 · WEB</cite></blockquote>
-<h3>(1) Deviation from the truth – the possibility of falling away from God, the importance of preserving the Word of God, the Covenant, Christ (the right to choose a person)</h3>
-<h3>(2) The possibility of conversion is the understanding of God's love and mercy for every human being, the salvation of the soul and the covering of sins. (The multitude of sins is the possibility of renouncing God, sin leads to death)</h3>
-<h3>(3) The importance of understanding Satan's actions is to stop the knowledge and transmission of the Word of God, the Covenant, Christ, to lead man away from God. 1 Pet. 5:8</h3>
+<h3>(1) Deviation from the truth – the possibility of falling away from God, the importance of preserving the Word of God, the Covenant, and Christ (the right to choose a person)</h3>
+<h3>(2) The possibility of conversion is the understanding of God's love and mercy for every human being, the salvation of the soul and the covering of sins. (The multitude of sins is the possibility of abandoning God, a sin leading to death)</h3>
+<h3>(3) The importance of understanding Satan's actions is to stop the knowledge and transmission of the Word of God, the Covenant, and Christ, and to lead man away from God. 1 Pet. 5:8</h3>
 <blockquote data-v="kjv"><p>Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:</p><cite>1 Pet. 5:8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Be sober-minded and alert. Your adversary the devil prowls around like a roaring lion, seeking someone to devour.</p><cite>1 Pet. 5:8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Be sober and self-controlled. Be watchful. Your adversary, the devil, walks around like a roaring lion, seeking whom he may devour.</p><cite>1 Pet. 5:8 · WEB</cite></blockquote>
 <h2 id="s9">Conclusion:</h2>
-<h3>(1) The importance of accepting the Word of God, the Covenant, Christ, and Service to God</h3>
+<h3>(1) The importance of accepting the Word of God, the Covenant, Christ, and serving God</h3>
 <h3>(2) The importance of understanding God's Sovereignty and Control</h3>
 <h3>(3) The importance of prayer and confession of sins</h3>
 <h3>(4) The importance of understanding Satan's actions</h3>

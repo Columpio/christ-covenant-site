@@ -2,7 +2,7 @@
 ## 2.1) Luke 13:1-9, - about the barren fig tree in the vineyard
 > There were present at that season some that told him of the Galilæans, whose blood Pilate had mingled with their sacrifices. And Jesus answering said unto them, Suppose ye that these Galilæans were sinners above all the Galilæans, because they suffered such things? I tell you, Nay: but, except ye repent, ye shall all likewise perish. Or those eighteen, upon whom the tower in Siloam fell, and slew them, think ye that they were sinners above all men that dwelt in Jerusalem? I tell you, Nay: but, except ye repent, ye shall all likewise perish. He spake also this parable; A certain man had a fig tree planted in his vineyard; and he came and sought fruit thereon, and found none. Then said he unto the dresser of his vineyard, Behold, these three years I come seeking fruit on this fig tree, and find none: cut it down; why cumbereth it the ground? And he answering said unto him, Lord, let it alone this year also, till I shall dig about it, and dung it: And if it bear fruit, well: and if not, then after that thou shalt cut it down. (Luke 13:1-9, KJV)
 
-### (1) Luke 13:1-5, - the inevitability of the fulfillment of the Word of God, the problem of man Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+### (1) Luke 13:1-5, - the inevitability of the fulfillment of the Word of God, the human problem Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > There were present at that season some that told him of the Galilæans, whose blood Pilate had mingled with their sacrifices. And Jesus answering said unto them, Suppose ye that these Galilæans were sinners above all the Galilæans, because they suffered such things? I tell you, Nay: but, except ye repent, ye shall all likewise perish. Or those eighteen, upon whom the tower in Siloam fell, and slew them, think ye that they were sinners above all men that dwelt in Jerusalem? I tell you, Nay: but, except ye repent, ye shall all likewise perish. (Luke 13:1-5, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -25,16 +25,16 @@
 
 ### (1) The sheep, the drachma, is the prototype of a man belonging to God
 
-### (2) The loss of a sheep, drachma - the action of Satan, the rejection of the Word of God, the Covenant, Christ
+### (2) The loss of a sheep, a drachma – the act of Satan, the rejection of the Word of God, the Covenant, Christ
 
-### (3) Constant and intensified search – transmission of the Word of God, the Covenant, Christ
+### (3) Constant and intensified search – transmission of the Word of God, the Covenant, and Christ
 
-### (4) Great joy is the acceptance of the Word of God, the Covenant, Christ, the salvation of man
+### (4) Great joy is the acceptance of the Word of God, the Covenant, Christ, and the salvation of man
 
 ## 3) Luke 15:11-32, - about the prodigal son
 > And he said, A certain man had two sons: And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living. And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living. And when he had spent all, there arose a mighty famine in that land; and he began to be in want. And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine. And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him. And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger! I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee, And am no more worthy to be called thy son: make me as one of thy hired servants. And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him. And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son. But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet: And bring hither the fatted calf, and kill it; and let us eat, and be merry: For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry. Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing. And he called one of the servants, and asked what these things meant. And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound. And he was angry, and would not go in: therefore came his father out, and intreated him. And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends: But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf. And he said unto him, Son, thou art ever with me, and all that I have is thine. It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found. (Luke 15:11-32, KJV)
 
-### (1) Prodigal son – rejection of the Word of God, the Covenant, Christ, loss of salvation. (Knowledge and communication with the Father, choosing a life outside the Father)
+### (1) The prodigal son is the rejection of the Word of God, the Covenant, Christ, and the loss of salvation. (Knowledge and communication with the Father, choosing a life outside the Father)
 
 ### (2) A part of the Father's estate is the opportunities, talents, and gifts of God
 
@@ -56,7 +56,7 @@
 
 ### (11) He was dead and came to life – the spiritual state of man, salvation
 
-### (12) Eldest son, work in the field – transmission of the Word of God, the Covenant, Christ
+### (12) The eldest son, working in the field – transmitting the Word of God, the Covenant, and Christ
 
 ### (13) Sin. existence, the importance of the invisible, the understanding of God's sovereignty
 
@@ -65,7 +65,7 @@
 
 ### (1) Understanding the purpose of serving God
 
-### (2) Understanding God's Sovereignty – God's Reward, Time Schedule Conclusion:
+### (2) Understanding God's Sovereignty is God's Reward, Time Schedule Conclusion:
 
 ### (1) The importance of understanding a person's right to choose – the importance of the Word of God, the Covenant, Christ, understanding destiny
 

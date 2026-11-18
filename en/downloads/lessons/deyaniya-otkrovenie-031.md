@@ -1,8 +1,8 @@
 # 1 John 4
-## 4.1) 1 John 4:1-6, - the importance of knowing the Word of God, the Covenant, Christ
+## 4.1) 1 John 4:1-6, - the importance of knowing the Word of God, the Covenant, and Christ
 > Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world. Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God: And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world. Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world. They are of the world: therefore speak they of the world, and the world heareth them. We are of God: he that knoweth God heareth us; he that is not of God heareth not us. Hereby know we the spirit of truth, and the spirit of error. (1 John 4:1-6, KJV)
 
-### (1) 1 John 4:1, - the importance of understanding, preserving the Word of God, the Covenant, Christ Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
+### (1) 1 John 4:1, - the importance of understanding and preserving the Word of God, the Covenant, and Christ Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
 > Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world. (1 John 4:1, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -21,7 +21,7 @@
 ### (2) 1 John 4:1-3, - understanding the Word of God, the Covenant, Christ, the trial of spirits
 > Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world. Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God: And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world. (1 John 4:1-3, KJV)
 
-#### (a) The Testimony of the Holy Spirit – the Sacrifice of Christ, the fulfillment of the Word of God, the assurance of forgiveness of sins and salvation, the confession of man
+#### (a) The testimony of the Holy Spirit – the Sacrifice of Christ, the fulfillment of the Word of God, the assurance of forgiveness of sins and salvation, the confession of man
 
 #### (b) The testimony of demons is the insufficiency of Christ's Sacrifice, there is no certainty of forgiveness of sins and salvation, the confession of man
 
@@ -39,7 +39,7 @@
 #### (b) Knowledge of the Word of God, the Covenant, Christ, the local Church. John 8:31-32
 > Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; And ye shall know the truth, and the truth shall make you free. (John 8:31-32, KJV)
 
-#### (c) Transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization Matt. 28:19-20
+#### (c) Transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization Matt. 28:19-20
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
 
 #### (d) Participation in the sacraments of God – Water Baptism, Communion
@@ -63,29 +63,29 @@
 
 > Master, which is the great commandment in the law? Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it, Thou shalt love thy neighbour as thyself. On these two commandments hang all the law and the prophets. (Matt. 22:36-40, KJV)
 
-- Love – responsibility and indifference
-- God's Love (agape) – unconditional and boundless love
+- Love is responsibility and caring
+- The Love of God (agape) is unconditional and boundless love
 
-### (1) Love of God – acceptance, transmission of the Word of God, the Covenant, Christ
+### (1) Love of God is the acceptance and transmission of the Word of God, the Covenant, and Christ
 
-#### (a) Acceptance of the Word of God, the Covenant, Christ – responsibility and care for the Holy, True God and His work. John 14:23-24
+#### (a) Accepting the Word of God, the Covenant, and Christ is responsibility and caring for the Holy, True God and His work. John 14:23-24
 > Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him. He that loveth me not keepeth not my sayings: and the word which ye hear is not mine, but the Father’s which sent me. (John 14:23-24, KJV)
 
-#### (b) The transmission of the Word of God, the Covenant, Christ – responsibility and care for the creation of the Holy, True God and His work. John 21:15-17
+#### (b) The transmission of the Word of God, the Covenant, and Christ is a responsibility and concern for the creation of the Holy, True God and His work. John 21:15-17
 > So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs. He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep. He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep. (John 21:15-17, KJV)
 
-### (2) Love for one's neighbor – acceptance, transmission of the Word of God, the Covenant, Chr
+### (2) Love for one's neighbor – acceptance, transmission of the Word of God, the Covenant,
 
-#### (a) Acceptance of the Word of God, the Covenant, Christ – responsibility and indifference to any person, the possibility of human salvation. Matt. 16:26. (Physical and mental things cannot solve a person's problem)
+#### (a) Accepting the Word of God, the Covenant, and Christ is responsibility and caring for any person, the possibility of human salvation. Matt. 16:26. (Physical and mental things cannot solve a person's problem)
 > For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul? (Matt. 16:26, KJV)
 
-#### (b) Transmission of the Word of God, the Covenant, Christ – responsibility and care for any person, the possibility of human salvation. Matt. 16:26. (Physical and mental things cannot solve a person's problem)
+#### (b) Transmitting the Word of God, the Covenant, and Christ – responsibility and caring for any person, the possibility of human salvation. Matt. 16:26. (Physical and mental things cannot solve a person's problem)
 > For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul? (Matt. 16:26, KJV)
 
-#### (c) A good, sincere attitude towards people - creating conditions for the acceptance and transmission of the Word of God, the Testament, Christ, salvation to people Matt. 7:12
+#### (c) A good, sincere attitude towards people - creating conditions for the acceptance and transmission of the Word of God, the Covenant, Christ, and human salvation Matt. 7:12
 > Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets. (Matt. 7:12, KJV)
 
-## 3) 1 John 4:13-15 - the importance of accepting the Word of God, the Covenant, Christ
+## 3) 1 John 4:13-15 - the importance of accepting the Word of God, the Covenant, and Christ
 > Hereby know we that we dwell in him, and he in us, because he hath given us of his Spirit. And we have seen and do testify that the Father sent the Son to be the Saviour of the world. Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God. (1 John 4:13-15, KJV)
 
 ### (1) 1 John 4:13, - understanding salvation, Emmanuel
@@ -94,15 +94,15 @@
 ### (2) 1 John 4:14-15, is right. Confession, understanding of Emmanuel
 > And we have seen and do testify that the Father sent the Son to be the Saviour of the world. Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God. (1 John 4:14-15, KJV)
 
-## 4) 1 John 4:16-18, - the importance of accepting and growing in the love of God
+## 4) 1 John 4:16-18, - the importance of accepting and growing in God's love
 > And we have known and believed the love that God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God in him. Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world. There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love. (1 John 4:16-18, KJV)
 
 ### (1) 1 John 4:16, - the importance of accepting the love of God, Emmanuel
 > And we have known and believed the love that God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God in him. (1 John 4:16, KJV)
 
-#### (a) Knowledge of the love of God – understanding the Word of God, the Covenant, Christ
+#### (a) The knowledge of God's love is the understanding of God's Word, Covenant, and Christ
 
-#### (b) Acceptance of the love of God – acceptance of the Word of God, the Covenant, Christ, faith
+#### (b) Acceptance of God's love – acceptance of God's Word, Covenant, Christ, faith
 
 ### (2) 1 John 4:17-18, - understanding of the future, confidence in salvation
 > Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world. There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love. (1 John 4:17-18, KJV)
@@ -118,7 +118,7 @@
 > Ye have not yet resisted unto blood, striving against sin. And ye have forgotten the exhortation which speaketh unto you as unto children, My son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him: For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth. If ye endure chastening, God dealeth with you as with sons; for what son is he whom the father chasteneth not? But if ye be without chastisement, whereof all are partakers, then are ye bastards, and not sons. Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live? For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness. Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby. Wherefore lift up the hands which hang down, and the feeble knees; And make straight paths for your feet, lest that which is lame be turned out of the way; but let it rather be healed. (Heb. 12:4-13, KJV)
 > Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the smallest matters? (1 Cor. 6:2, KJV)
 
-#### (a) Acceptance of the Word of God, the Covenant, Christ – acceptance of God's love and mercy, conscious acceptance of the solution of the problem of sins through the Sacrifice of Christ, God's judgment and justification of man
+#### (a) Accepting the Word of God, the Covenant, and Christ– accepting God's love and mercy, consciously resolving the problem of sins through Christ's Sacrifice, God's judgment, and man's justification
 
 #### (b) God's judgment and punishment for the purpose of admonishing and teaching a person, the circumstances of life, the importance of a person's right life
 
@@ -126,17 +126,17 @@
 
 #### (d) The Resurrection from the dead, the 1000th kingdom with Christ and the children of God on earth, participation in the Last Judgment of God at the Great Throne by God
 
-## 5) 1 John 4:19-21, - the importance of understanding and fulfilling the destiny of the people of God (knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, disciples, preparation of the second coming of Christ), the special importance of proper relationships among the people of God
+## 5) 1 John 4:19-21, - the importance of understanding and fulfilling the destiny of God's people (knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, disciples, preparation of the second coming of Christ), the special importance of proper relationships among the people of God
 > We love him, because he first loved us. If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen? And this commandment have we from him, That he who loveth God love his brother also. (1 John 4:19-21, KJV)
 
 ## Conclusion:
 
-### (1) The importance of a deep understanding of the Word of God, the Covenant, Christ
+### (1) The importance of a deep understanding of the Word of God, the Covenant, and Christ
 
 ### (2) The importance of the test of spirits, the confession of man
 
 ### (3) The importance of understanding God's Love
 
-### (4) The importance of a person's confidence in the forgiveness of sins and salvation, the importance of understanding the future of God's people
+### (4) The importance of man's confidence in the forgiveness of sins and salvation, the importance of understanding the future of God's people
 
 ### (5) The importance of understanding and fulfilling purpose

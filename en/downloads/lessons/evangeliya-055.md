@@ -19,11 +19,11 @@
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
 > To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins. (Acts 10:43, KJV)
 
-### (3) The rejection of the Word of God, the Covenant, Christ, the majority of Jews, the rejection of the Divinity of Christ and the Sufficiency of His Sacrifice. John 10:33, - Rom. 9:30-33
+### (3) The rejection of the Word of God, the Covenant, Christ, by the majority of Jews, the rejection of the Divinity of Christ and the All-sufficiency of His Sacrifice. John 10:33, - Rom. 9:30-33
 > The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. (John 10:33, KJV)
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
 
-### (4) The importance of understanding God's sovereignty and control, the inevitability of fulfilling God's Word, Covenant, Christ, God's Plan
+### (4) The importance of understanding God's sovereignty and control, the inevitability of fulfilling God's Word, Covenant, Christ, and God's plan
 
 ## 2) The importance of Christ's conformity to God's prophecies
 
@@ -35,7 +35,7 @@
 
 #### (b) Understanding the purpose of Christ – responsible for the sins and wickedness of the whole world, but not a villain or a sinner
 
-#### (c) Separation from God is the fate of a sinner, the fulfillment of God's Word, and evidence of God's acceptance of Christ's substitutionary Sacrifice for all the sins and misdeeds of mankind
+#### (c) Separation from God is the fate of a sinner, the fulfillment of God's Word, and evidence of God's acceptance of Christ's substitutionary Sacrifice for all the sins and evil deeds of mankind
 
 ### (2) Christ will commit Himself into the hands of God Ps. 31:5, - Luke 23:46
 > Into thine hand I commit my spirit: thou hast redeemed me, O LORD God of truth. (Ps. 31:5, KJV)
@@ -63,7 +63,7 @@
 
 #### (b) Suffering and death on the Cross, fulfilling the Word of God, solving all human problems, and the importance of accepting Jesus as the Christ
 
-#### (c) The importance of understanding the death of Christ – fulfilling the Word of God, affirming the action of soldiers (non-believers)
+#### (c) The importance of understanding the death of Christ – the fulfillment of the Word of God, the affirmation by the action of soldiers (non-believers)
 
 ### (5) Christ will be buried in the tomb of the rich man Isa. 53:9, - Matt. 27:57-60
 > And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither was any deceit in his mouth. (Isa. 53:9, KJV)
@@ -71,7 +71,7 @@
 
 #### (a) The importance of understanding the purpose of Christ – death and suffering for all the sins of all people, the redemption of mankind
 
-#### (b) Suffering and death on the Cross, fulfilling the Word of God, solving all human problems, and the importance of accepting Jesus as the Christ. (Explaining the smallest details through the prophecy of the Word of God, the importance of accepting the Word of God, the Covenant, the Christ for every human being)
+#### (b) Suffering and death on the Cross, fulfilling the Word of God, solving all human problems, and the importance of accepting Jesus as the Christ. (Explaining the smallest details through the prophecy of the Word of God, the importance of accepting the Word of God, the Covenant, and Christ for every human being)
 
 #### (c) Evidence of Christ's death – burial place, guards, Pharisees (confirmation by the actions of unbelieving people)
 
@@ -89,7 +89,7 @@
 > But now is Christ risen from the dead, and become the firstfruits of them that slept. For since by man came death, by man came also the resurrection of the dead. For as in Adam all die, even so in Christ shall all be made alive. But every man in his own order: Christ the firstfruits; afterward they that are Christ’s at his coming. (1 Cor. 15:20-23, KJV)
 > Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed, In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed. For this corruptible must put on incorruption, and this mortal must put on immortality. So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory. O death, where is thy sting? O grave, where is thy victory? (1 Cor. 15:51-55, KJV)
 
-#### (a) The importance of understanding the actions of Jesus Christ in hell – he entered the dungeons (part of hell) and preached the Word of God, the Covenant, Christ (People who did not have the opportunity to hear the Word of God, the Covenant, Christ, during his earthly life, the importance of human choice)
+#### (a) The importance of understanding the actions of Jesus Christ in hell – he entered the dungeons (part of hell) and preached the Word of God, the Covenant, Christ (People who did not have the opportunity to hear the Words of God, the Covenant, Christ, during their earthly life, the importance of human choice)
 
 #### (b) He broke the power of death and hell over the people of God V.Z., brought the people of God out of the "bosom of Abraham" (part of hell) and brought them into the Kingdom of Heaven (the solution to all the problems of the people of God V.Z.)
 
@@ -132,7 +132,7 @@
 
 #### (b) The importance of God's kingdom, the reward of God's people (the importance of service and dedication of a person's entire life to God), the affirmation of Divine will and justice
 
-#### (c) The importance of judgment at the great white throne is the constant fulfillment of the Word of God, the Covenant, Christ Ps. 138:2,Rom. 6:23
+#### (c) The importance of judgment at the great white throne is the constant fulfillment of the Word of God, the Covenant, and Christ Ps. 138:2,Rom. 6:23
 > I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name. (Ps. 138:2, KJV)
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
@@ -156,7 +156,7 @@
 
 #### (a) To die for all the sins of all people is man's atonement
 
-#### (b) Prepare the disciples - the importance of knowing and transmitting the Word of God, the Covenant, Christ, World Evangelization, preparation for the second coming of Christ
+#### (b) Prepare the disciples - the importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, preparation for the second coming of Christ
 
 #### (c) To show people the Holy, True God
 

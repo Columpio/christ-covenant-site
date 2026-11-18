@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -261,8 +263,8 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For Adam was first formed, then Eve.</p><cite>1 Tim. 2:13 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For Adam was formed first, and then Eve.</p><cite>1 Tim. 2:13 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For Adam was formed first, then Eve.</p><cite>1 Tim. 2:13 · WEB</cite></blockquote>
-<h4>(b) Adam's emphasis on the Word of God, the Covenant, Christ, the ministry of God (The importance of understanding priorities - God, Spouse, Children)</h4>
-<h4>(c) The meaning of life and marriage (intended) - service, glorification of God (Knowledge and transmission of the Word of God, the Testament, Christ, disciples, World Evangelization)</h4>
+<h4>(b) Adam's focus on the Word of God, the Covenant, Christ, serving God (The importance of understanding priorities - God, spouse, children)</h4>
+<h4>(c) The meaning of life and marriage (intended) – service, glorification of God (Knowledge and transmission of the Word of God, the Covenant, Christ, disciples, Worldwide Evangelization)</h4>
 <h4>(d) Children – the multiplication of God's children, eternal life with God, the eternal continuation of God's creation</h4>
 <h3>(2) Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), - loss of value. human</h3>
 <blockquote data-v="kjv"><p>Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.</p><cite>Gen. 3:1-7 · KJV</cite></blockquote>
@@ -277,9 +279,9 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:</p><cite>Eph. 2:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>in which you used to walk when you conformed to the ways of this world and of the ruler of the power of the air, the spirit who is now at work in the sons of disobedience.</p><cite>Eph. 2:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the children of disobedience.</p><cite>Eph. 2:2 · WEB</cite></blockquote>
-<h4>(a) The importance of actually confirming a person's choice. (The right to choose, "exam" - transmission of the Word of God, the Covenant, Christ, descendants)</h4>
+<h4>(a) The importance of actually confirming a person's choice. (The right to choose, "examination" - transmission of the Word of God, the Covenant, Christ, descendants)</h4>
 <h4>(b) Rejection of the Word of God, the Covenant, Christ (sin) – the collapse of life, marriage, family</h4>
-<h4>(c) Loss of purpose - there is no knowledge and transmission of the Word of God, the Covenant, Christ (Loss of the true meaning and purpose of life – emptiness and suffering)</h4>
+<h4>(c) Loss of purpose. – there is no knowledge and transmission of the Word of God, the Covenant, Christ (Loss of the true meaning and purpose of life – emptiness and suffering)</h4>
 <h4>(d) Spouse, children and Mammon – as the purpose and meaning of life (idols)</h4>
 <h4>(e) The unresolved spiritual problem is the eternal suffering of the spouses and their offspring, the obligatory personal execution of the sentence of the Word of God</h4>
 <h3>(3) Gen. 3:15, 21, - The Word of God, the Covenant, Christ,, the restoration of man</h3>
@@ -289,10 +291,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.</p><cite>Gen. 3:21 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And the LORD God made garments of skin for Adam and his wife, and He clothed them.</p><cite>Gen. 3:21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh God made garments of animal skins for Adam and for his wife, and clothed them.</p><cite>Gen. 3:21 · WEB</cite></blockquote>
-<h4>(a) Adam's focus on the Word of God, the Covenant, Christ, the ministry of God (The importance of understanding priorities - God, Spouse, Children)</h4>
+<h4>(a) Adam's focus on the Word of God, the Covenant, Christ, serving God (The importance of understanding priorities - God, spouse, children)</h4>
 <h4>(b) Return to the purpose of man (Emmanuel)</h4>
-<h4>(c) Return to the true meaning of life and marriage – the service of God (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization)</h4>
-<h4>(d) Children – transmission of the Word of God, the Covenant, Christ in time, the coming of Christ, eternal life with God, the eternal continuation of God's creation</h4>
+<h4>(c) Return to the true meaning of life and marriage – service to God (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)</h4>
+<h4>(d) Children – the transmission of the Word of God, the Covenant, and Christ in time, the coming of Christ, eternal life with God, and the eternal continuation of God's creation</h4>
 <h3>(4) The absence of children is God's sovereignty and control</h3>
 <h4>(a) The fulfillment of a person's destiny does not depend on children. (The absence of a spouse or children among God's people is God's actual affirmation in the Holy Scriptures)</h4>
 <h4>(b) The absence of a human family and the possibility of continuing the human race in eternal life with God – the importance of the family of God, God's sovereignty. Matt. 22:23-32</h4>
@@ -316,9 +318,9 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>The same day came to him the Sadducees, which say that there is no resurrection, and asked him, Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother. Now there were with us seven brethren: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother: Likewise the second also, and the third, unto the seventh. And last of all the woman died also. Therefore in the resurrection whose wife shall she be of the seven? for they all had her. Jesus answered and said unto them, Ye do err, not knowing the scriptures, nor the power of God. For in the resurrection they neither marry, nor are given in marriage, but are as the angels of God in heaven. But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living.</p><cite>Matt. 22:23-32 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>That same day the Sadducees, who say there is no resurrection, came to Jesus and questioned Him. “Teacher,” they said, “Moses declared that if a man dies without having children, his brother is to marry the widow and raise up offspring for him. Now there were seven brothers among us. The first one married and died without having children. So he left his wife to his brother. The same thing happened to the second and third brothers, down to the seventh. And last of all, the woman died. In the resurrection, then, whose wife will she be of the seven? For all of them were married to her.” Jesus answered, “You are mistaken because you do not know the Scriptures or the power of God. In the resurrection, people will neither marry nor be given in marriage. Instead, they will be like the angels in heaven. But concerning the resurrection of the dead, have you not read what God said to you: ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’? He is not the God of the dead, but of the living.”</p><cite>Matt. 22:23-32 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>On that day Sadducees (those who say that there is no resurrection) came to him. They asked him, saying, “Teacher, Moses said, ‘If a man dies, having no children, his brother shall marry his wife and raise up offspring for his brother.’ Now there were with us seven brothers. The first married and died, and having no offspring left his wife to his brother. In the same way, the second also, and the third, to the seventh. After them all, the woman died. In the resurrection therefore, whose wife will she be of the seven? For they all had her.” But Jesus answered them, “You are mistaken, not knowing the Scriptures, nor the power of God. For in the resurrection they neither marry nor are given in marriage, but are like God’s angels in heaven. But concerning the resurrection of the dead, haven’t you read that which was spoken to you by God, saying, ‘I am the God of Abraham, and the God of Isaac, and the God of Jacob’? God is not the God of the dead, but of the living.”</p><cite>Matt. 22:23-32 · WEB</cite></blockquote>
-<h3>(2) Children – God is the plan, destiny is man (God is foreknowledge, predestination)</h3>
-<h4>(a) Believing children – knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization</h4>
-<h4>(b) Unbelieving children – rejection of the Word of God, the Covenant, Christ</h4>
+<h3>(2) Children are God's plan, man's destiny (God's foreknowledge, predestination)</h3>
+<h4>(a) Believing children – learning and transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization</h4>
+<h4>(b) Unbelieving children – rejection of the Word of God, the Covenant, and Christ</h4>
 <h4>(c) The death of children before the age of awareness is salvation. Matt. 19:13-14</h4>
 <blockquote data-v="kjv"><p>Then were there brought unto him little children, that he should put his hands on them, and pray: and the disciples rebuked them. But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven.</p><cite>Matt. 19:13-14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Then little children were brought to Jesus for Him to place His hands on them and pray for them. And the disciples rebuked those who brought them. But Jesus said, “Let the little children come to Me, and do not hinder them! For the kingdom of heaven belongs to such as these.”</p><cite>Matt. 19:13-14 · BSB</cite></blockquote>
@@ -330,7 +332,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h4>(e) Man's madness from birth is salvation, Ts.N</h4>
 <h3>(3) Parents – the coming of man into life, God's sovereignty</h3>
 <h4>(a) The presence and number of children is a person's right to choose and trust God (God's sovereignty and control is God's jurisdiction)</h4>
-<h4>(b) The responsibility of parents is to convey the Word of God, the Covenant, Christ, and prepare for the actual choice of a person. (The importance of the invisible is the coming eternity). Matt. 16:28</h4>
+<h4>(b) The responsibility of parents is to convey the Word of God, the Covenant, and Christ, and to prepare for the actual choice of a person. (The importance of the invisible is the coming eternity). Matt. 16:28</h4>
 <blockquote data-v="kjv"><p>Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom.</p><cite>Matt. 16:28 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Truly I tell you, some who are standing here will not taste death before they see the Son of Man coming in His kingdom.”</p><cite>Matt. 16:28 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Most certainly I tell you, there are some standing here who will in no way taste of death until they see the Son of Man coming in his Kingdom.”</p><cite>Matt. 16:28 · WEB</cite></blockquote>
@@ -350,14 +352,14 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>“If anyone comes to me, and doesn’t disregard his own father, mother, wife, children, brothers, and sisters, yes, and his own life also, he can’t be my disciple.</p><cite>Luke 14:26 · WEB</cite></blockquote>
 <h3>(4) The importance of understanding human life periods</h3>
 <h4>(a) Under 21 years of age – upbringing and education of a person (spiritual and secular)</h4>
-<h4>(b) 21-30 years of age – preparation for service. (Physical – work, family, housing, spiritual – the ability to transmit the Word of God)</h4>
-<h4>(c) 30-70 years – transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization</h4>
+<h4>(b) 21-30 years of age – preparation for service. (Physical – work, family, housing, spiritual – the ability to convey the Word of God)</h4>
+<h4>(c) 30-70 years – transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization</h4>
 <h3>(5) Understanding the stages of human spiritual growth</h3>
-<h4>(a) Hearing, realizing, and accepting the Word of God, the Covenant, Christ (salvation)</h4>
-<h4>(b) Preparation for the transmission of the Word of God, the Covenant, Christ (teaching)</h4>
+<h4>(a) Hearing, realizing, and accepting the Word of God, the Covenant, and Christ (salvation)</h4>
+<h4>(b) Preparation for the transmission of the Word of God, the Covenant, and Christ (training)</h4>
 <h4>(c) Transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization (service to people)</h4>
 <h2 id="s3">3) The importance of understanding a person's right to choose, the institution of God – acceptance or non-acceptance of the Word of God, the Covenant, Christ</h2>
-<h3>(1) Acceptance of the Word of God, the Covenant, Christ is God's condition for salvation Acts 10:1-6; 16:30-34,Rom. 10:9</h3>
+<h3>(1) Acceptance of the Word of God, the Covenant, and Christ is God's condition for salvation Acts 10:1-6; 16:30-34,Rom. 10:9</h3>
 <blockquote data-v="kjv"><p>There was a certain man in Cæsarea called Cornelius, a centurion of the band called the Italian band, A devout man, and one that feared God with all his house, which gave much alms to the people, and prayed to God alway. He saw in a vision evidently about the ninth hour of the day an angel of God coming in to him, and saying unto him, Cornelius. And when he looked on him, he was afraid, and said, What is it, Lord? And he said unto him, Thy prayers and thine alms are come up for a memorial before God. And now send men to Joppa, and call for one Simon, whose surname is Peter: He lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do.</p><cite>Acts 10:1-6 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>At Caesarea there was a man named Cornelius, a centurion in what was called the Italian Regiment. He and all his household were devout and God-fearing. He gave generously to the people and prayed to God regularly. One day at about the ninth hour, he had a clear vision of an angel of God who came to him and said, “Cornelius!” Cornelius stared at him in fear and asked, “What is it, Lord?” The angel answered, “Your prayers and gifts to the poor have ascended as a memorial offering before God. Now send men to Joppa to call for a man named Simon who is called Peter. He is staying with Simon the tanner, whose house is by the sea.”</p><cite>Acts 10:1-6 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now there was a certain man in Caesarea, Cornelius by name, a centurion of what was called the Italian Regiment, a devout man, and one who feared God with all his house, who gave gifts for the needy generously to the people, and always prayed to God. At about the ninth hour of the day, he clearly saw in a vision an angel of God coming to him and saying to him, “Cornelius!” He, fastening his eyes on him and being frightened, said, “What is it, Lord?” He said to him, “Your prayers and your gifts to the needy have gone up for a memorial before God. Now send men to Joppa, and get Simon, who is also called Peter. He is staying with a tanner named Simon, whose house is by the seaside.</p><cite>Acts 10:1-6 · WEB</cite></blockquote>
@@ -367,23 +369,23 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.</p><cite>Rom. 10:9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>that if you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised Him from the dead, you will be saved.</p><cite>Rom. 10:9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>that if you will confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.</p><cite>Rom. 10:9 · WEB</cite></blockquote>
-<h4>(a) The importance of being able to hear the Word of God, the Covenant, Christ</h4>
+<h4>(a) The importance of being able to hear the Word of God, the Covenant, and Christ</h4>
 <h4>(b) Understanding a person's right to choose (acceptance)</h4>
-<h4>(c) Mystical understanding of salvation – a complete misunderstanding of the Word of God, the Covenant, Christ, manipulation and deception of parents</h4>
+<h4>(c) The mystical understanding of salvation is a complete misunderstanding of the Word of God, the Covenant, Christ, manipulation and deception of parents</h4>
 <h3>(2) Children's disbelief is a person's right to choose. (Understanding the choices of Cain, the children of Elijah and Samuel)</h3>
 <h3>(3) The responsibility of parents is physical. and spiritual support for children</h3>
 <h4>(a) The importance of the firmness and actions of parents according to the Word of God</h4>
 <h4>(b) The importance of prayer – affirming God's will</h4>
-<h4>(c) The importance of reporting (sowing) The Word of God Luke 26:33 (robbers)</h4>
-<h3>(4) Separation in families, fulfilling the Word of God Matt. 10:34-39</h3>
+<h4>(c) The importance of reporting (sowing) The Words of God Luke 26:33 (Robbers)</h4>
+<h3>(4) Separation in families, fulfillment of the Word of God Matt. 10:34-39</h3>
 <blockquote data-v="kjv"><p>Think not that I am come to send peace on earth: I came not to send peace, but a sword. For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law. And a man’s foes shall be they of his own household. He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me. And he that taketh not his cross, and followeth after me, is not worthy of me. He that findeth his life shall lose it: and he that loseth his life for my sake shall find it.</p><cite>Matt. 10:34-39 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Do not assume that I have come to bring peace to the earth; I have not come to bring peace, but a sword. For I have come to turn ‘a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law. A man’s enemies will be the members of his own household.’ Anyone who loves his father or mother more than Me is not worthy of Me; anyone who loves his son or daughter more than Me is not worthy of Me; and anyone who does not take up his cross and follow Me is not worthy of Me. Whoever finds his life will lose it, and whoever loses his life for My sake will find it.</p><cite>Matt. 10:34-39 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“Don’t think that I came to send peace on the earth. I didn’t come to send peace, but a sword. For I came to set a man at odds against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law. A man’s foes will be those of his own household. He who loves father or mother more than me is not worthy of me; and he who loves son or daughter more than me isn’t worthy of me. He who doesn’t take his cross and follow after me isn’t worthy of me. He who seeks his life will lose it; and he who loses his life for my sake will find it.</p><cite>Matt. 10:34-39 · WEB</cite></blockquote>
-<h4>(a) Children of God – family of God, acceptance of the Covenant, Christ, C. John 1:12</h4>
+<h4>(a) The Children of God – the family of God, acceptance of the Covenant, Christ, C. John 1:12</h4>
 <blockquote data-v="kjv"><p>But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:</p><cite>John 1:12 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But to all who did receive Him, to those who believed in His name, He gave the right to become children of God—</p><cite>John 1:12 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But as many as received him, to them he gave the right to become God’s children, to those who believe in his name:</p><cite>John 1:12 · WEB</cite></blockquote>
-<h4>(b) Children of the Devil – the devil family, non-acceptance of the Covenant, Christ John 8:44</h4>
+<h4>(b) Children of the Devil – the devil's family, rejection of the Covenant, Christ John 8:44</h4>
 <blockquote data-v="kjv"><p>Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.</p><cite>John 8:44 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>You belong to your father, the devil, and you want to carry out his desires. He was a murderer from the beginning, refusing to uphold the truth, because there is no truth in him. When he lies, he speaks his native language, because he is a liar and the father of lies.</p><cite>John 8:44 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>You are of your father the devil, and you want to do the desires of your father. He was a murderer from the beginning, and doesn’t stand in the truth, because there is no truth in him. When he speaks a lie, he speaks on his own; for he is a liar, and the father of lies.</p><cite>John 8:44 · WEB</cite></blockquote>
@@ -394,8 +396,8 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h3>(1) The importance of the Word of God, the Covenant, and Christ for man</h3>
 <h3>(2) The importance of understanding God's sovereignty and control, the importance of trusting God and constantly asserting His will</h3>
 <h3>(3) The importance of understanding the meaning of children's lives on earth – choosing about eternity (where?, with Whom?)</h3>
-<h3>(4) The importance of parenting, affirmation of the Word of God, the Covenant, Christ (The importance of secular and spiritual education and upbringing)</h3>
-<h3>(5) The importance of understanding and fulfilling the purpose – knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ</h3>
+<h3>(4) The importance of raising children, affirming the Word of God, the Covenant, and Christ (The importance of secular and spiritual education and upbringing)</h3>
+<h3>(5) The importance of understanding and fulfilling the purpose – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
 </body>

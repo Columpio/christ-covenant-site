@@ -19,11 +19,11 @@
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
 > To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins. (Acts 10:43, KJV)
 
-### (3) The rejection of the Word of God, the Covenant, Christ, the majority of Jews, the rejection of the Divinity of Christ and the Sufficiency of His Sacrifice. John 10:33, - Rom. 9:30-33
+### (3) The rejection of the Word of God, the Covenant, Christ, by the majority of Jews, the rejection of the Divinity of Christ and the All-sufficiency of His Sacrifice. John 10:33, - Rom. 9:30-33
 > The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. (John 10:33, KJV)
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
 
-### (4) The importance of understanding God's sovereignty and control, the inevitability of fulfilling God's Word, Covenant, Christ, God's Plan
+### (4) The importance of understanding God's sovereignty and control, the inevitability of fulfilling God's Word, Covenant, Christ, and God's plan
 
 ## 2) The importance of Christ's conformity to God's prophecies
 
@@ -70,7 +70,7 @@
 
 #### (a) The importance of understanding the fall of mankind – the power of sin, death and hell, Satan, the destruction of the True Temple of God (man), the legitimate and eternal separation of man from God
 
-#### (b) The importance of understanding the work of Christ – solving all human problems, legitimate liberation from the power of sin, death and hell, Satan, restoring man to his original form, restoring the True Temple of God (Emmanuel)
+#### (b) The importance of understanding the work of Christ – the solution of all human problems, legitimate liberation from the power of sin, death and hell, Satan, the restoration of man to his original form, the restoration of the True Temple of God (Emmanuel)
 
 ### (6) Christ will be a "stumbling block" for the Jews Ps. 118:22, - Rom. 9:30-33,1 Pet. 2:4-8
 > The stone which the builders refused is become the head stone of the corner. (Ps. 118:22, KJV)
@@ -79,7 +79,7 @@
 
 #### (a) The importance of properly understanding the Word of God from the perspective of the Covenant, Christ
 
-#### (b) Understanding Satan's actions – resisting the Word of God, the Covenant, Christ, establishing religion (earning salvation), visible
+#### (b) Understanding of Satan's actions – resisting the Word of God, the Covenant, Christ, establishing religion (earning salvation), visible
 
 ### (7) Christ will enter Jerusalem on a donkey Zech. 9:9, - Matt. 21:6-11
 > Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass. (Zech. 9:9, KJV)
@@ -87,7 +87,7 @@
 
 #### (a) The importance of understanding the mission of Christ – serving man, fulfilling the sentence of the Word of God in place of every human being
 
-#### (b) The importance of understanding and fulfilling the destiny of God's people – serving man, bringing the Word of God, the Covenant, Christ (The importance of knowing and transmitting the Word of God, the Covenant, Christ, the Disciples, World Evangelization)
+#### (b) The importance of understanding and fulfilling the destiny of God's people – serving man, bringing the Word of God, the Covenant, and Christ (The importance of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization)
 
 ### (8) Christ will enter the Temple Mal. 3:1,Ps. 69:9, - John 2:15-17,Matt. 21:12
 > Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts. (Mal. 3:1, KJV)
@@ -156,7 +156,7 @@
 
 #### (a) To die for all the sins of all people is man's atonement
 
-#### (b) Prepare the disciples - the importance of knowing and transmitting the Word of God, the Covenant, Christ, World Evangelization, preparation for the second coming of Christ
+#### (b) Prepare the disciples - the importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, preparation for the second coming of Christ
 
 #### (c) To show people the Holy, True God
 

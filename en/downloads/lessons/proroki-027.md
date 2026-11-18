@@ -1,7 +1,7 @@
 # Zech. 1–6, 14
 ## 1.1) Minor Prophets of the Judean (Southern) Kingdom: Joel, Obadiah, Micah, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi. (Amos lived in Judah, prophesied for the Israelite king.)
 
-## 2) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 2) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -13,36 +13,36 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-## 3) The ministry of the prophets is the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of God's people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+## 3) The ministry of the prophets is the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of God's people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 
 ### (1) The Prophets of V.Z. – understanding and acceptance of the Word of God, the Covenant, Christ, salvation and rebirth, the action of the Holy Spirit 1 Pet. 1:10-11,Acts 10:43,2 Pet. 1:19-21
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
 > To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins. (Acts 10:43, KJV)
 > We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts: Knowing this first, that no prophecy of the scripture is of any private interpretation. For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost. (2 Pet. 1:19-21, KJV)
 
-#### (a) Explaining the problem of man, of the people – the rejection of the Word of God, the Covenant, Christ, the rejection of destiny. (The consequence is idolatry, mammon, immorality)
+#### (a) The explanation of the problem of man and the people is the rejection of the Word of God, the Covenant, Christ, and the rejection of destiny. (The consequence is idolatry, mammon, immorality)
 
-#### (b) An explanation of the decision for the person, the people – acceptance of the Word of God, the Covenant, Christ, fulfillment of destiny
+#### (b) An explanation of the decision for the person, the people – the acceptance of the Word of God, the Covenant, Christ, the fulfillment of destiny
 
-#### (c) Explaining the reasons for the judgments of God – the inevitable execution of the sentence, the Word of God, the right of choice of man. Rom. 6:23,Deut. 30:19
+#### (c) The explanation of the reason for God's judgments is the inevitable execution of the sentence of the Word of God, the right of man to choose. Rom. 6:23,Deut. 30:19
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
-### (2) The modern people of God, the continuation of prophetic ministry – the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of the people of God. John 16:8-11. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+### (2) The modern people of God, the continuation of prophetic ministry – the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of the people of God. John 16:8-11. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 > And when he is come, he will reprove the world of sin, and of righteousness, and of judgment: Of sin, because they believe not on me; Of righteousness, because I go to my Father, and ye see me no more; Of judgment, because the prince of this world is judged. (John 16:8-11, KJV)
 
 ## 3) Zachariah. 1-6 (520 BC), – affirmation of the Word of God, the Covenant, Christ, the eight visions of Zechariah, the importance of understanding and fulfilling the destiny of God's people. (The First Return of the Jews, the restoration of the 2nd Temple)
 
-### (1) Zech. 1, - God sovereignty and control, fulfillment of the Word of God
+### (1) Zech. 1, - God's sovereignty and control, the fulfillment of God's Word
 
-#### (a) Zech. 1:1-6, - the importance of preserving the Word of God, the Covenant, Christ, destiny
+#### (a) Zech. 1:1-6, - the importance of preserving the Word of God, the Covenant, Christ, and destiny
 > In the eighth month, in the second year of Darius, came the word of the LORD unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying, The LORD hath been sore displeased with your fathers. Therefore say thou unto them, Thus saith the LORD of hosts; Turn ye unto me, saith the LORD of hosts, and I will turn unto you, saith the LORD of hosts. Be ye not as your fathers, unto whom the former prophets have cried, saying, Thus saith the LORD of hosts; Turn ye now from your evil ways, and from your evil doings: but they did not hear, nor hearken unto me, saith the LORD. Your fathers, where are they? and the prophets, do they live for ever? But my words and my statutes, which I commanded my servants the prophets, did they not take hold of your fathers? and they returned and said, Like as the LORD of hosts thought to do unto us, according to our ways, and according to our doings, so hath he dealt with us. (Zech. 1:1-6, KJV)
 
 #### (b) Zech. 1:7-17 (16), - the vision of the horsemen (1), the restoration of the Temple and Jerusalem, the unfailing fulfillment of the Word of God Dan. 9:25
 > Upon the four and twentieth day of the eleventh month, which is the month Sebat, in the second year of Darius, came the word of the LORD unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying, I saw by night, and behold a man riding upon a red horse, and he stood among the myrtle trees that were in the bottom; and behind him were there red horses, speckled, and white. Then said I, O my lord, what are these? And the angel that talked with me said unto me, I will shew thee what these be. And the man that stood among the myrtle trees answered and said, These are they whom the LORD hath sent to walk to and fro through the earth. And they answered the angel of the LORD that stood among the myrtle trees, and said, We have walked to and fro through the earth, and, behold, all the earth sitteth still, and is at rest. Then the angel of the LORD answered and said, O LORD of hosts, how long wilt thou not have mercy on Jerusalem and on the cities of Judah, against which thou hast had indignation these threescore and ten years? And the LORD answered the angel that talked with me with good words and comfortable words. So the angel that communed with me said unto me, Cry thou, saying, Thus saith the LORD of hosts; I am jealous for Jerusalem and for Zion with a great jealousy. And I am very sore displeased with the heathen that are at ease: for I was but a little displeased, and they helped forward the affliction. Therefore thus saith the LORD; I am returned to Jerusalem with mercies: my house shall be built in it, saith the LORD of hosts, and a line shall be stretched forth upon Jerusalem. Cry yet, saying, Thus saith the LORD of hosts; My cities through prosperity shall yet be spread abroad; and the LORD shall yet comfort Zion, and shall yet choose Jerusalem. (Zech. 1:7-17, KJV)
 > Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times. (Dan. 9:25, KJV)
 
-#### (c) Zech. 1:18-21, - vision of horns (2), restoration of Judea, importance of fulfilling destiny, Temple, World Evangelization, coming of Christ
+#### (c) Zech. 1:18-21, - vision of horns (2), restoration of Judea, importance of fulfilling destiny, Temple, Worldwide Evangelization, the coming of Christ
 > Then lifted I up mine eyes, and saw, and behold four horns. And I said unto the angel that talked with me, What be these? And he answered me, These are the horns which have scattered Judah, Israel, and Jerusalem. And the LORD shewed me four carpenters. Then said I, What come these to do? And he spake, saying, These are the horns which have scattered Judah, so that no man did lift up his head: but these are come to fray them, to cast out the horns of the Gentiles, which lifted up their horn over the land of Judah to scatter it. (Zech. 1:18-21, KJV)
 
 ### (2) Zech. 2, - the vision of the surveying line (3), the fulfillment of the Word of God
@@ -58,10 +58,10 @@
 
 ### (3) Zech. 3, - the vision of the great priest (4), the importance of understanding and fulfilling the destiny and will of God
 
-#### (a) Zech. 3:1-8, - Jesus son of Jozadak, High Priest, God's forgiveness and restoration of the people, the importance of fulfilling the destiny
+#### (a) Zech. 3:1-8, - Jesus son of Jozadak, High Priest, forgiveness and restoration of God's people, the importance of fulfilling the destiny
 > And he shewed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to resist him. And the LORD said unto Satan, The LORD rebuke thee, O Satan; even the LORD that hath chosen Jerusalem rebuke thee: is not this a brand plucked out of the fire? Now Joshua was clothed with filthy garments, and stood before the angel. And he answered and spake unto those that stood before him, saying, Take away the filthy garments from him. And unto him he said, Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with change of raiment. And I said, Let them set a fair mitre upon his head. So they set a fair mitre upon his head, and clothed him with garments. And the angel of the LORD stood by. And the angel of the LORD protested unto Joshua, saying, Thus saith the LORD of hosts; If thou wilt walk in my ways, and if thou wilt keep my charge, then thou shalt also judge my house, and shalt also keep my courts, and I will give thee places to walk among these that stand by. Hear now, O Joshua the high priest, thou, and thy fellows that sit before thee: for they are men wondered at: for, behold, I will bring forth my servant the BRANCH. (Zech. 3:1-8, KJV)
 
-#### (b) Zech. 3:1, - understanding the actions of Satan, resisting the Word of God, the Covenant, Christ, God's sovereignty and control of Satan
+#### (b) Zech. 3:1, - understanding the actions of Satan, resisting the Word of God, the Covenant, Christ, God's sovereignty and Satan's control
 > And he shewed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to resist him. (Zech. 3:1, KJV)
 
 #### (c) Zech. 3:8-9, - Branch, servant of God, Christ, fulfillment of the Word of God
@@ -117,6 +117,6 @@
 
 ## Conclusion:
 
-### (1) The importance of understanding God's sovereignty and control, the unchanging fulfillment of God's Word, Covenant, Christ
+### (1) The importance of understanding God's sovereignty and control, and the unfailing fulfillment of God's Word, Covenant, and Christ
 
 ### (2) The importance of understanding the Word of God, the Covenant, Christ, and the importance of fulfilling the destiny of God's people

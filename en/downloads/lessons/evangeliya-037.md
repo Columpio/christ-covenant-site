@@ -1,6 +1,6 @@
 # 32. Matt. 22: Last Week, understanding God's will
 
-## 1) Matt. 22:1-14, - the statement of the Word of God, the Covenant, Christ, God's will for man
+## 1) Matt. 22:1-14, - affirmation of the Word of God, the Covenant, Christ, God's will for man
 > And Jesus answered and spake unto them again by parables, and said, The kingdom of heaven is like unto a certain king, which made a marriage for his son, And sent forth his servants to call them that were bidden to the wedding: and they would not come. Again, he sent forth other servants, saying, Tell them which are bidden, Behold, I have prepared my dinner: my oxen and my fatlings are killed, and all things are ready: come unto the marriage. But they made light of it, and went their ways, one to his farm, another to his merchandise: And the remnant took his servants, and entreated them spitefully, and slew them. But when the king heard thereof, he was wroth: and he sent forth his armies, and destroyed those murderers, and burned up their city. Then saith he to his servants, The wedding is ready, but they which were bidden were not worthy. Go ye therefore into the highways, and as many as ye shall find, bid to the marriage. So those servants went out into the highways, and gathered together all as many as they found, both bad and good: and the wedding was furnished with guests. And when the king came in to see the guests, he saw there a man which had not on a wedding garment: And he saith unto him, Friend, how camest thou in hither not having a wedding garment? And he was speechless. Then said the king to the servants, Bind him hand and foot, and take him away, and cast him into outer darkness; there shall be weeping and gnashing of teeth. For many are called, but few are chosen. (Matt. 22:1-14, KJV)
 
 ### (1) Matt. 22:1-3, - wedding feast, C.N., God's will for man Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
@@ -15,7 +15,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-### (2) Matt. 22:4-6, - non-acceptance of the Word of God, the Covenant, Christ, the right to choose
+### (2) Matt. 22:4-6, - rejection of the Word of God, the Covenant, Christ, the right to choose
 > Again, he sent forth other servants, saying, Tell them which are bidden, Behold, I have prepared my dinner: my oxen and my fatlings are killed, and all things are ready: come unto the marriage. But they made light of it, and went their ways, one to his farm, another to his merchandise: And the remnant took his servants, and entreated them spitefully, and slew them. (Matt. 22:4-6, KJV)
 
 ### (3) Matt. 22:7, - the destruction of Jerusalem, 2000 l. the dispersion of the Jews
@@ -30,17 +30,17 @@
 ### (6) Matt. 22:14, - man's right to choose, God's foreknowledge
 > For many are called, but few are chosen. (Matt. 22:14, KJV)
 
-## 2) Matt. 22:15-22, - the action of Satan, stop the transmission of the Word of God, the Covenant, Christ
+## 2) Matt. 22:15-22, - the action of Satan, to stop the transmission of the Word of God, the Covenant, Christ
 > Then went the Pharisees, and took counsel how they might entangle him in his talk. And they sent out unto him their disciples with the Herodians, saying, Master, we know that thou art true, and teachest the way of God in truth, neither carest thou for any man: for thou regardest not the person of men. Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Caesar, or not? But Jesus perceived their wickedness, and said, Why tempt ye me, ye hypocrites? Shew me the tribute money. And they brought unto him a penny. And he saith unto them, Whose is this image and superscription? They say unto him, Cæsar’s. Then saith he unto them, Render therefore unto Cæsar the things which are Cæsar’s; and unto God the things that are God’s. When they had heard these words, they marvelled, and left him, and went their way. (Matt. 22:15-22, KJV)
 
-### (1) Caesar's to Caesar – God's understanding of sovereignty, civic duty
+### (1) Caesar's Caesar's – understanding of God's sovereignty, civic duty
 
-### (2) God's to God – knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization
+### (2) God's Message to God is the knowledge and transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
-### (3) Understanding Priorities is God's above man Acts 5:29
+### (3) Understanding Priorities – God's above man's Acts 5:29
 > Then Peter and the other apostles answered and said, We ought to obey God rather than men. (Acts 5:29, KJV)
 
-## 3) Matt. 22:23-33, - affirmation of the Word of God, the Covenant, Christ, the resurrection of man
+## 3) Matt. 22:23-33, - the affirmation of the Word of God, the Covenant, Christ, the resurrection of man
 > The same day came to him the Sadducees, which say that there is no resurrection, and asked him, Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother. Now there were with us seven brethren: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother: Likewise the second also, and the third, unto the seventh. And last of all the woman died also. Therefore in the resurrection whose wife shall she be of the seven? for they all had her. Jesus answered and said unto them, Ye do err, not knowing the scriptures, nor the power of God. For in the resurrection they neither marry, nor are given in marriage, but are as the angels of God in heaven. But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living. And when the multitude heard this, they were astonished at his doctrine. (Matt. 22:23-33, KJV)
 
 ### (1) Matt. 22:23-29, - misunderstanding of the Word of God, the Covenant, Christ, false teaching
@@ -56,17 +56,17 @@
 ### (3) Matt. 22:31-33, - the eternity of man, the resurrection from the dead
 > But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living. And when the multitude heard this, they were astonished at his doctrine. (Matt. 22:31-33, KJV)
 
-## 4) Matt. 22:34-40, - understanding the Word of God, the Covenant, Christ
+## 4) Matt. 22:34-40, - understanding the Word of God, the Covenant, and Christ
 > But when the Pharisees had heard that he had put the Sadducees to silence, they were gathered together. Then one of them, which was a lawyer, asked him a question, tempting him, and saying, Master, which is the great commandment in the law? Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it, Thou shalt love thy neighbour as thyself. On these two commandments hang all the law and the prophets. (Matt. 22:34-40, KJV)
 
-### (1) Love of God – knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization
+### (1) Love of God is the knowledge and transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
-### (2) Love for man – knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization (The essence of the Gospel, the faith of God and the purpose of man)
+### (2) Love for man is the knowledge and transmission of the Word of God, the Covenant, Christ, and World Evangelization (The essence of the Gospel, the faith of God, and the purpose of man)
 
 ## 5) Matt. 22:41-46, - affirmation of the Word of God, the Covenant, Christ, the importance of understanding the Divinity and destiny of Christ
 > While the Pharisees were gathered together, Jesus asked them, Saying, What think ye of Christ? whose son is he? They say unto him, The Son of David. He saith unto them, How then doth David in spirit call him Lord, saying, The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool? If David then call him Lord, how is he his son? And no man was able to answer him a word, neither durst any man from that day forth ask him any more questions. (Matt. 22:41-46, KJV)
 
-### (1) Pharisees – misunderstanding of the Word of God, the Covenant, Christ, there is no salvation and no rebirth, misunderstanding of the destiny of the people of God
+### (1) Pharisees – misunderstanding of the Word of God, the Covenant, Christ, there is no salvation and no rebirth, misunderstanding of the destiny of God's people
 
 ### (2) Rejection of Jesus as the Messiah, Christ, misunderstanding of the nature of Christ (God in the flesh). Acts 26:4-7, - Matt. 22:41-46, Gen. 3:15, 21,Jude 1:14 (1 Pet. 1:10-11,Acts 10:43), Job 19:25-27, Ps. 110:1,Isa. 7:14; 9:6,John 8:56-58, - Isa. 53:5-6,Dan. 9:26
 > My manner of life from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews; Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee. And now I stand and am judged for the hope of the promise made of God unto our fathers: Unto which promise our twelve tribes, instantly serving God day and night, hope to come. For which hope’s sake, king Agrippa, I am accused of the Jews. (Acts 26:4-7, KJV)
@@ -88,7 +88,7 @@
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
 > Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ, And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith: (Phil. 3:8-9, KJV)
 
-## 6) The importance of understanding the meaning and essence of the Covenant, Christ
+## 6) The importance of understanding the meaning and essence of the Covenant, of Christ
 
 # 1. God's Side
 
@@ -100,7 +100,7 @@
 
 ### (1) Acceptance of the Divinity of Christ and the forgiveness of all sins (past, present, and future) through His Sacrifice and Asceticism
 
-### (2) Knowledge and transmission of the Word of God, the Covenant, Christ, Destiny
+### (2) Knowledge and transmission of the Word of God, the Covenant, Christ, destiny
 
 ## 7) Titles of Jesus of Nazareth
 
@@ -129,7 +129,7 @@
 ### (1) The importance of understanding God's will for man. 1 Tim. 2:4
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 
-### (2) The importance of accepting the Word of God, the Covenant, Christ (the right to choose)
+### (2) The importance of accepting the Word of God, the Covenant, and Christ (the right to choose)
 
 ### (3) The importance of understanding the priorities of life (God, destiny)
 
@@ -137,6 +137,6 @@
 
 ### (5) The importance of understanding God's Love
 
-### (6) The importance of Understanding the Divinity and Destiny of Christ
+### (6) The importance of understanding the Divinity and Destiny of Christ
 
-### (7) The importance of understanding the meaning and essence of the Covenant, Christ
+### (7) The importance of understanding the meaning and essence of the Covenant, of Christ

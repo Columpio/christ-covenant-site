@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,21 +233,21 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>2. The Lord's Prayer (Our Father)</h1>
 <ul>
-<li>Prayer – communion with God through the Word of God, the Covenant, Christ</li>
+<li>Prayer is communion with God through the Word of God, the Covenant, and Christ.</li>
 <li>It is not prayer that moves God, but God that moves prayer.</li>
 <li>Prayer - knowledge and affirmation of the will of God, emphasis on hearing rather than speaking</li>
 </ul>
-<h2 id="s1">1) Gen. 1:27-28; 2:7, 9, 16-17, - the perfect will of God 1 Tim. 2:4</h2>
+<h2 id="s1">1) Gen. 1:27-28; 2:7, 9, 16-17, is the perfect will of God 1 Tim. 2:4</h2>
 <blockquote data-v="kjv"><p>So God created man in his own image, in the image of God created he him; male and female created he them. And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.</p><cite>Gen. 1:27-28 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So God created man in His own image; in the image of God He created him; male and female He created them. God blessed them and said to them, “Be fruitful and multiply, and fill the earth and subdue it; rule over the fish of the sea and the birds of the air and every creature that crawls upon the earth.”</p><cite>Gen. 1:27-28 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>God created man in his own image. In God’s image he created him; male and female he created them. God blessed them. God said to them, “Be fruitful, multiply, fill the earth, and subdue it. Have dominion over the fish of the sea, over the birds of the sky, and over every living thing that moves on the earth.”</p><cite>Gen. 1:27-28 · WEB</cite></blockquote>
@@ -290,8 +292,8 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live:</p><cite>Deut. 30:19 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>I call heaven and earth as witnesses against you today that I have set before you life and death, blessing and cursing. Therefore choose life, so that you and your descendants may live,</p><cite>Deut. 30:19 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I call heaven and earth to witness against you today that I have set before you life and death, the blessing and the curse. Therefore choose life, that you may live, you and your descendants,</p><cite>Deut. 30:19 · WEB</cite></blockquote>
-<h3>(1) The loss of purpose and meaning of human life in time – there is no choice regarding eternal life, the slave of sin, death and hell, Satan</h3>
-<h3>(2) No understanding of the perfect will of God - no Emmanuel, no knowledge and transmission of the Word of God, the Covenant, Christ, no communication with God</h3>
+<h3>(1) Loss of purpose and meaning of human life in time – there is no choice regarding eternal life, a slave to sin, death and hell, Satan</h3>
+<h3>(2) There is no understanding of the perfect will of God – there is no Emmanuel, there is no knowledge and transmission of the Word of God, the Covenant, Christ, there is no communion with God</h3>
 <h3>(3) The priority of turning to God is the fulfillment of one's will, visible, hard life, accusations of God Matt. 6:7-8, 31-32,Jas. 4:1-4,Phil. 2:21, - Matt. 16:26</h3>
 <blockquote data-v="kjv"><p>But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking. Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him.</p><cite>Matt. 6:7-8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And when you pray, do not babble on like pagans, for they think that by their many words they will be heard. Do not be like them, for your Father knows what you need before you ask Him.</p><cite>Matt. 6:7-8 · BSB</cite></blockquote>
@@ -338,7 +340,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Pray without ceasing.</p><cite>1 Thess. 5:17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Pray without ceasing.</p><cite>1 Thess. 5:17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Pray without ceasing.</p><cite>1 Thess. 5:17 · WEB</cite></blockquote>
-<h3>(3) Prayer of Thanksgiving – Emmanuel, all the answers of life are in God (spiritual, mental, physical). 1 Thess. 5:18,Eph. 5:20</h3>
+<h3>(3) Prayer of Thanksgiving – Emmanuel, all the answers of life in God (spiritual, mental, physical). 1 Thess. 5:18,Eph. 5:20</h3>
 <blockquote data-v="kjv"><p>In every thing give thanks: for this is the will of God in Christ Jesus concerning you.</p><cite>1 Thess. 5:18 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Give thanks in every circumstance, for this is God’s will for you in Christ Jesus.</p><cite>1 Thess. 5:18 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>In everything give thanks, for this is the will of God in Christ Jesus toward you.</p><cite>1 Thess. 5:18 · WEB</cite></blockquote>
@@ -350,14 +352,14 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h3>(2) No (through the Word of God, revelation, circumstances)</h3>
 <h3>(3) Wait – God's Plan, time schedule (through God's Word, revelation, circumstances)</h3>
 <h2 id="s6">6) The Lord's Prayer</h2>
-<h3>(1) Matt. 6:9, - understanding the Word of God, the Covenant, Christ</h3>
+<h3>(1) Matt. 6:9, - understanding the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.</p><cite>Matt. 6:9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So then, this is how you should pray: ‘Our Father in heaven, hallowed be Your name.</p><cite>Matt. 6:9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Pray like this: “‘Our Father in heaven, may your name be kept holy.</p><cite>Matt. 6:9 · WEB</cite></blockquote>
 <h4>(a) God the Father is a child of God (status), acceptance of the Sacrifice of Christ, confidence in the forgiveness of all sins and salvation, justification, adoption and acceptance of man into the family of God. (The importance of understanding the difference between the Creator and the Father)</h4>
 <h4>(b) Being in heaven – the importance of understanding spiritual reality (the eternity of the invisible, the temporality of the earthly)</h4>
-<h4>(c) Hallowed be Thy name – glorification of God (make known), knowledge and transmission of the Word of God, the Covenant, Christ, faith and service to God. (Understanding: Who is Xp?The purpose of His visit?What is His will?)</h4>
-<h3>(2) Matt. 6:10, - knowledge and transmission of the Covenant, Christ, World Evangelization, disciples</h3>
+<h4>(c) Hallowed be Thy name – the glorification of God (to make known), the knowledge and transmission of the Word of God, the Covenant, Christ, faith and service to God. (Understanding: Who is Xp?The purpose of His visit?What is His will?)</h4>
+<h3>(2) Matt. 6:10, - knowledge and transmission of the Covenant, Christ, Worldwide Evangelization, disciples</h3>
 <blockquote data-v="kjv"><p>Thy kingdom come. Thy will be done in earth, as it is in heaven.</p><cite>Matt. 6:10 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Your kingdom come, Your will be done, on earth as it is in heaven.</p><cite>Matt. 6:10 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Let your Kingdom come. Let your will be done on earth as it is in heaven.</p><cite>Matt. 6:10 · WEB</cite></blockquote>
@@ -373,7 +375,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Give us this day our daily bread.</p><cite>Matt. 6:11 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Give us this day our daily bread.</p><cite>Matt. 6:11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Give us today our daily bread.</p><cite>Matt. 6:11 · WEB</cite></blockquote>
-<h4>(a) The vital importance of the Word of God, of the Covenant, of Christ to every human being</h4>
+<h4>(a) The vital importance of the Word of God, the Covenant, and Christ for every human being</h4>
 <h4>(b) God is the Lord, the Source and Giver of all answers for life. (Spiritual, mental and physical needs of a person)</h4>
 <h3>(4) Matt. 6:12, - the importance of the Word of God, the Covenant, Christ, the fulfillment of God's will</h3>
 <blockquote data-v="kjv"><p>And forgive us our debts, as we forgive our debtors.</p><cite>Matt. 6:12 · KJV</cite></blockquote>
@@ -382,15 +384,15 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h4>(a) God's power of forgiveness of sins is the atonement of sins, the payment. (The forgiveness and redemption of man is the will of God, the sacrifice of Christ)</h4>
 <h4>(b) God's authority to deal with the consequences of the sins of God's people. (Spiritual – decided by Christ, physical – sowing and reaping, God's control of the harvest, the importance of confessing the sins of God's children)</h4>
 <h4>(c) Understanding the Word of God, the Covenant, and Christ is the ability to forgive people. (The effect of God's grace in the life of a saved person)</h4>
-<h3>(5) Matt. 6:13, - affirmation of the Word of God, the Covenant, Christ</h3>
+<h3>(5) Matt. 6:13, is the affirmation of the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen.</p><cite>Matt. 6:13 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And lead us not into temptation, but deliver us from the evil one.’</p><cite>Matt. 6:13 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Bring us not into temptation, but deliver us from the evil one. For yours is the Kingdom, the power, and the glory forever. Amen.’</p><cite>Matt. 6:13 · WEB</cite></blockquote>
 <h4>(a) Understanding the influence of the remnants of the sinful essence of God's people, God's control over the lives of God's children (temptations)</h4>
-<h4>(b) God's sovereignty and control of Satan's actions, the importance of understanding God's protection of God's people, and confidence in God's guidance and victory</h4>
+<h4>(b) God's sovereignty and control over Satan's actions, the importance of understanding God's protection of God's people, and confidence in God's guidance and victory</h4>
 <h4>(c) God is the King of Kings and Lord of Lords</h4>
 <h4>(d) Everything visible and invisible is God's control and management</h4>
-<h4>(e) All glory belongs only to God – the importance of understanding God's love and mercy, understanding the Word of God, the Covenant, Christ</h4>
+<h4>(e) All glory belongs only to God – the importance of understanding God's love and mercy, understanding the Word of God, the Covenant, and Christ</h4>
 <h2 id="s7">Conclusion:</h2>
 <h3>(1) The priority of prayer is the fulfillment of God's will, spiritual 1 John 5:14-15,Matt. 6:33</h3>
 <blockquote data-v="kjv"><p>And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us: And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him.</p><cite>1 John 5:14-15 · KJV</cite></blockquote>

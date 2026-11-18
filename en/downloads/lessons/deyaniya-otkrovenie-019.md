@@ -25,7 +25,7 @@
 
 #### (c) The importance of the Disciple is God's sovereignty
 
-#### (d) The importance of finance – knowledge and transmission of the Word of God, the Covenant, Christ
+#### (d) The importance of finance – the knowledge and transmission of the Word of God, the Covenant, and Christ
 
 #### (e) Human methods – hypocrisy, collapse
 
@@ -35,12 +35,12 @@
 #### (a) Jas. 2:10-11, - understanding universal sinfulness
 > For whosoever shall keep the whole law, and yet offend in one point, he is guilty of all. For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law. (Jas. 2:10-11, KJV)
 
-#### (b) Jas. 2:12-13, - understanding the "law of freedom" and the "judgment of mercy" (Christ's sacrifice and Feat – God is love, mercy and grace)
+#### (b) Jas. 2:12-13, - understanding the "law of freedom" and the "judgment of mercy" (Christ's sacrifice and Feat – God's love, mercy and grace)
 > So speak ye, and so do, as they that shall be judged by the law of liberty. For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment. (Jas. 2:12-13, KJV)
 
 #### (c) The importance of understanding the purpose of the Law and Bl. Lead
 
-## 3) Works of Faith – knowledge and transmission of the Word of God, the Covenant, Christ
+## 3) Works of Faith – knowledge and transmission of the Word of God, the Covenant, and Christ
 
 ### (1) Jas. 2:14-26, - examples of Works of Faith
 > What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him? If a brother or sister be naked, and destitute of daily food, And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit? Even so faith, if it hath not works, is dead, being alone. Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works. Thou believest that there is one God; thou doest well: the devils also believe, and tremble. But wilt thou know, O vain man, that faith without works is dead? Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar? Seest thou how faith wrought with his works, and by works was faith made perfect? And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God. Ye see then how that by works a man is justified, and not by faith only. Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way? For as the body without the spirit is dead, so faith without works is dead also. (Jas. 2:14-26, KJV)
@@ -49,12 +49,12 @@
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
 > And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also. (2 Tim. 2:2, KJV)
 
-#### (b) Faith of demons – resistance to knowledge and transmission of the Word of God, the Covenant, Christ
+#### (b) The faith of demons is resistance to the knowledge and transmission of the Word of God, the Covenant, of Christ
 
-#### (c) The Faith of Abraham – the knowledge and transmission of the Word of God, the Covenant, Christ Heb. 11:17-19
+#### (c) The faith of Abraham is the knowledge and transmission of the Word of God, the Covenant, and Christ Heb. 11:17-19
 > By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten son, Of whom it was said, That in Isaac shall thy seed be called: Accounting that God was able to raise him up, even from the dead; from whence also he received him in a figure. (Heb. 11:17-19, KJV)
 
-#### (d) Faith of Rahab – acceptance (knowledge) and transmission of the Word of God, the Covenant, Christ (Spies, a matter of life and death, Canaan, World Evangelization, rod Christ) Heb. 11:31,Josh. 2:9-11
+#### (d) Faith of Rahab – acceptance (knowledge) and transmission of the Word of God, the Covenant, Christ (Spies, a matter of life and death, Canaan, World Evangelization, the Christ family) Heb. 11:31,Josh. 2:9-11
 > By faith the harlot Rahab perished not with them that believed not, when she had received the spies with peace. (Heb. 11:31, KJV)
 > And she said unto the men, I know that the LORD hath given you the land, and that your terror is fallen upon us, and that all the inhabitants of the land faint because of you. For we have heard how the LORD dried up the water of the Red sea for you, when ye came out of Egypt; and what ye did unto the two kings of the Amorites, that were on the other side Jordan, Sihon and Og, whom ye utterly destroyed. And as soon as we had heard these things, our hearts did melt, neither did there remain any more courage in any man, because of you: for the LORD your God, he is God in heaven above, and in earth beneath. (Josh. 2:9-11, KJV)
 
@@ -78,7 +78,7 @@
 #### (b) Knowledge of the Word of God, the Covenant, Christ, the local Church. John 8:31-32
 > Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; And ye shall know the truth, and the truth shall make you free. (John 8:31-32, KJV)
 
-#### (c) Transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization Matt. 28:19-20
+#### (c) Transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization Matt. 28:19-20
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
 
 #### (d) Participation in the sacraments of God – Water Baptism, Communion
@@ -105,7 +105,7 @@
 
 #### (a) The works of Faith are not based on the works of the Law – the impossibility of 100% fulfillment of the Commandments of the Law by man
 
-#### (b) Works of Faith – knowledge and transmission of the Word of God, the Covenant, Christ Result: personal salvation and salvation to other people
+#### (b) Works of Faith – knowledge and transmission of the Word of God, the Covenant, and Christ Result: personal salvation and salvation to others
 
 #### (c) Works of the Law ("mixed gospel") – to earn salvation
 - The result: there is no personal salvation and there is no salvation for other people.
@@ -119,7 +119,7 @@
 > For the grace of God that bringeth salvation hath appeared to all men, Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world; Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ; Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works. (Titus 2:11-14, KJV)
 > But after that the kindness and love of God our Saviour toward man appeared, Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost; Which he shed on us abundantly through Jesus Christ our Saviour; That being justified by his grace, we should be made heirs according to the hope of eternal life. This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men. (Titus 3:4-8, KJV)
 
-### (1) The right motivation is the transmission of the Word of God, the glorification of God
+### (1) The right motivation is the transmission of God's Word, the glorification of God
 
 ### (2) Wrong motivation – Earning salvation
 

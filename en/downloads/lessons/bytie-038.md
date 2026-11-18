@@ -6,7 +6,7 @@
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
 > And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:16-17, KJV)
 
-### (1) Absence of conflict with God, The Word of God, the Covenant, Christ, Emmanuel. (Acceptance of the Word of God. The Covenant, Christ, the choice of life in the Word of God and the will of God)
+### (1) Absence of conflict with God, the Word of God, the Covenant, Christ, Emmanuel. (Acceptance of the Word of God. The Covenant, Christ, the choice of life in the Word of God and the will of God)
 
 ### (2) The absence of conflict with one's neighbor, Emmanuel. (God's worldview and value system, service to God and man)
 
@@ -18,11 +18,11 @@
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
 
-### (1) Conflict with God, no Word of God, Covenant, Christ, power of Satan (Rejection of the Word of God, Covenant, Christ, choice of life outside the Word of God and the will of God)
+### (1) Conflict with God, there is no Word of God, Covenant, Christ, the power of Satan (Rejection of the Word of God, Covenant, Christ, choosing a life outside the Word of God and the will of God)
 
-### (2) Conflict with one's neighbor, there is no Word of God, no Covenant, Christ, the power of Satan (Wrong worldview and value system, pride)
+### (2) Conflict with one's neighbor, the absence of the Word of God, the Covenant, Christ, the power of Satan (Incorrect worldview and value system, pride)
 
-### (3) Conflict with oneself, no Word of God, Covenant, Christ, power of Satan (Wrong life, no peace and quiet, conviction of conscience)
+### (3) Conflict with oneself, there is no Word of God, no Covenant, no Christ, the power of Satan (Wrong life, no peace and quiet, chastisement of conscience)
 
 ## 3) Gen. 3:15, 21,Matt. 16:16,John 19:30, - understanding Recovery
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
@@ -30,26 +30,26 @@
 > And Simon Peter answered and said, Thou art the Christ, the Son of the living God. (Matt. 16:16, KJV)
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 
-### (1) Absence of conflict with God, The Word of God, the Covenant, Christ, Emmanuel. (Acceptance of the Word of God, the Covenant, Christ, salvation and rebirth)
+### (1) No conflict with God, the Word of God, the Covenant, Christ, Emmanuel. (Acceptance of the Word of God, the Covenant, Christ, salvation and rebirth)
 
 ### (2) No conflict with the children of God, Emmanuel. (God's worldview and value system, service to God and man)
 
 ### (3) The absence of conflict with oneself, Emmanuel. (Right living, peace and quiet, witness of the Holy Spirit)
 
-### (4) The inevitable conflict of non-believers towards children is God, the power of Satan (Wrong ideology, visible, pride, false teachings)
+### (4) The inevitable conflict of non-believers towards the children of God, the power of Satan (Wrong ideology, visible, pride, false teachings)
 
 ### (5) The inevitable conflict between carnal Christians and the children of God. (Wrong ideology and value system, visible)
 
 ## 4) God's method of avoiding conflict
 
-### (1) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization Matt. 28:19
+### (1) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization Matt. 28:19
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: (Matt. 28:19, KJV)
 
-### (2) The importance of sanctifying God's people is the teaching, the right life, and the actions of God's people. John 8:31-32,1 Tim. 4:16. (Worldview change, God standards, service to God and man)
+### (2) The importance of the sanctification of God's people—the training, right living, and conduct of God's people. John 8:31-32,1 Tim. 4:16. (Changing the worldview, God's standards, serving God and man)
 > Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; And ye shall know the truth, and the truth shall make you free. (John 8:31-32, KJV)
 > Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee. (1 Tim. 4:16, KJV)
 
-### (3) Forgiveness and Peace preservation – the importance of delivering the Word of God
+### (3) Forgiveness and peace preservation – the importance of delivering the Word of God
 
 ## 5) God's method of conflict resolution
 
@@ -70,11 +70,11 @@
 
 ### (5) Life without conflict is God's will, eternal life
 
-### (6) Life without conflict – the right of choice of each person, the importance of accepting the Word of God, the Covenant, Christ, salvation, rebirth
+### (6) Life without conflict is the right of every person's choice, the importance of accepting the Word of God, the Covenant, Christ, salvation, and being born again
 
 ## 7) The importance of understanding Satan's actions
 
-### (1) To stop the knowledge and transmission of the Word of God, the Covenant, the Christ – keeping man in conflict with God, his neighbor and himself
+### (1) To stop the knowledge and transmission of the Word of God, the Covenant, and Christ – to keep a person in conflict with God, his neighbor, and himself
 
 ### (2) The statement of a different word in the life of mankind – there is no Emmanuel, a wrong worldview, visible, pride. (Constant hostility and bitterness, wars and conflicts)
 

@@ -1,7 +1,7 @@
 # 1 Tim. 1–2
-## 1.1) 1 Tim. 1, - the importance of understanding the Word of God, the Covenant, Christ
+## 1.1) 1 Tim. 1, - the importance of understanding the Word of God, the Covenant, and Christ
 
-### (1) 1 Tim. 1:1, - the importance of knowing and transmitting the Word of God, the Covenant, Christ (understanding God as Savior), the special importance of the disciple (Timothy – the importance of true spiritual children) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
+### (1) 1 Tim. 1:1, - the importance of knowing and transmitting the Word of God, the Covenant, Christ (understanding God as Savior), the special importance of the disciple (Timothy – the importance of true spiritual children) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21, Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
 > Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope; (1 Tim. 1:1, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -18,7 +18,7 @@
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-### (2) 1 Tim. 1:3-7, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, the manifestation of love, a good conscience, and faith in God (The problem of fables, genealogies, and idle talk is the work of Satan)
+### (2) 1 Tim. 1:3-7, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, the manifestation of love, a good conscience, and the faith of God (The problem of fables, genealogies, and idle talk is the work of Satan)
 > As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine, Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: so do. Now the end of the commandment is charity out of a pure heart, and of a good conscience, and of faith unfeigned: From which some having swerved have turned aside unto vain jangling; Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm. (1 Tim. 1:3-7, KJV)
 
 ### (3) 1 Tim. 1:8-11, - the importance of the legitimate application of the Law
@@ -34,7 +34,7 @@
 ### (5) 1 Tim. 1:18-20, - the importance of fulfilling destiny, the importance of understanding the actions of Satan (Imenei, Alexander)
 > This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare; Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck: Of whom is Hymenaeus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme. (1 Tim. 1:18-20, KJV)
 
-## 2) 1 Tim. 2, - the importance of understanding the Word of God, the Covenant, Christ
+## 2) 1 Tim. 2, - the importance of understanding the Word of God, the Covenant, and Christ
 
 ### (1) 1 Tim. 2:1-3, - the importance of intercessory prayer for people and superiors, the affirmation of God's will
 > I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men; For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty. For this is good and acceptable in the sight of God our Saviour; (1 Tim. 2:1-3, KJV)
@@ -48,7 +48,7 @@
 > Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; And ye shall know the truth, and the truth shall make you free. (John 8:31-32, KJV)
 > For this is the will of God, even your sanctification, that ye should abstain from fornication: (1 Thess. 4:3, KJV)
 
-#### (c) Transmission of the Word of God, Covenant, Christ Matt. 28:19-20; 6:33
+#### (c) Transmission of the Word of God, the Covenant, Christ Matt. 28:19-20; 6:33
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
 > But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you. (Matt. 6:33, KJV)
 
@@ -71,11 +71,11 @@
 
 #### (a) The importance of proper living for the families of God's people
 
-#### (b) The importance of educating wives, the priority of men is God.
+#### (b) The importance of educating wives, the priority of men is God's sovereignty
 
 #### (c) The absence of men is the undoubted fulfillment of the destiny of the women of God's people, the importance of fulfilling the will of God
 
-### (6) 1 Tim. 2:13-15, - statement of the Word of God, the Covenant, Christ (two versions)
+### (6) 1 Tim. 2:13-15, - statement of the Word of God, the Covenant, and Christ (two versions)
 > For Adam was first formed, then Eve. And Adam was not deceived, but the woman being deceived was in the transgression. Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety. (1 Tim. 2:13-15, KJV)
 
 #### (a) He will be saved through childbearing – the acceptance of Christ and His Sacrifice (the birth of a child – the seed of a wife), the fulfillment of destiny
@@ -84,7 +84,7 @@
 
 ## Conclusion:
 
-### (1) The importance of knowing and transmitting the Word of God, the Covenant, Christ
+### (1) The importance of knowing and communicating the Word of God, the Covenant, and Christ
 
 ### (2) The importance of the legitimate application of the Law
 
@@ -92,4 +92,4 @@
 
 ### (4) The importance of understanding the sole Intermediary
 
-### (5) The importance of God's order in the Church of God – the education of women, the joint fulfillment of the destiny of the people of God
+### (5) The importance of God's order in the Church of God – the education of women, the joint fulfillment of the destiny of God's people

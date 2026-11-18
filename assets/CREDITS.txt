@@ -10,9 +10,119 @@
 - parchment.webp - Pergament.1.jpg, автор Membeth (текстура пергамента, обрезана и уменьшена).
   Лицензия: CC0 1.0. https://commons.wikimedia.org/wiki/File:Pergament.1.jpg
 
+Портреты на страницах welcome/ (вырезаны в квадрат, уменьшены), Wikimedia Commons:
+- portraits/irenaeus.webp - Ириней Лионский, витраж Люсьена Бегюля (Lucien Bégule).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:San_Ireneo,_vitral_(cropped).jpg
+- portraits/melito.webp - Мелитон Сардийский, офорт Яна Лёйкена (Jan Luyken), Rijksmuseum RP-P-1896-A-19368-1267.
+  Лицензия: CC0 1.0. https://commons.wikimedia.org/wiki/File:H._Melito_van_Sardes,_kerkvader_Melito_Bisschop_van_Sardis._Onderwysende_inde_Cristelyke_Godsdienst_(titel_op_object),_RP-P-1896-A-19368-1267.jpg
+- portraits/ephrem.webp - Ефрем Сирин, мозаика монастыря Неа Мони (XI век), автор неизвестен.
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Ephrem_the_Syrian_(mosaic_in_Nea_Moni).jpg
+- portraits/cyril.webp - Кирилл Александрийский, фреска монастыря Русану (Метеоры), автор неизвестен.
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Rousanu16.jpg
+- portraits/augustine.webp - Августин, Филипп де Шампань (Philippe de Champaigne).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Saint_Augustine_by_Philippe_de_Champaigne_(3x4_cropped).jpg
+- portraits/chrysostom.webp - Иоанн Златоуст, икона мастера Дионисия.
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:John_Chrysostom_(Dionisius).jpg
+- portraits/zwingli.webp - Ульрих Цвингли, Ганс Аспер (Hans Asper), 1531.
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Ulrich_Zwingli_by_Hans_Asper_1531_Head.jpg
+- portraits/calvin.webp - Жан Кальвин, неизвестный французский художник, Museum Catharijneconvent.
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:John_Calvin_Museum_Catharijneconvent_RMCC_s84_cropped.png
+- portraits/luther.webp - Мартин Лютер, Лукас Кранах Старший (Lucas Cranach the Elder), 1528.
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Lucas_Cranach_d.%C3%84._-_Martin_Luther,_1528_(Veste_Coburg)_(3x4_cropped).jpg
+
+Картины и гравюры на странице welcome/pastor/ (вырезаны и уменьшены), Wikimedia Commons:
+- pastor/adam.webp - Гюстав Доре, «Изгнание из рая» (1866).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:003.Adam_and_Eve_Are_Driven_out_of_Eden.jpg
+- pastor/abel.webp, pastor/cain_w.webp - Гюстав Доре, «Жертвы Каина и Авеля» (1866).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:004.Cain_and_Abel_Offer_Their_Sacrifices.jpg
+- pastor/noah.webp - Микеланджело, «Жертвоприношение Ноя», Сикстинская капелла (1509).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Michelangelo,_Sacrifice_of_Noah_00.jpg
+- pastor/abraham.webp - Рембрандт, «Жертвоприношение Исаака» (1635).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Rembrandt_-_Sacrifice_of_Isaac_-_WGA19096.jpg
+- pastor/jacob.webp - Рембрандт, «Иаков благословляет сыновей Иосифа» (1656).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Rembrandt_-_Jacob_Blessing_the_Children_of_Joseph_-_WGA19117.jpg
+- pastor/job.webp - Леон Бонна, «Иов» (1880).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:L%C3%A9on_Bonnat_-_Job.jpg
+- pastor/moses.webp - Рембрандт, «Моисей со скрижалями» (1659).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Rembrandt_-_Moses_with_the_Ten_Commandments_-_Google_Art_Project.jpg
+- pastor/tabernacle.webp - «Скиния в пустыне», иллюстрация Библии Холмана (1890).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Holman_The_Tabernacle_in_the_Wilderness.jpg
+- pastor/levites.webp - «Первосвященник», иллюстрация Библии Холмана (1890).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Holman_Kohen_Gadol.jpg
+- pastor/samuel.webp - Джон Синглтон Копли, «Самуил и Илий» (1780).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Eli_and_Samuel.jpg
+- pastor/david.webp - Рембрандт, «Царь Давид» (1651).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Rembrandt_-_King_David.jpg
+- pastor/jehoshaphat.webp - Бартоломео Гаи, «Иосафат», гравюра (1751), Rijksmuseum.
+  Лицензия: CC0. https://commons.wikimedia.org/wiki/File:Iosafat-Iosaphat-Jehoshaphat_of_Judah.jpg
+- pastor/isaiah.webp - Микеланджело, пророк Исаия, Сикстинская капелла (1509).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Michelangelo,_profeti,_Isaiah_01.jpg
+- pastor/daniel.webp - Питер Пауль Рубенс, «Даниил во рву львином» (ок. 1615).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Daniel_in_the_Lions%27_Den_(Peter_Paul_Rubens).jpg
+- pastor/ezra.webp - Гюстав Доре, «Ездра читает закон народу» (1866).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:109.Ezra_Reads_the_Law_to_the_People.jpg
+- pastor/malachi.webp - пророк Малахия, икона (XVIII век), автор неизвестен.
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Malachi.jpg
+- pastor/septuagint.webp - папирус Amherst 3 с текстом Быт. 1:1–5 по-гречески (III век), Morgan Library.
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:New_York,_Morgan_Library_Ms_Amherst_Greek_Papyrus_3_(Papyrus_12)_verso_Genesis_1,_1%E2%80%935_LXX_Greek.jpg
+- pastor/synagogue.webp - Джеймс Тиссо, «Иисус разворачивает книгу в синагоге» (1886–1894), Brooklyn Museum.
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Jesus_Unrolls_the_Book_in_the_Synagogue_(J%C3%A9sus_dans_la_synagogue_d%C3%A9roule_le_livre)_-_James_Tissot_-_overall.jpg
+- pastor/emmaus.webp - Роберт Цюнд, «Путь в Эммаус» (1877).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Z%C3%BCnd_Gang_nach_Emmaus_1877.jpg
+- pastor/stephen.webp - Витторе Карпаччо, «Проповедь святого Стефана» (1514).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Vittore_carpaccio,_Sermon_of_St_Stephen.jpg
+- pastor/philip.webp - Рембрандт, «Крещение евнуха» (1631).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Rembrandt_-_Baptism_of_the_Eunuch.jpg
+- pastor/paul_athens.webp - Рафаэль, «Проповедь Павла в Афинах» (1515–1516).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Raphael_-_St_Paul_Preaching_at_Athens_c.1515-6.jpg
+- pastor/paul.webp - Валантен де Булонь (приписывается), «Апостол Павел пишет послания» (ок. 1618–1620).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Probably_Valentin_de_Boulogne_-_Saint_Paul_Writing_His_Epistles_-_Google_Art_Project.jpg
+- pastor/origen.webp - Ориген, гравюра, автор неизвестен.
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Origen.jpg
+- pastor/nicaea.webp - «Первый Никейский собор», икона, автор неизвестен.
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Nicaea_icon.jpg
+- pastor/constantine.webp - школа Рафаэля, «Крещение Константина» (1524).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Raphael_Baptism_Constantine.jpg
+- pastor/wycliffe.webp - Бернар Пикар, портрет Джона Уиклифа (1714).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Portrait_of_John_Wycliffe.jpg
+- pastor/hus.webp - Ян Гус, гравюра (до 1759), автор неизвестен.
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Jan_Hus,_portrait.jpg
+- pastor/tyndale.webp - портрет Уильяма Тиндейла (1836), автор неизвестен.
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Portrait_of_William_Tyndale.jpg
+- pastor/heidelberg.webp - титульный лист Гейдельбергского катехизиса (1563).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Heidelberger_Katechismus_1563.jpg
+- pastor/westminster.webp - Джон Роджерс Герберт, «Вестминстерская ассамблея» (1847).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Assertion_of_Liberty_of_Conscience_by_the_Independents_of_the_Westminster_Assembly_of_Divines,_1644.jpg
+- pastor/mhenry.webp - портрет Мэтью Генри, гравюра (1747–1773), Rijksmuseum.
+  Лицензия: CC0. https://commons.wikimedia.org/wiki/File:Portret_van_Matthew_Henry,_RP-P-1909-1237.jpg
+- pastor/radstock.webp - лорд Редсток, фотография (до 1913), Оссиан Гауффин.
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Granville_Augustus_William_Waldegrave.jpg
+- pastor/synodal.webp - титульный лист Синодальной Библии (1876).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:%D0%91%D0%B8%D0%B1%D0%BB%D1%96%D1%8F_%D0%B8%D0%BB%D0%B8_%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8_%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D0%B0%D0%B3%D0%BE_%D0%9F%D0%B8%D1%81%D0%B0%D0%BD%D1%96%D1%8F_1876.jpg
+- pastor/spurgeon.webp - Александр Мелвилл, портрет Чарльза Сперджена (1885).
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:Charles_Haddon_Spurgeon_by_Alexander_Melville.jpg
+- pastor/vos.webp - Гергардус Вос, фотография.
+  Лицензия: Public domain. https://commons.wikimedia.org/wiki/File:A_young_Geerhardus_Johannes_Vos_(1862%E2%80%931949).jpg
+- pastor/job_w.webp - Уильям Блейк, «Друзья упрекают Иова» (1825), National Gallery of Art.
+  Лицензия: CC0. https://commons.wikimedia.org/wiki/File:William_Blake,_Job_Rebuked_by_His_Friends,_1825,_NGA_4970.jpg
+- pastor/lot_w.webp - Ян Викторс, «Авраам расстаётся с семьёй Лота» (ок. 1655), Metropolitan Museum.
+  Лицензия: CC0. https://commons.wikimedia.org/wiki/File:Abraham%27s_Parting_from_the_Family_of_Lot_MET_DP143196.jpg
+Иллюстрации линз метода, сцена «два мира» и значки на странице для пасторов нарисованы для сайта (SVG в mdconv/pastor_art.py).
+
+Сгенерированные иллюстрации (там, где свободных изображений нет):
+- pastor/gen-role-guests.webp, gen-role-believers.webp, gen-role-servants.webp, gen-role-pastor.webp,
+  gen-role-youth.webp — люди по ролям;
+- pastor/gen-home-torah.webp, gen-josiah.webp, gen-marcion.webp, gen-stundists.webp, gen-covenants-scholar.webp,
+  gen-kingdom.webp, gen-red-thread.webp, gen-kids-bible.webp, gen-today-study.webp — точки линии времени.
+  Сгенерировано ИИ-генератором для этого сайта, без внешних правообладателей.
+  Лицензия: CC0 1.0 (общественное достояние). https://creativecommons.org/publicdomain/zero/1.0/deed.ru
+  Живые богословы (Робертсон, Клайн, Голдсуорси) не изображены — только символические сцены.
+
 Шрифты (самостоятельный хостинг, SIL Open Font License 1.1, Google Fonts):
 - Cormorant SC, Cormorant Unicase (Christian Thalmann, Catharsis Fonts)
 - Alegreya, Alegreya Sans (Juan Pablo del Peral, Huerta Tipográfica)
+- Unbounded (NaN, Jaakko Sarvas) — страница для пасторов
+- Literata (TypeTogether) — страница для пасторов
 
 Фон-стеллажи:
 - img/shelves.svg - собственный рисунок проекта (генерируется скриптом), без внешних источников.

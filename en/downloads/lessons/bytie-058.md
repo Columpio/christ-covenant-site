@@ -37,7 +37,7 @@
 
 #### (b) A reminder of eternity, the transience of the visible, the nullification of all human earthly achievements outside of Christ
 
-#### (c) The passage into eternity, the separation of soul and body, God's establishment
+#### (c) The passage into eternity, the separation of soul and body, God's institution
 
 ### (3) Being in eternity
 
@@ -59,7 +59,7 @@
 > The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be. (Gen. 49:10, KJV)
 > My manner of life from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews; Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee. And now I stand and am judged for the hope of the promise made of God unto our fathers: Unto which promise our twelve tribes, instantly serving God day and night, hope to come. For which hope’s sake, king Agrippa, I am accused of the Jews. (Acts 26:4-7, KJV)
 
-### (5) The Second Coming of Christ, the resurrection of the dead, the 1000th kingdom of Christ on earth, the destruction of the earth and the universe. (The purpose of the people of God N.Z. is to prepare for the second coming of Christ, through the knowledge and transmission of the Word of God, the Covenant, Christ) Jude 1:14, - Job 19:25-27,1 Cor. 15:22-23, - Gen. 49:10 (submission of the nations in the 1000th kingdom of Christ)
+### (5) The Second Coming of Christ, the resurrection of the dead, the 1000th kingdom of Christ on earth, the destruction of the earth and the universe. (The purpose of the people of God N.Z. is to prepare for the second coming of Christ, through the knowledge and transmission of the Word of God, the Covenant, of Christ) Jude 1:14, - Job 19:25-27,1 Cor. 15:22-23, - Gen. 49:10 (the submission of the nations in the 1000th kingdom of Christ)
 > And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord cometh with ten thousands of his saints, (Jude 1:14, KJV)
 > For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth: And though after my skin worms destroy this body, yet in my flesh shall I see God: Whom I shall see for myself, and mine eyes shall behold, and not another; though my reins be consumed within me. (Job 19:25-27, KJV)
 > For as in Adam all die, even so in Christ shall all be made alive. But every man in his own order: Christ the firstfruits; afterward they that are Christ’s at his coming. (1 Cor. 15:22-23, KJV)
@@ -88,7 +88,7 @@
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 > Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and that no man can say that Jesus is the Lord, but by the Holy Ghost. (1 Cor. 12:3, KJV)
 
-### (2) The importance of entering into the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization John 8:31-32,1 Tim. 4:16 (Hos. 4:6), - Matt. 28:19-20,2 Tim. 2:2
+### (2) The importance of entering into the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization John 8:31-32,1 Tim. 4:16 (Hos. 4:6), - Matt. 28:19-20,2 Tim. 2:2
 > Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; And ye shall know the truth, and the truth shall make you free. (John 8:31-32, KJV)
 > Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee. (1 Tim. 4:16, KJV)
 > My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children. (Hos. 4:6, KJV)

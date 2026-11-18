@@ -1,5 +1,5 @@
 # Heb. 5–6
-## 3.1) Heb. 5, - the importance of understanding the Word of God, the Covenant, Christ
+## 3.1) Heb. 5, - the importance of understanding the Word of God, the Covenant, and Christ
 
 ### (1) Heb. 5:1-6, - the importance of understanding the Word of God, the Covenant, Christ, the importance of understanding the ministry of the High Priest
 > For every high priest taken from among men is ordained for men in things pertaining to God, that he may offer both gifts and sacrifices for sins: Who can have compassion on the ignorant, and on them that are out of the way; for that he himself also is compassed with infirmity. And by reason hereof he ought, as for the people, so also for himself, to offer for sins. And no man taketh this honour unto himself, but he that is called of God, as was Aaron. So also Christ glorified not himself to be made an high priest; but he that said unto him, Thou art my Son, to day have I begotten thee. As he saith also in another place, Thou art a priest for ever after the order of Melchisedec. (Heb. 5:1-6, KJV)
@@ -31,48 +31,48 @@
 
 #### (b) The legitimate High Priest according to the order of Melchizedek, the personal payment and solution of all the problems of the people of God
 
-### (3) Heb. 5:11-14, - the importance of deeply understanding the Word of God
+### (3) Heb. 5:11-14, - the importance of a deep understanding of the Word of God
 > Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing. For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat. For every one that useth milk is unskilful in the word of righteousness: for he is a babe. But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil. (Heb. 5:11-14, KJV)
 
-#### (a) Weak, superficial understanding of the Word of God, the Covenant, Christ – the lack of a correct and systematic presentation of the Word of God from the perspective of the Covenant, Christ John 5:39. (Spiritual infants, it was necessary to be teachers – the problem of pastors and teachers of all times and peoples, the action of Satan)
+#### (a) A weak, superficial understanding of the Word of God, the Covenant, Christ – the lack of a correct and systematic presentation of the Word of God from the perspective of the Covenant, Christ John 5:39. (Spiritual infants, it was necessary to be teachers – the problem of pastors and teachers of all times and peoples, the work of Satan)
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 
-#### (b) The importance of solid spiritual food, the spiritual level of the people of God (the skill of discerning good and evil), the importance of knowing and transmitting the Word of God, the Covenant, Christ, World Evangelization (purpose)
+#### (b) The importance of solid spiritual food, the spiritual level of God's people (the ability to distinguish between good and evil), the importance of knowing and transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization (purpose)
 
-## 2) Heb. 6, - the importance of understanding the Word of God, the Covenant, Christ
+## 2) Heb. 6, - the importance of understanding the Word of God, the Covenant, and Christ
 
-### (1) Heb. 6:1-3, - the importance of understanding the Word of God, the Covenant, Christ
+### (1) Heb. 6:1-3, - the importance of understanding the Word of God, the Covenant, and Christ
 > Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God, Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment. And this will we do, if God permit. (Heb. 6:1-3, KJV)
 
 #### (a) Knowledge of the rudiments of Christ's teaching does not give salvation to man (knowledge of the existence of God, His love and mercy, knowledge of sins, knowledge of the death and resurrection of Jesus Christ) – the importance of accepting the Word of God, the Covenant, Christ, the choice of man
 
-#### (b) The importance of perfection and spiritual growth of every human being (to leave the rudiments of teaching) – knowledge of the rudiments of Christ's teaching must pass into a deep understanding of the Word of God, the Covenant, Christ (The importance of a systematic and orderly study of the Word of God)
+#### (b) The importance of perfection and spiritual growth of every human being (leaving the rudiments of teaching) – knowledge of the rudiments of Christ's teaching must pass into a deep understanding of the Word of God, The Covenant, Christ (The importance of systematic and orderly study of the Word of God)
 
 #### (c) The importance of understanding the only basis for conversion from dead works and faith in God – acceptance of the Divinity of Christ and the All-sufficiency of His Sacrifice. 1 Cor. 3:11. (Separately, the teachings on baptisms, the laying on of hands, the resurrection of the dead and eternal judgment cannot give grounds for faith in God)
 > For other foundation can no man lay than that is laid, which is Jesus Christ. (1 Cor. 3:11, KJV)
 
 #### (d) The importance of understanding baptism, the laying on of hands, the resurrection of the dead, and eternal judgment in the context of understanding the Divinity of Christ and the All-sufficiency of His Sacrifice. (The importance of understanding primary and secondary things)
 
-### (2) Heb. 6:6-9, - the importance of preserving the Word of God, the Covenant, Christ
+### (2) Heb. 6:6-9, - the importance of preserving the Word of God, the Covenant, and Christ
 > If they shall fall away, to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put him to an open shame. For the earth which drinketh in the rain that cometh oft upon it, and bringeth forth herbs meet for them by whom it is dressed, receiveth blessing from God: But that which beareth thorns and briers is rejected, and is nigh unto cursing; whose end is to be burned. But, beloved, we are persuaded better things of you, and things that accompany salvation, though we thus speak. (Heb. 6:6-9, KJV)
 
 #### (a) The importance of understanding the possibility of falling away from God – enlightened people who have tasted the gift of heaven, partakers of the Holy Spirit, who have tasted the Word of God and the powers of the next age, but who have fallen away
 
-#### (b) The problem of repeated repentance is God's sovereignty, the importance of understanding the great danger of falling away from God. (Understanding examples of the Word of God – Adam, Solomon, Galatians, etc.)
+#### (b) The problem of repeated repentance is God's sovereignty, the importance of understanding the great danger of falling away from God. (Understanding examples of God's Word – Adam, Solomon, Galatians, etc.)
 
 #### (c) The importance of understanding the prototype of human life – the earth bearing good fruit (salvation) in God's blessing, the earth bearing bad fruit in the curse and burning
 
 #### (d) The importance of preserving salvation for God's people (choice), the importance of fulfilling destiny (choice)
 
-### (3) Heb. 6:10-12, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, the importance of fulfilling the destiny of God's people
+### (3) Heb. 6:10-12, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, and the importance of fulfilling the destiny of God's people
 > For God is not unrighteous to forget your work and labour of love, which ye have shewed toward his name, in that ye have ministered to the saints, and do minister. And we desire that every one of you do shew the same diligence to the full assurance of hope unto the end: That ye be not slothful, but followers of them who through faith and patience inherit the promises. (Heb. 6:10-12, KJV)
 
-### (4) Heb. 6:13-20, - the importance of understanding and trusting in the Word of God, the Covenant, Christ (God's promises), the undoubted fulfillment of the Word of God
+### (4) Heb. 6:13-20, - the importance of understanding and confidence in the Word of God, the Covenant, Christ (promises of God), the undoubted fulfillment of the Word of God
 > For when God made promise to Abraham, because he could swear by no greater, he sware by himself, Saying, Surely blessing I will bless thee, and multiplying I will multiply thee. And so, after he had patiently endured, he obtained the promise. For men verily swear by the greater: and an oath for confirmation is to them an end of all strife. Where in God, willing more abundantly to shew unto the heirs of promise the immutability of his counsel, confirmed it by an oath: That by two immutable things, in which it was impossible for God to lie, we might have a strong consolation, who have fled for refuge to lay hold upon the hope set before us: Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil; Whither the forerunner is for us entered, even Jesus, made an high priest for ever after the order of Melchisedec. (Heb. 6:13-20, KJV)
 
 #### (a) God's personal oath to Himself (the example of Abraham)
 
-#### (b) Full confidence in the Word of God, the Covenant, Christ is a secure and strong anchor for the souls of God's people, entering into heaven itself
+#### (b) Full confidence in the Word of God, the Covenant, and Christ is a secure and strong anchor for the souls of God's people, reaching into heaven itself
 
 #### (c) Understanding of the death, resurrection and ascension of Christ (full confirmation and actual fulfillment of God's promises), the ministry of Jesus Christ as the Only High Priest of mankind according to the order of Melchizedek
 
@@ -80,7 +80,7 @@
 
 ### (1) The importance of understanding the High Priest of Humanity
 
-### (2) The importance of a deep understanding of the Word of God, the Covenant, Christ
+### (2) The importance of a deep understanding of the Word of God, the Covenant, and Christ
 
 ### (3) The importance of preserving the Word of God, the Covenant, Christ, falling away from God
 

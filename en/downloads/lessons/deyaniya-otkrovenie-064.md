@@ -1,5 +1,5 @@
 # 1 Cor. 10: Financial Service of God's People
-## 12.1) 1 Cor. 10:1-4, - understanding the Word of God, the Covenant, Christ, images of V.Z
+## 12.1) 1 Cor. 10:1-4, - understanding the Word of God, the Covenant, Christ, the images of V.Z
 > Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea; And were all baptized unto Moses in the cloud and in the sea; And did all eat the same spiritual meat; And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ. (1 Cor. 10:1-4, KJV)
 
 ### (1) 1 Cor. 10:1, - understanding the destiny of God's people Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
@@ -25,11 +25,11 @@
 > Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea; And were all baptized unto Moses in the cloud and in the sea; (1 Cor. 10:1-2, KJV)
 > For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit. (1 Cor. 12:13, KJV)
 
-### (4) 1 Cor. 10:1-2, - the baptism of Moses in the sea, the prototype of Water baptism in Jesus Christ, participation in the death and resurrection of Christ Rom. 6:3-6
+### (4) 1 Cor. 10:1-2, - baptism into Moses at sea, the prototype of Water baptism into Jesus Christ, participation in the death and resurrection of Christ Rom. 6:3-6
 > Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea; And were all baptized unto Moses in the cloud and in the sea; (1 Cor. 10:1-2, KJV)
 > Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death? Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life. For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection: Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin. (Rom. 6:3-6, KJV)
 
-### (5) 1 Cor. 10:3, - spiritual food, the prototype of Jesus Christ, the True and Living Bread that came down from heaven, the primary importance of the Word of God, the Covenant, Christ for the people of God. John 6:48-50
+### (5) 1 Cor. 10:3, is spiritual food, the prototype of Jesus Christ, the True and Living Bread that came down from heaven, the primary importance of the Word of God, the Covenant, and Christ for the people of God. John 6:48-50
 > And did all eat the same spiritual meat; (1 Cor. 10:3, KJV)
 > I am that bread of life. Your fathers did eat manna in the wilderness, and are dead. This is the bread which cometh down from heaven, that a man may eat thereof, and not die. (John 6:48-50, KJV)
 
@@ -64,16 +64,16 @@
 ### (5) 1 Cor. 10:11, - the special importance of an accurate understanding of the Word of God, the Covenant, Christ, the importance of understanding the Scriptures In
 > Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come. (1 Cor. 10:11, KJV)
 
-## 3) 1 Cor. 10:12-14, - the importance of knowing the Word of God, the Covenant, Christ
+## 3) 1 Cor. 10:12-14, - the importance of knowing the Word of God, the Covenant, and Christ
 > Wherefore let him that thinketh he standeth take heed lest he fall. There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it. Wherefore, my dearly beloved, flee from idolatry. (1 Cor. 10:12-14, KJV)
 
-### (1) 1 Cor. 10:12, - the importance of understanding and abiding in the Word of God, the Covenant, Christ for the people of God
+### (1) 1 Cor. 10:12, - the importance of understanding and abiding in the Word of God, the Covenant, and Christ for the people of God
 > Wherefore let him that thinketh he standeth take heed lest he fall. (1 Cor. 10:12, KJV)
 
 ### (2) 1 Cor. 10:13, - God's sovereignty and control of temptations (the influence of the remnants of the sinful essence, the world and Satan), the importance of understanding God's love and mercy for man
 > There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it. (1 Cor. 10:13, KJV)
 
-### (3) 1 Cor. 10:14, - the problem of idolatry, the importance of knowing and transmitting the Word of God, the Covenant, Christ, fulfillment of destiny
+### (3) 1 Cor. 10:14, - the problem of idolatry, the importance of knowing and transmitting the Word of God, the Covenant, Christ, the fulfillment of destiny
 > Wherefore, my dearly beloved, flee from idolatry. (1 Cor. 10:14, KJV)
 
 ## 4) 1 Cor. 10:15-33, - the importance of understanding the Word of God, the Covenant, Christ, the problem of idolatry in the Corinthian Church
@@ -93,7 +93,7 @@
 
 #### (b) Participation in idolatry is an annoyance to God.
 
-### (3) 1 Cor. 10:23-33, - the importance of the right life of the people of God
+### (3) 1 Cor. 10:23-33, - the importance of the right life of God's people
 > All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not. Let no man seek his own, but every man another’s wealth. Whatsoever is sold in the shambles, that eat, asking no question for conscience sake: For the earth is the Lord’s, and the fulness thereof. If any of them that believe not bid you to a feast, and ye be disposed to go; whatsoever is set before you, eat, asking no question for conscience sake. But if any man say unto you, This is offered in sacrifice unto idols, eat not for his sake that shewed it, and for conscience sake: for the earth is the Lord’s, and the fulness thereof: Conscience, I say, not thine own, but of the other: for why is my liberty judged of another man’s conscience? For if I by grace be a partaker, why am I evil spoken of for that for which I give thanks? Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God. Give none offence, neither to the Jews, nor to the Gentiles, nor to the church of God: Even as I please all men in all things, not seeking mine own profit, but the profit of many, that they may be saved. (1 Cor. 10:23-33, KJV)
 
 #### (a) 1 Cor. 10:23-24, - the importance of understanding good and evil and the consequences of various things for a person. Gal. 6:7-8
@@ -115,7 +115,7 @@
 
 ## Conclusion:
 
-### (1) The importance of understanding and fulfilling the purpose – knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the coming of Christ
+### (1) The importance of understanding and fulfilling the purpose – the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ
 
 ### (2) The importance of understanding the temptations of God's people
 

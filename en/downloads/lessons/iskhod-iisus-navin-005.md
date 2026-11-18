@@ -1,6 +1,6 @@
 # 5. Ex. 12: Understanding Easter
 
-## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21. (Adam – Seth – Noah – Abraham – Isaac – Jacob – The 12 Tribes of Israel)
+## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21. (Adam – Seth – Noah – Abraham – Isaac – Jacob – The 12 Tribes of Israel)
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -28,12 +28,12 @@
 ### (1) Ex. 12:1-7, - preparation and celebration of the Lord's Passover
 > And the LORD spake unto Moses and Aaron in the land of Egypt, saying, This month shall be unto you the beginning of months: it shall be the first month of the year to you. Speak ye unto all the congregation of Israel, saying, In the tenth day of this month they shall take to them every man a lamb, according to the house of their fathers, a lamb for an house: And if the household be too little for the lamb, let him and his neighbour next unto his house take it according to the number of the souls; every man according to his eating shall make your count for the lamb. Your lamb shall be without blemish, a male of the first year: ye shall take it out from the sheep, or from the goats: And ye shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it in the evening. And they shall take of the blood, and strike it on the two side posts and on the upper door post of the houses, wherein they shall eat it. (Ex. 12:1-7, KJV)
 
-#### (a) A lamb without blemish, 3 days of abode – perfect sacrifice, shedding of blood, reasoning over the Word of God Gen. 3:15, 21,Heb. 9:22
+#### (a) A lamb without blemish, 3 days of stay – perfect sacrifice, shedding of blood, reasoning on the Word of God Gen. 3:15, 21,Heb. 9:22
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 > And almost all things are by the law purged with blood; and without shedding of blood is no remission. (Heb. 9:22, KJV)
 
-#### (b) The Society of the Israelites – the people of God, acceptance of the Word of God, the Covenant, Christ
+#### (b) The Society of the Israelites is the people of God, accepting the Word of God, the Covenant, and Christ
 
 ### (2) Ex. 12:8-11, - cooking and eating the Lamb
 > And they shall eat the flesh in that night, roast with fire, and unleavened bread; and with bitter herbs they shall eat it. Eat not of it raw, nor sodden at all with water, but roast with fire; his head with his legs, and with the purtenance thereof. And ye shall let nothing of it remain until the morning; and that which remaineth of it until the morning ye shall burn with fire. And thus shall ye eat it; with your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it is the LORD’s passover. (Ex. 12:8-11, KJV)
@@ -46,7 +46,7 @@
 #### (c) Unleavened bread, bitter herbs – slavery, a bitter life outside of God. the importance of deliverance for man. John 8:36
 > If the Son therefore shall make you free, ye shall be free indeed. (John 8:36, KJV)
 
-#### (d) Girded, clothed, shod, staff, haste – Exodus, the importance of Canaan, the importance of fulfilling the destiny of the people of God (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ). Matt. 28:19-20,Eph. 6:11-20; 5:15-16
+#### (d) Girded, clothed, shod, staff, haste – Exodus, the importance of Canaan, the importance of fulfilling the destiny of the people of God (Knowledge and transmission of the Word of God, the Covenant, Christ, disciples, Worldwide Evangelization, preparation for the coming of Christ). Matt. 28:19-20,Eph. 6:11-20; 5:15-16
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
 > Put on the whole armour of God, that ye may be able to stand against the wiles of the devil. For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places. Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand. Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness; And your feet shod with the preparation of the gospel of peace; Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked. And take the helmet of salvation, and the sword of the Spirit, which is the word of God: Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints; And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel, For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak. (Eph. 6:11-20, KJV)
 > See then that ye walk circumspectly, not as fools, but as wise, Redeeming the time, because the days are evil. (Eph. 5:15-16, KJV)
@@ -54,7 +54,7 @@
 ### (3) Ex. 12:12-14, - the fulfillment of Easter
 > For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I am the LORD. And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy you, when I smite the land of Egypt. And this day shall be unto you for a memorial; and ye shall keep it a feast to the LORD throughout your generations; ye shall keep it a feast by an ordinance for ever. (Ex. 12:12-14, KJV)
 
-#### (a) Ex. 12:14, - the eternal institution, the affirmation of the Word of God, the Covenant, Christ
+#### (a) Ex. 12:14, - the eternal establishment, the affirmation of the Word of God, the Covenant, of Christ
 > And this day shall be unto you for a memorial; and ye shall keep it a feast to the LORD throughout your generations; ye shall keep it a feast by an ordinance for ever. (Ex. 12:14, KJV)
 
 #### (b) Num. 9:1-14, - the importance of Easter, there is no reference to the day
@@ -67,14 +67,14 @@
 
 #### (b) 7 days – reflection on the Word of God, the importance of learning
 
-#### (c) The eternal institution is the affirmation of the Word of God, the Covenant, Christ
+#### (c) The eternal institution is the affirmation of the Word of God, the Covenant, and Christ
 
 ### (5) Ex. 12:21-28, - the importance of transmitting the Word of God, the Covenant, Christ, the importance of proclaiming the Lord's Passover
 > Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover. And ye shall take a bunch of hyssop, and dip it in the blood that is in the bason, and strike the lintel and the two side posts with the blood that is in the bason; and none of you shall go out at the door of his house until the morning. For the LORD will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the LORD will pass over the door, and will not suffer the destroyer to come in unto your houses to smite you. And ye shall observe this thing for an ordinance to thee and to thy sons for ever. And it shall come to pass, when ye be come to the land which the LORD will give you, according as he hath promised, that ye shall keep this service. And it shall come to pass, when your children shall say unto you, What mean ye by this service? That ye shall say, It is the sacrifice of the LORD’s passover, who passed over the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses. And the people bowed the head and worshipped. And the children of Israel went away, and did as the LORD had commanded Moses and Aaron, so did they. (Ex. 12:21-28, KJV)
 
 #### (a) Moses is the prototype of Christ, the importance of fulfilling the Father's will
 
-#### (b) Elders (a type of ministers) and the people of God – the importance of hearing the Word of God, the Covenant, Christ, the importance of learning
+#### (b) The elders (the prototype of the ministers) and the people of God – the importance of hearing the Word of God, the Covenant, Christ, the importance of learning
 
 #### (c) The importance of accepting the Lord's Passover – trouble and death pass by
 
@@ -102,7 +102,7 @@
 
 #### (c) Participation in the Lord's Passover – the importance of understanding and accepting the Word of God, the Covenant, Christ (circumcision), and human choice
 
-#### (d) Exodus – the way to Canaan, the coming of Christ, and destiny. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+#### (d) Exodus – the way to Canaan, the coming of Christ, and destiny. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 
 ## 4) Correct understanding of Passover and Unleavened Bread 1 Cor. 5:7,John 1:29, - Matt. 26:26-27 (Mark 14:22-24,Luke 22:19-20, 1 Cor. 11:23-26)
 > Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Christ our passover is sacrificed for us: (1 Cor. 5:7, KJV)
@@ -141,13 +141,13 @@
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
 > To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins. (Acts 10:43, KJV)
 
-### (3) God's understanding of the people's destiny is the proclamation of Easter. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+### (3) Understanding the destiny of God's people is the proclamation of Easter. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 
 ## 6) The unworthy celebration of Passover and Unleavened Bread
 
-### (1) Misunderstanding of the Word of God, the Covenant, Christ (the essence of sin)
+### (1) Misunderstanding of the Word of God, the Covenant, and Christ (the essence of sin)
 
-#### (a) Ritual, mysticism - a meaningless action without understanding the Word of God, the Testament, Christ
+#### (a) Ritual, mysticism – meaningless action without understanding the Word of God, the Covenant, Christ
 
 #### (b) Understanding the actions of Satan – the distortion of the Word of God, the Covenant, Christ, Easter, pagan symbols of the God of fertility – a cake and colored eggs (phallus), the inadmissibility of the participation of the people of God 1 Cor. 10:19-28,Acts 15:28-29
 > What say I then? that the idol is any thing, or that which is offered in sacrifice to idols is any thing? But I say, that the things which the Gentiles sacrifice, they sacrifice to devils, and not to God: and I would not that ye should have fellowship with devils. Ye cannot drink the cup of the Lord, and the cup of devils: ye cannot be partakers of the Lord’s table, and of the table of devils. Do we provoke the Lord to jealousy? are we stronger than he? All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not. Let no man seek his own, but every man another’s wealth. Whatsoever is sold in the shambles, that eat, asking no question for conscience sake: For the earth is the Lord’s, and the fulness thereof. If any of them that believe not bid you to a feast, and ye be disposed to go; whatsoever is set before you, eat, asking no question for conscience sake. But if any man say unto you, This is offered in sacrifice unto idols, eat not for his sake that shewed it, and for conscience sake: for the earth is the Lord’s, and the fulness thereof: (1 Cor. 10:19-28, KJV)
@@ -159,5 +159,5 @@
 
 #### (b) The heresy of the "mixed gospel", the denial of the fact of forgiveness of all human sins
 
-#### (c) The heresy of "partial salvation", the denial of Christ's decision of the consequences of sin – there is no salvation of soul and body, the effect of ancestral and acquired curses, The children's obsession with God and WORTHY PARTICIPATION IN THE LORD'S PASSOVER is an affirmation of the Divinity of Christ and the Omnipotence of His Sacrifice to solve all human problems.
+#### (c) The heresy of "partial salvation", the denial of Christ's decision of the consequences of sin – there is no salvation of soul and body, the effect of ancestral and acquired curses, The obsession of God's children and THEIR WORTHY PARTICIPATION IN THE LORD'S PASSOVER is an affirmation of the Divinity of Christ and the Omnipotence of His Sacrifice to solve all human problems.
 - An UNWORTHY PARTICIPATION IN THE LORD'S PASSOVER is a denial of the Divinity of Christ and the All–sufficiency of His Sacrifice to solve all human problems.

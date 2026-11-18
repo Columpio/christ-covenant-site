@@ -1,5 +1,5 @@
 # Deut. 31–34
-## 8.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 8.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -11,7 +11,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-## 2) Deut. 31, - the importance of understanding the Word of God, the Covenant, Christ
+## 2) Deut. 31, - the importance of understanding the Word of God, the Covenant, and Christ
 
 ### (1) Deut. 31:1-8, - the importance of fulfilling the destiny of God's people (Canaan), the importance of the disciple (Joshua), the inevitable fulfillment of God's Word (the conquest of Canaan, the coming of Christ)
 > And Moses went and spake these words unto all Israel. And he said unto them, I am an hundred and twenty years old this day; I can no more go out and come in: also the LORD hath said unto me, Thou shalt not go over this Jordan. The LORD thy God, he will go over before thee, and he will destroy these nations from before thee, and thou shalt possess them: and Joshua, he shall go over before thee, as the LORD hath said. And the LORD shall do unto them as he did to Sihon and to Og, kings of the Amorites, and unto the land of them, whom he destroyed. And the LORD shall give them up before your face, that ye may do unto them according unto all the commandments which I have commanded you. Be strong and of a good courage, fear not, nor be afraid of them: for the LORD thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee. And Moses called unto Joshua, and said unto him in the sight of all Israel, Be strong and of a good courage: for thou must go with this people unto the land which the LORD hath sworn unto their fathers to give them; and thou shalt cause them to inherit it. And the LORD, he it is that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed. (Deut. 31:1-8, KJV)
@@ -57,7 +57,7 @@
 
 ### (2) The Recorded Message of the Word of God – The Pentateuch, Job, Psalms
 
-### (3) The Prepared Disciple Joshua – Transmission of the Word of God
+### (3) The Prepared Disciple Joshua – the transmission of the Word of God
 
 ### (4) Buried by Archangel Michael – the eternal problem of idolatry Deut. 34:5-6,Jude 1:9
 > So Moses the servant of the LORD died there in the land of Moab, according to the word of the LORD. And he buried him in a valley in the land of Moab, over against Beth-peor: but no man knoweth of his sepulchre unto this day. (Deut. 34:5-6, KJV)
@@ -69,15 +69,15 @@
 
 #### (a) The Importance of Canaan – the Coming of Christ, Worldwide Evangelization
 
-#### (b) The importance of knowing and preserving the purity of the Word of God, the Covenant, Christ
+#### (b) The importance of knowing and preserving the purity of the Word of God, the Covenant, and Christ
 
-#### (c) The importance of preserving the people of God – the transmission of the Word of God, the Covenant, Christ
+#### (c) The importance of preserving God's people is the transmission of God's Word, Covenant, and Christ
 
-#### (d) Non–acceptance, rejection of the Word of God, the Covenant, Christ - destruction
+#### (d) Non–acceptance, rejection of the Word of God, the Covenant, Christ - death
 
 ### (2) Moses is the prototype of Christ:
 
-#### (a) God celebrated the Passover and brought the people out of slavery. (1 Cor. 5:7)
+#### (a) He celebrated the Passover and led God's people out of slavery. (1 Cor. 5:7)
 > Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Christ our passover is sacrificed for us: (1 Cor. 5:7, KJV)
 
 #### (b) Gave the Covenant, Christ (mediator, epoch) (Ex. 20, 25-30,Luke 22:19-20)
@@ -106,5 +106,5 @@
 #### (e) Above the High Priest in the order of Aaron. (Num. 12:10-12)
 > And the cloud departed from off the tabernacle; and, behold, Miriam became leprous, white as snow: and Aaron looked upon Miriam, and, behold, she was leprous. And Aaron said unto Moses, Alas, my lord, I beseech thee, lay not the sin upon us, wherein we have done foolishly, and wherein we have sinned. Let her not be as one dead, of whom the flesh is half consumed when he cometh out of his mother’s womb. (Num. 12:10-12, KJV)
 
-#### (g) Appeared for the second time for confirmation. The Word of God, the Covenant, Christ (Matt. 17:3)
+#### (g) Appeared for the second time for confirmation. The Word of God, the Covenant, and Christ (Matt. 17:3)
 > And, behold, there appeared unto them Moses and Elias talking with him. (Matt. 17:3, KJV)

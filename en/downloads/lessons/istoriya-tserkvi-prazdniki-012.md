@@ -8,7 +8,7 @@
 > And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:16-17, KJV)
 > And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth. (Gen. 1:28, KJV)
 
-### (2) Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), - the importance of knowing and transmitting the word Satan, faithfulness and dedication to Satan
+### (2) Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), - the importance of knowing and transmitting the word of Satan, faithfulness and dedication to Satan
 > Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons. (Gen. 3:1-7, KJV)
 > Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned: (Rom. 5:12, KJV)
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
@@ -23,10 +23,10 @@
 ### (1) Children of God (Emmanuel). John 1:12
 > But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name: (John 1:12, KJV)
 
-#### (a) Carnal believer is a state in relation to the will of God (Resisting the will of God is self–will, visible). 1 Cor. 3:1-4
+#### (a) A carnal believer is a state in relation to the will of God (Resisting the will of God is self–will, visible). 1 Cor. 3:1-4
 > And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ. I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able. For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men? For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal? (1 Cor. 3:1-4, KJV)
 
-#### (b) Servant of God is a state in relation to the fulfillment of God's will (If we don't want to or don't understand, we do it anyway). Jas. 1:1
+#### (b) A servant of God is a state in relation to fulfilling God's will (If we don't want to or don't understand, we do it anyway). Jas. 1:1
 > James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting. (Jas. 1:1, KJV)
 
 #### (c) A friend of God is a state in relation to the will of God. (Conscious understanding, consent, and fulfillment). John 15:14-15
@@ -53,9 +53,9 @@
 
 #### (a) Help in solving the problem of sin, the death of hell, Satan
 
-#### (b) Forgiveness and non–forgiveness of sins is a person's profession. (Understanding or misunderstanding of the Word of God, the Covenant, Christ – affirmation of the forgiveness of sins and salvation, the "spiritual diagnosis" of man)
+#### (b) Forgiveness and non–forgiveness of sins is a person's profession. (Understanding or misunderstanding of the Word of God, the Covenant, Christ – affirmation of forgiveness of sins and salvation, the "spiritual diagnosis" of a person)
 
-#### (c) A person's profession is bound or permitted on earth. (Understanding or misunderstanding the Word of God, the Covenant, Christ is the solution to a person's spiritual problem: the power of sin, death and hell, Satan, the spiritual diagnosis of a person, the keys of Ts.b. i.e. the entrance to Ts.b.)
+#### (c) A person's profession is bound or permitted on earth. (Understanding or misunderstanding of the Word of God, the Covenant, Christ is the solution to a person's spiritual problem: the power of sin, death and hell, Satan, the spiritual diagnosis of a person, the keys of Ts.b. i.e. the entrance to Ts.b.)
 
 ### (4) The Prophets of God. 2 Pet. 1:19,John 14:6
 > We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts: (2 Pet. 1:19, KJV)
@@ -65,7 +65,7 @@
 
 #### (b) Pointing out the only way to God – Christ
 
-#### (c) Explaining the past, present and future
+#### (c) Clarification of the past, present and future
 
 ### (5) Kings of God. 1 Pet. 2:9,Rev. 1:6
 > But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light: (1 Pet. 2:9, KJV)
@@ -73,28 +73,28 @@
 
 #### (a) The crushing of Satan's power in human life
 
-#### (b) The statement The Word of God – God's Laws for mankind
+#### (b) The Affirmation of God's Word – God's Laws for Mankind
 
 #### (c) Caring for people and for all of God's creation
 
-## 3) The participation of the children of God in the accomplishment of World Evangelization
+## 3) The participation of God's children in Worldwide Evangelization
 
 ### (1) Personal Evangelism – Non-believers, the importance of communication
 
 #### (a) Saving predestined people, a minority
 
-#### (b) Proclaiming the Word of God, the Covenant, Christ – a person's right to choose Matt. 1:21; 7:13-14,John 8:47
+#### (b) Proclaiming the Word of God, the Covenant, and Christ – a person's right to choose Matt. 1:21; 7:13-14,John 8:47
 > And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins. (Matt. 1:21, KJV)
 > Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it. (Matt. 7:13-14, KJV)
 > He that is of God heareth God’s words: ye therefore hear them not, because ye are not of God. (John 8:47, KJV)
 
 ### (2) Church Evangelization – believers, the importance of communication and interaction of believers
 
-### (3) Method – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization, preparation of the coming of Christ. (The importance of Worldwide Evangelization in terms of distance and time)
+### (3) The method is the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, and preparation for the coming of Christ. (The importance of Worldwide Evangelization in terms of distance and time)
 
-### (4) The participation of the children of God in the accomplishment of World Evangelization
+### (4) The participation of God's children in Worldwide Evangelization
 
-#### (a) Knowledge and transmission of the Word of God, the Covenant, Christ
+#### (a) Knowledge and transmission of the Word of God, the Covenant, and Christ
 
 #### (b) Prayer
 
@@ -102,13 +102,13 @@
 
 ## 4) The importance of learning for Worldwide Evangelization
 
-### (1) Hearing, conscious acceptance of the Word of God, the Covenant, Christ (the whole Bible)
+### (1) Hearing, consciously accepting the Word of God, the Covenant, and Christ (the whole Bible)
 
-### (2) Personal preparation for the transmission of the Word of God, the Covenant, Christ (the whole Bible)
+### (2) Personal preparation for the transmission of the Word of God, the Covenant, and Christ (the entire Bible)
 
-### (3) Preparation of disciples, transmission of the Word of God, the Covenant, Christ (the whole Bible)
+### (3) The preparation of disciples, the transmission of the Word of God, the Covenant, Christ (the whole Bible)
 
-## 5) God's Method of World Evangelization
+## 5) God's Method of Worldwide Evangelization
 
 ### (1) Go to the scene of action. Matt. 28:19-20,Acts 1:8
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
@@ -131,7 +131,7 @@
 
 ### (1) The Non-Acceptance Of the All-Sufficiency Of Christ's Sacrifice. (Failure to accept forgiveness for all sins – past, present, and future, solving curses, demonic possession, etc.)
 
-### (2) Non–acceptance of the destiny of the people of God - the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization, preparation for the coming of Christ. (Agreement in words, opposition in deeds – deeds and deeds)
+### (2) Non–acceptance of the destiny of God's people - the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ. (Agreement in words, opposition in deeds – deeds and deeds)
 
 ### (3) Non-acceptance of God's sovereignty and control, non-acceptance of God's timetable, non-acceptance of God's rule. (Attempts to assert one's will through fasting and prayer)
 
@@ -145,17 +145,17 @@
 ### (2) The influence of the world. Ps. 73:1-17. (Emphasis on the visible – family, finances, worries, etc.)
 > A Psalm of Asaph. Truly God is good to Israel, even to such as are of a clean heart. But as for me, my feet were almost gone; my steps had well nigh slipped. For I was envious at the foolish, when I saw the prosperity of the wicked. For there are no bands in their death: but their strength is firm. They are not in trouble as other men; neither are they plagued like other men. Therefore pride compasseth them about as a chain; violence covereth them as a garment. Their eyes stand out with fatness: they have more than heart could wish. They are corrupt, and speak wickedly concerning oppression: they speak loftily. They set their mouth against the heavens, and their tongue walketh through the earth. Therefore his people return hither: and waters of a full cup are wrung out to them. And they say, How doth God know? and is there knowledge in the most High? Behold, these are the ungodly, who prosper in the world; they increase in riches. Verily I have cleansed my heart in vain, and washed my hands in innocency. For all the day long have I been plagued, and chastened every morning. If I say, I will speak thus; behold, I should offend against the generation of thy children. When I thought to know this, it was too painful for me; Until I went into the sanctuary of God; then understood I their end. (Ps. 73:1-17, KJV)
 
-### (3) The influence of Satan and demons is another word. 1 Pet. 5:8,Col. 2:8. (Proclaiming false teachings, tempting and deceiving the people of God)
+### (3) The influence of Satan and demons is another word. 1 Pet. 5:8,Col. 2:8. (Proclaiming false teachings, tempting and deceiving God's people)
 > Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: (1 Pet. 5:8, KJV)
 > Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ. (Col. 2:8, KJV)
 
-### (4) The temptations of God's people – God's acceptance, understanding of the human right to choose, the importance of preserving the Word of God, the Covenant, and Christ until the moment of separation of soul and body. Heb. 3:12-14,2 Pet. 3:17
+### (4) The temptations of God's people are God's acceptance, understanding of man's right to choose, and the importance of preserving God's Word, Covenant, and Christ until the moment of separation of soul and body. Heb. 3:12-14,2 Pet. 3:17
 > Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God. But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin. For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end; (Heb. 3:12-14, KJV)
 > Ye therefore, beloved, seeing ye know these things before, beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness. (2 Pet. 3:17, KJV)
 
 ## Conclusion:
 
-### (1) The importance of understanding and fulfilling the purpose of the Church – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization, the coming of Christ
+### (1) The importance of understanding and fulfilling the mission of the Church – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ
 
 ### (2) The importance of preserving the faith of God, preserving the Word of God, the Covenant, Christ, purity of teaching, faithfulness and dedication to God
 - the nativity of Christ

@@ -21,8 +21,8 @@
 > So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs. He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep. He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep. (John 21:15-17, KJV)
 
 ### (2) The importance of keeping God's Commandments
-- The commandments of the Covenant – the acceptance of Christ (Emmanuel), the importance of knowing and transmitting the Word of God, the Covenant, Christ, the 100% possibility of fulfillment for man with the assistance of the grace of God
-- The Commandments of the Law – The Decalogue, God's standards, the impossibility of 100% fulfillment for man, the process of sanctification
+- The commandments of the Covenant are the acceptance of Christ (Emmanuel), the importance of knowing and transmitting the Word of God, the Covenant, Christ, and the 100% possibility of fulfillment for a person with the assistance of God's grace
+- The Commandments of the Law – the Decalogue, God's standards, the impossibility of 100% fulfillment for man, the process of sanctification
 
 ## 2) 1 John 5:4-5, - acceptance of the Word of God, the Covenant, Christ, the essence of faith and victory
 > For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith. Who is he that overcometh the world, but he that believeth that Jesus is the Son of God? (1 John 5:4-5, KJV)
@@ -37,11 +37,11 @@
 ### (2) 1 John 5:5, - victory over the world through the faith of God
 > Who is he that overcometh the world, but he that believeth that Jesus is the Son of God? (1 John 5:5, KJV)
 
-#### (a) God's victory over the power of sin, death and hell, Satan
+#### (a) God's victory over the power of sin, death, hell, and Satan
 
 #### (b) Changing a person's worldview, thoughts, desires, and actions
 
-## 3) 1 John 5:6-8, - the importance of understanding the essence of the Word of God, the Covenant, Christ
+## 3) 1 John 5:6-8, - the importance of understanding the essence of the Word of God, the Covenant, and Christ
 > This is he that came by water and blood, even Jesus Christ; not by water only, but by water and blood. And it is the Spirit that beareth witness, because the Spirit is truth. For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one. And there are three that bear witness in earth, the Spirit, and the water, and the blood: and these three agree in one. (1 John 5:6-8, KJV)
 
 ### (1) 1 John 5:6, - understanding the meaning of the coming of Christ
@@ -49,13 +49,13 @@
 
 #### (a) Water – water Baptism, confirmation of the Word of God, the Covenant, Christ (Death is the fulfillment of the Word of God, resurrection is the justification of man)
 
-#### (b) Blood – death on the cross, fulfillment of the Word of God, the Covenant, Christ (Atonement for all human sins, the legitimate basis for salvation)
+#### (b) Blood – death on the cross, fulfillment of the Word of God, the Covenant, of Christ (Atonement for all human sins, the legitimate basis for salvation)
 
 #### (c) The Spirit is the resurrection from the dead, ascension in glory. (The True God, High Priest, Mediator and Intercessor)
 
 #### (d) The testimony of the Holy Spirit, the truth of God – Christ and His Sacrifice, the legitimate solution to all the problems of humanity
 
-### (2) 1 John 5:7, - the heavenly testimony of the Holy, True, Triune God, the importance of accepting the Word of God, the Covenant, Christ
+### (2) 1 John 5:7, is the heavenly testimony of the Holy, True, Triune God, the importance of accepting the Word of God, the Covenant, and Christ
 > For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one. (1 John 5:7, KJV)
 
 #### (a) The Father's testimony is the establishment of a plan of salvation
@@ -67,24 +67,24 @@
 ### (3) 1 John 5:8, - the earthly testimony of the people of God
 > And there are three that bear witness in earth, the Spirit, and the water, and the blood: and these three agree in one. (1 John 5:8, KJV)
 
-#### (a) The testimony of a man of the Spirit – the proclamation of the Word of God, the Covenant, Christ (Understanding and fulfilling the destiny of God's people)
+#### (a) The testimony of a man of the Spirit is the proclamation of the Word of God, the Covenant, and Christ (Understanding and fulfilling the destiny of God's people)
 
-#### (b) The Testimony of water – Water Baptism, the affirmation of the Word of God (The baptism of Christ and the people of God is the testimony of salvation)
+#### (b) The Testimony of water – Water Baptism, the affirmation of the Word of God (The baptism of Christ and the people of God is a testimony of salvation)
 
 #### (c) The testimony of blood is Communion, the affirmation of the Word of God (The sacrifice and Blood of Christ are the testimony of human salvation.)
 
-## 4) 1 John 5:9-13, - the importance of accepting the Word of God, the Covenant, Christ
+## 4) 1 John 5:9-13, - the importance of accepting the Word of God, the Covenant, and Christ
 > If we receive the witness of men, the witness of God is greater: for this is the witness of God which he hath testified of his Son. He that believeth on the Son of God hath the witness in himself: he that believeth not God hath made him a liar; because he believeth not the record that God gave of his Son. And this is the record, that God hath given to us eternal life, and this life is in his Son. He that hath the Son hath life; and he that hath not the Son of God hath not life. These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God. (1 John 5:9-13, KJV)
 
-### (1) Human testimony – transmission of the Word of God, the Covenant, Christ, the performance of the Sacraments, historical and vital facts
+### (1) Human witness – transmission of the Word of God, the Covenant, Christ, the performance of the Sacraments, historical and vital facts
 
 ### (2) God's testimony is the recorded Word of God, the act of God's grace, the fulfillment of God's plan in the history of mankind
 
-### (3) Awareness and acceptance of the Word of God, the Covenant, Christ – the faith of God, salvation, eternal life, Emmanuel
+### (3) Awareness and acceptance of the Word of God, the Covenant, Christ – God's faith, salvation, eternal life, Emmanuel
 
-### (4) Non–acceptance of the Word of God, the Covenant, Christ - an insult to God, ruin
+### (4) Failure to accept the Word of God, the Covenant, and Christ is an insult to God and ruin
 
-## 5) 1 John 5:14-15, - the importance of accepting the Word of God, the Covenant, Christ
+## 5) 1 John 5:14-15, - the importance of accepting the Word of God, the Covenant, and Christ
 > And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us: And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him. (1 John 5:14-15, KJV)
 
 ### (1) The importance of proper prayer, affirmation of God's will
@@ -96,13 +96,13 @@
 ## 6) 1 John 5:16-18, - the importance of understanding sin
 > If any man see his brother sin a sin which is not unto death, he shall ask, and he shall give him life for them that sin not unto death. There is a sin unto death: I do not say that he shall pray for it. All unrighteousness is sin: and there is a sin not unto death. We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that wicked one toucheth him not. (1 John 5:16-18, KJV)
 
-### (1) Sin to death – non-acceptance (rejection) of the Word of God, the Covenant, Christ
+### (1) Sin to death is the rejection of the Word of God, the Covenant, and Christ
 
 ### (2) Sin does not lead to death – wrong thoughts and actions
 
 ### (3) Children of God – life in the Word of God, the Covenant, Christ, life beyond sin
 
-### (4) Sinning to death – the emphasis is not on prayer, but on transmitting the Word of God, the Covenant, Christ ("I am not saying that he should pray")
+### (4) Sinning to death – the emphasis is not on prayer, but on transmitting the Word of God, the Covenant, and Christ ("I'm not saying that he should pray")
 
 ## 7) John 5:19-21, - the importance of understanding spiritual reality
 > Then answered Jesus and said unto them, Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise. For the Father loveth the Son, and sheweth him all things that himself doeth: and he will shew him greater works than these, that ye may marvel. For as the Father raiseth up the dead, and quickeneth them; even so the Son quickeneth whom he will. (John 5:19-21, KJV)
@@ -123,9 +123,9 @@
 
 #### (b) The importance of assurance of forgiveness of all sins and salvation, God's guidance and victory
 
-#### (c) The importance of understanding and fulfilling the destiny of the children of God, the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the disciples, the coming of Christ
+#### (c) The importance of understanding and fulfilling the destiny of God's children, the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the disciples, the coming of Christ
 
-### (3) 1 John 5:21, - the importance of preserving the Word of God, the Covenant, Christ
+### (3) 1 John 5:21, - the importance of preserving the Word of God, the Covenant, and Christ
 > Little children, keep yourselves from idols. Amen. (1 John 5:21, KJV)
 
 #### (a) An idol is a substitute for God, the purpose and meaning of human life
@@ -134,7 +134,7 @@
 
 ## Conclusion:
 
-### (1) The importance of the Word of God, the Covenant, Christ, understanding of Emmanuel, love for God and neighbor, confidence in the forgiveness of sins and salvation
+### (1) The importance of the Word of God, the Covenant, Christ, understanding Emmanuel, love for God and neighbor, confidence in the forgiveness of sins and salvation
 
 ### (2) The importance of God's Faith and victory over the world
 

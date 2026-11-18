@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,16 +233,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>Heb. 11</h1>
-<h2 id="s1">7.1) Heb. 11:1-3, - the importance of the Word of God, of the Covenant, of Christ for every human being</h2>
+<h2 id="s1">7.1) Heb. 11:1-3, - the importance of the Word of God, the Covenant, and Christ for every human being</h2>
 <blockquote data-v="kjv"><p>Now faith is the substance of things hoped for, the evidence of things not seen. For by it the elders obtained a good report. Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.</p><cite>Heb. 11:1-3 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Now faith is the assurance of what we hope for and the certainty of what we do not see. This is why the ancients were commended. By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible.</p><cite>Heb. 11:1-3 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now faith is assurance of things hoped for, proof of things not seen. For by this, the elders obtained approval. By faith we understand that the universe has been framed by the word of God, so that what is seen has not been made out of things which are visible.</p><cite>Heb. 11:1-3 · WEB</cite></blockquote>
@@ -251,7 +253,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith.</p><cite>Mark 11:23 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>“Truly I tell you that if anyone says to this mountain, ‘Be lifted up and thrown into the sea,’ and has no doubt in his heart but believes that it will happen, it will be done for him.</p><cite>Mark 11:23 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For most certainly I tell you, whoever may tell this mountain, ‘Be taken up and cast into the sea,’ and doesn’t doubt in his heart, but believes that what he says is happening, he shall have whatever he says.</p><cite>Mark 11:23 · WEB</cite></blockquote>
-<h4>(a) The faith of God is the correct understanding and fulfillment of the Word of God, the Covenant, Christ</h4>
+<h4>(a) The faith of God is the correct understanding and fulfillment of the Word of God, the Covenant, and Christ</h4>
 <h4>(b) Human faith – misunderstanding and fulfillment of the Word of God, the Covenant, Christ Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9</h4>
 <blockquote data-v="kjv"><p>So God created man in his own image, in the image of God created he him; male and female created he them.</p><cite>Gen. 1:27 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So God created man in His own image; in the image of God He created him; male and female He created them.</p><cite>Gen. 1:27 · BSB</cite></blockquote>
@@ -330,7 +332,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <li>V.Z. – faith in the coming Christ and His Sacrifice for all sins</li>
 <li>N.Z. – faith in Jesus of Nazareth as Christ and His Sacrifice for all human sins (past, present, future)</li>
 </ul>
-<h4>(d) The level and power of God's faith – knowledge and transmission of the Word of God, the Covenant, Christ, fulfillment of destiny</h4>
+<h4>(d) The level and power of God's faith is the knowledge and transmission of the Word of God, the Covenant, Christ, and the fulfillment of destiny</h4>
 <h3>(4) God's faith is an act of God's grace</h3>
 <h4>(a) Hearing the Word of God, the Covenant, Christ Rom. 10:17</h4>
 <blockquote data-v="kjv"><p>So then faith cometh by hearing, and hearing by the word of God.</p><cite>Rom. 10:17 · KJV</cite></blockquote>
@@ -344,7 +346,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live:</p><cite>Deut. 30:19 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>I call heaven and earth as witnesses against you today that I have set before you life and death, blessing and cursing. Therefore choose life, so that you and your descendants may live,</p><cite>Deut. 30:19 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I call heaven and earth to witness against you today that I have set before you life and death, the blessing and the curse. Therefore choose life, that you may live, you and your descendants,</p><cite>Deut. 30:19 · WEB</cite></blockquote>
-<h4>(d) Obedience to the Word of God, the Covenant, Christ (destiny) 1 Tim. 2:4</h4>
+<h4>(d) Obedience to the Word of God, the Covenant, and Christ (purpose) 1 Tim. 2:4</h4>
 <blockquote data-v="kjv"><p>Who will have all men to be saved, and to come unto the knowledge of the truth.</p><cite>1 Tim. 2:4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>who wants everyone to be saved and to come to the knowledge of the truth.</p><cite>1 Tim. 2:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>who desires all people to be saved and come to full knowledge of the truth.</p><cite>1 Tim. 2:4 · WEB</cite></blockquote>
@@ -352,13 +354,13 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for? But if we hope for that we see not, then do we with patience wait for it.</p><cite>Rom. 8:24-25 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For in this hope we were saved; but hope that is seen is no hope at all. Who hopes for what he can already see? But if we hope for what we do not yet see, we wait for it patiently.</p><cite>Rom. 8:24-25 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For we were saved in hope, but hope that is seen is not hope. For who hopes for that which he sees? But if we hope for that which we don’t see, we wait for it with patience.</p><cite>Rom. 8:24-25 · WEB</cite></blockquote>
-<h3>(5) Heb. 11:2, - the importance of understanding the Word of God, the Covenant, Christ, the testimony of the Word of God about the faith of the ancients (Adam – Moses)</h3>
+<h3>(5) Heb. 11:2, - the importance of understanding the Word of God, the Covenant, Christ, the testimony of the Word of God about the faith of the ancients (Adam –Moses)</h3>
 <blockquote data-v="kjv"><p>For by it the elders obtained a good report.</p><cite>Heb. 11:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>This is why the ancients were commended.</p><cite>Heb. 11:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For by this, the elders obtained approval.</p><cite>Heb. 11:2 · WEB</cite></blockquote>
 <h4>(a) Adam, Eve – faith in the Divinity of Christ and His Self-sufficient Sacrifice, in His coming (the faith of God)</h4>
 <h4>(b) All the heroes of the Bible are faith in the Divinity of Christ and His Self–sufficient Sacrifice, in His coming (the faith of God)</h4>
-<h3>(6) Heb. 11:3, - the importance of knowing the Word of God, the Covenant, Christ</h3>
+<h3>(6) Heb. 11:3, - the importance of knowing the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.</p><cite>Heb. 11:3 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible.</p><cite>Heb. 11:3 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>By faith we understand that the universe has been framed by the word of God, so that what is seen has not been made out of things which are visible.</p><cite>Heb. 11:3 · WEB</cite></blockquote>
@@ -369,7 +371,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>By faith Abel offered God a better sacrifice than Cain did. By faith he was commended as righteous when God gave approval to his gifts. And by faith he still speaks, even though he is dead.</p><cite>Heb. 11:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>By faith Abel offered to God a more excellent sacrifice than Cain, through which he had testimony given to him that he was righteous, God testifying with respect to his gifts; and through it he, being dead, still speaks.</p><cite>Heb. 11:4 · WEB</cite></blockquote>
 <h3>(1) Cain, Abel – believers, understanding the importance of Worship</h3>
-<h3>(2) The meaning of Abel's sacrifice is the shedding of blood, faith in Christ. (God's Prophet, acceptance of the Word of God, the Covenant, Christ is the Good News) Heb. 11:4, – Luke 11:49-51,1 Pet. 1:10-11,Acts 10:43, -Jas. 1:18,1 Pet. 1:23 (1 Pet. 1:18-20,Rev. 13:8), - John 3:1-10</h3>
+<h3>(2) The meaning of Abel's sacrifice is the shedding of blood, faith in Christ. (God's Prophet, acceptance of the Word of God, the Covenant, Christ – The Good News) Heb. 11:4, - Luke 11:49-51,1 Pet. 1:10-11,Acts 10:43, -Jas. 1:18,1 Pet. 1:23 (1 Pet. 1:18-20,Rev. 13:8), - John 3:1-10</h3>
 <blockquote data-v="kjv"><p>By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh.</p><cite>Heb. 11:4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>By faith Abel offered God a better sacrifice than Cain did. By faith he was commended as righteous when God gave approval to his gifts. And by faith he still speaks, even though he is dead.</p><cite>Heb. 11:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>By faith Abel offered to God a more excellent sacrifice than Cain, through which he had testimony given to him that he was righteous, God testifying with respect to his gifts; and through it he, being dead, still speaks.</p><cite>Heb. 11:4 · WEB</cite></blockquote>
@@ -397,7 +399,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>There was a man of the Pharisees, named Nicodemus, a ruler of the Jews: The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him. Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God. Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother’s womb, and be born? Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. That which is born of the flesh is flesh; and that which is born of the Spirit is spirit. Marvel not that I said unto thee, Ye must be born again. The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit. Nicodemus answered and said unto him, How can these things be? Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things?</p><cite>John 3:1-10 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Now there was a man of the Pharisees named Nicodemus, a leader of the Jews. He came to Jesus at night and said, “Rabbi, we know that You are a teacher who has come from God. For no one could perform the signs You are doing if God were not with him.” Jesus replied, “Truly, truly, I tell you, no one can see the kingdom of God unless he is born again.” “How can a man be born when he is old?” Nicodemus asked. “Can he enter his mother’s womb a second time to be born?” Jesus answered, “Truly, truly, I tell you, no one can enter the kingdom of God unless he is born of water and the Spirit. Flesh is born of flesh, but spirit is born of the Spirit. Do not be amazed that I said, ‘You must be born again.’ The wind blows where it wishes. You hear its sound, but you do not know where it comes from or where it is going. So it is with everyone born of the Spirit.” “How can this be?” Nicodemus asked. “You are Israel’s teacher,” said Jesus, “and you do not understand these things?</p><cite>John 3:1-10 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews. He came to Jesus by night and said to him, “Rabbi, we know that you are a teacher who has come from God, for no one can do these signs that you do, unless God is with him.” Jesus answered him, “Most certainly I tell you, unless one is born anew, he can’t see God’s Kingdom.” Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb and be born?” Jesus answered, “Most certainly I tell you, unless one is born of water and Spirit, he can’t enter into God’s Kingdom. That which is born of the flesh is flesh. That which is born of the Spirit is spirit. Don’t marvel that I said to you, ‘You must all be born anew.’ The wind blows where it wants to, and you hear its sound, but don’t know where it comes from and where it is going. So is everyone who is born of the Spirit.” Nicodemus answered him, “How can these things be?” Jesus answered him, “Are you the teacher of Israel, and don’t understand these things?</p><cite>John 3:1-10 · WEB</cite></blockquote>
-<h3>(3) The meaning of Cain's sacrifice is the fruits of the earth, his own strength, the deeds of man (the devil's Child, rejection of the Word of God, the Covenant, Christ – religion). 1 John 3:12</h3>
+<h3>(3) The meaning of Cain's sacrifice is the fruits of the earth, his own strength, and human deeds (Child of the devil, rejection of the Word of God, the Covenant, and Christ – religion). 1 John 3:12</h3>
 <blockquote data-v="kjv"><p>Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother’s righteous.</p><cite>1 John 3:12 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Do not be like Cain, who belonged to the evil one and murdered his brother. And why did Cain slay him? Because his own deeds were evil, while those of his brother were righteous.</p><cite>1 John 3:12 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>unlike Cain, who was of the evil one and killed his brother. Why did he kill him? Because his deeds were evil, and his brother’s righteous.</p><cite>1 John 3:12 · WEB</cite></blockquote>
@@ -418,7 +420,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>By faith Enoch was translated that he should not see death; and was not found, because God had translated him: for before his translation he had this testimony, that he pleased God.</p><cite>Heb. 11:5 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>By faith Enoch was taken up so that he did not see death: “He could not be found, because God had taken him away.” For before he was taken, he was commended as one who pleased God.</p><cite>Heb. 11:5 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>By faith Enoch was taken away, so that he wouldn’t see death, and he was not found, because God translated him. For he has had testimony given to him that before his translation he had been well pleasing to God.</p><cite>Heb. 11:5 · WEB</cite></blockquote>
-<h3>(1) Enoch is God's prophet, understanding the first coming of Christ and His Sacrifice, accepting the Word of God, the Covenant, Christ</h3>
+<h3>(1) Enoch is God's prophet, understanding the first coming of Christ and His Sacrifice, accepting the Word of God, the Covenant, and Christ</h3>
 <h3>(2) Enoch – understanding the second coming of Christ, understanding the judgment of God and eternity with God. Jude 1:14</h3>
 <blockquote data-v="kjv"><p>And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord cometh with ten thousands of his saints,</p><cite>Jude 1:14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Enoch, the seventh from Adam, also prophesied about them: “Behold, the Lord is coming with myriads of His holy ones</p><cite>Jude 1:14 · BSB</cite></blockquote>
@@ -429,14 +431,14 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.</p><cite>Heb. 11:6 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And without faith it is impossible to please God. For anyone who approaches Him must believe that He exists and that He rewards those who earnestly seek Him.</p><cite>Heb. 11:6 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Without faith it is impossible to be well pleasing to him, for he who comes to God must believe that he exists, and that he is a rewarder of those who seek him.</p><cite>Heb. 11:6 · WEB</cite></blockquote>
-<h3>(1) The impossibility of pleasing God without the faith of God, without the Word of God, the Covenant, Christ (the importance of accepting Christ)</h3>
+<h3>(1) The impossibility of pleasing God without the faith of God, without the Word of God, the Covenant, and Christ (the importance of accepting Christ)</h3>
 <h3>(2) The importance of recognizing the existence of God and the importance of accepting the only way to meet Him (only Christ)</h3>
-<h3>(3) The importance of understanding every person's complete dependence on God, the importance of understanding getting all the answers from God when searching for and accepting the Word of God, the Covenant, Christ</h3>
+<h3>(3) The importance of understanding every person's complete dependence on God, the importance of understanding how to receive all the answers from God when searching for and accepting the Word of God, the Covenant, and Christ</h3>
 <h2 id="s6">6) Heb. 11:7, - The importance of understanding Noah's faith</h2>
 <blockquote data-v="kjv"><p>By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith.</p><cite>Heb. 11:7 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>By faith Noah, when warned about things not yet seen, in godly fear built an ark to save his family. By faith he condemned the world and became heir of the righteousness that comes by faith.</p><cite>Heb. 11:7 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>By faith Noah, being warned about things not yet seen, moved with godly fear, prepared a ship for the saving of his house, through which he condemned the world and became heir of the righteousness which is according to faith.</p><cite>Heb. 11:7 · WEB</cite></blockquote>
-<h3>(1) Noah is God's prophet, accepting the Word of God, the Covenant, the Christ</h3>
+<h3>(1) Noah is God's prophet, accepting the Word of God, the Covenant, and Christ</h3>
 <h3>(2) Noah – building the Ark, participating in the judgment of God, condemning and defeating the sinful and unbelieving world</h3>
 <h3>(3) Noah – the special importance of preserving the faith of God in all circumstances of the life of God's children. 2 Pet. 2:5</h3>
 <blockquote data-v="kjv"><p>And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly;</p><cite>2 Pet. 2:5 · KJV</cite></blockquote>
@@ -445,7 +447,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h3>(4) The meaning of Noah's faith is Christ</h3>
 <h2 id="s7">Conclusion:</h2>
 <h3>(1) The Importance of Understanding God's Faith</h3>
-<h3>(2) The importance of understanding and fulfilling the purpose – knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization</h3>
+<h3>(2) The importance of understanding and fulfilling the purpose of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
 </body>

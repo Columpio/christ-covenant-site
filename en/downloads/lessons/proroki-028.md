@@ -1,7 +1,7 @@
 # Zech. 7–9
 ## 2.1) Minor Prophets of the Judean (Southern) Kingdom: Joel, Obadiah, Micah, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi. (Amos lived in Judah, prophesied for the Israelite king.)
 
-## 2) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 2) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -13,25 +13,25 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-## 3) The ministry of the prophets is the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of God's people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+## 3) The ministry of the prophets is the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of God's people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 
 ### (1) The Prophets of V.Z. – understanding and acceptance of the Word of God, the Covenant, Christ, salvation and rebirth, the action of the Holy Spirit 1 Pet. 1:10-11,Acts 10:43,2 Pet. 1:19-21
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
 > To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins. (Acts 10:43, KJV)
 > We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts: Knowing this first, that no prophecy of the scripture is of any private interpretation. For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost. (2 Pet. 1:19-21, KJV)
 
-#### (a) Explaining the problem of man, of the people – the rejection of the Word of God, the Covenant, Christ, the rejection of destiny. (The consequence is idolatry, mammon, immorality)
+#### (a) The explanation of the problem of man and the people is the rejection of the Word of God, the Covenant, Christ, and the rejection of destiny. (The consequence is idolatry, mammon, immorality)
 
-#### (b) An explanation of the decision for the person, the people – acceptance of the Word of God, the Covenant, Christ, fulfillment of destiny
+#### (b) An explanation of the decision for the person, the people – the acceptance of the Word of God, the Covenant, Christ, the fulfillment of destiny
 
-#### (c) Explaining the reasons for the judgments of God – the inevitable execution of the sentence, the Word of God, the right of choice of man. Rom. 6:23,Deut. 30:19
+#### (c) The explanation of the reason for God's judgments is the inevitable execution of the sentence of the Word of God, the right of man to choose. Rom. 6:23,Deut. 30:19
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
-### (2) The modern people of God, the continuation of prophetic ministry – the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of the people of God. John 16:8-11. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+### (2) The modern people of God, the continuation of prophetic ministry – the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of the people of God. John 16:8-11. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 > And when he is come, he will reprove the world of sin, and of righteousness, and of judgment: Of sin, because they believe not on me; Of righteousness, because I go to my Father, and ye see me no more; Of judgment, because the prince of this world is judged. (John 16:8-11, KJV)
 
-## 4) Zechariah 7 (about 520 BC), - affirmation of the Word of God, the Covenant, Christ (First Return of the Jews, restoration of the 2nd Temple)
+## 4) Zechariah 7 (about 520 BC), – the affirmation of the Word of God, the Covenant, and Christ (The First Return of the Jews, the restoration of the 2nd Temple)
 
 ### (1) Zech. 7:1-7, - the meaninglessness of fasting and religiosity of a person without understanding the Word of God, the Covenant, Christ and the fulfillment of destiny. (The unauthorized establishment of a fast commemorating the destruction of Jerusalem and the Temple, human fiction). Ps. 119:113
 > And it came to pass in the fourth year of king Darius, that the word of the LORD came unto Zechariah in the fourth day of the ninth month, even in Chisleu; When they had sent unto the house of God Sherezer and Regem-melech, and their men, to pray before the LORD, And to speak unto the priests which were in the house of the LORD of hosts, and to the prophets, saying, Should I weep in the fifth month, separating myself, as I have done these so many years? Then came the word of the LORD of hosts unto me, saying, Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the fifth and seventh month, even those seventy years, did ye at all fast unto me, even to me? And when ye did eat, and when ye did drink, did not ye eat for yourselves, and drink for yourselves? Should ye not hear the words which the LORD hath cried by the former prophets, when Jerusalem was inhabited and in prosperity, and the cities thereof round about her, when men inhabited the south and the plain? (Zech. 7:1-7, KJV)
@@ -40,12 +40,12 @@
 ### (2) Zech. 7:8-12, - the importance of accepting the Word of God, the Covenant, Christ, the action of the Holy Spirit, the importance of fulfilling the destiny of God's people
 > And the word of the LORD came unto Zechariah, saying, Thus speaketh the LORD of hosts, saying, Execute true judgment, and shew mercy and compassions every man to his brother: And oppress not the widow, nor the fatherless, the stranger, nor the poor; and let none of you imagine evil against his brother in your heart. But they refused to hearken, and pulled away the shoulder, and stopped their ears, that they should not hear. Yea, they made their hearts as an adamant stone, lest they should hear the law, and the words which the LORD of hosts hath sent in his spirit by the former prophets: therefore came a great wrath from the LORD of hosts. (Zech. 7:8-12, KJV)
 
-### (3) Zech. 7:13-14, - non-acceptance of the Word of God, the Covenant, Christ, the judgment of God, the destruction of Jerusalem and the Temple, the Babylonian captivity, the dispersion of the Jews for seventy years
+### (3) Zech. 7:13-14, - the rejection of the Word of God, the Covenant, Christ, the judgment of God, the destruction of Jerusalem and the Temple, the Babylonian captivity, the dispersion of the Jews for seventy years
 > Therefore it is come to pass, that as he cried, and they would not hear; so they cried, and I would not hear, saith the LORD of hosts: But I scattered them with a whirlwind among all the nations whom they knew not. Thus the land was desolate after them, that no man passed through nor returned: for they laid the pleasant land desolate. (Zech. 7:13-14, KJV)
 
 ## 5) Zech. 8, - fulfillment of the Word of God, restoration of Judea, fulfillment of destiny, Temple, Worldwide Evangelization, preparation for the coming of Christ
 
-### (1) Zech. 8:1-8, - God's sovereignty, the restoration of Judea and Jerusalem, the return of God's people to Judea. Dan. 9:24-26. (Importance of Worldwide Evangelization, purpose, preparation for the coming of Christ)
+### (1) Zech. 8:1-8, - God's sovereignty, the restoration of Judea and Jerusalem, the return of God's people to Judea. Dan. 9:24-26. (The importance of Worldwide Evangelization, purpose, preparation for the coming of Christ)
 > Again the word of the LORD of hosts came to me, saying, Thus saith the LORD of hosts; I was jealous for Zion with great jealousy, and I was jealous for her with great fury. Thus saith the LORD; I am returned unto Zion, and will dwell in the midst of Jerusalem: and Jerusalem shall be called a city of truth; and the mountain of the LORD of hosts the holy mountain. Thus saith the LORD of hosts; There shall yet old men and old women dwell in the streets of Jerusalem, and every man with his staff in his hand for very age. And the streets of the city shall be full of boys and girls playing in the streets thereof. Thus saith the LORD of hosts; If it be marvellous in the eyes of the remnant of this people in these days, should it also be marvellous in mine eyes? saith the LORD of hosts. Thus saith the LORD of hosts; Behold, I will save my people from the east country, and from the west country; And I will bring them, and they shall dwell in the midst of Jerusalem: and they shall be my people, and I will be their God, in truth and in righteousness. (Zech. 8:1-8, KJV)
 > Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy. Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times. And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined. (Dan. 9:24-26, KJV)
 
@@ -56,12 +56,12 @@
 > And the word of the LORD of hosts came unto me, saying, Thus saith the LORD of hosts; The fast of the fourth month, and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, shall be to the house of Judah joy and gladness, and cheerful feasts; therefore love the truth and peace. (Zech. 8:18-19, KJV)
 > And it came to pass in the fourth year of king Darius, that the word of the LORD came unto Zechariah in the fourth day of the ninth month, even in Chisleu; When they had sent unto the house of God Sherezer and Regem-melech, and their men, to pray before the LORD, And to speak unto the priests which were in the house of the LORD of hosts, and to the prophets, saying, Should I weep in the fifth month, separating myself, as I have done these so many years? (Zech. 7:1-3, KJV)
 
-### (4) Zech. 8:20-23, - the importance of fulfilling the destiny of the people of God, the restoration of the Temple, World Evangelization, the coming of Christ
+### (4) Zech. 8:20-23, - the importance of fulfilling the destiny of the people of God, the restoration of the Temple, Worldwide Evangelization, the coming of Christ
 > Thus saith the LORD of hosts; It shall yet come to pass, that there shall come people, and the inhabitants of many cities: And the inhabitants of one city shall go to another, saying, Let us go speedily to pray before the LORD, and to seek the LORD of hosts: I will go also. Yea, many people and strong nations shall come to seek the LORD of hosts in Jerusalem, and to pray before the LORD. Thus saith the LORD of hosts; In those days it shall come to pass, that ten men shall take hold out of all languages of the nations, even shall take hold of the skirt of him that is a Jew, saying, We will go with you: for we have heard that God is with you. (Zech. 8:20-23, KJV)
 
 ## 6) Zech. 9, - God's sovereignty and control, fulfillment of God's Word
 
-### (1) Zech. 9:1-8, - non-acceptance of the Word of God, the Covenant, Christ, the judgment of God (nations)
+### (1) Zech. 9:1-8, - rejection of the Word of God, the Covenant, Christ, the judgment of God (nations)
 > The burden of the word of the LORD in the land of Hadrach, and Damascus shall be the rest thereof: when the eyes of man, as of all the tribes of Israel, shall be toward the LORD. And Hamath also shall border thereby; Tyrus, and Zidon, though it be very wise. And Tyrus did build herself a strong hold, and heaped up silver as the dust, and fine gold as the mire of the streets. Behold, the Lord will cast her out, and he will smite her power in the sea; and she shall be devoured with fire. Ashkelon shall see it, and fear; Gaza also shall see it, and be very sorrowful, and Ekron; for her expectation shall be ashamed; and the king shall perish from Gaza, and Ashkelon shall not be inhabited. And a bastard shall dwell in Ashdod, and I will cut off the pride of the Philistines. And I will take away his blood out of his mouth, and his abominations from between his teeth: but he that remaineth, even he, shall be for our God, and he shall be as a governor in Judah, and Ekron as a Jebusite. And I will encamp about mine house because of the army, because of him that passeth by, and because of him that returneth: and no oppressor shall pass through them any more: for now have I seen with mine eyes. (Zech. 9:1-8, KJV)
 
 ### (2) Zech. 9:9, - the 1st coming of Christ, the undoubted fulfillment of the Word of God
@@ -75,6 +75,6 @@
 
 ## Conclusion:
 
-### (1) The importance of understanding God's sovereignty and control, the unchanging fulfillment of God's Word, Covenant, Christ
+### (1) The importance of understanding God's sovereignty and control, and the unfailing fulfillment of God's Word, Covenant, and Christ
 
-### (2) The importance of understanding the Word of God, the Covenant, Christ, the importance of understanding and fulfilling destiny
+### (2) The importance of understanding the Word of God, the Covenant, and Christ, and the importance of understanding and fulfilling destiny

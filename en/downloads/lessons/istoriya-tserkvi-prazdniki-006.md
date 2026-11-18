@@ -9,7 +9,7 @@
 > And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:16-17, KJV)
 > And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth. (Gen. 1:28, KJV)
 
-### (2) Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), - the importance of confession. (Affirmation of another word, opposition to the Word of God, the Covenant, Christ)
+### (2) Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), - the importance of confession. (Affirming a different word, opposing the Word of God, the Covenant, and Christ)
 > Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons. (Gen. 3:1-7, KJV)
 > Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned: (Rom. 5:12, KJV)
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
@@ -42,13 +42,13 @@
 ## 3) The Nicene Creed
 
 ### (1) The 1st Ecumenical Council, A.D. 325, Nicaea
-- We believe in the One God, the Father Almighty, Creator of all things Visible and invisible.
-- And in the One Lord Jesus Christ, the Son of God, Begotten of the Father, the Only Begotten, that is, from the essence of the father, God from God, Light from Light, The True God is from the True God, begotten, uncreated, consubstantial with the Father, Through whom everything happened both in heaven and on earth
+- We believe in One God, the Father Almighty, Creator of all things Visible and invisible.
+- And in One Lord Jesus Christ, the Son of God, Begotten of the Father, the Only Begotten, that is, from the essence of the father, God from God, Light from Light, The True God is from the True God, begotten, uncreated, consubstantial with the Father, Through whom everything happened both in heaven and on earth
 - For the sake of men and our salvation, he descended and became Incarnate, became man, suffered and rose again on the third day, ascended into heaven and will come to judge the living and the dead.
 - And in the Holy Spirit
 - And those who say that there was a time when there was no Son, or that He was not born before and came from a carrier, or those who claim that the Son of God is from another hypostasis or Essence, or created, or changeable, are anathematized by the Catholic Church. Amen
 
-### (2) The action of Satan – multiple heresies against Christ, the Trinity of God and the teachings of the Word of God, the Covenant, Christ
+### (2) Satan's action is multiple heresies against Christ, the Trinity of God, and the teachings of the Word of God, the Covenant, and Christ
 
 ## 4) Niceo-Constantinople or Niceo-Constantinople Creed, original
 - (2nd Ecumenical Council, 381 A.D., Constantinople)
@@ -77,13 +77,13 @@
 
 ### (12) And the life of the next century
 
-## 5) The action of Satan is a distorted understanding of many points, a statement of a misunderstanding of the Word of God, the Covenant, Christ
+## 5) The action of Satan is a distorted understanding of many points, an affirmation of a misunderstanding of the Word of God, the Covenant, and Christ
 
 ## 6) Analysis of the Nicene-Constantinople Creed
 
 ### (1) Correction of paragraph 8 of the Nicene-Constantinople Creed – "and in the Holy Spirit, the Lord, giver of life, proceeding from the Father and the Son," the question of the Holy Spirit proceeding only from the Father, or from the Father and the Son (filioque problem)
 
-#### (a) Eastern Theology – the Holy Spirit comes only from the Father John 15:26 (Christ always focuses on God)
+#### (a) Eastern Theology – the descent of the Holy Spirit only from the Father John 15:26 (Christ always focuses on God)
 > But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me: (John 15:26, KJV)
 
 #### (b) Western and Protestant theology – the descent of the Holy Spirit from the Father and the Son, the affirmation of the Trinity of God (filioque) Matt. 10:20,John 15:26, - John 10:30, - 1 Pet. 1:10,Rom. 8:9,Acts 2:33. (The Holy Spirit is the Spirit of the Father and the Spirit of Jesus Christ)
@@ -106,9 +106,9 @@
 
 #### (d) Western, Eastern, and part of Protestant Theology – The Breaking of Bread as a condition for human salvation (heresy)
 
-### (3) Correction of paragraph 2 of the Nicene-Constantinople Creed – a more accurate explanation of the phrase "and in the one Lord Jesus Christ, the Son of God," better "and in the one Lord Jesus Christ, the Image of the Invisible God, the Fullness of the Godhead bodily, the Word of God in the flesh.", The Son of God", the importance of understanding the functional priority of the Triune God's action in Jesus Christ, understanding Jesus Christ as the Image of the Invisible God and the fullness of the Godhead physically (the ability to see and understand the Holy, Triune God)
+### (3) Correction of paragraph 2 of the Nicene-Constantinople Creed – a more precise explanation of the phrase "and in the one Lord Jesus Christ, the Son of God," better "and in the one Lord Jesus Christ, the Image of the Invisible God, the Fullness of the Godhead bodily, the Word of God in the flesh.", The Son of God", the importance of understanding the functional priority of the Triune God's action in Jesus Christ, understanding Jesus Christ as the Image of the Invisible God and the fullness of the Godhead physically (the ability to see and understand the Holy, Triune God)
 
-### (4) Correction of paragraph 3 of the Nicene-Constantinople Creed – a more accurate explanation of the phrase "and became a Man", better than "and who became Man in the likeness of sinful flesh", the importance of understanding Jesus Christ as a Man from the beginning, understanding the Creation and Fall of the human race
+### (4) Correction of paragraph 3 of the Nicene-Constantinople Creed – a more precise explanation of the phrase "and became a Man", better than "and who became Man in the likeness of sinful flesh", the importance of understanding Jesus Christ as a Man from the beginning, understanding the Creation and Fall of the human race
 
 #### (a) Christ is divine and human. nature is inseparably united in one Person, without transformation or mixing (100% God and 100% Man, the priority of the Deity in Christ is the Holy, True God, and then Man)
 
@@ -116,19 +116,19 @@
 
 #### (c) Fulfillment of the Word of God – Jesus Christ as God and Creator (the right to be responsible for his creation), and as a perfect, sinless Man in the likeness of sinful flesh (the right to accept suffering and death for all the sins of mankind)
 
-### (5) Correction of paragraph 4 of the Nicene-Constantinople Creed – a more accurate explanation of the phrase "crucified for us", better than "crucified for all the sins of mankind – past, present and future", the importance of understanding and accepting the All-sufficient Sacrifice of Jesus Christ for all people
+### (5) Correction of paragraph 4 of the Nicene-Constantinople Creed – a more precise explanation of the phrase "crucified for us", better than "crucified for all the sins of mankind – past, present and future", the importance of understanding and accepting the All-sufficient Sacrifice of Jesus Christ for all people
 
-### (6) The correction of paragraph 6 of the Nicene-Constantinople Creed is a more accurate explanation of the phrase "ascended into heaven and sits at the right hand of the Father," better than "ascended into heaven and sits at the right hand of the Father – the Only King, High Priest, Prophet.", A teacher and Mentor, a Redeemer and Savior, a mediator and Intercessor who solved all the problems of the human race, who gives, not by works, but only by grace and faith, forgiveness of all sins, justification, salvation and rebirth., adoption and church formation for every person, The Only Way, Truth, Resurrection and Life", against the heresy of the mixed gospel, heresies of partial salvation and heresies of other high priesthood, magisterium, redemption and salvation, mediation and intercession for humanity
+### (6) Correction of paragraph 6 of the Nicene-Constantinople Creed – a more precise explanation of the phrase "ascended into heaven and sits at the right hand of the Father", better "ascended into heaven and sits at the right hand of the Father – the Only King, High Priest, Prophet, A teacher and Mentor, a Redeemer and Savior, a mediator and Intercessor who solved all the problems of the human race, who gives, not by works, but only by grace and faith, forgiveness of all sins, justification, salvation and rebirth., adoption and church formation for every person, The Only Way, Truth, Resurrection and Life", against the heresy of the mixed gospel, heresies of partial salvation and heresies of other high priesthood, magisterium, redemption and salvation, mediation and intercession for humanity
 
 #### (a) The heresy of "partial salvation" - the spirit is saved, the soul and body are gone, curses and demonic possession of the children of God
 
 #### (b) Western and Eastern Theology – belief in human kingship in heaven (Mary), human primacy (Catholic Pope, Ecumenical Patriarch), human redemption and salvation, mediation or intercession (Mary, saints, angels, etc.)
 
-### (7) Correction of paragraph 8 of the Nicene-Constantinople Creed – a more accurate explanation of the phrase "Who spoke through the prophets", it is better "Who spoke through the prophets in the Holy Scriptures of the Old and New Testaments", against the heresy of false prophets ("exhortation from the Holy Spirit" in complete contradiction with the Holy Scriptures) and the heresy of the apocrypha
+### (7) Correction of paragraph 8 of the Nicene-Constantinople Creed – a more precise explanation of the phrase "Who spoke through the prophets", it is better "Who spoke through the prophets in the Holy Scriptures of the Old and New Testaments", against the heresy of false prophets ("exhortation from the Holy Spirit" in complete contradiction with the Holy Scriptures) and the heresy of the apocrypha
 
 ### (8) Correction of paragraph 9 of the Nicene-Constantinople Creed – a more precise explanation of the phrase "And into one, Holy, Universal and Apostolic Church", better "And in the one, Holy, Universal and Apostolic Church, the Head of which is the Lord Jesus Christ (against the heresy of "Catholic popes, ecumenical patriarchs," etc.), I believe in God's order of Worship of the Church of Jesus Christ – the teaching of the Apostles, communion, the breaking of bread, prayer" (against the wrong order of worship)
 
-### (9) Correction of paragraph 11 of the Nicene-Constantinople Creed – a more accurate explanation of the phrase "I await the resurrection of the dead", Rather, "I await the Second Coming of the Lord Jesus Christ, the resurrection of the dead," the importance of accurately understanding God's plan of salvation and the future.
+### (9) Correction of paragraph 11 of the Nicene-Constantinople Creed – a more precise explanation of the phrase "I await the resurrection of the dead", Rather, "I await the Second Coming of the Lord Jesus Christ, the resurrection of the dead," the importance of accurately understanding God's plan of salvation and the future.
 
 ## 7) The Nicene-Constantinople or Nicene-Constantinople Creed (with correction)
 
@@ -164,6 +164,6 @@
 
 ### (3) The importance of understanding Christ and His Sacrifice
 
-### (4) The recognition, not of councils, but of Biblical truth, the affirmation of the Word of God, of the Covenant, Christ is the destiny of God's people
+### (4) The recognition, not of councils, but of Biblical truth, the affirmation of the Word of God, the Covenant, and Christ, is the destiny of God's people
 
 ### (5) The use of the Symbol of Faith in Worship, the Nicene-Constantinople Creed (with correction) – a multitude of believers, the importance of clarifying contradictions

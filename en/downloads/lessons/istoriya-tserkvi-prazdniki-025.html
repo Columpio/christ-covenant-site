@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,16 +233,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>13. Review of the Pentateuch</h1>
-<h2 id="s1">1) The meaning of the book of Genesis is the preservation and transmission of the Word of God, the Covenant, Christ</h2>
+<h2 id="s1">1) The meaning of the book of Genesis is the preservation and transmission of the Word of God, the Covenant, and Christ</h2>
 <h3>(1) Creation, Fall, Restoration – the importance of Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21</h3>
 <blockquote data-v="kjv"><p>So God created man in his own image, in the image of God created he him; male and female created he them.</p><cite>Gen. 1:27 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So God created man in His own image; in the image of God He created him; male and female He created them.</p><cite>Gen. 1:27 · BSB</cite></blockquote>
@@ -269,20 +271,20 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.</p><cite>Gen. 3:21 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And the LORD God made garments of skin for Adam and his wife, and He clothed them.</p><cite>Gen. 3:21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh God made garments of animal skins for Adam and for his wife, and clothed them.</p><cite>Gen. 3:21 · WEB</cite></blockquote>
-<h3>(2) Acceptance of the Word of God, the Covenant, Christ (understanding Christ, the Good News)</h3>
-<h4>(a) The generation of the Covenant, Christ, the children of God – the knowledge of the Word of God, the Covenant, Christ1 Pet. 1:11. (Adam – Seth –Noah – Abraham – Isaac – Jacob – the 12 Tribes of Israel)</h4>
+<h3>(2) Acceptance of the Word of God, the Covenant, and Christ (understanding Christ, the Good News)</h3>
+<h4>(a) The generation of the Covenant, of Christ, the children of God – the knowledge of the Word of God, of the Covenant, of Christ1 Pet. 1:11. (Adam – Seth –Noah– Abraham – Isaac–Jacob – the 12 tribes of Israel)</h4>
 <blockquote data-v="kjv"><p>Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.</p><cite>1 Pet. 1:11 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>trying to determine the time and setting to which the Spirit of Christ in them was pointing when He predicted the sufferings of Christ and the glories to follow.</p><cite>1 Pet. 1:11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>searching for who or what kind of time the Spirit of Christ which was in them pointed to when he predicted the sufferings of Christ and the glories that would follow them.</p><cite>1 Pet. 1:11 · WEB</cite></blockquote>
 <h4>(b) The importance of Canaan, Worldwide Evangelization – transmission of the Word of God, the Covenant, Christ (Egyptians, Amorites, Sodom and Gommorah, Philistines, Hittites, Job, Balaam, the whole world)</h4>
-<h3>(3) Non-acceptance of the Word of God, the Covenant, Christ (no understanding of Christ, religion)</h3>
+<h3>(3) Rejection of the Word of God, the Covenant, Christ (no understanding of Christ, religion)</h3>
 <h4>(a) A kind of unbelief, children of the devil – there is no knowledge and transmission of the Word of God, the Covenant, Xp (Cain – Giants – Tower of Babel – Ishmael – Esau)</h4>
 <h4>(b) Opposition to God's people, judgment of God (Flood)</h4>
 <h3>(4) Inaccurate execution, distortion of God's Word – problems</h3>
 <h4>(a) Abraham, Worship (Egyptian slavery)</h4>
 <h4>(b) Hagar, Ishmael (Ishmaelites)</h4>
 <h4>(c) Lot (Ammonites, Moabites)</h4>
-<h2 id="s2">2) The meaning of the book of Exodus is the preservation and transmission of the Word of God, the Covenant, Christ</h2>
+<h2 id="s2">2) The meaning of the book of Exodus is the preservation and transmission of the Word of God, the Covenant, and Christ</h2>
 <h3>(1) Slavery – understanding the human problem</h3>
 <h3>(2) Moses – the importance of meeting the man of God</h3>
 <h3>(3) Easter, Christ – understanding the only solution method</h3>
@@ -291,23 +293,23 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h4>(a) The law is to realize the problem of sin (the mirror), the impossibility of salvation by one's own efforts (only Christ), the right way of life</h4>
 <h4>(b) The Tabernacle – to realize the only method of solution</h4>
 <h4>(c) Holidays – realize the plan of salvation</h4>
-<h2 id="s3">3) The meaning of the book of Leviticus is the preservation and transmission of the Word of God, the Covenant, Christ</h2>
+<h2 id="s3">3) The meaning of the book of Leviticus is the preservation and transmission of the Word of God, the Covenant, and Christ</h2>
 <h3>(1) Leviticus is God's servant, the importance of fulfilling his destiny</h3>
 <h3>(2) The Importance of Sacrifice – the importance of understanding Christ</h3>
-<h3>(3) The Importance of the Priesthood and Worship – the transmission of the Covenant, Christ</h3>
+<h3>(3) The importance of the Priesthood and Worship – the transmission of the Covenant, of Christ</h3>
 <h3>(4) The importance of social, legal and liturgical law - sanctification, service to God, preservation of God's people</h3>
-<h2 id="s4">4) The meaning of the Book of Numbers is the preservation and transmission of the Word of God, the Covenant, Christ</h2>
+<h2 id="s4">4) The meaning of the Book of Numbers is the preservation and transmission of the Word of God, the Covenant, and Christ</h2>
 <h3>(1) The importance of understanding the purpose of God's people – the preservation and transmission of the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, disciples, spiritual warfare, preparation for the coming of Christ</h3>
 <h3>(2) Acceptance and non–acceptance of the Word of God, the Covenant, Christ - idolatry, emphasis on the visible, rejection of destiny</h3>
 <h3>(3) The Importance of the Disciple – Eliazar, Joshua, Caleb</h3>
-<h2 id="s5">5) The meaning of the book. Deuteronomy – the Preservation and Transmission of the Covenant, Christ</h2>
-<h3>(1) The importance of the Word of God, the Covenant, Christ for man (repetition, teaching)</h3>
-<h3>(2) The Importance of Canaan – the Coming of Christ, the transmission of the Covenant, Christ, World Evangelization</h3>
+<h2 id="s5">5) The meaning of the book. Deuteronomy – the preservation and transmission of the Covenant, of Christ</h2>
+<h3>(1) The importance of the Word of God, the Covenant, and Christ for man (repetition, learning)</h3>
+<h3>(2) The importance of Canaan – the coming of Christ, the transmission of the Covenant, of Christ, of Worldwide Evangelization</h3>
 <h3>(3) The importance of social, legal and liturgical law - sanctification, service to God, preservation of God's people</h3>
-<h3>(4) Acceptance and non–acceptance of the Word of God, the Covenant, Christ - a person's right to choose</h3>
+<h3>(4) Acceptance and non–acceptance of the Word of God, the Covenant, and Christ is a person's right to choose</h3>
 <h2 id="s6">Conclusion:</h2>
-<h3>(1) The meaning of the Pentateuch is the knowledge and transmission of the Word of God, the Covenant, the Christ, the understanding and fulfillment of the destiny of the people of God</h3>
-<h3>(2) Non–acceptance of the Covenant, Christ is ruin</h3>
+<h3>(1) The meaning of the Pentateuch is the knowledge and transmission of the Word of God, the Covenant, Christ, and the understanding and fulfillment of the destiny of God's people</h3>
+<h3>(2) Non–acceptance of the Covenant, Christ's death</h3>
 <h3>(3) All the Scriptures speak of Christ Luke 24:25-27,John 5:39, - 1 Pet. 1:10-11,Acts 10:43 (Gen. 3:15; 22:18; 49:10,Num. 24:17,Deut. 18:15,Tabernacle)</h3>
 <blockquote data-v="kjv"><p>Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken: Ought not Christ to have suffered these things, and to enter into his glory? And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself.</p><cite>Luke 24:25-27 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Then Jesus said to them, “O foolish ones, and slow of heart to believe all that the prophets have spoken! Was it not necessary for the Christ to suffer these things and then to enter His glory?” And beginning with Moses and all the Prophets, He explained to them what was written in all the Scriptures about Himself.</p><cite>Luke 24:25-27 · BSB</cite></blockquote>

@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,20 +233,20 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>34. Matt. 24: Last week, understanding the future</h1>
-<h2 id="s1">1) Matt. 24:1-2, - non-acceptance of the Word of God, the Covenant, Christ, loss of destiny</h2>
+<h2 id="s1">1) Matt. 24:1-2, - rejection of the Word of God, the Covenant, Christ, loss of destiny</h2>
 <blockquote data-v="kjv"><p>And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple. And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.</p><cite>Matt. 24:1-2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>As Jesus left the temple and was walking away, His disciples came up to Him to point out its buildings. “Do you see all these things?” He replied. “Truly I tell you, not one stone here will be left on another; every one will be thrown down.”</p><cite>Matt. 24:1-2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Jesus went out from the temple, and was going on his way. His disciples came to him to show him the buildings of the temple. But he answered them, “You see all of these things, don’t you? Most certainly I tell you, there will not be left here one stone on another, that will not be thrown down.”</p><cite>Matt. 24:1-2 · WEB</cite></blockquote>
-<h3>(1) The importance of understanding the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the coming of Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21. (Adam – Seth – Noah – Abraham – Moses – David – Solomon, etc.)</h3>
+<h3>(1) The importance of understanding the destiny of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21. (Adam – Seth – Noah – Abraham – Moses – David – Solomon, etc.)</h3>
 <blockquote data-v="kjv"><p>So God created man in his own image, in the image of God created he him; male and female created he them.</p><cite>Gen. 1:27 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So God created man in His own image; in the image of God He created him; male and female He created them.</p><cite>Gen. 1:27 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>God created man in his own image. In God’s image he created him; male and female he created them.</p><cite>Gen. 1:27 · WEB</cite></blockquote>
@@ -272,9 +274,9 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.</p><cite>Gen. 3:21 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And the LORD God made garments of skin for Adam and his wife, and He clothed them.</p><cite>Gen. 3:21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh God made garments of animal skins for Adam and for his wife, and clothed them.</p><cite>Gen. 3:21 · WEB</cite></blockquote>
-<h3>(2) Tabernacle, Temple – knowledge and transmission of the Word of God, the Covenant, Christ (Sacrifice, Holy of Holies, High Priest – the prototype of Christ)</h3>
+<h3>(2) The Tabernacle, the Temple – the knowledge and transmission of the Word of God, the Covenant, Christ (Sacrifice, the Holy of Holies, the High Priest – the prototype of Christ)</h3>
 <h3>(3) The 1st destruction of the Temple (586 BC), the Babylonian Empire, King Nebuchadnezzar, renunciation of destiny, the judgment of God (70 l.)</h3>
-<h3>(4) Restoration of the Temple (516 BC), God's love and mercy, return to destiny (Zerubbabel, Zechariah Ave., Haggai)</h3>
+<h3>(4) Restoration of the Temple (516 B.C.), God's love and mercy, return to destiny (Zerubbabel, Zechariah Ave., Haggai)</h3>
 <h3>(5) The 2nd destruction of the Temple (70 A.D.), the Roman Empire, the commander Titus, the rejection of destiny, the rejection of Christ, the judgment of God. Matt. 22:41-46,John 10:33,Rom. 9:30-33</h3>
 <blockquote data-v="kjv"><p>While the Pharisees were gathered together, Jesus asked them, Saying, What think ye of Christ? whose son is he? They say unto him, The Son of David. He saith unto them, How then doth David in spirit call him Lord, saying, The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool? If David then call him Lord, how is he his son? And no man was able to answer him a word, neither durst any man from that day forth ask him any more questions.</p><cite>Matt. 22:41-46 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>While the Pharisees were assembled, Jesus questioned them: “What do you think about the Christ? Whose son is He?” “David’s,” they answered. Jesus said to them, “How then does David in the Spirit call Him ‘Lord’? For he says: ‘The Lord said to my Lord, “Sit at My right hand until I put Your enemies under Your feet.”’ So if David calls Him ‘Lord,’ how can He be David’s son?” No one was able to answer a word, and from that day on no one dared to question Him any further.</p><cite>Matt. 22:41-46 · BSB</cite></blockquote>
@@ -346,7 +348,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And I will give power unto my two witnesses, and they shall prophesy a thousand two hundred and threescore days, clothed in sackcloth. These are the two olive trees, and the two candlesticks standing before the God of the earth. And if any man will hurt them, fire proceedeth out of their mouth, and devoureth their enemies: and if any man will hurt them, he must in this manner be killed. These have power to shut heaven, that it rain not in the days of their prophecy: and have power over waters to turn them to blood, and to smite the earth with all plagues, as often as they will. And when they shall have finished their testimony, the beast that ascendeth out of the bottomless pit shall make war against them, and shall overcome them, and kill them. And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified.</p><cite>Rev. 11:3-8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And I will empower my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth.” These witnesses are the two olive trees and the two lampstands that stand before the Lord of the earth. If anyone wants to harm them, fire proceeds from their mouths and devours their enemies. In this way, anyone who wants to harm them must be killed. These witnesses have power to shut the sky so that no rain will fall during the days of their prophecy, and power to turn the waters into blood and to strike the earth with every kind of plague as often as they wish. When the two witnesses have finished their testimony, the beast that comes up from the Abyss will wage war with them, and will overpower and kill them. Their bodies will lie in the street of the great city—figuratively called Sodom and Egypt—where their Lord was also crucified.</p><cite>Rev. 11:3-8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I will give power to my two witnesses, and they will prophesy one thousand two hundred sixty days, clothed in sackcloth.” These are the two olive trees and the two lamp stands, standing before the Lord of the earth. If anyone desires to harm them, fire proceeds out of their mouth and devours their enemies. If anyone desires to harm them, he must be killed in this way. These have the power to shut up the sky, that it may not rain during the days of their prophecy. They have power over the waters, to turn them into blood, and to strike the earth with every plague, as often as they desire. When they have finished their testimony, the beast that comes up out of the abyss will make war with them, and overcome them, and kill them. Their dead bodies will be in the street of the great city, which spiritually is called Sodom and Egypt, where also their Lord was crucified.</p><cite>Rev. 11:3-8 · WEB</cite></blockquote>
-<h3>(4) Matt. 24:14, - transmission of the Word of God, the Covenant, Christ, God sovereignty</h3>
+<h3>(4) Matt. 24:14, - transmission of the Word of God, the Covenant, Christ, God's sovereignty</h3>
 <blockquote data-v="kjv"><p>And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.</p><cite>Matt. 24:14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And this gospel of the kingdom will be preached in all the world as a testimony to all nations, and then the end will come.</p><cite>Matt. 24:14 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>This Good News of the Kingdom will be preached in the whole world for a testimony to all the nations, and then the end will come.</p><cite>Matt. 24:14 · WEB</cite></blockquote>
@@ -364,7 +366,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who is like unto the beast? who is able to make war with him? And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months. And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven. And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations. And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world.</p><cite>Rev. 13:4-8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>They worshiped the dragon who had given authority to the beast, and they worshiped the beast, saying, “Who is like the beast, and who can wage war against it?” The beast was given a mouth to speak arrogant and blasphemous words, and authority to act for 42 months. And the beast opened its mouth to speak blasphemies against God and to slander His name and His tabernacle—those who dwell in heaven. Then the beast was permitted to wage war against the saints and to conquer them, and it was given authority over every tribe and people and tongue and nation. And all who dwell on the earth will worship the beast—all whose names have not been written from the foundation of the world in the Book of Life belonging to the Lamb who was slain.</p><cite>Rev. 13:4-8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>They worshiped the dragon because he gave his authority to the beast; and they worshiped the beast, saying, “Who is like the beast? Who is able to make war with him?” A mouth speaking great things and blasphemy was given to him. Authority to make war for forty-two months was given to him. He opened his mouth for blasphemy against God, to blaspheme his name, his dwelling, and those who dwell in heaven. It was given to him to make war with the saints and to overcome them. Authority over every tribe, people, language, and nation was given to him. All who dwell on the earth will worship him, everyone whose name has not been written from the foundation of the world in the book of life of the Lamb who has been killed.</p><cite>Rev. 13:4-8 · WEB</cite></blockquote>
-<h3>(2) Matt. 24:16-22, - the Great Tribulation (3.5), God sovereignty</h3>
+<h3>(2) Matt. 24:16-22, - the Great Tribulation (3.5), God's sovereignty</h3>
 <blockquote data-v="kjv"><p>Then let them which be in Judaea flee into the mountains: Let him which is on the housetop not come down to take any thing out of his house: Neither let him which is in the field return back to take his clothes. And woe unto them that are with child, and to them that give suck in those days! But pray ye that your flight be not in the winter, neither on the sabbath day: For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be. And except those days should be shortened, there should no flesh be saved: but for the elect’s sake those days shall be shortened.</p><cite>Matt. 24:16-22 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>then let those who are in Judea flee to the mountains. Let no one on the housetop come down to retrieve anything from his house. And let no one in the field return for his cloak. How miserable those days will be for pregnant and nursing mothers! Pray that your flight will not occur in the winter or on the Sabbath. For at that time there will be great tribulation, unseen from the beginning of the world until now, and never to be seen again. If those days had not been cut short, nobody would be saved. But for the sake of the elect, those days will be cut short.</p><cite>Matt. 24:16-22 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>then let those who are in Judea flee to the mountains. Let him who is on the housetop not go down to take out the things that are in his house. Let him who is in the field not return back to get his clothes. But woe to those who are with child and to nursing mothers in those days! Pray that your flight will not be in the winter nor on a Sabbath, for then there will be great suffering, such as has not been from the beginning of the world until now, no, nor ever will be. Unless those days had been shortened, no flesh would have been saved. But for the sake of the chosen ones, those days will be shortened.</p><cite>Matt. 24:16-22 · WEB</cite></blockquote>
@@ -412,7 +414,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Then answered all the people, and said, His blood be on us, and on our children.</p><cite>Matt. 27:25 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>All the people answered, “His blood be on us and on our children!”</p><cite>Matt. 27:25 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>All the people answered, “May his blood be on us and on our children!”</p><cite>Matt. 27:25 · WEB</cite></blockquote>
-<h3>(4) Matt. 24:35, - God's affirmation of the inevitability of fulfillment of God's Word, Covenant, Christ, understanding of God's sovereignty and control</h3>
+<h3>(4) Matt. 24:35, is God's affirmation of the inevitability of the fulfillment of God's Word, Covenant, and Christ, and an understanding of God's sovereignty and control</h3>
 <blockquote data-v="kjv"><p>Heaven and earth shall pass away, but my words shall not pass away.</p><cite>Matt. 24:35 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Heaven and earth will pass away, but My words will never pass away.</p><cite>Matt. 24:35 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Heaven and earth will pass away, but my words will not pass away.</p><cite>Matt. 24:35 · WEB</cite></blockquote>
@@ -439,9 +441,9 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h4>(a) The physical life of man before the coming of Christ</h4>
 <h4>(b) A person's physical death and encounter with Christ</h4>
 <h2 id="s6">Conclusion:</h2>
-<h3>(1) The importance of understanding the past, present, and future for every human being – the importance of God's Word, teaching</h3>
-<h3>(2) Trying to find an answer outside of the Word of God is deception, ruin</h3>
-<h3>(3) The importance of understanding and fulfilling the purpose – knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ</h3>
+<h3>(1) The importance of understanding the past, present and future for every human being – the importance of the Word of God, teaching</h3>
+<h3>(2) Trying to find an answer outside of the Word of God is deceit, ruin</h3>
+<h3>(3) The importance of understanding and fulfilling the purpose of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
 </body>

@@ -14,12 +14,12 @@
 > For as many as are led by the Spirit of God, they are the sons of God. (Rom. 8:14, KJV)
 > Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned: (Rom. 5:12, KJV)
 
-#### (b) The soul is a spiritual person, obedience is the Word of God 1 Cor. 2:14
+#### (b) The soul is a spiritual person, obeying the Word of God 1 Cor. 2:14
 > But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned. (1 Cor. 2:14, KJV)
 
 #### (c) The body is perfect, eternal (there is no disease, aging, death)
 
-#### (d) The absence of a legitimate reason for the presence of a demon in a person
+#### (d) The absence of a legitimate reason for the presence of demons in a person
 
 ### (2) Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), - renunciation of the Covenant, Christ, death. (The importance of understanding the trinity of man after the fall)
 > Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons. (Gen. 3:1-7, KJV)
@@ -27,13 +27,13 @@
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
 
-#### (a) The Spirit is dead, separation from God, the power of demons (spirit. possession)
+#### (a) The Spirit is dead, separation from God, the power of demons (spirit possession)
 
-#### (b) The soul is a spiritual person (sinful essence), God is resisting
+#### (b) Soul – a spiritual person (sinful essence), resisting God
 
 #### (c) The body is a curse, illness, aging, death
 
-#### (d) The presence of a legitimate reason for demons to dwell in a person is the power of sin, death and hell, Satan Eph. 2:1-2,Acts 26:18,2 Tim. 2:25-26
+#### (d) The presence of a legitimate reason for the presence of demons in man – the power of sin, death and hell, Satan Eph. 2:1-2,Acts 26:18,2 Tim. 2:25-26
 > And you hath he quickened, who were dead in trespasses and sins; Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:1-2, KJV)
 > To open their eyes, and to turn them from darkness to light, and from the power of Satan unto God, that they may receive forgiveness of sins, and inheritance among them which are sanctified by faith that is in me. (Acts 26:18, KJV)
 > In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth; And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will. (2 Tim. 2:25-26, KJV)
@@ -48,19 +48,19 @@
 
 #### (a) The regenerated Spirit, Emmanuel, God's guidance
 
-#### (b) A regenerated soul, a spiritual person, obeying the Word of God
+#### (b) A regenerated soul, a spiritual person, obedience to the Word of God
 
-#### (c) The body is redeemed, there are no curses, imperfect. (Fulfillment of the Word of God – Resurrection of the dead, new body). Gen. 3:19
+#### (c) The body is redeemed, there are no curses, imperfect. (The fulfillment of God's Word is the resurrection of the dead, a new body). Gen. 3:19
 > In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return. (Gen. 3:19, KJV)
 
-#### (d) The absence of a legitimate reason for the presence of a demon in a person
+#### (d) The absence of a legitimate reason for the presence of demons in a person
 
-## 2) God's method of liberation is the transmission of the Word of God, the Covenant, Christ
+## 2) God's method of liberation is the transmission of God's Word, Covenant, and Christ
 
-### (1) Transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization – the liberation of people, the destiny of the people of God, the will of God. Mark 16:17
+### (1) The transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization – the liberation of people, the destiny of the people of God, the will of God. Mark 16:17
 > And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues; (Mark 16:17, KJV)
 
-### (2) Accepting the Word of God, the Covenant, Christ is God's only method of liberating man, 100% of people. Rom. 8:2 (Acts 16:16-19)
+### (2) Accepting the Word of God, the Covenant, and Christ is God's only method of liberating man, 100% of people. Rom. 8:2 (Acts 16:16-19)
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
 > And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying: The same followed Paul and us, and cried, saying, These men are the servants of the most high God, which shew unto us the way of salvation. And this did she many days. But Paul, being grieved, turned and said to the spirit, I command thee in the name of Jesus Christ to come out of her. And he came out the same hour. And when her masters saw that the hope of their gains was gone, they caught Paul and Silas, and drew them into the marketplace unto the rulers, (Acts 16:16-19, KJV)
 
@@ -83,7 +83,7 @@
 #### (b) The authority given by God to men is entirely subordinate to the supreme authority of God. Luke 10:19
 > Behold, I give unto you power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you. (Luke 10:19, KJV)
 
-### (6) Fasting and prayer – constant and deep abiding in the Word of God, the Covenant, Christ, understanding spiritual laws. Matt. 17:14-21
+### (6) Fasting and prayer are constant and deep abiding in the Word of God, the Covenant, Christ, and understanding spiritual laws. Matt. 17:14-21
 > And when they were come to the multitude, there came to him a certain man, kneeling down to him, and saying, Lord, have mercy on my son: for he is lunatick, and sore vexed: for ofttimes he falleth into the fire, and oft into the water. And I brought him to thy disciples, and they could not cure him. Then Jesus answered and said, O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him hither to me. And Jesus rebuked the devil; and he departed out of him: and the child was cured from that very hour. Then came the disciples to Jesus apart, and said, Why could not we cast him out? And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you. Howbeit this kind goeth not out but by prayer and fasting. (Matt. 17:14-21, KJV)
 
 ## 3) The reasons for Satan's access to God's children
@@ -95,7 +95,7 @@
 > Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD. And the LORD said unto Satan, From whence comest thou? And Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it. And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause. And Satan answered the LORD, and said, Skin for skin, yea, all that a man hath will he give for his life. But put forth thine hand now, and touch his bone and his flesh, and he will curse thee to thy face. And the LORD said unto Satan, Behold, he is in thine hand; but save his life. So went Satan forth from the presence of the LORD, and smote Job with sore boils from the sole of his foot unto his crown. (Job 2:1-7, KJV)
 > Fear none of those things which thou shalt suffer: behold, the devil shall cast some of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life. (Rev. 2:10, KJV)
 
-### (2) Constant violation of the Word of God – God permits Satan to act from outside, the consequences of sin are not death, the education of man 1 Sam. 16:14-16, 23,1 Cor. 5:1-5,2 Cor. 12:7-9 (Heb. 12:4-11)
+### (2) The constant violation of the Word of God is God's permission for Satan to act from outside, the consequences of sin are not death, the education of man 1 Sam. 16:14-16, 23,1 Cor. 5:1-5,2 Cor. 12:7-9 (Heb. 12:4-11)
 > But the Spirit of the LORD departed from Saul, and an evil spirit from the LORD troubled him. And Saul’s servants said unto him, Behold now, an evil spirit from God troubleth thee. Let our lord now command thy servants, which are before thee, to seek out a man, who is a cunning player on an harp: and it shall come to pass, when the evil spirit from God is upon thee, that he shall play with his hand, and thou shalt be well. (1 Sam. 16:14-16, KJV)
 > And it came to pass, when the evil spirit from God was upon Saul, that David took an harp, and played with his hand: so Saul was refreshed, and was well, and the evil spirit departed from him. (1 Sam. 16:23, KJV)
 > It is reported commonly that there is fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father’s wife. And ye are puffed up, and have not rather mourned, that he that hath done this deed might be taken away from among you. For I verily, as absent in body, but present in spirit, have judged already, as though I were present, concerning him that hath so done this deed, In the name of our Lord Jesus Christ, when ye are gathered together, and my spirit, with the power of our Lord Jesus Christ, To deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus. (1 Cor. 5:1-5, KJV)
@@ -111,7 +111,7 @@
 
 ## Conclusion:
 
-### (1) The doctrine of the possibility of children being possessed by God is an insult, a humiliation of Christ and His Sacrifice 1 Cor. 12:13,Eph. 4:4, – 2 Cor. 6:15-16,Matt. 12:43-45. (The impossibility of two spirits being in a person at the same time)
+### (1) The doctrine of the possibility of possession by the children of God is an insult, a humiliation of Christ and His Sacrifice 1 Cor. 12:13,Eph. 4:4, – 2 Cor. 6:15-16,Matt. 12:43-45. (The impossibility of two spirits being in a person at the same time)
 > For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit. (1 Cor. 12:13, KJV)
 > There is one body, and one Spirit, even as ye are called in one hope of your calling; (Eph. 4:4, KJV)
 > And what concord hath Christ with Belial? or what part hath he that believeth with an infidel? And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people. (2 Cor. 6:15-16, KJV)
@@ -119,7 +119,7 @@
 
 ### (2) The importance of understanding the false doctrines of modernity
 
-#### (a) The heresy of the "mixed gospel" (Christ + the works of man), the recognition of God's abandonment of his children in the sin and possession of God's children – a misunderstanding of the Word of God, the Covenant, Christ, lack of salvation. Rom. 8:2,1 John 2:2,Col. 2:13-14
+#### (a) The heresy of the "mixed gospel" (Christ + the works of man), the recognition of God's abandonment of his children in the sin and possession of God's children – a misunderstanding of the Word of God, the Covenant, Christ, and the lack of salvation. Rom. 8:2,1 John 2:2,Col. 2:13-14
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
 > And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world. (1 John 2:2, KJV)
 > And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses; Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross; (Col. 2:13-14, KJV)
@@ -128,5 +128,5 @@
 > For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s. (1 Cor. 6:20, KJV)
 > And what concord hath Christ with Belial? or what part hath he that believeth with an infidel? And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people. (2 Cor. 6:15-16, KJV)
 
-### (3) The importance of accepting the Word of God, the Covenant, Christ, lawful deliverance from the power of sin, death and hell, Satan, lawful justification, adoption and the church of man. Rom. 8:2
+### (3) The importance of accepting the Word of God, the Covenant, Christ, legitimate liberation from the power of sin, death and hell, Satan, legitimate justification, adoption and the church of man. Rom. 8:2
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)

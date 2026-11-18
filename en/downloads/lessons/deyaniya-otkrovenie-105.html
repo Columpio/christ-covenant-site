@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,16 +233,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>17. The Epistle to Titus</h1>
-<h2 id="s1">1) Titus 1, - the importance of knowing and transmitting the Word of God, the Covenant, Christ</h2>
+<h2 id="s1">1) Titus 1, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ</h2>
 <h3>(1) Titus 1:1, - the importance of understanding God's foreknowledge and election (Paul is a servant of God, chosen by God by faith), the importance of knowing the truth of God's Word related to piety. (God in the flesh, eternal life with God, intended.) 1 Tim. 3:16 Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9</h3>
 <blockquote data-v="kjv"><p>Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and the acknowledging of the truth which is after godliness;</p><cite>Titus 1:1 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Paul, a servant of God and an apostle of Jesus Christ for the faith of God’s elect and their knowledge of the truth that leads to godliness,</p><cite>Titus 1:1 · BSB</cite></blockquote>
@@ -294,7 +296,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>In hope of eternal life, which God, that cannot lie, promised before the world began;</p><cite>Titus 1:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>in the hope of eternal life, which God, who cannot lie, promised before time began.</p><cite>Titus 1:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>in hope of eternal life, which God, who can’t lie, promised before time began;</p><cite>Titus 1:2 · WEB</cite></blockquote>
-<h3>(3) Titus 1:3, - the importance of conveying the Word of God, the Covenant, Christ, the preaching of N.Z., God's sovereignty and the control of the preaching trust</h3>
+<h3>(3) Titus 1:3, - the importance of conveying the Word of God, the Covenant, Christ, the preaching of N.Z., God's sovereignty and control of the preaching trust</h3>
 <blockquote data-v="kjv"><p>But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;</p><cite>Titus 1:3 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>In His own time He has made His word evident in the proclamation entrusted to me by the command of God our Savior.</p><cite>Titus 1:3 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>but in his own time revealed his word in the message with which I was entrusted according to the commandment of God our Savior,</p><cite>Titus 1:3 · WEB</cite></blockquote>
@@ -302,7 +304,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour.</p><cite>Titus 1:4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>To Titus, my true child in our common faith: Grace and peace from God the Father and Christ Jesus our Savior.</p><cite>Titus 1:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>to Titus, my true child according to a common faith: Grace, mercy, and peace from God the Father and the Lord Jesus Christ our Savior.</p><cite>Titus 1:4 · WEB</cite></blockquote>
-<h3>(5) Titus 1:5-9, - the importance of God's order of the Church of Christ, the importance of elders and bishops, the importance of knowing and transmitting the Word of God, the Covenants, Christ, the Disciples, Worldwide Evangelization</h3>
+<h3>(5) Titus 1:5-9, - the importance of God's order of the Church of Christ, the importance of elders and bishops, the importance of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization</h3>
 <blockquote data-v="kjv"><p>For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee: If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly. For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre; But a lover of hospitality, a lover of good men, sober, just, holy, temperate; Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers.</p><cite>Titus 1:5-9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>The reason I left you in Crete was that you would set in order what was unfinished and appoint elders in every town, as I directed you. An elder must be blameless, the husband of but one wife, having children who are believers and who are not open to accusation of indiscretion or insubordination. As God’s steward, an overseer must be above reproach—not self-willed, not quick-tempered, not given to drunkenness, not violent, not greedy for money. Instead, he must be hospitable, a lover of good, self-controlled, upright, holy, and disciplined. He must hold firmly to the faithful word as it was taught, so that he can encourage others by sound teaching and refute those who contradict it.</p><cite>Titus 1:5-9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I left you in Crete for this reason, that you would set in order the things that were lacking and appoint elders in every city, as I directed you— if anyone is blameless, the husband of one wife, having children who believe, who are not accused of loose or unruly behavior. For the overseer must be blameless, as God’s steward, not self-pleasing, not easily angered, not given to wine, not violent, not greedy for dishonest gain; but given to hospitality, a lover of good, sober minded, fair, holy, self-controlled, holding to the faithful word which is according to the teaching, that he may be able to exhort in the sound doctrine, and to convict those who contradict him.</p><cite>Titus 1:5-9 · WEB</cite></blockquote>
@@ -312,12 +314,12 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For there are many unruly and vain talkers and deceivers, specially they of the circumcision: Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre’s sake. One of themselves, even a prophet of their own, said, The Cretians are alway liars, evil beasts, slow bellies. This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith; Not giving heed to Jewish fables, and commandments of men, that turn from the truth. Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled. They profess that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate.</p><cite>Titus 1:10-16 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For many are rebellious and full of empty talk and deception, especially those of the circumcision, who must be silenced. For the sake of dishonorable gain, they undermine entire households and teach things they should not. As one of their own prophets has said, “Cretans are always liars, evil beasts, lazy gluttons.” This testimony is true. Therefore rebuke them sternly, so that they will be sound in the faith and will pay no attention to Jewish myths or to the commands of men who have rejected the truth. To the pure, all things are pure; but to the defiled and unbelieving, nothing is pure. Indeed, both their minds and their consciences are defiled. They profess to know God, but by their actions they deny Him. They are detestable, disobedient, and unfit for any good deed.</p><cite>Titus 1:10-16 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For there are also many unruly men, vain talkers and deceivers, especially those of the circumcision, whose mouths must be stopped: men who overthrow whole houses, teaching things which they ought not, for dishonest gain’s sake. One of them, a prophet of their own, said, “Cretans are always liars, evil beasts, and idle gluttons.” This testimony is true. For this cause, reprove them sharply, that they may be sound in the faith, not paying attention to Jewish fables and commandments of men who turn away from the truth. To the pure, all things are pure, but to those who are defiled and unbelieving, nothing is pure; but both their mind and their conscience are defiled. They profess that they know God, but by their deeds they deny him, being abominable, disobedient, and unfit for any good work.</p><cite>Titus 1:10-16 · WEB</cite></blockquote>
-<h2 id="s2">2) Titus 2, - the importance of knowing and transmitting the Word of God, the Covenant, Christ</h2>
-<h3>(1) Titus 2:1-6, - the importance of living a right life, fulfilling one's destiny (knowing and transmitting the Word of God, the Covenant, Christ), serving God and people, fulfilling God's will</h3>
+<h2 id="s2">2) Titus 2, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ</h2>
+<h3>(1) Titus 2:1-6, - the importance of living a right life, fulfilling one's destiny (knowing and transmitting the Word of God, the Covenant, and Christ), serving God and people, and fulfilling God's will</h3>
 <blockquote data-v="kjv"><p>But speak thou the things which become sound doctrine: That the aged men be sober, grave, temperate, sound in faith, in charity, in patience. The aged women likewise, that they be in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things; That they may teach the young women to be sober, to love their husbands, to love their children, To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed. Young men likewise exhort to be sober minded.</p><cite>Titus 2:1-6 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But as for you, speak the things that are consistent with sound doctrine. Older men are to be temperate, dignified, self-controlled, and sound in faith, love, and perseverance. Older women, likewise, are to be reverent in their behavior, not slanderers or addicted to much wine, but teachers of good. In this way they can train the young women to love their husbands and children, to be self-controlled, pure, managers of their households, kind, and submissive to their own husbands, so that the word of God will not be discredited. In the same way, urge the younger men to be self-controlled.</p><cite>Titus 2:1-6 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But say the things which fit sound doctrine, that older men should be temperate, sensible, sober minded, sound in faith, in love, and in perseverance, and that older women likewise be reverent in behavior, not slanderers nor enslaved to much wine, teachers of that which is good, that they may train the young wives to love their husbands, to love their children, to be sober minded, chaste, workers at home, kind, being in subjection to their own husbands, that God’s word may not be blasphemed. Likewise, exhort the younger men to be sober minded.</p><cite>Titus 2:1-6 · WEB</cite></blockquote>
-<h3>(2) Titus 2:7-8, - the importance of fulfilling the purpose, the importance of correctly communicating the Word of God, the Covenant, Christ, the authority of the Church, God</h3>
+<h3>(2) Titus 2:7-8, - the importance of fulfilling the purpose, the importance of correctly communicating the Word of God, the Covenant, Christ, the authority of the Church of God</h3>
 <blockquote data-v="kjv"><p>In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity, Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.</p><cite>Titus 2:7-8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>In everything, show yourself to be an example by doing good works. In your teaching show integrity, dignity, and wholesome speech that is above reproach, so that anyone who opposes us will be ashamed, having nothing bad to say about us.</p><cite>Titus 2:7-8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>In all things show yourself an example of good works. In your teaching, show integrity, seriousness, incorruptibility, and soundness of speech that can’t be condemned, that he who opposes you may be ashamed, having no evil thing to say about us.</p><cite>Titus 2:7-8 · WEB</cite></blockquote>
@@ -329,7 +331,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For the grace of God that bringeth salvation hath appeared to all men,</p><cite>Titus 2:11 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For the grace of God has appeared, bringing salvation to everyone.</p><cite>Titus 2:11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For the grace of God has appeared, bringing salvation to all men,</p><cite>Titus 2:11 · WEB</cite></blockquote>
-<h3>(5) Titus 2:12, - the importance of understanding the work of God's grace – human teaching (the importance of the Word of God, the Covenant, Christ), the importance of living a right life (serving God and people), the importance of fulfilling a destiny</h3>
+<h3>(5) Titus 2:12, - the importance of understanding the work of God's grace – human learning (the importance of the Word of God, the Covenant, Christ), the importance of living a right life (serving God and people), the importance of fulfilling a destiny</h3>
 <blockquote data-v="kjv"><p>Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;</p><cite>Titus 2:12 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>It instructs us to renounce ungodliness and worldly passions, and to live sensible, upright, and godly lives in the present age,</p><cite>Titus 2:12 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>instructing us to the intent that, denying ungodliness and worldly lusts, we would live soberly, righteously, and godly in this present age;</p><cite>Titus 2:12 · WEB</cite></blockquote>
@@ -345,7 +347,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>These things speak, and exhort, and rebuke with all authority. Let no man despise thee.</p><cite>Titus 2:15 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Speak these things as you encourage and rebuke with all authority. Let no one despise you.</p><cite>Titus 2:15 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Say these things and exhort and reprove with all authority. Let no one despise you.</p><cite>Titus 2:15 · WEB</cite></blockquote>
-<h2 id="s3">3) Titus 3, - the importance of understanding the Word of God, the Covenant, Christ</h2>
+<h2 id="s3">3) Titus 3, - the importance of understanding the Word of God, the Covenant, and Christ</h2>
 <h3>(1) Titus 3:1-2, - the importance of living a right life, fulfilling one’s destiny, serving God and people</h3>
 <blockquote data-v="kjv"><p>Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work, To speak evil of no man, to be no brawlers, but gentle, shewing all meekness unto all men.</p><cite>Titus 3:1-2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Remind the believers to submit to rulers and authorities, to be obedient and ready for every good work, to malign no one, and to be peaceable and gentle, showing full consideration to everyone.</p><cite>Titus 3:1-2 · BSB</cite></blockquote>
@@ -366,7 +368,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>A man that is an heretick after the first and second admonition reject; Knowing that he that is such is subverted, and sinneth, being condemned of himself.</p><cite>Titus 3:10-11 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Reject a divisive man after a first and second admonition, knowing that such a man is corrupt and sinful; he is self-condemned.</p><cite>Titus 3:10-11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Avoid a factious man after a first and second warning, knowing that such a one is perverted and sinful, being self-condemned.</p><cite>Titus 3:10-11 · WEB</cite></blockquote>
-<h3>(6) Titus 3:12-15, - the importance of disciples, the importance of fulfilling destiny, knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization</h3>
+<h3>(6) Titus 3:12-15, - the importance of disciples, the importance of fulfilling destiny, learning and transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization</h3>
 <blockquote data-v="kjv"><p>When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter. Bring Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them. And let ours also learn to maintain good works for necessary uses, that they be not unfruitful. All that are with me salute thee. Greet them that love us in the faith. Grace be with you all. Amen.</p><cite>Titus 3:12-15 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>As soon as I send Artemas or Tychicus to you, make every effort to come to me at Nicopolis, because I have decided to winter there. Do your best to equip Zenas the lawyer and Apollos, so that they will have everything they need. And our people must also learn to devote themselves to good works in order to meet the pressing needs of others, so that they will not be unfruitful. All who are with me send you greetings. Greet those who love us in the faith. Grace be with all of you.</p><cite>Titus 3:12-15 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>When I send Artemas to you, or Tychicus, be diligent to come to me to Nicopolis, for I have determined to winter there. Send Zenas the lawyer and Apollos on their journey speedily, that nothing may be lacking for them. Let our people also learn to maintain good works to meet necessary needs, that they may not be unfruitful. All who are with me greet you. Greet those who love us in faith. Grace be with you all. Amen.</p><cite>Titus 3:12-15 · WEB</cite></blockquote>

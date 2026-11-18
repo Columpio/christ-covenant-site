@@ -1,4 +1,4 @@
-# 14. 1 Cor. 12: Gifts of the Holy Spirit
+# 14. 1 Cor. 12: The Gifts of the Holy Spirit
 
 ## 1) 1 Cor. 12:1-3, - the importance of understanding the gifts of the Holy Spirit
 > Now concerning spiritual gifts, brethren, I would not have you ignorant. Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led. Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and that no man can say that Jesus is the Lord, but by the Holy Ghost. (1 Cor. 12:1-3, KJV)
@@ -23,9 +23,9 @@
 > And Simon Peter answered and said, Thou art the Christ, the Son of the living God. (Matt. 16:16, KJV)
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 
-#### (d) Knowledge and transmission of the Word of God, the Covenant, Christ is the most important gift of God (Adam – Abraham – Moses – David – Christ – the Apostles)
+#### (d) Knowledge and transmission of the Word of God, the Covenant, and Christ is the most important gift of God (Adam–Abraham– Moses– David – Christ – the Apostles)
 
-### (2) 1 Cor. 12:2, - non-acceptance of the Word of God, the Covenant, Christ
+### (2) 1 Cor. 12:2, - rejection of the Word of God, the Covenant, Christ
 > Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led. (1 Cor. 12:2, KJV)
 
 #### (a) Idolatry – serving creation, substituting for God
@@ -36,12 +36,12 @@
 ### (3) 1 Cor. 12:3, - the importance of understanding the action of the Holy Spirit
 > Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and that no man can say that Jesus is the Lord, but by the Holy Ghost. (1 Cor. 12:3, KJV)
 
-#### (a) The recognition of Jesus Christ as God in the flesh. (Disbelief in Jesus Christ or rejection of Him as God is the act of Satan, resisting the Word of God, the Covenant, Christ)
+#### (a) The recognition of Jesus Christ as God in the flesh. (Disbelief in Jesus Christ or rejection of Him as God is an act of Satan, resisting the Word of God, the Covenant, and Christ)
 
 #### (b) The recognition of Jesus Christ as God in the flesh, but not the recognition of His Sacrifice as all–complete and all-sufficient for salvation is anathema (religion, opposition to the Word of God, the Covenant, Christ) Gal. 1:6-8
 > I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel: Which is not another; but there be some that trouble you, and would pervert the gospel of Christ. But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed. (Gal. 1:6-8, KJV)
 
-## 2) 1 Cor. 12:4-11, - the importance of conveying the Word of God, the Covenant, Christ
+## 2) 1 Cor. 12:4-11, - the importance of conveying the Word of God, the Covenant, and Christ
 > Now there are diversities of gifts, but the same Spirit. And there are differences of administrations, but the same Lord. And there are diversities of operations, but it is the same God which worketh all in all. But the manifestation of the Spirit is given to every man to profit withal. For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit; To another faith by the same Spirit; to another the gifts of healing by the same Spirit; To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues: But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will. (1 Cor. 12:4-11, KJV)
 
 ### (1) 1 Cor. 1:4-7, - understanding the action and gifts of the Holy Spirit
@@ -49,7 +49,7 @@
 
 #### (a) God is the source, man is the guide
 
-#### (b) The distribution of gifts by the Holy Spirit is God's sovereignty and decision
+#### (b) The distribution of the gifts of the Holy Spirit is God's sovereignty and decision
 
 ### (2) 1 Cor. 12:8-11, - gifts of power
 > For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit; To another faith by the same Spirit; to another the gifts of healing by the same Spirit; To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues: But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will. (1 Cor. 12:8-11, KJV)
@@ -85,13 +85,13 @@
 
 ## Result:
 
-### (1) Gifts of the Holy Spirit (God is the source, man is the guide)
+### (1) The Gifts of the Holy Spirit (God is the source, man is the guide)
 
-### (2) The distribution of gifts by the Holy Spirit is God's sovereignty and decision
+### (2) The distribution of the gifts of the Holy Spirit is God's sovereignty and decision
 
-### (3) The Gifts of the Holy Spirit – knowledge and transmission of the Covenant, Christ, the Disciples, Worldwide Evangelization
+### (3) The Gifts of the Holy Spirit – knowledge and transmission of the Covenant, Christ, the disciples, and Worldwide Evangelization
 
-### (4) The importance of testing gifts – conformity to the Word of God, the Covenant, Christ
+### (4) The importance of testing gifts – conformity to the Word of God, the Covenant, to Christ
 
 ### (5) Understanding the actions of Satan – false gifts, deception, the assertion of heresy, the emphasis of human attention on external manifestations (mysticism), the wrong motivation of man (vanity, pride) Matt. 24:24,Rev. 13:13-14, - 1 John 4:1-2,1 Pet. 3:15,2 Cor. 13:5, -Rom. 10:9,Gal. 1:6-8
 > For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect. (Matt. 24:24, KJV)
@@ -112,7 +112,7 @@
 
 #### (a) The Triumphant Church is the Kingdom of Heaven. (Finished life on earth in the faith of God, purpose)
 
-#### (b) The Militant Church – the physical world, the knowledge and transmission of the Word of God, the Covenants, Christ, the disciples, World Evangelization, the coming of Christ. (Local Churches, spiritual warfare, fulfillment of destiny)
+#### (b) The Militant Church – the physical world, the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ. (Local Churches, spiritual warfare, fulfillment of destiny)
 
 ### (3) Acts 1:8; 2:1-11, - Pentecost, the birth of the Church
 > But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth. (Acts 1:8, KJV)
@@ -142,48 +142,48 @@
 > But unto every one of us is given grace according to the measure of the gift of Christ. (Eph. 4:7, KJV)
 > And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ: Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ: That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive; But speaking the truth in love, may grow up into him in all things, which is the head, even Christ: From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love. (Eph. 4:11-16, KJV)
 
-#### (a) Evangelist – transmission of the Word of God, the Covenant, Christ (communication with people)
+#### (a) Evangelist – transmitting the Word of God, the Covenant, and Christ (connecting with people)
 
-#### (b) Pastor – transmission of the Word of God, the Covenant, Christ (leader of believers)
+#### (b) Pastor – transmission of the Word of God, the Covenant, and Christ (leader of believers)
 
-#### (c) Teacher – transmission of the Word of God, the Covenant, Christ (deep explanation)
+#### (c) Teacher – transmission of the Word of God, the Covenant, and Christ (deep explanation)
 
-#### (d) The Prophet – transmission of the Word of God, the Covenant, Christ (proclamation of the will of God)
+#### (d) The Prophet is the transmission of the Word of God, the Covenant, and Christ (proclaiming the will of God)
 
-#### (e) The Apostle is the transmission of the Word of God, the Covenant, Christ (the totality of gifts)
+#### (e) The Apostle is the transmission of the Word of God, the Covenant, and Christ (a set of gifts)
 
 ## Result:
 
-### (1) The distribution of gifts by the Holy Spirit is God's sovereignty and decision
+### (1) The distribution of the gifts of the Holy Spirit is God's sovereignty and decision
 
-### (2) The importance of testing gifts – conformity to the Word of God, the Covenant, Christ
+### (2) The importance of testing gifts – conformity to the Word of God, the Covenant, to Christ
 
-### (3) Understanding the work of Satan – false gifts, deception, and the assertion of heresy
+### (3) Understanding Satan's actions – false gifts, deception, and the assertion of heresy
 
 ### (2) 1 Cor. 12:28, - gifts of remembrance
 > And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues. (1 Cor. 12:28, KJV)
 
 #### (a) Human skills, abilities, talents
 
-#### (b) Accepting the Word of God, the Covenant, Christ, serving and glorifying God – the proper use of personal gifts
+#### (b) Accepting the Word of God, the Covenant, Christ, serving and glorifying God is the proper use of personal gifts
 
-#### (c) Rejection of the Word of God, the Covenant, Christ, the ministry and glorification of Satan – misuse of personal gifts
+#### (c) Not accepting the Word of God, the Covenant, Christ, serving and glorifying Satan is the misuse of personal gifts
 
-#### (d) The right and wrong use of God's gifts – glorification of God (salvation of people through circumstances, judgment of God)
+#### (d) The right and wrong use of God's gifts is the glorification of God (salvation of people through circumstances, judgment of God)
 
 ## Result:
 
-### (1) The distribution of gifts by the Holy Spirit is God's sovereignty and decision
+### (1) The distribution of the gifts of the Holy Spirit is God's sovereignty and decision
 
-### (2) The importance of the proper use of the gifts of the Holy Spirit – serving and glorifying God, fulfilling God's will
+### (2) The importance of using the gifts of the Holy Spirit correctly – serving and glorifying God, fulfilling God's will
 
-## 5) 1 Cor. 12:28-31, - the special importance of understanding God's sovereignty and control, the distribution of the gifts of the Holy Spirit, the importance of understanding and fulfilling the destiny of God's people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+## 5) 1 Cor. 12:28-31, - the special importance of understanding God's sovereignty and control, the distribution of the gifts of the Holy Spirit, the importance of understanding and fulfilling the destiny of God's people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 > And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues. Are all apostles? are all prophets? are all teachers? are all workers of miracles? Have all the gifts of healing? do all speak with tongues? do all interpret? But covet earnestly the best gifts: and yet shew I unto you a more excellent way. (1 Cor. 12:28-31, KJV)
 
-### (1) 1 Cor. 12:28-30, - the distribution of the gifts of the Holy Spirit, the decision of God
+### (1) 1 Cor. 12:28-30, - distribution of the gifts of the Holy Spirit, God's decision
 > And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues. Are all apostles? are all prophets? are all teachers? are all workers of miracles? Have all the gifts of healing? do all speak with tongues? do all interpret? (1 Cor. 12:28-30, KJV)
 
-### (2) 1 Cor. 12:29-30, - the absence of all gifts from one person, the importance of the joint participation of the children of God in the cause of God. (The understanding of the Church of God is the Universal Body of Christ, the children of God)
+### (2) 1 Cor. 12:29-30, - the absence of all gifts in one person, the importance of the joint participation of the children of God in the work of God. (Understanding the Church of God - The Universal Body of Christ, Children of God)
 > Are all apostles? are all prophets? are all teachers? are all workers of miracles? Have all the gifts of healing? do all speak with tongues? do all interpret? (1 Cor. 12:29-30, KJV)
 
 ### (3) 1 Cor. 12:31, - the importance of fulfilling the destiny of God's people, zeal for the gifts of the Holy Spirit, the importance of learning
@@ -191,13 +191,13 @@
 
 ## Conclusion:
 
-### (1) Gifts of the Holy Spirit (God is the source, man is the guide)
+### (1) The Gifts of the Holy Spirit (God is the source, man is the guide)
 
-### (2) The distribution of gifts by the Holy Spirit is God's sovereignty and decision
+### (2) The distribution of the gifts of the Holy Spirit is God's sovereignty and decision
 
-### (3) The Gifts of the Holy Spirit – knowledge and transmission of the Covenant, Christ, the Disciples, Worldwide Evangelization
+### (3) The Gifts of the Holy Spirit – knowledge and transmission of the Covenant, Christ, the disciples, and Worldwide Evangelization
 
-### (4) The importance of testing gifts – conformity to the Word of God, the Covenant, Christ
+### (4) The importance of testing gifts – conformity to the Word of God, the Covenant, to Christ
 
 ### (5) Understanding the actions of Satan – false gifts, deception, the assertion of heresy, the emphasis of human attention on external manifestations (mysticism), the wrong motivation of man (vanity, pride) Matt. 24:24,Rev. 13:13-14, - 1 John 4:1-2,1 Pet. 3:15,2 Cor. 13:5, -Rom. 10:9,Gal. 1:6-8
 > For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect. (Matt. 24:24, KJV)

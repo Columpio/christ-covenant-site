@@ -1,5 +1,5 @@
 # 2 Tim. 1–2
-## 1.1) 2 Tim. 1, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 1.1) 2 Tim. 1, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
 ### (1) 2 Tim. 1:1, - the importance of fulfilling the destiny of God's people, the gifts of God, the importance of living in Christ (Emmanuel) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
 > Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus, (2 Tim. 1:1, KJV)
@@ -18,7 +18,7 @@
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-### (2) 2 Tim. 1:2-5, - importance of spiritual children (disciples), knowledge and transmission of the Word of God, the Covenant, Christ (destiny)
+### (2) 2 Tim. 1:2-5, - the importance of spiritual children (disciples), knowledge and transmission of the Word of God, the Covenant, Christ (purpose)
 > To Timothy, my dearly beloved son: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord. I thank God, whom I serve from my forefathers with pure conscience, that without ceasing I have remembrance of thee in my prayers night and day; Greatly desiring to see thee, being mindful of thy tears, that I may be filled with joy; When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also. (2 Tim. 1:2-5, KJV)
 
 #### (a) Timothy is a spiritual son, grandmother Loida, mother of Eunice
@@ -37,13 +37,13 @@
 ### (6) 2 Tim. 1:10, - the importance of understanding the Sacrifice and Feat of Jesus Christ, the solution of all human problems, the importance of evangelism (the possibility of accepting the Word of God, the Covenant, Christ)
 > But is now made manifest by the appearing of our Saviour Jesus Christ, who hath abolished death, and hath brought life and immortality to light through the gospel: (2 Tim. 1:10, KJV)
 
-### (7) 2 Tim. 1:11, - the importance of understanding the meaning of the ministry of the people of God, the knowledge and transmission of the Word of God, the Covenant, Christ (preachers, apostles and teachers), the fulfillment of the will of God
+### (7) 2 Tim. 1:11, - the importance of understanding the meaning of the ministry of the people of God, knowledge and transmission of the Word of God, the Testament, Christ (preachers, apostles and teachers), doing the will of God
 > Where unto I am appointed a preacher, and an apostle, and a teacher of the Gentiles. (2 Tim. 1:11, KJV)
 
 ### (8) 2 Tim. 1:12, - the importance of fulfilling the destiny, the importance of knowing Jesus Christ, full trust in God
 > For the which cause I also suffer these things: nevertheless I am not ashamed: for I know whom I have believed, and am persuaded that he is able to keep that which I have committed unto him against that day. (2 Tim. 1:12, KJV)
 
-### (9) 2 Tim. 1:13, - the importance of preserving the purity of the Word of God, the Covenant, Christ, the importance of understanding and communicating the will of God to every human being
+### (9) 2 Tim. 1:13, - the importance of preserving the purity of the Word of God, the Covenant, and Christ, and the importance of understanding and communicating the will of God to every human being
 > Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus. (2 Tim. 1:13, KJV)
 
 ### (10) 2 Tim. 1:14, - the importance of fulfilling the destiny, the importance of preserving the promise of the Holy Spirit in us, the importance of Emmanuel
@@ -55,21 +55,21 @@
 ### (12) 2 Tim. 1:16-18, - the importance of the disciples, the importance of fulfilling the destiny of the people of God (house of Onesiphorus)
 > The Lord give mercy unto the house of Onesiphorus; for he oft refreshed me, and was not ashamed of my chain: But, when he was in Rome, he sought me out very diligently, and found me. The Lord grant unto him that he may find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, thou knowest very well. (2 Tim. 1:16-18, KJV)
 
-## 2) 2 Tim. 2, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 2) 2 Tim. 2, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
-### (1) 2 Tim. 2:1-2, - the importance of fulfilling the destiny, disciples (able to teach others), the importance of knowing and transmitting the Word of God, the Covenant, Christ (fulfilling the will of God)
+### (1) 2 Tim. 2:1-2, - the importance of fulfilling one's destiny, disciples (able to teach others as well), the importance of knowing and transmitting the Word of God, the Covenant, and Christ (fulfilling God's will)
 > Thou therefore, my son, be strong in the grace that is in Christ Jesus. And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also. (2 Tim. 2:1-2, KJV)
 
 ### (2) 2 Tim. 2:3-5, - the importance of fulfilling the destiny of the people of God (serving the warrior, pleasing the commander, living the right life and fulfilling the destiny)
 > Thou therefore endure hardness, as a good soldier of Jesus Christ. No man that warreth entangleth himself with the affairs of this life; that he may please him who hath chosen him to be a soldier. And if a man also strive for masteries, yet is he not crowned, except he strive lawfully. (2 Tim. 2:3-5, KJV)
 
-### (3) 2 Tim. 2:6-7, - the importance of supporting the servants of God, the importance of knowing and transmitting the Word of God, the Covenant, Christ
+### (3) 2 Tim. 2:6-7, - the importance of supporting the servants of God, the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 > The husbandman that laboureth must be first partaker of the fruits. Consider what I say; and the Lord give thee understanding in all things. (2 Tim. 2:6-7, KJV)
 
 ### (4) 2 Tim. 2:8-10, - the importance of understanding Christ, the importance of communicating God's truth in all circumstances of life, the importance of saving God's people (God's chosen ones)
 > Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel: Where in I suffer trouble, as an evil doer, even unto bonds; but the word of God is not bound. Therefore I endure all things for the elect’s sakes, that they may also obtain the salvation which is in Christ Jesus with eternal glory. (2 Tim. 2:8-10, KJV)
 
-### (5) 2 Tim. 2:11-13, - the importance of understanding the Word of God, the Covenant, Christ
+### (5) 2 Tim. 2:11-13, - the importance of understanding the Word of God, the Covenant, and Christ
 > It is a faithful saying: For if we be dead with him, we shall also live with him: If we suffer, we shall also reign with him: if we deny him, he also will deny us: If we believe not, yet he abideth faithful: he can not deny himself. (2 Tim. 2:11-13, KJV)
 
 #### (a) We died with Him, and we will come to life with Him (the right to choose)
@@ -87,7 +87,7 @@
 > Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity. But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour. If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master’s use, and prepared unto every good work. (2 Tim. 2:19-21, KJV)
 > Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour? (Rom. 9:21, KJV)
 
-#### (a) Vessels of all uses are God's foreknowledge.
+#### (a) Vessels of all uses are God's foreknowledge of man
 
 #### (b) The quality of the vessel is a person's right of choice and responsibility
 
@@ -96,11 +96,11 @@
 
 ## Conclusion:
 
-### (1) The importance of accepting the Word of God, the Covenant, Christ
+### (1) The importance of accepting the Word of God, the Covenant, and Christ
 
 ### (2) The importance of students, the fulfillment of destiny
 
-### (3) The importance of understanding the work of Satan, the right to choose a person
+### (3) The importance of understanding Satan's actions, the right to choose a person
 
 ### (4) The importance of accurately communicating the Word of God, the purity of the teaching
 

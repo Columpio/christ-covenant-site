@@ -1,5 +1,5 @@
 # Num. 5–8
-## 2.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 2.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -11,7 +11,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-## 1) Num. 5, - the importance of understanding the limitations of participation in the transmission of the Word of God, the Covenant, Christ for the people of God
+## 1) Num. 5, - the importance of understanding the limitations of participation in the transmission of the Word of God, the Covenant, and Christ for the people of God
 
 ### (1) Num. 5:1-4, - incurable essence (impurity, deeds)
 > And the LORD spake unto Moses, saying, Command the children of Israel, that they put out of the camp every leper, and every one that hath an issue, and whosoever is defiled by the dead: Both male and female shall ye put out, without the camp shall ye put them; that they defile not their camps, in the midst whereof I dwell. And the children of Israel did so, and put them out without the camp: as the LORD spake unto Moses, so did the children of Israel. (Num. 5:1-4, KJV)
@@ -27,10 +27,10 @@
 ### (1) Num. 6:1-2, - man or woman, any person from the children of God
 > And the LORD spake unto Moses, saying, Speak unto the children of Israel, and say unto them, When either man or woman shall separate themselves to vow a vow of a Nazarite, to separate themselves unto the LORD: (Num. 6:1-2, KJV)
 
-### (2) Num. 6:3-4, - wine (physical and spiritual), the importance of sobriety of mind, staying in the Word of God, the Covenant, Christ, fulfilling one's destiny
+### (2) Num. 6:3-4, - wine (physical and spiritual), the importance of sobriety of mind, staying in the Word of God, the Covenant, Christ, fulfilling destiny
 > He shall separate himself from wine and strong drink, and shall drink no vinegar of wine, or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist grapes, or dried. All the days of his separation shall he eat nothing that is made of the vine tree, from the kernels even to the husk. (Num. 6:3-4, KJV)
 
-### (3) Num. 6:5, is a razor, a different way of life (a person's worldview, ideology, value system, etc.) 1 Cor. 10:1-6
+### (3) Num. 6:5, - razor, a different way of life (human worldview, ideology, value system, etc.) 1 Cor. 10:1-6
 > All the days of the vow of his separation there shall no razor come upon his head: until the days be fulfilled, in the which he separateth himself unto the LORD, he shall be holy, and shall let the locks of the hair of his head grow. (Num. 6:5, KJV)
 > Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea; And were all baptized unto Moses in the cloud and in the sea; And did all eat the same spiritual meat; And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ. But with many of them God was not well pleased: for they were overthrown in the wilderness. Now these things were our examples, to the intent we should not lust after evil things, as they also lusted. (1 Cor. 10:1-6, KJV)
 
@@ -45,7 +45,7 @@
 > And the LORD spake unto Moses, saying, Speak unto Aaron and unto his sons, saying, On this wise ye shall bless the children of Israel, saying unto them, The LORD bless thee, and keep thee: The LORD make his face shine upon thee, and be gracious unto thee: The LORD lift up his countenance upon thee, and give thee peace. And they shall put my name upon the children of Israel; and I will bless them. (Num. 6:22-27, KJV)
 > But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you. (Matt. 6:33, KJV)
 
-## 3) Num. 7, - the importance of transmitting the Word of God, the Covenant, Christ, World Evangelization
+## 3) Num. 7, - the importance of transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
 ### (1) The importance of financial service to God's people
 
@@ -55,7 +55,7 @@
 
 #### (c) Helping people in need and God's creation
 
-### (2) The accomplishment of World Evangelization, the importance of the salvation of mankind, the participation of the people of God – preaching, prayer, finance
+### (2) The accomplishment of Worldwide Evangelization, the importance of the salvation of mankind, the participation of the people of God – preaching, prayer, finance
 
 ## 4) Num. 8, - transmission of the Word of God, the Covenant, Christ
 
@@ -65,13 +65,13 @@
 ### (2) Num. 8:5-22, - the sanctification of the Levites for the service of God. (Purification, sanctification – sacrifice, understanding the Word of God, the Covenant, Christ)
 > And the LORD spake unto Moses, saying, Take the Levites from among the children of Israel, and cleanse them. And thus shalt thou do unto them, to cleanse them: Sprinkle water of purifying upon them, and let them shave all their flesh, and let them wash their clothes, and so make themselves clean. Then let them take a young bullock with his meat offering, even fine flour mingled with oil, and another young bullock shalt thou take for a sin offering. And thou shalt bring the Levites before the tabernacle of the congregation: and thou shalt gather the whole assembly of the children of Israel together: And thou shalt bring the Levites before the LORD: and the children of Israel shall put their hands upon the Levites: And Aaron shall offer the Levites before the LORD for an offering of the children of Israel, that they may execute the service of the LORD. And the Levites shall lay their hands upon the heads of the bullocks: and thou shalt offer the one for a sin offering, and the other for a burnt offering, unto the LORD, to make an atonement for the Levites. And thou shalt set the Levites before Aaron, and before his sons, and offer them for an offering unto the LORD. Thus shalt thou separate the Levites from among the children of Israel: and the Levites shall be mine. And after that shall the Levites go in to do the service of the tabernacle of the congregation: and thou shalt cleanse them, and offer them for an offering. For they are wholly given unto me from among the children of Israel; instead of such as open every womb, even instead of the firstborn of all the children of Israel, have I taken them unto me. For all the firstborn of the children of Israel are mine, both man and beast: on the day that I smote every firstborn in the land of Egypt I sanctified them for myself. And I have taken the Levites for all the firstborn of the children of Israel. And I have given the Levites as a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the tabernacle of the congregation, and to make an atonement for the children of Israel: that there be no plague among the children of Israel, when the children of Israel come nigh unto the sanctuary. And Moses, and Aaron, and all the congregation of the children of Israel, did to the Levites according unto all that the LORD commanded Moses concerning the Levites, so did the children of Israel unto them. And the Levites were purified, and they washed their clothes; and Aaron offered them as an offering before the LORD; and Aaron made an atonement for them to cleanse them. And after that went the Levites in to do their service in the tabernacle of the congregation before Aaron, and before his sons: as the LORD had commanded Moses concerning the Levites, so did they unto them. (Num. 8:5-22, KJV)
 
-### (3) Num. 8:23-26, - years of service, the best thing for serving God
+### (3) Num. 8:23-26, - years of service, the best for serving God
 > And the LORD spake unto Moses, saying, This is it that belongeth unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service of the tabernacle of the congregation: And from the age of fifty years they shall cease waiting upon the service thereof, and shall serve no more: But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charge. (Num. 8:23-26, KJV)
 
 ## Conclusion:
 
-### (1) The importance of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ (Understanding the purpose of Canaan, the Disciples, World Evangelization)
+### (1) The importance of the people of God is the knowledge and transmission of the Word of God, the Covenant, and Christ (Understanding the purpose of Canaan, the Disciples, and Worldwide Evangelization)
 
-### (2) The action of Satan is to stop the transmission of the Word of God, the Covenant, Christ (Circumstances, ministers, loved ones)
+### (2) Satan's action is to stop the transmission of the Word of God, the Covenant, Christ (Circumstances, minister, loved ones)
 
-### (3) Worldwide Evangelization, Canaan, the coming of Christ – God sovereignty. (With or without us, it's better to participate)
+### (3) Worldwide Evangelization, Canaan, the coming of Christ – God's sovereignty. (With or without us, it's better to participate)

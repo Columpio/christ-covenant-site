@@ -2,7 +2,7 @@
 - Illness is a consequence of sin, a distortion of God's creation
 - Healing – returning to its original form
 
-## 1) Gen. 1:27; 2:7, 9, 16-17, - the importance of the Word of God, the Covenant, Christ (The importance of understanding the trinity of man before the fall)
+## 1) Gen. 1:27; 2:7, 9, 16-17, - the importance of the Word of God, the Covenant, and Christ (The importance of understanding the trinity of man before the fall)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
@@ -10,7 +10,7 @@
 
 - Man is a living soul, having a spirit and living in a body
 
-### (1) The Spirit is Immanuel, the power is God Rom. 5:12; 8:9,1 Cor. 2:14
+### (1) The Spirit is Immanuel, the power of God Rom. 5:12; 8:9,1 Cor. 2:14
 > Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned: (Rom. 5:12, KJV)
 > But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his. (Rom. 8:9, KJV)
 > But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned. (1 Cor. 2:14, KJV)
@@ -19,7 +19,7 @@
 
 ### (3) The body is perfect, eternal (there is no disease, aging, death)
 
-## 2) Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), - rejection of the Word of God, the Covenant, Christ (The importance of understanding the trinity of man after the fall)
+## 2) Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), - rejection of the Word of God, the Covenant, and Christ (The importance of understanding the trinity of man after the fall)
 > Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons. (Gen. 3:1-7, KJV)
 > Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned: (Rom. 5:12, KJV)
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
@@ -29,19 +29,19 @@
 > Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned: (Rom. 5:12, KJV)
 > Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
 
-### (2) Soul – Soulful man, resisting God 1 Cor. 2:14
+### (2) The soul is a sincere person, resisting God 1 Cor. 2:14
 > But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned. (1 Cor. 2:14, KJV)
 
 ### (3) The body is a curse, illness, aging, death. Rom. 8:2
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
 
-## 3) Gen. 3:15, 21,Matt. 16:16,John 19:30, - the importance of the Word of God, the Covenant, Christ (The importance of understanding the trinity of man after restoration)
+## 3) Gen. 3:15, 21,Matt. 16:16,John 19:30, - the importance of the Word of God, the Covenant, and Christ (The importance of understanding the trinity of man after restoration)
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 > And Simon Peter answered and said, Thou art the Christ, the Son of the living God. (Matt. 16:16, KJV)
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 
-### (1) Healing of the Spirit – acceptance of the Word of God, the Covenant, Christ
+### (1) Healing of the Spirit – accepting the Word of God, the Covenant, and Christ
 
 #### (a) Redemption and rebirth of the spirit – birth from God, new man, Emmanuel, the power of God Rom. 8:2,John 3:1-10
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
@@ -49,10 +49,10 @@
 
 #### (b) The lawful liberation of the spirit from the power of Satan
 
-### (2) Healing of the soul – acceptance of the Word of God, the Covenant, Christ Rom. 8:2. (Soul – regenerated, spiritual man, obedience to the Word of God)
+### (2) Healing of the soul – acceptance of the Word of God, the Covenant, Christ Rom. 8:2. (The soul is regenerated, a spiritual person, obedience to the Word of God)
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
 
-#### (a) The problem of the soul is a misunderstanding of the Word of God, the Covenant, Christ Hos. 4:6. (The problem of sin, guilt, fear, despair – God has no peace and quiet)
+#### (a) The problem of the soul is a lack of understanding of the Word of God, the Covenant, Christ Hos. 4:6. (The problem of sin, guilt, fear, despair – there is no peace and quiet of God)
 > My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children. (Hos. 4:6, KJV)
 
 #### (b) Life priorities are idols, the visible. Eccl. 2:4-11. (Money, position, pleasure, etc. – emptiness, no answer)
@@ -95,7 +95,7 @@
 > And he did not many mighty works there because of their unbelief. (Matt. 13:58, KJV)
 > And many lepers were in Israel in the time of Eliseus the prophet; and none of them was cleansed, saving Naaman the Syrian. (Luke 4:27, KJV)
 
-- The method of healing is repentance, acceptance of the Word of God, the Covenant, Christ
+- The method of healing is repentance, acceptance of the Word of God, the Covenant, and Christ
 
 #### (b) Human Transgressions (God's upbringing) Num. 12:9-15,2 Sam. 24:15,2 Kgs. 5:27,1 Cor. 5:1-5, 2 Cor. 12:7-9,Jas. 5:14-15, - Heb. 12:5-11,1 Cor. 11:31-32
 > And the anger of the LORD was kindled against them; and he departed. And the cloud departed from off the tabernacle; and, behold, Miriam became leprous, white as snow: and Aaron looked upon Miriam, and, behold, she was leprous. And Aaron said unto Moses, Alas, my lord, I beseech thee, lay not the sin upon us, wherein we have done foolishly, and wherein we have sinned. Let her not be as one dead, of whom the flesh is half consumed when he cometh out of his mother’s womb. And Moses cried unto the LORD, saying, Heal her now, O God, I beseech thee. And the LORD said unto Moses, If her father had but spit in her face, should she not be ashamed seven days? let her be shut out from the camp seven days, and after that let her be received in again. And Miriam was shut out from the camp seven days: and the people journeyed not till Miriam was brought in again. (Num. 12:9-15, KJV)
@@ -117,7 +117,7 @@
 
 - The healing method is prayer, understanding God's time schedule
 
-#### (d) Natural Causes, fulfillment of the Word of God Gen. 3:19 (aging, death) - Gen. 27:1,1 Kgs. 14:1-4, 2 Kgs. 13:14,Phil. 2:25-28,1 Tim. 5:23,2 Tim. 4:20
+#### (d) Natural causes, fulfillment of the Word of God Gen. 3:19 (aging, death) - Gen. 27:1,1 Kgs. 14:1-4, 2 Kgs. 13:14,Phil. 2:25-28,1 Tim. 5:23,2 Tim. 4:20
 > In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return. (Gen. 3:19, KJV)
 > And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, here am I. (Gen. 27:1, KJV)
 > At that time Abijah the son of Jeroboam fell sick. And Jeroboam said to his wife, Arise, I pray thee, and disguise thyself, that thou be not known to be the wife of Jeroboam; and get thee to Shiloh: behold, there is Ahijah the prophet, which told me that I should be king over this people. And take with thee ten loaves, and cracknels, and a cruse of honey, and go to him: he shall tell thee what shall become of the child. And Jeroboam’s wife did so, and arose, and went to Shiloh, and came to the house of Ahijah. But Ahijah could not see; for his eyes were set by reason of his age. (1 Kgs. 14:1-4, KJV)
@@ -135,9 +135,9 @@
 
 ### (2) A reminder of eternity, the transience of the visible, the nullification of all human earthly achievements outside of Christ
 
-### (3) The passage into eternity, the separation of soul and body, God's establishment
+### (3) The passage into eternity, the separation of soul and body, God's institution
 
-## 5) Understanding God's healing methods. 1 Pet. 2:24
+## 5) Understanding God's Healing Methods. 1 Pet. 2:24
 > Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed. (1 Pet. 2:24, KJV)
 
 ### (1) The natural method is doctors, the right way of life
@@ -152,7 +152,7 @@
 
 ## 6) Understanding Satan's actions
 
-### (1) The constant action of Satan is abolition, distortion. Word of God, Covenant, Christ
+### (1) The constant action of Satan is annihilation, distortion. The Words of God, the Covenant, and Christ
 
 ### (2) False miracles, false signs, false healings – the abolition of the Word of God, the Covenant, Christ, false teachings, the destruction of man
 
@@ -165,6 +165,6 @@
 
 ### (2) A distorted understanding of healing is only a visible response
 
-### (3) The constant action of Satan is abolition, distortion. Word of God, Covenant, Christ
+### (3) The constant action of Satan is annihilation, distortion. The Words of God, the Covenant, and Christ
 
-### (4) Understanding the purpose of the Church – Bringing God Healing, Worldwide Evangelization
+### (4) Understanding the purpose of the Church – Bringing God's healing, Worldwide Evangelization

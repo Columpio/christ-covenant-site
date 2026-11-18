@@ -1,9 +1,9 @@
 # 20. Matthew 16 chapter
 
-## 1) Matt. 16:1-4, - non-acceptance of the Word of God, the Covenant, Christ (religion)
+## 1) Matt. 16:1-4, - rejection of the Word of God, the Covenant, Christ (religion)
 > The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven. He answered and said unto them, When it is evening, ye say, It will be fair weather: for the sky is red. And in the morning, It will be foul weather to day: for the sky is red and lowring. O ye hypocrites, ye can discern the face of the sky; but can ye not discern the signs of the times? A wicked and adulterous generation seeketh after a sign; and there shall no sign be given unto it, but the sign of the prophet Jonas. And he left them, and departed. (Matt. 16:1-4, KJV)
 
-### (1) Pharisees - non-acceptance of the Word of God, the Covenant, Christ John 10:33,Rom. 9:30-33 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+### (1) Pharisees – rejection of the Word of God, the Covenant, Christ John 10:33,Rom. 9:30-33 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. (John 10:33, KJV)
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
@@ -20,23 +20,23 @@
 
 ### (3) The true sign of God is understanding and fulfilling the Word of God
 
-## 2) Matt. 16:5-12, - the importance of understanding the Word of God, the Covenant, Christ
+## 2) Matt. 16:5-12, - the importance of understanding the Word of God, the Covenant, and Christ
 > And when his disciples were come to the other side, they had forgotten to take bread. Then Jesus said unto them, Take heed and beware of the leaven of the Pharisees and of the Sadducees. And they reasoned among themselves, saying, It is because we have taken no bread. Which when Jesus perceived, he said unto them, O ye of little faith, why reason ye among yourselves, because ye have brought no bread? Do ye not yet understand, neither remember the five loaves of the five thousand, and how many baskets ye took up? Neither the seven loaves of the four thousand, and how many baskets ye took up? How is it that ye do not understand that I spake it not to you concerning bread, that ye should beware of the leaven of the Pharisees and of the Sadducees? Then understood they how that he bade them not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees. (Matt. 16:5-12, KJV)
 
-### (1) Understanding the actions of Satan – religion, false teachings (leaven)
+### (1) Understanding the work of Satan – religion, false teachings (leaven)
 
-### (2) Misunderstanding of the Word of God, the Covenant, Christ the Disciples
+### (2) Misunderstanding of the Word of God, the Covenant, and Christ – the disciples
 
-### (3) The importance of constantly hearing the Word of God, the Covenant, Christ (teaching)
+### (3) The importance of constantly hearing the Word of God, the Covenant, and Christ (teaching)
 
-## 3) Matt. 16:13-19, - the importance of understanding the Word of God, the Covenant, Christ
+## 3) Matt. 16:13-19, - the importance of understanding the Word of God, the Covenant, and Christ
 > When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am? And they said, Some say that thou art John the Baptist: some, Elias; and others, Jeremias, or one of the prophets. He saith unto them, But whom say ye that I am? And Simon Peter answered and said, Thou art the Christ, the Son of the living God. And Jesus answered and said unto him, Blessed art thou, Simon Bar-jona: for flesh and blood hath not revealed it unto thee, but my Father which is in heaven. And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it. And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven. (Matt. 16:13-19, KJV)
 
 ### (1) Misunderstanding of Christ is the main problem of man
 
 #### (a) Honoring Jesus Christ as a great man
 
-#### (b) Misunderstanding of the purpose and meaning of Christ's coming – death, execution of the sentence, the Word of God instead of man, salvation
+#### (b) Misunderstanding of the purpose and meaning of Christ's coming – death, execution of the sentence of the Word of God instead of man, salvation
 
 ### (2) Peter's understanding is the action of the Holy Spirit, the grace of God
 
@@ -57,11 +57,11 @@
 ## 5) Matt. 16:21-23, - misunderstanding of the Word of God, the Covenant, Christ
 > From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day. Then Peter took him, and began to rebuke him, saying, Be it far from thee, Lord: this shall not be unto thee. But he turned, and said unto Peter, Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men. (Matt. 16:21-23, KJV)
 
-### (1) The importance of fulfilling the Word of God – the death and resurrection of Christ, the importance of affirming man through the fulfillment of the prophecies of the Word of God
+### (1) The importance of fulfilling the Word of God – the death and resurrection of Christ, the importance of establishing man through the fulfillment of the prophecies of the Word of God
 
-### (2) The act of Satan is the abolition of the Word of God, the Covenant, Christ (Peter)
+### (2) Satan's action is to destroy the Word of God, the Covenant, and Christ (Peter)
 
-### (3) Misunderstanding the Word of God, the Covenant, Christ – there is no salvation (Peter). Rom. 10:9
+### (3) Misunderstanding of the Word of God, the Covenant, Christ – there is no salvation (Peter). Rom. 10:9
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
 #### (a) The importance of understanding the Divinity of Christ
@@ -73,9 +73,9 @@
 
 ### (1) Reject yourself – changing ideology and worldview
 
-### (2) To take up and bear the cross – acceptance of the Word of God, the Covenant, Christ (death of the old), fulfillment of the destiny of the people of God
+### (2) To take up and bear the cross – the acceptance of the Word of God, the Covenant, Christ (the death of the old), the fulfillment of the destiny of God's people
 
-### (3) Following Christ - World Evangelization (knowledge, transmission of the Word of God)
+### (3) Following Christ – Worldwide Evangelization (knowledge, transmission of the Word of God)
 
 ### (4) The importance of understanding the spiritual reality and judgment of God
 

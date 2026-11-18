@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,21 +233,21 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>7. Review of the Book of Leviticus</h1>
 <h2 id="s1">1) The Book of Leviticus – Understanding the Priesthood and Worship</h2>
-<h3>(1) 1 Pet. 2:9, - the status of the people of God in N.Z. (royal. the priesthood)</h3>
+<h3>(1) 1 Pet. 2:9, - the status of God's people in N.Z. (royal. the priesthood)</h3>
 <blockquote data-v="kjv"><p>But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:</p><cite>1 Pet. 2:9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But you are a chosen people, a royal priesthood, a holy nation, a people for God’s own possession, to proclaim the virtues of Him who called you out of darkness into His marvelous light.</p><cite>1 Pet. 2:9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But you are a chosen race, a royal priesthood, a holy nation, a people for God’s own possession, that you may proclaim the excellence of him who called you out of darkness into his marvelous light.</p><cite>1 Pet. 2:9 · WEB</cite></blockquote>
-<h3>(2) Understanding the destiny of the people of God – preserving and transmitting the Word of God, the Covenant, Christ, Canaan - World Evangelization (Church) Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21</h3>
+<h3>(2) Understanding the purpose of God's people - preserving and transmitting the Word of God, the Covenant, Christ, Canaan - World Evangelism (Church) Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21</h3>
 <blockquote data-v="kjv"><p>Much every way: chiefly, because that unto them were committed the oracles of God.</p><cite>Rom. 3:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Much in every way. First of all, they have been entrusted with the very words of God.</p><cite>Rom. 3:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Much in every way! Because first of all, they were entrusted with the revelations of God.</p><cite>Rom. 3:2 · WEB</cite></blockquote>
@@ -276,7 +278,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.</p><cite>Gen. 3:21 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And the LORD God made garments of skin for Adam and his wife, and He clothed them.</p><cite>Gen. 3:21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh God made garments of animal skins for Adam and for his wife, and clothed them.</p><cite>Gen. 3:21 · WEB</cite></blockquote>
-<h3>(3) The importance of preparing God's people for the fulfillment of their destiny. (Systematic and continuous study of the Word of God, the Covenant, Christ) John 5:39,1 Tim. 4:16,2 Tim. 2:2, - Hos. 4:6; 6:6</h3>
+<h3>(3) The importance of preparing God's people to fulfill their destiny. (Systematic and continuous study of the Word of God, the Covenant, and Christ) John 5:39,1 Tim. 4:16,2 Tim. 2:2, - Hos. 4:6; 6:6</h3>
 <blockquote data-v="kjv"><p>Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.</p><cite>John 5:39 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>You pore over the Scriptures because you presume that by them you possess eternal life. These are the very words that testify about Me,</p><cite>John 5:39 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“You search the Scriptures, because you think that in them you have eternal life; and these are they which testify about me.</p><cite>John 5:39 · WEB</cite></blockquote>
@@ -294,12 +296,12 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>For I desire mercy, and not sacrifice; and the knowledge of God more than burnt offerings.</p><cite>Hos. 6:6 · WEB</cite></blockquote>
 <h2 id="s2">2) Lev. 1-7, - the importance of understanding Sacrifice (Covenant, Christ)</h2>
 <h3>(1) 5 kinds of sacrifices – understanding salvation and destiny</h3>
-<h3>(2) V.Z.'s Sacrifice is the prototype of Christ's Sacrifice and Feat Heb. 10:1-4</h3>
+<h3>(2) V.Z.'s sacrifices are a prototype of Christ's Sacrifice and Feat Heb. 10:1-4</h3>
 <blockquote data-v="kjv"><p>For the law having a shadow of good things to come, and not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect. For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins. But in those sacrifices there is a remembrance again made of sins every year. For it is not possible that the blood of bulls and of goats should take away sins.</p><cite>Heb. 10:1-4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For the law is only a shadow of the good things to come, not the realities themselves. It can never, by the same sacrifices offered year after year, make perfect those who draw near to worship. If it could, would not the offerings have ceased? For the worshipers would have been cleansed once for all, and would no longer have felt the guilt of their sins. Instead, those sacrifices are an annual reminder of sins, because it is impossible for the blood of bulls and goats to take away sins.</p><cite>Heb. 10:1-4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For the law, having a shadow of the good to come, not the very image of the things, can never with the same sacrifices year by year, which they offer continually, make perfect those who draw near. Or else wouldn’t they have ceased to be offered, because the worshipers, having been once cleansed, would have had no more consciousness of sins? But in those sacrifices there is a yearly reminder of sins. For it is impossible that the blood of bulls and goats should take away sins.</p><cite>Heb. 10:1-4 · WEB</cite></blockquote>
 <h3>(3) The essence and meaning of Worship is Sacrifice, shedding of blood, Christ</h3>
-<h3>(4) The invalidity of Worship without understanding the Sacrifice. (Faith in the coming Christ, execution of the sentence of the Word of God) Gen. 3:15, 21</h3>
+<h3>(4) The invalidity of Worship without understanding the Sacrifice. (Faith in the coming Christ, fulfillment of the sentence of the Word of God) Gen. 3:15, 21</h3>
 <blockquote data-v="kjv"><p>And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.</p><cite>Gen. 3:15 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And I will put enmity between you and the woman, and between your seed and her seed. He will crush your head, and you will strike his heel.”</p><cite>Gen. 3:15 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I will put hostility between you and the woman, and between your offspring and her offspring. He will bruise your head, and you will bruise his heel.”</p><cite>Gen. 3:15 · WEB</cite></blockquote>
@@ -308,24 +310,24 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>Yahweh God made garments of animal skins for Adam and for his wife, and clothed them.</p><cite>Gen. 3:21 · WEB</cite></blockquote>
 <h2 id="s3">3) Lev. 8-10, - the importance of understanding the priesthood (mission)</h2>
 <h3>(1) Priest – help in solving the problem of sin, death, Satan</h3>
-<h3>(2) Priestly Training – accurate understanding of the Word of God, the Covenant, Christ</h3>
-<h3>(3) The problem of priests is "their opinions", an alien fire. (Inaccurate understanding and fulfillment of the Word of God, the Covenant, Christ – destruction)</h3>
+<h3>(2) The training of a priest is an accurate understanding of the Word of God, the Covenant, and Christ</h3>
+<h3>(3) The problem of priests is "their opinions", an alien fire. (An inaccurate understanding and fulfillment of the Word of God, the Covenant, and Christ is ruin)</h3>
 <h2 id="s4">4) Lev. 11, - the importance of understanding the pure and impure</h2>
 <h3>(1) Purity of Worship is the perfect Sacrifice, Christ</h3>
-<h3>(2) Purity of human nutrition – right, wrong food. (Purity is the Word of God, the Covenant, Christ – the understanding of false teachings, distortion. The Word of God)</h3>
-<h3>(3) Human Purity – acceptance, non-acceptance of the Word of God, the Covenant, Christ (Importance of Worldwide Evangelization – knowledge and transmission of the Word of God, the Covenant, Christ) Acts 10</h3>
-<h2 id="s5">5) Lev. 13-14, - the importance of understanding the problem of leprosy.</h2>
+<h3>(2) The purity of human nutrition is the right, wrong food. (Purity of the Word of God, the Covenant, Christ – understanding false teachings, distortion. The Word of God)</h3>
+<h3>(3) Human Purity – acceptance, non-acceptance of the Word of God, the Covenant, and Christ (The importance of Worldwide Evangelization is the knowledge and transmission of the Word of God, the Covenant, and Christ) Acts 10</h3>
+<h2 id="s5">5) Lev. 13-14, - the importance of understanding the problem of human leprosy</h2>
 <h3>(1) Leprosy is the infection of a person's sin and transgressions (sin. is.)</h3>
 <h3>(2) Leprosy – the impossibility of healing by human means</h3>
 <h3>(3) The solution is communication with the priest, the type of Christ, reflection on the Word of God, the Covenant, Christ, understanding the Sacrifice of Christ</h3>
 <h2 id="s6">6) Lev. 12, 15, - the importance of understanding the natural impurity of man</h2>
-<h3>(1) Outflow is a natural impurity of a person, impossible. control</h3>
+<h3>(1) Effluence is the natural impurity of man, it is impossible. control</h3>
 <h3>(2) The solution is reasoning over the Word of God, understanding the Sacrifice of Christ</h3>
 <h2 id="s7">7) Lev. 16, - the importance of understanding the Word of God, the Covenant, Christ (the day of purification.)</h2>
-<h3>(1) The high Priest is the prototype of Christ, the only Mediator and Intercessor of the people, God, who is constantly in the presence of God</h3>
+<h3>(1) The High Priest, the prototype of Christ, is the only Mediator and Intercessor of God's people who is constantly in the presence of God.</h3>
 <h3>(2) The importance of Sacrifice (payment) is a legitimate right and opportunity to intercede for the people of God, the ministry of Christ</h3>
 <h3>(3) The priest's primary need for Sacrifice (Christ), understanding the problem of original sin and sin. entities</h3>
-<h3>(4) The scapegoat is the destruction and removal of the sins of the people of God</h3>
+<h3>(4) The scapegoat is the destruction and removal of the sins of God's people</h3>
 <h2 id="s8">8) Lev. 17, - understanding the importance of the assembly (local Church)</h2>
 <h3>(1) Prohibition of Worship, Sacrifice outside the assembly</h3>
 <h3>(2) Understanding the meaning of blood as a symbol of life and redemption</h3>
@@ -333,12 +335,12 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h3>(1) The immutability of God's standards – good and evil</h3>
 <h3>(2) The preservation of God's people, the fulfillment of destiny</h3>
 <h2 id="s10">10) Lev. 21-22, - the importance of understanding the priesthood</h2>
-<h3>(1) Knowledge and transmission of the Word of God, the Covenant, Christ – destiny</h3>
+<h3>(1) The knowledge and transmission of the Word of God, the Covenant, and Christ is the purpose</h3>
 <h3>(2) Helping to solve a person's spiritual problem</h3>
 <h2 id="s11">11) Lev. 23, - the importance of understanding holidays</h2>
 <h3>(1) Understanding God's Plan of Salvation</h3>
 <h3>(2) Understanding the future, approval of descendants</h3>
-<h2 id="s12">12) Lev. 24, - the importance of understanding the destiny of the people of God</h2>
+<h2 id="s12">12) Lev. 24, - the importance of understanding the destiny of God's people</h2>
 <h3>(1) The Importance of the True Light in Human Life – Christ</h3>
 <h3>(2) The importance of the True Bread in human life – Christ</h3>
 <h3>(3) The importance of man's reverence for God (confession)</h3>
@@ -347,21 +349,21 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h3>(2) The importance of returning to the original form – Christ</h3>
 <h2 id="s14">14) Lev. 26, - the importance of understanding a person's right to choose</h2>
 <h3>(1) The right to choose is a person's responsibility</h3>
-<h3>(2) The right to choose at the time of the proposal and within the framework of the Word of God</h3>
+<h3>(2) The right to choose at the time of the sentence and within the framework of the Word of God</h3>
 <h2 id="s15">15) Lev. 27, - The importance of understanding financial service</h2>
-<h3>(1) Vows and Tithes – Taking the Word of God, the Covenant, and Christ seriously</h3>
-<h3>(2) The importance of conveying the Word of God, the Covenant, Christ, the Purpose</h3>
+<h3>(1) Vows and Tithes are a serious attitude towards the Word of God, the Covenant, and Christ</h3>
+<h3>(2) The importance of conveying the Word of God, the Covenant, Christ, the purpose</h3>
 <h3>(3) Tithe is God’s institution and requirement, a commandment that must be fulfilled. Lev. 27:30-32</h3>
 <blockquote data-v="kjv"><p>And all the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is the LORD’s: it is holy unto the LORD. And if a man will at all redeem ought of his tithes, he shall add thereto the fifth part thereof. And concerning the tithe of the herd, or of the flock, even of whatsoever passeth under the rod, the tenth shall be holy unto the LORD.</p><cite>Lev. 27:30-32 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Thus any tithe from the land, whether from the seed of the land or the fruit of the trees, belongs to the LORD; it is holy to the LORD. If a man wishes to redeem part of his tithe, he must add a fifth to its value. Every tenth animal from the herd or flock that passes under the shepherd’s rod will be holy to the LORD.</p><cite>Lev. 27:30-32 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“‘All the tithe of the land, whether of the seed of the land or of the fruit of the trees, is Yahweh’s. It is holy to Yahweh. If a man redeems anything of his tithe, he shall add a fifth part to it. All the tithe of the herds or the flocks, whatever passes under the rod, the tenth shall be holy to Yahweh.</p><cite>Lev. 27:30-32 · WEB</cite></blockquote>
 <h2 id="s16">Conclusion:</h2>
-<h3>(1) The importance of understanding the meaning of the life of the people of God – the service of God</h3>
-<h3>(2) The importance of understanding Sacrifice – Christ, Man's Atonement</h3>
-<h3>(3) The importance of the Priesthood – the knowledge and transmission of the Word of God, the Covenant, Christ</h3>
+<h3>(1) The importance of understanding the meaning of God's people's lives – serving God</h3>
+<h3>(2) The importance of understanding Sacrifice – Christ, the redemption of man</h3>
+<h3>(3) The importance of the priesthood is the knowledge and transmission of the Word of God, the Covenant, and Christ</h3>
 <h3>(4) The Importance of Understanding the Future – God's Plan of Salvation</h3>
 <h3>(5) The importance of returning to its original form – salvation</h3>
-<h3>(6) The importance of financial support for the transmission of the Word of God, the Covenant, Christ</h3>
+<h3>(6) The importance of financial support for the transmission of the Word of God, the Covenant, and Christ</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
 </body>

@@ -1,7 +1,7 @@
 # 1 Cor. 8–9: Marriage and Family
-## 10.1) 1 Cor. 8, - the importance of understanding the Word of God, the Covenant, Christ
+## 10.1) 1 Cor. 8, - the importance of understanding the Word of God, the Covenant, and Christ
 
-### (1) 1 Cor. 8:1-3, - the importance of knowledge from God, the importance of understanding the Word of God, the Covenant, Christ for every human being. (Spiritual, mental and physical knowledge – the trimeria of man)
+### (1) 1 Cor. 8:1-3, - the importance of knowledge from God, the importance of understanding the Word of God, the Covenant, and Christ for every human being. (Spiritual, mental and physical knowledge – the human trimeria)
 > Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth. And if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know. But if any man love God, the same is known of him. (1 Cor. 8:1-3, KJV)
 
 #### (a) The special importance of spiritual knowledge is the Good News. (Understanding Creation, Fall, Restoration) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
@@ -25,7 +25,7 @@
 #### (c) Human knowledge (misunderstanding of the Word of God, the Covenant, Christ) is the arrogance and exaltation of man. Phil. 2:21
 > For all seek their own, not the things which are Jesus Christ’s. (Phil. 2:21, KJV)
 
-### (2) 1 Cor. 8:4-13, - the importance of affirming the Word of God, the Covenant, Christ
+### (2) 1 Cor. 8:4-13, - the importance of affirming the Word of God, the Covenant, and Christ
 > As concerning therefore the eating of those things that are offered in sacrifice unto idols, we know that an idol is nothing in the world, and that there is none other God but one. For though there be that are called gods, whether in heaven or in earth, (as there be gods many, and lords many,) But to us there is but one God, the Father, of whom are all things, and we in him; and one Lord Jesus Christ, by whom are all things, and we by him. Howbeit there is not in every man that knowledge: for some with conscience of the idol unto this hour eat it as a thing offered unto an idol; and their conscience being weak is defiled. But meat commendeth us not to God: for neither, if we eat, are we the better; neither, if we eat not, are we the worse. But take heed lest by any means this liberty of yours become a stumblingblock to them that are weak. For if any man see thee which hast knowledge sit at meat in the idol’s temple, shall not the conscience of him which is weak be emboldened to eat those things which are offered to idols; And through thy knowledge shall the weak brother perish, for whom Christ died? But when ye sin so against the brethren, and wound their weak conscience, ye sin against Christ. Wherefore, if meat make my brother to offend, I will eat no flesh while the world standeth, lest I make my brother to offend. (1 Cor. 8:4-13, KJV)
 
 #### (a) The inadmissibility of participating in the idolatry of the people of God, insulting God (the example of cakes). 1 Cor. 8:7
@@ -38,28 +38,28 @@
 ### (1) 1 Cor. 9:1-3, - condemnation, rejection of Paul as an apostle of God
 > Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord? If I be not an apostle unto others, yet doubtless I am to you: for the seal of mine apostleship are ye in the Lord. Mine answer to them that do examine me is this, (1 Cor. 9:1-3, KJV)
 
-#### (a) The God of the servant is the God of sovereignty (foreknowledge and election of man)
+#### (a) God's servant – God sovereignty (foreknowledge and election of man)
 
 #### (b) God's affirmation – transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, saved people, local Churches (obvious fruits of the Holy Spirit)
 
-### (2) 1 Cor. 9:4-18 (14), - the importance of transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization
+### (2) 1 Cor. 9:4-18 (14), - the importance of transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization
 > Have we not power to eat and to drink? Have we not power to lead about a sister, a wife, as well as other apostles, and as the brethren of the Lord, and Cephas? Or I only and Barnabas, have not we power to forbear working? Who goeth a warfare any time at his own charges? who planteth a vineyard, and eateth not of the fruit thereof? or who feedeth a flock, and eateth not of the milk of the flock? Say I these things as a man? or saith not the law the same also? For it is written in the law of Moses, Thou shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen? Or saith he it altogether for our sakes? For our sakes, no doubt, this is written: that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope. If we have sown unto you spiritual things, is it a great thing if we shall reap your carnal things? If others be partakers of this power over you, are not we rather? Nevertheless we have not used this power; but suffer all things, lest we should hinder the gospel of Christ. Do ye not know that they which minister about holy things live of the things of the temple? and they which wait at the altar are partakers with the altar? Even so hath the Lord ordained that they which preach the gospel should live of the gospel. But I have used none of these things: neither have I written these things, that it should be so done unto me: for it were better for me to die, than that any man should make my glorying void. For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not the gospel! For if I do this thing willingly, I have a reward: but if against my will, a dispensation of the gospel is committed unto me. What is my reward then? Verily that, when I preach the gospel, I may make the gospel of Christ without charge, that I abuse not my power in the gospel. (1 Cor. 9:4-18, KJV)
 
 #### (a) The minister's legal right to financial security
 
-#### (b) The importance of financial service to the people of God – personal participation in World Evangelization, fulfillment of mission
+#### (b) The importance of financial service to the people of God – personal participation in Worldwide Evangelization, fulfillment of mission
 
 ### (3) 1 Cor. 9:19-23, - the importance of fulfilling the purpose
 > For though I be free from all men, yet have I made myself servant unto all, that I might gain the more. And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law; To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law. To the weak became I as weak, that I might gain the weak: I am made all things to all men, that I might by all means save some. And this I do for the gospel’s sake, that I might be partaker thereof with you. (1 Cor. 9:19-23, KJV)
 
-#### (a) The importance of knowing and transmitting the Word of God, the Covenant, Christ, the preparation of disciples, the accomplishment of World Evangelization, the preparation of the coming of Christ
+#### (a) The importance of knowing and transmitting the Word of God, the Covenant, and Christ, preparing disciples, accomplishing Worldwide Evangelization, and preparing for the coming of Christ
 
-#### (b) The priority, purpose and meaning of life is serving God and man, communicating with all people at their level of worldview and value system (delivering the Word of God, the Covenant, Christ)
+#### (b) The priority, purpose, and meaning of life is serving God and man, communicating with all people at their level of worldview and value system (communicating the Word of God, the Covenant, and Christ)
 
 ### (4) 1 Cor. 9:24-27, - transmission of the Word of God, the Covenant, Christ, God's reward
 > Know ye not that they which run in a race run all, but one receiveth the prize? So run, that ye may obtain. And every man that striveth for the mastery is temperate in all things. Now they do it to obtain a corruptible crown; but we an incorruptible. I therefore so run, not as uncertainly; so fight I, not as one that beateth the air: But I keep under my body, and bring it into subjection: lest that by any means, when I have preached to others, I myself should be a castaway. (1 Cor. 9:24-27, KJV)
 
-#### (a) The importance of understanding God's reward for the correct knowledge and transmission of the Word of God, the Covenant, Christ (salvation of people)
+#### (a) The importance of understanding God's reward for correctly knowing and communicating the Word of God, the Covenant, and Christ (saving people)
 
 #### (b) The importance of living the right life and fulfilling the destiny of God's people
 
@@ -69,8 +69,8 @@
 
 ### (2) The inadmissibility of the participation of God's people in idolatry
 
-### (3) The importance of God's Servants is the knowledge and transmission of the Word of God, understanding the legitimate right to provide for the minister
+### (3) The importance of God's servants is the knowledge and transmission of God's Word, understanding the legitimate right of providing for a minister
 
 ### (4) The importance of financial service to God's people
 
-### (5) The importance of understanding and fulfilling destiny – knowing and transmitting the Word of God, the Covenants, Christ, the Disciples, Worldwide Evangelization
+### (5) The importance of understanding and fulfilling the purpose of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization

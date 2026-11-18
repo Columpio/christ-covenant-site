@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -285,14 +287,14 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins.</p><cite>Acts 10:43 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>All the prophets testify about Him that everyone who believes in Him receives forgiveness of sins through His name.”</p><cite>Acts 10:43 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>All the prophets testify about him, that through his name everyone who believes in him will receive remission of sins.”</p><cite>Acts 10:43 · WEB</cite></blockquote>
-<h3>(3) The rejection of the Word of God, the Covenant, Christ, the majority of Jews, the rejection of the Divinity of Christ and the Sufficiency of His Sacrifice. John 10:33, - Rom. 9:30-33</h3>
+<h3>(3) The rejection of the Word of God, the Covenant, Christ, by the majority of Jews, the rejection of the Divinity of Christ and the All-sufficiency of His Sacrifice. John 10:33, - Rom. 9:30-33</h3>
 <blockquote data-v="kjv"><p>The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God.</p><cite>John 10:33 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>“We are not stoning You for any good work,” said the Jews, “but for blasphemy, because You, who are a man, make Yourself out to be God.”</p><cite>John 10:33 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>The Jews answered him, “We don’t stone you for a good work, but for blasphemy, because you, being a man, make yourself God.”</p><cite>John 10:33 · WEB</cite></blockquote>
 <blockquote data-v="kjv"><p>What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed.</p><cite>Rom. 9:30-33 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>What then will we say? That the Gentiles, who did not pursue righteousness, have obtained it, a righteousness that is by faith; but Israel, who pursued a law of righteousness, has not attained it. Why not? Because their pursuit was not by faith, but as if it were by works. They stumbled over the stumbling stone, as it is written: “See, I lay in Zion a stone of stumbling and a rock of offense; and the one who believes in Him will never be put to shame.”</p><cite>Rom. 9:30-33 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>What shall we say then? That the Gentiles, who didn’t follow after righteousness, attained to righteousness, even the righteousness which is of faith; but Israel, following after a law of righteousness, didn’t arrive at the law of righteousness. Why? Because they didn’t seek it by faith, but as it were by works of the law. They stumbled over the stumbling stone, even as it is written, “Behold, I lay in Zion a stumbling stone and a rock of offense; and no one who believes in him will be disappointed.”</p><cite>Rom. 9:30-33 · WEB</cite></blockquote>
-<h3>(4) The importance of understanding God's sovereignty and control, the inevitability of fulfilling God's Word, Covenant, Christ, God's Plan</h3>
+<h3>(4) The importance of understanding God's sovereignty and control, the inevitability of fulfilling God's Word, Covenant, Christ, and God's plan</h3>
 <h2 id="s2">2) The importance of Christ's conformity to God's prophecies</h2>
 <h3>(1) The birth of Christ from the seed of a woman, without the participation of a man Gen. 3:15, - Luke 1:30-34</h3>
 <blockquote data-v="kjv"><p>And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.</p><cite>Gen. 3:15 · KJV</cite></blockquote>
@@ -421,7 +423,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>While they were eating, Jesus took bread, spoke a blessing and broke it, and gave it to the disciples, saying, “Take and eat; this is My body.” Then He took the cup, gave thanks, and gave it to them, saying, “Drink from it, all of you. This is My blood of the covenant, which is poured out for many for the forgiveness of sins.</p><cite>Matt. 26:26-28 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>As they were eating, Jesus took bread, gave thanks for it, and broke it. He gave to the disciples and said, “Take, eat; this is my body.” He took the cup, gave thanks, and gave to them, saying, “All of you drink it, for this is my blood of the new covenant, which is poured out for many for the remission of sins.</p><cite>Matt. 26:26-28 · WEB</cite></blockquote>
 <h4>(a) The Second and Third Testaments (V.Z.) – faith in the coming Christ</h4>
-<h4>(b) N.Z. – fulfillment of the Word of God, the Covenant, Christ, God's faithfulness</h4>
+<h4>(b) N.Z. – fulfillment of God's Word, Covenant, Christ, God's faithfulness</h4>
 <h3>(8) Christ will be sacrificed by His Father Gen. 22:1-19, - John 3:16</h3>
 <blockquote data-v="kjv"><p>And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am. And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of. And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him. Then on the third day Abraham lifted up his eyes, and saw the place afar off. And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you. And Abraham took the wood of the burnt offering, and laid it upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together. And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering? And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together. And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood. And Abraham stretched forth his hand, and took the knife to slay his son. And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I. And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me. And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son. And Abraham called the name of that place Jehovah-jireh: as it is said to this day, In the mount of the LORD it shall be seen. And the angel of the LORD called unto Abraham out of heaven the second time, And said, By myself have I sworn, saith the LORD, for because thou hast done this thing, and hast not withheld thy son, thine only son: That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies; And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice. So Abraham returned unto his young men, and they rose up and went together to Beer-sheba; and Abraham dwelt at Beer-sheba.</p><cite>Gen. 22:1-19 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Some time later God tested Abraham and said to him, “Abraham!” “Here I am,” he answered. “Take your son,” God said, “your only son Isaac, whom you love, and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains, which I will show you.” So Abraham got up early the next morning, saddled his donkey, and took along two of his servants and his son Isaac. He split the wood for a burnt offering and set out for the place God had designated. On the third day Abraham looked up and saw the place in the distance. “Stay here with the donkey,” Abraham told his servants. “The boy and I will go over there to worship, and then we will return to you.” Abraham took the wood for the burnt offering and placed it on his son Isaac. He himself carried the fire and the sacrificial knife, and the two of them walked on together. Then Isaac said to his father Abraham, “My father!” “Here I am, my son,” he replied. “The fire and the wood are here,” said Isaac, “but where is the lamb for the burnt offering?” Abraham answered, “God Himself will provide the lamb for the burnt offering, my son.” And the two walked on together. When they arrived at the place God had designated, Abraham built the altar there and arranged the wood. He bound his son Isaac and placed him on the altar, atop the wood. Then Abraham reached out his hand and took the knife to slaughter his son. Just then the angel of the LORD called out to him from heaven, “Abraham, Abraham!” “Here I am,” he replied. “Do not lay a hand on the boy or do anything to him,” said the angel, “for now I know that you fear God, since you have not withheld your only son from me.” Then Abraham looked up and saw behind him a ram in a thicket, caught by its horns. So he went and took the ram and offered it as a burnt offering in place of his son. And Abraham called that place The LORD Will Provide. So to this day it is said, “On the mountain of the LORD it will be provided.” And the angel of the LORD called to Abraham from heaven a second time, saying, “By Myself I have sworn, declares the LORD, that because you have done this and have not withheld your only son, I will surely bless you, and I will multiply your descendants like the stars in the sky and the sand on the seashore. Your descendants will possess the gates of their enemies. And through your offspring all nations of the earth will be blessed, because you have obeyed My voice.” Abraham went back to his servants, and they got up and set out together for Beersheba. And Abraham settled in Beersheba.</p><cite>Gen. 22:1-19 · BSB</cite></blockquote>
@@ -442,7 +444,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>The promises were spoken to Abraham and to his seed. The Scripture does not say, “and to seeds,” meaning many, but “and to your seed,” meaning One, who is Christ.</p><cite>Gal. 3:16 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now the promises were spoken to Abraham and to his offspring. He doesn’t say, “To descendants”, as of many, but as of one, “To your offspring”, which is Christ.</p><cite>Gal. 3:16 · WEB</cite></blockquote>
 <h4>(a) Understanding God's sovereignty and man's foreknowledge</h4>
-<h4>(b) Abraham, understanding the Word of God, the Covenant, Christ, doing the will of God Gal. 3:16-17, Heb. 11:8-16</h4>
+<h4>(b) Abraham, understanding the Word of God, the Covenant, Christ, doing the will of God Gal. 3:16-17,Heb. 11:8-16</h4>
 <blockquote data-v="kjv"><p>Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ. And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.</p><cite>Gal. 3:16-17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>The promises were spoken to Abraham and to his seed. The Scripture does not say, “and to seeds,” meaning many, but “and to your seed,” meaning One, who is Christ. What I mean is this: The law that came 430 years later does not revoke the covenant previously established by God, so as to nullify the promise.</p><cite>Gal. 3:16-17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now the promises were spoken to Abraham and to his offspring. He doesn’t say, “To descendants”, as of many, but as of one, “To your offspring”, which is Christ. Now I say this: A covenant confirmed beforehand by God in Christ, the law, which came four hundred thirty years after, does not annul, so as to make the promise of no effect.</p><cite>Gal. 3:16-17 · WEB</cite></blockquote>
@@ -505,7 +507,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>Pay attention to yourself and to your teaching. Continue in these things, for in doing this you will save both yourself and those who hear you.</p><cite>1 Tim. 4:16 · WEB</cite></blockquote>
 <h3>(3) The importance of understanding the mission of Christ</h3>
 <h4>(a) To die for all the sins of all people is man's atonement</h4>
-<h4>(b) Prepare the disciples - the importance of knowing and transmitting the Word of God, the Covenant, Christ, World Evangelization, preparation for the second coming of Christ</h4>
+<h4>(b) Prepare the disciples - the importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, preparation for the second coming of Christ</h4>
 <h4>(c) To show people the Holy, True God</h4>
 <h3>(4) The importance of fulfilling the destiny of God's people</h3>
 <h3>(5) The importance of understanding Satan's actions</h3>

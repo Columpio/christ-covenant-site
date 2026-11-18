@@ -2,7 +2,7 @@
 
 ## 1) Rev. 1-3, - understanding the importance of God's people (C.B.)
 
-### (1) Understanding Christ's special attention to Ts. (the people of God), the importance of understanding and fulfilling the purpose of knowing and transmitting the Word of God, the Covenant. Christ, the Disciples, World Evangelization Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
+### (1) Understanding Christ's special attention to Ts. (God's people), the importance of understanding and fulfilling the purpose of knowing and transmitting the Word of God, the Covenant. Christ, disciples, Worldwide Evangelization Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
@@ -18,7 +18,7 @@
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-### (2) The importance of preserving the purpose and purity of the Word of God (Understanding the action of Satan – to stop the transmission of the Word of God, the Covenant, Christ)
+### (2) The importance of preserving the purpose and purity of the Word of God (Understanding Satan's action to stop the transmission of the Word of God, the Covenant, and Christ)
 
 ## 3) Rev. 4-5, - the importance of understanding spiritual reality
 
@@ -47,7 +47,7 @@
 
 ### (7) The persecution of Christians, the murder, the resurrection, and the ascension of two of God's prophets and the Church of Christ in Central Asia – the stoppage of God's judgments, the triumph, and the enthronement of the Antichrist
 
-### (8) The safety of the people of God in the judgments of God is the acceptance of the Word of God, the Covenant, Christ, and God's justice (the land of Goshen). Ex. 8:22; 9:26
+### (8) The security of the people of God in the judgments of God is the acceptance of the Word of God, the Covenant, Christ, and the justice of God (the land of Goshen). Ex. 8:22; 9:26
 > And I will sever in that day the land of Goshen, in which my people dwell, that no swarms of flies shall be there; to the end thou mayest know that I am the LORD in the midst of the earth. (Ex. 8:22, KJV)
 > Only in the land of Goshen, where the children of Israel were, was there no hail. (Ex. 9:26, KJV)
 
@@ -55,9 +55,9 @@
 
 ### (1) The ascension of the Antichrist, the cessation of service in the third false temple, and the Antichrist's claim to worship him as "God." (The right to choose a person, the tragedy of the majority of humanity)
 
-### (2) God's Judgment on Religion – non-acceptance of the Word of God, the Covenant, Christ (All religions of the world – earning salvation, human deeds)
+### (2) God's Judgment on Religion is the rejection of the Word of God, the Covenant, and Christ (All religions of the world are earning salvation, human deeds)
 
-### (3) The continuation of God's judgments – the seven bowls of God's wrath. (Understanding the causes of judgments is God's choice, man's fulfillment of the Word of God)
+### (3) The continuation of God's judgments – the seven bowls of God's wrath. (Understanding the reasons for God's judgments – man's choice, fulfillment of God's Word)
 
 ### (4) The Uprising in Jerusalem against the Antichrist, the Battle of Armageddon, the Second Coming of Jesus Christ
 
@@ -67,13 +67,13 @@
 
 ## 6) Rev. 20, - purification and rebirth of the earth, the 1000th Kingdom of Jesus Christ on earth, Judgment at the Great Throne
 
-### (1) Understanding the Purpose of God's People in the 1000th Kingdom
+### (1) Understanding the Purpose of God's people in the 1000th Kingdom
 
 #### (a) Serving, glorifying, and communing with Christ
 
-#### (b) Knowledge and transmission of the Word of God, the Covenant, Christ – the peoples of the earth
+#### (b) Knowledge and transmission of the Word of God, the Covenant, and Christ to the peoples of the earth
 
-#### (c) God's knowledge and enjoyment of creation is God's justice
+#### (c) The knowledge and enjoyment of God's creation is God's justice
 
 ### (2) The liberation of Satan, the rebellion against Christ, the destruction of the world. (Understanding a person's right to choose, fulfilling God's Word)
 
@@ -81,7 +81,7 @@
 
 #### (a) The participation of God's people – the preaching of the Gospel on earth
 
-#### (b) The rejection of the Word of God, the Covenant, Christ is the reason for man's condemnation
+#### (b) Rejection of the Word of God, the Covenant, and Christ is the reason for man's condemnation
 
 #### (c) God's justice, love and mercy for a man who has not heard the Word of God, the Covenant, Christ Rev. 20:15
 > And whosoever was not found written in the book of life was cast into the lake of fire. (Rev. 20:15, KJV)
@@ -96,6 +96,6 @@
 
 ### (1) The importance of understanding the Word of God, the Covenant, and Christ – the importance of understanding the past, present, and future
 
-### (2) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization
+### (2) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization
 
 ### (3) The importance of understanding Satan's actions

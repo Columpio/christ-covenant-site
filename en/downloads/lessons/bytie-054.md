@@ -1,6 +1,6 @@
 # 54. Gen. 38, - Judah, Tamar
 
-## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenants, Christ, the disciples, World Evangelization (Canaan), the coming of Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21. (Adam – Seth – Noah – Abraham – Isaac – Jacob – the 12 Tribes of Israel)
+## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, the disciples, World Evangelization (Canaan), the coming of Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21. (Adam – Seth – Noah – Abraham – Isaac – Jacob – the 12 Tribes of Israel)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:17, KJV)
@@ -34,17 +34,17 @@
 
 ### (4) The daughter–in-law, the sons' wife, Tamar the Canaanite
 
-### (5) Visible and temporary success outside the Word of God, the Covenant, Christ
+### (5) Visible and temporary success outside the Word of God, the Covenant, and Christ
 
 ## 3) Gen. 38:7-12, - non-acceptance of the Word of God, the Covenant, Christ, the action of Satan
 > And Er, Judah’s firstborn, was wicked in the sight of the LORD; and the LORD slew him. And Judah said unto Onan, Go in unto thy brother’s wife, and marry her, and raise up seed to thy brother. And Onan knew that the seed should not be his; and it came to pass, when he went in unto his brother’s wife, that he spilled it on the ground, lest that he should give seed to his brother. And the thing which he did displeased the LORD: wherefore he slew him also. Then said Judah to Tamar his daughter in law, Remain a widow at thy father’s house, till Shelah my son be grown: for he said, Lest peradventure he die also, as his brethren did. And Tamar went and dwelt in her father’s house. And in process of time the daughter of Shuah Judah’s wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite. (Gen. 38:7-12, KJV)
 
-### (1) Knowledge, but non–acceptance of the Word of God, the Covenant, the Christ-preaching of Judas (descendants, the coming of Christ), the desire to boast of his peculiarity (belonging to the people of God)
+### (1) Knowledge, but rejection of the Word of God, the Covenant, and Christ – Judas' preaching (descendants, the coming of Christ), the desire to boast of his peculiarity (belonging to the people of God)
 
-### (2) Non–acceptance of the Word of God, the Covenant, Christ - death and death. Rom. 6:23. (Judas' understanding of the importance of procreation)
+### (2) Failure to accept the Word of God, the Covenant, and Christ is death. Rom. 6:23. (Judas' understanding of the importance of procreation)
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
-### (3) The non–acceptance of the Word of God, the Covenant, Christ, the action of Satan, to stop the race of Judas, to stop the coming of Christ - the death of Onan. Rom. 6:23
+### (3) The rejection of the Word of God, the Covenant, Christ, the action of Satan, to stop the race of Judas, to stop the coming of Christ – the death of Onan. Rom. 6:23
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
 ### (4) Tamar was sent to her father and not given to Shelah, the death of Judah's wife, Judah has no marriage and no offspring – the end of Judah's family
@@ -52,16 +52,16 @@
 ## 4) Gen. 38:12, - The importance of understanding Satan's actions
 > And in process of time the daughter of Shuah Judah’s wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite. (Gen. 38:12, KJV)
 
-### (1) Stop the transmission of the Word of God, the Covenant, Christ (stop the race of Judas)
+### (1) To stop the transmission of the Word of God, the Covenant, and Christ (to stop the race of Judas)
 
-### (2) The immersion of the people of God in the vanity of this world (purpose)
+### (2) The immersion of God's people in the hustle and bustle of this world (purpose)
 
 ## 5) Gen. 38:13-23, - fulfillment of the Word of God, the Covenant, Christ Gen. 3:15, 21
 > And it was told Tamar, saying, Behold thy father in law goeth up to Timnath to shear his sheep. And she put her widow’s garments off from her, and covered her with a vail, and wrapped herself, and sat in an open place, which is by the way to Timnath; for she saw that Shelah was grown, and she was not given unto him to wife. When Judah saw her, he thought her to be an harlot; because she had covered her face. And he turned unto her by the way, and said, Go to, I pray thee, let me come in unto thee; (for he knew not that she was his daughter in law.) And she said, What wilt thou give me, that thou mayest come in unto me? And he said, I will send thee a kid from the flock. And she said, Wilt thou give me a pledge, till thou send it? And he said, What pledge shall I give thee? And she said, Thy signet, and thy bracelets, and thy staff that is in thine hand. And he gave it her, and came in unto her, and she conceived by him. And she arose, and went away, and laid by her vail from her, and put on the garments of her widowhood. And Judah sent the kid by the hand of his friend the Adullamite, to receive his pledge from the woman’s hand: but he found her not. Then he asked the men of that place, saying, Where is the harlot, that was openly by the way side? And they said, There was no harlot in this place. And he returned to Judah, and said, I cannot find her; and also the men of the place said, that there was no harlot in this place. And Judah said, Let her take it to her, lest we be shamed: behold, I sent this kid, and thou hast not found her. (Gen. 38:13-23, KJV)
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-### (1) Tamar's Faith – the importance of Christ's coming, the meaning of life, the importance of continuing the Covenant family, Christ (Judas' sermon)
+### (1) Tamar's Faith – the importance of the coming of Christ, the meaning of life, the importance of procreation of the Covenant family, Christ (Judah's sermon)
 
 ### (2) The realization of Judas' problem is the loss of destiny, there is no continuation of the race of God's people. (Shelah's utter disbelief, Judah's worldly life)
 
@@ -77,7 +77,7 @@
 > The book of the generation of Jesus Christ, the son of David, the son of Abraham. Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren; And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram; (Matt. 1:1-3, KJV)
 > And all the people that were in the gate, and the elders, said, We are witnesses. The LORD make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel: and do thou worthily in Ephratah, and be famous in Beth-lehem: And let thy house be like the house of Pharez, whom Tamar bare unto Judah, of the seed which the LORD shall give thee of this young woman. (Ruth 4:11-12, KJV)
 
-### (2) Tamar's Faith – Judah's return to his destiny, the family of the Covenant, Christ, reunion with the people of God
+### (2) Tamar's faith – Judah's return to his destiny, the family of the Covenant, Christ, and reunification with the people of God
 
 ### (3) The fulfillment of Tamar's plan is God's sovereignty and control, Tamar's right motives (faith in Christ is an act of God's mercy). Jas. 2:13
 > For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment. (Jas. 2:13, KJV)
@@ -86,9 +86,9 @@
 
 ### (1) Tamar, Rahab, Ruth, Bathsheba (Uriah the Hittite) – pagan women in the genealogy of Christ (acceptance of any person by Christ)
 
-### (2) God sovereignty – the coming of Christ, the salvation of mankind
+### (2) God's sovereignty – the coming of Christ, the salvation of mankind
 
-### (3) The Importance of Faith – Accepting the Word of God, the Covenant, Christ Rom. 10:9
+### (3) The Importance of Faith – accepting the Word of God, the Covenant, Christ Rom. 10:9
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
 ### (4) The mistakes of God's children – God turns for His glory Rom. 8:28,Heb. 13:5

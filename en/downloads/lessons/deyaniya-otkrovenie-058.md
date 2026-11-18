@@ -11,18 +11,18 @@
 #### (a) Creation of man and woman (creation of God) 1 Tim. 2:13
 > For Adam was first formed, then Eve. (1 Tim. 2:13, KJV)
 
-#### (b) Adam's emphasis on the Word of God, the Covenant, Christ, the ministry of God (The importance of understanding priorities - God, Spouse, Children)
+#### (b) Adam's focus on the Word of God, the Covenant, Christ, serving God (The importance of understanding priorities - God, spouse, children)
 
 ### (2) Gen. 1:28; 2:18-24 (1 Cor. 11:3), - God's family order
 > And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth. (Gen. 1:28, KJV)
 > And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him. And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof. And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him. And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof; And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man. And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man. Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh. (Gen. 2:18-24, KJV)
 > But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God. (1 Cor. 11:3, KJV)
 
-#### (a) A wife from her husband is an assistant in transmitting the Word of God, the Covenant, Christ
+#### (a) A wife from her husband is an assistant in transmitting the Word of God, the Covenant, and Christ
 
-#### (b) The transmission of the Word of God, the Covenant, Christ is entrusted to the husband – responsibility. (Function. the primacy of the husband, the equality of men and women)
+#### (b) The transmission of the Word of God, the Covenant, of Christ is entrusted to the husband – responsibility. (Function. the primacy of the husband, the equality of men and women)
 
-#### (c) The meaning of life and marriage (intended) is the service and glorification of God, the importance of a common ideology and worldview of the family. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+#### (c) The meaning of life and marriage (intended) is the service and glorification of God, the importance of a common ideology and worldview of the family. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 
 #### (d) Children – the multiplication of God's children, eternal life with God, the eternal continuation of God's creation
 
@@ -43,7 +43,7 @@
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
 
-### (1) The importance of actually confirming a person's choice. (The right to choose, "exam" - transmission of the Word of God, the Covenant, Christ, descendants)
+### (1) The importance of actually confirming a person's choice. (The right to choose, "examination" - transmission of the Word of God, the Covenant, Christ, descendants)
 
 ### (2) Rejection of the Word of God, the Covenant, Christ (sin) – the collapse of life, marriage, family
 
@@ -63,9 +63,9 @@
 
 ### (2) Return to the purpose of man (Emmanuel)
 
-### (3) Return to the true meaning of life and marriage – service to God, the importance of a common ideology and worldview of the family. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+### (3) Return to the true meaning of life and marriage – service to God, the importance of a common ideology and worldview of the family. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 
-### (4) Children – transmission of the Word of God, the Covenant, Christ in time, the coming of Christ, eternal life with God, the eternal continuation of God's creation
+### (4) Children – the transmission of the Word of God, the Covenant, and Christ in time, the coming of Christ, eternal life with God, and the eternal continuation of God's creation
 
 ## Conclusion:
 
@@ -73,9 +73,9 @@
 
 ### (2) The importance of understanding the purpose of marriage (priorities)
 
-### (3) The importance of understanding a person's needs (spirit, soul, body)
+### (3) The importance of understanding human needs (spirit, soul, body)
 
-### (4) The importance of understanding the consequences of living outside the Word of God, the Covenant, Christ (Idolatry, eternal destruction of spouses and their offspring)
+### (4) The importance of understanding the consequences of living outside the Word of God, the Covenant, and Christ (Idolatry, eternal destruction of spouses and their offspring)
 
 ### (5) The importance of fulfilling a mission, the importance of analyzing a person's life (the motives of a person and his family)
 

@@ -1,5 +1,5 @@
 # 1 Thess. 4
-## 2.1) 1 Thess. 4:1-8, - the importance of accepting the Word of God, the Covenant, Christ
+## 2.1) 1 Thess. 4:1-8, - the importance of accepting the Word of God, the Covenant, and Christ
 > Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more. For ye know what commandments we gave you by the Lord Jesus. For this is the will of God, even your sanctification, that ye should abstain from fornication: That every one of you should know how to possess his vessel in sanctification and honour; Not in the lust of concupiscence, even as the Gentiles which know not God: That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such, as we also have forewarned you and testified. For God hath not called us unto uncleanness, but unto holiness. He therefore that despiseth, despiseth not man, but God, who hath also given unto us his holy Spirit. (1 Thess. 4:1-8, KJV)
 
 ### (1) 1 Thess. 4:1, - the importance of accepting the Word of God, the Covenant, Christ, the right life of God's people, pleasing God Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
@@ -49,13 +49,13 @@
 ### (2) 1 Thess. 4:11-12, - the importance of work and a quiet life, the importance of fulfilling the destiny of God's people
 > And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you; That ye may walk honestly toward them that are without, and that ye may have lack of nothing. (1 Thess. 4:11-12, KJV)
 
-## 3) 1 Thess. 4:13-18, - the importance of understanding the Word of God, the Covenant, Christ
+## 3) 1 Thess. 4:13-18, - the importance of understanding the Word of God, the Covenant, and Christ
 > But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope. For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him. For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep. For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first: Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord. Wherefore comfort one another with these words. (1 Thess. 4:13-18, KJV)
 
 ### (1) 1 Thess. 4:13, - the importance of understanding the meaning of death, the importance of understanding the future, the importance of not grieving
 > But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope. (1 Thess. 4:13, KJV)
 
-### (2) Gen. 3:19, - the importance of fulfilling the Word of God, zeroing out all human earthly achievements, the importance of understanding eternity
+### (2) Gen. 3:19, - the importance of fulfilling the Word of God, zeroing out all human earthly achievements, and the importance of understanding eternity
 > In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return. (Gen. 3:19, KJV)
 
 ### (3) 1 Thess. 4:14, - the importance of understanding the Second Coming of Christ and the resurrection of the dead in Christ (children of God)

@@ -1,5 +1,5 @@
 # Num. 18–19
-## 6.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 6.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -11,12 +11,12 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-## 2) Num. 18, - the importance of conveying the Word of God, the Covenant, Christ
+## 2) Num. 18, - the importance of conveying the Word of God, the Covenant, and Christ
 
 ### (1) Num. 18:1-7, - the importance of priests and Levites, service in the Tabernacle (knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the importance of preparing for the first coming of Christ)
 > And the LORD said unto Aaron, Thou and thy sons and thy father’s house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood. And thy brethren also of the tribe of Levi, the tribe of thy father, bring thou with thee, that they may be joined unto thee, and minister unto thee: but thou and thy sons with thee shall minister before the tabernacle of witness. And they shall keep thy charge, and the charge of all the tabernacle: only they shall not come nigh the vessels of the sanctuary and the altar, that neither they, nor ye also, die. And they shall be joined unto thee, and keep the charge of the tabernacle of the congregation, for all the service of the tabernacle: and a stranger shall not come nigh unto you. And ye shall keep the charge of the sanctuary, and the charge of the altar: that there be no wrath any more upon the children of Israel. And I, behold, I have taken your brethren the Levites from among the children of Israel: to you they are given as a gift for the LORD, to do the service of the tabernacle of the congregation. Therefore thou and thy sons with thee shall keep your priest’s office for every thing of the altar, and within the vail; and ye shall serve: I have given your priest’s office unto you as a service of gift: and the stranger that cometh nigh shall be put to death. (Num. 18:1-7, KJV)
 
-### (2) Num. 18:8-19, - God's sovereignty, caring for priests and Levites, the importance of knowing and transmitting the Word of God, the Covenant, Christ
+### (2) Num. 18:8-19, - God's sovereignty, caring for priests and Levites, the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 > And the LORD spake unto Aaron, Behold, I also have given thee the charge of mine heave offerings of all the hallowed things of the children of Israel; unto thee have I given them by reason of the anointing, and to thy sons, by an ordinance for ever. This shall be thine of the most holy things, reserved from the fire: every oblation of theirs, every meat offering of theirs, and every sin offering of theirs, and every trespass offering of theirs, which they shall render unto me, shall be most holy for thee and for thy sons. In the most holy place shalt thou eat it; every male shall eat it: it shall be holy unto thee. And this is thine; the heave offering of their gift, with all the wave offerings of the children of Israel: I have given them unto thee, and to thy sons and to thy daughters with thee, by a statute for ever: every one that is clean in thy house shall eat of it. All the best of the oil, and all the best of the wine, and of the wheat, the firstfruits of them which they shall offer unto the LORD, them have I given thee. And whatsoever is first ripe in the land, which they shall bring unto the LORD, shall be thine; every one that is clean in thine house shall eat of it. Every thing devoted in Israel shall be thine. Every thing that openeth the matrix in all flesh, which they bring unto the LORD, whether it be of men or beasts, shall be thine: nevertheless the firstborn of man shalt thou surely redeem, and the firstling of unclean beasts shalt thou redeem. And those that are to be redeemed from a month old shalt thou redeem, according to thine estimation, for the money of five shekels, after the shekel of the sanctuary, which is twenty gerahs. But the firstling of a cow, or the firstling of a sheep, or the firstling of a goat, thou shalt not redeem; they are holy: thou shalt sprinkle their blood upon the altar, and shalt burn their fat for an offering made by fire, for a sweet savour unto the LORD. And the flesh of them shall be thine, as the wave breast and as the right shoulder are thine. All the heave offerings of the holy things, which the children of Israel offer unto the LORD, have I given thee, and thy sons and thy daughters with thee, by a statute for ever: it is a covenant of salt for ever before the LORD unto thee and to thy seed with thee. (Num. 18:8-19, KJV)
 
 ### (3) Num. 18:20-32 (21), - the first tithe (maaser rishon)
@@ -53,10 +53,10 @@
 > Because that for his name’s sake they went forth, taking nothing of the Gentiles. (3 John 1:7, KJV)
 > What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him? If a brother or sister be naked, and destitute of daily food, And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit? Even so faith, if it hath not works, is dead, being alone. (Jas. 2:14-17, KJV)
 
-- The purpose of tithing N.Z. is the maintenance of Church servants, the knowledge and transmission of the Word of God, the Covenant, Christ, the fulfillment of World Evangelization (Participation in the cause of God, the importance of fulfilling the purpose, glorification and thanksgiving of God, affirmation of participation in God's Covenant)
+- The purpose of tithing N.Z. is the maintenance of Church servants, the knowledge and transmission of the Word of God, the Covenant, Christ, the accomplishment of Worldwide Evangelization (Participation in the cause of God, the importance of fulfilling the purpose, glorification and thanksgiving of God, affirmation of participation in God's Covenant)
 - The place of offering is a local Church
 
-## 4) Human participation in the accomplishment of World Evangelization
+## 4) Human participation in World Evangelization
 
 ### (1) Personal Evangelism – Non-believers, the importance of communication
 
@@ -68,7 +68,7 @@
 
 #### (b) Financial and prayer engagement – supportive
 
-## 5) Num. 19, - affirmation of the Word of God, the Covenant, Christ, the importance of the purification of God's people
+## 5) Num. 19, - affirmation of the Word of God, the Covenant, Christ, the importance of cleansing the people of God
 
 ### (1) Num. 19:1-6, - red heifer (very rare), uniqueness of the victim, type of Christ
 > And the LORD spake unto Moses and unto Aaron, saying, This is the ordinance of the law which the LORD hath commanded, saying, Speak unto the children of Israel, that they bring thee a red heifer without spot, wherein is no blemish, and upon which never came yoke: And ye shall give her unto Eleazar the priest, that he may bring her forth without the camp, and one shall slay her before his face: And Eleazar the priest shall take of her blood with his finger, and sprinkle of her blood directly before the tabernacle of the congregation seven times: And one shall burn the heifer in his sight; her skin, and her flesh, and her blood, with her dung, shall he burn: And the priest shall take cedar wood, and hyssop, and scarlet, and cast it into the midst of the burning of the heifer. (Num. 19:1-6, KJV)
@@ -90,12 +90,12 @@
 > How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God? (Heb. 9:14, KJV)
 > For by one offering he hath perfected for ever them that are sanctified. (Heb. 10:14, KJV)
 
-### (6) The time of purification – reflection, awareness of the Word of God, the Covenant, Christ
+### (6) The time of purification is reflection, awareness of the Word of God, the Covenant, and Christ
 
 ## Conclusion:
 
-### (1) The importance of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ (Understanding the purpose of Canaan, the Disciples, World Evangelization)
+### (1) The importance of the people of God is the knowledge and transmission of the Word of God, the Covenant, and Christ (Understanding the purpose of Canaan, the Disciples, and Worldwide Evangelization)
 
-### (2) The action of Satan is to stop the transmission of the Word of God, the Covenant, Christ (Circumstances, ministers, loved ones)
+### (2) Satan's action is to stop the transmission of the Word of God, the Covenant, Christ (Circumstances, minister, loved ones)
 
-### (3) Worldwide Evangelization, Canaan, the coming of Christ – God sovereignty. (With or without us, it's better to participate)
+### (3) Worldwide Evangelization, Canaan, the coming of Christ – God's sovereignty. (With or without us, it's better to participate)

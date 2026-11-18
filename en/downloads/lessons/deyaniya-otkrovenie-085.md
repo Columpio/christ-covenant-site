@@ -1,5 +1,5 @@
 # Eph. 2
-## 2.1) Eph. 2:1-10, - the importance of understanding the Word of God, the Covenant, Christ
+## 2.1) Eph. 2:1-10, - the importance of understanding the Word of God, the Covenant, and Christ
 > And you hath he quickened, who were dead in trespasses and sins; Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others. But God, who is rich in mercy, for his great love wherewith he loved us, Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;) And hath raised us up together, and made us sit together in heavenly places in Christ Jesus: That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus. For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast. For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them. (Eph. 2:1-10, KJV)
 
 ### (1) Eph. 1:1, - the importance of understanding the spiritual problem Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
@@ -23,7 +23,7 @@
 
 #### (a) S. is a creation, a being with intelligence, will, and emotions
 
-#### (b) The Kingdom of Satan – the air space, the heavenly kingdom
+#### (b) The kingdom of Satan is the air space, the heavenly kingdom
 
 ### (3) Eph. 2:3, - the importance of understanding spiritual reality
 > Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others. (Eph. 2:3, KJV)
@@ -35,14 +35,14 @@
 #### (c) The sinful nature of man (visible). 1 Cor. 2:14
 > But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned. (1 Cor. 2:14, KJV)
 
-### (4) Eph. 2:4-7, - the importance of understanding the Word of God, the Covenant, Christ
+### (4) Eph. 2:4-7, - the importance of understanding the Word of God, the Covenant, and Christ
 > But God, who is rich in mercy, for his great love wherewith he loved us, Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;) And hath raised us up together, and made us sit together in heavenly places in Christ Jesus: That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus. (Eph. 2:4-7, KJV)
 
 #### (a) Eph. 2:4, - the importance of understanding God's great love and mercy for humanity. Rom. 5:8
 > But God, who is rich in mercy, for his great love wherewith he loved us, (Eph. 2:4, KJV)
 > But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us. (Rom. 5:8, KJV)
 
-#### (b) Eph. 2:5, - the importance of accepting the Word of God, the Covenant, Christ, the work of God's grace, salvation, and being born again
+#### (b) Eph. 2:5, - the importance of accepting the Word of God, the Covenant, Christ, the effect of God's grace, salvation, and being born again
 > Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;) (Eph. 2:5, KJV)
 
 #### (c) Eph. 2:6, - the importance of understanding the future, resurrection from the dead, eternal life with God
@@ -51,21 +51,21 @@
 #### (d) Eph. 2:7, - the special importance of understanding God's motives, mercy, love and goodness of God in Christ
 > That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus. (Eph. 2:7, KJV)
 
-### (5) Eph. 2:8-10, - affirmation of the Word of God, the Covenant, Christ
+### (5) Eph. 2:8-10, is the affirmation of the Word of God, the Covenant, and Christ
 > For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast. For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them. (Eph. 2:8-10, KJV)
 
 #### (a) Eph. 2:8, - salvation only through God's gift of faith, the action of God's grace
 > For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: (Eph. 2:8, KJV)
 
-#### (b) Eph. 2:9, - salvation is impossible through the works of man (all religions)
+#### (b) Eph. 2:9, - salvation is impossible through human actions (all religions)
 > Not of works, lest any man should boast. (Eph. 2:9, KJV)
 
 #### (c) Eph. 2:10, - the importance of salvation and being born again (created in Christ Jesus), the importance of understanding and fulfilling the purpose of God's people (good works)
 > For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them. (Eph. 2:10, KJV)
 
-#### (d) The importance of understanding the meaning of good deeds (spiritual, spiritual, physical) – the transmission of the Word of God, the Covenant, Christ
+#### (d) The importance of understanding the meaning of good deeds (spiritual, spiritual, physical) – conveying the Word of God, the Covenant, and Christ
 
-## 2) Eph. 2:11-22, - affirmation of the Word of God, the Covenant, Christ
+## 2) Eph. 2:11-22, - affirmation of the Word of God, the Covenant, of Christ
 > Wherefore remember, that ye being in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands; That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world: But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ. For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us; Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace; And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby: And came and preached peace to you which were afar off, and to them that were nigh. For through him we both have access by one Spirit unto the Father. Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God; And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone; In whom all the building fitly framed together groweth unto an holy temple in the Lord: In whom ye also are builded together for an habitation of God through the Spirit. (Eph. 2:11-22, KJV)
 
 ### (1) Eph. 2:11-13, - the special importance of understanding God's love and mercy, God's impartiality. Rom. 2:11
@@ -78,7 +78,7 @@
 
 #### (c) The importance of God's action to save the Gentiles
 
-### (2) Eph. 2:14-18, - affirmation of the Word of God, the Covenant, Christ
+### (2) Eph. 2:14-18, is the affirmation of the Word of God, the Covenant, and Christ
 > For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us; Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace; And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby: And came and preached peace to you which were afar off, and to them that were nigh. For through him we both have access by one Spirit unto the Father. (Eph. 2:14-18, KJV)
 
 #### (a) Eph. 2:14, - the union of two nations into one through the Sacrifice and Asceticism of Christ (Jews and Gentiles are the people of God)
@@ -94,7 +94,7 @@
 #### (e) Eph. 2:16, - the importance of the Church (one Body), the reconciliation of Jews and Gentiles with God through the Cross (Sacrifice of Christ), the death of humanity's enmity with God through the Cross of Christ
 > And that he might reconcile both unto God in one body by the cross, having slain the enmity thereby: (Eph. 2:16, KJV)
 
-#### (e) Eph. 2:17, - the importance of transmitting the Word of God, the Covenant, Christ, and peace with God to the Gentiles (far away) and to the Jews (near)
+#### (e) Eph. 2:17, - the importance of transmitting the Word of God, the Covenant, Christ, and peace with God for Gentiles (far away) and Jews (near)
 > And came and preached peace to you which were afar off, and to them that were nigh. (Eph. 2:17, KJV)
 
 #### (g) Eph. 2:18, - the importance of Christ, the only access to God the Father in one Spirit (Emmanuel) for Gentiles and Jews. (The heresy of understanding multiple ways of meeting God). John 14:6
@@ -125,7 +125,7 @@
 
 #### (d) Misunderstanding of the true descendants of Abraham, the true Israel – pride, exaltation over other nations. (2000 years people of God – 2000 years Jews – 2000 years Pagans)
 
-### (4) Eph. 2:19-22, - the importance of understanding the Word of God, the Covenant, Christ
+### (4) Eph. 2:19-22, - the importance of understanding the Word of God, the Covenant, and Christ
 > Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God; And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone; In whom all the building fitly framed together groweth unto an holy temple in the Lord: In whom ye also are builded together for an habitation of God through the Spirit. (Eph. 2:19-22, KJV)
 
 #### (a) Eph. 2:19, - the importance of the people of God (citizens of the Kingdom of God who belong to God), the importance of confidence in the forgiveness of all sins and salvation. 1 Pet. 3:15,2 Cor. 13:5
@@ -136,10 +136,10 @@
 #### (b) Eph. 2:20, - the importance of legal entry into the people of God, acceptance of the Word of God, the Covenant, Christ (the teaching of the Apostles, the Sacrifice of Christ)
 > And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone; (Eph. 2:20, KJV)
 
-#### (c) Eph. 2:21, - the importance of the Church, the importance of knowing and transmitting the Word of God, the Covenants, Christ, the disciples, World Evangelization (purpose)
+#### (c) Eph. 2:21, - the importance of the Church, the importance of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization (purpose)
 > In whom all the building fitly framed together groweth unto an holy temple in the Lord: (Eph. 2:21, KJV)
 
-#### (d) Eph. 2:22, - the importance of establishing oneself in the Word of God, the Covenant, Christ (the organization of the Church), the importance of knowing the Word of God, the Covenant, Christ, the importance of fulfilling the purpose (the action of the Holy Spirit)
+#### (d) Eph. 2:22, - the importance of being established in the Word of God, the Covenant, Christ (the organization of the Church), the importance of knowing the Word of God, the Covenant, Christ, the importance of fulfilling the purpose (the action of the Holy Spirit)
 > In whom ye also are builded together for an habitation of God through the Spirit. (Eph. 2:22, KJV)
 
 ## Conclusion:

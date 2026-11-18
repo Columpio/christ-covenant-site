@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,17 +233,17 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>Rom. 9: God's sovereignty, man's destiny</h1>
 <h2 id="s1">9.1) Rom. 9, - Understanding God's sovereignty and salvation</h2>
-<h3>(1) Rom. 9:1-5, - understanding the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization, preparation for the coming of Christ – Canaan, the Law, the Tabernacle, the Temple) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9</h3>
+<h3>(1) Rom. 9:1-5, - understanding the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ – Canaan, the Law, the Tabernacle, the Temple) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9</h3>
 <blockquote data-v="kjv"><p>I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost, That I have great heaviness and continual sorrow in my heart. For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh: Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises; Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen.</p><cite>Rom. 9:1-5 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>I speak the truth in Christ; I am not lying, as confirmed by my conscience in the Holy Spirit. I have deep sorrow and unceasing anguish in my heart. For I could wish that I myself were cursed and cut off from Christ for the sake of my brothers, my own flesh and blood, the people of Israel. Theirs is the adoption as sons; theirs the divine glory and the covenants; theirs the giving of the law, the temple worship, and the promises. Theirs are the patriarchs, and from them proceeds the human descent of Christ, who is God over all, forever worthy of praise! Amen.</p><cite>Rom. 9:1-5 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I tell the truth in Christ. I am not lying, my conscience testifying with me in the Holy Spirit that I have great sorrow and unceasing pain in my heart. For I could wish that I myself were accursed from Christ for my brothers’ sake, my relatives according to the flesh who are Israelites; whose is the adoption, the glory, the covenants, the giving of the law, the service, and the promises; of whom are the fathers, and from whom is Christ as concerning the flesh, who is over all, God, blessed forever. Amen.</p><cite>Rom. 9:1-5 · WEB</cite></blockquote>
@@ -357,7 +359,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>So it is not the children of the flesh who are God’s children, but it is the children of the promise who are regarded as offspring. For this is what the promise stated: “At the appointed time I will return, and Sarah will have a son.”</p><cite>Rom. 9:8-9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>That is, it is not the children of the flesh who are children of God, but the children of the promise are counted as heirs. For this is a word of promise: “At the appointed time I will come, and Sarah will have a son.”</p><cite>Rom. 9:8-9 · WEB</cite></blockquote>
 <h4>(a) Ishmael – rejection of the Word of God, the Covenant, Christ, a choice confirmed by human life</h4>
-<h4>(b) Isaac - acceptance of the Word of God, the Covenant, Christ, a choice confirmed by human life</h4>
+<h4>(b) Isaac – acceptance of the Word of God, the Covenant, Christ, a choice confirmed by human life</h4>
 <h3>(2) Rom. 9:10-14, - God's sovereignty, the election of Jacob</h3>
 <blockquote data-v="kjv"><p>And not only this; but when Rebecca also had conceived by one, even by our father Isaac; (For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;) It was said unto her, The elder shall serve the younger. As it is written, Jacob have I loved, but Esau have I hated. What shall we say then? Is there unrighteousness with God? God forbid.</p><cite>Rom. 9:10-14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Not only that, but Rebecca’s children were conceived by one man, our father Isaac. Yet before the twins were born or had done anything good or bad, in order that God’s plan of election might stand, not by works but by Him who calls, she was told, “The older will serve the younger.” So it is written: “Jacob I loved, but Esau I hated.” What then shall we say? Is God unjust? Certainly not!</p><cite>Rom. 9:10-14 · BSB</cite></blockquote>
@@ -366,13 +368,13 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Lest there be any fornicator, or profane person, as Esau, who for one morsel of meat sold his birthright. For ye know how that afterward, when he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears.</p><cite>Heb. 12:16-17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>See to it that no one is sexually immoral, or is godless like Esau, who for a single meal sold his birthright. For you know that afterward, when he wanted to inherit the blessing, he was rejected. He could find no ground for repentance, though he sought the blessing with tears.</p><cite>Heb. 12:16-17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>lest there be any sexually immoral person or profane person, like Esau, who sold his birthright for one meal. For you know that even when he afterward desired to inherit the blessing, he was rejected, for he found no place for a change of mind though he sought it diligently with tears.</p><cite>Heb. 12:16-17 · WEB</cite></blockquote>
-<h4>(b) Jacob - acceptance of the Word of God, the Covenant, Christ, a choice confirmed by human life</h4>
+<h4>(b) James – acceptance of the Word of God, the Covenant, Christ, a choice confirmed by human life</h4>
 <h4>(c) The importance of understanding God's absolute justice</h4>
 <h3>(3) Rom. 9:15-16, - God's sovereignty, God's justice</h3>
 <blockquote data-v="kjv"><p>For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion. So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.</p><cite>Rom. 9:15-16 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For He says to Moses: “I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.” So then, it does not depend on man’s desire or effort, but on God’s mercy.</p><cite>Rom. 9:15-16 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For he said to Moses, “I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.” So then it is not of him who wills, nor of him who runs, but of God who has mercy.</p><cite>Rom. 9:15-16 · WEB</cite></blockquote>
-<h4>(a) The meaning of God's love and mercy for man – the Word of God, the Covenant, Christ</h4>
+<h4>(a) The meaning of God's love and mercy for man is the Word of God, the Covenant, Christ</h4>
 <h4>(b) The importance of understanding God's foreknowledge and the operation of God's grace. Rev. 3:20,John 6:44, 65; 15:5</h4>
 <blockquote data-v="kjv"><p>Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.</p><cite>Rev. 3:20 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Behold, I stand at the door and knock. If anyone hears My voice and opens the door, I will come in and dine with him, and he with Me.</p><cite>Rev. 3:20 · BSB</cite></blockquote>
@@ -401,21 +403,21 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>who wants everyone to be saved and to come to the knowledge of the truth.</p><cite>1 Tim. 2:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>who desires all people to be saved and come to full knowledge of the truth.</p><cite>1 Tim. 2:4 · WEB</cite></blockquote>
 <h4>(b) The importance of understanding God's foreknowledge and man's fate (Man's hardening is Satan's permission to act, man's choice)</h4>
-<h4>(c) The importance of understanding a person's responsibility in following God and their destiny. Acts 13:43,Heb. 2:1</h4>
+<h4>(c) The importance of understanding human responsibility in relation to following God and one's destiny. Acts 13:43,Heb. 2:1</h4>
 <blockquote data-v="kjv"><p>Now when the congregation was broken up, many of the Jews and religious proselytes followed Paul and Barnabas: who, speaking to them, persuaded them to continue in the grace of God.</p><cite>Acts 13:43 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>After the synagogue was dismissed, many of the Jews and devout converts to Judaism followed Paul and Barnabas, who spoke to them and urged them to continue in the grace of God.</p><cite>Acts 13:43 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now when the synagogue broke up, many of the Jews and of the devout proselytes followed Paul and Barnabas; who, speaking to them, urged them to continue in the grace of God.</p><cite>Acts 13:43 · WEB</cite></blockquote>
 <blockquote data-v="kjv"><p>Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip.</p><cite>Heb. 2:1 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>We must pay closer attention, therefore, to what we have heard, so that we do not drift away.</p><cite>Heb. 2:1 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Therefore we ought to pay greater attention to the things that were heard, lest perhaps we drift away.</p><cite>Heb. 2:1 · WEB</cite></blockquote>
-<h4>(d) Affirmation of God's foreknowledge, election, and destiny – a choice confirmed by a person's life (a person's responsibility)</h4>
+<h4>(d) Affirmation of God's foreknowledge, election, and destiny – a choice confirmed by human life (human responsibility)</h4>
 <h3>(6) Rom. 9:21-24, - The importance of understanding God's sovereignty</h3>
 <blockquote data-v="kjv"><p>Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour? What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction: And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory, Even us, whom he hath called, not of the Jews only, but also of the Gentiles?</p><cite>Rom. 9:21-24 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Does not the potter have the right to make from the same lump of clay one vessel for special occasions and another for common use? What if God, intending to show His wrath and make His power known, bore with great patience the vessels of His wrath, prepared for destruction? What if He did this to make the riches of His glory known to the vessels of His mercy, whom He prepared in advance for glory— including us, whom He has called not only from the Jews, but also from the Gentiles?</p><cite>Rom. 9:21-24 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Or hasn’t the potter a right over the clay, from the same lump to make one part a vessel for honor, and another for dishonor? What if God, willing to show his wrath and to make his power known, endured with much patience vessels of wrath prepared for destruction, and that he might make known the riches of his glory on vessels of mercy, which he prepared beforehand for glory— us, whom he also called, not from the Jews only, but also from the Gentiles?</p><cite>Rom. 9:21-24 · WEB</cite></blockquote>
 <h4>(a) All people are God's creations, the same clay</h4>
-<h4>(b) Vessels of high use – acceptance of the Word of God, the Covenant, Christ, the children of God, God's foreknowledge and election (Abraham, Paul)</h4>
-<h4>(c) Vessels of low use – rejection of the Word of God, the Covenant, Christ, the children of the devil, God's foreknowledge and election (Pharaoh, Judas). Ps. 73</h4>
+<h4>(b) Vessels of high use – acceptance of the Word of God, the Covenant, Christ, children of God, God's foreknowledge and election (Abraham, Paul)</h4>
+<h4>(c) Vessels of low use – rejection of the Word of God, the Covenant, Christ, children of the devil, God's foreknowledge and election (Pharaoh, Judas). Ps. 73</h4>
 <h4>(d) All people and all creation serve God regardless of their desire – an understanding of God's Dominion and Omnipotence</h4>
 <h4>(e) The importance of understanding God's patience is the desire for human repentance. 2 Pet. 3:9,2 Cor. 5:19-21</h4>
 <blockquote data-v="kjv"><p>The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.</p><cite>2 Pet. 3:9 · KJV</cite></blockquote>
@@ -425,7 +427,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>that God was reconciling the world to Himself in Christ, not counting men’s trespasses against them. And He has committed to us the message of reconciliation. Therefore we are ambassadors for Christ, as though God were making His appeal through us. We implore you on behalf of Christ: Be reconciled to God. God made Him who knew no sin to be sin on our behalf, so that in Him we might become the righteousness of God.</p><cite>2 Cor. 5:19-21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>namely, that God was in Christ reconciling the world to himself, not reckoning to them their trespasses, and having committed to us the word of reconciliation. We are therefore ambassadors on behalf of Christ, as though God were entreating by us: we beg you on behalf of Christ, be reconciled to God. For him who knew no sin he made to be sin on our behalf, so that in him we might become the righteousness of God.</p><cite>2 Cor. 5:19-21 · WEB</cite></blockquote>
 <h4>(f) The importance of understanding the purpose and meaning of human life – choosing eternal life (with whom? and where?)</h4>
-<h4>(g) The importance of understanding the unchanging judgment of God, understanding the inevitable fulfillment of the Word of God Rom. 6:23</h4>
+<h4>(g) The importance of understanding the unchanging judgment of God, understanding the inevitable fulfillment of God's Word Rom. 6:23</h4>
 <blockquote data-v="kjv"><p>For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.</p><cite>Rom. 6:23 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.</p><cite>Rom. 6:23 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.</p><cite>Rom. 6:23 · WEB</cite></blockquote>
@@ -433,7 +435,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Even us, whom he hath called, not of the Jews only, but also of the Gentiles? As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved. And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God. Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved: For he will finish the work, and cut it short in righteousness: because a short work will the Lord make upon the earth. And as Esaias said before, Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha. What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed.</p><cite>Rom. 9:24-33 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>including us, whom He has called not only from the Jews, but also from the Gentiles? As He says in Hosea: “I will call them ‘My People’ who are not My people, and I will call her ‘My Beloved’ who is not My beloved,” and, “It will happen that in the very place where it was said to them, ‘You are not My people,’ they will be called ‘sons of the living God.’” Isaiah cries out concerning Israel: “Though the number of the Israelites is like the sand of the sea, only the remnant will be saved. For the Lord will carry out His sentence on the earth thoroughly and decisively.” It is just as Isaiah foretold: “Unless the Lord of Hosts had left us descendants, we would have become like Sodom, we would have resembled Gomorrah.” What then will we say? That the Gentiles, who did not pursue righteousness, have obtained it, a righteousness that is by faith; but Israel, who pursued a law of righteousness, has not attained it. Why not? Because their pursuit was not by faith, but as if it were by works. They stumbled over the stumbling stone, as it is written: “See, I lay in Zion a stone of stumbling and a rock of offense; and the one who believes in Him will never be put to shame.”</p><cite>Rom. 9:24-33 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>us, whom he also called, not from the Jews only, but also from the Gentiles? As he says also in Hosea, “I will call them ‘my people,’ which were not my people; and her ‘beloved,’ who was not beloved.” “It will be that in the place where it was said to them, ‘You are not my people,’ there they will be called ‘children of the living God.’” Isaiah cries concerning Israel, “If the number of the children of Israel are as the sand of the sea, it is the remnant who will be saved; for he will finish the work and cut it short in righteousness, because the Lord will make a short work upon the earth.” As Isaiah has said before, “Unless the Lord of Armies had left us a seed, we would have become like Sodom, and would have been made like Gomorrah.” What shall we say then? That the Gentiles, who didn’t follow after righteousness, attained to righteousness, even the righteousness which is of faith; but Israel, following after a law of righteousness, didn’t arrive at the law of righteousness. Why? Because they didn’t seek it by faith, but as it were by works of the law. They stumbled over the stumbling stone, even as it is written, “Behold, I lay in Zion a stumbling stone and a rock of offense; and no one who believes in him will be disappointed.”</p><cite>Rom. 9:24-33 · WEB</cite></blockquote>
-<h3>(1) Rom. 9:24-29 (27), - God's understanding of the people (Jews and Gentiles)</h3>
+<h3>(1) Rom. 9:24-29 (27), - understanding of God's people (Jews and Gentiles)</h3>
 <blockquote data-v="kjv"><p>Even us, whom he hath called, not of the Jews only, but also of the Gentiles? As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved. And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God. Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved: For he will finish the work, and cut it short in righteousness: because a short work will the Lord make upon the earth. And as Esaias said before, Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha.</p><cite>Rom. 9:24-29 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>including us, whom He has called not only from the Jews, but also from the Gentiles? As He says in Hosea: “I will call them ‘My People’ who are not My people, and I will call her ‘My Beloved’ who is not My beloved,” and, “It will happen that in the very place where it was said to them, ‘You are not My people,’ they will be called ‘sons of the living God.’” Isaiah cries out concerning Israel: “Though the number of the Israelites is like the sand of the sea, only the remnant will be saved. For the Lord will carry out His sentence on the earth thoroughly and decisively.” It is just as Isaiah foretold: “Unless the Lord of Hosts had left us descendants, we would have become like Sodom, we would have resembled Gomorrah.”</p><cite>Rom. 9:24-29 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>us, whom he also called, not from the Jews only, but also from the Gentiles? As he says also in Hosea, “I will call them ‘my people,’ which were not my people; and her ‘beloved,’ who was not beloved.” “It will be that in the place where it was said to them, ‘You are not my people,’ there they will be called ‘children of the living God.’” Isaiah cries concerning Israel, “If the number of the children of Israel are as the sand of the sea, it is the remnant who will be saved; for he will finish the work and cut it short in righteousness, because the Lord will make a short work upon the earth.” As Isaiah has said before, “Unless the Lord of Armies had left us a seed, we would have become like Sodom, and would have been made like Gomorrah.”</p><cite>Rom. 9:24-29 · WEB</cite></blockquote>
@@ -449,11 +451,11 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>What then will we say? That the Gentiles, who did not pursue righteousness, have obtained it, a righteousness that is by faith; but Israel, who pursued a law of righteousness, has not attained it. Why not? Because their pursuit was not by faith, but as if it were by works. They stumbled over the stumbling stone, as it is written: “See, I lay in Zion a stone of stumbling and a rock of offense; and the one who believes in Him will never be put to shame.”</p><cite>Rom. 9:30-33 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>What shall we say then? That the Gentiles, who didn’t follow after righteousness, attained to righteousness, even the righteousness which is of faith; but Israel, following after a law of righteousness, didn’t arrive at the law of righteousness. Why? Because they didn’t seek it by faith, but as it were by works of the law. They stumbled over the stumbling stone, even as it is written, “Behold, I lay in Zion a stumbling stone and a rock of offense; and no one who believes in him will be disappointed.”</p><cite>Rom. 9:30-33 · WEB</cite></blockquote>
 <h4>(a) Acceptance of the Word of God, the Covenant, Christ, the Good News – Gentiles</h4>
-<h4>(b) Non–acceptance of the Word of God, the Covenant, Christ, the works of the Law - Jews</h4>
+<h4>(b) Rejection of the Word of God, the Covenant, Christ, and the work of the law – Jews</h4>
 <h4>(c) The importance of accepting the true righteousness of God – accepting the Sacrifice and Work of Christ, righteousness by faith</h4>
-<h4>(d) Understanding the work of Satan – resisting the Word of God, the Covenant, Christ</h4>
+<h4>(d) Understanding the work of Satan – resisting the Word of God, the Covenant, and Christ</h4>
 <h2 id="s4">Conclusion:</h2>
-<h3>(1) The importance of understanding and fulfilling the destiny of the people of God (Knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ)</h3>
+<h3>(1) The importance of understanding and fulfilling the destiny of God's people (Knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ)</h3>
 <h3>(2) The importance of understanding the true descendants of Abraham</h3>
 <h3>(3) The importance of understanding God's Foreknowledge and Election</h3>
 <h3>(4) The importance of understanding God's conditions for human salvation</h3>

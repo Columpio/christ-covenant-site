@@ -1,6 +1,6 @@
 # 19. Understanding Salvation, Rebirth, and the Baptism of the Holy Spirit in the Old Testament
 
-## 1) Salvation is Emmanuel, God together with man. Rom. 8:2. (Rebirth, restoration to the original form, lawful liberation from the power of sin, death and hell, Satan)
+## 1) Salvation is Emmanuel, God together with man. Rom. 8:2. (Rebirth, restoration to the original form, legitimate liberation from the power of sin, death and hell, Satan)
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
 
 ### (1) Gen. 1:27; 2:7, 16-17; 1:28, - The Word of God, the Covenant, Christ, Emmanuel
@@ -35,13 +35,13 @@
 ### (3) Personal transgressions (past, present and future) Col. 2:13
 > And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses; (Col. 2:13, KJV)
 
-## 3) The importance of accepting the Word of God, the Covenant, Christ
+## 3) The importance of accepting the Word of God, the Covenant, and Christ
 
-### (1) The atonement of all the sins of all people is the legitimate basis for the forgiveness of every person (execution of the sentence of the Word of God)
+### (1) The atonement of all the sins of all people is the legitimate basis for the forgiveness of every human being (fulfillment of the sentence of the Word of God)
 
 ### (2) Redemption without forgiveness is not effective for man. (Atonement is the legitimate basis for human forgiveness)
 
-### (3) Forgiveness is the acceptance of the Word of God, the Covenant, Christ, the confession of man
+### (3) Forgiveness is the acceptance of the Word of God, the Covenant, of Christ, and the confession of man.
 
 #### (a) Who is Christ? – acceptance of the Divinity of Christ
 
@@ -102,8 +102,8 @@
 > But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned. (1 Cor. 2:14, KJV)
 > But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his. (Rom. 8:9, KJV)
 
-## 5) Understanding Salvation and Baptism Holy Spirit Salvation is the Holy Spirit in man. (Salvation is Emmanuel, God together with man, rebirth, restoration to his original form, lawful liberation from the power of sin, death and hell, Satan)
-- Baptism of the Holy Spirit is the Holy Spirit on a person. (Accepting the power of God to know and transmit the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization, preparation for the coming of Christ, fulfillment of God's will)
+## 5) Understanding salvation and the Baptism of the Holy Spirit Salvation is the Holy Spirit in man. (Salvation is Emmanuel, God together with man, rebirth, restoration to his original form, lawful liberation from the power of sin, death and hell, Satan)
+- The baptism of the Holy Spirit is the Holy Spirit on a person. (Accepting the power of God to know and transmit the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparing for the coming of Christ, fulfilling God's will)
 
 ### (1) V.Z. – The Holy Spirit in believers (salvation, rebirth), and only on selected people (the power of God – kings, priests, prophets) 1 Pet. 1:10-11,Acts 10:43, - Judg. 3:10; 11:29,1 Sam. 10:9-10; 16:13, 2 Kgs. 2:9, 15,Isa. 61:1,Luke 2:25
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
@@ -121,7 +121,7 @@
 > And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham. (Luke 19:9, KJV)
 > (But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet given; because that Jesus was not yet glorified.) (John 7:39, KJV)
 
-### (3) N.Z. – The Holy Spirit in believers (salvation, rebirth), and on all believers (the power of God to know and transmit the Word of God, the Covenants, Christ – kings, priests, prophets). Acts 1:8
+### (3) N.Z. – The Holy Spirit in believers (salvation, rebirth), and on all believers (the power of God to know and transmit the Word of God, the Covenant, Christ – kings, priests, prophets). Acts 1:8
 > But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth. (Acts 1:8, KJV)
 
 ## Conclusion:
@@ -132,4 +132,4 @@
 
 ### (3) The importance of confidence in salvation and forgiveness of all sins, Emmanuel
 
-### (4) The importance of knowing and transmitting the Word of God, the Covenant, Christ - fulfillment of purpose, establishment in the Word of God, the Covenant, Christ
+### (4) The importance of knowing and transmitting the Word of God, the Covenant, and Christ – fulfilling a purpose, establishing oneself in the Word of God, the Covenant, and Christ

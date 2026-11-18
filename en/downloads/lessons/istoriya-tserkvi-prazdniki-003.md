@@ -2,7 +2,7 @@
 
 ## 1) The importance of the Word of God, the Covenant, and Christ for man
 
-### (1) The purpose of God's people is to know and transmit the Word of God, the Covenant, Christ, and to preserve the purity of teaching. Matt. 28:19-20
+### (1) The purpose of God's people is to know and transmit the Word of God, the Covenant, and Christ, and to preserve the purity of teaching. Matt. 28:19-20
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
 
 ### (2) The Bible is the written Word of God, the book of the Covenant of God 2 Pet. 1:20-21,2 Tim. 3:16,1 Thess. 2:13
@@ -16,7 +16,7 @@
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 > For there is one God, and one mediator between God and men, the man Christ Jesus; (1 Tim. 2:5, KJV)
 
-### (5) Understanding the Bible – Bringing out Christ in the Word of God John 5:39
+### (5) Understanding the Bible – to reveal Christ in the Word of God John 5:39
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 
 ### (6) The difficulty in understanding the Bible is the spiritual book, God's sovereignty. (The mystery of Christ, the importance of Ts, the impossibility of self-understanding)
@@ -48,7 +48,7 @@
 
 ### (1) The Meaning of N.Z. (27 books), - the coming Christ (Jesus of Nazareth, the son of Mary is Christ – God in the flesh) and His All-sufficient Sacrifice (the Cross of Calvary)
 
-### (2) Canon of N.Z. – God's sovereignty, multiple councils of the people of God from 70 to 397 A.D., analysis and selection of books for conformity with the Word of God, the Covenant, Christ, the absence of contradictions, the final Council of Carthage, the adoption of the canon of N.Z., the unanimous opinion of the Church. (An example of the apocrypha is that Christ had a wife and children, etc.)
+### (2) Canon of N.Z. – God's sovereignty, multiple councils of the people of God from 70 to 397 A.D., analysis and selection of books for compliance with the Word of God, the Covenant, Christ, the absence of contradictions, the final Council of Carthage, the adoption of the canon of N.Z., the unanimous opinion of the Church. (An example of the apocrypha is that Christ had a wife and children, etc.)
 
 ### (3) N.Z. is written in Greek, one of the main languages in the Roman Empire (Greek and Latin)
 
@@ -60,7 +60,7 @@
 
 ### (3) Catholicism and Orthodoxy – the books of the traditions of the Church fathers are higher than the books of the Bible (human inventions)
 
-### (4) The lack of systematic and consistent Bible study from the perspective of the Covenant, Christ
+### (4) The lack of systematic and consistent study of the Bible from the perspective of the Covenant, Christ
 
 ## 5) The right attitude to the Bible
 
@@ -68,19 +68,19 @@
 
 ### (2) The Bible is above the traditions and writings of teachers
 
-### (3) Systematic, consistent study of the Word of God from the perspective of the Covenant, Christ is the basis of Worship for the Church of Christ
+### (3) Systematic, consistent study of the Word of God from the perspective of the Covenant, of Christ, is the basis of Worship for the Church of Christ
 
-### (4) The interpretation of Scripture is only by Scripture. (The help of Theological books, the conformity of the Word of God, the opinion of man)
+### (4) The interpretation of Scripture is only by Scripture. (Help from Theological books, conformity to the Word of God, human opinion)
 
 ## 6) The Importance of proper Bible Study
 
-### (1) The importance of understanding the Bible from the perspective of the Covenant, Christ
+### (1) The importance of understanding the Bible from the perspective of the Covenant, of Christ
 
 #### (a) God's teaching system is God's order of the books of the Bible
 
 #### (b) Simplicity and consistency, accessibility, free of charge
 
-### (2) Lack of understanding of the Bible from the standpoint of the Covenant, Christ
+### (2) Lack of understanding of the Bible from the perspective of the Covenant, of Christ
 
 #### (a) The absence of God's teaching system – traditions, rituals, "his sermons"
 
@@ -94,22 +94,22 @@
 
 ### (3) The importance of understanding the Fall (human sinfulness)
 
-### (4) The importance of accepting the Divinity of Christ and the All–sufficiency of His Sacrifice - the solution to all human problems, the importance of understanding Restoration (the right to choose)
+### (4) The importance of accepting the Divinity of Christ and the All–sufficiency of His Sacrifice is the solution to all human problems, the importance of understanding Restoration (the right to choose)
 
-### (5) The importance of understanding Religion is an attempt to earn salvation through deeds and efforts, and a failure to accept the Divinity and All–sufficiency of Christ's Sacrifice for human salvation. (The importance of understanding Satan's actions – the distortion of God's Word)
+### (5) The importance of understanding Religion is an attempt to earn salvation through deeds and efforts, not accepting the Divinity and All–sufficiency of Christ's Sacrifice for human salvation. (The importance of understanding Satan's actions is the distortion of God's Word)
 
-### (6) The importance of knowing and transmitting the Word of God, the Covenant, Christ (the disciples), preserving the purity of teaching (the destiny of God's people), the importance of Emmanuel (God and man together)
+### (6) The importance of knowing and transmitting the Word of God, the Covenant, and Christ (the disciples), preserving the purity of teaching (the destiny of God's people), and the importance of Emmanuel (God and man together)
 
-### (7) The importance of sanctifying a person through the knowledge and transmission of the Word of God, the Covenant, Christ – a life-changing opportunity to serve God and man
+### (7) The importance of sanctifying a person through the knowledge and transmission of the Word of God, the Covenant, and Christ – a life-changing opportunity to serve God and man
 
 ### (8) The importance of understanding the Second Coming of Jesus Christ, the resurrection of the dead, the 1000th Kingdom, the Last Judgment, the life of the next century (understanding the past, present and future)
 
 ## 8) The Importance of Bible Study – The Faith of God
-- God's Faith is the correct understanding and fulfillment of the Word of God, the Covenant, Christ Mark 11:23
+- God's Faith is the correct understanding and fulfillment of God's Word, Covenant, and Christ Mark 11:23
 
 > For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith. (Mark 11:23, KJV)
 
-- Human faith is a misunderstanding and fulfillment of the Word of God, the Covenant, Christ
+- Human faith is a misunderstanding and fulfillment of the Word of God, the Covenant, and Christ.
 - A Proper understanding of God's Faith
 
 ### (1) The faith of God is the gift of God, the action of God's grace, hearing and accepting the Word of God, the Covenant, Christ, the right to choose and the responsibility of man Rom. 10:17; 12:3,1 Cor. 3:5,Heb. 12:2
@@ -127,13 +127,13 @@
 
 #### (b) N.Z. – faith in Jesus of Nazareth as Christ and His Sacrifice for all human sins (past, present, future)
 
-### (4) The level and power of God's faith – knowledge and transmission of the Word of God, the Covenant, Christ, fulfillment of destiny
+### (4) The level and power of God's faith is the knowledge and transmission of God's Word, Covenant, Christ, and fulfillment of destiny
 
-## 9) The importance of understanding the effect of the Word of God on man
+## 9) The importance of understanding the effect of God's Word on man
 
-### (1) Natural operation of the Word of God - understanding the Word of God, the Covenant, Christ, God's will, the purpose of God's people, God's laws, God's wisdom, etc.
+### (1) The natural action of the Word of God is understanding the Word of God, the Covenant, Christ, God's will, the purpose of God's people, God's laws, God's wisdom, etc.
 
-### (2) The supernatural action of the Word of God is the rebirth and change of man (ideology, value system – thoughts – actions), the power to serve God and man, the healing of man (spirit, soul and body), etc.
+### (2) The supernatural effect of the Word of God is the rebirth and change of man (ideology, value system – thoughts – actions), the power to serve God and man, the healing of man (spirit, soul and body), etc.
 
 ## 10) The purpose of writing the Bible
 
@@ -154,6 +154,6 @@
 
 ### (2) Understanding the Word of God, the Covenant, Christ – understanding God
 
-### (3) Acceptance (obedience) The Word of God, the Covenant, Christ – the acceptance of God
+### (3) Acceptance (obedience) The Words of God, the Covenant, Christ – the acceptance of God
 
-### (4) The action of Satan is to resist, distort the Word of God (the right of choice of a person)
+### (4) The action of Satan is to resist, distort the Word of God (the right to choose a person)

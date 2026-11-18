@@ -1,6 +1,6 @@
 # 21. Understanding the stages of human salvation, understanding the possibility of falling away from God
 
-## 1) Salvation is Emmanuel, God together with man. Rom. 8:2. (Rebirth, restoration to the original form, lawful liberation from the power of sin, death and hell, Satan)
+## 1) Salvation is Emmanuel, God together with man. Rom. 8:2. (Rebirth, restoration to the original form, legitimate liberation from the power of sin, death and hell, Satan)
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
 
 ### (1) Gen. 1:27; 2:7, 16-17; 1:28, - The Word of God, the Covenant, Christ, Emmanuel
@@ -40,7 +40,7 @@
 
 ## 3) Stages of human salvation from the perspective of time
 
-### (1) Man is saved (perfect timing, fait accompli) – acceptance of the Word of God, the Covenant, Christ, certainty of salvation Luke 19:9,John 1:12; 3:36; 5:24; 6:47,1 John 5:13,Rom. 8:24, 1 Cor. 3:16; 6:15, 20, 2 Cor. 5:17,Eph. 2:8-9, 19,Col. 1:13,Titus 3:5
+### (1) Man is saved (perfect timing, fait accompli) – acceptance of the Word of God, the Covenant, Christ, confidence in salvation Luke 19:9,John 1:12; 3:36; 5:24; 6:47,1 John 5:13,Rom. 8:24, 1 Cor. 3:16; 6:15, 20, 2 Cor. 5:17,Eph. 2:8-9, 19,Col. 1:13,Titus 3:5
 > And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham. (Luke 19:9, KJV)
 > But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name: (John 1:12, KJV)
 > He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him. (John 3:36, KJV)
@@ -86,8 +86,8 @@
 > My sheep hear my voice, and I know them, and they follow me: And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand. (John 10:27-28, KJV)
 
 ## 4) Understanding the possibility of falling away from God
-- "Sin to death" – non-acceptance and life outside the Word of God, the Covenant, Christ
-- "Sin does not lead to death" is a violation of the institutions of the Word of God, the commandments of God, i.e. wrong thoughts, emotions, actions are a consequence of sin, the sinful essence of man
+- "Sin to death" – non-acceptance and living outside the Word of God, the Covenant, and Christ
+- "Sin does not lead to death" is a violation of the provisions of the Word of God, the commandments of God, i.e. wrong thoughts, emotions, actions are a consequence of sin, the sinful essence of man
 
 ### (1) Open rejection of Christ – rejection of the Word of God, the Covenant, Christ
 
@@ -101,7 +101,7 @@
 #### (b) Mammon, family is a conscious choice of a person
 - Examples – Stephen, all the Apostles
 
-### (2) Other teachings are the rejection of the Word of God, the Covenant, Christ, and the Sacrifice of Christ. (God's condition for salvation is acceptance and preservation of faith in Christ)
+### (2) Other teachings are the rejection of the Word of God, the Covenant, Christ, and the Sacrifice of Christ. (God's condition for salvation is the acceptance and preservation of faith in Christ)
 
 #### (a) The rejection of Jesus Christ as the True and Holy God. (The heresy of Arianism, modern Jehovah's Witnesses)
 
@@ -116,7 +116,7 @@
 #### (a) Heb. 10:26, - rejection of the Word of God, the Covenant, Christ, sin to death. (Arbitrary, conscious sin – thoughts, emotions, actions – sins not leading to death, there is no Sacrifice, the meaninglessness of God's faith is a complete contradiction of God's Word)
 > For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins, (Heb. 10:26, KJV)
 
-#### (b) 1 Cor. 6:9-11, - ideology, purpose and meaning of life before accepting the Word of God, the Testament, Christ
+#### (b) 1 Cor. 6:9-11, - ideology, purpose, and meaning of life before accepting the Word of God, the Covenant, and Christ
 > Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind, Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God. And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God. (1 Cor. 6:9-11, KJV)
 
 #### (c) Gal. 5:16-21,1 Cor. 5:9-11 (1 John 1:8,Jas. 3:2; 2:10), - ideology, purpose and meaning of human life
@@ -134,4 +134,4 @@
 
 ### (3) The importance of understanding the possibility of renouncing God
 
-### (4) The importance of explaining the Word of God, the Covenant, Christ, and the purpose of the Church. (Knowledge, transmission of the Word of God, the Covenant, Christ, World Evangelization, Disciples, the coming of Christ)
+### (4) The importance of clarifying the Word of God, the Covenant, Christ, and the purpose of the Church. (Knowledge, transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, disciples, the coming of Christ)

@@ -1,6 +1,6 @@
 # 10. 1 Sam. 23–26: David's training and upbringing
 
-## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -12,7 +12,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-## 2) 1 Sam. 23, - the importance of conveying the Word of God, the Covenant, Christ
+## 2) 1 Sam. 23, - the importance of conveying the Word of God, the Covenant, and Christ
 
 ### (1) 1 Sam. 23:1-6, - spiritual warfare, the importance of fulfilling the destiny of God's people (constant attacks by the enemy)
 > Then they told David, saying, Behold, the Philistines fight against Keilah, and they rob the threshingfloors. Therefore David enquired of the LORD, saying, Shall I go and smite these Philistines? And the LORD said unto David, Go, and smite the Philistines, and save Keilah. And David’s men said unto him, Behold, we be afraid here in Judah: how much more then if we come to Keilah against the armies of the Philistines? Then David enquired of the LORD yet again. And the LORD answered him and said, Arise, go down to Keilah; for I will deliver the Philistines into thine hand. So David and his men went to Keilah, and fought with the Philistines, and brought away their cattle, and smote them with a great slaughter. So David saved the inhabitants of Keilah. And it came to pass, when Abiathar the son of Ahimelech fled to David to Keilah, that he came down with an ephod in his hand. (1 Sam. 23:1-6, KJV)
@@ -37,24 +37,24 @@
 ### (2) 1 Sam. 24:6, - the importance of understanding the status of Saul (God's anointed), a saved child of God
 > And he said unto his men, The LORD forbid that I should do this thing unto my master, the LORD’s anointed, to stretch forth mine hand against him, seeing he is the anointed of the LORD. (1 Sam. 24:6, KJV)
 
-### (3) 1 Sam. 24:14-15, - the importance of understanding the work of Satan from the outside on the people of God, the importance of staying in the Word of God, the Covenant, Christ
+### (3) 1 Sam. 24:14-15, - the importance of understanding the work of Satan from the outside on the people of God, the importance of remaining in the Word of God, the Covenant, Christ
 > After whom is the king of Israel come out? after whom dost thou pursue? after a dead dog, after a flea. The LORD therefore be judge, and judge between me and thee, and see, and plead my cause, and deliver me out of thine hand. (1 Sam. 24:14-15, KJV)
 
 #### (a) The seduction of Saul and the seduction of David in the future
 
-#### (b) The importance of stopping the transmission of the Word of God, the Covenant, the Christ – motives of Satan
+#### (b) The importance of stopping the transmission of the Word of God, the Covenant, and Christ – Satan's motives
 
 ### (4) 1 Sam. 24:16-22, - Saul's repentance, an act of God
 > And it came to pass, when David had made an end of speaking these words unto Saul, that Saul said, Is this thy voice, my son David? And Saul lifted up his voice, and wept. And he said to David, Thou art more righteous than I: for thou hast rewarded me good, whereas I have rewarded thee evil. And thou hast shewed this day how that thou hast dealt well with me: forasmuch as when the LORD had delivered me into thine hand, thou killedst me not. For if a man find his enemy, will he let him go well away? wherefore the LORD reward thee good for that thou hast done unto me this day. And now, behold, I know well that thou shalt surely be king, and that the kingdom of Israel shall be established in thine hand. Swear now therefore unto me by the LORD, that thou wilt not cut off my seed after me, and that thou wilt not destroy my name out of my father’s house. And David sware unto Saul. And Saul went home; but David and his men gat them up unto the hold. (1 Sam. 24:16-22, KJV)
 
-## 4) 1 Sam. 25, - the importance of accepting the Word of God, the Covenant, Christ
+## 4) 1 Sam. 25, - the importance of accepting the Word of God, the Covenant, and Christ
 
 ### (1) 1 Sam. 25:1, - death of Samuel, fulfillment of destiny
 > And Samuel died; and all the Israelites were gathered together, and lamented him, and buried him in his house at Ramah. And David arose, and went down to the wilderness of Paran. (1 Sam. 25:1, KJV)
 
 #### (a) The preservation and transmission of the Word of God, the Covenant, Christ the Judges, Ruth, 1 Sam
 
-#### (b) Disciple David (the collapse in children is God's choice, responsible. person)
+#### (b) Disciple David (the collapse in children is God's choice, responsible. a person)
 
 #### (c) Samuel is the prototype of Christ (Prophet, Judge and Priest)
 
@@ -66,7 +66,7 @@
 ### (3) 1 Sam. 25:14-37, - Abigail, acceptance of the Word of God, the Covenant, Christ (Intercession for Nabal, right living, gratitude)
 > But one of the young men told Abigail, Nabal’s wife, saying, Behold, David sent messengers out of the wilderness to salute our master; and he railed on them. But the men were very good unto us, and we were not hurt, neither missed we any thing, as long as we were conversant with them, when we were in the fields: They were a wall unto us both by night and day, all the while we were with them keeping the sheep. Now therefore know and consider what thou wilt do; for evil is determined against our master, and against all his household: for he is such a son of Belial, that a man cannot speak to him. Then Abigail made haste, and took two hundred loaves, and two bottles of wine, and five sheep ready dressed, and five measures of parched corn, and an hundred clusters of raisins, and two hundred cakes of figs, and laid them on asses. And she said unto her servants, Go on before me; behold, I come after you. But she told not her husband Nabal. And it was so, as she rode on the ass, that she came down by the covert of the hill, and, behold, David and his men came down against her; and she met them. Now David had said, Surely in vain have I kept all that this fellow hath in the wilderness, so that nothing was missed of all that pertained unto him: and he hath requited me evil for good. So and more also do God unto the enemies of David, if I leave of all that pertain to him by the morning light any that pisseth against the wall. And when Abigail saw David, she hasted, and lighted off the ass, and fell before David on her face, and bowed herself to the ground, And fell at his feet, and said, Upon me, my lord, upon me let this iniquity be: and let thine handmaid, I pray thee, speak in thine audience, and hear the words of thine handmaid. Let not my lord, I pray thee, regard this man of Belial, even Nabal: for as his name is, so is he; Nabal is his name, and folly is with him: but I thine handmaid saw not the young men of my lord, whom thou didst send. Now therefore, my lord, as the LORD liveth, and as thy soul liveth, seeing the LORD hath withholden thee from coming to shed blood, and from avenging thyself with thine own hand, now let thine enemies, and they that seek evil to my lord, be as Nabal. And now this blessing which thine handmaid hath brought unto my lord, let it even be given unto the young men that follow my lord. I pray thee, forgive the trespass of thine handmaid: for the LORD will certainly make my lord a sure house; because my lord fighteth the battles of the LORD, and evil hath not been found in thee all thy days. Yet a man is risen to pursue thee, and to seek thy soul: but the soul of my lord shall be bound in the bundle of life with the LORD thy God; and the souls of thine enemies, them shall he sling out, as out of the middle of a sling. And it shall come to pass, when the LORD shall have done to my lord according to all the good that he hath spoken concerning thee, and shall have appointed thee ruler over Israel; That this shall be no grief unto thee, nor offence of heart unto my lord, either that thou hast shed blood causeless, or that my lord hath avenged himself: but when the LORD shall have dealt well with my lord, then remember thine handmaid. And David said to Abigail, Blessed be the LORD God of Israel, which sent thee this day to meet me: And blessed be thy advice, and blessed be thou, which hast kept me this day from coming to shed blood, and from avenging myself with mine own hand. For in very deed, as the LORD God of Israel liveth, which hath kept me back from hurting thee, except thou hadst hasted and come to meet me, surely there had not been left unto Nabal by the morning light any that pisseth against the wall. So David received of her hand that which she had brought him, and said unto her, Go up in peace to thine house; see, I have hearkened to thy voice, and have accepted thy person. And Abigail came to Nabal; and, behold, he held a feast in his house, like the feast of a king; and Nabal’s heart was merry within him, for he was very drunken: wherefore she told him nothing, less or more, until the morning light. But it came to pass in the morning, when the wine was gone out of Nabal, and his wife had told him these things, that his heart died within him, and he became as a stone. (1 Sam. 25:14-37, KJV)
 
-### (4) 1 Sam. 25:38, - the death of Nabal, the judgment of God, the fulfillment of the Word of God
+### (4) 1 Sam. 25:38, - the death of Nabal, God's judgment, the fulfillment of God's Word
 > And it came to pass about ten days after, that the LORD smote Nabal, that he died. (1 Sam. 25:38, KJV)
 
 ### (5) 1 Sam. 25:39-43, - the fate of Abigail, participation in the cause of God
@@ -85,7 +85,7 @@
 
 #### (a) Saul's faith, there is no abandonment of the Word of God, the Covenant, Christ
 
-#### (b) Abandoning one's destiny, resisting the will of God, asserting one's will (Satan acting from the outside, seducing Saul)
+#### (b) Renouncing one's destiny, resisting the will of God, asserting one's will (the action of Satan from outside, the seduction of Saul)
 
 #### (c) The importance of understanding God's love and mercy, Emmanuel, and God's constant care for His children. Heb. 13:5
 > Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee. (Heb. 13:5, KJV)

@@ -2,7 +2,7 @@
 
 ## 1) The order of events of the Book of Revelation
 
-### (1) The Ministry of Christ, the message to the seven Churches, the importance of knowing and transmitting the Word of God, understanding the future. Rev. 1-3
+### (1) The ministry of Christ, the message to the seven Churches, the importance of knowing and transmitting the Word of God, understanding the future. Rev. 1-3
 
 ### (2) The kingdom of heaven, God's plan, and God's sovereignty. Rev. 4-5
 
@@ -32,7 +32,7 @@
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-### (2) The Second Coming of Christ – the fulfillment of the Word of God, God's plan, the resurrection of the dead, the completion of salvation, eternity with God 2 Thess. 2:1-10,1 Cor. 15:22-23, 51-55,Rev. 21:1-4
+### (2) The Second Coming of Christ is the fulfillment of God's Word, God's plan, the resurrection of the dead, the completion of salvation, eternity with God 2 Thess. 2:1-10,1 Cor. 15:22-23, 51-55,Rev. 21:1-4
 > Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him, That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand. Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition; Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God. Remember ye not, that, when I was yet with you, I told you these things? And now ye know what withholdeth that he might be revealed in his time. For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way. And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming: Even him, whose coming is after the working of Satan with all power and signs and lying wonders, And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved. (2 Thess. 2:1-10, KJV)
 > For as in Adam all die, even so in Christ shall all be made alive. But every man in his own order: Christ the firstfruits; afterward they that are Christ’s at his coming. (1 Cor. 15:22-23, KJV)
 > Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed, In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed. For this corruptible must put on incorruption, and this mortal must put on immortality. So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory. O death, where is thy sting? O grave, where is thy victory? (1 Cor. 15:51-55, KJV)
@@ -40,11 +40,11 @@
 
 ### (3) Man's communion with God is the right to choose (the coming of Christ)
 
-### (4) Human communication with demons is the right of choice (the coming of the Antichrist)
+### (4) Human communication with demons is a right of choice (the coming of the Antichrist)
 
 ## 3) The importance of understanding God's sovereignty, God's Plan
 
-### (1) An explanation of God's plan – The Word of God, the Covenant, Christ
+### (1) The Explanation of God's Plan – The Word of God, the Covenant, Christ
 
 #### (a) Dan. 9:24-26, - the coming of Christ (7+62=69, 1 week left)
 > Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy. Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times. And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined. (Dan. 9:24-26, KJV)
@@ -56,7 +56,7 @@
 
 #### (a) The first half of the Great Tribulation (3.5 l.) – the restoration and ministry of the third false temple, the existence of the Antichrist, the judgments of God (seven seals, seven thunders and seven trumpets), the ministry of two of God's prophets in Jerusalem (testimony against the false third temple), the accusation by the Antichrist of two of God's prophets and all Christians in the "wrath of God" (judgments of God), local persecution, the murder of two of God's prophets, the resurrection of the dead and the ascension of the Church of Christ
 
-#### (b) The second half of the Great Tribulation (3.5 l.) – the cessation of service in the third false temple, the accession of the Antichrist and declaring himself "king and God" (the stoppage of God's judgments - about three years of "peace and security"), God's Judgment on Religion, the continuation of the judgments of God (the seven bowls), the Battle of Armageddon, the Second Coming and the 1000th kingdom of Jesus Christ on earth, the Last Judgment, the new earth and the new heaven, the continuation of God's creation…
+#### (b) The second half of the Great Tribulation (3.5 l.) – the cessation of service in the third false temple, the accession of the Antichrist and the declaration of himself as "king and God" (the stoppage of God's judgments - about three years of "peace and security"), God's Judgment on Religion, the continuation of the judgments of God (the seven bowls), the Battle of Armageddon, the Second Coming and the 1000th kingdom of Jesus Christ on earth, the Last Judgment, the new earth and the new heaven, the continuation of God's creation…
 
 ## 4) Rev. 19, - the importance of understanding the future
 
@@ -77,7 +77,7 @@
 
 #### (b) Calling and helping in the worship of God (purpose)
 
-### (4) Rev. 19:11-21, - The 2nd coming of Christ, the fulfillment of the Word of God
+### (4) Rev. 19:11-21, - the 2nd coming of Christ, the fulfillment of the Word of God
 > And I saw heaven opened, and behold a white horse; and he that sat upon him was called Faithful and True, and in righteousness he doth judge and make war. His eyes were as a flame of fire, and on his head were many crowns; and he had a name written, that no man knew, but he himself. And he was clothed with a vesture dipped in blood: and his name is called The Word of God. And the armies which were in heaven followed him upon white horses, clothed in fine linen, white and clean. And out of his mouth goeth a sharp sword, that with it he should smite the nations: and he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness and wrath of Almighty God. And he hath on his vesture and on his thigh a name written, KING OF KINGS, AND LORD OF LORDS. And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather yourselves together unto the supper of the great God; That ye may eat the flesh of kings, and the flesh of captains, and the flesh of mighty men, and the flesh of horses, and of them that sit on them, and the flesh of all men, both free and bond, both small and great. And I saw the beast, and the kings of the earth, and their armies, gathered together to make war against him that sat on the horse, and against his army. And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone. And the remnant were slain with the sword of him that sat upon the horse, which sword proceeded out of his mouth: and all the fowls were filled with their flesh. (Rev. 19:11-21, KJV)
 
 #### (a) Rev. 16:12-16, - the 6th Chalice, the draining of the Euphrates River, humanity's attempt to stop the 2nd coming of Christ, the gathering of the forces of the Antichrist in the valley of Armageddon
@@ -90,12 +90,12 @@
 #### (c) Rev. 19:20, - the fate of the Antichrist and the false prophet. (Lake of Fire – children of the devil, fulfillment of the Word of God)
 > And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone. (Rev. 19:20, KJV)
 
-#### (d) Rev. 19:21, - the fate of sinners. (Rejection of the Word of God, the Covenant, Christ, death, expectation of the Last Judgment)
+#### (d) Rev. 19:21, - the fate of sinners. (Rejection of the Word of God, the Covenant, Christ, death, waiting for the Last Judgment)
 > And the remnant were slain with the sword of him that sat upon the horse, which sword proceeded out of his mouth: and all the fowls were filled with their flesh. (Rev. 19:21, KJV)
 
 ## 5) Rev. 20, - understanding the 1000th Kingdom and the Last Judgment
 
-### (1) Rev. 20:1-3, - the conclusion of Satan, the 1000th Kingdom of Christ on earth
+### (1) Rev. 20:1-3, - the imprisonment of Satan, the 1000th Kingdom of Christ on earth
 > And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand. And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years, And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season. (Rev. 20:1-3, KJV)
 
 #### (a) S. was overthrown from the Kingdom of N. to the heavenly kingdom. Ezek. 28:12-16,Eph. 6:12
@@ -116,7 +116,7 @@
 ### (2) Rev. 20:4-6, - the importance of understanding the 1000th Kingdom of Christ on earth, a category of people
 > And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years. But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection. Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years. (Rev. 20:4-6, KJV)
 
-#### (a) Rev. 20:4-6, - those who accepted the Word of God, the Covenant, Christ in the second half of the Great Tribulation during the persecution, martyrs (new bodies)
+#### (a) Rev. 20:4-6, - those who accepted the Word of God, the Covenant, and Christ in the second half of the Great Tribulation during the persecution, martyrs (new bodies)
 > And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years. But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection. Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years. (Rev. 20:4-6, KJV)
 
 #### (b) 1 Cor. 15:22-23,1 Thess. 3:13; 4:14, - all the people of God from Adam, all the saved children of God, the whole Church (new bodies)
@@ -129,7 +129,7 @@
 #### (d) Zech. 14:16-19, - pagans, God's salvation of many nations, children and youth (the physiological age of man), there is no acceptance of the "seal of the beast" because of age
 > And it shall come to pass, that every one that is left of all the nations which came against Jerusalem shall even go up from year to year to worship the King, the LORD of hosts, and to keep the feast of tabernacles. And it shall be, that whoso will not come up of all the families of the earth unto Jerusalem to worship the King, the LORD of hosts, even upon them shall be no rain. And if the family of Egypt go not up, and come not, that have no rain; there shall be the plague, wherewith the LORD will smite the heathen that come not up to keep the feast of tabernacles. This shall be the punishment of Egypt, and the punishment of all nations that come not up to keep the feast of tabernacles. (Zech. 14:16-19, KJV)
 
-#### (e) Rev. 20:5, - the absence of the resurrection of people who did not accept the Word of God, the Covenant, Christ, expectations of the resurrection and judgment of God
+#### (e) Rev. 20:5, - the absence of the resurrection of people who did not accept the Word of God, the Covenant, Christ, and the expectation of the resurrection and judgment of God
 > But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection. (Rev. 20:5, KJV)
 
 ### (3) Understanding Life in the 1000th Kingdom of Jesus Christ
@@ -140,7 +140,7 @@
 > For, behold, I create new heavens and a new earth: and the former shall not be remembered, nor come into mind. But be ye glad and rejoice for ever in that which I create: for, behold, I create Jerusalem a rejoicing, and her people a joy. And I will rejoice in Jerusalem, and joy in my people: and the voice of weeping shall be no more heard in her, nor the voice of crying. There shall be no more thence an infant of days, nor an old man that hath not filled his days: for the child shall die an hundred years old; but the sinner being an hundred years old shall be accursed. And they shall build houses, and inhabit them; and they shall plant vineyards, and eat the fruit of them. They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree are the days of my people, and mine elect shall long enjoy the work of their hands. They shall not labour in vain, nor bring forth for trouble; for they are the seed of the blessed of the LORD, and their offspring with them. And it shall come to pass, that before they call, I will answer; and while they are yet speaking, I will hear. The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust shall be the serpent’s meat. They shall not hurt nor destroy in all my holy mountain, saith the LORD. (Isa. 65:17-25, KJV)
 > The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them. And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox. And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice’ den. They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the LORD, as the waters cover the sea. (Isa. 11:6-9, KJV)
 
-#### (c) Transmission of the Word of God, the Covenant, Christ – the children of those saved in recent times and people born in the 1000th kingdom (descendants of Adam) Rom. 5:12,Isa. 65:20
+#### (c) Transmission of the Word of God, the Covenant, and Christ – children of those saved in recent times and people born in the 1000th kingdom (descendants of Adam) Rom. 5:12,Isa. 65:20
 > Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned: (Rom. 5:12, KJV)
 > There shall be no more thence an infant of days, nor an old man that hath not filled his days: for the child shall die an hundred years old; but the sinner being an hundred years old shall be accursed. (Isa. 65:20, KJV)
 
@@ -168,12 +168,12 @@
 > The same day came to him the Sadducees, which say that there is no resurrection, and asked him, Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother. Now there were with us seven brethren: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother: Likewise the second also, and the third, unto the seventh. And last of all the woman died also. Therefore in the resurrection whose wife shall she be of the seven? for they all had her. Jesus answered and said unto them, Ye do err, not knowing the scriptures, nor the power of God. For in the resurrection they neither marry, nor are given in marriage, but are as the angels of God in heaven. (Matt. 22:23-30, KJV)
 > Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth? For the woman which hath an husband is bound by the law to her husband so long as he liveth; but if the husband be dead, she is loosed from the law of her husband. So then if, while her husband liveth, she be married to another man, she shall be called an adulteress: but if her husband be dead, she is free from that law; so that she is no adulteress, though she be married to another man. (Rom. 7:1-3, KJV)
 
-### (5) Rev. 20:7-10, - liberation and the action of Satan
+### (5) Rev. 20:7-10, - liberation and action of Satan
 > And when the thousand years are expired, Satan shall be loosed out of his prison, And shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle: the number of whom is as the sand of the sea. And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them. And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever. (Rev. 20:7-10, KJV)
 
 #### (a) Understanding the human right to choose, the temptation of people who have not yet gone through physical death, the impossibility of tempting the resurrected people of God
 
-#### (b) Rejection of the Word of God, the Covenant, Christ, the importance of God's faith
+#### (b) Rejection of the Word of God, the Covenant, Christ, and the importance of God's faith
 
 ### (6) Rev. 20:10, - annihilation of the universe. 2 Pet. 3:3-13
 > And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever. (Rev. 20:10, KJV)
@@ -190,4 +190,4 @@
 
 ### (2) The importance of understanding the 1000th Kingdom
 
-### (3) The importance of accepting the Word of God, the Covenant, Christ is the love and mercy of God
+### (3) The importance of accepting the Word of God, the Covenant, and Christ – the love and mercy of God

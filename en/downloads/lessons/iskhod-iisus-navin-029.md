@@ -1,5 +1,5 @@
 # Num. 26–30
-## 9.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 9.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -11,7 +11,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-## 2) Num. 26, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 2) Num. 26, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
 ### (1) The second reckoning of God's people is the importance of Canaan, the coming of Christ, the redemption of mankind, and God's plan. (The Israeli people – disbelief, murmur). Heb. 3:7-19
 > Wherefore (as the Holy Ghost saith, To day if ye will hear his voice, Harden not your hearts, as in the provocation, in the day of temptation in the wilderness: When your fathers tempted me, proved me, and saw my works forty years. Wherefore I was grieved with that generation, and said, They do alway err in their heart; and they have not known my ways. So I sware in my wrath, They shall not enter into my rest.) Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God. But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin. For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end; While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation. For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses. But with whom was he grieved forty years? was it not with them that had sinned, whose carcases fell in the wilderness? And to whom sware he that they should not enter into his rest, but to them that believed not? So we see that they could not enter in because of unbelief. (Heb. 3:7-19, KJV)
@@ -24,9 +24,9 @@
 
 ### (4) Levites – Tabernacle, Worship (knowledge and transmission of the Word of God, the Covenant, Christ, full dedication of life to the service of God)
 
-## 3) Num. 27, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 3) Num. 27, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
-### (1) Num. 27:1-11, - acceptance of the Word of God, the Covenant, Christ, God's faith of the daughters of Zelophehad – the inevitable conquest of Canaan and the coming of Christ
+### (1) Num. 27:1-11, - acceptance of the Word of God, the Covenant, Christ, the faith of God of the daughters of Zelophehad – the inevitable conquest of Canaan and the coming of Christ
 > Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph: and these are the names of his daughters; Mahlah, Noah, and Hoglah, and Milcah, and Tirzah. And they stood before Moses, and before Eleazar the priest, and before the princes and all the congregation, by the door of the tabernacle of the congregation, saying, Our father died in the wilderness, and he was not in the company of them that gathered themselves together against the LORD in the company of Korah; but died in his own sin, and had no sons. Why should the name of our father be done away from among his family, because he hath no son? Give unto us therefore a possession among the brethren of our father. And Moses brought their cause before the LORD. And the LORD spake unto Moses, saying, The daughters of Zelophehad speak right: thou shalt surely give them a possession of an inheritance among their father’s brethren; and thou shalt cause the inheritance of their father to pass unto them. And thou shalt speak unto the children of Israel, saying, If a man die, and have no son, then ye shall cause his inheritance to pass unto his daughter. And if he have no daughter, then ye shall give his inheritance unto his brethren. And if he have no brethren, then ye shall give his inheritance unto his father’s brethren. And if his father have no brethren, then ye shall give his inheritance unto his kinsman that is next to him of his family, and he shall possess it: and it shall be unto the children of Israel a statute of judgment, as the LORD commanded Moses. (Num. 27:1-11, KJV)
 
 #### (a) The importance of preserving the inheritance of the land – God's division of Canaan among the tribes of God's people in the future (the importance of fulfilling the destiny of all the tribes of God's people)
@@ -39,7 +39,7 @@
 #### (a) Moses is an inaccurate fulfillment of the Word of God Num. 20:7-13
 > And the LORD spake unto Moses, saying, Take the rod, and gather thou the assembly together, thou, and Aaron thy brother, and speak ye unto the rock before their eyes; and it shall give forth his water, and thou shalt bring forth to them water out of the rock: so thou shalt give the congregation and their beasts drink. And Moses took the rod from before the LORD, as he commanded him. And Moses and Aaron gathered the congregation together before the rock, and he said unto them, Hear now, ye rebels; must we fetch you water out of this rock? And Moses lifted up his hand, and with his rod he smote the rock twice: and the water came out abundantly, and the congregation drank, and their beasts also. And the LORD spake unto Moses and Aaron, Because ye believed me not, to sanctify me in the eyes of the children of Israel, therefore ye shall not bring this congregation into the land which I have given them. This is the water of Meribah; because the children of Israel strove with the LORD, and he was sanctified in them. (Num. 20:7-13, KJV)
 
-#### (b) The exact fulfillment of the Word of God is a measure of service and participation in Canaan (preparation for the coming of Christ, participation in World Evangelization)
+#### (b) The exact fulfillment of the Word of God is a measure of service and participation in Canaan (preparation for the coming of Christ, participation in Worldwide Evangelization)
 
 ### (3) Num. 27:15-23, - the importance of Canaan (knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 > And Moses spake unto the LORD, saying, Let the LORD, the God of the spirits of all flesh, set a man over the congregation, Which may go out before them, and which may go in before them, and which may lead them out, and which may bring them in; that the congregation of the LORD be not as sheep which have no shepherd. And the LORD said unto Moses, Take thee Joshua the son of Nun, a man in whom is the spirit, and lay thine hand upon him; And set him before Eleazar the priest, and before all the congregation; and give him a charge in their sight. And thou shalt put some of thine honour upon him, that all the congregation of the children of Israel may be obedient. And he shall stand before Eleazar the priest, who shall ask counsel for him after the judgment of Urim before the LORD: at his word shall they go out, and at his word they shall come in, both he, and all the children of Israel with him, even all the congregation. And Moses did as the LORD commanded him: and he took Joshua, and set him before Eleazar the priest, and before all the congregation: And he laid his hands upon him, and gave him a charge, as the LORD commanded by the hand of Moses. (Num. 27:15-23, KJV)
@@ -81,14 +81,14 @@
 
 #### (a) The importance of Worship – knowledge, transmission of the Word of God, the Covenant, Christ
 
-#### (b) The importance of sacrifice – the affirmation of the Word of God, the Covenant, Christ
+#### (b) The importance of sacrifice is the affirmation of God's Word, Covenant, and Christ
 
 ### (2) God's order of Worship N.Z. – God's sovereignty. Acts 2:42. (Teaching of the Apostles, communion, breaking bread, prayer)
 > And they continued stedfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers. (Acts 2:42, KJV)
 
 #### (a) The importance of Worship – knowledge, transmission of the Word of God, the Covenant, Christ
 
-#### (b) The importance of Communion – the affirmation of the Word of God, the Covenant, Christ
+#### (b) The importance of Communion is the affirmation of the Word of God, the Covenant, and Christ
 
 ### (3) People's opinion is a different order of Worship. Phil. 2:21
 > For all seek their own, not the things which are Jesus Christ’s. (Phil. 2:21, KJV)
@@ -103,7 +103,7 @@
 > But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God. (1 Cor. 11:3, KJV)
 > Wives, submit yourselves unto your own husbands, as unto the Lord. For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body. Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing. Husbands, love your wives, even as Christ also loved the church, and gave himself for it; (Eph. 5:22-25, KJV)
 
-### (2) God's condition for the supremacy of a husband is God's faith, abiding in the Word of God, the Covenant, Christ, fulfilling the destiny. Heb. 10:28
+### (2) God's condition for a husband's supremacy is God's faith, abiding in God's Word, Covenant, Christ, and fulfilling his destiny. Heb. 10:28
 > He that despised Moses’ law died without mercy under two or three witnesses: (Heb. 10:28, KJV)
 
 ### (3) The importance of understanding the priority of the Word of God over any opinions of people – husband, spiritual and secular authorities, etc. Acts 4:18-19; 5:29
@@ -112,8 +112,8 @@
 
 ## Conclusion:
 
-### (1) The importance of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ (Understanding the purpose of Canaan, the Disciples, World Evangelization)
+### (1) The importance of the people of God is the knowledge and transmission of the Word of God, the Covenant, and Christ (Understanding the purpose of Canaan, the Disciples, and Worldwide Evangelization)
 
-### (2) The action of Satan is to stop the transmission of the Word of God, the Covenant, Christ (Circumstances, ministers, loved ones)
+### (2) Satan's action is to stop the transmission of the Word of God, the Covenant, Christ (Circumstances, minister, loved ones)
 
-### (3) Worldwide Evangelization, Canaan, the coming of Christ – God sovereignty. (With or without us, it's better to participate)
+### (3) Worldwide Evangelization, Canaan, the coming of Christ – God's sovereignty. (With or without us, it's better to participate)

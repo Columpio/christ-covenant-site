@@ -78,13 +78,13 @@
 
 ## 4) God's method of receiving the Holy Spirit
 
-### (1) Acceptance of the Holy Spirit, salvation (The Holy Spirit in man) – acceptance of the Divinity of Jesus Christ and the All-sufficiency of His Sacrifice (forgiveness of all sins and solution of all problems)
+### (1) Reception of the Holy Spirit, salvation (the Holy Spirit in man) - acceptance of the Divinity of Jesus Christ and the All-Sufficiency of His Sacrifice (forgiveness of all sins and solution of all problems)
 
-### (2) Receiving the Holy Spirit, Baptizing the Holy Spirit (the Holy Spirit on a person) is the choice and desire to fulfill the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+### (2) Receiving the Holy Spirit, the Baptism of the Holy Spirit (the Holy Spirit on a person) is the choice and desire to fulfill the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 
 ## 5) Understanding the power, action, and fruits of the Holy Spirit
 
-### (1) Knowledge and transmission of the Word of God, the Covenant, Christ. disciples, World Evangelization Acts 1:8, - Rom. 1:16; 8:14 (8:14), 1 Cor. 1:18
+### (1) The knowledge and transmission of the Word of God, the Covenant, and Christ. disciples, World Evangelization Acts 1:8, - Rom. 1:16; 8:14 (8:14), 1 Cor. 1:18
 > But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth. (Acts 1:8, KJV)
 > For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek. (Rom. 1:16, KJV)
 > For as many as are led by the Spirit of God, they are the sons of God. (Rom. 8:14, KJV)
@@ -109,14 +109,14 @@
 > For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect. (Matt. 24:24, KJV)
 > And he doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men, And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live. (Rev. 13:13-14, KJV)
 
-### (2) 1 Cor. 12, - gifts of the Holy Spirit (purpose:transmission of the Word of God, the Covenant, Christ)
+### (2) 1 Cor. 12, - gifts of the Holy Spirit (purpose:transmission of the Word of God, the Covenant, and Christ)
 
 ### (3) Feelings and sensations
 
 ## 7) Understanding the guidance of the Holy Spirit. Rom. 8:14
 > For as many as are led by the Spirit of God, they are the sons of God. (Rom. 8:14, KJV)
 
-### (1) Through the Word of God (prayer and reasoning over the Word of God)
+### (1) Through the Word of God (prayer and meditation on the Word of God)
 
 ### (2) Through life circumstances
 
@@ -126,16 +126,16 @@
 
 ## Result:
 
-### (1) The natural or supernatural way is God sovereignty
+### (1) The natural or supernatural way is God's sovereignty
 
 ### (2) The best method is the Word of God and the circumstances of life
 
 ## Conclusion:
 
-### (1) The Importance of Understanding the Personality and Divinity of the Holy Spirit
+### (1) The importance of understanding the Personality and Divinity of the Holy Spirit
 
 ### (2) The Importance of Understanding the Testimony and Work of the Holy Spirit
 
-### (3) The Importance of Understanding God's method of Receiving the Holy Spirit
+### (3) The Importance of understanding God's method of Receiving the Holy Spirit
 
 ### (4) The importance of understanding the power, action, and guidance of the Holy Spirit

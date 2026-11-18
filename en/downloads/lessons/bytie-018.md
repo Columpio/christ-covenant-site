@@ -1,6 +1,6 @@
 # 18. Repentance, Repentance and Confession of sins
 
-## 1) Salvation is Emmanuel, God together with man. (Rebirth, restoration to the original form, lawful liberation from the power of sin, death and hell, Satan) Rom. 8:2
+## 1) Salvation is Emmanuel, God together with man. (Rebirth, restoration to its original form, lawful liberation from the power of sin, death and hell, Satan) Rom. 8:2
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
 
 ### (1) The importance of properly understanding sin, the importance of understanding Creation, the Fall, and Restoration
@@ -17,7 +17,7 @@
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
 
-#### (c) Gen. 3:15, 21,Matt. 16:16,John 19:30, - conscious choice of eternal life in the Word of God (observance of the conditions of the Covenant of God, Emmanuel)
+#### (c) Gen. 3:15, 21,Matt. 16:16,John 19:30, - conscious choice of eternal life in the Word of God (observance of the terms of the Covenant of God, Emmanuel)
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 > And Simon Peter answered and said, Thou art the Christ, the Son of the living God. (Matt. 16:16, KJV)
@@ -46,17 +46,17 @@
 ## 2) Repentance – assessment of actions, understanding of sin, emotions, lack of acceptance of the Word of God, the Covenant, Christ, there is no salvation and rebirth (Judas) Matt. 27:3-5
 > Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders, Saying, I have sinned in that I have betrayed the innocent blood. And they said, What is that to us? see thou to that. And he cast down the pieces of silver in the temple, and departed, and went and hanged himself. (Matt. 27:3-5, KJV)
 
-## 3) Repentance (once in a lifetime) – acceptance of the Word of God, the Covenant, Christ, understanding of the problem of sin and God’s method of solution, salvation and rebirth. Rom. 10:9,John 1:12
+## 3) Repentance (once in a lifetime) – acceptance of the Word of God, the Covenant, Christ, understanding the problem of sin and God's method of solution, salvation and rebirth. Rom. 10:9,John 1:12
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 > But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name: (John 1:12, KJV)
 
-### (1) Confession of sin – living outside the Word of God, the Covenant, Christ, wrong thoughts, emotions, deeds
+### (1) Confession of sin – living outside the Word of God, the Covenant, Christ, wrong thoughts, emotions, actions
 
 ### (2) Recognition of the Divinity of Christ – God in the Flesh
 
 ### (3) Recognition of the atonement and forgiveness of all human sins (past, present, and future) through the death and resurrection of Christ
 
-## 4) Confession of sins is the affirmation of the Word of God, the Covenant, Christ, the confession of sin and the recognition of the fact of the solution of all sins through the Sacrifice of Christ. 1 John 1:8-10; 2:1-2
+## 4) Confession of sins is the affirmation of the Word of God, the Covenant, of Christ, the recognition of sin and the recognition of the fact of the solution of all sins through the Sacrifice of Christ. 1 John 1:8-10; 2:1-2
 > If we say that we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness. If we say that we have not sinned, we make him a liar, and his word is not in us. (1 John 1:8-10, KJV)
 > My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous: And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world. (1 John 2:1-2, KJV)
 
@@ -101,4 +101,4 @@
 
 ### (1) The importance of Understanding Repentance, Repentance, and Confession
 
-### (2) The importance of explaining the Word of God, the Covenant, Christ, the purpose of the Church (Knowledge, transmission of the Word of God, the Covenant, Christ, World Evangelization, Disciples, the coming of Christ)
+### (2) The importance of explaining the Word of God, the Covenant, Christ, the purpose of the Church (Knowledge, transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, disciples, the coming of Christ)

@@ -2,7 +2,7 @@
 
 ## 1) The Importance of N.Z.'s Writings
 
-### (1) The meaning of the Scriptures N.T. – fulfillment of the Word of God, the Testament, Christ, logical fulfillment and completion of the Old Testament, the coming of Christ, the redemption of man
+### (1) The meaning of the Scriptures of N.Z. – the fulfillment of the Word of God, the Covenant, Christ, the logical fulfillment and completion of V.Z., the coming of Christ, the redemption of man
 
 ### (2) The Importance of Understanding the Christocentricity of N.Z.'s Writings
 
@@ -16,7 +16,7 @@
 
 ### (4) The importance of understanding the order of events in the life of Christ
 
-## 3) The alignment of the Gospels (the main periods in the ministry of Christ)
+## 3) Reconciliation of the Gospels (the main periods in the ministry of Christ)
 
 ### (1) Birth and preparation for ministry (Bethlehem, Nazareth, 30 l.) John 1,Matt. 1-2 (Luke 1-2)
 
@@ -31,7 +31,7 @@
 > Who is the image of the invisible God, the firstborn of every creature: For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him: (Col. 1:15-16, KJV)
 > For there is one God, and one mediator between God and men, the man Christ Jesus; (1 Tim. 2:5, KJV)
 
-### (1) Faith in a Triune God is faith in a Single God in a numerical dimension, in which there are three eternal differences – Hypostasis (Personality)
+### (1) Faith in the Triune God is faith in the One God in numerical terms, in which there are three eternal differences – Hypostasis (Personality)
 - God the Father, the Hypostasis (Personality) of God the Word, the Hypostasis (Personality) of God the Holy Spirit, each of whom is God and equal in Power and Glory, Manifesting Himself simultaneously and jointly in three Hypostases (Personalities), without the possibility of separation in Himself, is the Holy and Indivisible Trinity. (There are three eternal differences in the human being – spirit, soul and body)
 - 1 John 5:7,John 4:24, - John 1:18,1 John 4:12,1 Tim. 6:16
 
@@ -66,7 +66,7 @@
 
 #### (a) The human nature of Christ is the human spirit, soul, and glorified human body (unlimited possibilities)
 
-#### (b) The divine nature of Christ is the Holy One, the Triune God, and the functional priority of action is God the Word. (Priority of the Divine nature over man – God in the flesh) John 1:1, 14, 18,Col. 1:15-16; 2:9, - Eph. 3:9,Heb. 1:1-3, - Gen. 3:8; 18:1-2; 32:28,Ex. 24:9-11; 33:11,Dan. 3:25 (Judg. 6:12-16; 13:22)
+#### (b) The divine nature of Christ is the Holy One, the Triune God, and the functional priority of action is God the Word. (The priority of the Divine nature over man is God in the flesh) John 1:1, 14, 18,Col. 1:15-16; 2:9, - Eph. 3:9,Heb. 1:1-3, - Gen. 3:8; 18:1-2; 32:28,Ex. 24:9-11; 33:11,Dan. 3:25 (Judg. 6:12-16; 13:22)
 > In the beginning was the Word, and the Word was with God, and the Word was God. (John 1:1, KJV)
 > And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth. (John 1:14, KJV)
 > No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him. (John 1:18, KJV)
@@ -82,7 +82,7 @@
 > And the angel of the LORD appeared unto him, and said unto him, The LORD is with thee, thou mighty man of valour. And Gideon said unto him, Oh my Lord, if the LORD be with us, why then is all this befallen us? and where be all his miracles which our fathers told us of, saying, Did not the LORD bring us up from Egypt? but now the LORD hath forsaken us, and delivered us into the hands of the Midianites. And the LORD looked upon him, and said, Go in this thy might, and thou shalt save Israel from the hand of the Midianites: have not I sent thee? And he said unto him, Oh my Lord, wherewith shall I save Israel? behold, my family is poor in Manasseh, and I am the least in my father’s house. And the LORD said unto him, Surely I will be with thee, and thou shalt smite the Midianites as one man. (Judg. 6:12-16, KJV)
 > And Manoah said unto his wife, We shall surely die, because we have seen God. (Judg. 13:22, KJV)
 
-## 5) John 1:1-9, - fulfillment of the Word of God, the Covenant, Christ, understanding of Christ
+## 5) John 1:1-9, - fulfillment of the Word of God, Covenant, Christ, understanding of Christ
 > In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made. In him was life; and the life was the light of men. And the light shineth in darkness; and the darkness comprehended it not. There was a man sent from God, whose name was John. The same came for a witness, to bear witness of the Light, that all men through him might believe. He was not that Light, but was sent to bear witness of that Light. That was the true Light, which lighteth every man that cometh into the world. (John 1:1-9, KJV)
 
 ### (1) John 1:1, 14, - The Divinity of Christ
@@ -124,16 +124,16 @@
 
 #### (a) The first cause of life and light is the Word of God, Christ
 
-#### (b) Beyond the Word of God, Christ, True Life and Light is eternal death
+#### (b) Beyond the Word of God, Christ, True Life and Light, there is eternal death
 
 ## 6) John 1:10-13, - the importance of accepting the Word of God, Christ, for man
 > He was in the world, and the world was made by him, and the world knew him not. He came unto his own, and his own received him not. But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name: Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God. (John 1:10-13, KJV)
 
-### (1) A person's right to choose – acceptance, non-acceptance of the Word of God, the Covenant, Christ
+### (1) A person's right to choose is to accept or reject the Word of God, the Covenant, or Christ
 
 ### (2) Acceptance of the Word of God, the Covenant, Christ – rebirth, salvation, child of God
 
-### (3) Non–acceptance of the Word of God, the Covenant, Christ - eternal destruction, children of the devil John 8:44
+### (3) Failure to accept the Word of God, the Covenant, and Christ is eternal destruction, children of the devil John 8:44
 > Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it. (John 8:44, KJV)
 
 ## 7) John 1:14, - the importance of understanding the birth of Christ
@@ -157,14 +157,14 @@
 
 #### (b) The coming Christ is the revealed grace of God
 
-### (2) John 1:17, - the importance of properly understanding the Word of God, the Covenant, Christ
+### (2) John 1:17, - the importance of properly understanding the Word of God, the Covenant, and Christ
 > For the law was given by Moses, but grace and truth came by Jesus Christ. (John 1:17, KJV)
 
 #### (a) The Law, V.Z. – Moses, Mount Sinai, about 1500 BC
 
 #### (b) Grace and Truth – The Garden of Eden, the creation of man. (The Divinity of Christ, all the answers for man in Christ)
 
-### (3) John 1:18, - the opportunity to see and understand the Holy, Triune God only through Jesus Christ
+### (3) John 1:18, - the ability to see and understand the Holy, Triune God only through Jesus Christ
 > No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him. (John 1:18, KJV)
 
 #### (a) The inability to see the Holy, Triune God is the Absolute of God

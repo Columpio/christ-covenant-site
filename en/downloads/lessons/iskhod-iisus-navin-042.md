@@ -1,5 +1,5 @@
 # Josh. 9–21
-## 4.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, the coming of Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 4.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, the coming of Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:17, KJV)
@@ -12,7 +12,7 @@
 
 ### (1) The importance of conquering Canaan and expelling the Canaanite tribes (God's sovereignty and Plan for the Future)
 
-#### (a) Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization, preparation for the coming of Christ
+#### (a) Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ
 
 #### (b) The special importance of the separation of God's people from the world is the wrong faith, idols, worldview, and value system. (The importance of purity of teaching and fulfillment of purpose)
 
@@ -28,7 +28,7 @@
 
 ## 2) Josh. 9, - acceptance of the Word of God, the Covenant, Christ (salvation)
 
-### (1) Josh. 9:1-2, - non-acceptance of the Word of God, the Covenant, Christ (the nations of Canaan)
+### (1) Josh. 9:1-2, - rejection of the Word of God, the Covenant, and Christ (the nations of Canaan)
 > And it came to pass, when all the kings which were on this side Jordan, in the hills, and in the valleys, and in all the coasts of the great sea over against Lebanon, the Hittite, and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard thereof; That they gathered themselves together, to fight with Joshua and with Israel, with one accord. (Josh. 9:1-2, KJV)
 
 ### (2) Josh. 9:3-21, - the importance of hearing the Word of God, understanding the importance of reconciliation with God (the cunning of the Jews), right motives, God's love and mercy. Rom. 10:17, -Jude 1:22-23,Rom. 2:11
@@ -41,26 +41,26 @@
 > And Joshua called for them, and he spake unto them, saying, Wherefore have ye beguiled us, saying, We are very far from you; when ye dwell among us? Now therefore ye are cursed, and there shall none of you be freed from being bondmen, and hewers of wood and drawers of water for the house of my God. (Josh. 9:22-23, KJV)
 > As the bird by wandering, as the swallow by flying, so the curse causeless shall not come. (Prov. 26:2, KJV)
 
-### (4) Josh. 9:24-27, - complete humility of the Jews before God, God's justice and all the blessings of God (service at the altar, understanding of Sacrifice, acceptance of the Word of God, the Covenant, Christ, the people of God, Jubilee year – complete freedom). (Lev. 25:39-43)
+### (4) Josh. 9:24-27, - the complete humility of the Jews before God, God's justice and all the blessings of God (service at the altar, understanding of Sacrifice, acceptance of the Word of God, the Covenant, Christ, the people of God, the Jubilee year – complete freedom). (Lev. 25:39-43)
 > And they answered Joshua, and said, Because it was certainly told thy servants, how that the LORD thy God commanded his servant Moses to give you all the land, and to destroy all the inhabitants of the land from before you, therefore we were sore afraid of our lives because of you, and have done this thing. And now, behold, we are in thine hand: as it seemeth good and right unto thee to do unto us, do. And so did he unto them, and delivered them out of the hand of the children of Israel, that they slew them not. And Joshua made them that day hewers of wood and drawers of water for the congregation, and for the altar of the LORD, even unto this day, in the place which he should choose. (Josh. 9:24-27, KJV)
 > And if thy brother that dwelleth by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bondservant: But as an hired servant, and as a sojourner, he shall be with thee, and shall serve thee unto the year of jubile: And then shall he depart from thee, both he and his children with him, and shall return unto his own family, and unto the possession of his fathers shall he return. For they are my servants, which I brought forth out of the land of Egypt: they shall not be sold as bondmen. Thou shalt not rule over him with rigour; but shalt fear thy God. (Lev. 25:39-43, KJV)
 
-## 3) Josh. 10-12, - understanding the God of sovereignty and control
+## 3) Josh. 10-12, - Understanding God's sovereignty and control
 
-### (1) Josh. 10:1-5, - Satan's action, stop the transmission of the Covenant, Christ
+### (1) Josh. 10:1-5, - the action of Satan, to stop the transmission of the Covenant, of Christ
 > Now it came to pass, when Adoni-zedek king of Jerusalem had heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them; That they feared greatly, because Gibeon was a great city, as one of the royal cities, and because it was greater than Ai, and all the men thereof were mighty. Wherefore Adoni-zedek king of Jerusalem sent unto Hoham king of Hebron, and unto Piram king of Jarmuth, and unto Japhia king of Lachish, and unto Debir king of Eglon, saying, Come up unto me, and help me, that we may smite Gibeon: for it hath made peace with Joshua and with the children of Israel. Therefore the five kings of the Amorites, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, the king of Eglon, gathered themselves together, and went up, they and all their hosts, and encamped before Gibeon, and made war against it. (Josh. 10:1-5, KJV)
 
 ### (2) Josh. 10:6-14, - God's sovereignty and control. Heb. 13:5. (The Battle for the Hivites, Gibeon – stones from the sky, stopping the planet)
 > And the men of Gibeon sent unto Joshua to the camp to Gilgal, saying, Slack not thy hand from thy servants; come up to us quickly, and save us, and help us: for all the kings of the Amorites that dwell in the mountains are gathered together against us. So Joshua ascended from Gilgal, he, and all the people of war with him, and all the mighty men of valour. And the LORD said unto Joshua, Fear them not: for I have delivered them into thine hand; there shall not a man of them stand before thee. Joshua therefore came unto them suddenly, and went up from Gilgal all night. And the LORD discomfited them before Israel, and slew them with a great slaughter at Gibeon, and chased them along the way that goeth up to Beth-horon, and smote them to Azekah, and unto Makkedah. And it came to pass, as they fled from before Israel, and were in the going down to Beth-horon, that the LORD cast down great stones from heaven upon them unto Azekah, and they died: they were more which died with hailstones than they whom the children of Israel slew with the sword. Then spake Joshua to the LORD in the day when the LORD delivered up the Amorites before the children of Israel, and he said in the sight of Israel, Sun, stand thou still upon Gibeon; and thou, Moon, in the valley of Ajalon. And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies. Is not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day. And there was no day like that before it or after it, that the LORD hearkened unto the voice of a man: for the LORD fought for Israel. (Josh. 10:6-14, KJV)
 > Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee. (Heb. 13:5, KJV)
 
-### (3) Is. Nav. (10:15-43,11-12), - The inevitable fulfillment of the Word of God
+### (3) Is. Nav. (10:15-43,11-12), - The inevitable fulfillment of God's Word
 
-#### (a) Non–acceptance of the Word of God, the Covenant, Christ - destruction
+#### (a) Failure to accept the Word of God, the Covenant, and Christ is ruin
 
-#### (b) The impossibility of resisting the Word of God, the Covenant, Christ – the coming of Christ
+#### (b) The impossibility of resisting the Word of God, the Covenant, and Christ – the coming of Christ
 
-## 4) Josh. 13-21, - the inevitable fulfillment of the Word of God, the Covenant, Christ
+## 4) Josh. 13-21, - the inevitable fulfillment of the Word of God, the Covenant, of Christ
 
 ### (1) Josh. 21:43, - the fulfillment of the Word of God, the conquest of Canaan in 7 years, the constant fulfillment of the Word of God, the importance of the coming of Christ
 > And the LORD gave unto Israel all the land which he sware to give unto their fathers; and they possessed it, and dwelt therein. (Josh. 21:43, KJV)
@@ -70,8 +70,8 @@
 
 ## Conclusion:
 
-### (1) The importance of understanding the purpose of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+### (1) The importance of understanding the purpose of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 
 ### (2) The importance of accepting the Word of God, the Covenant, and Christ for man
 
-### (3) The Importance of Walking in the Word of God, the Covenant, Christ, Destiny
+### (3) The importance of Walking in God's Word, Covenant, Christ, Purpose

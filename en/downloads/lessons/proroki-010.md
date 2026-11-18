@@ -1,6 +1,6 @@
 # 8. The Prophet Jeremiah (655-580 B.C.)
 
-## 1) The destiny of the Israeli people is the preservation and transmission of the Covenant, Christ, Canaan - World Evangelization (Church) Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 1) The purpose of the Israeli people is to preserve and transmit the Covenant, Christ, Canaan - World Evangelization (Church) Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -12,7 +12,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-## 2) The ministry of the prophets is the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of God's people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+## 2) The ministry of the prophets is the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of God's people. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 
 ### (1) The Prophets of V.Z. – understanding and acceptance of the Word of God, the Covenant, Christ, salvation and rebirth, the action of the Holy Spirit 1 Pet. 1:10-11,Acts 10:43, - 2 Pet. 1:19-21,John 16:8-11
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
@@ -20,15 +20,15 @@
 > We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts: Knowing this first, that no prophecy of the scripture is of any private interpretation. For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost. (2 Pet. 1:19-21, KJV)
 > And when he is come, he will reprove the world of sin, and of righteousness, and of judgment: Of sin, because they believe not on me; Of righteousness, because I go to my Father, and ye see me no more; Of judgment, because the prince of this world is judged. (John 16:8-11, KJV)
 
-#### (a) The rejection of the Word of God, the Covenant, Christ is the problem of man, of the people. (The consequence is idolatry, mammon, immorality)
+#### (a) The rejection of the Word of God, the Covenant, and Christ is the problem of man and the people. (The consequence is idolatry, mammon, immorality)
 
-#### (b) The importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization (Emmanuel, the destiny of man, preparation for the coming of Christ)
+#### (b) The importance of knowing and transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization (Emmanuel, the destiny of man, preparation for the coming of Christ)
 
-#### (c) The judgments of God – the inevitable execution of the sentence of the Word of God, understanding the human right to choose. Rom. 6:23,Deut. 30:19
+#### (c) The judgments of God are the inevitable execution of the sentence of the Word of God, understanding the human right to choose. Rom. 6:23,Deut. 30:19
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
-### (2) The modern people of God, the continuation of prophetic ministry – the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of the people of God. John 16:8-11. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+### (2) The modern people of God, the continuation of prophetic ministry – the affirmation of the Word of God, the Covenant, Christ, the importance of understanding and fulfilling the destiny of the people of God. John 16:8-11. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 > And when he is come, he will reprove the world of sin, and of righteousness, and of judgment: Of sin, because they believe not on me; Of righteousness, because I go to my Father, and ye see me no more; Of judgment, because the prince of this world is judged. (John 16:8-11, KJV)
 
 ## 3) The meaning of the Book of Jeremiah (before and during the Babylonian captivity):
@@ -45,7 +45,7 @@
 > And command them to say unto their masters, Thus saith the LORD of hosts, the God of Israel; Thus shall ye say unto your masters; I have made the earth, the man and the beast that are upon the ground, by my great power and by my outstretched arm, and have given it unto whom it seemed meet unto me. And now have I given all these lands into the hand of Nebuchadnezzar the king of Babylon, my servant; and the beasts of the field have I given him also to serve him. And all nations shall serve him, and his son, and his son’s son, until the very time of his land come: and then many nations and great kings shall serve themselves of him. And it shall come to pass, that the nation and kingdom which will not serve the same Nebuchadnezzar the king of Babylon, and that will not put their neck under the yoke of the king of Babylon, that nation will I punish, saith the LORD, with the sword, and with the famine, and with the pestilence, until I have consumed them by his hand. Therefore hearken not ye to your prophets, nor to your diviners, nor to your dreamers, nor to your enchanters, nor to your sorcerers, which speak unto you, saying, Ye shall not serve the king of Babylon: For they prophesy a lie unto you, to remove you far from your land; and that I should drive you out, and ye should perish. But the nations that bring their neck under the yoke of the king of Babylon, and serve him, those will I let remain still in their own land, saith the LORD; and they shall till it, and dwell therein. I spake also to Zedekiah king of Judah according to all these words, saying, Bring your necks under the yoke of the king of Babylon, and serve him and his people, and live. Why will ye die, thou and thy people, by the sword, by the famine, and by the pestilence, as the LORD hath spoken against the nation that will not serve the king of Babylon? (Jer. 27:4-13, KJV)
 > Thus saith the LORD God of Israel; Behold, I will turn back the weapons of war that are in your hands, wherewith ye fight against the king of Babylon, and against the Chaldeans, which besiege you without the walls, and I will assemble them into the midst of this city. And I myself will fight against you with an outstretched hand and with a strong arm, even in anger, and in fury, and in great wrath. And I will smite the inhabitants of this city, both man and beast: they shall die of a great pestilence. And afterward, saith the LORD, I will deliver Zedekiah king of Judah, and his servants, and the people, and such as are left in this city from the pestilence, from the sword, and from the famine, into the hand of Nebuchadrezzar king of Babylon, and into the hand of their enemies, and into the hand of those that seek their life: and he shall smite them with the edge of the sword; he shall not spare them, neither have pity, nor have mercy. And unto this people thou shalt say, Thus saith the LORD; Behold, I set before you the way of life, and the way of death. He that abideth in this city shall die by the sword, and by the famine, and by the pestilence: but he that goeth out, and falleth to the Chaldeans that besiege you, he shall live, and his life shall be unto him for a prey. For I have set my face against this city for evil, and not for good, saith the LORD: it shall be given into the hand of the king of Babylon, and he shall burn it with fire. (Jer. 21:4-10, KJV)
 
-### (2) God's judgments on pagan nations (Babylon, God sovereignty)
+### (2) God's judgments on pagan nations (Babylon, God's sovereignty)
 
 #### (a) Non-acceptance, opposition to the transmission of the Word of God, the Covenant, Christ Jer. 46-49
 
@@ -53,15 +53,15 @@
 
 ### (3) Judea will be reborn, and Babylon will be destroyed. Jer. 50-51
 
-#### (a) The Preservation of Judea is the fulfillment of the Word of God, the Covenant, Christ Gen. 3:15, 21
+#### (a) The Preservation of Judea is the fulfillment of the Word of God, the Covenant, and Christ Gen. 3:15, 21
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-#### (b) The importance of understanding God's sovereignty and control. (Nebuchadnezzar, the Babylonian Kingdom is the fulfillment of God's will)
+#### (b) The importance of understanding God's sovereignty and control. (Nebuchadnezzar, the Babylonian Kingdom – fulfilling the will of God)
 
 ## 4) Jeremiah is a preaching disciple, prophet, and priest
 
-### (1) Jer. 1:4-9; 9:23-24; 29:11 (9:23-24,29:11), - The importance of knowing and transmitting the Word of God, the Covenant, Christ (God's sovereignty, election, teaching)
+### (1) Jer. 1:4-9; 9:23-24; 29:11 (9:23-24,29:11), - The importance of knowing and transmitting the Word of God, the Covenant, and Christ (God's sovereignty, election, and teaching)
 > Then the word of the LORD came unto me, saying, Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations. Then said I, Ah, Lord GOD! behold, I cannot speak: for I am a child. But the LORD said unto me, Say not, I am a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak. Be not afraid of their faces: for I am with thee to deliver thee, saith the LORD. Then the LORD put forth his hand, and touched my mouth. And the LORD said unto me, Behold, I have put my words in thy mouth. (Jer. 1:4-9, KJV)
 > Thus saith the LORD, Let not the wise man glory in his wisdom, neither let the mighty man glory in his might, let not the rich man glory in his riches: But let him that glorieth glory in this, that he understandeth and knoweth me, that I am the LORD which exercise lovingkindness, judgment, and righteousness, in the earth: for in these things I delight, saith the LORD. (Jer. 9:23-24, KJV)
 > For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end. (Jer. 29:11, KJV)
@@ -69,12 +69,12 @@
 ### (2) Jer. 17:5-10, - wrong hope and human problem
 > Thus saith the LORD; Cursed be the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the LORD. For he shall be like the heath in the desert, and shall not see when good cometh; but shall inhabit the parched places in the wilderness, in a salt land and not inhabited. Blessed is the man that trusteth in the LORD, and whose hope the LORD is. For he shall be as a tree planted by the waters, and that spreadeth out her roots by the river, and shall not see when heat cometh, but her leaf shall be green; and shall not be careful in the year of drought, neither shall cease from yielding fruit. The heart is deceitful above all things, and desperately wicked: who can know it? I the LORD search the heart, I try the reins, even to give every man according to his ways, and according to the fruit of his doings. (Jer. 17:5-10, KJV)
 
-### (3) Jer. 31:29-34; 23:5-6; 33:14-16, - the fulfillment of the Word of God, the Covenant, Christ, the coming of N.Z., God's greatest love for humanity
+### (3) Jer. 31:29-34; 23:5-6; 33:14-16, - the fulfillment of the Word of God, the Covenant, of Christ, the advent of N.Z., the greatest love of God for humanity
 > In those days they shall say no more, The fathers have eaten a sour grape, and the children’s teeth are set on edge. But every one shall die for his own iniquity: every man that eateth the sour grape, his teeth shall be set on edge. Behold, the days come, saith the LORD, that I will make a new covenant with the house of Israel, and with the house of Judah: Not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they brake, although I was an husband unto them, saith the LORD: But this shall be the covenant that I will make with the house of Israel; After those days, saith the LORD, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people. And they shall teach no more every man his neighbour, and every man his brother, saying, Know the LORD: for they shall all know me, from the least of them unto the greatest of them, saith the LORD: for I will forgive their iniquity, and I will remember their sin no more. (Jer. 31:29-34, KJV)
 > Behold, the days come, saith the LORD, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth. In his days Judah shall be saved, and Israel shall dwell safely: and this is his name whereby he shall be called, THE LORD OUR RIGHTEOUSNESS. (Jer. 23:5-6, KJV)
 > Behold, the days come, saith the LORD, that I will perform that good thing which I have promised unto the house of Israel and to the house of Judah. In those days, and at that time, will I cause the Branch of righteousness to grow up unto David; and he shall execute judgment and righteousness in the land. In those days shall Judah be saved, and Jerusalem shall dwell safely: and this is the name wherewith she shall be called, The LORD our righteousness. (Jer. 33:14-16, KJV)
 
-### (4) The action of Satan is resistance to the Word of God, the Covenant, Christ (kings, false prophets)
+### (4) The act of Satan is to resist the Word of God, the Covenant, and Christ (kings, false prophets)
 
 ### (5) Jer. 30:1-2 (36,45), - the importance of the epistle and the disciple (Baruch)
 > The word that came to Jeremiah from the LORD, saying, Thus speaketh the LORD God of Israel, saying, Write thee all the words that I have spoken unto thee in a book. (Jer. 30:1-2, KJV)

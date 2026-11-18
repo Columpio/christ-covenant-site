@@ -1,15 +1,15 @@
 # 42. Understanding God's Faith – Works of Faith, Works of the Law, and Good Deeds
-- God's faith is the right understanding and the right fulfillment of the Word of God, the Covenant, Christ Mark 11:23,Heb. 11:6
+- God's faith is the correct understanding and fulfillment of the Word of God, the Covenant, Christ Mark 11:23,Heb. 11:6
 
 > For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith. (Mark 11:23, KJV)
 > But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him. (Heb. 11:6, KJV)
 
-- Human faith is a misunderstanding and incorrect fulfillment of the Word of God, the Covenant, Christ
-- Works of Faith – knowledge and transmission of the Word of God, the Covenant, Christ
+- Human faith is a misunderstanding and incorrect fulfillment of the Word of God, the Covenant, and Christ.
+- Works of Faith – knowledge and transmission of the Word of God, the Covenant, and Christ
 - Works of the Law – keeping the commandments of God (Decalogue)
 - Good Deeds – helping one's neighbor and God's creation
 
-## 1) God's Faith and Works of Faith – God's Will for Man Mark 11:23
+## 1) God's Faith and Works of Faith – God's will for man Mark 11:23
 > For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith. (Mark 11:23, KJV)
 
 ### (1) Gen. 1:27; 2:7, 16-17; 1:28, - the faith of God, Emmanuel
@@ -22,7 +22,7 @@
 > So then faith cometh by hearing, and hearing by the word of God. (Rom. 10:17, KJV)
 > But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him. (Heb. 11:6, KJV)
 
-#### (b) Works of faith – preservation, knowledge and transmission of the Word of God, the Covenant, Christ
+#### (b) Works of faith – the preservation, knowledge, and transmission of the Word of God, the Covenant, and Christ
 
 #### (c) The absence of the Law as the written Word of God is a perfect man. Rom. 2:14-15; 5:13
 > For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law unto themselves: Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while accusing or else excusing one another;) (Rom. 2:14-15, KJV)
@@ -36,7 +36,7 @@
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
 
-#### (a) Renunciation of God's faith, human faith – hearing and accepting another word, the right to choose and the responsibility of man
+#### (a) Renunciation of the faith of God, human faith – hearing and accepting another word, the right to choose and the responsibility of man
 
 #### (b) The absence of works of faith – the absence of the Word of God, the Covenant, Christ
 
@@ -56,7 +56,7 @@
 > So then faith cometh by hearing, and hearing by the word of God. (Rom. 10:17, KJV)
 > And if by grace, then is it no more of works: otherwise grace is no more grace. But if it be of works, then is it no more grace: otherwise work is no more work. (Rom. 11:6, KJV)
 
-#### (b) Works of faith – preservation, knowledge and transmission of the Word of God, the Covenant, Christ
+#### (b) Works of faith – the preservation, knowledge, and transmission of the Word of God, the Covenant, and Christ
 
 #### (c) The absence of the Law as the written Word of God, the appearance in V.Z. (To realize the problem of sin and the impossibility of salvation by one's own efforts, the importance of living a right life in God's standards) Rom. 2:14-15; 5:13-14, - Rom. 3:9-10, 19-20,Gal. 3:19
 > For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law unto themselves: Which shew the work of the law written in their hearts, their conscience also bearing witness, and their thoughts the mean while accusing or else excusing one another;) (Rom. 2:14-15, KJV)
@@ -65,7 +65,7 @@
 > Now we know that what things soever the law saith, it saith to them who are under the law: that every mouth may be stopped, and all the world may become guilty before God. Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin. (Rom. 3:19-20, KJV)
 > Wherefore then serveth the law? It was added because of transgressions, till the seed should come to whom the promise was made; and it was ordained by angels in the hand of a mediator. (Gal. 3:19, KJV)
 
-#### (d) Good deeds – fulfilling the will of God, the importance of transmitting the Word of God
+#### (d) Good deeds – fulfilling God's will, the importance of conveying God's Word
 
 ## 2) Works of Faith – preservation, knowledge and transmission of the Word of God, the Covenant, Christ John 6:28-29
 > Then said they unto him, What shall we do, that we might work the works of God? Jesus answered and said unto them, This is the work of God, that ye believe on him whom he hath sent. (John 6:28-29, KJV)
@@ -77,9 +77,9 @@
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
 > And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also. (2 Tim. 2:2, KJV)
 
-#### (b) Faith of demons – resistance to knowledge and transmission of the Word of God, the Covenant, Christ
+#### (b) The faith of demons is resistance to the knowledge and transmission of the Word of God, the Covenant, of Christ
 
-#### (c) The Faith of Abraham – the knowledge and transmission of the Word of God, the Covenant, Christ Heb. 11:17-19
+#### (c) The faith of Abraham is the knowledge and transmission of the Word of God, the Covenant, and Christ Heb. 11:17-19
 > By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten son, Of whom it was said, That in Isaac shall thy seed be called: Accounting that God was able to raise him up, even from the dead; from whence also he received him in a figure. (Heb. 11:17-19, KJV)
 
 #### (d) Faith of Rahab – acceptance (knowledge) and transmission of the Word of God, the Covenant, Christ (Spies, a matter of life and death, Canaan, World Evangelization, the Christ family) Heb. 11:31,Josh. 2:9-11, - Matt. 1:5 (the Covenant family, Christ)
@@ -97,7 +97,7 @@
 #### (b) Knowledge of the Word of God, the Covenant, Christ, the local Church. John 8:31-32
 > Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; And ye shall know the truth, and the truth shall make you free. (John 8:31-32, KJV)
 
-#### (c) Transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization Matt. 28:19-20
+#### (c) Transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization Matt. 28:19-20
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
 
 #### (d) Participation in the sacraments of God – Water Baptism, Communion
@@ -141,7 +141,7 @@
 
 ### (1) Wrong motivation – Earning salvation
 
-### (2) The right motivation is the fulfillment of God's will, the glorification of God, the transmission of the Word of God, the Covenant, Christ
+### (2) The right motivation is to fulfill the will of God, glorify God, and transmit the Word of God, the Covenant, and Christ.
 
 ## Conclusion:
 

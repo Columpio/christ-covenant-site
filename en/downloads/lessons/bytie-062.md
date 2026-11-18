@@ -4,7 +4,7 @@
 ### (1) John 5:39, - all the Scriptures speak about Christ
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 
-### (2) Col. 1:26-27,Eph. 3:8-9, - Christ, the mystery of God revealed by God Himself, God's sovereignty and control. (The impossibility of understanding the Word of God, the Covenant, Christ without the grace of God)
+### (2) Col. 1:26-27,Eph. 3:8-9, - Christ, the mystery of God revealed by God Himself, God's sovereignty and control. (The impossibility of understanding the Word of God, the Covenant, and Christ without the grace of God)
 > Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints: To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory: (Col. 1:26-27, KJV)
 > Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ; And to make all men see what is the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ: (Eph. 3:8-9, KJV)
 
@@ -31,7 +31,7 @@
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > And almost all things are by the law purged with blood; and without shedding of blood is no remission. (Heb. 9:22, KJV)
 
-### (2) Christ as the Savior of the Gentiles and the Accomplice of World Evangelization (Egyptians, Amorites, Hittites, Philistines, etc.)
+### (2) Christ as the Savior of the Gentiles and the Leader of Worldwide Evangelization (Egyptians, Amorites, Hittites, Philistines, etc.)
 
 #### (a) The importance of understanding God's perfect will. 1 Tim. 2:4
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
@@ -53,7 +53,7 @@
 
 ### (4) Christ as the Birthright (Esau and Jacob)
 
-#### (a) The importance of understanding the Birthright – the continuation of the Father's work (knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization)
+#### (a) The importance of understanding Birthright is the continuation of the Father's work (knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 
 #### (b) The importance of understanding the example of Jesus Christ. John 17:4
 > I have glorified thee on the earth: I have finished the work which thou gavest me to do. (John 17:4, KJV)
@@ -72,7 +72,7 @@
 
 ### (6) Christ as the One Who Struggles with unbelief (Jacob's struggle)
 
-#### (a) Unbelief, life outside the Word of God – the act of Satan, the right of choice of man
+#### (a) Unbelief, living outside the Word of God is an act of Satan, a person's right to choose
 
 #### (c) The crushing of unbelief – the grace of God, hearing the Word of God, the right to choose a person Rev. 3:20,Rom. 10:17, - John 8:31-32,1 Tim. 4:16, - John 1:1, 14
 > Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me. (Rev. 3:20, KJV)
@@ -110,7 +110,7 @@
 
 #### (a) The knowledge of Christ is the whole world, the effect of God's grace
 
-#### (b) Misunderstanding of Christ, God's chastisement of man (conscience) – hatred of Christ, the action of Satan, the right to choose man Gen. 37:3-5, - John 15:25
+#### (b) Misunderstanding of Christ, God's chastisement of man (conscience) – hatred of Christ, the action of Satan, the right to choose a person Gen. 37:3-5, - John 15:25
 > Now Israel loved Joseph more than all his children, because he was the son of his old age: and he made him a coat of many colours. And when his brethren saw that their father loved him more than all his brethren, they hated him, and could not speak peaceably unto him. And Joseph dreamed a dream, and he told it his brethren: and they hated him yet the more. (Gen. 37:3-5, KJV)
 > But this cometh to pass, that the word might be fulfilled that is written in their law, They hated me without a cause. (John 15:25, KJV)
 
@@ -129,7 +129,7 @@
 #### (a) The True Bread of Life is Jesus Christ. John 6:33-35
 > For the bread of God is he which cometh down from heaven, and giveth life unto the world. Then said they unto him, Lord, evermore give us this bread. And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst. (John 6:33-35, KJV)
 
-#### (b) The importance of the True Bread of Life for man – the importance of knowing and transmitting the Word of God, the Covenant, Christ
+#### (b) The importance of the True Bread of Life for man – the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
 ### (12) Christ as the One Who will suffer undeservedly for the salvation of many people (the fate of Joseph)
 
@@ -169,7 +169,7 @@
 
 ### (1) The importance of studying the Scriptures
 
-### (2) The Importance of Understanding the Word of God, the Covenant, Christ John 5:39
+### (2) The Importance of Understanding the Word of God, the Covenant, and Christ John 5:39
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 
 ### (3) The importance of understanding Christ from the Beginning, the Importance of understanding God's plan for humanity Amos 3:7,Jer. 29:11

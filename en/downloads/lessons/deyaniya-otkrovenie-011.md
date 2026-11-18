@@ -28,7 +28,7 @@
 
 #### (a) God's sovereignty, the prepared disciples – Timothy
 
-#### (b) Timothy's faith, acceptance of the Word of God, the Covenant, Christ – Loida's grandmother and Eunice's mother, the importance of knowing and transmitting the Word of God, the Covenant, Christ (Acceptance of the Divinity of Christ and the All–sufficiency of His Sacrifice - the correct understanding of V.Z.) 2 Tim. 1:5, - John 10:33,Rom. 9:30-33
+#### (b) Timothy's faith, acceptance of the Word of God, the Covenant, and Christ – Lois' grandmother and Eunice's mother, the importance of knowing and transmitting the Word of God, the Covenant, and Christ (Acceptance of the Divinity of Christ and the All–sufficiency of His Sacrifice is the correct understanding of V.Z.) 2 Tim. 1:5, - John 10:33,Rom. 9:30-33
 > When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also. (2 Tim. 1:5, KJV)
 > The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. (John 10:33, KJV)
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
@@ -38,7 +38,7 @@
 
 #### (a) Timofey is a Jew by his mother
 
-#### (b) The motive of circumcision is the transmission of the Word of God, the Covenant, Christ to the Jews
+#### (b) The motive of circumcision is the transmission of the Word of God, the Covenant, and Christ to the Jews
 
 ### (4) Acts 16:4-5, - the importance of learning, knowledge of the Word of God, the Covenant, Christ
 > And as they went through the cities, they delivered them the decrees for to keep, that were ordained of the apostles and elders which were at Jerusalem. And so were the churches established in the faith, and increased in number daily. (Acts 16:4-5, KJV)
@@ -49,22 +49,22 @@
 ### (6) Acts 16:11-13, - transmission of the Word of God, the Covenant, Christ (believers, synagogue)
 > Therefore loosing from Troas, we came with a straight course to Samothracia, and the next day to Neapolis; And from thence to Philippi, which is the chief city of that part of Macedonia, and a colony: and we were in that city abiding certain days. And on the sabbath we went out of the city by a river side, where prayer was wont to be made; and we sat down, and spake unto the women which resorted thither. (Acts 16:11-13, KJV)
 
-### (7) Acts 16:14-15, - God sovereignty, time schedule (Lydia)
+### (7) Acts 16:14-15, - God's Sovereignty, time schedule (Lydia)
 > And a certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard us: whose heart the Lord opened, that she attended unto the things which were spoken of Paul. And when she was baptized, and her household, she besought us, saying, If ye have judged me to be faithful to the Lord, come into my house, and abide there. And she constrained us. (Acts 16:14-15, KJV)
 
-## 2) Acts 16:16-40, - the action of Satan, stop the transmission of the Word of God, the Covenant, Christ
+## 2) Acts 16:16-40, - the action of Satan, to stop the transmission of the Word of God, the Covenant, Christ
 > And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying: The same followed Paul and us, and cried, saying, These men are the servants of the most high God, which shew unto us the way of salvation. And this did she many days. But Paul, being grieved, turned and said to the spirit, I command thee in the name of Jesus Christ to come out of her. And he came out the same hour. And when her masters saw that the hope of their gains was gone, they caught Paul and Silas, and drew them into the marketplace unto the rulers, And brought them to the magistrates, saying, These men, being Jews, do exceedingly trouble our city, And teach customs, which are not lawful for us to receive, neither to observe, being Romans. And the multitude rose up together against them: and the magistrates rent off their clothes, and commanded to beat them. And when they had laid many stripes upon them, they cast them into prison, charging the jailor to keep them safely: Who, having received such a charge, thrust them into the inner prison, and made their feet fast in the stocks. And at midnight Paul and Silas prayed, and sang praises unto God: and the prisoners heard them. And suddenly there was a great earthquake, so that the foundations of the prison were shaken: and immediately all the doors were opened, and every one’s bands were loosed. And the keeper of the prison awaking out of his sleep, and seeing the prison doors open, he drew out his sword, and would have killed himself, supposing that the prisoners had been fled. But Paul cried with a loud voice, saying, Do thyself no harm: for we are all here. Then he called for a light, and sprang in, and came trembling, and fell down before Paul and Silas, And brought them out, and said, Sirs, what must I do to be saved? And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house. And they spake unto him the word of the Lord, and to all that were in his house. And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, straightway. And when he had brought them into his house, he set meat before them, and rejoiced, believing in God with all his house. And when it was day, the magistrates sent the serjeants, saying, Let those men go. And the keeper of the prison told this saying to Paul, The magistrates have sent to let you go: now therefore depart, and go in peace. But Paul said unto them, They have beaten us openly uncondemned, being Romans, and have cast us into prison; and now do they thrust us out privily? nay verily; but let them come themselves and fetch us out. And the serjeants told these words unto the magistrates: and they feared, when they heard that they were Romans. And they came and besought them, and brought them out, and desired them to depart out of the city. And they went out of the prison, and entered into the house of Lydia: and when they had seen the brethren, they comforted them, and departed. (Acts 16:16-40, KJV)
 
-### (1) Acts 16:16-18, - affirmation of faith by God (witness the Holy Spirit, not demons)
+### (1) Acts 16:16-18, - affirmation of God's faith (testimony of the Holy Spirit, not demons)
 > And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying: The same followed Paul and us, and cried, saying, These men are the servants of the most high God, which shew unto us the way of salvation. And this did she many days. But Paul, being grieved, turned and said to the spirit, I command thee in the name of Jesus Christ to come out of her. And he came out the same hour. (Acts 16:16-18, KJV)
 
 ### (2) Acts 16:19-24, - the action of Satan
 > And when her masters saw that the hope of their gains was gone, they caught Paul and Silas, and drew them into the marketplace unto the rulers, And brought them to the magistrates, saying, These men, being Jews, do exceedingly trouble our city, And teach customs, which are not lawful for us to receive, neither to observe, being Romans. And the multitude rose up together against them: and the magistrates rent off their clothes, and commanded to beat them. And when they had laid many stripes upon them, they cast them into prison, charging the jailor to keep them safely: Who, having received such a charge, thrust them into the inner prison, and made their feet fast in the stocks. (Acts 16:19-24, KJV)
 
-### (3) Acts 16:25-29, - God sovereignty and control, time schedule
+### (3) Acts 16:25-29, - God's sovereignty and control, time schedule
 > And at midnight Paul and Silas prayed, and sang praises unto God: and the prisoners heard them. And suddenly there was a great earthquake, so that the foundations of the prison were shaken: and immediately all the doors were opened, and every one’s bands were loosed. And the keeper of the prison awaking out of his sleep, and seeing the prison doors open, he drew out his sword, and would have killed himself, supposing that the prisoners had been fled. But Paul cried with a loud voice, saying, Do thyself no harm: for we are all here. Then he called for a light, and sprang in, and came trembling, and fell down before Paul and Silas, (Acts 16:25-29, KJV)
 
-### (4) Acts 16:30-34, - the importance of conveying the Word of God, the Covenant, Christ (salvation)
+### (4) Acts 16:30-34, - the importance of conveying the Word of God, the Covenant, and Christ (salvation)
 > And brought them out, and said, Sirs, what must I do to be saved? And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house. And they spake unto him the word of the Lord, and to all that were in his house. And he took them the same hour of the night, and washed their stripes; and was baptized, he and all his, straightway. And when he had brought them into his house, he set meat before them, and rejoiced, believing in God with all his house. (Acts 16:30-34, KJV)
 
 ### (5) Acts 16:35-40, - God's sovereignty and control over the lives of God's children, the importance of fulfilling destiny
@@ -93,8 +93,8 @@
 
 ## Conclusion:
 
-### (1) The importance of learning, understanding, and fulfilling a mission. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+### (1) The importance of learning, understanding, and fulfilling a mission. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 
 ### (2) God's Method of Worldwide Evangelization (Church level) – Synagogues
 
-### (3) The importance of understanding the Goddess and the timetable of time
+### (3) The importance of understanding God's Sovereignty and Time schedule

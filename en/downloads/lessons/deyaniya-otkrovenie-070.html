@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>1 Cor. 15: Baptism of the Holy Spirit Salvation is the Holy Spirit in man.</title>
+<title>1 Cor. 15: The Baptism of the Holy Spirit Salvation is the Holy Spirit in man.</title>
 <script>(function(){var d=document,s;try{s=localStorage}catch(e){}function get(k){try{return s&&s.getItem(k)}catch(e){return null}}function put(k,v){try{s&&s.setItem(k,v)}catch(e){}}var v=get('bibleVersion');if(!/^(kjv|bsb|web)$/.test(v||''))v='kjv';d.documentElement.setAttribute('data-bv',v);d.addEventListener('DOMContentLoaded',function(){var b=d.querySelector('.bv-select');if(!b)return;b.value=v;b.addEventListener('change',function(){v=b.value;put('bibleVersion',v);d.documentElement.setAttribute('data-bv',v)})});})();</script>
 <style>
 @font-face{font-family:"Cormorant SC";font-style:normal;font-weight:700;font-display:swap;src:url(fonts/cormorant-sc-700-cyr.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,16 +233,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
-<h1>1 Cor. 15: Baptism of the Holy Spirit Salvation is the Holy Spirit in man.</h1>
-<h2 id="s1">18.1) 1 Cor. 15:1-2, - the importance of understanding the Word of God, the Covenant, Christ</h2>
+<h1>1 Cor. 15: The Baptism of the Holy Spirit Salvation is the Holy Spirit in man.</h1>
+<h2 id="s1">18.1) 1 Cor. 15:1-2, - the importance of understanding the Word of God, the Covenant, and Christ</h2>
 <blockquote data-v="kjv"><p>Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand; By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain.</p><cite>1 Cor. 15:1-2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Now, brothers, I want to remind you of the gospel I preached to you, which you received, and in which you stand firm. By this gospel you are saved, if you hold firmly to the word I preached to you. Otherwise, you have believed in vain.</p><cite>1 Cor. 15:1-2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now I declare to you, brothers, the Good News which I preached to you, which also you received, in which you also stand, by which also you are saved, if you hold firmly the word which I preached to you—unless you believed in vain.</p><cite>1 Cor. 15:1-2 · WEB</cite></blockquote>
@@ -291,7 +293,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand;</p><cite>1 Cor. 15:1 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Now, brothers, I want to remind you of the gospel I preached to you, which you received, and in which you stand firm.</p><cite>1 Cor. 15:1 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now I declare to you, brothers, the Good News which I preached to you, which also you received, in which you also stand,</p><cite>1 Cor. 15:1 · WEB</cite></blockquote>
-<h3>(3) 1 Cor. 15:2, - the importance of preserving the purity of the Word of God, the Covenant, Christ, the importance of understanding the stages of human salvation</h3>
+<h3>(3) 1 Cor. 15:2, - the importance of preserving the purity of the Word of God, the Covenant, and Christ, and the importance of understanding the stages of human salvation</h3>
 <blockquote data-v="kjv"><p>By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain.</p><cite>1 Cor. 15:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>By this gospel you are saved, if you hold firmly to the word I preached to you. Otherwise, you have believed in vain.</p><cite>1 Cor. 15:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>by which also you are saved, if you hold firmly the word which I preached to you—unless you believed in vain.</p><cite>1 Cor. 15:2 · WEB</cite></blockquote>
@@ -316,17 +318,17 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>For as in Adam all die, so also in Christ all will be made alive. But each in his own order: Christ the first fruits, then those who are Christ’s at his coming.</p><cite>1 Cor. 15:22-23 · WEB</cite></blockquote>
 <h2 id="s2">2) Understanding the possibility of abandoning salvation</h2>
 <ul>
-<li>"Sin to death" – non-acceptance and life outside the Word of God, the Covenant, Christ</li>
-<li>"Sin does not lead to death" is a violation of the institutions of the Word of God, the commandments of God, i.e. wrong thoughts, emotions, actions are a consequence of sin, the sinful essence of man</li>
+<li>"Sin to death" – non-acceptance and living outside the Word of God, the Covenant, and Christ</li>
+<li>"Sin does not lead to death" is a violation of the provisions of the Word of God, the commandments of God, i.e. wrong thoughts, emotions, actions are a consequence of sin, the sinful essence of man</li>
 </ul>
 <h3>(1) Open rejection of Christ – rejection of the Word of God, the Covenant, Christ</h3>
 <h4>(a) An idol (family, work, etc.) is a conscious choice of a person</h4>
 <h4>(b) The persecution of Christians is a compulsion to renounce Christ</h4>
-<h3>(2) Other teachings are the rejection of the Word of God, the Covenant, Christ, and the Sacrifice of Christ. (God's condition for salvation is acceptance and preservation of faith in Christ)</h3>
+<h3>(2) Other teachings are the rejection of the Word of God, the Covenant, Christ, and the Sacrifice of Christ. (God's condition for salvation is the acceptance and preservation of faith in Christ)</h3>
 <h4>(a) The rejection of Jesus Christ as the True and Holy God. (The heresy of Arianism, modern Jehovah's Witnesses)</h4>
 <h4>(b) The non-acceptance of the all-sufficiency of Christ's Sacrifice and Feat for the salvation of man, the atonement and forgiveness of all sins. (The heresy of the "mixed gospel" and "partial salvation")</h4>
 <h3>(3) Systemic "sin of non–death" (idols, renunciation of destiny) - human ideology, building a platform for falling away, committing "sin to death", apostasy</h3>
-<h2 id="s3">3) 1 Cor. 15:3-11, - the importance of understanding the Word of God, the Covenant, Christ</h2>
+<h2 id="s3">3) 1 Cor. 15:3-11, - the importance of understanding the Word of God, the Covenant, and Christ</h2>
 <blockquote data-v="kjv"><p>For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures; And that he was buried, and that he rose again the third day according to the scriptures: And that he was seen of Cephas, then of the twelve: After that, he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep. After that, he was seen of James; then of all the apostles. And last of all he was seen of me also, as of one born out of due time. For I am the least of the apostles, that am not meet to be called an apostle, because I persecuted the church of God. But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me. Therefore whether it were I or they, so we preach, and so ye believed.</p><cite>1 Cor. 15:3-11 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For what I received I passed on to you as of first importance: that Christ died for our sins according to the Scriptures, that He was buried, that He was raised on the third day according to the Scriptures, and that He appeared to Cephas and then to the Twelve. After that, He appeared to more than five hundred brothers at once, most of whom are still living, though some have fallen asleep. Then He appeared to James, then to all the apostles. And last of all He appeared to me also, as to one of untimely birth. For I am the least of the apostles and am unworthy to be called an apostle, because I persecuted the church of God. But by the grace of God I am what I am, and His grace to me was not in vain. No, I worked harder than all of them—yet not I, but the grace of God that was with me. Whether, then, it was I or they, this is what we preach, and this is what you believed.</p><cite>1 Cor. 15:3-11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For I delivered to you first of all that which I also received: that Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures, and that he appeared to Cephas, then to the twelve. Then he appeared to over five hundred brothers at once, most of whom remain until now, but some have also fallen asleep. Then he appeared to James, then to all the apostles, and last of all, as to the child born at the wrong time, he appeared to me also. For I am the least of the apostles, who is not worthy to be called an apostle, because I persecuted the assembly of God. But by the grace of God I am what I am. His grace which was given to me was not futile, but I worked more than all of them; yet not I, but the grace of God which was with me. Whether then it is I or they, so we preach, and so you believed.</p><cite>1 Cor. 15:3-11 · WEB</cite></blockquote>
@@ -334,7 +336,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures; And that he was buried, and that he rose again the third day according to the scriptures: And that he was seen of Cephas, then of the twelve: After that, he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep. After that, he was seen of James; then of all the apostles. And last of all he was seen of me also, as of one born out of due time. For I am the least of the apostles, that am not meet to be called an apostle, because I persecuted the church of God.</p><cite>1 Cor. 15:3-9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For what I received I passed on to you as of first importance: that Christ died for our sins according to the Scriptures, that He was buried, that He was raised on the third day according to the Scriptures, and that He appeared to Cephas and then to the Twelve. After that, He appeared to more than five hundred brothers at once, most of whom are still living, though some have fallen asleep. Then He appeared to James, then to all the apostles. And last of all He appeared to me also, as to one of untimely birth. For I am the least of the apostles and am unworthy to be called an apostle, because I persecuted the church of God.</p><cite>1 Cor. 15:3-9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For I delivered to you first of all that which I also received: that Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures, and that he appeared to Cephas, then to the twelve. Then he appeared to over five hundred brothers at once, most of whom remain until now, but some have also fallen asleep. Then he appeared to James, then to all the apostles, and last of all, as to the child born at the wrong time, he appeared to me also. For I am the least of the apostles, who is not worthy to be called an apostle, because I persecuted the assembly of God.</p><cite>1 Cor. 15:3-9 · WEB</cite></blockquote>
-<h3>(2) 1 Cor. 15:10, - the special importance of knowing and transmitting the Word of God, the Covenant, Christ, World Evangelization, the action of God's grace</h3>
+<h3>(2) 1 Cor. 15:10, - the special importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, and the action of God's grace</h3>
 <blockquote data-v="kjv"><p>But by the grace of God I am what I am: and his grace which was bestowed upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me.</p><cite>1 Cor. 15:10 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But by the grace of God I am what I am, and His grace to me was not in vain. No, I worked harder than all of them—yet not I, but the grace of God that was with me.</p><cite>1 Cor. 15:10 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But by the grace of God I am what I am. His grace which was given to me was not futile, but I worked more than all of them; yet not I, but the grace of God which was with me.</p><cite>1 Cor. 15:10 · WEB</cite></blockquote>
@@ -357,14 +359,14 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>If there is no resurrection of the dead, then not even Christ has been raised. And if Christ has not been raised, our preaching is worthless, and so is your faith. In that case, we are also exposed as false witnesses about God. For we have testified about God that He raised Christ from the dead, but He did not raise Him if in fact the dead are not raised. For if the dead are not raised, then not even Christ has been raised. And if Christ has not been raised, your faith is futile; you are still in your sins. Then those also who have fallen asleep in Christ have perished. If our hope in Christ is for this life alone, we are to be pitied more than all men.</p><cite>1 Cor. 15:13-19 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But if there is no resurrection of the dead, neither has Christ been raised. If Christ has not been raised, then our preaching is in vain and your faith also is in vain. Yes, we are also found false witnesses of God, because we testified about God that he raised up Christ, whom he didn’t raise up if it is true that the dead are not raised. For if the dead aren’t raised, neither has Christ been raised. If Christ has not been raised, your faith is vain; you are still in your sins. Then they also who are fallen asleep in Christ have perished. If we have only hoped in Christ in this life, we are of all men most pitiable.</p><cite>1 Cor. 15:13-19 · WEB</cite></blockquote>
 <h4>(a) Denying the resurrection means that Jesus is not the Christ, not God in the flesh, but a sinner</h4>
-<h4>(b) Denying the resurrection means that Jesus Christ did not fulfill the sentence of the Word of God and did not enter the Heavenly Sanctuary with His Blood – there is no redemption, forgiveness and justification for man, there is no N.Z. and the Church (meaninglessness of faith in Jesus Christ)</h4>
+<h4>(b) Denying the resurrection means that Jesus Christ did not fulfill the sentence of the Word of God and did not enter the Heavenly Sanctuary with His Blood – there is no redemption, forgiveness and justification of man, there is no N.Z. and the Church (meaninglessness of faith in Jesus Christ)</h4>
 <h4>(c) Denying the resurrection means that Christ has not accomplished the redemption and salvation of man (spirit, soul, body)</h4>
 <h4>(d) The denial of the resurrection means the meaninglessness of human life, the denial of further eternal life with God. (The meaninglessness of the Christian faith, the most unhappy of all people)</h4>
-<h2 id="s5">5) 1 Cor. 15:20-28, - the importance of understanding the Word of God, the Covenant, Christ</h2>
+<h2 id="s5">5) 1 Cor. 15:20-28, - the importance of understanding the Word of God, the Covenant, and Christ</h2>
 <blockquote data-v="kjv"><p>But now is Christ risen from the dead, and become the firstfruits of them that slept. For since by man came death, by man came also the resurrection of the dead. For as in Adam all die, even so in Christ shall all be made alive. But every man in his own order: Christ the firstfruits; afterward they that are Christ’s at his coming. Then cometh the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule and all authority and power. For he must reign, till he hath put all enemies under his feet. The last enemy that shall be destroyed is death. For he hath put all things under his feet. But when he saith all things are put under him, it is manifest that he is excepted, which did put all things under him. And when all things shall be subdued unto him, then shall the Son also himself be subject unto him that put all things under him, that God may be all in all.</p><cite>1 Cor. 15:20-28 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But Christ has indeed been raised from the dead, the firstfruits of those who have fallen asleep. For since death came through a man, the resurrection of the dead comes also through a man. For as in Adam all die, so in Christ all will be made alive. But each in his own turn: Christ the firstfruits; then at His coming, those who belong to Him. Then the end will come, when He hands over the kingdom to God the Father after He has destroyed all dominion, authority, and power. For He must reign until He has put all His enemies under His feet. The last enemy to be destroyed is death. For “God has put everything under His feet.” Now when it says that everything has been put under Him, this clearly does not include the One who put everything under Him. And when all things have been subjected to Him, then the Son Himself will be made subject to Him who put all things under Him, so that God may be all in all.</p><cite>1 Cor. 15:20-28 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But now Christ has been raised from the dead. He became the first fruit of those who are asleep. For since death came by man, the resurrection of the dead also came by man. For as in Adam all die, so also in Christ all will be made alive. But each in his own order: Christ the first fruits, then those who are Christ’s at his coming. Then the end comes, when he will deliver up the Kingdom to God the Father, when he will have abolished all rule and all authority and power. For he must reign until he has put all his enemies under his feet. The last enemy that will be abolished is death. For, “He put all things in subjection under his feet.” But when he says, “All things are put in subjection”, it is evident that he is excepted who subjected all things to him. When all things have been subjected to him, then the Son will also himself be subjected to him who subjected all things to him, that God may be all in all.</p><cite>1 Cor. 15:20-28 · WEB</cite></blockquote>
-<h3>(1) 1 Cor. 15:20, - the resurrection of Christ in a glorified body, the fulfillment of the Word of God, the Covenant, Christ, the hope of the people of God</h3>
+<h3>(1) 1 Cor. 15:20, - the resurrection of Christ in a glorified body, the fulfillment of the Word of God, the Covenant, of Christ, the hope of the people of God</h3>
 <blockquote data-v="kjv"><p>But now is Christ risen from the dead, and become the firstfruits of them that slept.</p><cite>1 Cor. 15:20 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But Christ has indeed been raised from the dead, the firstfruits of those who have fallen asleep.</p><cite>1 Cor. 15:20 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But now Christ has been raised from the dead. He became the first fruit of those who are asleep.</p><cite>1 Cor. 15:20 · WEB</cite></blockquote>
@@ -398,20 +400,20 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And why stand we in jeopardy every hour? I protest by your rejoicing which I have in Christ Jesus our Lord, I die daily. If after the manner of men I have fought with beasts at Ephesus, what advantageth it me, if the dead rise not? let us eat and drink; for to morrow we die.</p><cite>1 Cor. 15:30-32 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And why do we endanger ourselves every hour? I face death every day, brothers, as surely as I boast about you in Christ Jesus our Lord. If I fought wild beasts in Ephesus for human motives, what did I gain? If the dead are not raised, “Let us eat and drink, for tomorrow we die.”</p><cite>1 Cor. 15:30-32 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Why do we also stand in jeopardy every hour? I affirm, by the boasting in you which I have in Christ Jesus our Lord, I die daily. If I fought with animals at Ephesus for human purposes, what does it profit me? If the dead are not raised, then “let’s eat and drink, for tomorrow we die.”</p><cite>1 Cor. 15:30-32 · WEB</cite></blockquote>
-<h4>(a) He fought with the beasts in Ephesus (literally or figuratively, people or animals) – a situation of real, deadly danger in the life of the Apostle Paul (understanding the resurrection)</h4>
+<h4>(a) He fought with the beasts in Ephesus (literally or figuratively, people or animals) – a situation of real, mortal danger to the life of the Apostle Paul (understanding the resurrection)</h4>
 <h4>(b) Denial of the resurrection is the meaninglessness of the faith of Christians, the most unfortunate of all people</h4>
-<h3>(3) 1 Cor. 15:33-34, - the importance of affirming the Word of God, the Covenant, Christ</h3>
+<h3>(3) 1 Cor. 15:33-34, - the importance of affirming the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>Be not deceived: evil communications corrupt good manners. Awake to righteousness, and sin not; for some have not the knowledge of God: I speak this to your shame.</p><cite>1 Cor. 15:33-34 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Do not be deceived: “Bad company corrupts good character.” Sober up as you ought, and stop sinning; for some of you are ignorant of God. I say this to your shame.</p><cite>1 Cor. 15:33-34 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Don’t be deceived! “Evil companionships corrupt good morals.” Wake up righteously and don’t sin, for some have no knowledge of God. I say this to your shame.</p><cite>1 Cor. 15:33-34 · WEB</cite></blockquote>
-<h4>(a) The importance of purity of teaching and proper communication of the people of God</h4>
+<h4>(a) The importance of purity of teaching and proper communication of God's people</h4>
 <h4>(b) Denial of the resurrection – misunderstanding of the Word of God, the Covenant, Christ, lack of salvation and rebirth (ignorance of God)</h4>
 <h2 id="s7">Conclusion:</h2>
 <h3>(1) The importance of the Word of God, the Covenant, Christ, the importance of purity of teaching</h3>
 <h3>(2) The importance of understanding the possibility of renouncing God</h3>
 <h3>(3) The importance of understanding the Resurrection</h3>
 <h3>(4) The importance of understanding Satan's actions</h3>
-<h3>(5) The importance of understanding and fulfilling the purpose. (Knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the Coming of Christ)</h3>
+<h3>(5) The importance of understanding and fulfilling the purpose. (Knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ)</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
 </body>

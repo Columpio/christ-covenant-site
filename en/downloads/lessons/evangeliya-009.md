@@ -1,6 +1,6 @@
 # 9. Matthew 5 chapter. (The Main ministry of Christ, the Beatitudes)
 
-## 1) Matt. 5:1-2, - the importance of the Word of God and learning for man Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 1) Matt. 5:1-2, - the importance of God's Word and teaching for man Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him: And he opened his mouth, and taught them, saying, (Matt. 5:1-2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -17,7 +17,7 @@
 #### (b) The importance of looking at the Scriptures correctly. John 5:39
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 
-## 2) The importance of understanding the definitions of the Word of God
+## 2) The importance of understanding the definitions of God's Word
 
 ### (1) The commandments of the Covenant are God's conditions for human salvation
 
@@ -47,7 +47,7 @@
 
 #### (a) Understanding the spiritual problem – the power of sin, death, Satan
 
-#### (b) The Importance of Knowing and Communicating the Word of God, the Covenant, Christ, World Evangelization
+#### (b) The importance of knowing and transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
 #### (c) Rejection of the ideology of selfishness
 - The consequence is consolation, God's sovereignty. Rom. 11:25
@@ -57,29 +57,29 @@
 ### (3) Matt. 5:5, - meek (humility before the Word of God, the Covenant, Christ)
 > Blessed are the meek: for they shall inherit the earth. (Matt. 5:5, KJV)
 
-#### (a) Non–acceptance of the Word of God, the Covenant, Christ - religion
+#### (a) Rejection of the Word of God, the Covenant, Christ – religion
 
-#### (b) The importance of fully accepting the Word of God, the Covenant, Christ
+#### (b) The importance of fully accepting the Word of God, the Covenant, and Christ
 
-#### (c) The importance of preserving the purity of the Word of God, the Covenant, Christ the Consequence – the legacy of the earth, World Evangelization, the 1000th Kingdom
+#### (c) The importance of preserving the purity of the Word of God, the Covenant, and Christ. The consequence is the legacy of the earth, World Evangelization, the 1000th Kingdom
 
 ### (4) Matt. 5:6, - those who thirst for truth (understanding the Word of God, the Covenant, Christ)
 > Blessed are they which do hunger and thirst after righteousness: for they shall be filled. (Matt. 5:6, KJV)
 
 #### (a) The source of truth and truth is only the Word of God
 
-#### (b) Learning – the desire for a deep understanding of the Word of God
+#### (b) Learning is the desire for a deep understanding of God's Word
 
-#### (c) Spreading truth and truth – transmitting the Word of God, Worldwide Evangelization Consequence – understanding the Word of God, the Covenant, Christ, the gift of grace of God
+#### (c) The spread of truth and truth – the transmission of the Word of God, Worldwide Evangelization of the Consequence – the understanding of the Word of God, the Covenant, Christ, the gift of God's grace
 
 ### (5) Matt. 5:7, - the merciful (caring for the dying world)
 > Blessed are the merciful: for they shall obtain mercy. (Matt. 5:7, KJV)
 
 #### (a) Understanding the spiritual problem – the power of sin, death, Satan
 
-#### (b) Understanding God's Judgment is the inevitable fulfillment of God's Word
+#### (b) Understanding God's judgment is the inevitable fulfillment of God's Word
 
-#### (c) The importance of transmitting the Word of God, the Covenant, Christ, World Evangelization – the intended purpose
+#### (c) The importance of transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization.
 - The consequence is God's control, mercy, care, and nurture
 
 ### (6) Matt. 5:8, - pure in heart (salvation, right motives)
@@ -98,23 +98,23 @@
 
 #### (a) Understanding the spiritual problem – enmity with God
 
-#### (b) The importance of conveying the Word of God, the Covenant, Christ is the reason for peace with God
+#### (b) The importance of conveying the Word of God, the Covenant, and Christ is the reason for peace with God
 
 #### (c) The cause of all conflicts is a misunderstanding of the Word of God, the Covenant, and Christ. The consequence is God's approval and joy for his children
 
 ### (8) Matt. 5:10-12, - exiled for the truth (transmission of the Word of God, the Covenant, Christ)
 > Blessed are they which are persecuted for righteousness’ sake: for theirs is the kingdom of heaven. Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake. Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you. (Matt. 5:10-12, KJV)
 
-#### (a) The importance of knowing and preserving the purity of the Word of God, the Covenant, Christ
+#### (a) The importance of knowing and preserving the purity of the Word of God, the Covenant, and Christ
 
-#### (b) The importance of transmitting the Word of God, the Covenant, Christ, the disciples, World Evangelization
+#### (b) The importance of transmitting the Word of God, the Covenant, Christ, the Disciples, and Worldwide Evangelization
 
 #### (c) Understanding the work of Satan and God's sovereignty
 - The consequence is salvation, God's reward
 
 ## Conclusion:
 
-### (1) The Importance of Knowing and Communicating the Word of God, the Covenant, Christ, World Evangelism
+### (1) The importance of knowing and transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
 ### (2) The importance of maintaining the purity of the teaching
 

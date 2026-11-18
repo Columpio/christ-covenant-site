@@ -1,6 +1,6 @@
-# 4. Matthew chapter 3, John chapter 1. (John the Baptist, Forerunner - fulfillment of the Word of God)
+# 4. Matthew 3 chapter, John 1 chapter. (John the Baptist, the Forerunner – the fulfillment of the Word of God)
 
-## 1) Mal. 3:1; 4:5,Isa. 40:3 (Matt. 11:7-14), - fulfillment of the Word of God, the Testament, Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 1) Mal. 3:1; 4:5,Isa. 40:3 (Matt. 11:7-14), - fulfillment of the Word of God, the Covenant, Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts. (Mal. 3:1, KJV)
 > Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD: (Mal. 4:5, KJV)
 > The voice of him that crieth in the wilderness, Prepare ye the way of the LORD, make straight in the desert a highway for our God. (Isa. 40:3, KJV)
@@ -27,7 +27,7 @@
 #### (b) Luke 1:8-17, - the testimony of Gabriel, the fulfillment of the Word of God (John the Baptist, God's plan, timetable, the coming of Christ)
 > And it came to pass, that while he executed the priest’s office before God in the order of his course, According to the custom of the priest’s office, his lot was to burn incense when he went into the temple of the Lord. And the whole multitude of the people were praying without at the time of incense. And there appeared unto him an angel of the Lord standing on the right side of the altar of incense. And when Zacharias saw him, he was troubled, and fear fell upon him. But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John. And thou shalt have joy and gladness; and many shall rejoice at his birth. For he shall be great in the sight of the Lord, and shall drink neither wine nor strong drink; and he shall be filled with the Holy Ghost, even from his mother’s womb. And many of the children of Israel shall he turn to the Lord their God. And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord. (Luke 1:8-17, KJV)
 
-#### (c) Luke 1:18-20, is a sin. man's unbelief is the Word of God, visible
+#### (c) Luke 1:18-20, is a sin. man's unbelief of the Word of God, visible
 > And Zacharias said unto the angel, Whereby shall I know this? for I am an old man, and my wife well stricken in years. And the angel answering said unto him, I am Gabriel, that stand in the presence of God; and am sent to speak unto thee, and to shew thee these glad tidings. And, behold, thou shalt be dumb, and not able to speak, until the day that these things shall be performed, because thou believest not my words, which shall be fulfilled in their season. (Luke 1:18-20, KJV)
 
 #### (d) Luke 1:26-38, - the testimony of Gabriel, the fulfillment of the Word of God (Mary, God's plan, timetable, the coming of Christ)
@@ -42,7 +42,7 @@
 #### (g) Luke 1:76-77, - understanding the Word of God, the Covenant, Christ (Zechariah)
 > And thou, child, shalt be called the prophet of the Highest: for thou shalt go before the face of the Lord to prepare his ways; To give knowledge of salvation unto his people by the remission of their sins, (Luke 1:76-77, KJV)
 
-### (2) John the Baptist – the last Prophet of God V.Z., affirmation of the Word of God, the Covenant, Christ 1 Pet. 1:10-11,Acts 10:43
+### (2) John the Baptist is the last Prophet of God, the affirmation of the Word of God, the Covenant, Christ 1 Pet. 1:10-11,Acts 10:43
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
 > To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins. (Acts 10:43, KJV)
 
@@ -58,27 +58,27 @@
 > The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. (John 10:33, KJV)
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
 
-### (3) The Baptism of John the Baptist – the affirmation of the Word of God, the Covenant, Christ
+### (3) The Baptism of John the Baptist is the affirmation of the Word of God, the Covenant, and Christ
 
-#### (a) Immersion – death of Christ, fulfillment of the Word of God, redemption of man
+#### (a) Immersion – the death of Christ, the fulfillment of the Word of God, the redemption of man
 
-#### (b) Ascension – Resurrection of Christ, God in the flesh, Intercessor for man
+#### (b) Ascension – the resurrection of Christ, God in the flesh, the Intercessor for man
 
 #### (c) The baptism of John the Baptist – preparation for the coming of Christ
 
 #### (d) The baptism of John the Baptist was approved by V.Z. Acts 26:4-7
 > My manner of life from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews; Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee. And now I stand and am judged for the hope of the promise made of God unto our fathers: Unto which promise our twelve tribes, instantly serving God day and night, hope to come. For which hope’s sake, king Agrippa, I am accused of the Jews. (Acts 26:4-7, KJV)
 
-## 3) John 1:19-36, - fulfillment of the Word of God, the Covenant, Christ (John's understanding)
+## 3) John 1:19-36, - fulfillment of the Word of God, the Covenant, of Christ (John's understanding)
 > And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou? And he confessed, and denied not; but confessed, I am not the Christ. And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No. Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself? He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias. And they which were sent were of the Pharisees. And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet? John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not; He it is, who coming after me is preferred before me, whose shoe’s latchet I am not worthy to unloose. These things were done in Bethabara beyond Jordan, where John was baptizing. The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world. This is he of whom I said, After me cometh a man which is preferred before me: for he was before me. And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water. And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him. And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost. And I saw, and bare record that this is the Son of God. Again the next day after John stood, and two of his disciples; And looking upon Jesus as he walked, he saith, Behold the Lamb of God! (John 1:19-36, KJV)
 
-### (1) John 1:19-28, - Pharisees and Scribes, knowledge, but rejection of the Word of God, the Covenant, Christ (denial of the Divinity of Christ and denial of the Sufficiency of His Sacrifice). John 10:33,Rom. 9:30-33, - John 8:44
+### (1) John 1:19-28, - Pharisees and Scribes, knowledge, but rejection of the Word of God, the Covenant, Christ (denial of the Divinity of Christ and denial of the All-sufficiency of His Sacrifice). John 10:33,Rom. 9:30-33, - John 8:44
 > And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou? And he confessed, and denied not; but confessed, I am not the Christ. And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No. Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself? He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias. And they which were sent were of the Pharisees. And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet? John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not; He it is, who coming after me is preferred before me, whose shoe’s latchet I am not worthy to unloose. These things were done in Bethabara beyond Jordan, where John was baptizing. (John 1:19-28, KJV)
 > The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. (John 10:33, KJV)
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
 > Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it. (John 8:44, KJV)
 
-### (2) John 1:20-21, - statement of the Word of God, the Covenant, Christ, John's answers Kr
+### (2) John 1:20-21, - statement of the Word of God, the Covenant, Christ, John's answers.
 > And he confessed, and denied not; but confessed, I am not the Christ. And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No. (John 1:20-21, KJV)
 
 #### (a) John the Baptist is not the Christ. Acts 26:4-7,John 4:25
@@ -94,7 +94,7 @@
 > But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John. And thou shalt have joy and gladness; and many shall rejoice at his birth. For he shall be great in the sight of the Lord, and shall drink neither wine nor strong drink; and he shall be filled with the Holy Ghost, even from his mother’s womb. And many of the children of Israel shall he turn to the Lord their God. And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord. (Luke 1:13-17, KJV)
 > And if ye will receive it, this is Elias, which was for to come. (Matt. 11:14, KJV)
 
-### (3) John 1:29-36, - affirmation of the Word of God, Covenant, Christ, confession of John the Baptist
+### (3) John 1:29-36, - affirmation of the Word of God, the Covenant, Christ, the confession of John the Baptist
 > The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world. This is he of whom I said, After me cometh a man which is preferred before me: for he was before me. And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water. And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him. And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost. And I saw, and bare record that this is the Son of God. Again the next day after John stood, and two of his disciples; And looking upon Jesus as he walked, he saith, Behold the Lamb of God! (John 1:29-36, KJV)
 
 #### (a) The Lamb of God is God who came in the flesh, a substitutionary Sacrifice for the redemption of mankind. Gen. 3:15
@@ -139,21 +139,21 @@
 ### (4) Matt. 14:6-12, - God's Love and Control (Adam, Solomon)
 > But when Herod’s birthday was kept, the daughter of Herodias danced before them, and pleased Herod. Whereupon he promised with an oath to give her whatsoever she would ask. And she, being before instructed of her mother, said, Give me here John Baptist’s head in a charger. And the king was sorry: nevertheless for the oath’s sake, and them which sat with him at meat, he commanded it to be given her. And he sent, and beheaded John in the prison. And his head was brought in a charger, and given to the damsel: and she brought it to her mother. And his disciples came, and took up the body, and buried it, and went and told Jesus. (Matt. 14:6-12, KJV)
 
-### (5) John the Baptist – The Forerunner of Christ in eternity (Abraham's bosom)
+### (5) John the Baptist– the Forerunner of Christ in eternity (Abraham's bosom)
 
-### (6) The meaning of life is the transmission of the Word of God, the Covenant, Christ (the coming of Christ)
+### (6) The meaning of life is the transmission of the Word of God, the Covenant, and Christ (the coming of Christ)
 
 ## 6) Matt. 11:7-15,Luke 1:13-17, - John the Baptist, the last Prophet of God, V.Z., the Forerunner, the importance of pointing to Christ
 > And as they departed, Jesus began to say unto the multitudes concerning John, What went ye out into the wilderness to see? A reed shaken with the wind? But what went ye out for to see? A man clothed in soft raiment? behold, they that wear soft clothing are in kings’ houses. But what went ye out for to see? A prophet? yea, I say unto you, and more than a prophet. For this is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee. Verily I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he. And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force. For all the prophets and the law prophesied until John. And if ye will receive it, this is Elias, which was for to come. He that hath ears to hear, let him hear. (Matt. 11:7-15, KJV)
 > But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John. And thou shalt have joy and gladness; and many shall rejoice at his birth. For he shall be great in the sight of the Lord, and shall drink neither wine nor strong drink; and he shall be filled with the Holy Ghost, even from his mother’s womb. And many of the children of Israel shall he turn to the Lord their God. And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord. (Luke 1:13-17, KJV)
 
-### (1) Matt. 11:11, - the importance of accepting and preserving the Word of God, the Covenant, Christ (John the Baptist is the greatest among all people, but Ts.N. is the greatest of all earthly things – he has already come to Ts.N. the greatest of all on earth, the importance of a life lived in the faith of God)
+### (1) Matt. 11:11, - the importance of accepting and preserving the Word of God, the Covenant, and Christ (John the Baptist is the greatest among all people, but Ts.N. is the greatest of all earthly things – he has already come to Ts.N. the greatest of all on earth, the importance of a life lived in the faith of God)
 > Verily I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he. (Matt. 11:11, KJV)
 
-### (2) Matt. 11:12, - the importance of effort, knowledge and transmission of the Word of God, the Covenant, Christ (the process of every person's life)
+### (2) Matt. 11:12, - the importance of making efforts, learning and transmitting the Word of God, the Covenant, and Christ (the process of every person's life)
 > And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force. (Matt. 11:12, KJV)
 
-## 7) 1 Pet. 5:8-9, - stop the transmission of the Covenant, Christ (act of Satan)
+## 7) 1 Pet. 5:8-9, - stop the transmission of the Covenant, of Christ (the action of Satan)
 > Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world. (1 Pet. 5:8-9, KJV)
 
 ### (1) The Temptation of Adam (the Perfect Man)
@@ -163,10 +163,10 @@
 ### (3) The Temptation of John the Baptist (the Greatest Man)
 
 ### (4) The Temptation of Jesus Christ (God in the Flesh)
-- The meaning of temptation is the abolition of the Word of God, the Covenant, Christ, the abolition of the destiny of God's people
+- The meaning of temptation is the abolition of the Word of God, the Covenant, Christ, and the abolition of the destiny of God's people.
 
 ## Conclusion:
 
-### (1) The importance of accurately understanding and fulfilling the Word of God, the Covenant, Christ
+### (1) The importance of accurately understanding and fulfilling the Word of God, the Covenant, and Christ
 
 ### (2) The importance of a person's right hope

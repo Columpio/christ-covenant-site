@@ -53,7 +53,7 @@
 > Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers; But with the precious blood of Christ, as of a lamb without blemish and without spot: Who verily was foreordained before the foundation of the world, but was manifest in these last times for you, (1 Pet. 1:18-20, KJV)
 > And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world. (Rev. 13:8, KJV)
 
-## 2) Proper understanding of Easter and Unleavened Bread – the importance of proper understanding of the Word of God, the Covenant, Christ
+## 2) A proper understanding of Easter and Unleavened Bread is the importance of a proper understanding of the Word of God, the Covenant, and Christ
 
 ### (1) The reason for the slavery of God's people is the inaccurate fulfillment of God's Word, the inaccurate emphasis on Sacrifice (Abraham). (Gen. 15:9-14)
 > And he said unto him, Take me an heifer of three years old, and a she goat of three years old, and a ram of three years old, and a turtledove, and a young pigeon. And he took unto him all these, and divided them in the midst, and laid each piece one against another: but the birds divided he not. And when the fowls came down upon the carcases, Abram drove them away. And when the sun was going down, a deep sleep fell upon Abram; and, lo, an horror of great darkness fell upon him. And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years; And also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance. (Gen. 15:9-14, KJV)
@@ -84,11 +84,11 @@
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
 > Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it. (John 8:44, KJV)
 
-### (4) Matt. 27:46, - separation from God, suffering and death at the hands of God (Understanding the status of Jesus Christ on the cross – responsible for all the sins of the whole world, but not a sinner). 2 Cor. 5:21
+### (4) Matt. 27:46, - separation from God, suffering and death at the hand of God (Understanding the status of Jesus Christ on the cross – responsible for all the sins of the whole world, but not a sinner). 2 Cor. 5:21
 > And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me? (Matt. 27:46, KJV)
 > For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him. (2 Cor. 5:21, KJV)
 
-### (5) John 19:30, - the execution of the sentence of the Word of God for ALL THE SINS of mankind has taken place (about 15.00.) 1 John 2:2
+### (5) John 19:30, - the execution of the sentence of the Word of God for ALL the SINS of mankind has taken place (about 15.00.) 1 John 2:2
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world. (1 John 2:2, KJV)
 
@@ -107,7 +107,7 @@
 
 #### (a) Easter V.Z. – the Paschal lamb (the prototype of the death of Christ)
 
-#### (b) Unleavened bread V.Z. – unleavened bread (the prototype of the resurrection of Christ)
+#### (b) Unleavened bread V.Z. – unleavened bread (a prototype of the resurrection of Christ)
 
 ### (2) N.Z. – Easter (from Thursday evening to Friday evening) and Unleavened Bread (Sunday), the death and Resurrection of Christ
 
@@ -122,7 +122,7 @@
 ### (2) The descent of Jesus Christ into hell is the fulfillment of the Word of God, the legitimate but temporary power of death and hell over Jesus Christ because of his responsibility for the sins of the whole world. (Understanding the status of Jesus Christ in hell – responsible for all the sins of the whole world, but not a sinner). Eph. 4:8-9
 > Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men. (Now that he ascended, what is it but that he also descended first into the lower parts of the earth? (Eph. 4:8-9, KJV)
 
-#### (a) Fire (a place for sinners, rejection of the Word of God, the Covenant, Christ) – a symbol of the fury of the God of wrath, placing the sins of the whole world in the fire Luke 16:22-23,Heb. 12:29
+#### (a) Fire (a place for sinners, rejection of the Word of God, the Covenant, Christ) is a symbol of God's wrath, placing the sins of the whole world in the fire Luke 16:22-23,Heb. 12:29
 > And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried; And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom. (Luke 16:22-23, KJV)
 > For our God is a consuming fire. (Heb. 12:29, KJV)
 
@@ -132,7 +132,7 @@
 > But now he is dead, wherefore should I fast? can I bring him back again? I shall go to him, but he shall not return to me. (2 Sam. 12:23, KJV)
 > Then were there brought unto him little children, that he should put his hands on them, and pray: and the disciples rebuked them. But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven. (Matt. 19:13-14, KJV)
 
-#### (c) Prisons (a place for people who have never heard the Word of God, the Covenant, Christ) – proclaiming the Word of God, the Covenant, Christ, the possibility of choice, God's justice 1 Pet. 3:18-19,2 Pet. 3:8 (a different passage of time in prison)
+#### (c) Prisons (a place for people who have never heard the Word of God, the Covenant, Christ) – the proclamation of the Word of God, the Covenant, Christ, the possibility of choice, God's justice 1 Pet. 3:18-19,2 Pet. 3:8 (a different passage of time in prison)
 > For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit: By which also he went and preached unto the spirits in prison; (1 Pet. 3:18-19, KJV)
 > But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day. (2 Pet. 3:8, KJV)
 
@@ -148,7 +148,7 @@
 ### (1) John 20:1-18, - The Resurrection of Jesus Christ, the fact of victory over the power of sin, death and hell, Satan (Legitimate, but the temporary power of death and hell over Christ because of the responsibility for the sins of the whole world, the Resurrection of Jesus Christ, the confirmation of His Divinity)
 > The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre. Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the sepulchre, and we know not where they have laid him. Peter therefore went forth, and that other disciple, and came to the sepulchre. So they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre. And he stooping down, and looking in, saw the linen clothes lying; yet went he not in. Then cometh Simon Peter following him, and went into the sepulchre, and seeth the linen clothes lie, And the napkin, that was about his head, not lying with the linen clothes, but wrapped together in a place by itself. Then went in also that other disciple, which came first to the sepulchre, and he saw, and believed. For as yet they knew not the scripture, that he must rise again from the dead. Then the disciples went away again unto their own home. But Mary stood without at the sepulchre weeping: and as she wept, she stooped down, and looked into the sepulchre, And seeth two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain. And they say unto her, Woman, why weepest thou? She saith unto them, Because they have taken away my Lord, and I know not where they have laid him. And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus. Jesus saith unto her, Woman, why weepest thou? whom seekest thou? She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away. Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master. Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God. Mary Magdalene came and told the disciples that she had seen the Lord, and that he had spoken these things unto her. (John 20:1-18, KJV)
 
-### (2) 1 Cor. 15:20-23,Phil. 3:21, - The resurrection of Jesus Christ in a glorified body, the firstborn of the dead, understanding the future. (The Second Coming of Christ, the 1000th Kingdom, the resurrection of the people of God)
+### (2) 1 Cor. 15:20-23,Phil. 3:21, - The resurrection of Jesus Christ in a glorified body, the firstborn of the dead, understanding the future. (The Second Coming of Christ, the 1000th Kingdom, the resurrection of God's people)
 > But now is Christ risen from the dead, and become the firstfruits of them that slept. For since by man came death, by man came also the resurrection of the dead. For as in Adam all die, even so in Christ shall all be made alive. But every man in his own order: Christ the firstfruits; afterward they that are Christ’s at his coming. (1 Cor. 15:20-23, KJV)
 > Who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself. (Phil. 3:21, KJV)
 
@@ -162,12 +162,12 @@
 > For as Jonas was three days and three nights in the whale’s belly; so shall the Son of man be three days and three nights in the heart of the earth. (Matt. 12:40, KJV)
 > And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not; I am the first and the last: I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death. (Rev. 1:17-18, KJV)
 
-### (5) Matt. 28:19-20, - the resurrection and appearance of Jesus Christ to the disciples, the affirmation of the Word of God, the Covenant, Christ and destiny. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+### (5) Matt. 28:19-20, - the resurrection and appearance of Jesus Christ to the disciples, the affirmation of the Word of God, the Covenant, Christ and destiny. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
 
 ## 7) The unworthy celebration of Passover and Unleavened Bread
 
-### (1) Misunderstanding of the Word of God, the Covenant, Christ (the essence of sin)
+### (1) Misunderstanding of the Word of God, the Covenant, and Christ (the essence of sin)
 
 #### (a) A rite is a meaningless act without understanding the Covenant, Christ
 
@@ -181,5 +181,5 @@
 
 #### (b) “Mixed Gospel” heresy, denial of the fact of forgiveness of all human sins, religion
 
-#### (c) The heresy of "partial salvation", the denial of Christ's decision of the consequences of sin – there is no salvation of soul and body, the effect of ancestral and acquired curses, The children's obsession with God AND WORTHY PARTICIPATION IN EASTER AND THE LORD'S UNLEAVENED BREAD is an affirmation of the Divinity of Christ and the Omnipotence of His Sacrifice to solve all human problems.
+#### (c) The heresy of "partial salvation", the denial of Christ's decision of the consequences of sin – there is no salvation of soul and body, the effect of ancestral and acquired curses, The obsession of God's children and THEIR WORTHY PARTICIPATION IN EASTER AND THE LORD'S UNLEAVENED BREAD is an affirmation of the Divinity of Christ and the All–sufficiency of His Sacrifice to solve all human problems.
 - UNWORTHY PARTICIPATION IN EASTER AND THE LORD'S UNLEAVENED BREAD is a denial of the Divinity of Christ and the All–sufficiency of His Sacrifice to solve all human problems.

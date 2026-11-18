@@ -1,6 +1,6 @@
 # 6. 1 Sam. 13–14: The Reign and Sins of Saul
 
-## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -12,9 +12,9 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-## 2) 1 Sam. 13, - the importance of understanding, fulfilling the Word of God, the Covenant, Christ
+## 2) 1 Sam. 13, - the importance of understanding and fulfilling the Word of God, the Covenant, and Christ
 
-### (1) 1 Sam. 13:1-7, - constant action of Satan, war with the people of God
+### (1) 1 Sam. 13:1-7, - the constant action of Satan, the war with the people of God
 > Saul reigned one year; and when he had reigned two years over Israel, Saul chose him three thousand men of Israel; whereof two thousand were with Saul in Michmash and in mount Beth-el, and a thousand were with Jonathan in Gibeah of Benjamin: and the rest of the people he sent every man to his tent. And Jonathan smote the garrison of the Philistines that was in Geba, and the Philistines heard of it. And Saul blew the trumpet throughout all the land, saying, Let the Hebrews hear. And all Israel heard say that Saul had smitten a garrison of the Philistines, and that Israel also was had in abomination with the Philistines. And the people were called together after Saul to Gilgal. And the Philistines gathered themselves together to fight with Israel, thirty thousand chariots, and six thousand horsemen, and people as the sand which is on the sea shore in multitude: and they came up, and pitched in Michmash, eastward from Beth-aven. When the men of Israel saw that they were in a strait, (for the people were distressed,) then the people did hide themselves in caves, and in thickets, and in rocks, and in high places, and in pits. And some of the Hebrews went over Jordan to the land of Gad and Gilead. As for Saul, he was yet in Gilgal, and all the people followed him trembling. (1 Sam. 13:1-7, KJV)
 
 #### (a) The cowardice of God's people is the abandonment of Canaan, predestined by
@@ -26,17 +26,17 @@
 
 #### (a) Serving a king, not a priest, is a misunderstanding.
 
-#### (b) An attempt to serve "on our own" - a mystical approach to the Word of God, the Covenant, Christ (the people are fleeing – the importance of trusting in God)
+#### (b) An attempt to serve "on our own" - a mystical approach to the Word of God, the Covenant, and Christ (people are fleeing – the importance of trusting in God)
 
 #### (c) The physical consequence of sin is the abolition of the reign of the house of Saul, the importance of faithfully fulfilling the Word of God, the Covenant, and Christ
 
-### (3) 1 Sam. 13:15-23, - spiritual war, the unpreparedness of the people of God
+### (3) 1 Sam. 13:15-23, - spiritual warfare, the unpreparedness of God's people
 > And Samuel arose, and gat him up from Gilgal unto Gibeah of Benjamin. And Saul numbered the people that were present with him, about six hundred men. And Saul, and Jonathan his son, and the people that were present with them, abode in Gibeah of Benjamin: but the Philistines encamped in Michmash. And the spoilers came out of the camp of the Philistines in three companies: one company turned unto the way that leadeth to Ophrah, unto the land of Shual: And another company turned the way to Beth-horon: and another company turned to the way of the border that looketh to the valley of Zeboim toward the wilderness. Now there was no smith found throughout all the land of Israel: for the Philistines said, Lest the Hebrews make them swords or spears: But all the Israelites went down to the Philistines, to sharpen every man his share, and his coulter, and his axe, and his mattock. Yet they had a file for the mattocks, and for the coulters, and for the forks, and for the axes, and to sharpen the goads. So it came to pass in the day of battle, that there was neither sword nor spear found in the hand of any of the people that were with Saul and Jonathan: but with Saul and with Jonathan his son was there found. And the garrison of the Philistines went out to the passage of Michmash. (1 Sam. 13:15-23, KJV)
 
-#### (a) The action of Satan, the lack of swords, the inability to fight – the special importance of preparing the people of God (training) Eph. 6:11-17
+#### (a) The action of Satan, the absence of swords, the inability to fight – the special importance of preparing the people of God (training) Eph. 6:11-17
 > Put on the whole armour of God, that ye may be able to stand against the wiles of the devil. For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places. Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand. Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness; And your feet shod with the preparation of the gospel of peace; Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked. And take the helmet of salvation, and the sword of the Spirit, which is the word of God: (Eph. 6:11-17, KJV)
 
-#### (b) Saul and Jonathan, a small number with swords, the importance of preparing the people of God – the undoubted victory of God. (An example of the First Apostolic Church is the Worldwide Evangelization)
+#### (b) Saul and Jonathan, a small number with swords, the importance of preparing the people of God – the undoubted victory of God. (The example of the First Apostolic Church is the accomplishment of Worldwide Evangelization)
 
 ## 3) 1 Sam. 14, - God's sovereignty and control of God's people
 
@@ -51,9 +51,9 @@
 > And Ahiah, the son of Ahitub, I-chabod’s brother, the son of Phinehas, the son of Eli, the LORD’s priest in Shiloh, wearing an ephod. And the people knew not that Jonathan was gone. (1 Sam. 14:3, KJV)
 > And Saul said unto Ahiah, Bring hither the ark of God. For the ark of God was at that time with the children of Israel. (1 Sam. 14:18, KJV)
 
-#### (d) The unfailing fulfillment of the Word of God – God's victory, fulfillment of destiny, preparation for the coming of Christ
+#### (d) The constant fulfillment of God's Word – God's victory, fulfillment of destiny, preparation for the coming of Christ
 
-### (2) 1 Sam. 14:24-45, - the importance of understanding the Word of God, the Covenant, Christ
+### (2) 1 Sam. 14:24-45, - the importance of understanding the Word of God, the Covenant, and Christ
 > And the men of Israel were distressed that day: for Saul had adjured the people, saying, Cursed be the man that eateth any food until evening, that I may be avenged on mine enemies. So none of the people tasted any food. And all they of the land came to a wood; and there was honey upon the ground. And when the people were come into the wood, behold, the honey dropped; but no man put his hand to his mouth: for the people feared the oath. But Jonathan heard not when his father charged the people with the oath: wherefore he put forth the end of the rod that was in his hand, and dipped it in an honeycomb, and put his hand to his mouth; and his eyes were enlightened. Then answered one of the people, and said, Thy father straitly charged the people with an oath, saying, Cursed be the man that eateth any food this day. And the people were faint. Then said Jonathan, My father hath troubled the land: see, I pray you, how mine eyes have been enlightened, because I tasted a little of this honey. How much more, if haply the people had eaten freely to day of the spoil of their enemies which they found? for had there not been now a much greater slaughter among the Philistines? And they smote the Philistines that day from Michmash to Aijalon: and the people were very faint. And the people flew upon the spoil, and took sheep, and oxen, and calves, and slew them on the ground: and the people did eat them with the blood. Then they told Saul, saying, Behold, the people sin against the LORD, in that they eat with the blood. And he said, Ye have transgressed: roll a great stone unto me this day. And Saul said, Disperse yourselves among the people, and say unto them, Bring me hither every man his ox, and every man his sheep, and slay them here, and eat; and sin not against the LORD in eating with the blood. And all the people brought every man his ox with him that night, and slew them there. And Saul built an altar unto the LORD: the same was the first altar that he built unto the LORD. And Saul said, Let us go down after the Philistines by night, and spoil them until the morning light, and let us not leave a man of them. And they said, Do whatsoever seemeth good unto thee. Then said the priest, Let us draw near hither unto God. And Saul asked counsel of God, Shall I go down after the Philistines? wilt thou deliver them into the hand of Israel? But he answered him not that day. And Saul said, Draw ye near hither, all the chief of the people: and know and see wherein this sin hath been this day. For, as the LORD liveth, which saveth Israel, though it be in Jonathan my son, he shall surely die. But there was not a man among all the people that answered him. Then said he unto all Israel, Be ye on one side, and I and Jonathan my son will be on the other side. And the people said unto Saul, Do what seemeth good unto thee. Therefore Saul said unto the LORD God of Israel, Give a perfect lot. And Saul and Jonathan were taken: but the people escaped. And Saul said, Cast lots between me and Jonathan my son. And Jonathan was taken. Then Saul said to Jonathan, Tell me what thou hast done. And Jonathan told him, and said, I did but taste a little honey with the end of the rod that was in mine hand, and, lo, I must die. And Saul answered, God do so and more also: for thou shalt surely die, Jonathan. And the people said unto Saul, Shall Jonathan die, who hath wrought this great salvation in Israel? God forbid: as the LORD liveth, there shall not one hair of his head fall to the ground; for he hath wrought with God this day. So the people rescued Jonathan, that he died not. (1 Sam. 14:24-45, KJV)
 
 #### (a) 1 Sam. 14:24, - religious inventions and self-will of man, Saul's attempt to impose an undeserved curse on the people of God (Authoritarianism and religious inventions of modern leaders)
@@ -78,14 +78,14 @@
 #### (g) 1 Sam. 14:45, - God's sovereignty and control, protection of God's people and Jonathan (undeserved curse)
 > And the people said unto Saul, Shall Jonathan die, who hath wrought this great salvation in Israel? God forbid: as the LORD liveth, there shall not one hair of his head fall to the ground; for he hath wrought with God this day. So the people rescued Jonathan, that he died not. (1 Sam. 14:45, KJV)
 
-### (3) 1 Sam. 14:46-52, - God's sovereignty and control of the people of God
+### (3) 1 Sam. 14:46-52, - God's sovereignty and control of God's people
 > Then Saul went up from following the Philistines: and the Philistines went to their own place. So Saul took the kingdom over Israel, and fought against all his enemies on every side, against Moab, and against the children of Ammon, and against Edom, and against the kings of Zobah, and against the Philistines: and whithersoever he turned himself, he vexed them. And he gathered an host, and smote the Amalekites, and delivered Israel out of the hands of them that spoiled them. Now the sons of Saul were Jonathan, and Ishui, and Melchi-shua: and the names of his two daughters were these; the name of the firstborn Merab, and the name of the younger Michal: And the name of Saul’s wife was Ahinoam, the daughter of Ahimaaz: and the name of the captain of his host was Abner, the son of Ner, Saul’s uncle. And Kish was the father of Saul; and Ner the father of Abner was the son of Abiel. And there was sore war against the Philistines all the days of Saul: and when Saul saw any strong man, or any valiant man, he took him unto him. (1 Sam. 14:46-52, KJV)
 
-#### (a) The unfailing fulfillment of the Word of God – God's victory, fulfillment of destiny, preparation for the coming of Christ
+#### (a) The unfailing fulfillment of God's Word – God's victory, fulfillment of destiny, preparation for the coming of Christ
 
-#### (b) The importance of warriors among the people of God (the disciples) – Saul's understanding
+#### (b) The importance of warriors among God's People (disciples) – Saul's understanding
 
-#### (c) Saul's sins - sins not unto death, no failure Word of God, Covenant, Christ, faith of God, immutability of Saul's status (child of God) Rom. 4:6-7
+#### (c) Saul's sins are not sins leading to death, there is no rejection of the Word of God, the Covenant, Christ, the faith of God, the immutability of Saul's status (child of God) Rom. 4:6-7
 > Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works, Saying, Blessed are they whose iniquities are forgiven, and whose sins are covered. (Rom. 4:6-7, KJV)
 
 ## Conclusion:

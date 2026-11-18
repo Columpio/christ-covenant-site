@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,16 +233,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>52. Gen. 36, - Esau</h1>
-<h2 id="s1">1) The purpose of the people of God is to know and transmit the Word of God, the Covenants, Christ, the disciples, World Evangelization (Canaan), the coming of Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21. (Adam – Seth – Noah – Abraham – Isaac – Jacob – the 12 Tribes of Israel)</h2>
+<h2 id="s1">1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, the disciples, World Evangelization (Canaan), the coming of Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21. (Adam – Seth – Noah – Abraham – Isaac – Jacob – the 12 Tribes of Israel)</h2>
 <blockquote data-v="kjv"><p>So God created man in his own image, in the image of God created he him; male and female created he them.</p><cite>Gen. 1:27 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So God created man in His own image; in the image of God He created him; male and female He created them.</p><cite>Gen. 1:27 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>God created man in his own image. In God’s image he created him; male and female he created them.</p><cite>Gen. 1:27 · WEB</cite></blockquote>
@@ -269,7 +271,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>And the LORD God made garments of skin for Adam and his wife, and He clothed them.</p><cite>Gen. 3:21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh God made garments of animal skins for Adam and for his wife, and clothed them.</p><cite>Gen. 3:21 · WEB</cite></blockquote>
 <h2 id="s2">2) Gen. 36 (1-3,9), - rejection of the Word of God, the Covenant, Christ, Esau</h2>
-<h3>(1) Gen. 25:20-26, - God's foreknowledge and election of every man</h3>
+<h3>(1) Gen. 25:20-26, - God's foreknowledge and election of every human being</h3>
 <blockquote data-v="kjv"><p>And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padan-aram, the sister to Laban the Syrian. And Isaac intreated the LORD for his wife, because she was barren: and the LORD was intreated of him, and Rebekah his wife conceived. And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the LORD. And the LORD said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger. And when her days to be delivered were fulfilled, behold, there were twins in her womb. And the first came out red, all over like an hairy garment; and they called his name Esau. And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac was threescore years old when she bare them.</p><cite>Gen. 25:20-26 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>and Isaac was forty years old when he married Rebekah, the daughter of Bethuel the Aramean from Paddan-aram and the sister of Laban the Aramean. Later, Isaac prayed to the LORD on behalf of his wife, because she was barren. And the LORD heard his prayer, and his wife Rebekah conceived. But the children inside her struggled with each other, and she said, “Why is this happening to me?” So Rebekah went to inquire of the LORD, and He declared to her: “Two nations are in your womb, and two peoples from within you will be separated; one people will be stronger than the other, and the older will serve the younger.” When her time came to give birth, there were indeed twins in her womb. The first one came out red, covered with hair like a fur coat; so they named him Esau. After this, his brother came out grasping Esau’s heel; so he was named Jacob. And Isaac was sixty years old when the twins were born.</p><cite>Gen. 25:20-26 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Isaac was forty years old when he took Rebekah, the daughter of Bethuel the Syrian of Paddan Aram, the sister of Laban the Syrian, to be his wife. Isaac entreated Yahweh for his wife, because she was barren. Yahweh was entreated by him, and Rebekah his wife conceived. The children struggled together within her. She said, “If it is like this, why do I live?” She went to inquire of Yahweh. Yahweh said to her, “Two nations are in your womb. Two peoples will be separated from your body. The one people will be stronger than the other people. The elder will serve the younger.” When her days to be delivered were fulfilled, behold, there were twins in her womb. The first came out red all over, like a hairy garment. They named him Esau. After that, his brother came out, and his hand had hold on Esau’s heel. He was named Jacob. Isaac was sixty years old when she bore them.</p><cite>Gen. 25:20-26 · WEB</cite></blockquote>
@@ -286,7 +288,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And Rebekah spake unto Jacob her son, saying, Behold, I heard thy father speak unto Esau thy brother, saying, Bring me venison, and make me savoury meat, that I may eat, and bless thee before the LORD before my death. Now therefore, my son, obey my voice according to that which I command thee.</p><cite>Gen. 27:6-8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Rebekah said to her son Jacob, “Behold, I overheard your father saying to your brother Esau, ‘Bring me some game and prepare me a tasty dish to eat, so that I may bless you in the presence of the LORD before I die.’ Now, my son, listen to my voice and do exactly as I tell you.</p><cite>Gen. 27:6-8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Rebekah spoke to Jacob her son, saying, “Behold, I heard your father speak to Esau your brother, saying, ‘Bring me venison, and make me savory food, that I may eat, and bless you before Yahweh before my death.’ Now therefore, my son, obey my voice according to that which I command you.</p><cite>Gen. 27:6-8 · WEB</cite></blockquote>
-<h3>(4) Gen. 27:41, - the desire to kill Jacob. (Stop the kind of Covenant, the transmission of the Word of God, the Covenant, Christ, the coming of Christ)</h3>
+<h3>(4) Gen. 27:41, - the desire to kill Jacob. (To stop the generation of the Covenant, the transmission of the Word of God, the Covenant, Christ, the coming of Christ)</h3>
 <blockquote data-v="kjv"><p>And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob.</p><cite>Gen. 27:41 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Esau held a grudge against Jacob because of the blessing his father had given him. And Esau said in his heart, “The days of mourning for my father are at hand; then I will kill my brother Jacob.”</p><cite>Gen. 27:41 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Esau hated Jacob because of the blessing with which his father blessed him. Esau said in his heart, “The days of mourning for my father are at hand. Then I will kill my brother Jacob.”</p><cite>Gen. 27:41 · WEB</cite></blockquote>
@@ -294,7 +296,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And Jacob lifted up his eyes, and looked, and, behold, Esau came, and with him four hundred men. And he divided the children unto Leah, and unto Rachel, and unto the two handmaids. And he put the handmaids and their children foremost, and Leah and her children after, and Rachel and Joseph hindermost. And he passed over before them, and bowed himself to the ground seven times, until he came near to his brother. And Esau ran to meet him, and embraced him, and fell on his neck, and kissed him: and they wept.</p><cite>Gen. 33:1-4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Now Jacob looked up and saw Esau coming toward him with four hundred men. So he divided the children among Leah, Rachel, and the two maidservants. He put the maidservants and their children in front, Leah and her children next, and Rachel and Joseph at the rear. But Jacob himself went on ahead and bowed to the ground seven times as he approached his brother. Esau, however, ran to him and embraced him, threw his arms around his neck, and kissed him. And they both wept.</p><cite>Gen. 33:1-4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Jacob lifted up his eyes, and looked, and, behold, Esau was coming, and with him four hundred men. He divided the children between Leah, Rachel, and the two servants. He put the servants and their children in front, Leah and her children after, and Rachel and Joseph at the rear. He himself passed over in front of them, and bowed himself to the ground seven times, until he came near to his brother. Esau ran to meet him, embraced him, fell on his neck, kissed him, and they wept.</p><cite>Gen. 33:1-4 · WEB</cite></blockquote>
-<h3>(6) Gen. 36:1-3, - Gentile wives and descendants of Ishmael. (Breaking the Word of God, Passing the Word of God, the Covenant, Christ, the Coming of Christ)</h3>
+<h3>(6) Gen. 36:1-3, - Gentile wives and descendants of Ishmael. (Violation of the Word of God, transmission of the Word of God, the Covenant, Christ, the coming of Christ)</h3>
 <blockquote data-v="kjv"><p>Now these are the generations of Esau, who is Edom. Esau took his wives of the daughters of Canaan; Adah the daughter of Elon the Hittite, and Aholibamah the daughter of Anah the daughter of Zibeon the Hivite; And Bashemath Ishmael’s daughter, sister of Nebajoth.</p><cite>Gen. 36:1-3 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>This is the account of Esau (that is, Edom). Esau took his wives from the daughters of Canaan: Adah daughter of Elon the Hittite, Oholibamah daughter of Anah and granddaughter of Zibeon the Hivite, and Basemath daughter of Ishmael and sister of Nebaioth.</p><cite>Gen. 36:1-3 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now this is the history of the generations of Esau (that is, Edom). Esau took his wives from the daughters of Canaan: Adah the daughter of Elon, the Hittite; and Oholibamah the daughter of Anah, the daughter of Zibeon, the Hivite; and Basemath, Ishmael’s daughter, sister of Nebaioth.</p><cite>Gen. 36:1-3 · WEB</cite></blockquote>
@@ -306,7 +308,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>Additionally, Timna, a concubine of Esau’s son Eliphaz, gave birth to Amalek. These are the grandsons of Esau’s wife Adah.</p><cite>Gen. 36:12 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Timna was concubine to Eliphaz, Esau’s son; and she bore to Eliphaz Amalek. These are the descendants of Adah, Esau’s wife.</p><cite>Gen. 36:12 · WEB</cite></blockquote>
 <h2 id="s3">Result:</h2>
-<h3>(1) Esau – rejection of the Word of God, the Covenant, Christ</h3>
+<h3>(1) Esau – rejection of the Word of God, the Covenant, and Christ</h3>
 <h3>(2) Esau – rejection of the destiny of God's people</h3>
 <h3>(3) Esau – living for the sake of the visible, indifference to the invisible</h3>
 <h3>(4) Esau – the importance of understanding a person's right to choose</h3>
@@ -329,10 +331,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>On an appointed day, Herod dressed himself in royal clothing, sat on the throne, and gave a speech to them. The people shouted, “The voice of a god, and not of a man!” Immediately an angel of the Lord struck him, because he didn’t give God the glory. Then he was eaten by worms and died.</p><cite>Acts 12:21-23 · WEB</cite></blockquote>
 <h3>(5) The uprising of the Jews against the Romans with the participation of the Edomites, the destruction of Jerusalem and the Temple, the destruction of the descendants of Esau by the commander Titus in 70 A.D., the descent of the Edomites from the historical arena of mankind</h3>
 <h2 id="s5">Conclusion:</h2>
-<h3>(1) The importance of accepting the Word of God, the Covenant, Christ</h3>
+<h3>(1) The importance of accepting the Word of God, the Covenant, and Christ</h3>
 <h3>(2) The importance of fulfilling the destiny of God's people</h3>
 <h3>(3) The importance of understanding God's Foreknowledge and Election</h3>
-<h3>(4) Rejection of the Word of God, the Covenant, Christ, rejection of destiny – execution of the sentence of the Word of God Rom. 6:23</h3>
+<h3>(4) Rejection of the Word of God, the Covenant, Christ, rejection of destiny – fulfillment of the sentence of the Word of God Rom. 6:23</h3>
 <blockquote data-v="kjv"><p>For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.</p><cite>Rom. 6:23 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.</p><cite>Rom. 6:23 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.</p><cite>Rom. 6:23 · WEB</cite></blockquote>

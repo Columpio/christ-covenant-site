@@ -1,9 +1,9 @@
 # 1. Prayer, types of prayer
-- Prayer – communion with God through the Word of God, the Covenant, Christ
+- Prayer is communion with God through the Word of God, the Covenant, and Christ.
 - It is not prayer that moves God, but God that moves prayer.
 - Prayer - knowledge and affirmation of the will of God, emphasis on hearing rather than speaking
 
-## 1) Gen. 1:27-28; 2:7, 9, 16-17, - the perfect will of God 1 Tim. 2:4
+## 1) Gen. 1:27-28; 2:7, 9, 16-17, is the perfect will of God 1 Tim. 2:4
 > So God created man in his own image, in the image of God created he him; male and female created he them. And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth. (Gen. 1:27-28, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
@@ -28,9 +28,9 @@
 > Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
-### (1) The loss of purpose and meaning of human life in time – there is no choice regarding eternal life, the slave of sin, death and hell, Satan
+### (1) Loss of purpose and meaning of human life in time – there is no choice regarding eternal life, a slave to sin, death and hell, Satan
 
-### (2) No understanding of the perfect will of God - no Emmanuel, no knowledge and transmission of the Word of God, the Covenant, Christ, no communication with God
+### (2) There is no understanding of the perfect will of God – there is no Emmanuel, there is no knowledge and transmission of the Word of God, the Covenant, Christ, there is no communion with God
 
 ### (3) The priority of turning to God is the fulfillment of one's will, visible, hard life, accusations of God Matt. 6:7-8, 31-32,Jas. 4:1-4,Phil. 2:21, - Matt. 16:26
 > But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking. Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him. (Matt. 6:7-8, KJV)
@@ -62,37 +62,37 @@
 
 ### (1) Acceptance of the Word of God, the Covenant, Christ – salvation, Emmanuel
 
-#### (a) The importance of accepting the Word of God, the Covenant, Christ, repentance, man's choice – forgiveness of all sins (past, present, and future), justification, rebirth (salvation), adoption, and the Church. John 1:12
+#### (a) The importance of accepting the Word of God, the Covenant, Christ, repentance, human choice – forgiveness of all sins (past, present, and future), justification, rebirth (salvation), adoption, and the Church. John 1:12
 > But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name: (John 1:12, KJV)
 
 #### (b) The importance of understanding God's conditions for human salvation – the Divinity of Christ and the Sufficiency of His Sacrifice
 
-### (2) Knowledge of the Word of God, of the Covenant, of Christ – sanctification (separation for the service of God). 1 Tim. 2:4,1 Thess. 4:3
+### (2) The knowledge of the Word of God, the Covenant, and Christ is sanctification (separation for the service of God). 1 Tim. 2:4,1 Thess. 4:3
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 > For this is the will of God, even your sanctification, that ye should abstain from fornication: (1 Thess. 4:3, KJV)
 
-#### (a) The importance of knowing the Word of God, the Covenant, Christ, and man's Choice – consistent and systematic study of the Bible from the perspective of the Covenant, Christ, and understanding of God's Laws. John 5:39
+#### (a) The importance of knowing the Word of God, the Covenant, Christ, and man's choice is a consistent and systematic study of the Bible from the perspective of the Covenant, Christ, and understanding of God's Laws. John 5:39
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 
-#### (b) The importance of changing a person's ideology, worldview, and value system in accordance with the Word of God, the Covenant, and Christ–sanctification. (Ideology, value system – thoughts, desires – actions) John 8:31-32,1 Tim. 4:16
+#### (b) The importance of changing a person's ideology, worldview, and value system in accordance with the Word of God, the Covenant, and Christ – sanctification. (Ideology, value system – thoughts, desires – actions) John 8:31-32,1 Tim. 4:16
 > Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; And ye shall know the truth, and the truth shall make you free. (John 8:31-32, KJV)
 > Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee. (1 Tim. 4:16, KJV)
 
-### (3) Transmission of the Word of God, the Covenant, Christ - Disciples, World Evangelism Matt. 28:19-20
+### (3) Transmission of the Word of God, the Covenant, Christ the Disciples, Worldwide Evangelization Matt. 28:19-20
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
 
-#### (a) The importance of conveying the Word of God, the Covenant, Christ, man's choice – man's salvation, love for God and man
+#### (a) The importance of transmitting the Word of God, the Covenant, Christ, man's choice – man's salvation, love for God and man
 
-#### (b) The importance of transmitting the Word of God, the Covenant, Christ to the ends of the earth, Worldwide Evangelization – understanding the scale of the action of God's people
+#### (b) The importance of transmitting the Word of God, the Covenant, and Christ to the ends of the earth, Worldwide Evangelization – understanding the scale of the action of God's people
 
-#### (c) The importance of transmitting the Word of God, the Covenant, Christ, the preparation of disciples – Worldwide Evangelization, transmission of the Word of God, the Covenant, Christ in distance and time, succession in generations. 2 Tim. 2:2
+#### (c) The importance of transmitting the Word of God, the Covenant, and Christ, the preparation of disciples – Worldwide Evangelization, the transmission of the Word of God, the Covenant, and Christ in distance and time, and generational succession. 2 Tim. 2:2
 > And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also. (2 Tim. 2:2, KJV)
 
 ## 5) Types of prayer
 
 ### (1) Prayer of petition or intercession is the affirmation of God's will in a person's life (spiritual, mental, physical)
 
-#### (a) Spiritual needs are the fulfillment of God's will. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization, Spiritual growth)
+#### (a) Spiritual needs are the fulfillment of God's will. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, spiritual growth)
 
 #### (b) Spiritual needs are the fulfillment of God's will. (God's peace, peace and joy, proper communication, friendship)
 
@@ -106,7 +106,7 @@
 #### (b) The importance of the secret room, the importance of solitude for communicating and hearing God, awareness of God's will. Matt. 6:5-6
 > And when thou prayest, thou shalt not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward. But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly. (Matt. 6:5-6, KJV)
 
-### (3) Prayer of Thanksgiving – Emmanuel, all the answers of life are in God (spiritual, mental, physical). 1 Thess. 5:18,Eph. 5:20
+### (3) Prayer of Thanksgiving – Emmanuel, all the answers of life in God (spiritual, mental, physical). 1 Thess. 5:18,Eph. 5:20
 > In every thing give thanks: for this is the will of God in Christ Jesus concerning you. (1 Thess. 5:18, KJV)
 > Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ; (Eph. 5:20, KJV)
 

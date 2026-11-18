@@ -6,7 +6,7 @@
 ### (1) Matt. 23:1-2, - the seat of Moses, the proclamation of the Word of God
 > Then spake Jesus to the multitude, and to his disciples, Saying, The scribes and the Pharisees sit in Moses’ seat: (Matt. 23:1-2, KJV)
 
-### (2) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, the coming of Christ). Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+### (2) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, the coming of Christ). Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -46,11 +46,11 @@
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
 > There was a man of the Pharisees, named Nicodemus, a ruler of the Jews: The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him. Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God. Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother’s womb, and be born? Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. That which is born of the flesh is flesh; and that which is born of the Spirit is spirit. Marvel not that I said unto thee, Ye must be born again. The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit. Nicodemus answered and said unto him, How can these things be? Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things? (John 3:1-10, KJV)
 
-#### (c) Non–acceptance of the Word of God, the Covenant, Christ - human traditions, rituals, rules, ordinances. Ps. 119:113,Matt. 15:8-9
+#### (c) Rejection of the Word of God, the Covenant, and Christ–human traditions, rituals, rules, and ordinances. Ps. 119:113,Matt. 15:8-9
 > I hate vain thoughts: but thy law do I love. (Ps. 119:113, KJV)
 > This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me. But in vain they do worship me, teaching for doctrines the commandments of men. (Matt. 15:8-9, KJV)
 
-#### (d) The distortion of the understanding of sin, salvation, and judgment by God John 16:8-11
+#### (d) Distortion of the understanding of sin, salvation, and God's judgment John 16:8-11
 > And when he is come, he will reprove the world of sin, and of righteousness, and of judgment: Of sin, because they believe not on me; Of righteousness, because I go to my Father, and ye see me no more; Of judgment, because the prince of this world is judged. (John 16:8-11, KJV)
 
 ## 3) Matt. 23:4; 11:28 (11:28), - understanding religion and the Good News
@@ -60,7 +60,7 @@
 ### (1) Matt. 23:4, - religion is a heavy burden for a person
 > For they bind heavy burdens and grievous to be borne, and lay them on men’s shoulders; but they themselves will not move them with one of their fingers. (Matt. 23:4, KJV)
 
-#### (a) Gen. 3:7, - the beginning of religion, the action of Satan
+#### (a) Gen. 3:7, is the beginning of religion, the work of Satan
 > And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons. (Gen. 3:7, KJV)
 
 #### (b) Gal. 2:16, 21; 5:4; 3:10, - distortion and contrast. The Word of God, the Covenant, Christ, salvation through human deeds and efforts, the essence of religion
@@ -85,7 +85,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-#### (b) 1 Tim. 3:16,Matt. 5:17, - the essence of the Gospel, the fulfillment of the Word of God, Christ
+#### (b) 1 Tim. 3:16,Matt. 5:17, - the essence of the Gospel, the fulfillment of the Word of God's Christ
 > And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory. (1 Tim. 3:16, KJV)
 > Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil. (Matt. 5:17, KJV)
 
@@ -94,7 +94,7 @@
 > And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses; (Col. 2:13, KJV)
 > For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them. (Gal. 3:10, KJV)
 
-#### (d) 1 Tim. 2:4,John 3:16, - the affirmation of the will of God, the essence of the Gospel
+#### (d) 1 Tim. 2:4,John 3:16, - affirmation of the will of God, the essence of the Gospel
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 > For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. (John 3:16, KJV)
 
@@ -111,7 +111,7 @@
 - RELIGION: self–salvation (all religions are "deeds")
 - THE GOOD NEWS: salvation is from God (Christ died in my place)
 - V.Z. – Covenant, Christ, Sacrifice, fulfillment of the Word of God (Salvation through faith in the coming Messiah, Christ)
-- N.Z. – The Covenant, Christ, Communion, fulfillment of the Word of God (Salvation through faith in the Christ who came, died, and rose again)
+- N.Z. – The Covenant, Christ, Communion, fulfillment of the Word of God (Salvation through faith in the come, dead, risen Christ)
 - AFFIRMATION OF RELIGION:
 
 ### (1) The rejection of Jesus Christ as the True, Holy God
@@ -147,18 +147,18 @@
 ### (7) Matt. 23:24-28, - false righteousness, human deeds, non-acceptance of the Word of God
 > Ye blind guides, which strain at a gnat, and swallow a camel. Woe unto you, scribes and Pharisees, hypocrites! for ye make clean the outside of the cup and of the platter, but within they are full of extortion and excess. Thou blind Pharisee, cleanse first that which is within the cup and platter, that the outside of them may be clean also. Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men’s bones, and of all uncleanness. Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity. (Matt. 23:24-28, KJV)
 
-### (8) Matt. 23:29-36, - constant opposition to the Word of God, the Covenant, Christ, the murders of God's prophets, the children of the devil, the action of Satan John 8:44
+### (8) Matt. 23:29-36, - constant opposition to the Word of God, the Covenant, to Christ, the murders of God's prophets, the children of the devil, the actions of Satan John 8:44
 > Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and garnish the sepulchres of the righteous, And say, If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets. Wherefore ye be witnesses unto yourselves, that ye are the children of them which killed the prophets. Fill ye up then the measure of your fathers. Ye serpents, ye generation of vipers, how can ye escape the damnation of hell? Wherefore, behold, I send unto you prophets, and wise men, and scribes: and some of them ye shall kill and crucify; and some of them shall ye scourge in your synagogues, and persecute them from city to city: That upon you may come all the righteous blood shed upon the earth, from the blood of righteous Abel unto the blood of Zacharias son of Barachias, whom ye slew between the temple and the altar. Verily I say unto you, All these things shall come upon this generation. (Matt. 23:29-36, KJV)
 > Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it. (John 8:44, KJV)
 
-## 5) Matt. 23:37-39, - non-acceptance of the Word of God, the Covenant, Christ, the judgment of God
+## 5) Matt. 23:37-39, - rejection of the Word of God, the Covenant, Christ, the judgment of God
 > O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not! Behold, your house is left unto you desolate. For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord. (Matt. 23:37-39, KJV)
 
 ### (1) God's constant call to man. 1 Tim. 2:4,Rev. 3:20
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 > Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me. (Rev. 3:20, KJV)
 
-### (2) The right to choose, the responsibility of a person Acts 13:46,Deut. 30:19
+### (2) The right to choose, human responsibility Acts 13:46,Deut. 30:19
 > Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing ye put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles. (Acts 13:46, KJV)
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 

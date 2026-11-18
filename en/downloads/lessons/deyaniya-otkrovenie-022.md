@@ -1,5 +1,5 @@
 # 1 Pet. 1
-## 1.1) 1 Pet. 1:1-12, - the statement of the Word of God, the Covenant, Christ
+## 1.1) 1 Pet. 1:1-12, is the affirmation of the Word of God, the Covenant, and Christ
 > Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied. Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead, To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you, Who are kept by the power of God through faith unto salvation ready to be revealed in the last time. Wherein ye greatly rejoice, though now for a season, if need be, ye are in heaviness through manifold temptations: That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ: Whom having not seen, ye love; in whom, though now ye see him not, yet believing, ye rejoice with joy unspeakable and full of glory: Receiving the end of your faith, even the salvation of your souls. Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into. (1 Pet. 1:1-12, KJV)
 
 ### (1) 1 Pet. 1:1, - the importance of understanding the Word of God, the Covenant, Christ, the temporality of the earthly, strangers and strangers on earth, the importance of choosing in relation to eternity (where? and with whom?) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
@@ -19,10 +19,10 @@
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-#### (a) 1 Pet. 1:1, - God's understanding of sovereignty (man's election)
+#### (a) 1 Pet. 1:1, - understanding God's sovereignty (man's election)
 > Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, (1 Pet. 1:1, KJV)
 
-#### (b) 1 Pet. 1:2 (Rom. 8:29), - God's election by foreknowledge
+#### (b) 1 Pet. 1:2 (Rom. 8:29), - God's election according to God's foreknowledge
 > Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied. (1 Pet. 1:2, KJV)
 > For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren. (Rom. 8:29, KJV)
 
@@ -50,7 +50,7 @@
 #### (e) The importance of preserving God's faith until the moment of separation of soul and body is to achieve salvation of the soul by faith. 2 Tim. 4:7
 > I have fought a good fight, I have finished my course, I have kept the faith: (2 Tim. 4:7, KJV)
 
-### (4) 1 Pet. 1:10-12, - Understanding God's sovereignty, fulfilling God's Word
+### (4) 1 Pet. 1:10-12, - understanding God's sovereignty, fulfilling God's Word
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into. (1 Pet. 1:10-12, KJV)
 
 #### (a) Understanding the importance of abiding in the Word of God
@@ -61,7 +61,7 @@
 
 #### (d) The constant witness of the Holy Spirit – the Sacrifice and the Feat of Christ, the understanding of the Good News by the people of God in V.Z
 
-#### (e) The understanding by the people of God of the glory of N.Z., the coming of Christ, the fulfillment of the Word of God (it was revealed to them that not to themselves, but to us)
+#### (e) The understanding of the glory of N.Z. by the people of God, the coming of Christ, the fulfillment of the Word of God (it was revealed to them that it was not to them, but to us)
 
 ## 2) 1 Pet. 1:13-25, - knowledge and transmission of the Word of God, the Covenant, Christ
 > Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ; As obedient children, not fashioning yourselves according to the former lusts in your ignorance: But as he which hath called you is holy, so be ye holy in all manner of conversation; Because it is written, Be ye holy; for I am holy. And if ye call on the Father, who without respect of persons judgeth according to every man’s work, pass the time of your sojourning here in fear: Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers; But with the precious blood of Christ, as of a lamb without blemish and without spot: Who verily was foreordained before the foundation of the world, but was manifest in these last times for you, Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God. Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently: Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever. For all flesh is as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away: But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you. (1 Pet. 1:13-25, KJV)
@@ -84,7 +84,7 @@
 
 #### (d) The importance of understanding God's holiness – the perfect holiness of God's people in Christ (legal, God's gift), the perfect holiness of God's people in deeds and deeds (actual, God's gift, future, resurrection from the dead)
 
-### (3) 1 Pet. 1:17-25, - the importance of understanding the Word of God, the Covenant, Christ
+### (3) 1 Pet. 1:17-25, - the importance of understanding the Word of God, the Covenant, and Christ
 > And if ye call on the Father, who without respect of persons judgeth according to every man’s work, pass the time of your sojourning here in fear: Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers; But with the precious blood of Christ, as of a lamb without blemish and without spot: Who verily was foreordained before the foundation of the world, but was manifest in these last times for you, Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God. Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently: Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever. For all flesh is as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away: But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you. (1 Pet. 1:17-25, KJV)
 
 #### (a) 1 Pet. 1:17, - the importance of accepting the Word of God, the Covenant, Christ, understanding the legitimate right to call God the Heavenly Father
@@ -98,7 +98,7 @@
 #### (d) 1 Pet. 1:22, - the importance of accepting the Word of God, the Covenant, Christ, the purification of God's people by obeying the Truth through the Holy Spirit (forgiveness and salvation), the special importance of proper relationships among God's people (fulfillment of destiny)
 > Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently: (1 Pet. 1:22, KJV)
 
-#### (e) 1 Pet. 1:23, - the importance of accepting the Word of God, the Covenant, Christ, understanding the mechanism of salvation and the rebirth of man (the Word of God)
+#### (e) 1 Pet. 1:23, - the importance of accepting the Word of God, the Covenant, Christ, understanding the mechanism of salvation and human rebirth (The Word of God)
 > Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever. (1 Pet. 1:23, KJV)
 
 #### (e) 1 Pet. 1:24-25, - understanding the temporality of the visible and the eternity of the invisible, the immutability of God and His Word
@@ -116,4 +116,4 @@
 
 ### (5) The importance of understanding the faith of God's people in V.Z
 
-### (6) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization
+### (6) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization

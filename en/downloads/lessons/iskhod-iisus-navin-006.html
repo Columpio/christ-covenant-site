@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,16 +233,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>6. Ex. 13–19: Exodus, life in the desert</h1>
-<h2 id="s1">1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21</h2>
+<h2 id="s1">1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21</h2>
 <blockquote data-v="kjv"><p>Much every way: chiefly, because that unto them were committed the oracles of God.</p><cite>Rom. 3:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Much in every way. First of all, they have been entrusted with the very words of God.</p><cite>Rom. 3:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Much in every way! Because first of all, they were entrusted with the revelations of God.</p><cite>Rom. 3:2 · WEB</cite></blockquote>
@@ -271,18 +273,18 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.</p><cite>Gen. 3:21 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And the LORD God made garments of skin for Adam and his wife, and He clothed them.</p><cite>Gen. 3:21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh God made garments of animal skins for Adam and for his wife, and clothed them.</p><cite>Gen. 3:21 · WEB</cite></blockquote>
-<h2 id="s2">2) Ex. 13:2, 11-16, - the importance of understanding the Word of God, the Covenant, Christ</h2>
+<h2 id="s2">2) Ex. 13:2, 11-16, - the importance of understanding the Word of God, the Covenant, and Christ</h2>
 <blockquote data-v="kjv"><p>Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, both of man and of beast: it is mine.</p><cite>Ex. 13:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>“Consecrate to Me every firstborn male. The firstborn from every womb among the Israelites belongs to Me, both of man and beast.”</p><cite>Ex. 13:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“Sanctify to me all the firstborn, whatever opens the womb among the children of Israel, both of man and of animal. It is mine.”</p><cite>Ex. 13:2 · WEB</cite></blockquote>
 <blockquote data-v="kjv"><p>And it shall be when the LORD shall bring thee into the land of the Canaanites, as he sware unto thee and to thy fathers, and shall give it thee, That thou shalt set apart unto the LORD all that openeth the matrix, and every firstling that cometh of a beast which thou hast; the males shall be the LORD’s. And every firstling of an ass thou shalt redeem with a lamb; and if thou wilt not redeem it, then thou shalt break his neck: and all the firstborn of man among thy children shalt thou redeem. And it shall be when thy son asketh thee in time to come, saying, What is this? that thou shalt say unto him, By strength of hand the LORD brought us out from Egypt, from the house of bondage: And it came to pass, when Pharaoh would hardly let us go, that the LORD slew all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the LORD all that openeth the matrix, being males; but all the firstborn of my children I redeem. And it shall be for a token upon thine hand, and for frontlets between thine eyes: for by strength of hand the LORD brought us forth out of Egypt.</p><cite>Ex. 13:11-16 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And after the LORD brings you into the land of the Canaanites and gives it to you, as He swore to you and your fathers, you are to present to the LORD the firstborn male of every womb. All the firstborn males of your livestock belong to the LORD. You must redeem every firstborn donkey with a lamb, and if you do not redeem it, you are to break its neck. And every firstborn of your sons you must redeem. In the future, when your son asks you, ‘What does this mean?’ you are to tell him, ‘With a mighty hand the LORD brought us out of Egypt, out of the house of slavery. And when Pharaoh stubbornly refused to let us go, the LORD killed every firstborn in the land of Egypt, both of man and beast. This is why I sacrifice to the LORD the firstborn male of every womb, but I redeem all the firstborn of my sons.’ So it shall serve as a sign on your hand and a symbol on your forehead, for with a mighty hand the LORD brought us out of Egypt.”</p><cite>Ex. 13:11-16 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“It shall be, when Yahweh brings you into the land of the Canaanite, as he swore to you and to your fathers, and will give it to you, that you shall set apart to Yahweh all that opens the womb, and every firstborn that comes from an animal which you have. The males shall be Yahweh’s. Every firstborn of a donkey you shall redeem with a lamb; and if you will not redeem it, then you shall break its neck; and you shall redeem all the firstborn of man among your sons. It shall be, when your son asks you in time to come, saying, ‘What is this?’ that you shall tell him, ‘By strength of hand Yahweh brought us out from Egypt, from the house of bondage. When Pharaoh stubbornly refused to let us go, Yahweh killed all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of livestock. Therefore I sacrifice to Yahweh all that opens the womb, being males; but all the firstborn of my sons I redeem.’ It shall be for a sign on your hand, and for symbols between your eyes; for by strength of hand Yahweh brought us out of Egypt.”</p><cite>Ex. 13:11-16 · WEB</cite></blockquote>
-<h3>(1) God belongs to the firstborn – man's destiny</h3>
+<h3>(1) The belonging of the firstborn of God is the destiny of man</h3>
 <h3>(2) The redemption of the firstborn – the importance of redemption, the understanding of Christ</h3>
 <h3>(3) The right foundation, the meaning of life, the transmission of the Word of God, the Covenant, Christ</h3>
 <h3>(4) Easter, unleavened bread – the death and resurrection of Christ, salvation from God</h3>
-<h2 id="s3">3) Ex. 13:19 (Gen. 50:24-25,Josh. 24:32), - transmission of the Covenant, Christ</h2>
+<h2 id="s3">3) Ex. 13:19 (Gen. 50:24-25,Josh. 24:32), - transmission of the Covenant, of Christ</h2>
 <blockquote data-v="kjv"><p>And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you.</p><cite>Ex. 13:19 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Moses took the bones of Joseph with him because Joseph had made the sons of Israel swear a solemn oath when he said, “God will surely attend to you, and then you must carry my bones with you from this place.”</p><cite>Ex. 13:19 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Moses took the bones of Joseph with him, for he had made the children of Israel swear, saying, “God will surely visit you, and you shall carry up my bones away from here with you.”</p><cite>Ex. 13:19 · WEB</cite></blockquote>
@@ -292,8 +294,8 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And the bones of Joseph, which the children of Israel brought up out of Egypt, buried they in Shechem, in a parcel of ground which Jacob bought of the sons of Hamor the father of Shechem for an hundred pieces of silver: and it became the inheritance of the children of Joseph.</p><cite>Josh. 24:32 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And the bones of Joseph, which the Israelites had brought up out of Egypt, were buried at Shechem in the plot of land that Jacob had purchased from the sons of Hamor, Shechem’s father, for a hundred pieces of silver. So it became an inheritance for Joseph’s descendants.</p><cite>Josh. 24:32 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>They buried the bones of Joseph, which the children of Israel brought up out of Egypt, in Shechem, in the parcel of ground which Jacob bought from the sons of Hamor the father of Shechem for a hundred pieces of silver. They became the inheritance of the children of Joseph.</p><cite>Josh. 24:32 · WEB</cite></blockquote>
-<h3>(1) Joseph's Faith – understanding the Covenant, Christ, fulfilling the Word of God</h3>
-<h3>(2) The importance of Canaan, the descendants – the destiny of the people of God</h3>
+<h3>(1) Joseph's Faith – understanding the Covenant, Christ, and fulfilling the Word of God</h3>
+<h3>(2) The importance of Canaan, the descendants – the destiny of God's people</h3>
 <h2 id="s4">4) Ex. 13:20-22, - God's guidance and responsibility</h2>
 <blockquote data-v="kjv"><p>And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness. And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night: He took not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people.</p><cite>Ex. 13:20-22 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>They set out from Succoth and camped at Etham on the edge of the wilderness. And the LORD went before them in a pillar of cloud to guide their way by day, and in a pillar of fire to give them light by night, so that they could travel by day or night. Neither the pillar of cloud by day nor the pillar of fire by night left its place before the people.</p><cite>Ex. 13:20-22 · BSB</cite></blockquote>
@@ -312,8 +314,8 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>Then Jesus was led by the Spirit into the wilderness to be tempted by the devil. After fasting forty days and forty nights, He was hungry.</p><cite>Matt. 4:1-2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil. When he had fasted forty days and forty nights, he was hungry afterward.</p><cite>Matt. 4:1-2 · WEB</cite></blockquote>
 <h3>(1) Ex. 14, is God's solution to the problem of circumstances</h3>
-<h4>(a) The Egyptians – stop the transmission of the Covenant, Christ (act of Satan)</h4>
-<h4>(b) Salvation is for the transmission of the Covenant, Christ, World Evangelization Gen. 3:15, 21</h4>
+<h4>(a) The Egyptians – to stop the transmission of the Covenant, of Christ (the action of Satan)</h4>
+<h4>(b) Salvation is for the transmission of the Covenant, Christ, and Worldwide Evangelization Gen. 3:15, 21</h4>
 <blockquote data-v="kjv"><p>And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.</p><cite>Gen. 3:15 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And I will put enmity between you and the woman, and between your seed and her seed. He will crush your head, and you will strike his heel.”</p><cite>Gen. 3:15 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I will put hostility between you and the woman, and between your offspring and her offspring. He will bruise your head, and you will bruise his heel.”</p><cite>Gen. 3:15 · WEB</cite></blockquote>
@@ -321,7 +323,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>And the LORD God made garments of skin for Adam and his wife, and He clothed them.</p><cite>Gen. 3:21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh God made garments of animal skins for Adam and for his wife, and clothed them.</p><cite>Gen. 3:21 · WEB</cite></blockquote>
 <h4>(c) The Red Sea is the prototype of the Water Baptism of N.Z. (The Baptism of Moses is the prototype of the Baptism of Christ, the Baptism in the cloud is the prototype of the Baptism of the Holy Spirit)</h4>
-<h3>(2) Ex. 15-17, is God's decision phys. And a spiritual person needs</h3>
+<h3>(2) Ex. 15-17, is God's decision phys. and the spiritual needs of man</h3>
 <h4>(a) Manna, the heavenly bread, is the Word of God, Christ. John 6:31-35</h4>
 <blockquote data-v="kjv"><p>Our fathers did eat manna in the desert; as it is written, He gave them bread from heaven to eat. Then Jesus said unto them, Verily, verily, I say unto you, Moses gave you not that bread from heaven; but my Father giveth you the true bread from heaven. For the bread of God is he which cometh down from heaven, and giveth life unto the world. Then said they unto him, Lord, evermore give us this bread. And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.</p><cite>John 6:31-35 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Our fathers ate the manna in the wilderness, as it is written: ‘He gave them bread from heaven to eat.’” Jesus said to them, “Truly, truly, I tell you, it was not Moses who gave you the bread from heaven, but it is My Father who gives you the true bread from heaven. For the bread of God is He who comes down from heaven and gives life to the world.” “Sir,” they said, “give us this bread at all times.” Jesus answered, “I am the bread of life. Whoever comes to Me will never hunger, and whoever believes in Me will never thirst.</p><cite>John 6:31-35 · BSB</cite></blockquote>
@@ -339,21 +341,21 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.</p><cite>1 John 3:8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>The one who practices sin is of the devil, because the devil has been sinning from the very start. This is why the Son of God was revealed, to destroy the works of the devil.</p><cite>1 John 3:8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He who sins is of the devil, for the devil has been sinning from the beginning. To this end the Son of God was revealed: that he might destroy the works of the devil.</p><cite>1 John 3:8 · WEB</cite></blockquote>
-<h4>(b) The Cross (fulfillment of the Word of God) – only Christ (man is unable)</h4>
-<h4>(c) The stone is the prototype of Christ, relying only on the Word of God, the Covenant, Christ</h4>
+<h4>(b) The Cross (fulfillment of the Word of God) – only Christ (man cannot)</h4>
+<h4>(c) The stone is the prototype of Christ, based only on the Word of God, the Covenant, Christ</h4>
 <h3>(4) Ex. 18 (10-12,27), - God's care and order in human life</h3>
-<h4>(a) Acceptance of the Word of God, the Covenant, Christ (God's care for the family)</h4>
+<h4>(a) Accepting the Word of God, the Covenant, and Christ (God's concern for the family)</h4>
 <h4>(b) God's order in life and worship</h4>
 <h3>(5) Ex. 19, - communion of God with man, contemplation of the glory of God</h3>
 <h4>(a) The importance of deep, personal communication with God</h4>
-<h4>(b) The meaning of communication is the knowledge and transmission of the Word of God, the Covenant, Christ</h4>
+<h4>(b) The meaning of communication is the knowledge and transmission of the Word of God, the Covenant, and Christ</h4>
 <h2 id="s6">Conclusion:</h2>
 <h3>(1) God's action towards God's people</h3>
-<h4>(a) The restoration of the Word of God, the Covenant, Christ in the life of man Rev. 3:20</h4>
+<h4>(a) The restoration of the Word of God, the Covenant, and Christ in human life Rev. 3:20</h4>
 <blockquote data-v="kjv"><p>Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.</p><cite>Rev. 3:20 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Behold, I stand at the door and knock. If anyone hears My voice and opens the door, I will come in and dine with him, and he with Me.</p><cite>Rev. 3:20 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Behold, I stand at the door and knock. If anyone hears my voice and opens the door, then I will come in to him and will dine with him, and he with me.</p><cite>Rev. 3:20 · WEB</cite></blockquote>
-<h4>(b) The celebration of Easter, the Exodus, Canaan – World Evangelization, the coming of Christ. (The destiny of the people is God, the Church). Matt. 28:19-20,2 Tim. 2:2</h4>
+<h4>(b) The celebration of Easter, the Exodus, Canaan – World Evangelization, the coming of Christ. (The destiny of God's people, the Church). Matt. 28:19-20,2 Tim. 2:2</h4>
 <blockquote data-v="kjv"><p>Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.</p><cite>Matt. 28:19-20 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey all that I have commanded you. And surely I am with you always, even to the end of the age.”</p><cite>Matt. 28:19-20 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all things that I commanded you. Behold, I am with you always, even to the end of the age.” Amen.</p><cite>Matt. 28:19-20 · WEB</cite></blockquote>
@@ -368,7 +370,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And we know that all things work together for good to them that love God, to them who are the called according to his purpose.</p><cite>Rom. 8:28 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And we know that God works all things together for the good of those who love Him, who are called according to His purpose.</p><cite>Rom. 8:28 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>We know that all things work together for good for those who love God, for those who are called according to his purpose.</p><cite>Rom. 8:28 · WEB</cite></blockquote>
-<h4>(e) Addressing the physical and spiritual needs of a person Heb. 13:5</h4>
+<h4>(e) Addressing human physical and spiritual needs Heb. 13:5</h4>
 <blockquote data-v="kjv"><p>Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.</p><cite>Heb. 13:5 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Keep your lives free from the love of money and be content with what you have, for God has said: “Never will I leave you, never will I forsake you.”</p><cite>Heb. 13:5 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Be free from the love of money, content with such things as you have, for he has said, “I will in no way leave you, neither will I in any way forsake you.”</p><cite>Heb. 13:5 · WEB</cite></blockquote>
@@ -379,16 +381,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith.</p><cite>1 John 5:4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>because everyone born of God overcomes the world. And this is the victory that has overcome the world: our faith.</p><cite>1 John 5:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For whatever is born of God overcomes the world. This is the victory that has overcome the world: your faith.</p><cite>1 John 5:4 · WEB</cite></blockquote>
-<h4>(g) God governs and orders the life and ministry of man Phil. 2:13</h4>
+<h4>(g) God's governance and order in human life and service Phil. 2:13</h4>
 <blockquote data-v="kjv"><p>For it is God which worketh in you both to will and to do of his good pleasure.</p><cite>Phil. 2:13 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For it is God who works in you to will and to act on behalf of His good purpose.</p><cite>Phil. 2:13 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For it is God who works in you both to will and to work for his good pleasure.</p><cite>Phil. 2:13 · WEB</cite></blockquote>
-<h4>(e) Communion of God with man, contemplation of the glory of God 2 Cor. 13:14</h4>
+<h4>(e) The communion of God with man, contemplation of the glory of God 2 Cor. 13:14</h4>
 <blockquote data-v="kjv"><p>The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen.</p><cite>2 Cor. 13:14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>The grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with all of you.</p><cite>2 Cor. 13:14 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>The grace of the Lord Jesus Christ, God’s love, and the fellowship of the Holy Spirit be with you all. Amen.</p><cite>2 Cor. 13:14 · WEB</cite></blockquote>
-<h3>(2) The purpose of the wilderness is to prepare for the transmission of the Covenant, Christ (teaching)</h3>
-<h4>(a) Ex. 14:10-12; 15:24; 16:2-3; 17:1-4, - non-acceptance of the Word of God, the Covenant, Christ</h4>
+<h3>(2) The purpose of the desert is to prepare for the transmission of the Covenant, Christ (teaching)</h3>
+<h4>(a) Ex. 14:10-12; 15:24; 16:2-3; 17:1-4, - rejection of the Word of God, the Covenant, of Christ</h4>
 <blockquote data-v="kjv"><p>And when Pharaoh drew nigh, the children of Israel lifted up their eyes, and, behold, the Egyptians marched after them; and they were sore afraid: and the children of Israel cried out unto the LORD. And they said unto Moses, Because there were no graves in Egypt, hast thou taken us away to die in the wilderness? wherefore hast thou dealt thus with us, to carry us forth out of Egypt? Is not this the word that we did tell thee in Egypt, saying, Let us alone, that we may serve the Egyptians? For it had been better for us to serve the Egyptians, than that we should die in the wilderness.</p><cite>Ex. 14:10-12 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>As Pharaoh approached, the Israelites looked up and saw the Egyptians marching after them, and they were terrified and cried out to the LORD. They said to Moses, “Was it because there were no graves in Egypt that you brought us into the wilderness to die? What have you done to us by bringing us out of Egypt? Did we not say to you in Egypt, ‘Leave us alone so that we may serve the Egyptians’? For it would have been better for us to serve the Egyptians than to die in the wilderness.”</p><cite>Ex. 14:10-12 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>When Pharaoh came near, the children of Israel lifted up their eyes, and behold, the Egyptians were marching after them; and they were very afraid. The children of Israel cried out to Yahweh. They said to Moses, “Because there were no graves in Egypt, have you taken us away to die in the wilderness? Why have you treated us this way, to bring us out of Egypt? Isn’t this the word that we spoke to you in Egypt, saying, ‘Leave us alone, that we may serve the Egyptians’? For it would have been better for us to serve the Egyptians than to die in the wilderness.”</p><cite>Ex. 14:10-12 · WEB</cite></blockquote>
@@ -405,7 +407,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God. But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin. For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end; While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation. For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses. But with whom was he grieved forty years? was it not with them that had sinned, whose carcases fell in the wilderness? And to whom sware he that they should not enter into his rest, but to them that believed not? So we see that they could not enter in because of unbelief.</p><cite>Heb. 3:12-19 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>See to it, brothers, that none of you has a wicked heart of unbelief that turns away from the living God. But exhort one another daily, as long as it is called today, so that none of you may be hardened by sin’s deceitfulness. We have come to share in Christ if we hold firmly to the end the assurance we had at first. As it has been said: “Today, if you hear His voice, do not harden your hearts, as you did in the rebellion.” For who were the ones who heard and rebelled? Were they not all those Moses led out of Egypt? And with whom was God angry for forty years? Was it not with those who sinned, whose bodies fell in the wilderness? And to whom did He swear that they would never enter His rest? Was it not to those who disobeyed? So we see that it was because of their unbelief that they were unable to enter.</p><cite>Heb. 3:12-19 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Beware, brothers, lest perhaps there might be in any one of you an evil heart of unbelief, in falling away from the living God; but exhort one another day by day, so long as it is called “today”, lest any one of you be hardened by the deceitfulness of sin. For we have become partakers of Christ, if we hold the beginning of our confidence firm to the end, while it is said, “Today if you will hear his voice, don’t harden your hearts, as in the rebellion.” For who, when they heard, rebelled? Wasn’t it all those who came out of Egypt led by Moses? With whom was he displeased forty years? Wasn’t it with those who sinned, whose bodies fell in the wilderness? To whom did he swear that they wouldn’t enter into his rest, but to those who were disobedient? We see that they weren’t able to enter in because of unbelief.</p><cite>Heb. 3:12-19 · WEB</cite></blockquote>
-<h3>(3) Man's responsibility is to listen to and follow the Word of God</h3>
+<h3>(3) Man's responsibility is to listen and follow the Word of God</h3>
 <h4>(a) Understanding the human right to choose</h4>
 <h4>(b) Understanding God's test of human choice</h4>
 </main>

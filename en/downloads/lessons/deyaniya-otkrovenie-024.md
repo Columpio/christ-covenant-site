@@ -1,8 +1,8 @@
 # 1 Pet. 3
-## 3.1) 1 Pet. 3:1-7, - the importance of conveying the Word of God, the Covenant, Christ
+## 3.1) 1 Pet. 3:1-7, - the importance of conveying the Word of God, the Covenant, and Christ
 > Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives; While they behold your chaste conversation coupled with fear. Whose adorning let it not be that outward adorning of plaiting the hair, and of wearing of gold, or of putting on of apparel; But let it be the hidden man of the heart, in that which is not corruptible, even the ornament of a meek and quiet spirit, which is in the sight of God of great price. For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection unto their own husbands: Even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement. Likewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered. (1 Pet. 3:1-7, KJV)
 
-### (1) 1 Pet. 3:1-2, - importance of fulfilling destiny, knowledge and transmission of the Word of God, the Covenant, Christ, importance of the family Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
+### (1) 1 Pet. 3:1-2, - the importance of fulfilling the destiny, knowledge and transmission of the Word of God, the Covenant, Christ, the importance of the family Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
 > Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives; While they behold your chaste conversation coupled with fear. (1 Pet. 3:1-2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -19,7 +19,7 @@
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-#### (a) 1 Cor. 11:3, - God is the order of the family (God is Christ – husband – wife)
+#### (a) 1 Cor. 11:3, - God's family order (God – Christ – husband–wife)
 > But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God. (1 Cor. 11:3, KJV)
 
 #### (b) Unbelieving families are a consequence of the Fall
@@ -63,15 +63,15 @@
 
 #### (b) Compassionate – the importance of understanding the spiritual problem of humanity, the desire to save many people
 
-#### (c) Brotherly love – the importance of fulfilling the destiny, knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization
+#### (c) Brotherly love – the importance of fulfilling one's destiny, learning and transmitting the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization
 
 #### (d) Merciful – the importance of understanding the forgiveness of all sins, the desire for well-being and salvation for many people
 
-#### (e) Friendly – the importance of communication and friendship, transmission of the Word of God, the Covenant, Christ, fulfillment of destiny
+#### (e) Friendly – the importance of communication and friendship, the transmission of the Word of God, the Covenant, Christ, the fulfillment of destiny
 
-#### (e) Humility – right living, fulfilling the will of God, knowing and transmitting the Word of God, the Covenant, Christ, destiny
+#### (e) Humility – living a right life, fulfilling the will of God, learning and transmitting the Word of God, the Covenant, Christ, and destiny
 
-### (2) 1 Pet. 3:9-11, - the importance of the right life of the people of God
+### (2) 1 Pet. 3:9-11, - the importance of the right life of God's people
 > Not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing. For he that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile: Let him eschew evil, and do good; let him seek peace, and ensue it. (1 Pet. 3:9-11, KJV)
 
 #### (a) Not to repay evil for evil, the importance of forgiveness
@@ -82,19 +82,19 @@
 
 #### (d) The importance of avoiding evil, striving for goodness and peace – the importance of understanding the forgiveness of all sins, the importance of understanding and fulfilling destiny
 
-### (3) 1 Pet. 3:12-13, - the importance of the right life of the people of God
+### (3) 1 Pet. 3:12-13, - the importance of the right life of God's people
 > For the eyes of the Lord are over the righteous, and his ears are open unto their prayers: but the face of the Lord is against them that do evil. And who is he that will harm you, if ye be followers of that which is good? (1 Pet. 3:12-13, KJV)
 
 #### (a) The importance of accepting the Word of God, the Covenant, Christ, the right state and position of man before God, God's care and protection of man
 
-#### (b) Non–acceptance of the Word of God, the Covenant, Christ - the inevitability of God's judgment
+#### (b) Rejection of the Word of God, the Covenant, and Christ – the inevitability of God's judgment
 
-### (4) 1 Pet. 3:14-17, - the importance of the right life of the people of God
+### (4) 1 Pet. 3:14-17, - the importance of the right life of God's people
 > But and if ye suffer for righteousness’ sake, happy are ye: and be not afraid of their terror, neither be troubled; But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear: Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ. For it is better, if the will of God be so, that ye suffer for well doing, than for evil doing. (1 Pet. 3:14-17, KJV)
 
 #### (a) Suffering for the truth is God's sovereignty and control
 
-#### (b) The importance of understanding the work of Satan – God's persecution of the people
+#### (b) The importance of understanding Satan's work of persecuting God's people
 
 #### (c) The importance of the right attitude towards God and people, the importance of understanding and fulfilling destiny
 
@@ -114,7 +114,7 @@
 ## 3) 1 Pet. 3:18-22, - understanding the judgment and justice of God
 > For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit: By which also he went and preached unto the spirits in prison; Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water. The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ: Who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him. (1 Pet. 3:18-22, KJV)
 
-### (1) 1 Pet. 3:18, - the death of Christ, the full execution of the sentence of the Word of God instead of man, the understanding of God's love and mercy
+### (1) 1 Pet. 3:18, - the death of Christ, the complete fulfillment of the sentence of the Word of God instead of man, the understanding of God's love and mercy
 > For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit: (1 Pet. 3:18, KJV)
 
 #### (a) The impossibility of Emmanuel without a legal solution to the problem of human sins Rom. 6:23,Matt. 5:17
@@ -128,12 +128,12 @@
 > By which also he went and preached unto the spirits in prison; Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water. (1 Pet. 3:19-20, KJV)
 > And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them. And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works. And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works. And death and hell were cast into the lake of fire. This is the second death. And whosoever was not found written in the book of life was cast into the lake of fire. (Rev. 20:11-15, KJV)
 
-#### (a) Fire is a place for sinners, rejection of the Word of God, the Covenant, Christ
+#### (a) Fire is a place for sinners, rejection of the Word of God, the Covenant, and Christ
 
 #### (b) The bosom of Abraham is a place for the righteous V.Z., accepting the Word of God, the Covenant, Christ, waiting for the fulfillment of the Word of God Gen. 37:35
 > And all his sons and all his daughters rose up to comfort him; but he refused to be comforted; and he said, For I will go down into the grave unto my son mourning. Thus his father wept for him. (Gen. 37:35, KJV)
 
-#### (c) Prisons are a place for people who have never heard the Word of God, the Covenant, Christ, the possibility of choice. 1 Pet. 3:19,Rev. 20:15
+#### (c) Prisons are a place for people who have never heard the Words of God, the Covenant, Christ, the opportunity to choose. 1 Pet. 3:19,Rev. 20:15
 > By which also he went and preached unto the spirits in prison; (1 Pet. 3:19, KJV)
 > And whosoever was not found written in the book of life was cast into the lake of fire. (Rev. 20:15, KJV)
 
@@ -151,18 +151,18 @@
 ### (2) Water Baptism is the confirmation of God's judgment on man, the death of the old man and the birth of a new one through the acceptance of Christ's Sacrifice (Ark, salvation). Col. 2:11-13
 > In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ: Buried with him in baptism, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead. And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses; (Col. 2:11-13, KJV)
 
-### (3) The promise to God of a life with a good conscience is a life for God. (Fulfillment of God's will – knowledge and transmission of the Word of God, the Covenant, Christ) 1 Pet. 3:21, - John 8:31-32,Matt. 28:19-20,1 Tim. 4:16,2 Tim. 2:2
+### (3) The promise to God of a life with a good conscience is a life for God. (The fulfillment of God's will is the knowledge and transmission of God's Word, Covenant, and Christ) 1 Pet. 3:21, - John 8:31-32,Matt. 28:19-20,1 Tim. 4:16,2 Tim. 2:2
 > The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ: (1 Pet. 3:21, KJV)
 > Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; And ye shall know the truth, and the truth shall make you free. (John 8:31-32, KJV)
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
 > Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee. (1 Tim. 4:16, KJV)
 > And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also. (2 Tim. 2:2, KJV)
 
-- Water Baptism is a visible evidence of the conclusion of the Covenant of God with man, the affirmation of the Word of God, the Covenant, Christ
+- Water Baptism is a visible evidence of the conclusion of the Covenant of God with man, the affirmation of the Word of God, the Covenant, of Christ.
 
 ## Conclusion:
 
-### (1) The importance of understanding the family, the importance of fulfilling the intended purpose. (Knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the Coming of Christ)
+### (1) The importance of understanding the family, the importance of fulfilling the intended purpose. (Knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ)
 
 ### (2) The importance of the right life of God's people,
 
@@ -174,4 +174,4 @@
 
 ### (6) The importance of understanding the essence and meaning of Water Baptism
 
-### (7) The importance of understanding Satan's actions
+### (7) The importance of understanding Satan's Actions

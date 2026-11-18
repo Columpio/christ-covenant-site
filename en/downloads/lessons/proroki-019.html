@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -272,7 +274,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>And the LORD God made garments of skin for Adam and his wife, and He clothed them.</p><cite>Gen. 3:21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh God made garments of animal skins for Adam and for his wife, and clothed them.</p><cite>Gen. 3:21 · WEB</cite></blockquote>
 <h3>(1) Rejection of the Word of God, the Covenant, Christ, loss of purpose – slavery</h3>
-<h3>(2) The preservation of the Covenant family, Christ – the knowledge and transmission of the Word of God (Daniel, Shadrach, Mesach, Abednego, Ezra, Nehemiah. Mordecai, etc.)</h3>
+<h3>(2) The preservation of the family of the Covenant, of Christ, is the knowledge and transmission of the Word of God (Daniel, Shadrach, Mesach, Abednego, Ezra, Nehemiah. Mordecai, etc.)</h3>
 <h2 id="s2">2) The stages of the return of God's people</h2>
 <h3>(1) 1st stage – Zerubbabel Temple (538 BC)</h3>
 <h4>(a) Cyrus the Great II (539-536 BC) – the fulfillment of the Word of God, the Covenant, Christ, the return of the Jews to Canaan, the coming of Christ</h4>
@@ -283,29 +285,29 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h3>(3) Stage 3 – Nehemiah, the walls of Jerusalem (444 BC) (King Artaxerxes 1,464-423 BC)</h3>
 <h2 id="s3">4) Nehemiah – the Third Return of the Jews (444 BC)</h2>
 <h3>(1) Neh. 7, - the census of the people of God, the 1st return of the Jews. (Zerubbabel, Joshua the son of Jozadak, Zechariah, Haggai, the people of God)</h3>
-<h4>(a) The importance of the people of God – the preservation and transmission of the Word of God, the Covenant, Christ</h4>
+<h4>(a) The importance of God's people is the preservation and transmission of God's Word, Covenant, and Christ</h4>
 <h4>(b) Fulfillment of destiny – the right to choose a person</h4>
 <h4>(c) The importance of financial service to God's people</h4>
 <h3>(2) Neh. 8 (8,13,18), - transmission of the Word of God, the Covenant, Christ, the ministry of Ezra</h3>
 <h4>(a) Ezra is a priest (descendant of Aaron), a scribe, understanding the importance of knowing and transmitting the Word of God, the Covenant, Christ, the coming of Christ</h4>
-<h4>(b) 1 and 2 Par., Ezra, canon V.Z. (Tanakh), the struggle against the apocrypha – the importance of purity of the Word of God, the fulfillment of the destiny of the people of God</h4>
+<h4>(b) 1 and 2 Par., Ezra, canon V.Z. (Tanakh), the struggle against the apocrypha – the importance of the purity of the Word of God, the fulfillment of the destiny of God's people</h4>
 <h4>(c) The Book of the Law, the constant abiding of the people in the Word of God</h4>
-<h4>(d) The importance of properly understanding the Word of God, the Covenant, Christ, Teaching</h4>
+<h4>(d) The importance of properly understanding the Word of God, the Covenant, Christ, and teaching</h4>
 <h4>(e) The Feast of Tabernacles – the temporality of the visible, the importance of the Word of God</h4>
 <h3>(3) Neh. 9, - confession of sins, affirmation of the Word of God, the Covenant, Christ</h3>
 <h4>(a) The meaning of confession is the recognition of apostasy from God (sin), understanding the cause of all the problems of God's people</h4>
 <h4>(b) Understanding the importance of returning to God, knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ</h4>
-<h4>(c) God's preservation of the people is the grace, mercy, and love of God</h4>
-<h3>(4) Neh. 10, - affirmation of the Word of God, the Covenant, Christ</h3>
-<h4>(a) The list of participants in the affirmation of the Word of God, the Covenant, Christ – the separation of the people of God, the fulfillment of destiny, the correct ideology and worldview, the purity of teaching</h4>
+<h4>(c) The preservation of God's people is the grace, mercy, and love of God</h4>
+<h3>(4) Neh. 10, is the affirmation of the Word of God, the Covenant, and Christ</h3>
+<h4>(a) The list of participants in the affirmation of the Word of God, the Covenant, and Christ – the separation of the people of God, the fulfillment of destiny, the correct ideology and worldview, and the purity of teaching</h4>
 <h4>(b) The importance of marriages, the Seventh Day, and the Tithes of God's people</h4>
-<h3>(5) Neh. 11 (1-19,20-36), - the importance of transmitting the Word of God, the Covenant, Christ (The importance of the settlement of Jerusalem and Canaan, the Temple, Worldwide Evangelization, preparation for the coming of Christ, fulfillment of destiny)</h3>
-<h3>(6) Neh. 12, - the importance of conveying the Word of God, the Covenant, Christ</h3>
+<h3>(5) Neh. 11 (1-19,20-36), - the importance of transmitting the Word of God, the Covenant, and Christ (The importance of settling Jerusalem and Canaan, the Temple, Worldwide Evangelization, preparation for the coming of Christ, and fulfillment of destiny)</h3>
+<h3>(6) Neh. 12, - the importance of conveying the Word of God, the Covenant, and Christ</h3>
 <h4>(a) Neh. 12 (1-26), - the importance of priests, the affirmation of the Word of God, the Covenant, Christ, the fulfillment of the destiny of the people of God</h4>
-<h4>(b) Neh. 12 (27-43), - consecration of the rebuilt walls of Jerusalem, praise of God, Sacrifice, understanding the Word of God, the Covenant, Christ</h4>
+<h4>(b) Neh. 12 (27-43), - consecration of the rebuilt walls of Jerusalem, praise of God, Sacrifice, understanding of the Word of God, the Covenant, Christ</h4>
 <h4>(c) Neh. 12 (44-47), - the importance of financial service to the people of God, the importance of fulfilling the destiny</h4>
 <h3>(7) Neh. 13, - affirmation of the Word of God, the Covenant, Christ, the reform of Nehemiah</h3>
-<h4>(a) Neh. 13:1-3, - separation of the alien, importance of the people of God, purity of teaching, understanding and fulfillment of destiny</h4>
+<h4>(a) Neh. 13:1-3, - separation of the alien, importance of God's people, purity of teaching, understanding and fulfillment of destiny</h4>
 <blockquote data-v="kjv"><p>On that day they read in the book of Moses in the audience of the people; and therein was found written, that the Ammonite and the Moabite should not come into the congregation of God for ever; Because they met not the children of Israel with bread and with water, but hired Balaam against them, that he should curse them: howbeit our God turned the curse into a blessing. Now it came to pass, when they had heard the law, that they separated from Israel all the mixed multitude.</p><cite>Neh. 13:1-3 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>At that time the Book of Moses was read aloud in the hearing of the people, and in it they found the passage stating that no Ammonite or Moabite should ever enter the assembly of God, because they had not met the Israelites with food and water, but had hired Balaam to call down a curse against them (although our God had turned the curse into a blessing). As soon as the people heard this law, they excluded from Israel all of foreign descent.</p><cite>Neh. 13:1-3 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>On that day they read in the book of Moses in the hearing of the people; and it was found written in it that an Ammonite and a Moabite should not enter into the assembly of God forever, because they didn’t meet the children of Israel with bread and with water, but hired Balaam against them to curse them; however, our God turned the curse into a blessing. It came to pass, when they had heard the law, that they separated all the mixed multitude from Israel.</p><cite>Neh. 13:1-3 · WEB</cite></blockquote>
@@ -317,7 +319,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And I perceived that the portions of the Levites had not been given them: for the Levites and the singers, that did the work, were fled every one to his field. Then contended I with the rulers, and said, Why is the house of God forsaken? And I gathered them together, and set them in their place. Then brought all Judah the tithe of the corn and the new wine and the oil unto the treasuries. And I made treasurers over the treasuries, Shelemiah the priest, and Zadok the scribe, and of the Levites, Pedaiah: and next to them was Hanan the son of Zaccur, the son of Mattaniah: for they were counted faithful, and their office was to distribute unto their brethren. Remember me, O my God, concerning this, and wipe not out my good deeds that I have done for the house of my God, and for the offices thereof.</p><cite>Neh. 13:10-14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>I also learned that because the portions for the Levites had not been given to them, all the Levites and singers responsible for performing the service had gone back to their own fields. So I rebuked the officials and asked, “Why has the house of God been neglected?” Then I gathered the Levites and singers together and stationed them at their posts, and all Judah brought a tenth of the grain, new wine, and oil into the storerooms. I appointed as treasurers over the storerooms Shelemiah the priest, Zadok the scribe, and Pedaiah of the Levites, with Hanan son of Zaccur, the son of Mattaniah, to assist them, because they were considered trustworthy. They were responsible for distributing the supplies to their fellow Levites. Remember me for this, O my God, and do not blot out my deeds of loving devotion for the house of my God and for its services.</p><cite>Neh. 13:10-14 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I perceived that the portions of the Levites had not been given them, so that the Levites and the singers, who did the work, had each fled to his field. Then I contended with the rulers, and said, “Why is God’s house forsaken?” I gathered them together, and set them in their place. Then all Judah brought the tithe of the grain, the new wine, and the oil to the treasuries. I made treasurers over the treasuries, Shelemiah the priest, and Zadok the scribe, and of the Levites, Pedaiah: and next to them was Hanan the son of Zaccur, the son of Mattaniah; for they were counted faithful, and their business was to distribute to their brothers. Remember me, my God, concerning this, and don’t wipe out my good deeds that I have done for the house of my God, and for its observances.</p><cite>Neh. 13:10-14 · WEB</cite></blockquote>
-<h4>(d) Neh. 13:15-22, - the importance of the seventh day for the people of God, the importance of worship and the exact fulfillment of the Word of God</h4>
+<h4>(d) Neh. 13:15-22, - the importance of the seventh day for the people of God, the importance of worship and the faithful fulfillment of the Word of God</h4>
 <blockquote data-v="kjv"><p>In those days saw I in Judah some treading wine presses on the sabbath, and bringing in sheaves, and lading asses; as also wine, grapes, and figs, and all manner of burdens, which they brought into Jerusalem on the sabbath day: and I testified against them in the day wherein they sold victuals. There dwelt men of Tyre also therein, which brought fish, and all manner of ware, and sold on the sabbath unto the children of Judah, and in Jerusalem. Then I contended with the nobles of Judah, and said unto them, What evil thing is this that ye do, and profane the sabbath day? Did not your fathers thus, and did not our God bring all this evil upon us, and upon this city? yet ye bring more wrath upon Israel by profaning the sabbath. And it came to pass, that when the gates of Jerusalem began to be dark before the sabbath, I commanded that the gates should be shut, and charged that they should not be opened till after the sabbath: and some of my servants set I at the gates, that there should no burden be brought in on the sabbath day. So the merchants and sellers of all kind of ware lodged without Jerusalem once or twice. Then I testified against them, and said unto them, Why lodge ye about the wall? if ye do so again, I will lay hands on you. From that time forth came they no more on the sabbath. And I commanded the Levites that they should cleanse themselves, and that they should come and keep the gates, to sanctify the sabbath day. Remember me, O my God, concerning this also, and spare me according to the greatness of thy mercy.</p><cite>Neh. 13:15-22 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>In those days I saw people in Judah treading winepresses on the Sabbath and bringing in grain and loading it on donkeys, along with wine, grapes, and figs. All kinds of goods were being brought into Jerusalem on the Sabbath day. So I warned them against selling food on that day. Additionally, men of Tyre who lived there were importing fish and all kinds of merchandise and selling them on the Sabbath to the people of Judah in Jerusalem. Then I rebuked the nobles of Judah and asked, “What is this evil you are doing—profaning the Sabbath day? Did not your forefathers do the same things, so that our God brought all this disaster on us and on this city? And now you are rekindling His wrath against Israel by profaning the Sabbath!” When the evening shadows began to fall on the gates of Jerusalem, just before the Sabbath, I ordered that the gates be shut and not opened until after the Sabbath. I posted some of my servants at the gates so that no load could enter on the Sabbath day. Once or twice, the merchants and those who sell all kinds of goods camped outside Jerusalem, but I warned them, “Why are you camping in front of the wall? If you do it again, I will lay hands on you.” From that time on, they did not return on the Sabbath. Then I instructed the Levites to purify themselves and guard the gates in order to keep the Sabbath day holy. Remember me for this as well, O my God, and show me mercy according to Your abundant loving devotion.</p><cite>Neh. 13:15-22 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>In those days I saw some men treading wine presses on the Sabbath in Judah, bringing in sheaves, and loading donkeys with wine, grapes, figs, and all kinds of burdens which they brought into Jerusalem on the Sabbath day; and I testified against them in the day in which they sold food. Some men of Tyre also lived there, who brought in fish and all kinds of wares, and sold on the Sabbath to the children of Judah, and in Jerusalem. Then I contended with the nobles of Judah, and said to them, “What evil thing is this that you do, and profane the Sabbath day? Didn’t your fathers do this, and didn’t our God bring all this evil on us and on this city? Yet you bring more wrath on Israel by profaning the Sabbath.” It came to pass that when the gates of Jerusalem began to be dark before the Sabbath, I commanded that the doors should be shut, and commanded that they should not be opened until after the Sabbath. I set some of my servants over the gates, so that no burden should be brought in on the Sabbath day. So the merchants and sellers of all kinds of wares camped outside of Jerusalem once or twice. Then I testified against them, and said to them, “Why do you stay around the wall? If you do so again, I will lay hands on you.” From that time on, they didn’t come on the Sabbath. I commanded the Levites that they should purify themselves, and that they should come and keep the gates, to sanctify the Sabbath day. Remember me for this also, my God, and spare me according to the greatness of your loving kindness.</p><cite>Neh. 13:15-22 · WEB</cite></blockquote>
@@ -326,22 +328,22 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>In those days I also saw Jews who had married women from Ashdod, Ammon, and Moab. Half of their children spoke the language of Ashdod or of the other peoples, but could not speak the language of Judah. I rebuked them and called down curses on them. I beat some of these men and pulled out their hair. Then I made them take an oath before God and said, “You must not give your daughters in marriage to their sons or take their daughters as wives for your sons or for yourselves! Did not King Solomon of Israel sin in matters like this? There was not a king like him among many nations, and he was loved by his God, who made him king over all Israel—yet foreign women drew him into sin. Must we now hear that you too are doing all this terrible evil and acting unfaithfully against our God by marrying foreign women?” Even one of the sons of Jehoiada son of Eliashib the high priest had become a son-in-law to Sanballat the Horonite. Therefore I drove him away from me. Remember them, O my God, because they have defiled the priesthood and the covenant of the priesthood and of the Levites. Thus I purified the priests and Levites from everything foreign, and I assigned specific duties to each of the priests and Levites. I also arranged for contributions of wood at the appointed times, and for the firstfruits. Remember me, O my God, with favor.</p><cite>Neh. 13:23-31 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>In those days I also saw the Jews who had married women of Ashdod, of Ammon, and of Moab; and their children spoke half in the speech of Ashdod, and could not speak in the Jews’ language, but according to the language of each people. I contended with them, cursed them, struck certain of them, plucked off their hair, and made them swear by God, “You shall not give your daughters to their sons, nor take their daughters for your sons, or for yourselves. Didn’t Solomon king of Israel sin by these things? Yet among many nations there was no king like him, and he was loved by his God, and God made him king over all Israel. Nevertheless foreign women caused even him to sin. Shall we then listen to you to do all this great evil, to trespass against our God in marrying foreign women?” One of the sons of Joiada, the son of Eliashib the high priest, was son-in-law to Sanballat the Horonite; therefore I chased him from me. Remember them, my God, because they have defiled the priesthood and the covenant of the priesthood and of the Levites. Thus I cleansed them from all foreigners and appointed duties for the priests and for the Levites, everyone in his work; and for the wood offering, at appointed times, and for the first fruits. Remember me, my God, for good.</p><cite>Neh. 13:23-31 · WEB</cite></blockquote>
 <h2 id="s4">5) The importance of understanding the meaning of the books of Ezra, Esther, Nehemiah for the people of God in the New Testament</h2>
-<h3>(1) The importance of the conquest of Canaan, the importance of rebuilding the Altar, the Temple, and Jerusalem – knowledge and transmission of the Word of God, the Covenants, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ</h3>
+<h3>(1) The importance of the conquest of Canaan, the importance of rebuilding the Altar, the Temple, and Jerusalem – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, and preparation for the coming of Christ</h3>
 <h3>(2) Canaan in N.Z. – the whole world, the importance of local Churches to the ends of the earth, Worldwide Evangelization, fulfillment of destiny</h3>
-<h3>(3) The Altar and Sacrifice in N.Z. – the importance of understanding Jesus Christ and His Sacrifice on the Cross of Calvary, the importance of properly understanding the Word of God, the Covenant, and Christ for man</h3>
+<h3>(3) The Altar and Sacrifice in N.Z. – the importance of understanding Jesus Christ and His Sacrifice on the Cross of Calvary, the importance of a proper understanding of the Word of God, the Covenant, and Christ for man</h3>
 <h3>(4) The Temple and Jerusalem in N.Z. – the house of prayer, the local Churches, the central place of God's faith, the self-awareness of God's people, the importance of fulfilling the destiny</h3>
 <h3>(5) The Walls of Jerusalem in N.Z. – spiritual warfare, protection of the faith of God, the importance of proper Liturgy in N.Z. Acts 2:42</h3>
 <blockquote data-v="kjv"><p>And they continued stedfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers.</p><cite>Acts 2:42 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>They devoted themselves to the apostles’ teaching and to the fellowship, to the breaking of bread and to prayer.</p><cite>Acts 2:42 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>They continued steadfastly in the apostles’ teaching and fellowship, in the breaking of bread, and prayer.</p><cite>Acts 2:42 · WEB</cite></blockquote>
-<h3>(6) The Book of Esther in N.Z. – understanding the unchanging actions of Satan, the attempt to destroy the people of God, stopping the knowledge and transmission of the Word of God, the Covenant, Christ (God's sovereignty and control)</h3>
+<h3>(6) The Book of Esther in N.Z. – understanding the unchanging work of Satan, an attempt to destroy the people of God, stopping the knowledge and transmission of the Word of God, the Covenant, Christ (God's sovereignty and control)</h3>
 <h2 id="s5">Conclusion:</h2>
-<h3>(1) The importance of Understanding God's Sovereignty and Control – rebuilding the Temple and Jerusalem, fulfilling God's Word Dan. 9:25</h3>
+<h3>(1) The importance of understanding God's Sovereignty and Control – rebuilding the Temple and Jerusalem, fulfilling God's Word Dan. 9:25</h3>
 <blockquote data-v="kjv"><p>Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times.</p><cite>Dan. 9:25 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Know and understand this: From the issuance of the decree to restore and rebuild Jerusalem until the Messiah, the Prince, there will be seven weeks and sixty-two weeks. It will be rebuilt with streets and a trench, but in times of distress.</p><cite>Dan. 9:25 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“Know therefore and discern that from the going out of the commandment to restore and build Jerusalem to the Anointed One, the prince, will be seven weeks and sixty-two weeks. It will be built again, with street and moat, even in troubled times.</p><cite>Dan. 9:25 · WEB</cite></blockquote>
-<h3>(2) Nehemiah – fulfilling the destiny of God's people, affirming and transmitting the Word of God, the Covenant, Christ, the walls of Jerusalem</h3>
-<h3>(3) The action of Satan is to stop the transmission of the Word of God, the Covenant, Christ, World Evangelization</h3>
+<h3>(2) Nehemiah is the fulfillment of the destiny of the people of God, the affirmation and transmission of the Word of God, the Covenant, Christ, and the walls of Jerusalem</h3>
+<h3>(3) Satan's action is to stop the transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
 </body>

@@ -1,5 +1,5 @@
 # Heb. 1–2
-## 1.1) Heb. 1, - the importance of understanding the Word of God, the Covenant, Christ
+## 1.1) Heb. 1, - the importance of understanding the Word of God, the Covenant, and Christ
 
 ### (1) Heb. 1:1-2, - the importance of the Word of God, the Covenant, Christ, understanding the will of God, the importance of understanding Christ for every human being Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
 > God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds; (Heb. 1:1-2, KJV)
@@ -61,25 +61,25 @@
 #### (i) Heb. 1:14, - Angels, ministering spirits of the children of God
 > Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation? (Heb. 1:14, KJV)
 
-## 2) Heb. 2, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 2) Heb. 2, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
-### (1) Heb. 2:1, - the importance of the Word of God, of the Covenant, of Christ for every human being
+### (1) Heb. 2:1, - the importance of the Word of God, the Covenant, and Christ for every human being
 > Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip. (Heb. 2:1, KJV)
 
-#### (a) The importance of hearing the Word of God, the Covenant, Christ
+#### (a) The importance of hearing the Word of God, the Covenant, and Christ
 
 #### (b) The importance of understanding the possibility of falling away from God
 
-### (2) Heb. 2:2-4, - the importance of understanding the action of the Word of God, the Covenant, Christ
+### (2) Heb. 2:2-4, - the importance of understanding the operation of the Word of God, the Covenant, and Christ
 > For if the word spoken by angels was stedfast, and every transgression and disobedience received a just recompence of reward; How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him; God also bearing them witness, both with signs and wonders, and with divers miracles, and gifts of the Holy Ghost, according to his own will? (Heb. 2:2-4, KJV)
 
-#### (a) Heb. 2:2, - the importance of understanding V.Z., the action of the Word of God, the Covenant, Christ
+#### (a) Heb. 2:2, - the importance of understanding V.Z., the effect of the Word of God, the Covenant, Christ
 > For if the word spoken by angels was stedfast, and every transgression and disobedience received a just recompence of reward; (Heb. 2:2, KJV)
 
-#### (b) Heb. 2:3-4, - the importance of understanding N.Z. (the preaching of Christ), the unchanging effect of the Word of God, the Covenant, Christ (testimonies from God)
+#### (b) Heb. 2:3-4, - the importance of understanding N.Z. (the preaching of Christ), the unchanging effect of the Word of God, the Covenant, Christ (testimony from God)
 > How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him; God also bearing them witness, both with signs and wonders, and with divers miracles, and gifts of the Holy Ghost, according to his own will? (Heb. 2:3-4, KJV)
 
-### (3) Heb. 2:5-8, - the importance of the Word of God, the Covenant, Christ for man, the importance of understanding the will of God for man, the importance of understanding the principle of Creation (conquered everything) and the principle of the Fall (the fall of man, now not everything is conquered)
+### (3) Heb. 2:5-8, - the importance of the Word of God, the Covenant, and Christ for man, the importance of understanding the will of God for man, the importance of understanding the principle of Creation (he conquered everything) and the principle of the Fall (the fall of man, now not everything is conquered)
 > For unto the angels hath he not put in subjection the world to come, whereof we speak. But one in a certain place testified, saying, What is man, that thou art mindful of him? or the son of man, that thou visitest him? Thou madest him a little lower than the angels; thou crownedst him with glory and honour, and didst set him over the works of thy hands: Thou hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him. (Heb. 2:5-8, KJV)
 
 ### (4) Heb. 2:9-10, - the importance of understanding Restoration, the Sacrifice and Labor of Christ, understanding the will of God. 1 Tim. 2:4
@@ -95,10 +95,10 @@
 
 #### (d) The One for whom everything is and from Whom everything is (Christ), who leads many sons to glory (children of God), the Leader of salvation, who is perfect through suffering (Christ's sacrifice)
 
-### (5) Heb. 2:11-13, - The Sanctifier (Christ) and the sanctified (God's children) are all from One (the Triune God), calls the people of God His brothers (God's love and mercy, adoption)
+### (5) Heb. 2:11-13, - The Sanctifier (Christ) and the sanctified (children of God) are all from One (the Triune God), calls the people of God His brothers (God's love and mercy, adoption)
 > For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren, Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee. And again, I will put my trust in him. And again, Behold I and the children which God hath given me. (Heb. 2:11-13, KJV)
 
-### (6) Heb. 2:14, - the importance of understanding the incarnation of Christ, accepting the likeness of sinful flesh, the opportunity to die and rise again for the sins of the whole world (fulfilling the sentence of the Word of God)
+### (6) Heb. 2:14, - the importance of understanding the incarnation of Christ, accepting the likeness of sinful flesh, the opportunity to die and rise for the sins of the whole world (fulfilling the sentence of the Word of God)
 > Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil; (Heb. 2:14, KJV)
 
 ### (7) Heb. 2:14, - through death to deprive those who have the power of death of their power, the importance of understanding the Word of God, the Covenant, Christ, the importance of solving the problem of sin (the power of death and hell, Satan)
@@ -111,9 +111,9 @@
 > For verily he took not on him the nature of angels; but he took on him the seed of Abraham. (Heb. 2:16, KJV)
 > Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel: Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called. That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed. (Rom. 9:6-8, KJV)
 
-#### (a) The true descendants of Abraham are the acceptance of the Word of God, the Covenant, Christ
+#### (a) The true descendants of Abraham are the acceptance of the Word of God, the Covenant, and Christ
 
-#### (b) The false descendants of Abraham – the rejection of the Word of God, the Covenant, Christ
+#### (b) The false descendants of Abraham – the rejection of the Word of God, the Covenant, and Christ
 
 ### (10) Heb. 2:17-18, - the importance of understanding the incarnation and Sacrifice of Christ (he was tempted, endured everything, died and rose again), the legitimate right to be a High Priest and Helper for all mankind (God's boundless love and mercy)
 > Wherefore in all things it behoved him to be made like unto his brethren, that he might be a merciful and faithful high priest in things pertaining to God, to make reconciliation for the sins of the people. For in that he himself hath suffered being tempted, he is able to succour them that are tempted. (Heb. 2:17-18, KJV)

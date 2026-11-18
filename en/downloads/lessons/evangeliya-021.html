@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -294,10 +296,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light.</p><cite>Matt. 17:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>There He was transfigured before them. His face shone like the sun, and His clothes became as white as the light.</p><cite>Matt. 17:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He was changed before them. His face shone like the sun, and his garments became as white as the light.</p><cite>Matt. 17:2 · WEB</cite></blockquote>
-<h4>(a) Human Nature Christ is a glorified body</h4>
-<h4>(b) The Divine nature of Christ, the Holy, Triune God</h4>
+<h4>(a) Christ's human nature is a glorified body</h4>
+<h4>(b) The divine nature of Christ is the Holy, Triune God</h4>
 <h4>(c) The divine and human natures were inseparably united in one person, without transformation or mixing</h4>
-<h4>(d) The God–man is the true God and the true man, but at the same time the same Christ (the one person). (Priority of the Divine nature over man – God in the flesh) Gen. 1:27, - Gen. 14:18 (John 8:56-58,Heb. 7:1-10), Gen. 18:1; 32:24-29, Ex. 24:9-11; 33:20-23,Judg. 6, 13,Josh. 5:13-15,Acts 2:25</h4>
+<h4>(d) The God–man is the true God and the true man, but at the same time one and the same Christ (one person). (The priority of the Divine nature over man is God in the flesh) Gen. 1:27, - Gen. 14:18 (John 8:56-58,Heb. 7:1-10), Gen. 18:1; 32:24-29, Ex. 24:9-11; 33:20-23,Judg. 6, 13,Josh. 5:13-15,Acts 2:25</h4>
 <blockquote data-v="kjv"><p>So God created man in his own image, in the image of God created he him; male and female created he them.</p><cite>Gen. 1:27 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So God created man in His own image; in the image of God He created him; male and female He created them.</p><cite>Gen. 1:27 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>God created man in his own image. In God’s image he created him; male and female he created them.</p><cite>Gen. 1:27 · WEB</cite></blockquote>
@@ -446,18 +448,18 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day. Then Peter took him, and began to rebuke him, saying, Be it far from thee, Lord: this shall not be unto thee. But he turned, and said unto Peter, Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men.</p><cite>Matt. 16:21-23 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>From that time on Jesus began to show His disciples that He must go to Jerusalem and suffer many things at the hands of the elders, chief priests, and scribes, and that He must be killed and on the third day be raised to life. Peter took Him aside and began to rebuke Him. “Far be it from You, Lord!” he said. “This shall never happen to You!” But Jesus turned and said to Peter, “Get behind Me, Satan! You are a stumbling block to Me. For you do not have in mind the things of God, but the things of men.”</p><cite>Matt. 16:21-23 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>From that time, Jesus began to show his disciples that he must go to Jerusalem and suffer many things from the elders, chief priests, and scribes, and be killed, and the third day be raised up. Peter took him aside and began to rebuke him, saying, “Far be it from you, Lord! This will never be done to you.” But he turned and said to Peter, “Get behind me, Satan! You are a stumbling block to me, for you are not setting your mind on the things of God, but on the things of men.”</p><cite>Matt. 16:21-23 · WEB</cite></blockquote>
-<h3>(5) Matt. 17:20, - the importance of faith in God, understanding and fulfilling the will of God, solving all problems and issues in human life Matt. 6:33</h3>
+<h3>(5) Matt. 17:20, - the importance of God's faith, understanding and fulfilling God's will, solving all problems and issues in human life Matt. 6:33</h3>
 <blockquote data-v="kjv"><p>And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.</p><cite>Matt. 17:20 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>“Because you have so little faith,” He answered. “For truly I tell you, if you have faith the size of a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you.”</p><cite>Matt. 17:20 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He said to them, “Because of your unbelief. For most certainly I tell you, if you have faith as a grain of mustard seed, you will tell this mountain, ‘Move from here to there,’ and it will move; and nothing will be impossible for you.</p><cite>Matt. 17:20 · WEB</cite></blockquote>
 <blockquote data-v="kjv"><p>But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.</p><cite>Matt. 6:33 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But seek first the kingdom of God and His righteousness, and all these things will be added unto you.</p><cite>Matt. 6:33 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But seek first God’s Kingdom and his righteousness; and all these things will be given to you as well.</p><cite>Matt. 6:33 · WEB</cite></blockquote>
-<h3>(6) Matt. 17:21, - the importance of communion with God (prayer), the importance of focusing on the Word of God, the Covenant, Christ (fasting)</h3>
+<h3>(6) Matt. 17:21, - the importance of communion with God (prayer), the importance of focusing on the Word of God, the Covenant, and Christ (fasting)</h3>
 <blockquote data-v="kjv"><p>Howbeit this kind goeth not out but by prayer and fasting.</p><cite>Matt. 17:21 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Howbeit this kind goeth not out but by prayer and fasting.</p><cite>Matt. 17:21 · KJV</cite></blockquote>
 <blockquote data-v="web"><p>But this kind doesn’t go out except by prayer and fasting.”</p><cite>Matt. 17:21 · WEB</cite></blockquote>
-<h4>(a) Prayer – the importance of accepting and reflecting on the Word of God, the Covenant, Christ (Emmanuel, communion with God), the importance of understanding spiritual reality and spiritual laws 1 Cor. 2:14,John 1:12</h4>
+<h4>(a) Prayer – the importance of accepting and reflecting on the Word of God, the Covenant, and Christ (Emmanuel, communion with God), the importance of understanding spiritual reality and spiritual laws 1 Cor. 2:14,John 1:12</h4>
 <blockquote data-v="kjv"><p>But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned.</p><cite>1 Cor. 2:14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>The natural man does not accept the things that come from the Spirit of God. For they are foolishness to him, and he cannot understand them, because they are spiritually discerned.</p><cite>1 Cor. 2:14 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now the natural man doesn’t receive the things of God’s Spirit, for they are foolishness to him; and he can’t know them, because they are spiritually discerned.</p><cite>1 Cor. 2:14 · WEB</cite></blockquote>
@@ -482,12 +484,12 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And he did not many mighty works there because of their unbelief.</p><cite>Matt. 13:58 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And He did not do many miracles there, because of their unbelief.</p><cite>Matt. 13:58 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He didn’t do many mighty works there because of their unbelief.</p><cite>Matt. 13:58 · WEB</cite></blockquote>
-<h2 id="s5">5) Matt. 17:22-23, - the importance of fulfilling the Word of God, the Covenant, Christ</h2>
+<h2 id="s5">5) Matt. 17:22-23, - the importance of fulfilling the Word of God, the Covenant, and Christ</h2>
 <blockquote data-v="kjv"><p>And while they abode in Galilee, Jesus said unto them, The Son of man shall be betrayed into the hands of men: And they shall kill him, and the third day he shall be raised again. And they were exceeding sorry.</p><cite>Matt. 17:22-23 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>When they gathered together in Galilee, Jesus told them, “The Son of Man is about to be delivered into the hands of men. They will kill Him, and on the third day He will be raised to life.” And the disciples were deeply grieved.</p><cite>Matt. 17:22-23 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>While they were staying in Galilee, Jesus said to them, “The Son of Man is about to be delivered up into the hands of men, and they will kill him, and the third day he will be raised up.” They were exceedingly sorry.</p><cite>Matt. 17:22-23 · WEB</cite></blockquote>
-<h3>(1) God's sovereignty and control, the inevitable fulfillment of God's Word, Covenant, Christ, the importance of understanding the death and resurrection of Jesus Christ (God's plan for the salvation of mankind)</h3>
-<h3>(2) The importance of a logical rather than a spiritual understanding of the Word of God, the Covenant, Christ – the faith of God (the importance of constant and systematic study of the Word of God, the Covenant, Christ for the people of God) Rom. 10:17, -Acts 21:10-14</h3>
+<h3>(1) God's sovereignty and control, the inevitable fulfillment of God's Word, Covenant, and Christ, the importance of understanding the death and resurrection of Jesus Christ (God's plan for the salvation of mankind)</h3>
+<h3>(2) The importance of a logical rather than a spiritual understanding of the Word of God, the Covenant, and Christ is the faith of God (the importance of constant and systematic study of the Word of God, the Covenant, and Christ for the people of God) Rom. 10:17, -Acts 21:10-14</h3>
 <blockquote data-v="kjv"><p>So then faith cometh by hearing, and hearing by the word of God.</p><cite>Rom. 10:17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Consequently, faith comes by hearing, and hearing by the word of Christ.</p><cite>Rom. 10:17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>So faith comes by hearing, and hearing by the word of God.</p><cite>Rom. 10:17 · WEB</cite></blockquote>
@@ -555,17 +557,17 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple. And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.</p><cite>Matt. 24:1-2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>As Jesus left the temple and was walking away, His disciples came up to Him to point out its buildings. “Do you see all these things?” He replied. “Truly I tell you, not one stone here will be left on another; every one will be thrown down.”</p><cite>Matt. 24:1-2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Jesus went out from the temple, and was going on his way. His disciples came to him to show him the buildings of the temple. But he answered them, “You see all of these things, don’t you? Most certainly I tell you, there will not be left here one stone on another, that will not be thrown down.”</p><cite>Matt. 24:1-2 · WEB</cite></blockquote>
-<h3>(4) Matt. 17:27, - the importance of correctly communicating the Word of God, the Covenant, Christ</h3>
+<h3>(4) Matt. 17:27, - the importance of correctly communicating the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee.</p><cite>Matt. 17:27 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>“But so that we may not offend them, go to the sea, cast a hook, and take the first fish you catch. When you open its mouth, you will find a four-drachma coin. Take it and give it to them for My tax and yours.”</p><cite>Matt. 17:27 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But, lest we cause them to stumble, go to the sea, cast a hook, and take up the first fish that comes up. When you have opened its mouth, you will find a stater coin. Take that, and give it to them for me and you.”</p><cite>Matt. 17:27 · WEB</cite></blockquote>
-<h4>(a) Understanding the condition of the Jewish people, the importance of wisely proclaiming the Word of God, the Covenant, Christ, and the importance of avoiding temptation</h4>
+<h4>(a) Understanding the condition of the Jewish people, the importance of wisely proclaiming the Word of God, the Covenant, and Christ, and the importance of avoiding temptation</h4>
 <h4>(b) Supernatural payment – the special importance of understanding the Divinity of Christ and the All-sufficiency of His Sacrifice (God's plan of salvation), the true meaning of the temple's existence</h4>
 <h2 id="s7">Conclusion:</h2>
 <h3>(1) The importance of a proper understanding of Christ for man</h3>
-<h3>(2) The importance of accepting the Word of God, the Covenant, Christ, and the crushing of Satan's power</h3>
-<h3>(3) The importance of faith in God is a logical, not a spiritual understanding</h3>
-<h3>(4) The importance of fulfilling the destiny of God's people, the importance of correctly communicating the Word of God, the Covenant, the Christ, the importance of proper human education and affirmation</h3>
+<h3>(2) The importance of accepting the Word of God, the Covenant, Christ, and breaking the power of Satan</h3>
+<h3>(3) The importance of God's faith is a logical, not a spiritual understanding</h3>
+<h3>(4) The importance of fulfilling the destiny of God's people, the importance of correctly communicating the Word of God, the Covenant, and Christ, and the importance of proper human education and affirmation</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
 </body>

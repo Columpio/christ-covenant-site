@@ -1,6 +1,6 @@
 # 2. Ex. 4–6: God's calling to fulfill the destiny of God's people
 
-## 1) Ex. 4, - the importance of understanding God's sovereignty and control
+## 1) Ex. 4, - The importance of understanding God's sovereignty and control
 
 ### (1) Ex. 4:1, - the 12 tribes of Israel, the importance of understanding the destiny of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization (Canaan), the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21. (Adam – Seth – Noah – Abraham – Isaac – Jacob – The 12 Tribes of Israel)
 > And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee. (Ex. 4:1, KJV)
@@ -15,9 +15,9 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-### (2) The Importance of Understanding the Inevitable Fulfillment of God's Word
+### (2) The importance of understanding the inevitable fulfillment of God's Word
 
-#### (a) The problem of slavery is the inaccurate fulfillment of God's Word, the inaccurate emphasis on Sacrifice (Abraham). Gen. 15:9-14
+#### (a) The problem of slavery is an inaccurate fulfillment of God's Word, an inaccurate emphasis on Sacrifice (Abraham). Gen. 15:9-14
 > And he said unto him, Take me an heifer of three years old, and a she goat of three years old, and a ram of three years old, and a turtledove, and a young pigeon. And he took unto him all these, and divided them in the midst, and laid each piece one against another: but the birds divided he not. And when the fowls came down upon the carcases, Abram drove them away. And when the sun was going down, a deep sleep fell upon Abram; and, lo, an horror of great darkness fell upon him. And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years; And also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance. (Gen. 15:9-14, KJV)
 
 #### (b) The solution to the problem is God's sovereignty, the timetable of time. (The birth and calling of Moses – Easter, Exodus to Canaan)
@@ -28,7 +28,7 @@
 ### (4) Ex. 4:6-9, - God's control and authority over human life. (Leprosy is a terrible and almost incurable disease)
 > And the LORD said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand was leprous as snow. And he said, Put thine hand into thy bosom again. And he put his hand into his bosom again; and plucked it out of his bosom, and, behold, it was turned again as his other flesh. And it shall come to pass, if they will not believe thee, neither hearken to the voice of the first sign, that they will believe the voice of the latter sign. And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour it upon the dry land: and the water which thou takest out of the river shall become blood upon the dry land. (Ex. 4:6-9, KJV)
 
-### (5) Ex. 4:10-17 (16), - God's control over the fulfillment of the Word of God
+### (5) Ex. 4:10-17 (16), - God's control over the fulfillment of God's Word
 > And Moses said unto the LORD, O my Lord, I am not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I am slow of speech, and of a slow tongue. And the LORD said unto him, Who hath made man’s mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the LORD? Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say. And he said, O my Lord, send, I pray thee, by the hand of him whom thou wilt send. And the anger of the LORD was kindled against Moses, and he said, Is not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart. And thou shalt speak unto him, and put words in his mouth: and I will be with thy mouth, and with his mouth, and will teach you what ye shall do. And he shall be thy spokesman unto the people: and he shall be, even he shall be to thee instead of a mouth, and thou shalt be to him instead of God. And thou shalt take this rod in thine hand, wherewith thou shalt do signs. (Ex. 4:10-17, KJV)
 
 #### (a) The importance of understanding the perfect will of God – Emmanuel, knowledge and transmission of the Word of God, the Covenant, Christ, service to God
@@ -38,7 +38,7 @@
 ### (6) Ex. 4:16, - Moses, the prototype of Christ
 > And he shall be thy spokesman unto the people: and he shall be, even he shall be to thee instead of a mouth, and thou shalt be to him instead of God. (Ex. 4:16, KJV)
 
-#### (a) God celebrated the Passover and brought the people out of slavery. 1 Cor. 5:7
+#### (a) He celebrated the Passover and led God's people out of slavery. 1 Cor. 5:7
 > Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Christ our passover is sacrificed for us: (1 Cor. 5:7, KJV)
 
 #### (b) Gave the Covenant, Christ (mediator, epoch) Ex. 20, 25-30,Luke 22:19-20
@@ -51,7 +51,7 @@
 > Abraham saith unto him, They have Moses and the prophets; let them hear them. (Luke 16:29, KJV)
 > And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me. (Luke 24:44, KJV)
 
-#### (d) God, the Leader and Advocate of the people Heb. 2:10; 8:6
+#### (d) The Leader and Advocate of God's people Heb. 2:10; 8:6
 > For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make the captain of their salvation perfect through sufferings. (Heb. 2:10, KJV)
 > But now hath he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises. (Heb. 8:6, KJV)
 
@@ -71,7 +71,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-#### (h) Appeared for the second time for confirmation. The Word of God, the Covenant, Christ Matt. 17:3. (The importance of understanding Moses' human shortcomings is the need for Christ and His Sacrifice, a type of Christ, but not Christ)
+#### (h) Appeared for the second time for confirmation. The Word of God, the Covenant, and Christ Matt. 17:3. (The importance of understanding Moses' human shortcomings is the need for Christ and His Sacrifice, a type of Christ, but not Christ)
 > And, behold, there appeared unto them Moses and Elias talking with him. (Matt. 17:3, KJV)
 
 ### (7) Ex. 4:18-23, - the importance of fulfilling the destiny of God's people, the importance of liberating God's children. (The importance of understanding the true Israel, sons and daughters of God – accepting the Divinity of Christ and the All-sufficiency of His Sacrifice). Rom. 9:6-8; 2:28-29, -John 10:14-16, - Gal. 3:7, 29
@@ -105,7 +105,7 @@
 ### (10) Ex. 4:28-31, - the importance of transmitting the Word of God, the Covenant, Christ, the importance of establishing the people of God
 > And Moses told Aaron all the words of the LORD who had sent him, and all the signs which he had commanded him. And Moses and Aaron went and gathered together all the elders of the children of Israel: And Aaron spake all the words which the LORD had spoken unto Moses, and did the signs in the sight of the people. And the people believed: and when they heard that the LORD had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped. (Ex. 4:28-31, KJV)
 
-## 2) Ex. 5, - resisting the Word of God, "the sinful essence of man"
+## 2) Ex. 5, - opposition to the Word of God, "the sinful nature of man"
 
 ### (1) Ex. 5:1-19, - Pharaoh's resistance (Satan's action, problems)
 > And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness. And Pharaoh said, Who is the LORD, that I should obey his voice to let Israel go? I know not the LORD, neither will I let Israel go. And they said, The God of the Hebrews hath met with us: let us go, we pray thee, three days’ journey into the desert, and sacrifice unto the LORD our God; lest he fall upon us with pestilence, or with the sword. And the king of Egypt said unto them, Wherefore do ye, Moses and Aaron, let the people from their works? get you unto your burdens. And Pharaoh said, Behold, the people of the land now are many, and ye make them rest from their burdens. And Pharaoh commanded the same day the taskmasters of the people, and their officers, saying, Ye shall no more give the people straw to make brick, as heretofore: let them go and gather straw for themselves. And the tale of the bricks, which they did make heretofore, ye shall lay upon them; ye shall not diminish ought thereof: for they be idle; therefore they cry, saying, Let us go and sacrifice to our God. Let there more work be laid upon the men, that they may labour therein; and let them not regard vain words. And the taskmasters of the people went out, and their officers, and they spake to the people, saying, Thus saith Pharaoh, I will not give you straw. Go ye, get you straw where ye can find it: yet not ought of your work shall be diminished. So the people were scattered abroad throughout all the land of Egypt to gather stubble instead of straw. And the taskmasters hasted them, saying, Fulfil your works, your daily tasks, as when there was straw. And the officers of the children of Israel, which Pharaoh’s taskmasters had set over them, were beaten, and demanded, Wherefore have ye not fulfilled your task in making brick both yesterday and to day, as heretofore? Then the officers of the children of Israel came and cried unto Pharaoh, saying, Wherefore dealest thou thus with thy servants? There is no straw given unto thy servants, and they say to us, Make brick: and, behold, thy servants are beaten; but the fault is in thine own people. But he said, Ye are idle, ye are idle: therefore ye say, Let us go and do sacrifice to the LORD. Go therefore now, and work; for there shall no straw be given you, yet shall ye deliver the tale of bricks. And the officers of the children of Israel did see that they were in evil case, after it was said, Ye shall not minish ought from your bricks of your daily task. (Ex. 5:1-19, KJV)
@@ -116,7 +116,7 @@
 ### (3) Ex. 5:22-23, - opposition of Moses (murmuring, unbelief)
 > And Moses returned unto the LORD, and said, Lord, wherefore hast thou so evil entreated this people? why is it that thou hast sent me? For since I came to Pharaoh to speak in thy name, he hath done evil to this people; neither hast thou delivered thy people at all. (Ex. 5:22-23, KJV)
 
-## 3) Ex. 6, - the importance of the Word of God, the Covenant, Christ
+## 3) Ex. 6, - the importance of the Word of God, the Covenant, and Christ
 
 ### (1) Ex. 6:1-3, - understanding God's sovereignty and control. (The Lord is the One who is above and controls everything)
 > Then the LORD said unto Moses, Now shalt thou see what I will do to Pharaoh: for with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land. And God spake unto Moses, and said unto him, I am the LORD: And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name JEHOVAH was I not known to them. (Ex. 6:1-3, KJV)
@@ -127,13 +127,13 @@
 ### (3) Ex. 6:9-12, - remnants of the sinful nature of the children of God (grumbling, unbelief), the importance of trust and obedience to God
 > And Moses spake so unto the children of Israel: but they hearkened not unto Moses for anguish of spirit, and for cruel bondage. And the LORD spake unto Moses, saying, Go in, speak unto Pharaoh king of Egypt, that he let the children of Israel go out of his land. And Moses spake before the LORD, saying, Behold, the children of Israel have not hearkened unto me; how then shall Pharaoh hear me, who am of uncircumcised lips? (Ex. 6:9-12, KJV)
 
-### (4) Ex. 6:13-28, - the importance of fulfilling the destiny of God's people (knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
+### (4) Ex. 6:13-28, - the importance of fulfilling the destiny of the people of God (knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 > And the LORD spake unto Moses and unto Aaron, and gave them a charge unto the children of Israel, and unto Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt. These be the heads of their fathers’ houses: The sons of Reuben the firstborn of Israel; Hanoch, and Pallu, Hezron, and Carmi: these be the families of Reuben. And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman: these are the families of Simeon. And these are the names of the sons of Levi according to their generations; Gershon, and Kohath, and Merari: and the years of the life of Levi were an hundred thirty and seven years. The sons of Gershon; Libni, and Shimi, according to their families. And the sons of Kohath; Amram, and Izhar, and Hebron, and Uzziel: and the years of the life of Kohath were an hundred thirty and three years. And the sons of Merari; Mahali and Mushi: these are the families of Levi according to their generations. And Amram took him Jochebed his father’s sister to wife; and she bare him Aaron and Moses: and the years of the life of Amram were an hundred and thirty and seven years. And the sons of Izhar; Korah, and Nepheg, and Zichri. And the sons of Uzziel; Mishael, and Elzaphan, and Zithri. And Aaron took him Elisheba, daughter of Amminadab, sister of Naashon, to wife; and she bare him Nadab, and Abihu, Eleazar, and Ithamar. And the sons of Korah; Assir, and Elkanah, and Abiasaph: these are the families of the Korhites. And Eleazar Aaron’s son took him one of the daughters of Putiel to wife; and she bare him Phinehas: these are the heads of the fathers of the Levites according to their families. These are that Aaron and Moses, to whom the LORD said, Bring out the children of Israel from the land of Egypt according to their armies. These are they which spake to Pharaoh king of Egypt, to bring out the children of Israel from Egypt: these are that Moses and Aaron. And it came to pass on the day when the LORD spake unto Moses in the land of Egypt, (Ex. 6:13-28, KJV)
 
 ## Conclusion:
 
-### (1) The Importance of Understanding God's Sovereignty (fulfilling God's Word)
+### (1) The Importance of understanding God's Sovereignty (fulfilling God's Word)
 
-### (2) The importance of understanding and fulfilling purpose. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+### (2) The importance of understanding and fulfilling the purpose. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 
 ### (3) The importance of understanding Satan's actions

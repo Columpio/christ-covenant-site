@@ -34,34 +34,34 @@
 ### (5) Rom. 1:3-4, - the importance of accepting Jesus as the Christ. (The God–man is the Savior who took upon Himself all the sins of the world)
 > Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh; And declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead: (Rom. 1:3-4, KJV)
 
-### (6) Rom. 1:5-7 (1), - the importance of understanding God's grace and election, the importance of understanding and fulfilling destiny. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+### (6) Rom. 1:5-7 (1), - the importance of understanding God's grace and election, the importance of understanding and fulfilling destiny. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 > By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name: Among whom are ye also the called of Jesus Christ: To all that be in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father, and the Lord Jesus Christ. (Rom. 1:5-7, KJV)
 
 ## 2) Rom. 1:8-15, - understanding the purpose, the importance of communication
 > First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world. For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers; Making request, if by any means now at length I might have a prosperous journey by the will of God to come unto you. For I long to see you, that I may impart unto you some spiritual gift, to the end ye may be established; That is, that I may be comforted together with you by the mutual faith both of you and me. Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, (but was let hitherto,) that I might have some fruit among you also, even as among other Gentiles. I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise. So, as much as in me is, I am ready to preach the gospel to you that are at Rome also. (Rom. 1:8-15, KJV)
 
-### (1) Rom. 1:8-9, - the importance of knowing and transmitting the Word of God, the Covenant, Christ (proclaiming the faith of God throughout the world), the essence and meaning of serving God and man. 1 Tim. 2:4
+### (1) Rom. 1:8-9, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ (proclaiming the faith of God throughout the world), the essence and meaning of serving God and man. 1 Tim. 2:4
 > First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world. For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers; (Rom. 1:8-9, KJV)
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 
 ### (2) Rom. 1:10, - correct prayer, affirmation of God's will
 > Making request, if by any means now at length I might have a prosperous journey by the will of God to come unto you. (Rom. 1:10, KJV)
 
-### (3) Rom. 1:11-12, - the importance of learning, communication in the Word of God, the Covenant, Christ
+### (3) Rom. 1:11-12, - the importance of learning, communication in the Word of God, the Covenant, and Christ
 > For I long to see you, that I may impart unto you some spiritual gift, to the end ye may be established; That is, that I may be comforted together with you by the mutual faith both of you and me. (Rom. 1:11-12, KJV)
 
-### (4) Rom. 1:13-15, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, the importance of fulfilling the destiny of God's people
+### (4) Rom. 1:13-15, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, and the importance of fulfilling the destiny of God's people
 > Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, (but was let hitherto,) that I might have some fruit among you also, even as among other Gentiles. I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise. So, as much as in me is, I am ready to preach the gospel to you that are at Rome also. (Rom. 1:13-15, KJV)
 
 ## 3) Rom. 1:16-17, - correct understanding of the expression of the power of the Holy Spirit
 > For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek. For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith. (Rom. 1:16-17, KJV)
 
-### (1) The main action of the power of the Holy Spirit is the knowledge and transmission of the Word of God, the Covenant, Christ, the fulfillment of World Evangelization 1 Cor. 1:18,Acts 1:8,John 16:11. (Miracles and signs can be performed by angels)
+### (1) The main effect of the power of the Holy Spirit is the knowledge and transmission of the Word of God, the Covenant, Christ, and the accomplishment of Worldwide Evangelization 1 Cor. 1:18,Acts 1:8,John 16:11. (Miracles and signs can be performed by angels)
 > For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God. (1 Cor. 1:18, KJV)
 > But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth. (Acts 1:8, KJV)
 > Of judgment, because the prince of this world is judged. (John 16:11, KJV)
 
-### (2) The special importance of correctly understanding and fulfilling the Word of God, the Covenant, Christ for every person, the faith of God. Mark 11:23
+### (2) The special importance of correctly understanding and fulfilling the Word of God, the Covenant, and Christ for every person is the faith of God. Mark 11:23
 > For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith. (Mark 11:23, KJV)
 
 ## 4) Rom. 1:18-20, - understanding universal sinfulness
@@ -73,7 +73,7 @@
 ### (2) Rom. 1:19-20, - understanding the existence of God, is natural. Rev. (The understanding of Christ and His Sacrifice is supernatural, rev.)
 > Because that which may be known of God is manifest in them; for God hath shewed it unto them. For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse: (Rom. 1:19-20, KJV)
 
-## 5) Rom. 1:21-23, - non-acceptance of the Word of God, the Covenant, Christ (idols, lies)
+## 5) Rom. 1:21-23, - rejection of the Word of God, the Covenant, Christ (idols, lies)
 > Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened. Professing themselves to be wise, they became fools, And changed the glory of the uncorruptible God into an image made like to corruptible man, and to birds, and fourfooted beasts, and creeping things. (Rom. 1:21-23, KJV)
 
 ### (1) Rom. 1:21, - knowledge of the True God and man's refusal to delve into and study the Word of God, refusal to thank and glorify God (conscious choice of eternal life outside the Word of God)
@@ -82,20 +82,20 @@
 ### (2) Rom. 1:22-23, - refusal to know God, human folly, idolatry (the importance of knowing the Word of God, the Covenant, Christ)
 > Professing themselves to be wise, they became fools, And changed the glory of the uncorruptible God into an image made like to corruptible man, and to birds, and fourfooted beasts, and creeping things. (Rom. 1:22-23, KJV)
 
-## 6) Rom. 1:24-31, 28 (25,28), is a consequence of the rejection of the Word of God, the Covenant, Christ, resistance and loss of the effect of the grace of God, the work of the flesh. (Knowledge of God is the rejection of knowledge of God through the Word of God, the Covenant, Christ is the replacement of Truth with God's Lies – there is no desire to have God in the mind, a perverse mind is a sinful human life)
+## 6) Rom. 1:24-31, 28 (25,28), is a consequence of the rejection of the Word of God, the Covenant, Christ, the resistance and loss of the effect of the grace of God, the work of the flesh. (Knowledge of God is the rejection of the knowledge of God through the Word of God, the Covenant, Christ – replacing the Truth with God's Lies – there is no desire to have God in the mind, a perverse mind is a sinful human life)
 > Wherefore God also gave them up to uncleanness through the lusts of their own hearts, to dishonour their own bodies between themselves: Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen. For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature: And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet. And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient; Being filled with all unrighteousness, fornication, wickedness, covetousness, maliciousness; full of envy, murder, debate, deceit, malignity; whisperers, Backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, disobedient to parents, Without understanding, covenantbreakers, without natural affection, implacable, unmerciful: (Rom. 1:24-31, KJV)
 > And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient; (Rom. 1:28, KJV)
 
-### (1) Resisting God is not accepting the Word of God, the Covenant, Christ
+### (1) Resisting God is not accepting the Word of God, the Covenant, or Christ.
 
-### (2) Sinful life is a consequence of not accepting the Word of God, the Covenant, Christ
+### (2) A sinful life is a consequence of not accepting the Word of God, the Covenant, and Christ.
 
-## 7) Rom. 1:32, - God's understanding of sin and judgment, natural revelation. (Understanding the solution to the problem of sin is supernatural. Rev.)
+## 7) Rom. 1:32, - the understanding of sin and the judgment of God, the natural revelation. (Understanding the solution to the problem of sin is supernatural. Rev.)
 > Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them. (Rom. 1:32, KJV)
 
 ## Conclusion:
 
-### (1) The importance of understanding God's Sovereignty, man's election
+### (1) The importance of understanding God's Sovereignty, Man's Election
 
 ### (2) The Importance of Understanding the Essence of the Gospel – Christ
 
@@ -103,4 +103,4 @@
 
 ### (4) The importance of understanding the working of God's Power
 
-### (5) The importance of knowing the Word of God, the Covenant, Christ, and man's Right to Choose
+### (5) The importance of knowing the Word of God, the Covenant, Christ, and the right to choose a person

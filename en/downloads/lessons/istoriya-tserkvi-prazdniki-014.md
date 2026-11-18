@@ -5,7 +5,7 @@
 > Who is the image of the invisible God, the firstborn of every creature: For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him: (Col. 1:15-16, KJV)
 > For there is one God, and one mediator between God and men, the man Christ Jesus; (1 Tim. 2:5, KJV)
 
-### (1) Faith in a Triune God is faith in a Single God in numerical terms, in which there are three eternal differences – God the Father, God the Word, God the Holy Spirit, the Almighty, Omniscient, Omnipresent Absolute of God. (Three eternal differences in the human being – spirit, soul and body) 1 John 5:7,John 4:24, - John 1:18,1 John 4:12,1 Tim. 6:16
+### (1) Faith in the Triune God is faith in the One God in numerical terms, in which there are three eternal differences – God the Father, God the Word, God the Holy Spirit, the Almighty, Omniscient, Omnipresent Absolute of God. (Three eternal differences in the human being – spirit, soul and body) 1 John 5:7,John 4:24, - John 1:18,1 John 4:12,1 Tim. 6:16
 > For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one. (1 John 5:7, KJV)
 > God is a Spirit: and they that worship him must worship him in spirit and in truth. (John 4:24, KJV)
 > No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him. (John 1:18, KJV)
@@ -16,7 +16,7 @@
 
 #### (a) The human nature of Christ is the human spirit, soul, and glorified human body (unlimited possibilities)
 
-#### (b) The divine nature of Christ is the Holy One, the Triune God, and the functional priority of action is God the Word. (Priority of the Divine nature over man – God in the flesh) John 1:1, 14, 18,Col. 1:15-16; 2:9, - Eph. 3:9,Heb. 1:1-3. (Gen. 3:8; 18:1-2; 32:28,Ex. 24:9-11; 33:11,Dan. 3:25)
+#### (b) The divine nature of Christ is the Holy One, the Triune God, and the functional priority of action is God the Word. (The priority of the Divine nature over man is God in the flesh) John 1:1, 14, 18,Col. 1:15-16; 2:9, - Eph. 3:9,Heb. 1:1-3. (Gen. 3:8; 18:1-2; 32:28,Ex. 24:9-11; 33:11,Dan. 3:25)
 > In the beginning was the Word, and the Word was with God, and the Word was God. (John 1:1, KJV)
 > And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth. (John 1:14, KJV)
 > No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him. (John 1:18, KJV)
@@ -43,7 +43,7 @@
 
 ### (1) Adam and Eve were the first people to learn about Christmas and Easter.
 
-### (2) Division of humanity – acceptance and non-acceptance of the Word of God, the Covenant, Christ (Nativity and Easter of the Lord)
+### (2) Division of humanity – acceptance and non-acceptance of the Word of God, the Covenant, and Christ (Christmas and Easter of the Lord)
 
 ## 3) The birth of Jesus Christ in the likeness of sinful flesh is the fulfillment of Christmas and Easter, the importance of understanding God's great love for humanity. Matt. 16:16,John 19:30, – Rom. 8:3, Phil. 2:6-8, - John 6:62; 17:5,Matt. 17:2, - John 3:16,Rom. 5:8
 > And Simon Peter answered and said, Thou art the Christ, the Son of the living God. (Matt. 16:16, KJV)
@@ -65,7 +65,7 @@
 ### (1) Luke 1:26-35, is the divine testimony of Mary. (The importance of the student, the importance of fulfilling the purpose)
 > And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth, To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin’s name was Mary. And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women. And when she saw him, she was troubled at his saying, and cast in her mind what manner of salutation this should be. And the angel said unto her, Fear not, Mary: for thou hast found favour with God. And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS. He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David: And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end. Then said Mary unto the angel, How shall this be, seeing I know not a man? And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God. (Luke 1:26-35, KJV)
 
-#### (a) The importance of understanding Mary's salvation and rebirth is acceptance of the Word of God, the Covenant, Christ, faith in Christ Coming as God in the flesh, and faith in the Sufficiency of His Sacrifice
+#### (a) The importance of understanding Mary's salvation and rebirth is acceptance of the Word of God, the Covenant, and Christ, faith in Christ coming as God in the flesh, and faith in the Sufficiency of His Sacrifice
 
 #### (b) The immaculate conception, the seed of the wife, the fulfillment of the Word of God
 
@@ -74,7 +74,7 @@
 
 #### (a) The Nativity of Christ, the solution of all the sins of God's people
 
-#### (b) God's foreknowledge of the acceptance of the Word of God, the Covenant, Christ by man
+#### (b) God's foreknowledge of man's acceptance of the Word of God, the Covenant, and Christ.
 
 ### (3) Luke 2:1-20, is God's testimony to the shepherds. (The prototype of the shepherds, the importance of fulfilling the destiny)
 > And it came to pass in those days, that there went out a decree from Cæsar Augustus, that all the world should be taxed. (And this taxing was first made when Cyrenius was governor of Syria.) And all went to be taxed, every one into his own city. And Joseph also went up from Galilee, out of the city of Nazareth, into Judæa, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:) To be taxed with Mary his espoused wife, being great with child. And so it was, that, while they were there, the days were accomplished that she should be delivered. And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn. And there were in the same country shepherds abiding in the field, keeping watch over their flock by night. And, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid. And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people. For unto you is born this day in the city of David a Saviour, which is Christ the Lord. And this shall be a sign unto you; Ye shall find the babe wrapped in swaddling clothes, lying in a manger. And suddenly there was with the angel a multitude of the heavenly host praising God, and saying, Glory to God in the highest, and on earth peace, good will toward men. And it came to pass, as the angels were gone away from them into heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing which is come to pass, which the Lord hath made known unto us. And they came with haste, and found Mary, and Joseph, and the babe lying in a manger. And when they had seen it, they made known abroad the saying which was told them concerning this child. And all they that heard it wondered at those things which were told them by the shepherds. But Mary kept all these things, and pondered them in her heart. And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them. (Luke 2:1-20, KJV)
@@ -97,14 +97,14 @@
 ## 5) Matt. 2:13-23, - the immutability of Christmas for humanity
 > And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him. When he arose, he took the young child and his mother by night, and departed into Egypt: And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son. Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men. Then was fulfilled that which was spoken by Jeremy the prophet, saying, In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not. But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt, Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead which sought the young child’s life. And he arose, and took the young child and his mother, and came into the land of Israel. But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee: And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene. (Matt. 2:13-23, KJV)
 
-### (1) Pharisees and Scribes – non-acceptance of the Word of God, the Covenant, Christ, non-acceptance of the Divinity of Christ and the All-sufficiency of His Sacrifice ("his Christmas" and "his Easter") John 10:33,Rom. 9:30-33, - John 8:44
+### (1) Pharisees and Scribes – rejection of the Word of God, the Covenant, Christ, rejection of the Divinity of Christ and the All-sufficiency of His Sacrifice ("his Christmas" and "his Easter") John 10:33,Rom. 9:30-33, - John 8:44
 > The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. (John 10:33, KJV)
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
 > Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it. (John 8:44, KJV)
 
-### (2) Herod the Edomite (descendant of Esau) - rejection of the Word of God, the Covenant, Christ
+### (2) Herod the Edomite (descendant of Esau) - rejection of the Word of God, the Covenant, and Christ
 
-#### (a) Beating babies – unbelief, thirst for power, the action of Satan
+#### (a) Beating babies – unbelief, thirst for power, the work of Satan
 
 #### (b) Understanding the constant conflict of Light with darkness. (Abel, infant martyrs for Christ, God's permission)
 
@@ -114,14 +114,14 @@
 
 ## 7) Misunderstanding of Christmas
 
-### (1) Traditions, mysticism (Santa Claus, reindeer, etc.) – actions without understanding and affirming the Word of God, the Covenant, Christ (The importance of correctly communicating the Word of God to children, the Covenant, Christ – the birth of Jesus Christ, gifts from God through parents, etc.)
+### (1) Traditions, mysticism (Santa Claus, reindeer, etc.) – actions without understanding and affirming the Word of God, the Covenant, Christ (The importance of correctly communicating the Word of God, the Covenant, Christ to children – the birth of Jesus Christ, gifts from God through parents, etc.)
 
-### (2) Religion – non-acceptance of the Word of God, the Covenant, Christ (The heresy of "Arianism", "mixed gospel" and "partial salvation" – denial of the fact of forgiveness of all sins and salvation through Jesus Christ and His Sacrifice)
+### (2) Religion – non-acceptance of the Word of God, the Covenant, and Christ (The heresy of "Arianism", "mixed gospel", and "partial salvation" – denial of the fact of forgiveness of all sins and salvation through Jesus Christ and His Sacrifice)
 
 ## Conclusion:
 
-### (1) The importance of celebrating the Nativity of Christ with a correct, deep and accurate understanding of the Word of God, the Covenant, Christ
+### (1) The importance of celebrating the Nativity of Christ with a correct, deep and accurate understanding of the Word of God, the Covenant, and Christ
 
-### (2) The special importance of the Church is the explanation of the Word of God, the Covenant, Christ, the importance of understanding the meaning and purpose of the birth of Christ
+### (2) The special importance of the Church is the explanation of the Word of God, the Covenant, and Christ, and the importance of understanding the meaning and purpose of Christ's birth
 
-### (3) Christmas is God's control of time, the importance of human choice in relation to eternity (acceptance of the Divinity of Christ and the All–sufficiency of His Sacrifice), the importance of fulfilling the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+### (3) Christmas is God's control of time, the importance of human choice in relation to eternity (acceptance of the Divinity of Christ and the All–sufficiency of His Sacrifice), the importance of fulfilling the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)

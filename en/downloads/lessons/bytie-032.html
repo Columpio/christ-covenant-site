@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,20 +233,20 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>32. Gen. 15, - Abraham, the importance of descendants</h1>
-<h2 id="s1">1) Gen. 15:1-6, - the importance of conveying the Word of God, the Covenant, Christ</h2>
+<h2 id="s1">1) Gen. 15:1-6, - the importance of conveying the Word of God, the Covenant, and Christ</h2>
 <blockquote data-v="kjv"><p>After these things the word of the LORD came unto Abram in a vision, saying, Fear not, Abram: I am thy shield, and thy exceeding great reward. And Abram said, Lord GOD, what wilt thou give me, seeing I go childless, and the steward of my house is this Eliezer of Damascus? And Abram said, Behold, to me thou hast given no seed: and, lo, one born in my house is mine heir. And, behold, the word of the LORD came unto him, saying, This shall not be thine heir; but he that shall come forth out of thine own bowels shall be thine heir. And he brought him forth abroad, and said, Look now toward heaven, and tell the stars, if thou be able to number them: and he said unto him, So shall thy seed be. And he believed in the LORD; and he counted it to him for righteousness.</p><cite>Gen. 15:1-6 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>After these events, the word of the LORD came to Abram in a vision: “Do not be afraid, Abram. I am your shield, your very great reward.” But Abram replied, “O Lord GOD, what can You give me, since I remain childless, and the heir of my house is Eliezer of Damascus?” Abram continued, “Behold, You have given me no offspring, so a servant in my household will be my heir.” Then the word of the LORD came to Abram, saying, “This one will not be your heir, but one who comes from your own body will be your heir.” And the LORD took him outside and said, “Now look to the heavens and count the stars, if you are able.” Then He told him, “So shall your offspring be.” Abram believed the LORD, and it was credited to him as righteousness.</p><cite>Gen. 15:1-6 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>After these things Yahweh’s word came to Abram in a vision, saying, “Don’t be afraid, Abram. I am your shield, your exceedingly great reward.” Abram said, “Lord Yahweh, what will you give me, since I go childless, and he who will inherit my estate is Eliezer of Damascus?” Abram said, “Behold, you have given no children to me: and, behold, one born in my house is my heir.” Behold, Yahweh’s word came to him, saying, “This man will not be your heir, but he who will come out of your own body will be your heir.” Yahweh brought him outside, and said, “Look now toward the sky, and count the stars, if you are able to count them.” He said to Abram, “So your offspring will be.” He believed in Yahweh, who credited it to him for righteousness.</p><cite>Gen. 15:1-6 · WEB</cite></blockquote>
-<h3>(1) Abraham's experiences – the importance of descendants, the coming of Christ, the fulfillment of the sentence of the Word of God, the redemption of mankind. (The importance of understanding and fulfilling the destiny of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the Coming of Christ) Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21</h3>
+<h3>(1) Abraham's experiences – the importance of descendants, the coming of Christ, the fulfillment of the sentence of the Word of God, the redemption of mankind. (The importance of understanding and fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ) Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21</h3>
 <blockquote data-v="kjv"><p>So God created man in his own image, in the image of God created he him; male and female created he them.</p><cite>Gen. 1:27 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So God created man in His own image; in the image of God He created him; male and female He created them.</p><cite>Gen. 1:27 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>God created man in his own image. In God’s image he created him; male and female he created them.</p><cite>Gen. 1:27 · WEB</cite></blockquote>
@@ -293,7 +295,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>But what things were gain to me, those I counted loss for Christ. Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ, And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:</p><cite>Phil. 3:7-9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But whatever was gain to me I count as loss for the sake of Christ. More than that, I count all things as loss compared to the surpassing excellence of knowing Christ Jesus my Lord, for whom I have lost all things. I consider them rubbish, that I may gain Christ and be found in Him, not having my own righteousness from the law, but that which is through faith in Christ, the righteousness from God on the basis of faith.</p><cite>Phil. 3:7-9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>However, I consider those things that were gain to me as a loss for Christ. Yes most certainly, and I count all things to be a loss for the excellency of the knowledge of Christ Jesus, my Lord, for whom I suffered the loss of all things, and count them nothing but refuse, that I may gain Christ and be found in him, not having a righteousness of my own, that which is of the law, but that which is through faith in Christ, the righteousness which is from God by faith,</p><cite>Phil. 3:7-9 · WEB</cite></blockquote>
-<h4>(c) The descendants of Abraham are the people of God, understanding the Word of God, the Covenant, Christ Rom. 9:6-8, Gal. 3:7, 29</h4>
+<h4>(c) The descendants of Abraham are the people of God, understanding the Word of God, the Covenant, Christ Rom. 9:6-8,Gal. 3:7, 29</h4>
 <blockquote data-v="kjv"><p>Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel: Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called. That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed.</p><cite>Rom. 9:6-8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>It is not as though God’s word has failed. For not all who are descended from Israel are Israel. Nor because they are Abraham’s descendants are they all his children. On the contrary, “Through Isaac your offspring will be reckoned.” So it is not the children of the flesh who are God’s children, but it is the children of the promise who are regarded as offspring.</p><cite>Rom. 9:6-8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But it is not as though the word of God has come to nothing. For they are not all Israel that are of Israel. Neither, because they are Abraham’s offspring, are they all children. But, “your offspring will be accounted as from Isaac.” That is, it is not the children of the flesh who are children of God, but the children of the promise are counted as heirs.</p><cite>Rom. 9:6-8 · WEB</cite></blockquote>
@@ -311,16 +313,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h4>(a) The importance of understanding sacrifice and shedding of blood – Christ</h4>
 <h4>(b) Confirmation of the Covenant – sacrifice, shedding of blood (Christ)</h4>
 <h3>(2) Inaccurate emphasis on the Sacrifice of Christ (fine line) – inaccurate fulfillment of the Word of God, the Covenant, Christ – problems and slavery of descendants. (The heresy of the mixed gospel and the heresy of partial salvation)</h3>
-<h4>(a) There is no fire, God, birds, terror, darkness – an inaccurate fulfillment of the Word of God</h4>
+<h4>(a) There is no fire of God, birds, terror, darkness – an inaccurate fulfillment of the Word of God</h4>
 <h4>(b) The consequence is 400 years of Egyptian slavery</h4>
 <h4>(c) God's love and mercy is the liberation of God's people</h4>
-<h4>(d) God's judgment – transmission of the Covenant, Christ (mercy to the sinner) Gen. 14:13</h4>
+<h4>(d) God's judgment – the transmission of the Covenant, of Christ (mercy to the sinner) Gen. 14:13</h4>
 <blockquote data-v="kjv"><p>And there came one that had escaped, and told Abram the Hebrew; for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these were confederate with Abram.</p><cite>Gen. 14:13 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Then an escapee came and reported this to Abram the Hebrew. Now Abram was living near the Oaks of Mamre the Amorite, a brother of Eshcol and Aner, all of whom were bound by treaty to Abram.</p><cite>Gen. 14:13 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>One who had escaped came and told Abram, the Hebrew. At that time, he lived by the oaks of Mamre, the Amorite, brother of Eshcol and brother of Aner. They were allies of Abram.</p><cite>Gen. 14:13 · WEB</cite></blockquote>
 <h3>(3) Right Worship, Sacrifice, Covenant, Christ - Canaan, World Evangelism</h3>
-<h4>(a) God's love and mercy, acceptance of Worship – God is fire</h4>
-<h4>(b) The Promise of Canaan – Worldwide Evangelization, the destiny of the people of God</h4>
+<h4>(a) God's love and mercy, acceptance of Worship – God's fire</h4>
+<h4>(b) The Promise of Canaan – Worldwide Evangelization, the destiny of God's people</h4>
 <h2 id="s3">3) Gen. 15:18-21, - the importance of the Word of God, the Covenant, Christ, understanding the Covenant of God, understanding the meaning of the blessing of Abraham and his descendants</h2>
 <blockquote data-v="kjv"><p>In the same day the LORD made a covenant with Abram, saying, Unto thy seed have I given this land, from the river of Egypt unto the great river, the river Euphrates: The Kenites, and the Kenizzites, and the Kadmonites, And the Hittites, and the Perizzites, and the Rephaims, And the Amorites, and the Canaanites, and the Girgashites, and the Jebusites.</p><cite>Gen. 15:18-21 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>On that day the LORD made a covenant with Abram, saying, “To your descendants I have given this land—from the river of Egypt to the great River Euphrates— the land of the Kenites, Kenizzites, Kadmonites, Hittites, Perizzites, Rephaites, Amorites, Canaanites, Girgashites, and Jebusites.”</p><cite>Gen. 15:18-21 · BSB</cite></blockquote>
@@ -362,9 +364,9 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>But seek first the kingdom of God and His righteousness, and all these things will be added unto you.</p><cite>Matt. 6:33 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But seek first God’s Kingdom and his righteousness; and all these things will be given to you as well.</p><cite>Matt. 6:33 · WEB</cite></blockquote>
 <h2 id="s4">Conclusion:</h2>
-<h3>(1) The importance of understanding and fulfilling purpose. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)</h3>
+<h3>(1) The importance of understanding and fulfilling purpose. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)</h3>
 <h3>(2) The importance of proper worship and purity of teaching. (An inaccurate understanding of Sacrifice is the heresy of the mixed gospel and the heresy of partial salvation, the problems and slavery of descendants)</h3>
-<h3>(3) The importance of understanding God's sovereignty and Control</h3>
+<h3>(3) The importance of understanding God's Sovereignty and Control</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
 </body>

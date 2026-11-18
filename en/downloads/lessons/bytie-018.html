@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,16 +233,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>18. Repentance, Repentance and Confession of sins</h1>
-<h2 id="s1">1) Salvation is Emmanuel, God together with man. (Rebirth, restoration to the original form, lawful liberation from the power of sin, death and hell, Satan) Rom. 8:2</h2>
+<h2 id="s1">1) Salvation is Emmanuel, God together with man. (Rebirth, restoration to its original form, lawful liberation from the power of sin, death and hell, Satan) Rom. 8:2</h2>
 <blockquote data-v="kjv"><p>For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.</p><cite>Rom. 8:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For in Christ Jesus the law of the Spirit of life set you free from the law of sin and death.</p><cite>Rom. 8:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For the law of the Spirit of life in Christ Jesus made me free from the law of sin and of death.</p><cite>Rom. 8:2 · WEB</cite></blockquote>
@@ -271,7 +273,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:</p><cite>Eph. 2:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>in which you used to walk when you conformed to the ways of this world and of the ruler of the power of the air, the spirit who is now at work in the sons of disobedience.</p><cite>Eph. 2:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the children of disobedience.</p><cite>Eph. 2:2 · WEB</cite></blockquote>
-<h4>(c) Gen. 3:15, 21,Matt. 16:16,John 19:30, - conscious choice of eternal life in the Word of God (observance of the conditions of the Covenant of God, Emmanuel)</h4>
+<h4>(c) Gen. 3:15, 21,Matt. 16:16,John 19:30, - conscious choice of eternal life in the Word of God (observance of the terms of the Covenant of God, Emmanuel)</h4>
 <blockquote data-v="kjv"><p>And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.</p><cite>Gen. 3:15 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And I will put enmity between you and the woman, and between your seed and her seed. He will crush your head, and you will strike his heel.”</p><cite>Gen. 3:15 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I will put hostility between you and the woman, and between your offspring and her offspring. He will bruise your head, and you will bruise his heel.”</p><cite>Gen. 3:15 · WEB</cite></blockquote>
@@ -327,17 +329,17 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders, Saying, I have sinned in that I have betrayed the innocent blood. And they said, What is that to us? see thou to that. And he cast down the pieces of silver in the temple, and departed, and went and hanged himself.</p><cite>Matt. 27:3-5 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>When Judas, who had betrayed Him, saw that Jesus was condemned, he was filled with remorse and returned the thirty pieces of silver to the chief priests and elders. “I have sinned by betraying innocent blood,” he said. “What is that to us?” they replied. “You bear the responsibility.” So Judas threw the silver into the temple and left. Then he went away and hanged himself.</p><cite>Matt. 27:3-5 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Then Judas, who betrayed him, when he saw that Jesus was condemned, felt remorse, and brought back the thirty pieces of silver to the chief priests and elders, saying, “I have sinned in that I betrayed innocent blood.” But they said, “What is that to us? You see to it.” He threw down the pieces of silver in the sanctuary and departed. Then he went away and hanged himself.</p><cite>Matt. 27:3-5 · WEB</cite></blockquote>
-<h2 id="s3">3) Repentance (once in a lifetime) – acceptance of the Word of God, the Covenant, Christ, understanding of the problem of sin and God’s method of solution, salvation and rebirth. Rom. 10:9,John 1:12</h2>
+<h2 id="s3">3) Repentance (once in a lifetime) – acceptance of the Word of God, the Covenant, Christ, understanding the problem of sin and God's method of solution, salvation and rebirth. Rom. 10:9,John 1:12</h2>
 <blockquote data-v="kjv"><p>That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.</p><cite>Rom. 10:9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>that if you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised Him from the dead, you will be saved.</p><cite>Rom. 10:9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>that if you will confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.</p><cite>Rom. 10:9 · WEB</cite></blockquote>
 <blockquote data-v="kjv"><p>But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:</p><cite>John 1:12 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But to all who did receive Him, to those who believed in His name, He gave the right to become children of God—</p><cite>John 1:12 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But as many as received him, to them he gave the right to become God’s children, to those who believe in his name:</p><cite>John 1:12 · WEB</cite></blockquote>
-<h3>(1) Confession of sin – living outside the Word of God, the Covenant, Christ, wrong thoughts, emotions, deeds</h3>
+<h3>(1) Confession of sin – living outside the Word of God, the Covenant, Christ, wrong thoughts, emotions, actions</h3>
 <h3>(2) Recognition of the Divinity of Christ – God in the Flesh</h3>
 <h3>(3) Recognition of the atonement and forgiveness of all human sins (past, present, and future) through the death and resurrection of Christ</h3>
-<h2 id="s4">4) Confession of sins is the affirmation of the Word of God, the Covenant, Christ, the confession of sin and the recognition of the fact of the solution of all sins through the Sacrifice of Christ. 1 John 1:8-10; 2:1-2</h2>
+<h2 id="s4">4) Confession of sins is the affirmation of the Word of God, the Covenant, of Christ, the recognition of sin and the recognition of the fact of the solution of all sins through the Sacrifice of Christ. 1 John 1:8-10; 2:1-2</h2>
 <blockquote data-v="kjv"><p>If we say that we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness. If we say that we have not sinned, we make him a liar, and his word is not in us.</p><cite>1 John 1:8-10 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>If we say we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness. If we say we have not sinned, we make Him out to be a liar, and His word is not in us.</p><cite>1 John 1:8-10 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>If we say that we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, he is faithful and righteous to forgive us the sins and to cleanse us from all unrighteousness. If we say that we haven’t sinned, we make him a liar, and his word is not in us.</p><cite>1 John 1:8-10 · WEB</cite></blockquote>
@@ -417,7 +419,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h4>(b) The monopoly of human Confession – religion, human control (The importance of recognizing Christ as the Only and Eternal High Priest and Intercessor of God's people, confession before man – revelation and invocation of the Holy Spirit)</h4>
 <h2 id="s5">Conclusion:</h2>
 <h3>(1) The importance of Understanding Repentance, Repentance, and Confession</h3>
-<h3>(2) The importance of explaining the Word of God, the Covenant, Christ, the purpose of the Church (Knowledge, transmission of the Word of God, the Covenant, Christ, World Evangelization, Disciples, the coming of Christ)</h3>
+<h3>(2) The importance of explaining the Word of God, the Covenant, Christ, the purpose of the Church (Knowledge, transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, disciples, the coming of Christ)</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
 </body>

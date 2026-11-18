@@ -4,7 +4,7 @@
 ### (1) John 5:39, - all the Scriptures speak about Christ
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 
-### (2) Col. 1:26-27,Eph. 3:8-9, - Christ, the mystery of God revealed by God Himself, God's sovereignty and control. (The impossibility of understanding the Word of God, the Covenant, Christ without the grace of God)
+### (2) Col. 1:26-27,Eph. 3:8-9, - Christ, the mystery of God revealed by God Himself, God's sovereignty and control. (The impossibility of understanding the Word of God, the Covenant, and Christ without the grace of God)
 > Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints: To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory: (Col. 1:26-27, KJV)
 > Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ; And to make all men see what is the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ: (Eph. 3:8-9, KJV)
 
@@ -27,7 +27,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-#### (b) The importance of understanding the constant conflict between Religion and the Good News, to stop the knowledge and transmission of the Word of God, the Covenant, Christ, the action of Satan (Cain and Abel) Gen. 4:8,1 John 3:12, - John 8:44; 10:33,Rom. 9:30-33
+#### (b) The importance of understanding the constant conflict between Religion and the Good News, to stop the knowledge and transmission of the Word of God, the Covenant, Christ, the work of Satan (Cain and Abel) Gen. 4:8,1 John 3:12, - John 8:44; 10:33,Rom. 9:30-33
 > And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him. (Gen. 4:8, KJV)
 > Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother’s righteous. (1 John 3:12, KJV)
 > Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it. (John 8:44, KJV)
@@ -60,7 +60,7 @@
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
 > To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins. (Acts 10:43, KJV)
 
-### (5) Christ as the Second Coming and Ascension of God's people
+### (5) Christ as the Second Coming and Ascension of God's People
 
 #### (a) Solving the problem of death for God's people
 
@@ -71,9 +71,9 @@
 
 #### (a) Judgment by water, Flood – rejection of the Word of God, the Covenant, Christ
 
-#### (b) Judgment by Blood, Golgotha – the importance of accepting the Word of God, the Covenant, Christ
+#### (b) Judgment by Blood, Golgotha – the importance of accepting the Word of God, the Covenant, and Christ
 
-#### (c) Judgment by fire, Great Throne - non-acceptance of the Word of God, Covenant, Christ John 12:48, - Deut. 30:19
+#### (c) Judgment by fire, the Great Throne – rejection of the Word of God, the Covenant, Christ John 12:48, - Deut. 30:19
 > He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day. (John 12:48, KJV)
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
@@ -90,9 +90,9 @@
 
 #### (a) The Ark is the prototype of Christ, the possibility of salvation at the judgment of God
 
-#### (b) The Ark is a consequence of accepting the Word of God, the Covenant, Christ
+#### (b) The Ark is a consequence of accepting the Word of God, the Covenant, and Christ.
 
-#### (c) The Ark – God's sovereignty and control (there is no rudder, sail, oars), God's guidance, complete safety in the Ark
+#### (c) The Ark – God's sovereignty and control (no rudder, sail, oars), God's guidance, complete safety in the Ark
 
 ### (9) Christ as a New Life for the children of God on a new earth and heaven (life after the Judgment of God)
 
@@ -111,10 +111,10 @@
 
 #### (a) The rainbow is God's promise of saving the earth, the impossibility of a worldwide catastrophe and the disappearance of humanity
 
-#### (b) The importance of understanding God's plan for the future – The First and Second Coming of Christ, the life of the next age, the importance of accepting the Word of God, the Covenant, Christ Gen. 9:8-16
+#### (b) The importance of understanding God's plan for the future – the First and Second Coming of Christ, the life of the next age, the importance of accepting the Word of God, the Covenant, Christ Gen. 9:8-16
 > And God spake unto Noah, and to his sons with him, saying, And I, behold, I establish my covenant with you, and with your seed after you; And with every living creature that is with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth. And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth. And God said, This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations: I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth. And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud: And I will remember my covenant, which is between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh. And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth. (Gen. 9:8-16, KJV)
 
-#### (c) The action of Satan is the distortion of the meaning of the rainbow (sodomites), the desire to misunderstand the Word of God, the Covenant, Christ for humanity
+#### (c) The action of Satan is the distortion of the meaning of the rainbow (sodomites), the desire to misunderstand the Word of God, the Covenant, and Christ for humanity
 
 ### (12) Christ as God's foreknowledge and election
 
@@ -140,7 +140,7 @@
 
 ### (1) The importance of studying the Scriptures
 
-### (2) The Importance of Understanding the Word of God, the Covenant, Christ John 5:39
+### (2) The Importance of Understanding the Word of God, the Covenant, and Christ John 5:39
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 
 ### (3) The importance of understanding Christ from the Beginning, the Importance of understanding God's plan for humanity Amos 3:7,Jer. 29:11

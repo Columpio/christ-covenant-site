@@ -78,15 +78,15 @@
 > And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God. (Rom. 8:27, KJV)
 > And the Spirit and the bride say, Come. And let him that heareth say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely. (Rev. 22:17, KJV)
 
-## 5) The importance of understanding the functional priority of Hypostasis in the Holy, Triune God (human example)
+## 5) The importance of understanding the functional priority of the Hypostases in the Holy, Triune God (human example)
 
-### (1) The trinity of man means that there are three eternal differences in the essence of man – body, soul and spirit (the image and likeness of God)
+### (1) The trinity of man means that there are three eternal differences in the human being – body, soul and spirit (the image and likeness of God)
 
 #### (a) Physical work is the work of the body (the participation of the soul and spirit)
 
 #### (b) Emotions are the work of the soul (involving the body and spirit)
 
-#### (c) Transmission of the Word of God, the Covenant, Christ – the work of the spirit (participation of body and soul)
+#### (c) The transmission of the Word of God, the Covenant, and Christ is the work of the spirit (involving the body and soul)
 
 #### (d) The functional priority of action in a triune person is either spirit, soul, or body, functional, but not essential priority in a triune person – everything is important
 

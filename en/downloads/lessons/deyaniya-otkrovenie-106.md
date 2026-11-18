@@ -2,7 +2,7 @@
 
 ## 1) Phil. 1:1-7, - transmission of the Word of God, the Covenant, Christ, the importance of the Church
 
-### (1) Phil. 1:1-3, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, the importance of the disciples and local Churches, the fulfillment of God's will Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
+### (1) Phil. 1:1-3, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, the importance of the disciples and local Churches, fulfilling the will of God Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
@@ -29,9 +29,9 @@
 
 ### (2) Phil. 1:4-7, - the importance of fulfilling the destiny of God's people (Philemon's faith and love for Jesus Christ and for all the saints)
 
-#### (a) God's Love is the knowledge and transmission of the Word of God, the Covenant, Christ
+#### (a) The love of God is the knowledge and transmission of the Word of God, the Covenant, and Christ
 
-#### (b) God's Faith – correct understanding, fulfillment of the Word of God, the Covenant, Christ
+#### (b) God's faith is the correct understanding and fulfillment of God's Word, Covenant, and Christ
 
 #### (c) The praise and joy of the Apostle Paul – the importance of the disciples, the importance of fulfilling the destiny of God's people
 
@@ -39,7 +39,7 @@
 
 ### (1) Philemon is a child of God, the owner of the house of the house Church (Kollosa), communion with Paul and many disciples, a very rich and wealthy man, fulfillment of destiny
 
-### (2) Onesimus – a young man, a slave of Philemon, attendance at Divine services, communion with Paul, rejection of the Word of God, the Covenant, Christ
+### (2) Onesimus is a young man, a slave of Philemon, attending divine services, communicating with Paul, rejecting the Word of God, the Covenant, and Christ
 
 ### (3) Stealing money, escaping to Rome (1,600 km), attempting to illegally free himself through his own efforts – a complete collapse for Onesimus
 
@@ -57,7 +57,7 @@
 
 ### (2) Phil. 1:11, - life outside the Word of God, the Covenant, Christ, a sinner, unfit for God and man, the definition of the Word of God
 
-### (3) Phil. 1:1:12-14, - acceptance of the Word of God, the Covenant, Christ, the child of God, reconciliation and freedom in Christ, fit for God and man, definition of the Word of God
+### (3) Phil. 1:1:12-14, - acceptance of the Word of God, the Covenant, Christ, the child of God, reconciliation and freedom in Christ, fit for God and man, the definition of the Word of God
 
 ### (4) Phil. 1:15, - the importance of understanding God's sovereignty and control, God's control of circumstances, the timetable of time
 
@@ -65,11 +65,11 @@
 
 ### (6) Onesimus – disciple of Christ, bishop of the Church
 
-## 4) The importance of knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization
+## 4) The importance of knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization
 
 ### (1) Fl. 1:22, - fulfillment of destiny, World Evangelism (Paul's plans)
 
-### (2) Phil. 1:23-24, - the importance of the disciples, the knowledge and transmission of the Word of God, the Covenant, Christ, the fulfillment of the destiny of God's people
+### (2) Phil. 1:23-24, - the importance of disciples, the knowledge and transmission of the Word of God, the Covenant, Christ, and the fulfillment of the destiny of God's people
 
 ### (3) Demas – renunciation of the Word of God, the Covenant, Christ, the right to choose. 2 Tim. 4:10
 > For Demas hath forsaken me, having loved this present world, and is departed unto Thessalonica; Crescens to Galatia, Titus unto Dalmatia. (2 Tim. 4:10, KJV)

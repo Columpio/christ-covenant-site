@@ -41,12 +41,12 @@
 
 ### (5) Understanding the parts of Hell
 
-#### (a) Fire is a place for sinners, rejection of the Word of God, the Covenant, Christ
+#### (a) Fire is a place for sinners, rejection of the Word of God, the Covenant, and Christ
 
 #### (b) The bosom of Abraham is a place for the righteous V.Z., accepting the Word of God, the Covenant, Christ, waiting for the fulfillment of the Word of God Gen. 37:35
 > And all his sons and all his daughters rose up to comfort him; but he refused to be comforted; and he said, For I will go down into the grave unto my son mourning. Thus his father wept for him. (Gen. 37:35, KJV)
 
-#### (c) Prisons are a place for people who have never heard the Word of God, the Covenant, Christ, the possibility of choice. 1 Pet. 3:19,Rev. 20:15
+#### (c) Prisons are a place for people who have never heard the Words of God, the Covenant, Christ, the opportunity to choose. 1 Pet. 3:19,Rev. 20:15
 > By which also he went and preached unto the spirits in prison; (1 Pet. 3:19, KJV)
 > And whosoever was not found written in the book of life was cast into the lake of fire. (Rev. 20:15, KJV)
 
@@ -60,7 +60,7 @@
 
 #### (a) The lack of the possibility of salvation after death for a person
 
-#### (b) God’s method of salvation – the Word of God, the Covenant, Christ (God’s purpose for the people)
+#### (b) God's method of salvation – the Word of God, the Covenant, Christ (the destiny of God's people)
 
 #### (c) Mysticism, miracles– collapse (the resurrection of Lazarus)
 
@@ -88,6 +88,6 @@
 > But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you. (Matt. 6:33, KJV)
 > While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal. (2 Cor. 4:18, KJV)
 
-### (2) The importance of understanding the operation of Satan – the temptation of man Ps. 73:1-17,1 Tim. 6:6-10
+### (2) The importance of Understanding Satan's Work – the temptation of Man Ps. 73:1-17,1 Tim. 6:6-10
 > A Psalm of Asaph. Truly God is good to Israel, even to such as are of a clean heart. But as for me, my feet were almost gone; my steps had well nigh slipped. For I was envious at the foolish, when I saw the prosperity of the wicked. For there are no bands in their death: but their strength is firm. They are not in trouble as other men; neither are they plagued like other men. Therefore pride compasseth them about as a chain; violence covereth them as a garment. Their eyes stand out with fatness: they have more than heart could wish. They are corrupt, and speak wickedly concerning oppression: they speak loftily. They set their mouth against the heavens, and their tongue walketh through the earth. Therefore his people return hither: and waters of a full cup are wrung out to them. And they say, How doth God know? and is there knowledge in the most High? Behold, these are the ungodly, who prosper in the world; they increase in riches. Verily I have cleansed my heart in vain, and washed my hands in innocency. For all the day long have I been plagued, and chastened every morning. If I say, I will speak thus; behold, I should offend against the generation of thy children. When I thought to know this, it was too painful for me; Until I went into the sanctuary of God; then understood I their end. (Ps. 73:1-17, KJV)
 > But godliness with contentment is great gain. For we brought nothing into this world, and it is certain we can carry nothing out. And having food and raiment let us be therewith content. But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition. For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows. (1 Tim. 6:6-10, KJV)

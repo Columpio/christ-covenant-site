@@ -1,6 +1,6 @@
 # 3. Ex. 7: The Beginning of the Ministry of Moses and Aaron, The Importance of Fulfilling the Purpose of God's People
 
-## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21. (Adam – Seth – Noah – Abraham – Isaac – Jacob – The 12 Tribes of Israel)
+## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21. (Adam – Seth – Noah – Abraham – Isaac – Jacob – The 12 Tribes of Israel)
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -19,12 +19,12 @@
 
 ### (2) The solution to the problem is God's sovereignty, the timetable of time. (The birth and calling of Moses – Easter, Exodus to Canaan)
 
-## 3) Ex. 7, - the importance of the Word of God, the Covenant, Christ
+## 3) Ex. 7, - the importance of the Word of God, the Covenant, and Christ
 
-### (1) Ex. 7:1-2, - the importance of conveying the Word of God, the Covenant, Christ, Moses the prototype of Christ (God for Pharaoh)
+### (1) Ex. 7:1-2, - the importance of conveying the Word of God, the Covenant, Christ, Moses is the prototype of Christ (God for Pharaoh)
 > And the LORD said unto Moses, See, I have made thee a god to Pharaoh: and Aaron thy brother shall be thy prophet. Thou shalt speak all that I command thee: and Aaron thy brother shall speak unto Pharaoh, that he send the children of Israel out of his land. (Ex. 7:1-2, KJV)
 
-#### (a) God celebrated the Passover and brought the people out of slavery. 1 Cor. 5:7
+#### (a) He celebrated the Passover and led God's people out of slavery. 1 Cor. 5:7
 > Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Christ our passover is sacrificed for us: (1 Cor. 5:7, KJV)
 
 #### (b) Gave the Covenant, Christ (mediator, epoch) Ex. 20, 25-30,Luke 22:19-20
@@ -37,7 +37,7 @@
 > Abraham saith unto him, They have Moses and the prophets; let them hear them. (Luke 16:29, KJV)
 > And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me. (Luke 24:44, KJV)
 
-#### (d) God, the Leader and Advocate of the people Heb. 2:10; 8:6
+#### (d) The Leader and Advocate of God's people Heb. 2:10; 8:6
 > For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make the captain of their salvation perfect through sufferings. (Heb. 2:10, KJV)
 > But now hath he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises. (Heb. 8:6, KJV)
 
@@ -57,10 +57,10 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-#### (h) Appeared for the second time for confirmation. The Word of God, the Covenant, Christ Matt. 17:3. (The importance of understanding Moses' human shortcomings is the need for Christ and His Sacrifice, a type of Christ, but not Christ)
+#### (h) Appeared for the second time for confirmation. The Word of God, the Covenant, and Christ Matt. 17:3. (The importance of understanding Moses' human shortcomings is the need for Christ and His Sacrifice, a type of Christ, but not Christ)
 > And, behold, there appeared unto them Moses and Elias talking with him. (Matt. 17:3, KJV)
 
-### (2) Ex. 7:1-2, - the importance of transmitting the Word of God, the Covenant, Christ, Aaron the prototype of God's high priests and prophets
+### (2) Ex. 7:1-2, - the importance of conveying the Word of God, the Covenant, Christ, Aaron is the prototype of God's high priests and prophets
 > And the LORD said unto Moses, See, I have made thee a god to Pharaoh: and Aaron thy brother shall be thy prophet. Thou shalt speak all that I command thee: and Aaron thy brother shall speak unto Pharaoh, that he send the children of Israel out of his land. (Ex. 7:1-2, KJV)
 
 #### (a) Moses is a type of Christ (the one who is above the human, earthly High Priesthood)
@@ -68,7 +68,7 @@
 #### (b) Aaron is God's High Priest and God's prophet, the importance of fulfilling the destiny of God's people. 1 Pet. 2:9
 > But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light: (1 Pet. 2:9, KJV)
 
-#### (c) The importance of understanding the prototype of co–working with the Holy God - Divine and prophetic ministry on earth. (The importance of knowing and transmitting the Word of God, the Covenant, Christ, the importance of explaining the past, present, and future). Matt. 20:1-7
+#### (c) The importance of understanding the prototype of co–working with the Holy God - Divine and prophetic ministry on earth. (The importance of knowing and communicating the Word of God, the Covenant, Christ, the importance of explaining the past, present, and future). Matt. 20:1-7
 > For the kingdom of heaven is like unto a man that is an householder, which went out early in the morning to hire labourers into his vineyard. And when he had agreed with the labourers for a penny a day, he sent them into his vineyard. And he went out about the third hour, and saw others standing idle in the marketplace, And said unto them; Go ye also into the vineyard, and whatsoever is right I will give you. And they went their way. Again he went out about the sixth and ninth hour, and did likewise. And about the eleventh hour he went out, and found others standing idle, and saith unto them, Why stand ye here all the day idle? They say unto him, Because no man hath hired us. He saith unto them, Go ye also into the vineyard; and whatsoever is right, that shall ye receive. (Matt. 20:1-7, KJV)
 
 #### (d) The importance of understanding the human shortcomings of the prophets and high priests – the need for Christ and His Sacrifice
@@ -78,10 +78,10 @@
 > For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren. (Rom. 8:29, KJV)
 > According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love: (Eph. 1:4, KJV)
 
-## 4) Destiny man – God sovereignty, responsibility man Rom. 8:29-31
+## 4) Human destiny – God's sovereignty, human responsibility Rom. 8:29-31
 > For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren. Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified. What shall we then say to these things? If God be for us, who can be against us? (Rom. 8:29-31, KJV)
 
-### (1) God's foreknowledge is the knowledge of a person's choice in accepting the Word of God, the Covenant, Christ (the initiator of God) through the action of God's grace before the creation of the world. Eph. 1:4; 2:8,John 15:5. (Parents, country, race, society, epoch – there is no right to choose)
+### (1) God's foreknowledge is the knowledge of a person's choice in accepting the Word of God, the Covenant, and Christ (initiated by God) through the action of God's grace before the creation of the world. Eph. 1:4; 2:8,John 15:5. (Parents, country, race, society, epoch – there is no right to choose)
 > According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love: (Eph. 1:4, KJV)
 > For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: (Eph. 2:8, KJV)
 > I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing. (John 15:5, KJV)
@@ -103,34 +103,34 @@
 > Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother’s righteous. (1 John 3:12, KJV)
 > For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth. (Rom. 9:17, KJV)
 
-#### (c) Human predestination is God's mystery, the importance of proclaiming the Word of God, the Covenant, Christ (the Robber, Judas) 1 Cor. 6:2
+#### (c) Human predestination is God's mystery, the importance of proclaiming the Word of God, the Covenant, and Christ (the robber, Judas) 1 Cor. 6:2
 > Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the smallest matters? (1 Cor. 6:2, KJV)
 
 ### (2) Correct understanding of human destiny
 
-#### (a) Life on earth with God – eternity with God (eternal life)
+#### (a) Life on earth with God is eternity with God (eternal life)
 
-#### (b) Life on earth outside of God – eternity outside of God (eternal destruction)
+#### (b) Life on earth outside of God is eternity outside of God (eternal destruction)
 
-#### (c) The quality and number of years of life is an incorrect (incomplete) understanding of human fate, the action of Satan
+#### (c) The quality and number of years of life is an incorrect (incomplete) understanding of human fate, an act of Satan
 
-### (3) Fulfillment of God's plan, destiny of man Ps. 139:16,Prov. 29:26; 19:21
+### (3) The fulfillment of God's plan, the fate of man Ps. 139:16,Prov. 29:26; 19:21
 > Thine eyes did see my substance, yet being unperfect; and in thy book all my members were written, which in continuance were fashioned, when as yet there was none of them. (Ps. 139:16, KJV)
 > Many seek the ruler’s favour; but every man’s judgment cometh from the LORD. (Prov. 29:26, KJV)
 > There are many devices in a man’s heart; nevertheless the counsel of the LORD, that shall stand. (Prov. 19:21, KJV)
 
 #### (a) Epoch, birth and death, life circumstances
 
-#### (b) God's calling - God's sovereignty, schedule of times and meetings Luke 24:45,Acts 13:48; 16:14,1 Pet. 2:9,Rom. 8:28
+#### (b) God's calling – God's sovereignty, schedule of times and meetings Luke 24:45,Acts 13:48; 16:14,1 Pet. 2:9,Rom. 8:28
 > Then opened he their understanding, that they might understand the scriptures, (Luke 24:45, KJV)
 > And when the Gentiles heard this, they were glad, and glorified the word of the Lord: and as many as were ordained to eternal life believed. (Acts 13:48, KJV)
 > And a certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard us: whose heart the Lord opened, that she attended unto the things which were spoken of Paul. (Acts 16:14, KJV)
 > But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light: (1 Pet. 2:9, KJV)
 > And we know that all things work together for good to them that love God, to them who are the called according to his purpose. (Rom. 8:28, KJV)
 
-#### (c) God is justification – the proclamation of the Covenant, Christ, the forgiveness of all sins
+#### (c) God's justification is the presentation of the Covenant, Christ, and the forgiveness of all sins
 
-#### (d) God glorification – introducing a person to the glory of God (intended)
+#### (d) God's glorification – introducing a person to the glory of God (intended)
 
 ## Conclusion:
 

@@ -22,11 +22,11 @@
 #### (b) Disbelief, fear, repetition of mistakes. Gen. 12:10-20
 > And there was a famine in the land: and Abram went down into Egypt to sojourn there; for the famine was grievous in the land. And it came to pass, when he was come near to enter into Egypt, that he said unto Sarai his wife, Behold now, I know that thou art a fair woman to look upon: Therefore it shall come to pass, when the Egyptians shall see thee, that they shall say, This is his wife: and they will kill me, but they will save thee alive. Say, I pray thee, thou art my sister: that it may be well with me for thy sake; and my soul shall live because of thee. And it came to pass, that, when Abram was come into Egypt, the Egyptians beheld the woman that she was very fair. The princes also of Pharaoh saw her, and commended her before Pharaoh: and the woman was taken into Pharaoh’s house. And he entreated Abram well for her sake: and he had sheep, and oxen, and he asses, and menservants, and maidservants, and she asses, and camels. And the LORD plagued Pharaoh and his house with great plagues because of Sarai Abram’s wife. And Pharaoh called Abram, and said, What is this that thou hast done unto me? why didst thou not tell me that she was thy wife? Why saidst thou, She is my sister? so I might have taken her to me to wife: now therefore behold thy wife, take her, and go thy way. And Pharaoh commanded his men concerning him: and they sent him away, and his wife, and all that he had. (Gen. 12:10-20, KJV)
 
-#### (c) Sins do not negate the status and destiny of children.
+#### (c) Sins do not negate the status and destiny of God's children
 
 #### (d) Sarah – self-sacrifice for the fulfillment of the Word of God, faith in the coming of Christ from Abraham, the promise of God. (The unbelief of the birth of the son of promise personally from her is a remnant of the sinful essence of the children of God)
 
-### (2) Gen. 20:17-18 (Rom. 8:28), - the importance of transmitting the Word of God, the Covenant, Christ, World Evangelization (Abimelech – King of the Philistines)
+### (2) Gen. 20:17-18 (Rom. 8:28), - the importance of transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization (Abimelech – King of the Philistines)
 > So Abraham prayed unto God: and God healed Abimelech, and his wife, and his maidservants; and they bare children. For the LORD had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham’s wife. (Gen. 20:17-18, KJV)
 > And we know that all things work together for good to them that love God, to them who are the called according to his purpose. (Rom. 8:28, KJV)
 
@@ -39,13 +39,13 @@
 
 ### (2) The importance of Circumcision – affirmation of the Covenant, Christ, faith and understanding of Abraham
 
-## 3) Gen. 21:9-12 (Gal. 4:28-31), - affirmation of the Word of God, the Covenant, Christ
+## 3) Gen. 21:9-12 (Gal. 4:28-31), - the affirmation of the Word of God, the Covenant, of Christ
 > And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking. Wherefore she said unto Abraham, Cast out this bondwoman and her son: for the son of this bondwoman shall not be heir with my son, even with Isaac. And the thing was very grievous in Abraham’s sight because of his son. And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called. (Gen. 21:9-12, KJV)
 > Now we, brethren, as Isaac was, are the children of promise. But as then he that was born after the flesh persecuted him that was born after the Spirit, even so it is now. Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman. So then, brethren, we are not children of the bondwoman, but of the free. (Gal. 4:28-31, KJV)
 
 ### (1) Ishmael is the son of a slave (his powers, deeds, religion)
 
-### (2) Isaac is the son of the free (God's action, the fulfillment of God's Word)
+### (2) Isaac is the son of freedom (God's action, fulfillment of God's Word)
 
 ### (3) The constant conflict between religion and the Gospel Gen. 3:7; 4:1-8,Matt. 27:22-25,Gal. 5:4
 > And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons. (Gen. 3:7, KJV)
@@ -56,7 +56,7 @@
 ## 4) Gen. 21:12-21, - affirmation of the Word of God, God's sovereignty
 > And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called. And also of the son of the bondwoman will I make a nation, because he is thy seed. And Abraham rose up early in the morning, and took bread, and a bottle of water, and gave it unto Hagar, putting it on her shoulder, and the child, and sent her away: and she departed, and wandered in the wilderness of Beer-sheba. And the water was spent in the bottle, and she cast the child under one of the shrubs. And she went, and sat her down over against him a good way off, as it were a bowshot: for she said, Let me not see the death of the child. And she sat over against him, and lift up her voice, and wept. And God heard the voice of the lad; and the angel of God called to Hagar out of heaven, and said unto her, What aileth thee, Hagar? fear not; for God hath heard the voice of the lad where he is. Arise, lift up the lad, and hold him in thine hand; for I will make him a great nation. And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink. And God was with the lad; and he grew, and dwelt in the wilderness, and became an archer. And he dwelt in the wilderness of Paran: and his mother took him a wife out of the land of Egypt. (Gen. 21:12-21, KJV)
 
-### (1) God's love and Mercy – proclaiming the Word of God, the importance of believing God, the importance of accepting the Word of God, the Covenant, Christ (Hagar, Ishmael)
+### (1) God's love and mercy – proclaiming the Word of God, the importance of God's faith, the importance of accepting the Word of God, the Covenant, and Christ (Hagar, Ishmael)
 
 ### (2) Hagar, Ishmael – rejection of the Word of God, the Covenant, Christ, foreknowledge of God, the right to choose a person. Gen. 16:6-16 (11-12)
 > But Abram said unto Sarai, Behold, thy maid is in thy hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face. And the angel of the LORD found her by a fountain of water in the wilderness, by the fountain in the way to Shur. And he said, Hagar, Sarai’s maid, whence camest thou? and whither wilt thou go? And she said, I flee from the face of my mistress Sarai. And the angel of the LORD said unto her, Return to thy mistress, and submit thyself under her hands. And the angel of the LORD said unto her, I will multiply thy seed exceedingly, that it shall not be numbered for multitude. And the angel of the LORD said unto her, Behold, thou art with child, and shalt bear a son, and shalt call his name Ishmael; because the LORD hath heard thy affliction. And he will be a wild man; his hand will be against every man, and every man’s hand against him; and he shall dwell in the presence of all his brethren. And she called the name of the LORD that spake unto her, Thou God seest me: for she said, Have I also here looked after him that seeth me? Wherefore the well was called Beer-lahai-roi; behold, it is between Kadesh and Bered. And Hagar bare Abram a son: and Abram called his son’s name, which Hagar bare, Ishmael. And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram. (Gen. 16:6-16, KJV)
@@ -64,7 +64,7 @@
 ### (3) Ishmael – Egyptian wife, descendants of the Ishmaelites, rejection of the Word of God, the Covenant, Christ, enemies of the people of God. Gen. 21:21
 > And he dwelt in the wilderness of Paran: and his mother took him a wife out of the land of Egypt. (Gen. 21:21, KJV)
 
-## 5) Gen. 21:22-34; 26:8, 15, 18 (26:8,15,18), - transmission of the Word of God, the Covenant, Christ
+## 5) Gen. 21:22-34; 26:8, 15, 18 (26:8,15,18), - transmission of the Word of God, the Covenant, of Christ
 > And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God is with thee in all that thou doest: Now therefore swear unto me here by God that thou wilt not deal falsely with me, nor with my son, nor with my son’s son: but according to the kindness that I have done unto thee, thou shalt do unto me, and to the land wherein thou hast sojourned. And Abraham said, I will swear. And Abraham reproved Abimelech because of a well of water, which Abimelech’s servants had violently taken away. And Abimelech said, I wot not who hath done this thing: neither didst thou tell me, neither yet heard I of it, but to day. And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them made a covenant. And Abraham set seven ewe lambs of the flock by themselves. And Abimelech said unto Abraham, What mean these seven ewe lambs which thou hast set by themselves? And he said, For these seven ewe lambs shalt thou take of my hand, that they may be a witness unto me, that I have digged this well. Wherefore he called that place Beer-sheba; because there they sware both of them. Thus they made a covenant at Beer-sheba: then Abimelech rose up, and Phichol the chief captain of his host, and they returned into the land of the Philistines. And Abraham planted a grove in Beer-sheba, and called there on the name of the LORD, the everlasting God. And Abraham sojourned in the Philistines’ land many days. (Gen. 21:22-34, KJV)
 > And it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac was sporting with Rebekah his wife. (Gen. 26:8, KJV)
 > For all the wells which his father’s servants had digged in the days of Abraham his father, the Philistines had stopped them, and filled them with earth. (Gen. 26:15, KJV)
@@ -72,11 +72,11 @@
 
 ### (1) Philistines, King Abimelech, Phicol (descendants), acceptance of the Word of God, the Covenant, Christ (God's love and mercy)
 
-### (2) Wells are sources of living water (the Word of God, the Covenant, Christ), life for people, and the importance of fulfilling a purpose. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+### (2) Wells are sources of living water (the Word of God, the Covenant, Christ), life for people, and the importance of fulfilling a purpose. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 
 #### (a) Abraham, the child of God – the appearance of living water
 
-#### (b) Philistines, children of the devil – resisting the living water. (To take away or fill up the well – resisting and distorting the Word of God, the Covenant, Christ, religion)
+#### (b) Philistines, children of the devil, resisting the living water. (To take away or fill up a well is a violation and distortion of the Word of God, the Covenant, Christ, religion)
 
 ## Conclusion:
 

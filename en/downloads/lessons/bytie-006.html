@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -288,7 +290,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:</p><cite>Eph. 2:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>in which you used to walk when you conformed to the ways of this world and of the ruler of the power of the air, the spirit who is now at work in the sons of disobedience.</p><cite>Eph. 2:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the children of disobedience.</p><cite>Eph. 2:2 · WEB</cite></blockquote>
-<h3>(1) The appearance of sin and evil are phenomena caused by the choice of the angel of the Day, life outside the Word of God Heb. 1:14,Isa. 14:12-14, – 1 John 3:8. (An example of creating an explosive package – combining peaceful things in a certain order causes a force that a person cannot control and falls under its action himself)</h3>
+<h3>(1) The appearance of sin and evil are phenomena caused by the choice of the angel of the Day, life outside the Word of God Heb. 1:14,Isa. 14:12-14, – 1 John 3:8. (An example of creating an explosive package - combining peaceful things in a certain order causes a force that a person cannot control and falls under its influence himself)</h3>
 <blockquote data-v="kjv"><p>Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?</p><cite>Heb. 1:14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Are not the angels ministering spirits sent to serve those who will inherit salvation?</p><cite>Heb. 1:14 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Aren’t they all serving spirits, sent out to do service for the sake of those who will inherit salvation?</p><cite>Heb. 1:14 · WEB</cite></blockquote>
@@ -298,7 +300,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.</p><cite>1 John 3:8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>The one who practices sin is of the devil, because the devil has been sinning from the very start. This is why the Son of God was revealed, to destroy the works of the devil.</p><cite>1 John 3:8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He who sins is of the devil, for the devil has been sinning from the beginning. To this end the Son of God was revealed: that he might destroy the works of the devil.</p><cite>1 John 3:8 · WEB</cite></blockquote>
-<h3>(2) Living outside the Word of God, outside of God is living in evil, full control of the evil forces of God's creation (fallen angels and sinners)</h3>
+<h3>(2) Living outside of the Word of God, outside of God is living in evil, full control of the evil forces of God's creation (fallen angels and sinners)</h3>
 <h3>(3) Knowledge of good and evil, the will of God for man – the importance of theoretical rather than practical knowledge (parenting)</h3>
 <h3>(4) The appearance, action and end of the forces of evil – the permissible will of God, God's control, the birth of the last man (the right to choose), a temporary phenomenon (lake of fire) 1 John 5:19,Deut. 30:19, - Matt. 7:13-14, - Rev. 20:10, 14; 21:1-5</h3>
 <blockquote data-v="kjv"><p>And we know that we are of God, and the whole world lieth in wickedness.</p><cite>1 John 5:19 · KJV</cite></blockquote>
@@ -376,12 +378,12 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>Everyone must submit himself to the governing authorities, for there is no authority except that which is from God. The authorities that exist have been appointed by God. Consequently, whoever resists authority is opposing what God has set in place, and those who do so will bring judgment on themselves. For rulers are not a terror to good conduct, but to bad. Do you want to be unafraid of the one in authority? Then do what is right, and you will have his approval. For he is God’s servant for your good. But if you do wrong, be afraid, for he does not carry the sword in vain. He is God’s servant, an agent of retribution to the wrongdoer. Therefore it is necessary to submit to authority, not only to avoid punishment, but also as a matter of conscience.</p><cite>Rom. 13:1-5 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Let every soul be in subjection to the higher authorities, for there is no authority except from God, and those who exist are ordained by God. Therefore he who resists the authority withstands the ordinance of God; and those who withstand will receive to themselves judgment. For rulers are not a terror to the good work, but to the evil. Do you desire to have no fear of the authority? Do that which is good, and you will have praise from the authority, for he is a servant of God to you for good. But if you do that which is evil, be afraid, for he doesn’t bear the sword in vain; for he is a servant of God, an avenger for wrath to him who does evil. Therefore you need to be in subjection, not only because of the wrath, but also for conscience’ sake.</p><cite>Rom. 13:1-5 · WEB</cite></blockquote>
 <h3>(3) The impossibility of repentance and restoration of Satan and demons</h3>
-<h4>(a) The lack of God's solution to salvation for Satan and demons Luke 12:48</h4>
+<h4>(a) The lack of God's solution of salvation for Satan and demons Luke 12:48</h4>
 <blockquote data-v="kjv"><p>But he that knew not, and did commit things worthy of stripes, shall be beaten with few stripes. For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more.</p><cite>Luke 12:48 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But the one who unknowingly does things worthy of punishment will be beaten with few blows. From everyone who has been given much, much will be required; and from him who has been entrusted with much, even more will be demanded.</p><cite>Luke 12:48 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>but he who didn’t know, and did things worthy of stripes, will be beaten with few stripes. To whomever much is given, of him will much be required; and to whom much was entrusted, of him more will be asked.</p><cite>Luke 12:48 · WEB</cite></blockquote>
 <h4>(b) The absence of a mechanism of salvation – there is no redemption for Satan and demons</h4>
-<h4>(c) The lack of action of God's grace for Satan and demons (God's call)</h4>
+<h4>(c) The absence of the grace of God for Satan and demons (God's call)</h4>
 <h2 id="s5">4) God's sovereignty and Control – Using evil for good. Rom. 8:28</h2>
 <blockquote data-v="kjv"><p>And we know that all things work together for good to them that love God, to them who are the called according to his purpose.</p><cite>Rom. 8:28 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And we know that God works all things together for the good of those who love Him, who are called according to His purpose.</p><cite>Rom. 8:28 · BSB</cite></blockquote>
@@ -395,7 +397,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour.</p><cite>2 Tim. 2:20 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>A large house contains not only vessels of gold and silver, but also of wood and clay. Some indeed are for honorable use, but others are for common use.</p><cite>2 Tim. 2:20 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now in a large house there are not only vessels of gold and of silver, but also of wood and of clay. Some are for honor and some for dishonor.</p><cite>2 Tim. 2:20 · WEB</cite></blockquote>
-<h3>(2) Accepting the Word of God, the Covenant, Christ – any evil will turn into good</h3>
+<h3>(2) Accepting the Word of God, the Covenant, and Christ – any evil will turn into good</h3>
 <h4>(a) Joseph's betrayal, slavery, and prison. Gen. 50:20</h4>
 <blockquote data-v="kjv"><p>But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive.</p><cite>Gen. 50:20 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>As for you, what you intended against me for evil, God intended for good, in order to accomplish a day like this—to preserve the lives of many people.</p><cite>Gen. 50:20 · BSB</cite></blockquote>
@@ -408,7 +410,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>I called upon the LORD in distress: the LORD answered me, and set me in a large place.</p><cite>Ps. 118:5 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>In my distress I called to the LORD, and He answered and set me free.</p><cite>Ps. 118:5 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Out of my distress, I called on Yah. Yah answered me with freedom.</p><cite>Ps. 118:5 · WEB</cite></blockquote>
-<h3>(3) Rejection of the Word of God, the Covenant, Christ – any good will turn into evil</h3>
+<h3>(3) Rejection of the Word of God, the Covenant, and Christ – any good will turn to evil</h3>
 <h4>(a) Judas Iscariot, disciple of Jesus Christ – the betrayal of Christ, the importance of fulfilling the Word of God, the redemption of mankind</h4>
 <h4>(b) Pharisees and Scribes entrusted with the Word of God – the rejection and crucifixion of Jesus Christ John 8:44; 10:33,Rom. 9:30-33</h4>
 <blockquote data-v="kjv"><p>Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.</p><cite>John 8:44 · KJV</cite></blockquote>
@@ -426,11 +428,11 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>Jesus said to his disciples, “Most certainly I say to you, a rich man will enter into the Kingdom of Heaven with difficulty.</p><cite>Matt. 19:23 · WEB</cite></blockquote>
 <h2 id="s6">5) The importance of fighting evil properly</h2>
 <h3>(1) The spiritual part (a person's daily choice)</h3>
-<h4>(a) Acceptance of the Word of God, the Covenant, Christ –salvation and rebirth, the importance of Emmanuel. Rom. 8:2</h4>
+<h4>(a) Acceptance of the Word of God, the Covenant, Christ – salvation and rebirth, the importance of Emmanuel. Rom. 8:2</h4>
 <blockquote data-v="kjv"><p>For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.</p><cite>Rom. 8:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For in Christ Jesus the law of the Spirit of life set you free from the law of sin and death.</p><cite>Rom. 8:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For the law of the Spirit of life in Christ Jesus made me free from the law of sin and of death.</p><cite>Rom. 8:2 · WEB</cite></blockquote>
-<h4>(b) Knowledge and transmission of the Word of God, the Covenants, Christ, the Disciples, Worldwide Evangelization, preparation for the coming of Christ – fulfillment of destiny John 8:31-32,1 Tim. 4:16, - Matt. 28:19-20,2 Tim. 2:2</h4>
+<h4>(b) Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ – fulfillment of destiny John 8:31-32,1 Tim. 4:16, - Matt. 28:19-20,2 Tim. 2:2</h4>
 <blockquote data-v="kjv"><p>Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; And ye shall know the truth, and the truth shall make you free.</p><cite>John 8:31-32 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So He said to the Jews who had believed Him, “If you continue in My word, you are truly My disciples. Then you will know the truth, and the truth will set you free.”</p><cite>John 8:31-32 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Jesus therefore said to those Jews who had believed him, “If you remain in my word, then you are truly my disciples. You will know the truth, and the truth will make you free.”</p><cite>John 8:31-32 · WEB</cite></blockquote>
@@ -444,14 +446,14 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>And the things that you have heard me say among many witnesses, entrust these to faithful men who will be qualified to teach others as well.</p><cite>2 Tim. 2:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>The things which you have heard from me among many witnesses, commit the same things to faithful men who will be able to teach others also.</p><cite>2 Tim. 2:2 · WEB</cite></blockquote>
 <h3>(2) The soul part (a person's daily choice)</h3>
-<h4>(a) The choice and formation of the mindset of the people of God – the ideology of God, acceptance of the teachings of the Word of God, "to die for evil." (Ideology, value system – thoughts – desires – actions) Col. 3:1-4,Rom. 6:11</h4>
+<h4>(a) The choice and formation of the mindset of the people of God is the ideology of God, acceptance of the teachings of the Word of God, "to die for evil." (Ideology, value system – thoughts – desires – actions) Col. 3:1-4,Rom. 6:11</h4>
 <blockquote data-v="kjv"><p>If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God. Set your affection on things above, not on things on the earth. For ye are dead, and your life is hid with Christ in God. When Christ, who is our life, shall appear, then shall ye also appear with him in glory.</p><cite>Col. 3:1-4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Therefore, since you have been raised with Christ, strive for the things above, where Christ is seated at the right hand of God. Set your minds on things above, not on earthly things. For you died, and your life is now hidden with Christ in God. When Christ, who is your life, appears, then you also will appear with Him in glory.</p><cite>Col. 3:1-4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>If then you were raised together with Christ, seek the things that are above, where Christ is, seated on the right hand of God. Set your mind on the things that are above, not on the things that are on the earth. For you died, and your life is hidden with Christ in God. When Christ, our life, is revealed, then you will also be revealed with him in glory.</p><cite>Col. 3:1-4 · WEB</cite></blockquote>
 <blockquote data-v="kjv"><p>Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.</p><cite>Rom. 6:11 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So you too must count yourselves dead to sin, but alive to God in Christ Jesus.</p><cite>Rom. 6:11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Thus consider yourselves also to be dead to sin, but alive to God in Christ Jesus our Lord.</p><cite>Rom. 6:11 · WEB</cite></blockquote>
-<h4>(b) Choosing the right communication and friendship is setting standards for the Word of God in the lives of God's people. Ps. 1:1-3</h4>
+<h4>(b) Choosing the right communication and friendship is to establish the standards of the Word of God in the lives of God's people. Ps. 1:1-3</h4>
 <blockquote data-v="kjv"><p>Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful. But his delight is in the law of the LORD; and in his law doth he meditate day and night. And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.</p><cite>Ps. 1:1-3 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Blessed is the man who does not walk in the counsel of the wicked, or set foot on the path of sinners, or sit in the seat of mockers. But his delight is in the Law of the LORD, and on His law he meditates day and night. He is like a tree planted by streams of water, yielding its fruit in season, whose leaf does not wither, and who prospers in all he does.</p><cite>Ps. 1:1-3 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Blessed is the man who doesn’t walk in the counsel of the wicked, nor stand on the path of sinners, nor sit in the seat of scoffers; but his delight is in Yahweh’s law. On his law he meditates day and night. He will be like a tree planted by the streams of water, that produces its fruit in its season, whose leaf also does not wither. Whatever he does shall prosper.</p><cite>Ps. 1:1-3 · WEB</cite></blockquote>
@@ -468,8 +470,8 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>From the days of John the Baptist until now, the kingdom of heaven has been subject to violence, and the violent lay claim to it.</p><cite>Matt. 11:12 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>From the days of John the Baptizer until now, the Kingdom of Heaven suffers violence, and the violent take it by force.</p><cite>Matt. 11:12 · WEB</cite></blockquote>
 <h2 id="s7">Result:</h2>
-<h3>(1) The impossibility of defeating evil without God, the importance of accepting the Word of God, the Covenant, Christ (Emmanuel)</h3>
-<h3>(2) The importance of understanding the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ (salvation, Emmanuel)</h3>
+<h3>(1) The impossibility of defeating evil without God, the importance of accepting the Word of God, the Covenant, and Christ (Emmanuel)</h3>
+<h3>(2) The importance of understanding the destiny of God's people – the knowledge and transmission of God's Word, Covenant, and Christ (salvation, Emmanuel)</h3>
 <h3>(3) The written Word of God (the Bible) is the only criterion of every person's life (spiritual, mental and physical)</h3>
 <h3>(4) The importance of understanding the temptations of God's people</h3>
 <h4>(a) The action of Satan and demons from the outside is another word</h4>
@@ -485,7 +487,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.</p><cite>Rom. 8:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For in Christ Jesus the law of the Spirit of life set you free from the law of sin and death.</p><cite>Rom. 8:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For the law of the Spirit of life in Christ Jesus made me free from the law of sin and of death.</p><cite>Rom. 8:2 · WEB</cite></blockquote>
-<h3>(4) The action of the Holy Spirit is the knowledge and transmission of the Word of God, the Covenant, Christ, the possibility of accepting Christ and legitimate liberation from evil for every human being. Rev. 3:20</h3>
+<h3>(4) The action of the Holy Spirit is the knowledge and transmission of the Word of God, the Covenant, and Christ, the possibility of accepting Christ and legitimately freeing everyone from evil. Rev. 3:20</h3>
 <blockquote data-v="kjv"><p>Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.</p><cite>Rev. 3:20 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Behold, I stand at the door and knock. If anyone hears My voice and opens the door, I will come in and dine with him, and he with Me.</p><cite>Rev. 3:20 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Behold, I stand at the door and knock. If anyone hears my voice and opens the door, then I will come in to him and will dine with him, and he with me.</p><cite>Rev. 3:20 · WEB</cite></blockquote>
@@ -495,7 +497,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>I call heaven and earth to witness against you today that I have set before you life and death, the blessing and the curse. Therefore choose life, that you may live, you and your descendants,</p><cite>Deut. 30:19 · WEB</cite></blockquote>
 <h2 id="s9">Conclusion:</h2>
 <h3>(1) The importance of understanding the root causes of evil and its forces – choosing the angel of the Day, living outside the Word of God (sin)</h3>
-<h3>(2) The importance of understanding God's method of deliverance from evil – the knowledge and transmission of the Word of God, the Covenant, Christ (Emmanuel)</h3>
+<h3>(2) The importance of understanding God's method of deliverance from evil – the knowledge and transmission of God's Word, Covenant, and Christ (Emmanuel)</h3>
 <h3>(3) The importance of understanding the reason for the existence of good and evil – God's sovereignty and control, man's right to choose</h3>
 <h3>(4) The importance of understanding the correct method of dealing with evil (spiritual, mental and physical)</h3>
 </main>

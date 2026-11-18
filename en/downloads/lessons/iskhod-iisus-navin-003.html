@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,16 +233,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>3. Ex. 7: The Beginning of the Ministry of Moses and Aaron, The Importance of Fulfilling the Purpose of God's People</h1>
-<h2 id="s1">1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21. (Adam – Seth – Noah – Abraham – Isaac – Jacob – The 12 Tribes of Israel)</h2>
+<h2 id="s1">1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21. (Adam – Seth – Noah – Abraham – Isaac – Jacob – The 12 Tribes of Israel)</h2>
 <blockquote data-v="kjv"><p>Much every way: chiefly, because that unto them were committed the oracles of God.</p><cite>Rom. 3:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Much in every way. First of all, they have been entrusted with the very words of God.</p><cite>Rom. 3:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Much in every way! Because first of all, they were entrusted with the revelations of God.</p><cite>Rom. 3:2 · WEB</cite></blockquote>
@@ -277,12 +279,12 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>And the LORD said to him, “Bring Me a heifer, a goat, and a ram, each three years old, along with a turtledove and a young pigeon.” So Abram brought all these to Him, split each of them down the middle, and laid the halves opposite each other. The birds, however, he did not cut in half. And the birds of prey descended on the carcasses, but Abram drove them away. As the sun was setting, Abram fell into a deep sleep, and suddenly great terror and darkness overwhelmed him. Then the LORD said to Abram, “Know for certain that your descendants will be strangers in a land that is not their own, and they will be enslaved and mistreated four hundred years. But I will judge the nation they serve as slaves, and afterward they will depart with many possessions.</p><cite>Gen. 15:9-14 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He said to him, “Bring me a heifer three years old, a female goat three years old, a ram three years old, a turtledove, and a young pigeon.” He brought him all these, and divided them in the middle, and laid each half opposite the other; but he didn’t divide the birds. The birds of prey came down on the carcasses, and Abram drove them away. When the sun was going down, a deep sleep fell on Abram. Now terror and great darkness fell on him. He said to Abram, “Know for sure that your offspring will live as foreigners in a land that is not theirs, and will serve them. They will afflict them four hundred years. I will also judge that nation, whom they will serve. Afterward they will come out with great wealth;</p><cite>Gen. 15:9-14 · WEB</cite></blockquote>
 <h3>(2) The solution to the problem is God's sovereignty, the timetable of time. (The birth and calling of Moses – Easter, Exodus to Canaan)</h3>
-<h2 id="s3">3) Ex. 7, - the importance of the Word of God, the Covenant, Christ</h2>
-<h3>(1) Ex. 7:1-2, - the importance of conveying the Word of God, the Covenant, Christ, Moses the prototype of Christ (God for Pharaoh)</h3>
+<h2 id="s3">3) Ex. 7, - the importance of the Word of God, the Covenant, and Christ</h2>
+<h3>(1) Ex. 7:1-2, - the importance of conveying the Word of God, the Covenant, Christ, Moses is the prototype of Christ (God for Pharaoh)</h3>
 <blockquote data-v="kjv"><p>And the LORD said unto Moses, See, I have made thee a god to Pharaoh: and Aaron thy brother shall be thy prophet. Thou shalt speak all that I command thee: and Aaron thy brother shall speak unto Pharaoh, that he send the children of Israel out of his land.</p><cite>Ex. 7:1-2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>The LORD answered Moses, “See, I have made you like God to Pharaoh, and your brother Aaron will be your prophet. You are to speak all that I command you, and your brother Aaron is to tell Pharaoh to let the Israelites go out of his land.</p><cite>Ex. 7:1-2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh said to Moses, “Behold, I have made you as God to Pharaoh; and Aaron your brother shall be your prophet. You shall speak all that I command you; and Aaron your brother shall speak to Pharaoh, that he let the children of Israel go out of his land.</p><cite>Ex. 7:1-2 · WEB</cite></blockquote>
-<h4>(a) God celebrated the Passover and brought the people out of slavery. 1 Cor. 5:7</h4>
+<h4>(a) He celebrated the Passover and led God's people out of slavery. 1 Cor. 5:7</h4>
 <blockquote data-v="kjv"><p>Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Christ our passover is sacrificed for us:</p><cite>1 Cor. 5:7 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Get rid of the old leaven, that you may be a new unleavened batch, as you really are. For Christ, our Passover lamb, has been sacrificed.</p><cite>1 Cor. 5:7 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Purge out the old yeast, that you may be a new lump, even as you are unleavened. For indeed Christ, our Passover, has been sacrificed in our place.</p><cite>1 Cor. 5:7 · WEB</cite></blockquote>
@@ -306,7 +308,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And he said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me.</p><cite>Luke 24:44 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Jesus said to them, “These are the words I spoke to you while I was still with you: Everything must be fulfilled that is written about Me in the Law of Moses, the Prophets, and the Psalms.”</p><cite>Luke 24:44 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He said to them, “This is what I told you while I was still with you, that all things which are written in the law of Moses, the prophets, and the psalms concerning me must be fulfilled.”</p><cite>Luke 24:44 · WEB</cite></blockquote>
-<h4>(d) God, the Leader and Advocate of the people Heb. 2:10; 8:6</h4>
+<h4>(d) The Leader and Advocate of God's people Heb. 2:10; 8:6</h4>
 <blockquote data-v="kjv"><p>For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make the captain of their salvation perfect through sufferings.</p><cite>Heb. 2:10 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>In bringing many sons to glory, it was fitting for God, for whom and through whom all things exist, to make the author of their salvation perfect through suffering.</p><cite>Heb. 2:10 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For it became him, for whom are all things and through whom are all things, in bringing many children to glory, to make the author of their salvation perfect through sufferings.</p><cite>Heb. 2:10 · WEB</cite></blockquote>
@@ -346,11 +348,11 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.</p><cite>Gen. 3:21 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And the LORD God made garments of skin for Adam and his wife, and He clothed them.</p><cite>Gen. 3:21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh God made garments of animal skins for Adam and for his wife, and clothed them.</p><cite>Gen. 3:21 · WEB</cite></blockquote>
-<h4>(h) Appeared for the second time for confirmation. The Word of God, the Covenant, Christ Matt. 17:3. (The importance of understanding Moses' human shortcomings is the need for Christ and His Sacrifice, a type of Christ, but not Christ)</h4>
+<h4>(h) Appeared for the second time for confirmation. The Word of God, the Covenant, and Christ Matt. 17:3. (The importance of understanding Moses' human shortcomings is the need for Christ and His Sacrifice, a type of Christ, but not Christ)</h4>
 <blockquote data-v="kjv"><p>And, behold, there appeared unto them Moses and Elias talking with him.</p><cite>Matt. 17:3 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Suddenly Moses and Elijah appeared before them, talking with Jesus.</p><cite>Matt. 17:3 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Behold, Moses and Elijah appeared to them talking with him.</p><cite>Matt. 17:3 · WEB</cite></blockquote>
-<h3>(2) Ex. 7:1-2, - the importance of transmitting the Word of God, the Covenant, Christ, Aaron the prototype of God's high priests and prophets</h3>
+<h3>(2) Ex. 7:1-2, - the importance of conveying the Word of God, the Covenant, Christ, Aaron is the prototype of God's high priests and prophets</h3>
 <blockquote data-v="kjv"><p>And the LORD said unto Moses, See, I have made thee a god to Pharaoh: and Aaron thy brother shall be thy prophet. Thou shalt speak all that I command thee: and Aaron thy brother shall speak unto Pharaoh, that he send the children of Israel out of his land.</p><cite>Ex. 7:1-2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>The LORD answered Moses, “See, I have made you like God to Pharaoh, and your brother Aaron will be your prophet. You are to speak all that I command you, and your brother Aaron is to tell Pharaoh to let the Israelites go out of his land.</p><cite>Ex. 7:1-2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yahweh said to Moses, “Behold, I have made you as God to Pharaoh; and Aaron your brother shall be your prophet. You shall speak all that I command you; and Aaron your brother shall speak to Pharaoh, that he let the children of Israel go out of his land.</p><cite>Ex. 7:1-2 · WEB</cite></blockquote>
@@ -359,7 +361,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:</p><cite>1 Pet. 2:9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But you are a chosen people, a royal priesthood, a holy nation, a people for God’s own possession, to proclaim the virtues of Him who called you out of darkness into His marvelous light.</p><cite>1 Pet. 2:9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But you are a chosen race, a royal priesthood, a holy nation, a people for God’s own possession, that you may proclaim the excellence of him who called you out of darkness into his marvelous light.</p><cite>1 Pet. 2:9 · WEB</cite></blockquote>
-<h4>(c) The importance of understanding the prototype of co–working with the Holy God - Divine and prophetic ministry on earth. (The importance of knowing and transmitting the Word of God, the Covenant, Christ, the importance of explaining the past, present, and future). Matt. 20:1-7</h4>
+<h4>(c) The importance of understanding the prototype of co–working with the Holy God - Divine and prophetic ministry on earth. (The importance of knowing and communicating the Word of God, the Covenant, Christ, the importance of explaining the past, present, and future). Matt. 20:1-7</h4>
 <blockquote data-v="kjv"><p>For the kingdom of heaven is like unto a man that is an householder, which went out early in the morning to hire labourers into his vineyard. And when he had agreed with the labourers for a penny a day, he sent them into his vineyard. And he went out about the third hour, and saw others standing idle in the marketplace, And said unto them; Go ye also into the vineyard, and whatsoever is right I will give you. And they went their way. Again he went out about the sixth and ninth hour, and did likewise. And about the eleventh hour he went out, and found others standing idle, and saith unto them, Why stand ye here all the day idle? They say unto him, Because no man hath hired us. He saith unto them, Go ye also into the vineyard; and whatsoever is right, that shall ye receive.</p><cite>Matt. 20:1-7 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>“For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard. He agreed to pay them a denarius for the day and sent them into his vineyard. About the third hour he went out and saw others standing in the marketplace doing nothing. ‘You also go into my vineyard,’ he said, ‘and I will pay you whatever is right.’ So they went. He went out again about the sixth hour and the ninth hour and did the same thing. About the eleventh hour he went out and found still others standing around. ‘Why have you been standing here all day long doing nothing?’ he asked. ‘Because no one has hired us,’ they answered. So he told them, ‘You also go into my vineyard.’</p><cite>Matt. 20:1-7 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“For the Kingdom of Heaven is like a man who was the master of a household, who went out early in the morning to hire laborers for his vineyard. When he had agreed with the laborers for a denarius a day, he sent them into his vineyard. He went out about the third hour, and saw others standing idle in the marketplace. He said to them, ‘You also go into the vineyard, and whatever is right I will give you.’ So they went their way. Again he went out about the sixth and the ninth hour, and did likewise. About the eleventh hour he went out and found others standing idle. He said to them, ‘Why do you stand here all day idle?’ “They said to him, ‘Because no one has hired us.’ “He said to them, ‘You also go into the vineyard, and you will receive whatever is right.’</p><cite>Matt. 20:1-7 · WEB</cite></blockquote>
@@ -374,11 +376,11 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:</p><cite>Eph. 1:4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For He chose us in Him before the foundation of the world to be holy and blameless in His presence. In love</p><cite>Eph. 1:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>even as he chose us in him before the foundation of the world, that we would be holy and without defect before him in love,</p><cite>Eph. 1:4 · WEB</cite></blockquote>
-<h2 id="s4">4) Destiny man – God sovereignty, responsibility man Rom. 8:29-31</h2>
+<h2 id="s4">4) Human destiny – God's sovereignty, human responsibility Rom. 8:29-31</h2>
 <blockquote data-v="kjv"><p>For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren. Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified. What shall we then say to these things? If God be for us, who can be against us?</p><cite>Rom. 8:29-31 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For those God foreknew, He also predestined to be conformed to the image of His Son, so that He would be the firstborn among many brothers. And those He predestined, He also called; those He called, He also justified; those He justified, He also glorified. What then shall we say in response to these things? If God is for us, who can be against us?</p><cite>Rom. 8:29-31 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For whom he foreknew, he also predestined to be conformed to the image of his Son, that he might be the firstborn among many brothers. Whom he predestined, those he also called. Whom he called, those he also justified. Whom he justified, those he also glorified. What then shall we say about these things? If God is for us, who can be against us?</p><cite>Rom. 8:29-31 · WEB</cite></blockquote>
-<h3>(1) God's foreknowledge is the knowledge of a person's choice in accepting the Word of God, the Covenant, Christ (the initiator of God) through the action of God's grace before the creation of the world. Eph. 1:4; 2:8,John 15:5. (Parents, country, race, society, epoch – there is no right to choose)</h3>
+<h3>(1) God's foreknowledge is the knowledge of a person's choice in accepting the Word of God, the Covenant, and Christ (initiated by God) through the action of God's grace before the creation of the world. Eph. 1:4; 2:8,John 15:5. (Parents, country, race, society, epoch – there is no right to choose)</h3>
 <blockquote data-v="kjv"><p>According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:</p><cite>Eph. 1:4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For He chose us in Him before the foundation of the world to be holy and blameless in His presence. In love</p><cite>Eph. 1:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>even as he chose us in him before the foundation of the world, that we would be holy and without defect before him in love,</p><cite>Eph. 1:4 · WEB</cite></blockquote>
@@ -429,15 +431,15 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.</p><cite>Rom. 9:17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For the Scripture says to Pharaoh: “I raised you up for this very purpose, that I might display My power in you, and that My name might be proclaimed in all the earth.”</p><cite>Rom. 9:17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For the Scripture says to Pharaoh, “For this very purpose I caused you to be raised up, that I might show in you my power, and that my name might be proclaimed in all the earth.”</p><cite>Rom. 9:17 · WEB</cite></blockquote>
-<h4>(c) Human predestination is God's mystery, the importance of proclaiming the Word of God, the Covenant, Christ (the Robber, Judas) 1 Cor. 6:2</h4>
+<h4>(c) Human predestination is God's mystery, the importance of proclaiming the Word of God, the Covenant, and Christ (the robber, Judas) 1 Cor. 6:2</h4>
 <blockquote data-v="kjv"><p>Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the smallest matters?</p><cite>1 Cor. 6:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Do you not know that the saints will judge the world? And if you are to judge the world, are you not competent to judge trivial cases?</p><cite>1 Cor. 6:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Don’t you know that the saints will judge the world? And if the world is judged by you, are you unworthy to judge the smallest matters?</p><cite>1 Cor. 6:2 · WEB</cite></blockquote>
 <h3>(2) Correct understanding of human destiny</h3>
-<h4>(a) Life on earth with God – eternity with God (eternal life)</h4>
-<h4>(b) Life on earth outside of God – eternity outside of God (eternal destruction)</h4>
-<h4>(c) The quality and number of years of life is an incorrect (incomplete) understanding of human fate, the action of Satan</h4>
-<h3>(3) Fulfillment of God's plan, destiny of man Ps. 139:16,Prov. 29:26; 19:21</h3>
+<h4>(a) Life on earth with God is eternity with God (eternal life)</h4>
+<h4>(b) Life on earth outside of God is eternity outside of God (eternal destruction)</h4>
+<h4>(c) The quality and number of years of life is an incorrect (incomplete) understanding of human fate, an act of Satan</h4>
+<h3>(3) The fulfillment of God's plan, the fate of man Ps. 139:16,Prov. 29:26; 19:21</h3>
 <blockquote data-v="kjv"><p>Thine eyes did see my substance, yet being unperfect; and in thy book all my members were written, which in continuance were fashioned, when as yet there was none of them.</p><cite>Ps. 139:16 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Your eyes saw my unformed body; all my days were written in Your book and ordained for me before one of them came to be.</p><cite>Ps. 139:16 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Your eyes saw my body. In your book they were all written, the days that were ordained for me, when as yet there were none of them.</p><cite>Ps. 139:16 · WEB</cite></blockquote>
@@ -448,7 +450,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>Many plans are in a man’s heart, but the purpose of the LORD will prevail.</p><cite>Prov. 19:21 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>There are many plans in a man’s heart, but Yahweh’s counsel will prevail.</p><cite>Prov. 19:21 · WEB</cite></blockquote>
 <h4>(a) Epoch, birth and death, life circumstances</h4>
-<h4>(b) God's calling - God's sovereignty, schedule of times and meetings Luke 24:45,Acts 13:48; 16:14,1 Pet. 2:9,Rom. 8:28</h4>
+<h4>(b) God's calling – God's sovereignty, schedule of times and meetings Luke 24:45,Acts 13:48; 16:14,1 Pet. 2:9,Rom. 8:28</h4>
 <blockquote data-v="kjv"><p>Then opened he their understanding, that they might understand the scriptures,</p><cite>Luke 24:45 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Then He opened their minds to understand the Scriptures.</p><cite>Luke 24:45 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Then he opened their minds, that they might understand the Scriptures.</p><cite>Luke 24:45 · WEB</cite></blockquote>
@@ -464,8 +466,8 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And we know that all things work together for good to them that love God, to them who are the called according to his purpose.</p><cite>Rom. 8:28 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And we know that God works all things together for the good of those who love Him, who are called according to His purpose.</p><cite>Rom. 8:28 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>We know that all things work together for good for those who love God, for those who are called according to his purpose.</p><cite>Rom. 8:28 · WEB</cite></blockquote>
-<h4>(c) God is justification – the proclamation of the Covenant, Christ, the forgiveness of all sins</h4>
-<h4>(d) God glorification – introducing a person to the glory of God (intended)</h4>
+<h4>(c) God's justification is the presentation of the Covenant, Christ, and the forgiveness of all sins</h4>
+<h4>(d) God's glorification – introducing a person to the glory of God (intended)</h4>
 <h2 id="s5">Conclusion:</h2>
 <h3>(1) The importance of fulfilling the destiny of God's people</h3>
 <h3>(2) The importance of understanding God's sovereignty and control, God's schedule of time, and everyone's meetings</h3>

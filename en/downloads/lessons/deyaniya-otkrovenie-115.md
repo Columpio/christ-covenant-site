@@ -1,12 +1,12 @@
 # Heb. 11
-## 9.1) Heb. 11:1-2, - the importance of the Word of God, of the Covenant, of Christ for every human being
+## 9.1) Heb. 11:1-2, - the importance of the Word of God, the Covenant, and Christ for every human being
 > Now faith is the substance of things hoped for, the evidence of things not seen. For by it the elders obtained a good report. (Heb. 11:1-2, KJV)
 
 ### (1) Heb. 11:1, - the importance of understanding God's faith. Mark 11:23
 > Now faith is the substance of things hoped for, the evidence of things not seen. (Heb. 11:1, KJV)
 > For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith. (Mark 11:23, KJV)
 
-#### (a) The faith of God is the correct understanding and fulfillment of the Word of God, the Covenant, Christ
+#### (a) The faith of God is the correct understanding and fulfillment of the Word of God, the Covenant, and Christ
 
 #### (b) Human faith – misunderstanding and fulfillment of the Word of God, the Covenant, Christ Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
@@ -49,7 +49,7 @@
 - V.Z. – faith in the coming Christ and His Sacrifice for all sins
 - N.Z. – faith in Jesus of Nazareth as Christ and His Sacrifice for all human sins (past, present, future)
 
-#### (d) The level and power of God's faith – knowledge and transmission of the Word of God, the Covenant, Christ, fulfillment of destiny
+#### (d) The level and power of God's faith is the knowledge and transmission of the Word of God, the Covenant, Christ, and the fulfillment of destiny
 
 ### (4) God's faith is an act of God's grace
 
@@ -62,13 +62,13 @@
 #### (c) Acceptance of the Word of God, the Covenant, Christ (choice, acceptance of faith) Deut. 30:19
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
-#### (d) Obedience to the Word of God, the Covenant, Christ (destiny) 1 Tim. 2:4
+#### (d) Obedience to the Word of God, the Covenant, and Christ (purpose) 1 Tim. 2:4
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 
 #### (e) Hope, i.e. full trust in the Word of God, the Covenant, Christ Rom. 8:24-25
 > For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for? But if we hope for that we see not, then do we with patience wait for it. (Rom. 8:24-25, KJV)
 
-### (5) Heb. 11:2, - the importance of understanding the Word of God, the Covenant, Christ, the testimony of the Word of God about the faith of the ancients (Adam – Moses)
+### (5) Heb. 11:2, - the importance of understanding the Word of God, the Covenant, Christ, the testimony of the Word of God about the faith of the ancients (Adam –Moses)
 > For by it the elders obtained a good report. (Heb. 11:2, KJV)
 
 #### (a) Adam, Eve – faith in the Divinity of Christ and His Self-sufficient Sacrifice, in His coming (the faith of God)
@@ -82,7 +82,7 @@
 
 #### (b) The faith and choice of Moses – belonging to the people of God, renouncing the visible, understanding the coming of Christ from the people of God
 
-#### (c) The faith of Moses, acceptance of the Word of God, the Covenant, Christ – the fulfillment of Easter, understanding of the Sacrifice of Christ
+#### (c) The faith of Moses, acceptance of the Word of God, the Covenant, and Christ – the fulfillment of Easter, and understanding of Christ's Sacrifice
 
 #### (d) The faith of Moses – leaving Egypt, crossing the Red Sea, understanding the importance of Canaan, preparing for the coming of Christ
 
@@ -93,7 +93,7 @@
 
 #### (a) The importance of Canaan – the preparation of the coming of Christ, the importance of fulfilling the destiny of God's people
 
-#### (b) The fall of the walls of Jericho – the inevitability of the fulfillment of the Word of God, the Covenant, Christ, the fulfillment of God's plan, the understanding of God's sovereignty and control
+#### (b) The fall of the walls of Jericho – the inevitability of the fulfillment of the Word of God, the Covenant, of Christ, the fulfillment of God's plan, the understanding of God's sovereignty and control
 
 #### (c) The meaning of Joshua's faith is Christ
 
@@ -129,4 +129,4 @@
 
 ### (1) The Importance of Understanding God's Faith
 
-### (2) The importance of understanding and fulfilling the purpose – knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization
+### (2) The importance of understanding and fulfilling the purpose of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization

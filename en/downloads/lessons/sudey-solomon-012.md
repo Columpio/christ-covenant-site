@@ -1,6 +1,6 @@
 # 7. 1 Sam. 15: The Reign and Disobedience of Saul
 
-## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -12,9 +12,9 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-## 2) 1 Sam. 15, - the importance of understanding, fulfilling the Word of God, the Covenant, Christ
+## 2) 1 Sam. 15, - the importance of understanding and fulfilling the Word of God, the Covenant, and Christ
 
-### (1) 1 Sam. 15:1-9 (6), - non-acceptance of the Word of God, the Covenant, Christ, the judgment of God
+### (1) 1 Sam. 15:1-9 (6), - rejection of the Word of God, the Covenant, Christ, the judgment of God
 > Samuel also said unto Saul, The LORD sent me to anoint thee to be king over his people, over Israel: now therefore hearken thou unto the voice of the words of the LORD. Thus saith the LORD of hosts, I remember that which Amalek did to Israel, how he laid wait for him in the way, when he came up from Egypt. Now go and smite Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass. And Saul gathered the people together, and numbered them in Telaim, two hundred thousand footmen, and ten thousand men of Judah. And Saul came to a city of Amalek, and laid wait in the valley. And Saul said unto the Kenites, Go, depart, get you down from among the Amalekites, lest I destroy you with them: for ye shewed kindness to all the children of Israel, when they came up out of Egypt. So the Kenites departed from among the Amalekites. And Saul smote the Amalekites from Havilah until thou comest to Shur, that is over against Egypt. And he took Agag the king of the Amalekites alive, and utterly destroyed all the people with the edge of the sword. But Saul and the people spared Agag, and the best of the sheep, and of the oxen, and of the fatlings, and the lambs, and all that was good, and would not utterly destroy them: but every thing that was vile and refuse, that they destroyed utterly. (1 Sam. 15:1-9, KJV)
 
 #### (a) Amalek – descendants of Esau, resisting the people of God Gen. 36:12
@@ -26,16 +26,16 @@
 ### (2) 1 Sam. 15:10-23 (12), - distortion of the Word of God, the Covenant, Christ
 > Then came the word of the LORD unto Samuel, saying, It repenteth me that I have set up Saul to be king: for he is turned back from following me, and hath not performed my commandments. And it grieved Samuel; and he cried unto the LORD all night. And when Samuel rose early to meet Saul in the morning, it was told Samuel, saying, Saul came to Carmel, and, behold, he set him up a place, and is gone about, and passed on, and gone down to Gilgal. And Samuel came to Saul: and Saul said unto him, Blessed be thou of the LORD: I have performed the commandment of the LORD. And Samuel said, What meaneth then this bleating of the sheep in mine ears, and the lowing of the oxen which I hear? And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto the LORD thy God; and the rest we have utterly destroyed. Then Samuel said unto Saul, Stay, and I will tell thee what the LORD hath said to me this night. And he said unto him, Say on. And Samuel said, When thou wast little in thine own sight, wast thou not made the head of the tribes of Israel, and the LORD anointed thee king over Israel? And the LORD sent thee on a journey, and said, Go and utterly destroy the sinners the Amalekites, and fight against them until they be consumed. Wherefore then didst thou not obey the voice of the LORD, but didst fly upon the spoil, and didst evil in the sight of the LORD? And Saul said unto Samuel, Yea, I have obeyed the voice of the LORD, and have gone the way which the LORD sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites. But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto the LORD thy God in Gilgal. And Samuel said, Hath the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams. For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the LORD, he hath also rejected thee from being king. (1 Sam. 15:10-23, KJV)
 
-#### (a) 1 Sam. 15:10-19, is a distortion of the Word of God, a person's right to choose
+#### (a) 1 Sam. 15:10-19, - distortion of the Word of God, the right to choose a person
 > Then came the word of the LORD unto Samuel, saying, It repenteth me that I have set up Saul to be king: for he is turned back from following me, and hath not performed my commandments. And it grieved Samuel; and he cried unto the LORD all night. And when Samuel rose early to meet Saul in the morning, it was told Samuel, saying, Saul came to Carmel, and, behold, he set him up a place, and is gone about, and passed on, and gone down to Gilgal. And Samuel came to Saul: and Saul said unto him, Blessed be thou of the LORD: I have performed the commandment of the LORD. And Samuel said, What meaneth then this bleating of the sheep in mine ears, and the lowing of the oxen which I hear? And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto the LORD thy God; and the rest we have utterly destroyed. Then Samuel said unto Saul, Stay, and I will tell thee what the LORD hath said to me this night. And he said unto him, Say on. And Samuel said, When thou wast little in thine own sight, wast thou not made the head of the tribes of Israel, and the LORD anointed thee king over Israel? And the LORD sent thee on a journey, and said, Go and utterly destroy the sinners the Amalekites, and fight against them until they be consumed. Wherefore then didst thou not obey the voice of the LORD, but didst fly upon the spoil, and didst evil in the sight of the LORD? (1 Sam. 15:10-19, KJV)
 
 #### (b) 1 Sam. 15:12, - Saul's vanity, personal monument
 > And when Samuel rose early to meet Saul in the morning, it was told Samuel, saying, Saul came to Carmel, and, behold, he set him up a place, and is gone about, and passed on, and gone down to Gilgal. (1 Sam. 15:12, KJV)
 
-#### (c) 1 Sam. 15:20-21, - sworn for sacrifice, violation of the Word of God
+#### (c) 1 Sam. 15:20-21, is a sworn sacrifice, a violation of the Word of God
 > And Saul said unto Samuel, Yea, I have obeyed the voice of the LORD, and have gone the way which the LORD sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites. But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto the LORD thy God in Gilgal. (1 Sam. 15:20-21, KJV)
 
-#### (d) 1 Sam. 15:22-23, - disobedience of the Word of God is disobedience to God (The service of the king, not the priest, is the understanding of destiny.)
+#### (d) 1 Sam. 15:22-23, - disobedience to the Word of God is resisting God (Serving a king, not a priest is an understanding of destiny.)
 > And Samuel said, Hath the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams. For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of the LORD, he hath also rejected thee from being king. (1 Sam. 15:22-23, KJV)
 
 ### (3) 1 Sam. 15:24-31, is the sinful essence of man
@@ -53,7 +53,7 @@
 ### (4) 1 Sam. 15:32-35, - fulfillment of the Word of God, the right to choose a person
 > Then said Samuel, Bring ye hither to me Agag the king of the Amalekites. And Agag came unto him delicately. And Agag said, Surely the bitterness of death is past. And Samuel said, As thy sword hath made women childless, so shall thy mother be childless among women. And Samuel hewed Agag in pieces before the LORD in Gilgal. Then Samuel went to Ramah; and Saul went up to his house to Gibeah of Saul. And Samuel came no more to see Saul until the day of his death: nevertheless Samuel mourned for Saul: and the LORD repented that he had made Saul king over Israel. (1 Sam. 15:32-35, KJV)
 
-#### (a) 1 Sam. 15:32-33, - death of Agag, non-acceptance of the Word of God, the Covenant, Christ
+#### (a) 1 Sam. 15:32-33, - death of Agag, rejection of the Word of God, the Covenant, Christ
 > Then said Samuel, Bring ye hither to me Agag the king of the Amalekites. And Agag came unto him delicately. And Agag said, Surely the bitterness of death is past. And Samuel said, As thy sword hath made women childless, so shall thy mother be childless among women. And Samuel hewed Agag in pieces before the LORD in Gilgal. (1 Sam. 15:32-33, KJV)
 
 #### (b) 1 Sam. 15:34-35, - lack of communication with Samuel, inaccurate fulfillment of the Word of God by Saul, God's testing of man and his faith
@@ -61,7 +61,7 @@
 
 - (1st time – distrust of God, 2nd time – disobedience and resistance to God, both times attempts at justification, complete lack of confession of sins)
 
-## 3) Obedience or disobedience The Word of God is the right choice and responsibility of every human being
+## 3) Obedience or disobedience to the Word of God is every person's right of choice and responsibility.
 
 ### (1) Disobedience To The Commandments Of the Covenant. (Adam, Cain, Esau, the people of God, Galatians)
 
@@ -70,8 +70,8 @@
 ### (3) Disobedience to the purpose of God's people (Abraham, Moses, Saul)
 
 ## Result:
-- Obedience to the Word of God is good for man
-- Disobedience of God's Word – Problems and Ruin
+- Obeying the Word of God is good for man
+- Disobedience to the Word of God is trouble and ruin
 
 ## Conclusion:
 

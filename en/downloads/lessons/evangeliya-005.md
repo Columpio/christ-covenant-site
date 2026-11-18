@@ -24,21 +24,21 @@
 
 #### (a) The temptation to be visible is a person's physical needs
 
-#### (b) The importance of fulfilling the will of God – the transmission of the Word of God, the Covenant, Christ
+#### (b) The importance of doing God's will – conveying God's Word, Covenant, and Christ
 
 ### (2) Matt. 4:5-7, - importance of the Word of God, the Covenant, Christ (priority)
 > Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple, And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone. Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God. (Matt. 4:5-7, KJV)
 
-#### (a) The temptation to be seen – miracles, omens, mysticism. (Do not seek signs and wonders from God – the foundation is the Word of God)
+#### (a) The temptation to be seen – miracles, omens, mysticism. (Not seeking signs and wonders from God is the foundation of God's Word)
 
-#### (b) The importance of fulfilling the will of God – the transmission of the Word of God, the Covenant, Christ
+#### (b) The importance of doing God's will – conveying God's Word, Covenant, and Christ
 
 ### (3) Matt. 4:8-11, - importance of the Word of God, the Covenant, Christ (priority)
 > Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them; And saith unto him, All these things will I give thee, if thou wilt fall down and worship me. Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve. Then the devil leaveth him, and, behold, angels came and ministered unto him. (Matt. 4:8-11, KJV)
 
 #### (a) The temptation to be visible – pride, ambition
 
-#### (b) The importance of fulfilling the will of God – the transmission of the Word of God, the Covenant, the Christ (The importance of the Cross, the redemption of man, the service of God). Matt. 16:21
+#### (b) The importance of fulfilling God's will is the transmission of the Word of God, the Covenant, and Christ (the importance of the Cross, human redemption, and service to God). Matt. 16:21
 > From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day. (Matt. 16:21, KJV)
 
 ### (4) The importance of understanding human temptation
@@ -55,7 +55,7 @@
 
 #### (b) Human inadequacy, sin. (Adam's exam)
 
-#### (c) The importance of death and resurrection from the dead for the people of God
+#### (c) The importance of death and resurrection from the dead for God's people
 
 ## 3) The importance of faithfulness and dedication to God
 
@@ -65,11 +65,11 @@
 ### (2) The influence of the world. Ps. 73:1-17. (Emphasis on the visible – family, finances, worries, etc.)
 > A Psalm of Asaph. Truly God is good to Israel, even to such as are of a clean heart. But as for me, my feet were almost gone; my steps had well nigh slipped. For I was envious at the foolish, when I saw the prosperity of the wicked. For there are no bands in their death: but their strength is firm. They are not in trouble as other men; neither are they plagued like other men. Therefore pride compasseth them about as a chain; violence covereth them as a garment. Their eyes stand out with fatness: they have more than heart could wish. They are corrupt, and speak wickedly concerning oppression: they speak loftily. They set their mouth against the heavens, and their tongue walketh through the earth. Therefore his people return hither: and waters of a full cup are wrung out to them. And they say, How doth God know? and is there knowledge in the most High? Behold, these are the ungodly, who prosper in the world; they increase in riches. Verily I have cleansed my heart in vain, and washed my hands in innocency. For all the day long have I been plagued, and chastened every morning. If I say, I will speak thus; behold, I should offend against the generation of thy children. When I thought to know this, it was too painful for me; Until I went into the sanctuary of God; then understood I their end. (Ps. 73:1-17, KJV)
 
-### (3) The influence of Satan and demons is another word. 1 Pet. 5:8,Col. 2:8. (Proclaiming false teachings, tempting and deceiving the people of God)
+### (3) The influence of Satan and demons is another word. 1 Pet. 5:8,Col. 2:8. (Proclaiming false teachings, tempting and deceiving God's people)
 > Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: (1 Pet. 5:8, KJV)
 > Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ. (Col. 2:8, KJV)
 
-### (4) The temptations of God's people – God's acceptance, understanding of the human right to choose, the importance of preserving the Word of God, the Covenant, and Christ until the moment of separation of soul and body. Heb. 3:12-14,2 Pet. 3:17
+### (4) The temptations of God's people are God's acceptance, understanding of man's right to choose, and the importance of preserving God's Word, Covenant, and Christ until the moment of separation of soul and body. Heb. 3:12-14,2 Pet. 3:17
 > Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God. But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin. For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end; (Heb. 3:12-14, KJV)
 > Ye therefore, beloved, seeing ye know these things before, beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness. (2 Pet. 3:17, KJV)
 
@@ -77,7 +77,7 @@
 > Now when Jesus had heard that John was cast into prison, he departed into Galilee; And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim: That it might be fulfilled which was spoken by Esaias the prophet, saying, The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles; The people which sat in darkness saw great light; and to them which sat in the region and shadow of death light is sprung up. From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand. And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers. And he saith unto them, Follow me, and I will make you fishers of men. And they straightway left their nets, and followed him. And going on from thence, he saw other two brethren, James the son of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them. And they immediately left the ship and their father, and followed him. And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people. And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them. And there followed him great multitudes of people from Galilee, and from Decapolis, and from Jerusalem, and from Judaea, and from beyond Jordan. (Matt. 4:12-25, KJV)
 > Again the next day after John stood, and two of his disciples; And looking upon Jesus as he walked, he saith, Behold the Lamb of God! And the two disciples heard him speak, and they followed Jesus. Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou? He saith unto them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour. One of the two which heard John speak, and followed him, was Andrew, Simon Peter’s brother. He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ. And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone. The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me. Now Philip was of Bethsaida, the city of Andrew and Peter. Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph. And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see. Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile! Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee. Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel. Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these. And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man. (John 1:35-51, KJV)
 
-### (1) The Fulfillment of the Word of God Matt. 5:17,Rom. 6:23
+### (1) Fulfillment of the Word of God Matt. 5:17,Rom. 6:23
 > Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil. (Matt. 5:17, KJV)
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
@@ -93,4 +93,4 @@
 
 ### (3) The importance of faithfulness and dedication to God
 
-### (4) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization
+### (4) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization

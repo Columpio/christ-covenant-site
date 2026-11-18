@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -293,7 +295,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>that if you will confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.</p><cite>Rom. 10:9 · WEB</cite></blockquote>
 <h4>(b) The importance of equality and brotherhood – the family of God</h4>
 <h4>(c) The importance of the Disciple is God's sovereignty</h4>
-<h4>(d) The importance of finance – knowledge and transmission of the Word of God, the Covenant, Christ</h4>
+<h4>(d) The importance of finance – the knowledge and transmission of the Word of God, the Covenant, and Christ</h4>
 <h4>(e) Human methods – hypocrisy, collapse</h4>
 <h3>(2) Jas. 2:10-13, - the importance of understanding the Law correctly</h3>
 <blockquote data-v="kjv"><p>For whosoever shall keep the whole law, and yet offend in one point, he is guilty of all. For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law. So speak ye, and so do, as they that shall be judged by the law of liberty. For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment.</p><cite>Jas. 2:10-13 · KJV</cite></blockquote>
@@ -303,12 +305,12 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For whosoever shall keep the whole law, and yet offend in one point, he is guilty of all. For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law.</p><cite>Jas. 2:10-11 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Whoever keeps the whole law but stumbles at just one point is guilty of breaking all of it. For He who said, “Do not commit adultery,” also said, “Do not murder.” If you do not commit adultery, but do commit murder, you have become a lawbreaker.</p><cite>Jas. 2:10-11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For whoever keeps the whole law, and yet stumbles in one point, he has become guilty of all. For he who said, “Do not commit adultery,” also said, “Do not commit murder.” Now if you do not commit adultery but do murder, you have become a transgressor of the law.</p><cite>Jas. 2:10-11 · WEB</cite></blockquote>
-<h4>(b) Jas. 2:12-13, - understanding the "law of freedom" and the "judgment of mercy" (Christ's sacrifice and Feat – God is love, mercy and grace)</h4>
+<h4>(b) Jas. 2:12-13, - understanding the "law of freedom" and the "judgment of mercy" (Christ's sacrifice and Feat – God's love, mercy and grace)</h4>
 <blockquote data-v="kjv"><p>So speak ye, and so do, as they that shall be judged by the law of liberty. For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment.</p><cite>Jas. 2:12-13 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Speak and act as those who are going to be judged by the law that gives freedom. For judgment without mercy will be shown to anyone who has not been merciful. Mercy triumphs over judgment.</p><cite>Jas. 2:12-13 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>So speak and so do as men who are to be judged by the law of freedom. For judgment is without mercy to him who has shown no mercy. Mercy triumphs over judgment.</p><cite>Jas. 2:12-13 · WEB</cite></blockquote>
 <h4>(c) The importance of understanding the purpose of the Law and Bl. Lead</h4>
-<h2 id="s2">3) Works of Faith – knowledge and transmission of the Word of God, the Covenant, Christ</h2>
+<h2 id="s2">3) Works of Faith – knowledge and transmission of the Word of God, the Covenant, and Christ</h2>
 <h3>(1) Jas. 2:14-26, - examples of Works of Faith</h3>
 <blockquote data-v="kjv"><p>What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him? If a brother or sister be naked, and destitute of daily food, And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit? Even so faith, if it hath not works, is dead, being alone. Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works. Thou believest that there is one God; thou doest well: the devils also believe, and tremble. But wilt thou know, O vain man, that faith without works is dead? Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar? Seest thou how faith wrought with his works, and by works was faith made perfect? And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God. Ye see then how that by works a man is justified, and not by faith only. Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way? For as the body without the spirit is dead, so faith without works is dead also.</p><cite>Jas. 2:14-26 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>What good is it, my brothers, if someone claims to have faith, but has no deeds? Can such faith save him? Suppose a brother or sister is without clothes and daily food. If one of you tells him, “Go in peace; stay warm and well fed,” but does not provide for his physical needs, what good is that? So too, faith by itself, if it does not result in action, is dead. But someone will say, “You have faith and I have deeds.” Show me your faith without deeds, and I will show you my faith by my deeds. You believe that God is one. Good for you! Even the demons believe that—and shudder. O foolish man, do you want evidence that faith without deeds is worthless? Was not our father Abraham justified by what he did when he offered his son Isaac on the altar? You see that his faith was working with his actions, and his faith was perfected by what he did. And the Scripture was fulfilled that says, “Abraham believed God, and it was credited to him as righteousness,” and he was called a friend of God. As you can see, a man is justified by his deeds and not by faith alone. In the same way, was not even Rahab the prostitute justified by her actions when she welcomed the spies and sent them off on another route? As the body without the spirit is dead, so faith without deeds is dead.</p><cite>Jas. 2:14-26 · BSB</cite></blockquote>
@@ -320,12 +322,12 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also.</p><cite>2 Tim. 2:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And the things that you have heard me say among many witnesses, entrust these to faithful men who will be qualified to teach others as well.</p><cite>2 Tim. 2:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>The things which you have heard from me among many witnesses, commit the same things to faithful men who will be able to teach others also.</p><cite>2 Tim. 2:2 · WEB</cite></blockquote>
-<h4>(b) Faith of demons – resistance to knowledge and transmission of the Word of God, the Covenant, Christ</h4>
-<h4>(c) The Faith of Abraham – the knowledge and transmission of the Word of God, the Covenant, Christ Heb. 11:17-19</h4>
+<h4>(b) The faith of demons is resistance to the knowledge and transmission of the Word of God, the Covenant, of Christ</h4>
+<h4>(c) The faith of Abraham is the knowledge and transmission of the Word of God, the Covenant, and Christ Heb. 11:17-19</h4>
 <blockquote data-v="kjv"><p>By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten son, Of whom it was said, That in Isaac shall thy seed be called: Accounting that God was able to raise him up, even from the dead; from whence also he received him in a figure.</p><cite>Heb. 11:17-19 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>By faith Abraham, when he was tested, offered up Isaac on the altar. He who had received the promises was ready to offer his one and only son, even though God had said to him, “Through Isaac your offspring will be reckoned.” Abraham reasoned that God could raise the dead, and in a sense, he did receive Isaac back from death.</p><cite>Heb. 11:17-19 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>By faith, Abraham, being tested, offered up Isaac. Yes, he who had gladly received the promises was offering up his only born son, to whom it was said, “Your offspring will be accounted as from Isaac,” concluding that God is able to raise up even from the dead. Figuratively speaking, he also did receive him back from the dead.</p><cite>Heb. 11:17-19 · WEB</cite></blockquote>
-<h4>(d) Faith of Rahab – acceptance (knowledge) and transmission of the Word of God, the Covenant, Christ (Spies, a matter of life and death, Canaan, World Evangelization, rod Christ) Heb. 11:31,Josh. 2:9-11</h4>
+<h4>(d) Faith of Rahab – acceptance (knowledge) and transmission of the Word of God, the Covenant, Christ (Spies, a matter of life and death, Canaan, World Evangelization, the Christ family) Heb. 11:31,Josh. 2:9-11</h4>
 <blockquote data-v="kjv"><p>By faith the harlot Rahab perished not with them that believed not, when she had received the spies with peace.</p><cite>Heb. 11:31 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>By faith the prostitute Rahab, because she welcomed the spies in peace, did not perish with those who were disobedient.</p><cite>Heb. 11:31 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>By faith Rahab the prostitute didn’t perish with those who were disobedient, having received the spies in peace.</p><cite>Heb. 11:31 · WEB</cite></blockquote>
@@ -364,7 +366,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; And ye shall know the truth, and the truth shall make you free.</p><cite>John 8:31-32 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So He said to the Jews who had believed Him, “If you continue in My word, you are truly My disciples. Then you will know the truth, and the truth will set you free.”</p><cite>John 8:31-32 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Jesus therefore said to those Jews who had believed him, “If you remain in my word, then you are truly my disciples. You will know the truth, and the truth will make you free.”</p><cite>John 8:31-32 · WEB</cite></blockquote>
-<h4>(c) Transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization Matt. 28:19-20</h4>
+<h4>(c) Transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization Matt. 28:19-20</h4>
 <blockquote data-v="kjv"><p>Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.</p><cite>Matt. 28:19-20 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey all that I have commanded you. And surely I am with you always, even to the end of the age.”</p><cite>Matt. 28:19-20 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all things that I commanded you. Behold, I am with you always, even to the end of the age.” Amen.</p><cite>Matt. 28:19-20 · WEB</cite></blockquote>
@@ -405,7 +407,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h3>(2) The right motivation is the right life, service to God</h3>
 <h3>(3) The importance of distinguishing between works of Faith and works of Law</h3>
 <h4>(a) The works of Faith are not based on the works of the Law – the impossibility of 100% fulfillment of the Commandments of the Law by man</h4>
-<h4>(b) Works of Faith – knowledge and transmission of the Word of God, the Covenant, Christ Result: personal salvation and salvation to other people</h4>
+<h4>(b) Works of Faith – knowledge and transmission of the Word of God, the Covenant, and Christ Result: personal salvation and salvation to others</h4>
 <h4>(c) Works of the Law ("mixed gospel") – to earn salvation</h4>
 <ul>
 <li>The result: there is no personal salvation and there is no salvation for other people.</li>
@@ -422,7 +424,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>But after that the kindness and love of God our Saviour toward man appeared, Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost; Which he shed on us abundantly through Jesus Christ our Saviour; That being justified by his grace, we should be made heirs according to the hope of eternal life. This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men.</p><cite>Titus 3:4-8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But when the kindness of God our Savior and His love for mankind appeared, He saved us, not by the righteous deeds we had done, but according to His mercy, through the washing of new birth and renewal by the Holy Spirit. This is the Spirit He poured out on us abundantly through Jesus Christ our Savior, so that, having been justified by His grace, we would become heirs with the hope of eternal life. This saying is trustworthy. And I want you to emphasize these things, so that those who have believed God will take care to devote themselves to good deeds. These things are excellent and profitable for the people.</p><cite>Titus 3:4-8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But when the kindness of God our Savior and his love toward mankind appeared, not by works of righteousness which we did ourselves, but according to his mercy, he saved us through the washing of regeneration and renewing by the Holy Spirit, whom he poured out on us richly through Jesus Christ our Savior; that being justified by his grace, we might be made heirs according to the hope of eternal life. This saying is faithful, and concerning these things I desire that you insist confidently, so that those who have believed God may be careful to maintain good works. These things are good and profitable to men;</p><cite>Titus 3:4-8 · WEB</cite></blockquote>
-<h3>(1) The right motivation is the transmission of the Word of God, the glorification of God</h3>
+<h3>(1) The right motivation is the transmission of God's Word, the glorification of God</h3>
 <h3>(2) Wrong motivation – Earning salvation</h3>
 <h2 id="s5">Conclusion:</h2>
 <h3>(1) The importance of Understanding God's Non-Acceptance</h3>

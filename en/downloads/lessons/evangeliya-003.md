@@ -49,7 +49,7 @@
 #### (a) Luke 1:34, - Mary's faith in the coming Messiah, Christ, but misunderstanding of details (weak Theology)
 > Then said Mary unto the angel, How shall this be, seeing I know not a man? (Luke 1:34, KJV)
 
-#### (b) Luke 1:48, - understanding the importance of fulfilling a special purpose for the sake of fulfilling the Word of God, the Covenant, Christ
+#### (b) Luke 1:48, - understanding the importance of fulfilling a special purpose for the fulfillment of the Word of God, the Covenant, and Christ
 > For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed. (Luke 1:48, KJV)
 
 #### (c) Luke 2:35, - Simeon's prediction about the death of Christ, Mary will suffer greatly watching the fulfillment of the Word of God, the death of Christ will reveal the understanding and faith of many people
@@ -68,7 +68,7 @@
 > Then saith Jesus unto them, All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep of the flock shall be scattered abroad. (Matt. 26:31, KJV)
 > Now upon the first day of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain others with them. And they found the stone rolled away from the sepulchre. And they entered in, and found not the body of the Lord Jesus. And it came to pass, as they were much perplexed thereabout, behold, two men stood by them in shining garments: And as they were afraid, and bowed down their faces to the earth, they said unto them, Why seek ye the living among the dead? He is not here, but is risen: remember how he spake unto you when he was yet in Galilee, Saying, The Son of man must be delivered into the hands of sinful men, and be crucified, and the third day rise again. And they remembered his words, And returned from the sepulchre, and told all these things unto the eleven, and to all the rest. It was Mary Magdalene, and Joanna, and Mary the mother of James, and other women that were with them, which told these things unto the apostles. (Luke 24:1-10, KJV)
 
-#### (c) The importance of the Word of God, the Covenant, Christ and the Grace of God for man – Adam, Solomon, John the Baptist, Mary
+#### (c) The importance of the Word of God, the Covenant, Christ and the grace of God for man – Adam, Solomon, John the Baptist, Mary
 
 ## 4) Heresies concerning Mary
 
@@ -149,7 +149,7 @@
 > Man that is born of a woman is of few days, and full of trouble. He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not. And dost thou open thine eyes upon such an one, and bringest me into judgment with thee? Who can bring a clean thing out of an unclean? not one. Seeing his days are determined, the number of his months are with thee, thou hast appointed his bounds that he cannot pass; (Job 14:1-5, KJV)
 
 ## Result:
-- The importance of understanding Satan's actions is an attempt to create an idol out of things, Angels, or prominent people from God's people to distract attention from the True, The Holy, Triune God and the Only Begotten Son of God, Jesus Christ, and for vile idolatry (a complete violation of the Word of God)
+- The importance of understanding Satan's actions is trying to create an idol out of things, Angels, or prominent people from God's people to distract attention from the True, Of the Holy, Triune God and the Only Begotten Son of God, Jesus Christ, and for vile idolatry (a complete violation of the Word of God)
 
 ### (1) A copper serpent, the remains of a wooden cross, a shroud, etc. 2 Kgs. 18:1-4,Isa. 44:9-17
 > Now it came to pass in the third year of Hoshea son of Elah king of Israel, that Hezekiah the son of Ahaz king of Judah began to reign. Twenty and five years old was he when he began to reign; and he reigned twenty and nine years in Jerusalem. His mother’s name also was Abi, the daughter of Zachariah. And he did that which was right in the sight of the LORD, according to all that David his father did. He removed the high places, and brake the images, and cut down the groves, and brake in pieces the brasen serpent that Moses had made: for unto those days the children of Israel did burn incense to it: and he called it Nehushtan. (2 Kgs. 18:1-4, KJV)
@@ -168,7 +168,7 @@
 
 ### (1) A creation of God, a saved man, a sister in the Lord
 
-### (2) Recognition of the successful fulfillment of a particularly important purpose of God in the fulfillment of the Word of God, the Covenant, Christ
+### (2) Recognition of the successful fulfillment of a particularly important purpose of God in fulfilling the Word of God, the Covenant, and Christ
 
 ### (3) Meeting and communication in the Central Office
 
@@ -176,6 +176,6 @@
 
 ### (1) The importance of understanding the Uniqueness of Christ for man
 
-### (2) The importance of knowing and transmitting the Word of God, the Covenant, Christ, the purity of the Word of God
+### (2) The importance of knowing and transmitting the Word of God, the Covenant, Christ, and the purity of the Word of God
 
 ### (3) The importance of understanding Satan's actions

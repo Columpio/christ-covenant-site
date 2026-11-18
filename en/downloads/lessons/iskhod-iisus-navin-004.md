@@ -1,6 +1,6 @@
 # 4. Ex. 8–11: The Importance of Understanding God's Judgments
 
-## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21. (Adam – Seth – Noah – Abraham – Isaac – Jacob – The 12 Tribes of Israel)
+## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21. (Adam – Seth – Noah – Abraham – Isaac – Jacob – The 12 Tribes of Israel)
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -24,10 +24,10 @@
 
 ### (1) Pharaoh, Egypt – the prototype of Satan and the fallen world
 
-### (2) The Magi (John, Jambry) – priests, false teachers (spiritual authority in Egypt), resistance to the Word of God, the Covenant, Christ (serpent, staff – a symbol of power and authority in ancient Egypt). 2 Tim. 3:8
+### (2) The Magi (John, Jambry) – priests, false teachers (spiritual authority in Egypt), opposition to the Word of God, the Covenant, Christ (serpent, staff – a symbol of power and authority in ancient Egypt). 2 Tim. 3:8
 > Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith. (2 Tim. 3:8, KJV)
 
-## 4) Ex. 7-11, - non-acceptance of the Word of God, the Covenant, Christ, 10 plagues, the judgment of God
+## 4) Ex. 7-11, - rejection of the Word of God, the Covenant, Christ, 10 plagues, the judgment of God
 
 ### (1) Ex. 7:13-25, - Osiris, god of the Nile, giver of life (water in the blood)
 > And he hardened Pharaoh’s heart, that he hearkened not unto them; as the LORD had said. And the LORD said unto Moses, Pharaoh’s heart is hardened, he refuseth to let the people go. Get thee unto Pharaoh in the morning; lo, he goeth out unto the water; and thou shalt stand by the river’s brink against he come; and the rod which was turned to a serpent shalt thou take in thine hand. And thou shalt say unto him, The LORD God of the Hebrews hath sent me unto thee, saying, Let my people go, that they may serve me in the wilderness: and, behold, hitherto thou wouldest not hear. Thus saith the LORD, In this thou shalt know that I am the LORD: behold, I will smite with the rod that is in mine hand upon the waters which are in the river, and they shall be turned to blood. And the fish that is in the river shall die, and the river shall stink; and the Egyptians shall lothe to drink of the water of the river. And the LORD spake unto Moses, Say unto Aaron, Take thy rod, and stretch out thine hand upon the waters of Egypt, upon their streams, upon their rivers, and upon their ponds, and upon all their pools of water, that they may become blood; and that there may be blood throughout all the land of Egypt, both in vessels of wood, and in vessels of stone. And Moses and Aaron did so, as the LORD commanded; and he lifted up the rod, and smote the waters that were in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that were in the river were turned to blood. And the fish that was in the river died; and the river stank, and the Egyptians could not drink of the water of the river; and there was blood throughout all the land of Egypt. And the magicians of Egypt did so with their enchantments: and Pharaoh’s heart was hardened, neither did he hearken unto them; as the LORD had said. And Pharaoh turned and went into his house, neither did he set his heart to this also. And all the Egyptians digged round about the river for water to drink; for they could not drink of the water of the river. And seven days were fulfilled, after that the LORD had smitten the river. (Ex. 7:13-25, KJV)
@@ -63,7 +63,7 @@
 
 ### (1) The importance of condemning idolatry (false gods)
 
-### (2) The Importance of Communicating the Word of God, Covenant, Christ, World Evangelism Ex. 8:19, 22; 9:11, 18-21, 26; 10:7; 9:13-16 (9:13-16)
+### (2) The Importance of transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization Ex. 8:19, 22; 9:11, 18-21, 26; 10:7; 9:13-16 (9:13-16)
 > Then the magicians said unto Pharaoh, This is the finger of God: and Pharaoh’s heart was hardened, and he hearkened not unto them; as the LORD had said. (Ex. 8:19, KJV)
 > And I will sever in that day the land of Goshen, in which my people dwell, that no swarms of flies shall be there; to the end thou mayest know that I am the LORD in the midst of the earth. (Ex. 8:22, KJV)
 > And the magicians could not stand before Moses because of the boils; for the boil was upon the magicians, and upon all the Egyptians. (Ex. 9:11, KJV)
@@ -74,12 +74,12 @@
 
 ### (3) Rejection of the Word of God, the Covenant, Christ – suffering, death
 
-### (4) Acceptance of the Word of God, the Covenant, Christ – absence of plagues (land of Goshen)
+### (4) Acceptance of the Word of God, the Covenant, and Christ – absence of plagues (land of Goshen)
 
 ## Conclusion:
 
-### (1) The Importance of Understanding God's Sovereignty (fulfilling God's Word)
+### (1) The Importance of understanding God's Sovereignty (fulfilling God's Word)
 
-### (2) The importance of understanding and fulfilling purpose. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+### (2) The importance of understanding and fulfilling the purpose. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 
 ### (3) The importance of understanding Satan's actions

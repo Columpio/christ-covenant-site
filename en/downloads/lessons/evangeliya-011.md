@@ -18,12 +18,12 @@
 
 ### (3) Wrong motives of charity (human support) – self-aggrandizement, earning salvation (religion)
 
-### (4) The right motives of alms (human support) – the transmission of the Word of God, the Covenant, Christ, the salvation of man (God's reward)
+### (4) The right motives of charity (human support) are the transmission of the Word of God, the Covenant, Christ, the salvation of man (God's reward)
 
 ## 2) Matt. 6:5-8, - the importance of understanding prayer correctly
 > And when thou prayest, thou shalt not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward. But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly. But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking. Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him. (Matt. 6:5-8, KJV)
 
-### (1) Prayer – communion with God through the Word of God, the Covenant, Christ
+### (1) Prayer is communion with God through the Word of God, the Covenant, and Christ
 
 ### (2) Incorrect prayer – self-aggrandizement (ostentation), earning salvation (religion), the emphasis of prayer on the visible (verbosity), misunderstanding of God's sovereignty and control of every person's life (pagan prayer). Matt. 6:7-8, 31-32
 > But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking. Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him. (Matt. 6:7-8, KJV)
@@ -40,16 +40,16 @@
 ## 3) Matt. 6:9-13, - The Lord's Prayer (Our Father)
 > After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done in earth, as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen. (Matt. 6:9-13, KJV)
 
-### (1) Matt. 6:9, - understanding the Word of God, the Covenant, Christ
+### (1) Matt. 6:9, - understanding the Word of God, the Covenant, and Christ
 > After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name. (Matt. 6:9, KJV)
 
 #### (a) God the Father is a child of God (status), acceptance of the Sacrifice of Christ, confidence in the forgiveness of all sins and salvation, justification, adoption and acceptance of man into the family of God. (The importance of understanding the difference between the Creator and the Father)
 
 #### (b) Being in heaven – the importance of understanding spiritual reality (the eternity of the invisible, the temporality of the earthly)
 
-#### (c) Hallowed be Thy name – glorification of God (make known), knowledge and transmission of the Word of God, the Covenant, Christ, faith and service to God. (Understanding: Who is Xp?The purpose of His visit?What is His will?)
+#### (c) Hallowed be Thy name – the glorification of God (to make known), the knowledge and transmission of the Word of God, the Covenant, Christ, faith and service to God. (Understanding: Who is Xp?The purpose of His visit?What is His will?)
 
-### (2) Matt. 6:10, - knowledge and transmission of the Covenant, Christ, World Evangelization, disciples
+### (2) Matt. 6:10, - knowledge and transmission of the Covenant, Christ, Worldwide Evangelization, disciples
 > Thy kingdom come. Thy will be done in earth, as it is in heaven. (Matt. 6:10, KJV)
 
 #### (a) The coming of C.B. into my life – the knowledge and transmission of the Word of God
@@ -66,7 +66,7 @@
 ### (3) Matt. 6:11, - the importance of the Word of God, the Covenant, Christ, all the answers for man
 > Give us this day our daily bread. (Matt. 6:11, KJV)
 
-#### (a) The vital importance of the Word of God, of the Covenant, of Christ to every human being
+#### (a) The vital importance of the Word of God, the Covenant, and Christ for every human being
 
 #### (b) God is the Lord, the Source and Giver of all answers for life. (Spiritual, mental and physical needs of a person)
 
@@ -79,23 +79,23 @@
 
 #### (c) Understanding the Word of God, the Covenant, and Christ is the ability to forgive people. (The effect of God's grace in the life of a saved person)
 
-### (5) Matt. 6:13, - affirmation of the Word of God, the Covenant, Christ
+### (5) Matt. 6:13, is the affirmation of the Word of God, the Covenant, and Christ
 > And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen. (Matt. 6:13, KJV)
 
 #### (a) Understanding the influence of the remnants of the sinful essence of God's people, God's control over the lives of God's children (temptations)
 
-#### (b) God's sovereignty and control of Satan's actions, the importance of understanding God's protection of God's people, and confidence in God's guidance and victory
+#### (b) God's sovereignty and control over Satan's actions, the importance of understanding God's protection of God's people, and confidence in God's guidance and victory
 
 #### (c) God is the King of Kings and Lord of Lords
 
 #### (d) Everything visible and invisible is God's control and management
 
-#### (e) All glory belongs only to God – the importance of understanding God's love and mercy, understanding the Word of God, the Covenant, Christ
+#### (e) All glory belongs only to God – the importance of understanding God's love and mercy, understanding the Word of God, the Covenant, and Christ
 
 ## 5) Matt. 6:14-15, - the importance of understanding one's neighbor's forgiveness
 > For if ye forgive men their trespasses, your heavenly Father will also forgive you: But if ye forgive not men their trespasses, neither will your Father forgive your trespasses. (Matt. 6:14-15, KJV)
 
-### (1) The importance of forgiving one's neighbor (understanding the Word of God, the Covenant, Christ) is God's condition for forgiving the sins of a child of God. (Spiritual – decided by Christ, physical – sowing and reaping, God's control of the harvest, the importance of confessing the sins of God's children)
+### (1) The importance of forgiving one's neighbor (understanding the Word of God, the Covenant, and Christ) is God's condition for forgiving the sins of a child of God. (Spiritual – decided by Christ, physical – sowing and reaping, God's control of the harvest, the importance of confessing the sins of God's children)
 
 ### (2) The unforgiveness of one's neighbor is the reaping of the physical consequences of the sins of a child of God (the law of sowing and reaping). Gal. 6:7
 > Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap. (Gal. 6:7, KJV)
@@ -103,7 +103,7 @@
 ## 6) Matt. 6:16-18, - the importance of understanding the post correctly
 > Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward. But thou, when thou fastest, anoint thine head, and wash thy face; That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly. (Matt. 6:16-18, KJV)
 
-### (1) Lent is a time of special concentration on God through the Word of God, the Covenant, Christ, and the search for and desire to fulfill the will of God
+### (1) Lent is a time of special concentration on God through the Word of God, the Covenant, Christ, and the search for and desire to fulfill God's will.
 
 ### (2) Improper fasting – self-aggrandizement (ostentation), earning salvation (religion), the emphasis of fasting on the visible (blackmailing God), misunderstanding of God's sovereignty and the purpose of the life of God's people. Matt. 6:7-8, 31-32
 > But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking. Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him. (Matt. 6:7-8, KJV)
@@ -113,6 +113,6 @@
 
 ## Conclusion:
 
-### (1) The importance of accepting the Word of God, the Covenant, Christ and a deep awareness of the will of God for man – the knowledge and transmission of the Word of God, the Covenant, Christ
+### (1) The importance of accepting the Word of God, the Covenant, and Christ and deeply understanding the will of God for man is the knowledge and transmission of the Word of God, the Covenant, and Christ
 
-### (2) Without understanding the Word of God, the Covenant, Christ there is no true mercy, prayer and fasting
+### (2) Without understanding the Word of God, the Covenant, and Christ, there is no true mercy, prayer, and fasting.

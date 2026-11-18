@@ -1,4 +1,4 @@
-# 27. Understanding the actions of Satan Satan (the devil) is an opponent, a slanderer
+# 27. Understanding of Satan's actions Satan (the devil) is an opponent, a slanderer
 
 ## 1) The importance of understanding Creation
 
@@ -24,9 +24,9 @@
 > And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:16-17, KJV)
 > And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth. (Gen. 1:28, KJV)
 
-#### (a) The crown of God's creation, above the angels, children of God – Emmanuel
+#### (a) The crown of God's creation, above the angels, the children of God – Emmanuel
 
-#### (b) The importance of living in the Word of God, the Covenant, Christ – the importance of fulfilling God's purpose and will
+#### (b) The importance of living in the Word of God, the Covenant, and Christ – the importance of fulfilling God's purpose and will
 
 ## 2) The importance of understanding the Fall
 
@@ -34,20 +34,20 @@
 > Son of man, take up a lamentation upon the king of Tyrus, and say unto him, Thus saith the Lord GOD; Thou sealest up the sum, full of wisdom, and perfect in beauty. Thou hast been in Eden the garden of God; every precious stone was thy covering, the sardius, topaz, and the diamond, the beryl, the onyx, and the jasper, the sapphire, the emerald, and the carbuncle, and gold: the workmanship of thy tabrets and of thy pipes was prepared in thee in the day that thou wast created. Thou art the anointed cherub that covereth; and I have set thee so: thou wast upon the holy mountain of God; thou hast walked up and down in the midst of the stones of fire. Thou wast perfect in thy ways from the day that thou wast created, till iniquity was found in thee. By the multitude of thy merchandise they have filled the midst of thee with violence, and thou hast sinned: therefore I will cast thee as profane out of the mountain of God: and I will destroy thee, O covering cherub, from the midst of the stones of fire. Thine heart was lifted up because of thy beauty, thou hast corrupted thy wisdom by reason of thy brightness: I will cast thee to the ground, I will lay thee before kings, that they may behold thee. (Ezek. 28:12-17, KJV)
 > And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day. (Gen. 1:31, KJV)
 
-#### (a) Not accepting the status of a human being as a child of God, the first after God
+#### (a) Not accepting the status of a human being – a child of God, the first after God
 
 #### (b) The desire to be equal to God is resisting the Word of God Isa. 14:12-14. (Equality with God is to take the place of God in man, to become an eternal "god" for the children of God, legal equality with God)
 > How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations! For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north: I will ascend above the heights of the clouds; I will be like the most High. (Isa. 14:12-14, KJV)
 
-#### (c) The impossibility of dwelling in all people, the need for helpers, the acceptance of the word Satan, part of the angels. Matt. 25:41. (Ignorance of God as a consuming fire – there is no sin). Heb. 12:29
+#### (c) The impossibility of dwelling in all people, the need for helpers, acceptance of the word of Satan, part of the angels. Matt. 25:41. (Ignorance of God as a consuming fire – there is no sin). Heb. 12:29
 > Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels: (Matt. 25:41, KJV)
 > For our God is a consuming fire. (Heb. 12:29, KJV)
 
-#### (d) Satan's method of action is the abolition of the Word of God, the Covenant, Christ Gen. 3:1, 5. (The reason for Satan's admission is man's right to choose, God's admission)
+#### (d) Satan's method of action is the abolition of the Word of God, the Covenant, and Christ Gen. 3:1, 5. (The reason for Satan's admission is man's right to choose, God's admission)
 > Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? (Gen. 3:1, KJV)
 > For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. (Gen. 3:5, KJV)
 
-- Sin is a choice of life outside the Word of God 1 John 3:8
+- Sin is the choice of living outside the Word of God 1 John 3:8
 
 > He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil. (1 John 3:8, KJV)
 
@@ -57,15 +57,15 @@
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
 
-#### (a) The essence of human sin is the conscious choice of life outside the Word of God
+#### (a) The essence of human sin is the conscious choice of living outside the Word of God
 
 #### (b) The status of the first people and all their descendants are sinners. (Status, nature, sins – past, present and future)
 
-#### (c) The power of sin, death and hell, Satan is a spiritual problem of man
+#### (c) The power of sin, death, hell, and Satan is a spiritual problem of man
 
 ## 3) The Importance of Understanding Recovery
 
-### (1) Gen. 3:15, 21,Matt. 16:16,John 19:30, - restoration of the Covenant, Christ
+### (1) Gen. 3:15, 21,Matt. 16:16,John 19:30, - restoration of the Covenant, of Christ
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 > And Simon Peter answered and said, Thou art the Christ, the Son of the living God. (Matt. 16:16, KJV)
@@ -76,7 +76,7 @@
 #### (b) Sacrifice is the fulfillment of God's Word instead of man. (The solution of a spiritual problem, the return of man to his original form – Emmanuel). Rom. 8:2
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
 
-#### (c) The importance of living in the Word of God, the Covenant, Christ – the importance of fulfilling God's purpose and will. 1 Tim. 2:4
+#### (c) The importance of living in the Word of God, the Covenant, and Christ – the importance of fulfilling God's purpose and will. 1 Tim. 2:4
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 
 ### (2) The impossibility of repentance and restoration of Satan and demons
@@ -84,7 +84,7 @@
 #### (a) The absence of God's will. Luke 12:48
 > But he that knew not, and did commit things worthy of stripes, shall be beaten with few stripes. For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more. (Luke 12:48, KJV)
 
-#### (b) The lack of a rescue mechanism
+#### (b) Lack of a rescue mechanism
 
 #### (c) The absence of the grace of God
 
@@ -128,15 +128,15 @@
 
 ### (3) Wants to dominate mankind
 
-#### (a) The power of Satan in man - no Word of God, Covenant, Christ, legal basis
+#### (a) The power of Satan in man – there is no Word of God, no Covenant, no Christ, no legitimate foundation
 
 #### (b) The Presence of the Holy Spirit – the Word of God, the Covenant, Christ, the legal foundation
 
-#### (c) Liberation of a person - acceptance of the Word of God, the Covenant, Christ, the action of the Holy Spirit
+#### (c) Human liberation is the acceptance of the Word of God, the Covenant, Christ, and the action of the Holy Spirit
 
 #### (d) The impossibility of the presence of demons and the Holy Spirit at the same time
 
-## 4) The importance of understanding the action of Satan - the proclamation of another word, “great preacher”
+## 4) The importance of understanding the work of Satan – proclaiming another word, "great preacher"
 
 ### (1) Opposition and distortion of the Word of God, the Covenant, Christ – ideology
 
@@ -151,27 +151,27 @@
 > And he doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men, And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live. (Rev. 13:13-14, KJV)
 > Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven. Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works? And then will I profess unto them, I never knew you: depart from me, ye that work iniquity. (Matt. 7:21-23, KJV)
 
-### (2) Opposing the Holy Spirit, fighting against the people of God 1 Pet. 5:8
+### (2) The opposition of the Holy Spirit, the struggle against the people of God 1 Pet. 5:8
 > Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: (1 Pet. 5:8, KJV)
 
-#### (a) Knowledge of the Word of God, the Covenant, Christ – learning, meditation, prayer. (Fuss, a lot of "very important things", false teachings). 1 Tim. 2:4; 4:16
+#### (a) Knowledge of the Word of God, the Covenant, and Christ – learning, meditation, and prayer. (Fuss, a lot of "very important things", false teachings). 1 Tim. 2:4; 4:16
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 > Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee. (1 Tim. 4:16, KJV)
 
-#### (b) Transmission of the Word of God, the Covenant, Christ, World Evangelization Matt. 28:19-20,2 Tim. 2:2. (Vanity, difficulties, trials and many "very important things")
+#### (b) The transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization Matt. 28:19-20,2 Tim. 2:2. (Vanity, difficulties, trials, and many "very important things")
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
 > And the things that thou hast heard of me among many witnesses, the same commit thou to faithful men, who shall be able to teach others also. (2 Tim. 2:2, KJV)
 
 #### (c) Doubt and rejection of the Word of God, the Covenant, and Christ as a result. Heb. 3:12-14
 > Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God. But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin. For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end; (Heb. 3:12-14, KJV)
 
-### (3) The most important thing for Satan is a misunderstanding of the Word of God, the Covenant, Christ, and the purpose of God's people for man
+### (3) The most important thing for Satan is a misunderstanding of the Word of God, the Covenant, Christ, and the purpose of God's people for man.
 
 #### (a) Non-acceptance of the Divinity of Christ
 
 #### (b) Non-acceptance of the All-sufficiency of Christ's Sacrifice, misunderstanding of salvation (everything is accomplished by Jesus Christ)
 
-#### (c) Misunderstanding the importance of knowing and transmitting the Word of God, the Covenant, and Christ (the destiny of God's people)
+#### (c) Misunderstanding of the importance of knowing and communicating the Word of God, the Covenant, and Christ (the purpose of God's people)
 
 ## 5) The importance of understanding the possibilities of Satan and demons
 
@@ -213,7 +213,7 @@
 
 #### (b) They do not know the whole future, but only what is written or revealed by God to fulfill His will.
 
-#### (c) They cannot do anything outside the framework of the Word of God, they understand and fulfill spiritual laws
+#### (c) They cannot do anything outside the framework of the Word of God, they understand and obey spiritual laws
 
 #### (d) Cannot be in several people or several places at the same time (not omnipresent)
 
@@ -223,7 +223,7 @@
 
 #### (g) They cannot profess Jesus Christ as their God – the test of any angel
 
-## 6) Understanding the past, present and future of Satan and demons - stages of overthrow
+## 6) Understanding the past, present, and future of Satan and Demons – the stages of overthrow
 - (1st heaven is heaven, 2nd heaven is the universe, 3rd heaven is Central Asia)
 - 2 Cor. 12:1-4,Eph. 6:12
 
@@ -248,10 +248,10 @@
 
 ## Conclusion:
 
-### (1) The importance of understanding the Word of God, the Covenant, Christ
+### (1) The importance of understanding the Word of God, the Covenant, and Christ
 
-### (2) The importance of proper understanding about Satan and Demons
+### (2) The importance of proper understanding about Satan and demons
 
-### (3) The importance of understanding God's method of defeating Satan and Demons
+### (3) The importance of understanding God's method of defeating Satan and demons
 
 ### (4) The importance of understanding God's Sovereignty and Control

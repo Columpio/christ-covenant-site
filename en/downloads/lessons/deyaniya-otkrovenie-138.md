@@ -9,7 +9,7 @@
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
 > And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat: But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:16-17, KJV)
 
-### (1) Reasons to Thank and Glorify God
+### (1) Reasons to thank and glorify God
 
 #### (a) Spiritual – The Word of God, the Covenant, Christ, Emmanuel, the child of God, eternal life
 
@@ -19,7 +19,7 @@
 
 #### (d) The cause of mental and physical is spiritual (priority)
 
-### (2) The highest way to thank and glorify God is to know and transmit the Word of God, the Covenant, Christ (the purpose of the children is God)
+### (2) The highest way to thank and glorify God is to know and transmit the Word of God, the Covenant, and Christ (the purpose of God's children)
 
 ## 2) Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), - there is no Word of God, Covenant, Christ
 > Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons. (Gen. 3:1-7, KJV)
@@ -55,7 +55,7 @@
 
 #### (d) The cause of mental and physical is spiritual (priority)
 
-### (2) The highest way to thank and glorify God is to know and transmit the Word of God, the Covenant, Christ (the purpose of the children is God)
+### (2) The highest way to thank and glorify God is to know and transmit the Word of God, the Covenant, and Christ (the purpose of God's children)
 
 ## 4) Examples of giving thanks and praising God
 
@@ -97,4 +97,4 @@
 > Then said his wife unto him, Dost thou still retain thine integrity? curse God, and die. But he said unto her, Thou speakest as one of the foolish women speaketh. What? shall we receive good at the hand of God, and shall we not receive evil? In all this did not Job sin with his lips. (Job 2:9-10, KJV)
 > Although the fig tree shall not blossom, neither shall fruit be in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and there shall be no herd in the stalls: Yet I will rejoice in the LORD, I will joy in the God of my salvation. (Hab. 3:17-18, KJV)
 
-### (3) The most important answer for man, the reason for thanking and glorifying God, is Emmanuel, salvation, knowledge and transmission of the Word of God, the Covenant, Christ
+### (3) The most important answer for man, the reason for thanking and glorifying God, is Emmanuel, salvation, knowledge and transmission of the Word of God, the Covenant, and Christ

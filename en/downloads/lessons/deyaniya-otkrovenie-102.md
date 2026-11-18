@@ -36,7 +36,7 @@
 ### (7) 1 Tim. 5:17-18, - the importance of caring for the elders, the importance of fulfilling the destiny of the people of God
 > Let the elders that rule well be counted worthy of double honour, especially they who labour in the word and doctrine. For the scripture saith, Thou shalt not muzzle the ox that treadeth out the corn. And, The labourer is worthy of his reward. (1 Tim. 5:17-18, KJV)
 
-### (8) 1 Tim. 5:19, - importance of God's order of accusation, God's criteria, affirmation of the Word of God, the Covenant, Christ
+### (8) 1 Tim. 5:19, - the importance of God's order of accusation, God's criteria, the affirmation of God's Word, Covenant, Christ
 > Against an elder receive not an accusation, but before two or three witnesses. (1 Tim. 5:19, KJV)
 
 ### (9) 1 Tim. 5:20, - the importance of God's discipline and God's order of chastisement of every person
@@ -67,12 +67,12 @@
 > Some men’s sins are open beforehand, going before to judgment; and some men they follow after. Likewise also the good works of some are manifest beforehand; and they that are otherwise can not be hid. (1 Tim. 5:24-25, KJV)
 > Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap. (Gal. 6:7, KJV)
 
-## 2) 1 Tim. 6, - the importance of knowing and interpreting the Word of God, the Covenant, Christ
+## 2) 1 Tim. 6, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
 ### (1) 1 Tim. 6:1-2, - the importance of proper working relationships, the importance of fulfilling the destiny of God's people
 > Let as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and his doctrine be not blasphemed. And they that have believing masters, let them not despise them, because they are brethren; but rather do them service, because they are faithful and beloved, partakers of the benefit. These things teach and exhort. (1 Tim. 6:1-2, KJV)
 
-### (2) 1 Tim. 6:3-5, - the importance of the correct and pure teaching of the Word of God. Of the Covenant, Christ, edification and grace to every man. (Misunderstanding of the Word of God, the Covenant, Christ – piety for gain)
+### (2) 1 Tim. 6:3-5, - the importance of the correct and pure teaching of the Word of God. The Covenant, Christ, edification and grace to every man. (Misunderstanding the Word of God, the Covenant, and Christ is piety for gain)
 > If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness; He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings, Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself. (1 Tim. 6:3-5, KJV)
 
 ### (3) 1 Tim. 6:6-8, - the importance of understanding God's control, being pious and contented, understanding the transience of the visible, the importance of fulfilling destiny
@@ -122,4 +122,4 @@
 
 ### (3) The importance of properly understanding Christ and God
 
-### (4) The importance of the Word of God, the Covenant, Christ, the purity of teaching
+### (4) The importance of the Word of God, the Covenant, Christ, and the purity of the teaching

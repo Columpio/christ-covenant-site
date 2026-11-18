@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -253,7 +255,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Who is the image of the invisible God, the firstborn of every creature: For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:</p><cite>Col. 1:15-16 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>The Son is the image of the invisible God, the firstborn over all creation. For in Him all things were created, things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities. All things were created through Him and for Him.</p><cite>Col. 1:15-16 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He is the image of the invisible God, the firstborn of all creation. For by him all things were created in the heavens and on the earth, visible things and invisible things, whether thrones or dominions or principalities or powers. All things have been created through him and for him.</p><cite>Col. 1:15-16 · WEB</cite></blockquote>
-<h3>(1) Faith in a Triune God is faith in a Single God in numerical terms, in which there are three eternal differences – God the Father, God the Word, God the Holy Spirit, the Almighty, Omniscient, Omnipresent Absolute of God. (Three eternal differences in the human being – spirit, soul and body) 1 John 5:7,John 4:24, - John 1:18,1 John 4:12,1 Tim. 6:16</h3>
+<h3>(1) Faith in the Triune God is faith in the One God in numerical terms, in which there are three eternal differences – God the Father, God the Word, God the Holy Spirit, the Almighty, Omniscient, Omnipresent Absolute of God. (Three eternal differences in the human being – spirit, soul and body) 1 John 5:7,John 4:24, - John 1:18,1 John 4:12,1 Tim. 6:16</h3>
 <blockquote data-v="kjv"><p>For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.</p><cite>1 John 5:7 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For there are three that testify:</p><cite>1 John 5:7 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For there are three who testify:</p><cite>1 John 5:7 · WEB</cite></blockquote>
@@ -271,7 +273,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>He alone has immortality, dwelling in unapproachable light, whom no man has seen nor can see, to whom be honor and eternal power. Amen.</p><cite>1 Tim. 6:16 · WEB</cite></blockquote>
 <h3>(2) Jesus Christ is the Only Begotten Son of God, the divine and human natures are inseparably united in one Person without transformation or mixing (the visible image of the Holy and Triune God, the fullness of the Godhead physically is the ability to see and understand the Holy and True God, the Only Mediator between God and God's creation)</h3>
 <h4>(a) The human nature of Christ is the human spirit, soul, and glorified human body (unlimited possibilities)</h4>
-<h4>(b) The divine nature of Christ is the Holy One, the Triune God, and the functional priority of action is God the Word. (Priority of the Divine nature over man – God in the flesh) John 1:1, 14, 18,Col. 1:15-16; 2:9, - Eph. 3:9,Heb. 1:1-3. (Gen. 3:8; 18:1-2; 32:28,Ex. 24:9-11; 33:11,Dan. 3:25)</h4>
+<h4>(b) The divine nature of Christ is the Holy One, the Triune God, and the functional priority of action is God the Word. (The priority of the Divine nature over man is God in the flesh) John 1:1, 14, 18,Col. 1:15-16; 2:9, - Eph. 3:9,Heb. 1:1-3. (Gen. 3:8; 18:1-2; 32:28,Ex. 24:9-11; 33:11,Dan. 3:25)</h4>
 <blockquote data-v="kjv"><p>In the beginning was the Word, and the Word was with God, and the Word was God.</p><cite>John 1:1 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>In the beginning was the Word, and the Word was with God, and the Word was God.</p><cite>John 1:1 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>In the beginning was the Word, and the Word was with God, and the Word was God.</p><cite>John 1:1 · WEB</cite></blockquote>
@@ -380,7 +382,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times. And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined.</p><cite>Dan. 9:25-26 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Know and understand this: From the issuance of the decree to restore and rebuild Jerusalem until the Messiah, the Prince, there will be seven weeks and sixty-two weeks. It will be rebuilt with streets and a trench, but in times of distress. Then after the sixty-two weeks the Messiah will be cut off and will have nothing. Then the people of the prince who is to come will destroy the city and the sanctuary. The end will come like a flood, and until the end there will be war; desolations have been decreed.</p><cite>Dan. 9:25-26 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“Know therefore and discern that from the going out of the commandment to restore and build Jerusalem to the Anointed One, the prince, will be seven weeks and sixty-two weeks. It will be built again, with street and moat, even in troubled times. After the sixty-two weeks the Anointed One will be cut off, and will have nothing. The people of the prince who come will destroy the city and the sanctuary. Its end will be with a flood, and war will be even to the end. Desolations are determined.</p><cite>Dan. 9:25-26 · WEB</cite></blockquote>
-<h3>(3) Rejection of the Word of God, the Covenant, Christ, the human faith, the majority, misunderstanding of Christmas (God in the flesh) and Easter (the All-sufficient Sacrifice of Christ)</h3>
+<h3>(3) Rejection of the Word of God, the Covenant, Christ, human faith, the majority, misunderstanding of Christmas (God in the flesh) and Easter (the All-sufficient Sacrifice of Christ)</h3>
 <h4>(a) The Pharisees and the Scribes. John 10:33,Rom. 9:30-33</h4>
 <blockquote data-v="kjv"><p>The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God.</p><cite>John 10:33 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>“We are not stoning You for any good work,” said the Jews, “but for blasphemy, because You, who are a man, make Yourself out to be God.”</p><cite>John 10:33 · BSB</cite></blockquote>
@@ -396,7 +398,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost. Then Joseph her husband, being a just man, and not willing to make her a publick example, was minded to put her away privily. But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost. And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins. Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying, Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.</p><cite>Matt. 1:18-23 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>This is how the birth of Jesus Christ came about: His mother Mary was pledged in marriage to Joseph, but before they came together, she was found to be with child through the Holy Spirit. Because Joseph her husband was a righteous man and was unwilling to disgrace her publicly, he resolved to divorce her quietly. But after he had pondered these things, an angel of the Lord appeared to him in a dream and said, “Joseph, son of David, do not be afraid to embrace Mary as your wife, for the One conceived in her is from the Holy Spirit. She will give birth to a Son, and you are to give Him the name Jesus, because He will save His people from their sins.” All this took place to fulfill what the Lord had said through the prophet: “Behold, the virgin will be with child and will give birth to a son, and they will call Him Immanuel” (which means, “God with us”).</p><cite>Matt. 1:18-23 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now the birth of Jesus Christ was like this: After his mother, Mary, was engaged to Joseph, before they came together, she was found pregnant by the Holy Spirit. Joseph, her husband, being a righteous man, and not willing to make her a public example, intended to put her away secretly. But when he thought about these things, behold, an angel of the Lord appeared to him in a dream, saying, “Joseph, son of David, don’t be afraid to take to yourself Mary as your wife, for that which is conceived in her is of the Holy Spirit. She shall give birth to a son. You shall name him Jesus, for it is he who shall save his people from their sins.” Now all this has happened that it might be fulfilled which was spoken by the Lord through the prophet, saying, “Behold, the virgin shall be with child, and shall give birth to a son. They shall call his name Immanuel,” which is, being interpreted, “God with us.”</p><cite>Matt. 1:18-23 · WEB</cite></blockquote>
-<h3>(1) The Immaculate conception, the seed of the wife, the fulfillment of the Word of God (The importance of understanding Mary's salvation and rebirth – acceptance of the Word of God, the Covenant, Christ, faith in Christ Coming as God in the flesh and faith in the Sufficiency of His Sacrifice)</h3>
+<h3>(1) The Immaculate conception, the seed of the wife, the fulfillment of the Word of God (The importance of understanding Mary's salvation and rebirth is acceptance of the Word of God, the Covenant, Christ, faith in Christ Coming as God in the flesh and faith in the Sufficiency of His Sacrifice)</h3>
 <h3>(2) The importance of the birth of Christ in the likeness of sinful flesh, the fulfillment of the sentence of the Word of God – either I or Christ instead of me (the impossibility of fulfilling the Word of God in a glorified body)</h3>
 <h3>(3) The Nativity of Christ, the complete solution to the problem of the sins of God's people (God's foreknowledge of man's acceptance of God's Word)</h3>
 <h2 id="s4">4) The birth of Jesus Christ in the likeness of sinful flesh, the fulfillment of Christmas and Easter, the solution to all human problems Matt. 16:16,John 19:30, - Rom. 8:3,Phil. 2:6-8,Heb. 2:9, - John 6:62; 17:5, Matt. 17:2</h2>
@@ -437,12 +439,12 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>But God commends his own love toward us, in that while we were yet sinners, Christ died for us.</p><cite>Rom. 5:8 · WEB</cite></blockquote>
 <h3>(3) The beginning of the New Year from (the moment of) the Birth of Christ is the actual Christmas, God's sovereignty. (Celebrating Christmas from December 25 to January 7 is a solution to all disputes and problems, a great opportunity to preach and glorify Jesus Christ)</h3>
 <h2 id="s5">5) Misunderstanding of Christmas</h2>
-<h3>(1) Traditions, mysticism (Santa Claus, reindeer, etc.) – actions without understanding and affirming the Word of God, the Covenant, Christ (The importance of correctly communicating the Word of God to children, the Covenant, Christ – the birth of Jesus Christ, gifts from God through parents, etc.)</h3>
-<h3>(2) Religion – non-acceptance of the Word of God, the Covenant, Christ (The heresy of "Arianism", "mixed gospel" and "partial salvation" – denial of the fact of forgiveness of all sins and salvation through Jesus Christ and His Sacrifice)</h3>
+<h3>(1) Traditions, mysticism (Santa Claus, reindeer, etc.) – actions without understanding and affirming the Word of God, the Covenant, Christ (The importance of correctly communicating the Word of God, the Covenant, Christ to children – the birth of Jesus Christ, gifts from God through parents, etc.)</h3>
+<h3>(2) Religion – non-acceptance of the Word of God, the Covenant, and Christ (The heresy of "Arianism", "mixed gospel", and "partial salvation" – denial of the fact of forgiveness of all sins and salvation through Jesus Christ and His Sacrifice)</h3>
 <h2 id="s6">Conclusion:</h2>
-<h3>(1) The importance of celebrating the Nativity of Christ with a correct, deep and accurate understanding of the Word of God, the Covenant, Christ</h3>
-<h3>(2) The special importance of the Church is the explanation of the Word of God, the Covenant, Christ, the importance of understanding the meaning and purpose of the birth of Christ</h3>
-<h3>(3) Christmas is God's control of time, the importance of human choice in relation to eternity (acceptance of the Divinity of Christ and the All–sufficiency of His Sacrifice), the importance of fulfilling the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)</h3>
+<h3>(1) The importance of celebrating the Nativity of Christ with a correct, deep and accurate understanding of the Word of God, the Covenant, and Christ</h3>
+<h3>(2) The special importance of the Church is the explanation of the Word of God, the Covenant, and Christ, and the importance of understanding the meaning and purpose of Christ's birth</h3>
+<h3>(3) Christmas is God's control of time, the importance of human choice in relation to eternity (acceptance of the Divinity of Christ and the All–sufficiency of His Sacrifice), the importance of fulfilling the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
 </body>

@@ -3,7 +3,7 @@
 ## 1) Gen. 33:17-20, - understanding the Word of God, the Covenant, Christ (Canaan, sacrifice)
 > And Jacob journeyed to Succoth, and built him an house, and made booths for his cattle: therefore the name of the place is called Succoth. And Jacob came to Shalem, a city of Shechem, which is in the land of Canaan, when he came from Padan-aram; and pitched his tent before the city. And he bought a parcel of a field, where he had spread his tent, at the hand of the children of Hamor, Shechem’s father, for an hundred pieces of money. And he erected there an altar, and called it El-elohe-Israel. (Gen. 33:17-20, KJV)
 
-### (1) The purpose of the people of God (the 12 tribes of Israel) is to preserve and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+### (1) The purpose of the people of God (the 12 tribes of Israel) is to preserve and transmit the Word of God, the Covenant, Christ, Canaan, and Worldwide Evangelization Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -15,9 +15,9 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-### (2) God's Preservation of the People – God's plan and control, the fulfillment of the Word of God (Adam – Seth – Noah – Abraham – Isaac – Jacob – the 12 Tribes of Israel)
+### (2) The Preservation of God's people is God's plan and control, the fulfillment of God's Word (Adam– Seth–Noah– Abraham–Isaac–Jacob – The 12 Tribes of Israel)
 
-## 2) Gen. 24:3; 28:1 (24:3,28:1), - God's understanding of sovereignty and control
+## 2) Gen. 24:3; 28:1 (24:3,28:1), - understanding God's sovereignty and control
 > And I will make thee swear by the LORD, the God of heaven, and the God of the earth, that thou shalt not take a wife unto my son of the daughters of the Canaanites, among whom I dwell: (Gen. 24:3, KJV)
 > And Isaac called Jacob, and blessed him, and charged him, and said unto him, Thou shalt not take a wife of the daughters of Canaan. (Gen. 28:1, KJV)
 
@@ -36,7 +36,7 @@
 #### (a) Gen. 34:5-7, - lawlessness of the pagans, violence against Dina, holding her hostage, violation of all laws
 > And Jacob heard that he had defiled Dinah his daughter: now his sons were with his cattle in the field: and Jacob held his peace until they were come. And Hamor the father of Shechem went out unto Jacob to commune with him. And the sons of Jacob came out of the field when they heard it: and the men were grieved, and they were very wroth, because he had wrought folly in Israel in lying with Jacob’s daughter; which thing ought not to be done. (Gen. 34:5-7, KJV)
 
-#### (b) Gen. 34:8-12, - Immor's suggestion, mixing of God's people with pagans, violation of the Word of God (descendants, intended.)
+#### (b) Gen. 34:8-12, - Immor's suggestion, mixing of God's people with pagans, violation of God's Word (descendants, intended)
 > And Hamor communed with them, saying, The soul of my son Shechem longeth for your daughter: I pray you give her him to wife. And make ye marriages with us, and give your daughters unto us, and take our daughters unto you. And ye shall dwell with us: and the land shall be before you; dwell and trade ye therein, and get you possessions therein. And Shechem said unto her father and unto her brethren, Let me find grace in your eyes, and what ye shall say unto me I will give. Ask me never so much dowry and gift, and I will give according as ye shall say unto me: but give me the damsel to wife. (Gen. 34:8-12, KJV)
 
 #### (c) Gen. 34:13-17, - God's love and mercy, the offer of circumcision (visible evidence of a Covenant with God), the possibility of salvation and entry into the people of God for every person
@@ -46,7 +46,7 @@
 > And their words pleased Hamor, and Shechem Hamor’s son. And the young man deferred not to do the thing, because he had delight in Jacob’s daughter: and he was more honourable than all the house of his father. And Hamor and Shechem his son came unto the gate of their city, and communed with the men of their city, saying, These men are peaceable with us; therefore let them dwell in the land, and trade therein; for the land, behold, it is large enough for them; let us take their daughters to us for wives, and let us give them our daughters. Only herein will the men consent unto us for to dwell with us, to be one people, if every male among us be circumcised, as they are circumcised. Shall not their cattle and their substance and every beast of theirs be ours? only let us consent unto them, and they will dwell with us. And unto Hamor and unto Shechem his son hearkened all that went out of the gate of his city; and every male was circumcised, all that went out of the gate of his city. (Gen. 34:18-24, KJV)
 > With the merciful thou wilt shew thyself merciful; with an upright man thou wilt shew thyself upright; With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself froward. (Ps. 18:25-26, KJV)
 
-#### (e) Gen. 34:25-29, - non-acceptance of the Word of God, the Covenant, Christ, death. Rom. 6:23
+#### (e) Gen. 34:25-29, - rejection of the Word of God, the Covenant, Christ, death. Rom. 6:23
 > And it came to pass on the third day, when they were sore, that two of the sons of Jacob, Simeon and Levi, Dinah’s brethren, took each man his sword, and came upon the city boldly, and slew all the males. And they slew Hamor and Shechem his son with the edge of the sword, and took Dinah out of Shechem’s house, and went out. The sons of Jacob came upon the slain, and spoiled the city, because they had defiled their sister. They took their sheep, and their oxen, and their asses, and that which was in the city, and that which was in the field, And all their wealth, and all their little ones, and their wives took they captive, and spoiled even all that was in the house. (Gen. 34:25-29, KJV)
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
@@ -55,7 +55,7 @@
 
 - ("let not my soul enter into their counsel, nor let my glory join in their assembly," and "cursed be their wrath.")
 
-#### (g) Gen. 37:1-4, 18-20 (1 John 2:9), - knowledge but non-acceptance of the Word of God, the Covenant, Christ, the effect of God's calling grace, the importance of understanding God's timetable. (The Tribe of Levi – the priesthood of V.Z., acceptance of the Word of God, the Covenant, Christ)
+#### (g) Gen. 37:1-4, 18-20 (1 John 2:9), - knowledge but rejection of the Word of God, the Covenant, Christ, the effect of God's calling grace, the importance of understanding God's timetable. (The Tribe of Levi – the priesthood of V.Z., acceptance of the Word of God, the Covenant, Christ)
 > And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan. These are the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brethren; and the lad was with the sons of Bilhah, and with the sons of Zilpah, his father’s wives: and Joseph brought unto his father their evil report. Now Israel loved Joseph more than all his children, because he was the son of his old age: and he made him a coat of many colours. And when his brethren saw that their father loved him more than all his brethren, they hated him, and could not speak peaceably unto him. (Gen. 37:1-4, KJV)
 > And when they saw him afar off, even before he came near unto them, they conspired against him to slay him. And they said one to another, Behold, this dreamer cometh. Come now therefore, and let us slay him, and cast him into some pit, and we will say, Some evil beast hath devoured him: and we shall see what will become of his dreams. (Gen. 37:18-20, KJV)
 > He that saith he is in the light, and hateth his brother, is in darkness even until now. (1 John 2:9, KJV)
@@ -67,18 +67,18 @@
 ### (3) The cause of the destruction of the people of Hamor and Shechem. Ps. 18:25-26
 > With the merciful thou wilt shew thyself merciful; with an upright man thou wilt shew thyself upright; With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself froward. (Ps. 18:25-26, KJV)
 
-#### (a) The lawlessness and deceit of the people of Emora, the rejection of the Word of God, the Covenant, Christ, the wrong priorities of life
+#### (a) The lawlessness and deceit of the people of Emora, the rejection of the Word of God, the Covenant, Christ, and the wrong priorities of life
 
-#### (b) Immor's suggestion, the mixing of God's people with the Gentiles, to stop the transmission of the Word of God, the Covenant, Christ (act of Satan)
+#### (b) Hamor's suggestion, the mixing of God's people with pagans, to stop the transmission of God's Word, Covenant, Christ (Satan's action)
 
-#### (c) The situation with Dina - the wrong thinking and actions of a child of God, God's permission, the importance of hearing the Word of God, the Covenant, Christ by all nations. 1 Tim. 2:4,Rom. 2:11; 8:28
+#### (c) The situation with Dina is the wrong thinking and actions of the child of God, God's assumption, the importance of hearing the Word of God, the Covenant, and Christ by all nations. 1 Tim. 2:4,Rom. 2:11; 8:28
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 > For there is no respect of persons with God. (Rom. 2:11, KJV)
 > And we know that all things work together for good to them that love God, to them who are the called according to his purpose. (Rom. 8:28, KJV)
 
 ### (4) Options for the people of Hamor and Shechem
 
-#### (a) To understand the meaning of circumcision, to accept the Word of God, the Covenant, Christ
+#### (a) To understand the meaning of circumcision, to accept the Word of God, the Covenant, and Christ
 
 #### (b) Return Dina and not accept circumcision
 
@@ -94,12 +94,12 @@
 > If thy brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, which is as thine own soul, entice thee secretly, saying, Let us go and serve other gods, which thou hast not known, thou, nor thy fathers; Namely, of the gods of the people which are round about you, nigh unto thee, or far off from thee, from the one end of the earth even unto the other end of the earth; Thou shalt not consent unto him, nor hearken unto him; neither shall thine eye pity him, neither shalt thou spare, neither shalt thou conceal him: But thou shalt surely kill him; thine hand shall be first upon him to put him to death, and afterwards the hand of all the people. And thou shalt stone him with stones, that he die; because he hath sought to thrust thee away from the LORD thy God, which brought thee out of the land of Egypt, from the house of bondage. And all Israel shall hear, and fear, and shall do no more any such wickedness as this is among you. (Deut. 13:6-11, KJV)
 > Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God. Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation. For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same: For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil. Wherefore ye must needs be subject, not only for wrath, but also for conscience sake. (Rom. 13:1-5, KJV)
 
-## 3) Gen. 35, - affirmation of the Word of God, the Covenant, Christ
+## 3) Gen. 35, - affirmation of the Word of God, the Covenant, of Christ
 
-### (1) Gen. 35:1, - God's call, the special importance of purity, the Word of God, the Covenant, Christ, the importance of fulfilling destiny. (Knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the Coming of Christ)
+### (1) Gen. 35:1, - God's call, the special importance of the purity of the Word of God, the Covenant, Christ, the importance of fulfilling the destiny. (Knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ)
 > And God said unto Jacob, Arise, go up to Beth-el, and dwell there: and make there an altar unto God, that appeared unto thee when thou fleddest from the face of Esau thy brother. (Gen. 35:1, KJV)
 
-### (2) Gen. 35:2-7, - the crushing of idols (the causes of the problems of the children of God), the establishment in the Word of God, the Covenant, Christ, the importance of sanctifying the people of God Col. 3:5
+### (2) Gen. 35:2-7, - the crushing of idols (the causes of the problems of God's children), the affirmation in the Word of God, the Covenant, Christ, the importance of sanctifying God's people Col. 3:5
 > Then Jacob said unto his household, and to all that were with him, Put away the strange gods that are among you, and be clean, and change your garments: And let us arise, and go up to Beth-el; and I will make there an altar unto God, who answered me in the day of my distress, and was with me in the way which I went. And they gave unto Jacob all the strange gods which were in their hand, and all their earrings which were in their ears; and Jacob hid them under the oak which was by Shechem. And they journeyed: and the terror of God was upon the cities that were round about them, and they did not pursue after the sons of Jacob. So Jacob came to Luz, which is in the land of Canaan, that is, Beth-el, he and all the people that were with him. And he built there an altar, and called the place El-beth-el: because there God appeared unto him, when he fled from the face of his brother. (Gen. 35:2-7, KJV)
 > Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry: (Col. 3:5, KJV)
 
@@ -108,13 +108,13 @@
 ### (1) Violation of the Word of God (the laws of life) – consequences. Gal. 6:7-8
 > Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap. For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting. (Gal. 6:7-8, KJV)
 
-#### (a) Non–acceptance of the Word of God, the Covenant, Christ – sinners. 2 Pet. 3:9. (Circumstances - God's love and mercy, man's repentance)
+#### (a) Rejection of the Word of God, the Covenant, Christ – sinners. 2 Pet. 3:9. (Circumstances – God's love and mercy, man's repentance)
 > The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance. (2 Pet. 3:9, KJV)
 
-#### (b) Violation of the Word of God (laws, lives) – sinners, the righteous. (Circumstances are God's love and mercy, the upbringing of a man) Heb. 12:5-11 (David)
+#### (b) Violation of the Word of God (laws, lives) – sinners, the righteous. (Circumstances – God's love and mercy, human upbringing) Heb. 12:5-11 (David)
 > And ye have forgotten the exhortation which speaketh unto you as unto children, My son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him: For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth. If ye endure chastening, God dealeth with you as with sons; for what son is he whom the father chasteneth not? But if ye be without chastisement, whereof all are partakers, then are ye bastards, and not sons. Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live? For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness. Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby. (Heb. 12:5-11, KJV)
 
-### (2) For the glory of God – knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization
+### (2) For the glory of God, the knowledge and transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
 #### (a) God's plan, the fulfillment of God's will (Joseph, Christ)
 

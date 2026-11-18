@@ -2,7 +2,7 @@
 
 ## 1) The order of events of the Book of Revelation
 
-### (1) The Ministry of Christ, the message to the seven Churches, the importance of knowing and transmitting the Word of God, understanding the future. Rev. 1-3
+### (1) The ministry of Christ, the message to the seven Churches, the importance of knowing and transmitting the Word of God, understanding the future. Rev. 1-3
 
 ### (2) The kingdom of heaven, God's plan, and God's sovereignty. Rev. 4-5
 
@@ -28,7 +28,7 @@
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-### (2) The Second Coming of Christ – the fulfillment of the Word of God, God's plan, the resurrection of the dead, the completion of salvation, eternity with God 2 Thess. 2:1-10,1 Cor. 15:22-23, 51-55,Rev. 21:1-4
+### (2) The Second Coming of Christ is the fulfillment of God's Word, God's plan, the resurrection of the dead, the completion of salvation, eternity with God 2 Thess. 2:1-10,1 Cor. 15:22-23, 51-55,Rev. 21:1-4
 > Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him, That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand. Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition; Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God. Remember ye not, that, when I was yet with you, I told you these things? And now ye know what withholdeth that he might be revealed in his time. For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way. And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming: Even him, whose coming is after the working of Satan with all power and signs and lying wonders, And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved. (2 Thess. 2:1-10, KJV)
 > For as in Adam all die, even so in Christ shall all be made alive. But every man in his own order: Christ the firstfruits; afterward they that are Christ’s at his coming. (1 Cor. 15:22-23, KJV)
 > Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed, In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed. For this corruptible must put on incorruption, and this mortal must put on immortality. So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory. O death, where is thy sting? O grave, where is thy victory? (1 Cor. 15:51-55, KJV)
@@ -36,11 +36,11 @@
 
 ### (3) Man's communion with God is the right to choose (the coming of Christ)
 
-### (4) Human communication with demons is the right of choice (the coming of the Antichrist)
+### (4) Human communication with demons is a right of choice (the coming of the Antichrist)
 
 ## 3) The importance of understanding God's sovereignty, God's Plan
 
-### (1) An explanation of God's plan – The Word of God, the Covenant, Christ
+### (1) The Explanation of God's Plan – The Word of God, the Covenant, Christ
 
 #### (a) Dan. 9:24-26, - the coming of Christ (7+62=69, 1 week left)
 > Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy. Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times. And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined. (Dan. 9:24-26, KJV)
@@ -52,9 +52,9 @@
 
 #### (a) The first half of the Great Tribulation (3.5 l.) – the existence of the Antichrist, the restoration and ministry of the third false temple, the judgments of God (seven seals, seven thunders and seven trumpets), the ministry of two of God's prophets in Jerusalem (testimony against the false third temple), the accusation by the Antichrist of two of God's prophets and all Christians in the "wrath of God" (judgments of God), local persecution, the murder of two of God's prophets, the resurrection of the dead and the ascension of the Church of Christ
 
-#### (b) The second half of the Great Tribulation (3.5 l.) – the cessation of service in the third false temple, the accession of the Antichrist and declaring himself "king and God" (the stoppage of God's judgments - about three years of "peace and security"), God's Judgment on Religion, the continuation of the judgments of God (the seven bowls), the Battle of Armageddon, the Second Coming and the 1000th kingdom of Jesus Christ on earth, the Last Judgment, the new earth and the new heaven, the continuation of God's creation…
+#### (b) The second half of the Great Tribulation (3.5 l.) – the cessation of service in the third false temple, the accession of the Antichrist and the declaration of himself as "king and God" (the stoppage of God's judgments - about three years of "peace and security"), God's Judgment on Religion, the continuation of the judgments of God (the seven bowls), the Battle of Armageddon, the Second Coming and the 1000th kingdom of Jesus Christ on earth, the Last Judgment, the new earth and the new heaven, the continuation of God's creation…
 
-## 4) Rev. 14, - affirmation of the Word of God, the Covenant, Christ
+## 4) Rev. 14, - affirmation of the Word of God, the Covenant, of Christ
 
 ### (1) Rev. 14:1-5, - the importance of accepting the Word of God, the Covenant, Christ, the Jews
 > And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty and four thousand, having his Father’s name written in their foreheads. And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and I heard the voice of harpers harping with their harps: And they sung as it were a new song before the throne, and before the four beasts, and the elders: and no man could learn that song but the hundred and forty and four thousand, which were redeemed from the earth. These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb whithersoever he goeth. These were redeemed from among men, being the firstfruits unto God and to the Lamb. And in their mouth was found no guile: for they are without fault before the throne of God. (Rev. 14:1-5, KJV)
@@ -88,10 +88,10 @@
 ### (5) Rev. 14:12-13, - understanding the possibility of salvation in the second half of the Great Tribulation. (The importance of keeping the Commandments of God, the importance of understanding the purpose of the Commandments of the Covenant and the Commandments of the Law, the importance of understanding the Word of God, the Covenant, Christ)
 > Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus. And I heard a voice from heaven saying unto me, Write, Blessed are the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest from their labours; and their works do follow them. (Rev. 14:12-13, KJV)
 
-### (6) Rev. 14:14-20, - God's wrath and judgments of God, the fulfillment of the Word of God (Prophetic vision of the Battle of Armageddon, the coming of Christ)
+### (6) Rev. 14:14-20, - God's wrath and judgments, the fulfillment of the Word of God (Prophetic vision of the Battle of Armageddon, the coming of Christ)
 > And I looked, and behold a white cloud, and upon the cloud one sat like unto the Son of man, having on his head a golden crown, and in his hand a sharp sickle. And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, Thrust in thy sickle, and reap: for the time is come for thee to reap; for the harvest of the earth is ripe. And he that sat on the cloud thrust in his sickle on the earth; and the earth was reaped. And another angel came out of the temple which is in heaven, he also having a sharp sickle. And another angel came out from the altar, which had power over fire; and cried with a loud cry to him that had the sharp sickle, saying, Thrust in thy sharp sickle, and gather the clusters of the vine of the earth; for her grapes are fully ripe. And the angel thrust in his sickle into the earth, and gathered the vine of the earth, and cast it into the great winepress of the wrath of God. And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand and six hundred furlongs. (Rev. 14:14-20, KJV)
 
-## 5) Rev. 15, - preparation for the continuation of the judgments of God. (Angels, God's people, the seven bowls of the plagues of God's wrath). Gal. 6:7-8
+## 5) Rev. 15, - preparation for the continuation of the judgments of God. (The angels, the people of God, the seven bowls of the plagues of God's wrath). Gal. 6:7-8
 > Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap. For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting. (Gal. 6:7-8, KJV)
 
 ## 6) Rev. 16, - fulfillment of the Word of God, the Covenant, Christ, the judgments of God
@@ -117,17 +117,17 @@
 ### (7) Rev. 16:12-16, - The 6th Chalice, the draining of the Euphrates River, humanity's attempt to stop the 2nd coming of Christ (Armageddon)
 > And the sixth angel poured out his vial upon the great river Euphrates; and the water thereof was dried up, that the way of the kings of the east might be prepared. And I saw three unclean spirits like frogs come out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet. For they are the spirits of devils, working miracles, which go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty. Behold, I come as a thief. Blessed is he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame. And he gathered them together into a place called in the Hebrew tongue Armageddon. (Rev. 16:12-16, KJV)
 
-### (8) Rev. 16:15, - God is love, mercy (the possibility of accepting the Word of God)
+### (8) Rev. 16:15, - God's love, mercy (the possibility of accepting the Word of God)
 > Behold, I come as a thief. Blessed is he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame. (Rev. 16:15, KJV)
 
 ### (9) Rev. 16:17-21, - the 7th bowl, the strongest earthquake and hail
 > And the seventh angel poured out his vial into the air; and there came a great voice out of the temple of heaven, from the throne, saying, It is done. And there were voices, and thunders, and lightnings; and there was a great earthquake, such as was not since men were upon the earth, so mighty an earthquake, and so great. And the great city was divided into three parts, and the cities of the nations fell: and great Babylon came in remembrance before God, to give unto her the cup of the wine of the fierceness of his wrath. And every island fled away, and the mountains were not found. And there fell upon men a great hail out of heaven, every stone about the weight of a talent: and men blasphemed God because of the plague of the hail; for the plague thereof was exceeding great. (Rev. 16:17-21, KJV)
 
-### (10) Ex. 8:22; 9:26, - the safety of the people of God in the judgments of God – acceptance of the Word of God, the Covenant, Christ, the justice of God (the land of Goshen)
+### (10) Ex. 8:22; 9:26, - the safety of God's people in the judgments of God – acceptance of the Word of God, the Covenant, Christ, the justice of God (the land of Goshen)
 > And I will sever in that day the land of Goshen, in which my people dwell, that no swarms of flies shall be there; to the end thou mayest know that I am the LORD in the midst of the earth. (Ex. 8:22, KJV)
 > Only in the land of Goshen, where the children of Israel were, was there no hail. (Ex. 9:26, KJV)
 
-### (11) The possibility of accepting the Word of God, the Covenant, Christ is God's Grace Rev. 13:15; 14:9-13; 16:9
+### (11) The possibility of accepting the Word of God, the Covenant, and Christ is God's grace Rev. 13:15; 14:9-13; 16:9
 > And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed. (Rev. 13:15, KJV)
 > And the third angel followed them, saying with a loud voice, If any man worship the beast and his image, and receive his mark in his forehead, or in his hand, The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb: And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name. Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus. And I heard a voice from heaven saying unto me, Write, Blessed are the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest from their labours; and their works do follow them. (Rev. 14:9-13, KJV)
 > And men were scorched with great heat, and blasphemed the name of God, which hath power over these plagues: and they repented not to give him glory. (Rev. 16:9, KJV)
@@ -138,4 +138,4 @@
 
 ### (2) The importance of understanding salvation in the second half of the Tribulation, God's love and mercy
 
-### (3) The importance of Understanding the Inevitable Fulfillment of God's Word, God's Plan – understanding the past, present, and future
+### (3) The importance of understanding the inevitable fulfillment of God's Word, God's plan – understanding the past, present, and future

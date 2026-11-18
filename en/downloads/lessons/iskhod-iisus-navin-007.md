@@ -1,6 +1,6 @@
 # 1. Ex. 20–24: Law – Understanding God's Commandments
 
-## 1) The importance of the Covenant, Christ in human life. (A Covenant is a Contract initiated by God)
+## 1) The importance of the Covenant, of Christ in human life. (A Covenant is a Contract initiated by God)
 
 ### (1) The General Covenant of Salvation is God's conditions for any person to stay with God, Emmanuel
 
@@ -54,7 +54,7 @@
 #### (b) Ex. 21-23, - social and legal law, preservation of the people. (N.Z. – the social and legal law of the country has been abolished). Rom. 13:1-5
 > Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God. Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation. For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same: For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil. Wherefore ye must needs be subject, not only for wrath, but also for conscience sake. (Rom. 13:1-5, KJV)
 
-#### (c) Ex. 23-24, - The liturgical law, understanding the Word of God, the Covenant, Christ (N.Z. – abrogated, God the liturgy, the order of Worship). Acts 2:42
+#### (c) Ex. 23-24, - Liturgical law, understanding of the Word of God, the Covenant, Christ (N.Z. – abolished, Divine liturgy, order of Worship). Acts 2:42
 > And they continued stedfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers. (Acts 2:42, KJV)
 
 ## 4) The Commandments of the Law – Decalogue (Ten Commandments)
@@ -120,7 +120,7 @@
 
 ### (1) Understanding sin (good and evil) and the impossibility of salvation through human efforts (spiritual mirror and guide to Christ)
 
-### (2) The right life, service to God and man – knowledge and transmission of the Word of God, the Covenant, Christ
+### (2) Living a right life, serving God and man – learning and transmitting the Word of God, the Covenant, and Christ
 
 ## 7) The importance of the legitimate application of the Law
 

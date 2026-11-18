@@ -1,6 +1,6 @@
 # 7. Day 13, - 1st missionary journey of the Apostle Paul, 46 A.D. (Cyprus, Antioch, Iconium, Lystra, Derbe Galatia, modern Southern Turkey)
 
-## 1) Acts 13:1-3, - importance of disciples, transmission of the Word of God, the Covenant, Christ Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
+## 1) Acts 13:1-3, - the importance of disciples, the transmission of the Word of God, the Covenant, Christ Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
 > Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul. As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them. And when they had fasted and prayed, and laid their hands on them, they sent them away. (Acts 13:1-3, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -19,11 +19,11 @@
 
 ### (1) The Church of Antioch – Barnabas, Paul
 
-#### (a) An accurate understanding of the Word of God, the Covenant, Christ – the Good News, the Gentiles
+#### (a) An accurate understanding of the Word of God, the Covenant, and Christ – The Good News, Gentiles
 
-#### (b) The purpose of fasting and prayer is to seek and desire the fulfillment of God's will.
+#### (b) The purpose of fasting and prayer is to seek and desire fulfillment of God's will.
 
-#### (c) The importance of understanding the Personality (said) and actions of the Holy Spirit – knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization
+#### (c) The importance of understanding the Personality (said) and the work of the Holy Spirit – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization
 
 ### (2) Jerusalem Church – Peter, James. Acts 11:2; 15:1,Gal. 2:11
 > And when Peter was come up to Jerusalem, they that were of the circumcision contended with him, (Acts 11:2, KJV)
@@ -32,7 +32,7 @@
 
 #### (a) Inaccurate understanding of the Word of God, the Covenant, Christ – the Law, the Jews
 
-#### (b) Worldwide Evangelization is accomplished – God uses the Antiochian Church, not the Jerusalem Church
+#### (b) The accomplishment of Worldwide Evangelization is God's use of the Church of Antioch, not the Church of Jerusalem.
 
 ## 2) Acts 13-14, - transmission of the Word of God, the Covenant, Christ, 1st missive. journey. (Cyprus, Antioch, Iconium, Lystra, Derbe–Galatia, modern Southern Turkey, 46 A.D.)
 
@@ -42,12 +42,12 @@
 ### (2) Acts 13:5, - transmission of the Word of God, the Covenant, Christ (synagogues, believers)
 > And when they were at Salamis, they preached the word of God in the synagogues of the Jews: and they had also John to their minister. (Acts 13:5, KJV)
 
-### (3) Acts 13:6-12, - the action of Satan, stop the transmission of the Word of God, the Covenant, Christ
+### (3) Acts 13:6-12, - the action of Satan, to stop the transmission of the Word of God, the Covenant, Christ
 > And when they had gone through the isle unto Paphos, they found a certain sorcerer, a false prophet, a Jew, whose name was Bar-jesus: Which was with the deputy of the country, Sergius Paulus, a prudent man; who called for Barnabas and Saul, and desired to hear the word of God. But Elymas the sorcerer (for so is his name by interpretation) withstood them, seeking to turn away the deputy from the faith. Then Saul, (who also is called Paul,) filled with the Holy Ghost, set his eyes on him, And said, O full of all subtilty and all mischief, thou child of the devil, thou enemy of all righteousness, wilt thou not cease to pervert the right ways of the Lord? And now, behold, the hand of the Lord is upon thee, and thou shalt be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand. Then the deputy, when he saw what was done, believed, being astonished at the doctrine of the Lord. (Acts 13:6-12, KJV)
 
 #### (a) God's sovereignty, the prepared disciples (Sergius Paulus)
 
-#### (b) False prophets, miracles, false teachings (Elim the Magus, the devil child)
+#### (b) False prophets, miracles, false teachings (Elim the Magus, child of the devil)
 
 #### (c) Blindness is an affirmation of the human condition. 2 Cor. 4:4. (Temporary blindness is God's love and mercy, the possibility of repentance, and God's punishment for human correction)
 > In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them. (2 Cor. 4:4, KJV)
@@ -62,9 +62,9 @@
 ### (2) Acts 13:14-15, - transmission of the Word of God, the Covenant, Christ (synagogue)
 > But when they departed from Perga, they came to Antioch in Pisidia, and went into the synagogue on the sabbath day, and sat down. And after the reading of the law and the prophets the rulers of the synagogue sent unto them, saying, Ye men and brethren, if ye have any word of exhortation for the people, say on. (Acts 13:14-15, KJV)
 
-#### (a) The importance of people believing in God, the importance of accurately understanding the Word of God, the Covenant, Christ, the importance of human salvation
+#### (a) The importance of people believing in God, the importance of accurately understanding the Word of God, the Covenant, Christ, and the importance of human salvation
 
-#### (b) The importance of systematic study of the Holy Scriptures, the proper emphasis of the faith of God. Hos. 4:6. (The action of Satan is an emphasis on songs, deeds, prayers, etc.)
+#### (b) The importance of systematic study of the Holy Scriptures, the proper emphasis of the faith of God. Hos. 4:6. (Satan's action is an emphasis on songs, deeds, prayers, etc.)
 > My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children. (Hos. 4:6, KJV)
 
 #### (c) The importance of a correct understanding of the scriptures from the perspective of the Covenant and Christ. John 5:39
@@ -74,7 +74,7 @@
 > Then Paul stood up, and beckoning with his hand said, Men of Israel, and ye that fear God, give audience. The God of this people of Israel chose our fathers, and exalted the people when they dwelt as strangers in the land of Egypt, and with an high arm brought he them out of it. And about the time of forty years suffered he their manners in the wilderness. And when he had destroyed seven nations in the land of Chanaan, he divided their land to them by lot. And after that he gave unto them judges about the space of four hundred and fifty years, until Samuel the prophet. And afterward they desired a king: and God gave unto them Saul the son of Cis, a man of the tribe of Benjamin, by the space of forty years. And when he had removed him, he raised up unto them David to be their king; to whom also he gave testimony, and said, I have found David the son of Jesse, a man after mine own heart, which shall fulfil all my will. Of this man’s seed hath God according to his promise raised unto Israel a Saviour, Jesus: When John had first preached before his coming the baptism of repentance to all the people of Israel. And as John fulfilled his course, he said, Whom think ye that I am? I am not he. But, behold, there cometh one after me, whose shoes of his feet I am not worthy to loose. Men and brethren, children of the stock of Abraham, and whosoever among you feareth God, to you is the word of this salvation sent. For they that dwell at Jerusalem, and their rulers, because they knew him not, nor yet the voices of the prophets which are read every sabbath day, they have fulfilled them in condemning him. And though they found no cause of death in him, yet desired they Pilate that he should be slain. And when they had fulfilled all that was written of him, they took him down from the tree, and laid him in a sepulchre. But God raised him from the dead: And he was seen many days of them which came up with him from Galilee to Jerusalem, who are his witnesses unto the people. And we declare unto you glad tidings, how that the promise which was made unto the fathers, God hath fulfilled the same unto us their children, in that he hath raised up Jesus again; as it is also written in the second psalm, Thou art my Son, this day have I begotten thee. And as concerning that he raised him up from the dead, now no more to return to corruption, he said on this wise, I will give you the sure mercies of David. Wherefore he saith also in another psalm, Thou shalt not suffer thine Holy One to see corruption. For David, after he had served his own generation by the will of God, fell on sleep, and was laid unto his fathers, and saw corruption: But he, whom God raised again, saw no corruption. Be it known unto you therefore, men and brethren, that through this man is preached unto you the forgiveness of sins: And by him all that believe are justified from all things, from which ye could not be justified by the law of Moses. Beware therefore, lest that come upon you, which is spoken of in the prophets; Behold, ye despisers, and wonder, and perish: for I work a work in your days, a work which ye shall in no wise believe, though a man declare it unto you. And when the Jews were gone out of the synagogue, the Gentiles besought that these words might be preached to them the next sabbath. Now when the congregation was broken up, many of the Jews and religious proselytes followed Paul and Barnabas: who, speaking to them, persuaded them to continue in the grace of God. (Acts 13:16-43, KJV)
 > And we declare unto you glad tidings, how that the promise which was made unto the fathers, God hath fulfilled the same unto us their children, in that he hath raised up Jesus again; as it is also written in the second psalm, Thou art my Son, this day have I begotten thee. And as concerning that he raised him up from the dead, now no more to return to corruption, he said on this wise, I will give you the sure mercies of David. Wherefore he saith also in another psalm, Thou shalt not suffer thine Holy One to see corruption. For David, after he had served his own generation by the will of God, fell on sleep, and was laid unto his fathers, and saw corruption: But he, whom God raised again, saw no corruption. Be it known unto you therefore, men and brethren, that through this man is preached unto you the forgiveness of sins: And by him all that believe are justified from all things, from which ye could not be justified by the law of Moses. (Acts 13:32-39, KJV)
 
-#### (a) Acts 13:16-23, - the importance of understanding the destiny of the people of God, the knowledge and transmission of the Word of God, the Covenant, Christ, the fulfillment of World Evangelization, the preparation of the first coming of Christ
+#### (a) Acts 13:16-23, - the importance of understanding the destiny of the people of God, the knowledge and transmission of the Word of God, the Covenant, Christ, the accomplishment of Worldwide Evangelization, the preparation of the first coming of Christ
 > Then Paul stood up, and beckoning with his hand said, Men of Israel, and ye that fear God, give audience. The God of this people of Israel chose our fathers, and exalted the people when they dwelt as strangers in the land of Egypt, and with an high arm brought he them out of it. And about the time of forty years suffered he their manners in the wilderness. And when he had destroyed seven nations in the land of Chanaan, he divided their land to them by lot. And after that he gave unto them judges about the space of four hundred and fifty years, until Samuel the prophet. And afterward they desired a king: and God gave unto them Saul the son of Cis, a man of the tribe of Benjamin, by the space of forty years. And when he had removed him, he raised up unto them David to be their king; to whom also he gave testimony, and said, I have found David the son of Jesse, a man after mine own heart, which shall fulfil all my will. Of this man’s seed hath God according to his promise raised unto Israel a Saviour, Jesus: (Acts 13:16-23, KJV)
 
 #### (b) Acts 13:24-25; 19:4 (19:4), - the importance of understanding the meaning of John the Baptist's ministry, affirming and indicating the coming of Christ
@@ -87,17 +87,17 @@
 #### (d) Acts 13:38-39, - the importance of understanding the essence of the Word of God, the Covenant, Christ (Forgiveness of all sins, full justification and salvation of man)
 > Be it known unto you therefore, men and brethren, that through this man is preached unto you the forgiveness of sins: And by him all that believe are justified from all things, from which ye could not be justified by the law of Moses. (Acts 13:38-39, KJV)
 
-#### (e) Acts 13:40-41, - the importance of accepting the Word of God, the Covenant, Christ
+#### (e) Acts 13:40-41, - the importance of accepting the Word of God, the Covenant, and Christ
 > Beware therefore, lest that come upon you, which is spoken of in the prophets; Behold, ye despisers, and wonder, and perish: for I work a work in your days, a work which ye shall in no wise believe, though a man declare it unto you. (Acts 13:40-41, KJV)
 
-#### (e) Acts 13:42-43, - the importance of constant and systematic listening and reasoning over the Word of God, the Covenant, Christ 1 Tim. 4:16
+#### (e) Acts 13:42-43, - the importance of constant and systematic listening and reasoning over the Word of God, the Covenant, and Christ 1 Tim. 4:16
 > And when the Jews were gone out of the synagogue, the Gentiles besought that these words might be preached to them the next sabbath. Now when the congregation was broken up, many of the Jews and religious proselytes followed Paul and Barnabas: who, speaking to them, persuaded them to continue in the grace of God. (Acts 13:42-43, KJV)
 > Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee. (1 Tim. 4:16, KJV)
 
-### (4) Acts 13:44-52, - the action of Satan, stop the transmission of the Word of God, the Covenant, Christ
+### (4) Acts 13:44-52, - the action of Satan, to stop the transmission of the Word of God, the Covenant, Christ
 > And the next sabbath day came almost the whole city together to hear the word of God. But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming. Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing ye put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles. For so hath the Lord commanded us, saying, I have set thee to be a light of the Gentiles, that thou shouldest be for salvation unto the ends of the earth. And when the Gentiles heard this, they were glad, and glorified the word of the Lord: and as many as were ordained to eternal life believed. And the word of the Lord was published throughout all the region. But the Jews stirred up the devout and honourable women, and the chief men of the city, and raised persecution against Paul and Barnabas, and expelled them out of their coasts. But they shook off the dust of their feet against them, and came unto Iconium. And the disciples were filled with joy, and with the Holy Ghost. (Acts 13:44-52, KJV)
 
-#### (a) Acts 13:44-45, - non-acceptance of the Word of God, the Covenant, Christ (Jews)
+#### (a) Acts 13:44-45, - rejection of the Word of God, the Covenant, Christ (Jews)
 > And the next sabbath day came almost the whole city together to hear the word of God. But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming. (Acts 13:44-45, KJV)
 
 #### (b) Acts 13:46, - the right to choose a person, the importance of understanding the personal responsibility of each person in relation to the Word of God, the Covenant, Christ, understanding the calling grace of God
@@ -107,25 +107,25 @@
 > For so hath the Lord commanded us, saying, I have set thee to be a light of the Gentiles, that thou shouldest be for salvation unto the ends of the earth. And when the Gentiles heard this, they were glad, and glorified the word of the Lord: and as many as were ordained to eternal life believed. (Acts 13:47-48, KJV)
 > For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren. (Rom. 8:29, KJV)
 
-#### (d) Acts 13:49, - the importance of understanding the action of the Holy Spirit, the accomplishment of World Evangelization, the importance of transmitting the Word of God, the Covenant, Christ Rom. 1:18,1 Cor. 1:18
+#### (d) Acts 13:49, - the importance of understanding the work of the Holy Spirit, the accomplishment of Worldwide Evangelization, the importance of transmitting the Word of God, the Covenant, and Christ Rom. 1:18,1 Cor. 1:18
 > And the word of the Lord was published throughout all the region. (Acts 13:49, KJV)
 > For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness; (Rom. 1:18, KJV)
 > For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God. (1 Cor. 1:18, KJV)
 
-#### (e) Acts 13:50-51, - non-acceptance of the Word of God, the Covenant, Christ, the right to choose and the responsibility of every human being. Deut. 30:19
+#### (e) Acts 13:50-51, - rejection of the Word of God, the Covenant, Christ, the right to choose and the responsibility of every human being. Deut. 30:19
 > But the Jews stirred up the devout and honourable women, and the chief men of the city, and raised persecution against Paul and Barnabas, and expelled them out of their coasts. But they shook off the dust of their feet against them, and came unto Iconium. (Acts 13:50-51, KJV)
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
-#### (e) Acts 13:52, - the importance of students, the fulfillment of destiny. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+#### (e) Acts 13:52, - the importance of students, the fulfillment of destiny. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 > And the disciples were filled with joy, and with the Holy Ghost. (Acts 13:52, KJV)
 
 ## Conclusion:
 
 ### (1) The importance of fulfilling the destiny of God's people
 
-### (2) The importance of transmitting the Word of God, the Covenant, Christ to the ends of the earth
+### (2) The importance of transmitting the Word of God, the Covenant, and Christ to the ends of the earth
 
-### (3) The importance of understanding the actions of Satan, the spiritual warfare of the people of God
+### (3) The importance of understanding the work of Satan, the spiritual warfare of God's people
 
 ### (4) The importance of understanding prepared disciples in every place, God's sovereignty and control, and meeting schedules. John 8:47
 > He that is of God heareth God’s words: ye therefore hear them not, because ye are not of God. (John 8:47, KJV)

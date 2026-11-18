@@ -1,8 +1,8 @@
 # 1 Cor. 11: Financial Service of God's People
-## 13.1) 1 Cor. 11:1-2, - the importance of conveying the Word of God, the Covenant, Christ
+## 13.1) 1 Cor. 11:1-2, - the importance of conveying the Word of God, the Covenant, and Christ
 > Be ye followers of me, even as I also am of Christ. Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered them to you. (1 Cor. 11:1-2, KJV)
 
-### (1) 1 Cor. 11:1, - the importance of fulfilling the destiny of the people of God, the importance of knowing and transmitting the Word of God, the Covenant, Christ, World Evangelization, life for people and for God (the example of Jesus Christ and Paul) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
+### (1) 1 Cor. 11:1, - the importance of fulfilling the destiny of the people of God, the importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, life for people and for God (the example of Jesus Christ and Paul) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
 > Be ye followers of me, even as I also am of Christ. (1 Cor. 11:1, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -22,7 +22,7 @@
 > Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered them to you. (1 Cor. 11:2, KJV)
 > I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel: Which is not another; but there be some that trouble you, and would pervert the gospel of Christ. But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed. As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed. (Gal. 1:6-9, KJV)
 
-## 2) 1 Cor. 11:3-16, - the importance of understanding God's sovereignty
+## 2) 1 Cor. 11:3-16, - The importance of understanding God's sovereignty
 > But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God. Every man praying or prophesying, having his head covered, dishonoureth his head. But every woman that prayeth or prophesieth with her head uncovered dishonoureth her head: for that is even all one as if she were shaven. For if the woman be not covered, let her also be shorn: but if it be a shame for a woman to be shorn or shaven, let her be covered. For a man indeed ought not to cover his head, forasmuch as he is the image and glory of God: but the woman is the glory of the man. For the man is not of the woman; but the woman of the man. Neither was the man created for the woman; but the woman for the man. For this cause ought the woman to have power on her head because of the angels. Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord. For as the woman is of the man, even so is the man also by the woman; but all things of God. Judge in yourselves: is it comely that a woman pray unto God uncovered? Doth not even nature itself teach you, that, if a man have long hair, it is a shame unto him? But if a woman have long hair, it is a glory to her: for her hair is given her for a covering. But if any man seem to be contentious, we have no such custom, neither the churches of God. (1 Cor. 11:3-16, KJV)
 
 ### (1) 1 Cor. 11:3, - God's sovereignty and God's order. (God the Father – Christ – husband–wife, the principle of creation)
@@ -64,17 +64,17 @@
 
 #### (c) Neglect of Communion, gathering for the sake of a holiday and eating physical food
 
-### (2) 1 Cor. 11:23-26, - the meaning of the Sacrament, the affirmation of the Covenant, Christ
+### (2) 1 Cor. 11:23-26, - the meaning of Communion, the affirmation of the Covenant, of Christ
 > For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread: And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me. After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me. For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come. (1 Cor. 11:23-26, KJV)
 
 #### (a) Accepting Jesus as the Messiah, Christ is God in the flesh
 
-#### (b) Understanding the purpose of the coming of Jesus Christ – to die for all our sins, the execution of the sentence of the Word of God instead of man Rom. 10:9
+#### (b) Understanding the purpose of the coming of Jesus Christ – to die for all our sins, fulfilling the sentence of the Word of God instead of man Rom. 10:9
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
 #### (c) The affirmation of the resurrection of Jesus Christ and the expectation of His 2nd coming, the resurrection of the dead and the life of the next age
 
-## 5) 1 Cor. 11:27-30, - understanding the unworthy Communion. (Misunderstanding, non-acceptance of the Sacrifice of Christ for the salvation of man)
+## 5) 1 Cor. 11:27-30, - understanding the unworthy Communion. (Misunderstanding, non-acceptance of Christ's Sacrifice for human salvation)
 > Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord. But let a man examine himself, and so let him eat of that bread, and drink of that cup. For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord’s body. For this cause many are weak and sickly among you, and many sleep. (1 Cor. 11:27-30, KJV)
 
 ### (1) Complete Transfiguration (Western Theology) – the acceptance of bread and wine as the actual body and blood of Christ
@@ -101,33 +101,33 @@
 > For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in the presence of God for us: (Heb. 9:24, KJV)
 > For by one offering he hath perfected for ever them that are sanctified. (Heb. 10:14, KJV)
 
-### (4) Misunderstanding of the Word of God, the Covenant, Christ (the essence of sin)
+### (4) Misunderstanding of the Word of God, the Covenant, and Christ (the essence of sin)
 
 #### (a) A rite is a meaningless act without understanding the Covenant, Christ
 
-#### (b) Mysticism – the desire for a person to receive visible answers in a supernatural way, without understanding the Word of God, the Covenant, Christ
+#### (b) Mysticism – the desire for a person to receive visible answers in a supernatural way, without understanding the Word of God, the Covenant, or Christ
 
 ### (5) Denial of the fact of forgiveness of all human sins
 
-#### (a) The special importance of understanding the work of Satan is the heretical teaching of the "mixed gospel" and "partial salvation", the conscious rejection of the all–sufficiency of Christ's Sacrifice. (An unforgiven or unforgiven sin is the impossibility of a person's legitimate justification, eternal separation from God)
+#### (a) The heretical teaching of the "mixed gospel" and "partial salvation" and the conscious rejection of the all–sufficiency of Christ's Sacrifice are particularly important for understanding Satan's actions. (An unforgiven or unforgiven sin is the impossibility of a person's legitimate justification, eternal separation from God)
 
 #### (b) Communion is the confession of sins and God's method of solution. (An attempt at purification outside of the Sacrifice and Asceticism of Christ is heresy)
 
-#### (c) Communion is the affirmation of the Word of God, the Covenant, Christ, and a constant reminder of the reason for the righteousness and holiness of God's people
+#### (c) Communion is the affirmation of the Word of God, the Covenant, of Christ, and a constant reminder of the cause of the righteousness and holiness of God's people.
 
-#### (d) The prohibition of participation in the Communion of children, God is the work of the Law, religion. (There has never been, there is not, and there will not be worthy ones). 1 Cor. 11:23-32
+#### (d) Prohibition of participation in the Communion of the children of God – works of the Law, religion. (There has never been, there is not, and there will not be worthy ones). 1 Cor. 11:23-32
 > For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread: And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me. After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me. For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come. Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord. But let a man examine himself, and so let him eat of that bread, and drink of that cup. For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord’s body. For this cause many are weak and sickly among you, and many sleep. For if we would judge ourselves, we should not be judged. But when we are judged, we are chastened of the Lord, that we should not be condemned with the world. (1 Cor. 11:23-32, KJV)
 
 ### (6) Christ's denial of the consequences of sin
 
-#### (a) The possession of the children of God (Emmanuel, the action of Satan from the outside)
+#### (a) The possession of the children of God (Emmanuel, the work of Satan from the outside)
 
 #### (b) Ancestral and acquired curses. Gal. 3:10-13. (The sins of God's people are God's punishment, not a curse)
 > For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them. But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith. And the law is not of faith: but, The man that doeth them shall live in them. Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree: (Gal. 3:10-13, KJV)
 
 ## Result:
-- WORTHY ACCEPTANCE is the affirmation of the all–sufficiency and perfection of the Feat and Sacrifice of Christ for the salvation of man.
-- UNWORTHY ACCEPTANCE is an affirmation of the insufficiency and imperfection of the Feat and Sacrifice of Christ for the salvation of man.
+- WORTHY ACCEPTANCE is the affirmation of the all–sufficiency and perfection of Christ's Feat and Sacrifice for human salvation
+- UNWORTHY ACCEPTANCE is an affirmation of the insufficiency and imperfection of Christ's Feat and Sacrifice for human salvation.
 
 ## 6) 1 Cor. 11:31-32, - unworthy Communion, God's punishment
 > For if we would judge ourselves, we should not be judged. But when we are judged, we are chastened of the Lord, that we should not be condemned with the world. (1 Cor. 11:31-32, KJV)
@@ -146,7 +146,7 @@
 
 ## Conclusion:
 
-### (1) The importance of understanding and fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization
+### (1) The importance of understanding and fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
 ### (2) The importance of understanding the Participle correctly
 

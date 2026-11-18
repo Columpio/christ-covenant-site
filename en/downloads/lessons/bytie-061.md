@@ -4,7 +4,7 @@
 ### (1) John 5:39, - all the Scriptures speak about Christ
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 
-### (2) Col. 1:26-27,Eph. 3:8-9, - Christ, the mystery of God revealed by God Himself, God's sovereignty and control. (The impossibility of understanding the Word of God, the Covenant, Christ without the grace of God)
+### (2) Col. 1:26-27,Eph. 3:8-9, - Christ, the mystery of God revealed by God Himself, God's sovereignty and control. (The impossibility of understanding the Word of God, the Covenant, and Christ without the grace of God)
 > Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints: To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory: (Col. 1:26-27, KJV)
 > Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ; And to make all men see what is the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ: (Eph. 3:8-9, KJV)
 
@@ -105,7 +105,7 @@
 
 ### (8) Christ as the One who gives birth to children of Freedom (Ishmael, Isaac)
 
-#### (a) The importance of understanding birth from the Flesh – spiritual bondage
+#### (a) The importance of understanding birth from the flesh – spiritual bondage
 
 #### (b) The importance of understanding birth from God – spiritual freedom
 
@@ -195,7 +195,7 @@
 
 ### (1) The importance of studying the Scriptures
 
-### (2) The Importance of Understanding the Word of God, the Covenant, Christ John 5:39
+### (2) The Importance of Understanding the Word of God, the Covenant, and Christ John 5:39
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 
 ### (3) The importance of understanding Christ from the Beginning, the Importance of understanding God's plan for humanity Amos 3:7,Jer. 29:11

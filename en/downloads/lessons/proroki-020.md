@@ -14,7 +14,7 @@
 
 ### (1) Rejection of the Word of God, the Covenant, Christ, loss of purpose – slavery
 
-### (2) The preservation of the Covenant family, Christ – the knowledge and transmission of the Word of God (Daniel, Shadrach, Mesach, Abednego, Ezra, Nehemiah. Mordecai, etc.)
+### (2) The preservation of the family of the Covenant, of Christ, is the knowledge and transmission of the Word of God (Daniel, Shadrach, Mesach, Abednego, Ezra, Nehemiah. Mordecai, etc.)
 
 ## 2) The stages of the return of God's people
 
@@ -43,7 +43,7 @@
 
 #### (c) Mordecai – saving the king's life
 
-### (2) Esth. 3, - the action of Satan, stop the transmission of the Word of God, the Covenant, Christ
+### (2) Esth. 3, - the action of Satan, to stop the transmission of the Word of God, the Covenant, Christ
 
 #### (a) Esth. 3:1, - Haman, rejection of the Word of God, the Covenant, Christ
 > After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that were with him. (Esth. 3:1, KJV)
@@ -62,24 +62,24 @@
 
 #### (c) Esther's courage, God's protection of Mordecai, Haman's death
 
-### (4) Esth. 9:24-26 (9:24-26), - God sovereignty and control (473 BC)
+### (4) Esth. 9:24-26 (9:24-26), - God's sovereignty and Control (473 BC)
 > Because Haman the son of Hammedatha, the Agagite, the enemy of all the Jews, had devised against the Jews to destroy them, and had cast Pur, that is, the lot, to consume them, and to destroy them; But when Esther came before the king, he commanded by letters that his wicked device, which he devised against the Jews, should return upon his own head, and that he and his sons should be hanged on the gallows. Wherefore they called these days Purim after the name of Pur. Therefore for all the words of this letter, and of that which they had seen concerning this matter, and which had come unto them, (Esth. 9:24-26, KJV)
 
-#### (a) Allowing Jews to defend themselves is God's preservation of the people
+#### (a) Allowing Jews to defend themselves is the preservation of God's people
 
-#### (b) The feast of Purim – God's protection and deliverance (pur – lot)
+#### (b) The feast of Purim is God's protection and deliverance (pur – lot)
 
-#### (c) Mordecai, Esther – fulfillment of destiny. (God's Preservation of the People – transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization)
+#### (c) Mordecai, Esther – fulfillment of destiny. (The Preservation of God's people is the transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization)
 
 ## Conclusion:
 
 ### (1) The importance of understanding and fulfilling the destiny of God's people, God's sovereignty and control. (Esther's Sermon – the ministry of Ezra and Nehemiah)
 
-### (2) The action of Satan is to stop the transmission of the Word of God, the Covenant, Christ, World Evangelization
+### (2) Satan's action is to stop the transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
 #### (a) Complaints to the Kings of Persia - Importance of the Temple (Covenant, Christ, World Evangelism)
 
-#### (b) The physical destruction of the Jews – the transmission of the Word of God, the Covenant, Christ
+#### (b) The physical destruction of the Jews is the transmission of the Word of God, the Covenant, and Christ
 
 #### (c) Pagan wives (purity of teaching, descendants)
 
@@ -107,15 +107,15 @@
 
 ### (5) The importance of understanding the meaning of the books of Ezra, Esther, Nehemiah for the people of God in the New Testament
 
-#### (a) The importance of the conquest of Canaan, the importance of rebuilding the Altar, the Temple, and Jerusalem – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ
+#### (a) The importance of the conquest of Canaan, the importance of rebuilding the Altar, the Temple, and Jerusalem –knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, and preparation for the coming of Christ
 
 #### (b) Canaan in N.Z. – the whole world, the importance of local Churches to the ends of the earth, Worldwide Evangelization, fulfillment of destiny
 
-#### (c) The Altar and Sacrifice in N.Z. – the importance of understanding Jesus Christ and His Sacrifice on the Cross of Calvary, the importance of properly understanding the Word of God, the Covenant, Christ for man
+#### (c) The Altar and Sacrifice in N.Z. – the importance of understanding Jesus Christ and His Sacrifice on the Cross of Calvary, the importance of a proper understanding of the Word of God, the Covenant, and Christ for man
 
 #### (d) The Temple and Jerusalem in N.Z. – the house of prayer, the local Churches, the central place of God's faith, the self-awareness of God's people, the importance of fulfilling their destiny
 
 #### (e) The Walls of Jerusalem in N.Z. – spiritual warfare, protection of the faith of God, the importance of proper Liturgy in N.Z. Acts 2:42
 > And they continued stedfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers. (Acts 2:42, KJV)
 
-#### (e) The Book of Esther in N.Z. – understanding the unchanging actions of Satan, the attempt to destroy the people of God, stopping the knowledge and transmission of the Word of God, the Covenant, Christ (God's sovereignty and control)
+#### (e) The Book of Esther in N.Z. – understanding the unchanging work of Satan, an attempt to destroy the people of God, stopping the knowledge and transmission of the Word of God, the Covenant, Christ (God's sovereignty and control)

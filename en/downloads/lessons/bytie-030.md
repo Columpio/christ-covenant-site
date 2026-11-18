@@ -1,6 +1,6 @@
 # 30. Gen. 14, - Abraham and Melchizedek
 
-## 1) Gen. 14:1-12 (5), - the importance of the Word of God, the Covenant, Christ for man
+## 1) Gen. 14:1-12 (5), - the importance of the Word of God, the Covenant, and Christ for man
 > And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations; That these made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar. All these were joined together in the vale of Siddim, which is the salt sea. Twelve years they served Chedorlaomer, and in the thirteenth year they rebelled. And in the fourteenth year came Chedorlaomer, and the kings that were with him, and smote the Rephaims in Ashteroth Karnaim, and the Zuzims in Ham, and the Emims in Shaveh Kiriathaim, And the Horites in their mount Seir, unto El-paran, which is by the wilderness. And they returned, and came to En-mishpat, which is Kadesh, and smote all the country of the Amalekites, and also the Amorites, that dwelt in Hazezon-tamar. And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same is Zoar;) and they joined battle with them in the vale of Siddim; With Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five. And the vale of Siddim was full of slimepits; and the kings of Sodom and Gomorrah fled, and fell there; and they that remained fled to the mountain. And they took all the goods of Sodom and Gomorrah, and all their victuals, and went their way. And they took Lot, Abram’s brother’s son, who dwelt in Sodom, and his goods, and departed. (Gen. 14:1-12, KJV)
 
 ### (1) Rejection of the Word of God, the Covenant, Christ – wars, conflicts, etc., inevitable consequences for humanity Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
@@ -19,7 +19,7 @@
 ## 2) Giants – an explanation of the Word of God. Gen. 14:5
 > And in the fourteenth year came Chedorlaomer, and the kings that were with him, and smote the Rephaims in Ashteroth Karnaim, and the Zuzims in Ham, and the Emims in Shaveh Kiriathaim, (Gen. 14:5, KJV)
 
-### (1) Giants – people with visible success outside the Word of God, the Covenant, Christ, were born before and after the Flood. (Scientific confirmation, archeology – human remains from 3.5 to 5 meters, confirmation of the testimony of the Word of God) Gen. 6:4 (people), Acts 17:26,Matt. 24:38, - Gen. 14:5,Num. 13:31-33, Deut. 2:10-11, 20; 3:11,1 Sam. 17:4,2 Sam. 21:16-22, - Isa. 14:9-15. (Rephaim, Zuzim, Emim – the name of the post-flood. giants)
+### (1) Giants – people with visible success outside the Word of God, the Covenant, and Christ, were born before and after the Flood. (Scientific confirmation, archeology – human remains from 3.5 to 5 meters, confirmation of the testimony of the Word of God) Gen. 6:4 (people), Acts 17:26,Matt. 24:38, - Gen. 14:5,Num. 13:31-33, Deut. 2:10-11, 20; 3:11,1 Sam. 17:4,2 Sam. 21:16-22, - Isa. 14:9-15. (Rephaim, Zuzim, Emim – the name of the post-flood. giants)
 > There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown. (Gen. 6:4, KJV)
 > And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation; (Acts 17:26, KJV)
 > For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark, (Matt. 24:38, KJV)
@@ -40,7 +40,7 @@
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul? (Matt. 16:26, KJV)
 
-## 3) Gen. 14:13-16, - God's control, transmission of the Word of God, the Covenant, Christ
+## 3) Gen. 14:13-16, - God's control, transmission of God's Word, Covenant, Christ
 > And there came one that had escaped, and told Abram the Hebrew; for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these were confederate with Abram. And when Abram heard that his brother was taken captive, he armed his trained servants, born in his own house, three hundred and eighteen, and pursued them unto Dan. And he divided himself against them, he and his servants, by night, and smote them, and pursued them unto Hobah, which is on the left hand of Damascus. And he brought back all the goods, and also brought again his brother Lot, and his goods, and the women also, and the people. (Gen. 14:13-16, KJV)
 
 ### (1) Gen. 14:13; 10:16 (10:16), - transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, Amorites (descendants of Ham), union with Abraham, acceptance of the Word of God, the Covenant, Christ
@@ -76,7 +76,7 @@
 ### (6) Tithing is the highest, unearthly Priesthood. Heb. 7:4-10
 > Now consider how great this man was, unto whom even the patriarch Abraham gave the tenth of the spoils. And verily they that are of the sons of Levi, who receive the office of the priesthood, have a commandment to take tithes of the people according to the law, that is, of their brethren, though they come out of the loins of Abraham: But he whose descent is not counted from them received tithes of Abraham, and blessed him that had the promises. And without all contradiction the less is blessed of the better. And here men that die receive tithes; but there he receiveth them, of whom it is witnessed that he liveth. And as I may so say, Levi also, who receiveth tithes, payed tithes in Abraham. For he was yet in the loins of his father, when Melchisedec met him. (Heb. 7:4-10, KJV)
 
-### (7) Bread and Wine – the coming N.Z. John 8:56-58,Luke 22:19-20. (Abraham is the first person who accepted the Breaking of Bread, "the father of all believers," the unchanging fulfillment of the Word of God, the Covenant, Christ)
+### (7) Bread and Wine – the coming N.Z. John 8:56-58,Luke 22:19-20. (Abraham is the first person who accepted the Breaking of Bread, "the father of all believers," the unchanging fulfillment of God's Word, Covenant, and Christ)
 > Your father Abraham rejoiced to see my day: and he saw it, and was glad. Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham? Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am. (John 8:56-58, KJV)
 > And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me. Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you. (Luke 22:19-20, KJV)
 
@@ -92,7 +92,7 @@
 
 ### (1) Rejection of the Word of God, the Covenant, Christ, the king of Sodom, the prototype of Satan
 
-### (2) Nothing to do with Satan, Abraham's complete dependence on God
+### (2) There is nothing to do with Satan, Abraham's complete dependence on God
 
 ## Conclusion:
 
@@ -102,5 +102,5 @@
 
 ### (3) The importance of understanding Christ for God's people
 
-### (4) The importance of understanding the meaning of the Word of God, the Covenant, Christ John 5:39
+### (4) The importance of understanding the meaning of the Word of God, the Covenant, and Christ John 5:39
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)

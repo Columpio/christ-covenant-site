@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,16 +233,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>20. 1 Cor. 1–16: Review of 1 Corinthians</h1>
-<h2 id="s1">1) The purpose of Ts. – knowledge and transmission of the Word of God, the Covenant, Christ, preparation of the coming of Christ. Disciples, World Evangelization Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9</h2>
+<h2 id="s1">1) The purpose of the Church is the knowledge and transmission of the Word of God, the Testament, Christ, preparation for the coming of Christ. disciples, World Evangelization Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9</h2>
 <blockquote data-v="kjv"><p>So God created man in his own image, in the image of God created he him; male and female created he them.</p><cite>Gen. 1:27 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So God created man in His own image; in the image of God He created him; male and female He created them.</p><cite>Gen. 1:27 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>God created man in his own image. In God’s image he created him; male and female he created them.</p><cite>Gen. 1:27 · WEB</cite></blockquote>
@@ -298,7 +300,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h4>(i) An inaccurate understanding of the Resurrection (15)</h4>
 <h2 id="s2">2) 1 Cor. 1-4, - inaccurate understanding of the Word of God, the Covenant, Christ (motives)</h2>
 <h3>(1) Divisions and focus on the person (the leaders) rather than on Jesus Christ, misunderstanding of purpose</h3>
-<h3>(2) The importance of following Jesus Christ, rather than following a person, understanding destiny. – knowledge and transmission of the Word of God, the Covenants, Christ, training and education of disciples, World Evangelization, the 2nd parish of Christ</h3>
+<h3>(2) The importance of following Jesus Christ rather than following a human being, of understanding destiny. – knowledge and transmission of the Word of God, the Covenant, Christ, training and education of disciples, Worldwide Evangelization, the 2nd parish of Christ</h3>
 <h2 id="s3">3) 1 Cor. 5, - the sinful essence of man (incest)</h2>
 <h3>(1) Understanding the causes of human transgressions. (The influence of the remnants of the sinful essence, the world and Satan)</h3>
 <h3>(2) Understanding "sin to death" and "sin not to death", the importance of understanding the Sacrifice of Christ (the Lord's Passover)</h3>
@@ -308,7 +310,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h4>(b) Conflict resolution in the Church is strictly within the framework of the Word of God</h4>
 <h4>(c) The importance of understanding and fulfilling the mission of the Church</h4>
 <h2 id="s5">5) 1 Cor. 6-7, - inaccurate understanding of marriage, family (fornication)</h2>
-<h3>(1) The importance of family and marriage – God is the establishment, preservation of man</h3>
+<h3>(1) The importance of family and marriage is God's institution, man's preservation</h3>
 <h3>(2) Acceptance of the Word of God, the Covenant, Christ, destiny. – the right marriage</h3>
 <h3>(3) Understanding the legal and illegal dissolution of marriage</h3>
 <h3>(4) The importance of fulfilling one's destiny (the Gospel. marriage)</h3>
@@ -321,8 +323,8 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h3>(2) Financial service – works of faith, human participation in the work of God, the importance of understanding and fulfilling the purpose</h3>
 <h2 id="s8">8) 1 Cor. 11, - inaccurate understanding of the Participle</h2>
 <h3>(1) The importance of understanding Communion is to affirm participation in the Covenant with God through the Sacrifice and Asceticism of Jesus Christ</h3>
-<h3>(2) The importance of reasoning about the Body and Blood of Jesus Christ, His Sacrifice – confidence in the forgiveness of all sins and salvation, the affirmation of the all-sufficiency of the Sacrifice of Jesus Christ and the solution of all human problems (the power of sin, death, curses)</h3>
-<h3>(3) Misunderstanding and misunderstanding of Communion – there is no salvation and rebirth, the importance of accepting the Word of God, the Covenant, Christ</h3>
+<h3>(2) The importance of reasoning about the Body and Blood of Jesus Christ, His Sacrifice – the certainty of forgiveness of all sins and salvation, the affirmation of the all-sufficiency of the Sacrifice of Jesus Christ and the solution of all human problems (the power of sin, death, curses)</h3>
+<h3>(3) Misunderstanding and misunderstanding of Communion – there is no salvation and no rebirth, the importance of accepting the Word of God, the Covenant, and Christ</h3>
 <h2 id="s9">9) 1 Cor. 12-14, - inaccurate understanding of the gifts of the Holy Spirit</h2>
 <h3>(1) The importance of understanding the meaning of the gifts of the Holy Spirit – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, service to people, the importance of edification and spiritual growth of man</h3>
 <h3>(2) The importance of understanding God's sovereignty – the presence and distribution of the gifts of the Holy Spirit, God's decision and will</h3>
@@ -330,7 +332,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h3>(4) The importance of understanding the conformity of the actions of the gifts of the Holy Spirit to the ordinances of the Word of God</h3>
 <h2 id="s10">10) 1 Cor. 15, - inaccurate understanding of the resurrection</h2>
 <h3>(1) The meaninglessness of Christianity, the sacrifice of Christ without resurrection from the dead – "the victory of sin, death and hell, Satan"</h3>
-<h3>(2) The statement of the absence of resurrection – the humiliation of Christ and His Sacrifice, the misunderstanding of Creation, the Fall, Restoration, the importance of accepting the Word of God, the Covenant, Christ</h3>
+<h3>(2) The statement of the absence of resurrection – the humiliation of Christ and His Sacrifice, the misunderstanding of Creation, the Fall, the Restoration, the importance of accepting the Word of God, the Covenant, Christ</h3>
 <h3>(3) The importance of understanding the future, the resurrection from the dead, and the life of the next age is God's will for every human being.</h3>
 <h2 id="s11">11) 1 Cor. 16, - the importance of the disciples and the local Churches, the importance of fulfilling the destiny of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization</h2>
 <h2 id="s12">Conclusion:</h2>
@@ -339,7 +341,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother, Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours: Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.</p><cite>1 Cor. 1:1-3 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Paul, called to be an apostle of Christ Jesus by the will of God, and our brother Sosthenes, To the church of God in Corinth, to those sanctified in Christ Jesus and called to be holy, together with all those everywhere who call on the name of our Lord Jesus Christ, their Lord and ours: Grace and peace to you from God our Father and the Lord Jesus Christ.</p><cite>1 Cor. 1:1-3 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Paul, called to be an apostle of Jesus Christ through the will of God, and our brother Sosthenes, to the assembly of God which is at Corinth—those who are sanctified in Christ Jesus, called saints, with all who call on the name of our Lord Jesus Christ in every place, both theirs and ours: Grace to you and peace from God our Father and the Lord Jesus Christ.</p><cite>1 Cor. 1:1-3 · WEB</cite></blockquote>
-<h3>(3) The importance of understanding and fulfilling the destiny of God's people (knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization) is God's method of solving all the problems of the local Churches</h3>
+<h3>(3) The importance of understanding and fulfilling the destiny of God's people (knowing and transmitting the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization) is God's method of solving all the problems of the local Churches</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
 </body>

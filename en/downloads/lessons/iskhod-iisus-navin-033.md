@@ -1,5 +1,5 @@
 # Deut. 6–8
-## 3.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 3.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -13,10 +13,10 @@
 
 ## 2) Deut. 6, - the importance of knowing and transmitting the Word of God, the Covenant, Christ (Love of God, descendants, the importance of purity of teaching)
 
-### (1) Deut. 6:1-3, - the importance of the Word of God, the Covenant, Christ for man, a right and good life, service to God (intended)
+### (1) Deut. 6:1-3, - the importance of the Word of God, the Covenant, and Christ for man, a right and good life, and service to God (intended)
 > Now these are the commandments, the statutes, and the judgments, which the LORD your God commanded to teach you, that ye might do them in the land whither ye go to possess it: That thou mightest fear the LORD thy God, to keep all his statutes and his commandments, which I command thee, thou, and thy son, and thy son’s son, all the days of thy life; and that thy days may be prolonged. Hear therefore, O Israel, and observe to do it; that it may be well with thee, and that ye may increase mightily, as the LORD God of thy fathers hath promised thee, in the land that floweth with milk and honey. (Deut. 6:1-3, KJV)
 
-### (2) Deut. 6:4-9, - importance of loving God (knowledge and transmission of the Word of God, the Covenant, Christ), fulfillment of God's will, importance of descendants
+### (2) Deut. 6:4-9, - the importance of loving God (knowledge and transmission of the Word of God, the Covenant, Christ), fulfilling the will of God, the importance of descendants
 > Hear, O Israel: The LORD our God is one LORD: And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might. And these words, which I command thee this day, shall be in thine heart: And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up. And thou shalt bind them for a sign upon thine hand, and they shall be as frontlets between thine eyes. And thou shalt write them upon the posts of thy house, and on thy gates. (Deut. 6:4-9, KJV)
 
 ### (3) Deut. 6:10-19, - the importance of faith and fulfillment of destiny, the importance of preserving the purity of teaching (the Word of God, the Covenant, Christ)
@@ -31,7 +31,7 @@
 
 #### (c) Canaan – preparation for the coming of Christ, purpose
 
-### (5) Deut. 6:25, - the importance of understanding the Word of God, the Covenant, Christ
+### (5) Deut. 6:25, - the importance of understanding the Word of God, the Covenant, and Christ
 > And it shall be our righteousness, if we observe to do all these commandments before the LORD our God, as he hath commanded us. (Deut. 6:25, KJV)
 
 #### (a) Righteousness is from the Law. Isa. 64:6,Rom. 3:10, 23; 9:30-33
@@ -44,7 +44,7 @@
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. (Rom. 9:30, KJV)
 > And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith: (Phil. 3:9, KJV)
 
-## 3) Deut. 7, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 3) Deut. 7, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
 ### (1) Deut. 7:1-2, - the importance of Canaan, World Evangelization, the coming of Christ
 > When the LORD thy God shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou; And when the LORD thy God shall deliver them before thee; thou shalt smite them, and utterly destroy them; thou shalt make no covenant with them, nor shew mercy unto them: (Deut. 7:1-2, KJV)
@@ -72,10 +72,10 @@
 
 #### (d) Understanding the legitimate descendants of Abraham, the true people of God
 
-### (4) Deut. 7:11-16, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ, the fulfillment of the destiny of the people of God
+### (4) Deut. 7:11-16, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ, the fulfillment of the destiny of God's people
 > Thou shalt therefore keep the commandments, and the statutes, and the judgments, which I command thee this day, to do them. Wherefore it shall come to pass, if ye hearken to these judgments, and keep, and do them, that the LORD thy God shall keep unto thee the covenant and the mercy which he sware unto thy fathers: And he will love thee, and bless thee, and multiply thee: he will also bless the fruit of thy womb, and the fruit of thy land, thy corn, and thy wine, and thine oil, the increase of thy kine, and the flocks of thy sheep, in the land which he sware unto thy fathers to give thee. Thou shalt be blessed above all people: there shall not be male or female barren among you, or among your cattle. And the LORD will take away from thee all sickness, and will put none of the evil diseases of Egypt, which thou knowest, upon thee; but will lay them upon all them that hate thee. And thou shalt consume all the people which the LORD thy God shall deliver thee; thine eye shall have no pity upon them: neither shalt thou serve their gods; for that will be a snare unto thee. (Deut. 7:11-16, KJV)
 
-### (5) Deut. 7:17-24, - the special importance of confidence in God's guidance and victory, the immutability of fulfilling the Word of God
+### (5) Deut. 7:17-24, - the special importance of confidence in God's guidance and victory, the immutability of the fulfillment of God's Word
 > If thou shalt say in thine heart, These nations are more than I; how can I dispossess them? Thou shalt not be afraid of them: but shalt well remember what the LORD thy God did unto Pharaoh, and unto all Egypt; The great temptations which thine eyes saw, and the signs, and the wonders, and the mighty hand, and the stretched out arm, whereby the LORD thy God brought thee out: so shall the LORD thy God do unto all the people of whom thou art afraid. Moreover the LORD thy God will send the hornet among them, until they that are left, and hide themselves from thee, be destroyed. Thou shalt not be affrighted at them: for the LORD thy God is among you, a mighty God and terrible. And the LORD thy God will put out those nations before thee by little and little: thou mayest not consume them at once, lest the beasts of the field increase upon thee. But the LORD thy God shall deliver them unto thee, and shall destroy them with a mighty destruction, until they be destroyed. And he shall deliver their kings into thine hand, and thou shalt destroy their name from under heaven: there shall no man be able to stand before thee, until thou have destroyed them. (Deut. 7:17-24, KJV)
 
 ### (6) Deut. 7:25-26, - the importance of knowledge, the transmission of the Word of God, the Covenant, Christ, the destruction of idols, the oneness of God and Christ
@@ -96,8 +96,8 @@
 
 ### (1) The importance of loving God for man
 
-### (2) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ
+### (2) The importance of fulfilling the destiny of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ
 
-### (3) The importance of confidence in God's guidance and victory, the immutability of fulfilling the Word of God, the Covenant, Christ
+### (3) The importance of confidence in God's guidance and victory, and the unchanging fulfillment of God's Word, Covenant, and Christ
 
 ### (4) The importance of knowledge, the transmission of the Word of God, the Covenant, Christ, the destruction of idols, the oneness of God and Christ (sin to death)

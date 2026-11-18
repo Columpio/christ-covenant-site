@@ -1,7 +1,7 @@
 # Eccl. 10–12
-## 4.1) Eccl. 10, - the importance of knowing the Word of God, the Covenant, Christ
+## 4.1) Eccl. 10, - the importance of knowing the Word of God, the Covenant, and Christ
 
-### (1) Eccl. 10, - the importance of a proper life, the responsibility of a person Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+### (1) Eccl. 10, - the importance of a proper life, human responsibility Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:17, KJV)
@@ -18,7 +18,7 @@
 ### (2) Eccl. 10:2-3, - knowledge of the Word of God, wisdom (right side), rejection of the Word of God, stupidity (left side, lifestyle)
 > A wise man’s heart is at his right hand; but a fool’s heart at his left. Yea also, when he that is a fool walketh by the way, his wisdom faileth him, and he saith to every one that he is a fool. (Eccl. 10:2-3, KJV)
 
-### (3) Eccl. 10:4, - the importance of the wisdom and meekness of the people of God, the importance of transmitting the Word of God, the Covenant, Christ (the problem of conflict)
+### (3) Eccl. 10:4, - the importance of the wisdom and meekness of God's people, the importance of transmitting the Word of God, the Covenant, and Christ (conflict issue)
 > If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences. (Eccl. 10:4, KJV)
 
 ### (4) Eccl. 10:5-7, - the importance of caring for people, good governance, the importance of mission (Church, State)
@@ -28,7 +28,7 @@
 > He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him. Whoso removeth stones shall be hurt therewith; and he that cleaveth wood shall be endangered thereby. (Eccl. 10:8-9, KJV)
 > Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap. (Gal. 6:7, KJV)
 
-### (6) Eccl. 10:10, - the importance of planning, order, and organization in the life of God's people (knowledge of God's Word, God's wisdom)
+### (6) Eccl. 10:10, - the importance of planning, order, and organization in the lives of God's people (knowledge of God's Word, God's wisdom)
 > If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct. (Eccl. 10:10, KJV)
 
 ### (7) Eccl. 10:11-15, - the importance of knowing the Word of God, God's wisdom (right words, grace), rejection of the Word of God, stupidity (theories, madness, difficult life)
@@ -46,7 +46,7 @@
 ### (11) Eccl. 10:20, - the importance of living the right life, fulfilling one's destiny (the importance of curbing language)
 > Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter. (Eccl. 10:20, KJV)
 
-## 2) Eccl. 11, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 2) Eccl. 11, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
 ### (1) Eccl. 11:1-3, - the importance of helping people (sowing and reaping)
 > Cast thy bread upon the waters: for thou shalt find it after many days. Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth. If the clouds be full of rain, they empty themselves upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be. (Eccl. 11:1-3, KJV)
@@ -75,21 +75,21 @@
 
 ## 1) The Book of Ecclesiastes is the life experience of the wisest of men
 
-### (1) The importance of realizing the true meaning of life for a person – the knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization
+### (1) The importance of realizing the true meaning of life for a person is the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization
 
 ### (2) There is no answer for man in the visible (the problem of death, the judgment of God)
 
-## 2) The importance of knowing and transmitting the Word of God, the Covenant, Christ, destiny
+## 2) The importance of knowing and communicating the Word of God, the Covenant, Christ, and destiny
 
 ### (1) Sacrifice, the Temple of Christ, World Evangelization, the Meaning of Solomon's faith
 
-### (2) Satan's action is to abolish the Word of God, the Covenant, and Christ from human life
+### (2) The act of Satan is to abolish the Word of God, the Covenant, and Christ from human life
 
 ## 3) The Fall of Solomon
 
 ### (1) Distortion, systematic violation of the Word of God (wives, idols)
 
-### (2) The foundation and acceptance of false teaching is the rejection of the Word of God, the Covenant, Christ
+### (2) The foundation and acceptance of false teaching is the rejection of the Word of God, the Covenant, and Christ
 
 ### (3) Understanding sin does not lead to death and sin leads to death. 1 John 5:16
 > If any man see his brother sin a sin which is not unto death, he shall ask, and he shall give him life for them that sin not unto death. There is a sin unto death: I do not say that he shall pray for it. (1 John 5:16, KJV)

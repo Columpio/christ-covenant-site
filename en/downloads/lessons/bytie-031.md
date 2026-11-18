@@ -1,5 +1,5 @@
 # 31. The Breaking of Bread (Communion, Eucharist)
-- Communion is a visible confirmation of the Covenant with God. (The fulfillment of the Word of God, the death of Christ for all my sins and curses)
+- Communion is a visible confirmation of the Covenant with God. (The fulfillment of God's Word, the death of Christ for all my sins and curses)
 - A sacrament is an action incomprehensible to an unbeliever
 
 ## 1) John 6:51-58, - the importance of the Sacrament for a person
@@ -37,7 +37,7 @@
 
 #### (a) Emmanuel (the destiny of man)
 
-#### (b) Restricted access to the tree of life, eating the sacrifice (Easter), and fulfilling God's plan of salvation is God's action. (No, the Word of God is "Abraham's bosom")
+#### (b) Restricted access to the tree of life, eating the sacrifice (Easter), and fulfilling God's plan of salvation is God's action. (There is no fulfillment of God's Word – "Abraham's bosom")
 
 ### (4) Lev. 6:25-27; 7:15, - to eat of Christ
 > Speak unto Aaron and to his sons, saying, This is the law of the sin offering: In the place where the burnt offering is killed shall the sin offering be killed before the LORD: it is most holy. The priest that offereth it for sin shall eat it: in the holy place shall it be eaten, in the court of the tabernacle of the congregation. Whatsoever shall touch the flesh thereof shall be holy: and when there is sprinkled of the blood thereof upon any garment, thou shalt wash that whereon it was sprinkled in the holy place. (Lev. 6:25-27, KJV)
@@ -47,7 +47,7 @@
 
 #### (a) Emmanuel (the destiny of man)
 
-#### (b) Private access to the tree of life, eating the sacrifice, and fulfilling God's plan of salvation are God's actions. (No, the Word of God is "Abraham's bosom")
+#### (b) Private access to the tree of life, eating the sacrifice, and fulfilling God's plan of salvation are God's actions. (There is no fulfillment of God's Word – "Abraham's bosom")
 
 ### (5) Matt. 26:26,1 Cor. 11:23-25, - to eat of Christ
 > And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body. (Matt. 26:26, KJV)
@@ -83,7 +83,7 @@
 > For we being many are one bread, and one body: for we are all partakers of that one bread. (1 Cor. 10:17, KJV)
 > For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread: And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me. After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me. For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come. Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord. But let a man examine himself, and so let him eat of that bread, and drink of that cup. (1 Cor. 11:23-28, KJV)
 
-#### (c) The affirmation of full or partial fulfillment, i.e. the acceptance of bread and wine as the actual body and blood of Christ – the actual fulfillment by Jesus Christ of the sentence of the Word of God at the given moment (multiple sacrifice), There is no Resurrection and Blood of Jesus Christ in the Heavenly Sanctuary, there is no redemption of all mankind and salvation of God's people, denial of the birth and existence of the Church. Heb. 9:12, 24-28; 10:14
+#### (c) The affirmation of complete or partial transubstantiation, i.e. the acceptance of bread and wine as the actual body and blood of Christ – the actual fulfillment by Jesus Christ of the sentence of the Word of God at the given moment (multiple sacrifice), There is no Resurrection and Blood of Jesus Christ in the Heavenly Sanctuary, there is no redemption of all mankind and salvation of God's people, denial of the birth and existence of the Church. Heb. 9:12, 24-28; 10:14
 > Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us. (Heb. 9:12, KJV)
 > For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in the presence of God for us: Nor yet that he should offer himself often, as the high priest entereth into the holy place every year with blood of others; For then must he often have suffered since the foundation of the world: but now once in the end of the world hath he appeared to put away sin by the sacrifice of himself. And as it is appointed unto men once to die, but after this the judgment: So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation. (Heb. 9:24-28, KJV)
 > For by one offering he hath perfected for ever them that are sanctified. (Heb. 10:14, KJV)
@@ -99,7 +99,7 @@
 > And they continued stedfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers. (Acts 2:42, KJV)
 > And upon the first day of the week, when the disciples came together to break bread, Paul preached unto them, ready to depart on the morrow; and continued his speech until midnight. (Acts 20:7, KJV)
 
-### (4) Children's Participation – Explaining the Word of God, the Covenant, Christ Matt. 19:14
+### (4) Children's Participation – explanation of the Word of God, the Covenant, Christ Matt. 19:14
 > But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven. (Matt. 19:14, KJV)
 
 ### (5) Washing of feet - not supported by Scripture. John 8:17 (8:17), -Matt. 26:26,Mark 14:22-24,Luke 22:19-20,1 Cor. 11:23-25
@@ -113,11 +113,11 @@
 
 ## 4) The unworthy performance of Communion
 
-### (1) Misunderstanding of the Word of God, the Covenant, Christ (the essence of sin)
+### (1) Misunderstanding of the Word of God, the Covenant, and Christ (the essence of sin)
 
 #### (a) A rite is a meaningless act without understanding the Covenant, Christ
 
-#### (b) Mysticism – the desire for a person to receive visible answers in a supernatural way, without understanding the Word of God, the Covenant, Christ
+#### (b) Mysticism – the desire for a person to receive visible answers in a supernatural way, without understanding the Word of God, the Covenant, or Christ
 
 ### (2) The denial of the Divinity of Christ is the heretical teaching of "Arianism", the rejection of the Divinity of Christ
 
@@ -129,9 +129,9 @@
 
 #### (a) Communion is the confession of sins and God's method of solution. (An attempt at purification outside of the Sacrifice and Asceticism of Christ is heresy)
 
-#### (b) Communion is the affirmation of the Word of God, the Covenant, Christ, and a constant reminder of the reason for the righteousness and holiness of God's people.
+#### (b) Communion is the affirmation of the Word of God, the Covenant, of Christ, and a constant reminder of the cause of the righteousness and holiness of God's people.
 
-#### (c) The prohibition of participation in the Communion of children of God is a matter of Law, religion. (There has never been, there is not, and there will not be worthy ones). 1 Cor. 11:23-32
+#### (c) Prohibition of participation in the Communion of the children of God – works of the Law, religion. (There has never been, there is not, and there will not be worthy ones). 1 Cor. 11:23-32
 > For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread: And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me. After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me. For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come. Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord. But let a man examine himself, and so let him eat of that bread, and drink of that cup. For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord’s body. For this cause many are weak and sickly among you, and many sleep. For if we would judge ourselves, we should not be judged. But when we are judged, we are chastened of the Lord, that we should not be condemned with the world. (1 Cor. 11:23-32, KJV)
 
 ### (4) The denial of the fact of solving ALL the consequences of sin through accepting Christ's Sacrifice is a heretical teaching of "partial salvation", a conscious rejection of the All–sufficiency of Christ's Sacrifice
@@ -140,22 +140,22 @@
 > But he that is joined unto the Lord is one spirit. (1 Cor. 6:17, KJV)
 > For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s. (1 Cor. 6:20, KJV)
 
-#### (b) The possession of the children of God (Emmanuel, the action of Satan from the outside)
+#### (b) The possession of the children of God (Emmanuel, the work of Satan from the outside)
 
 #### (c) Ancestral and acquired curses. Gal. 3:10-13. (The sins of God's people are God's punishment, not a curse)
 > For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them. But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith. And the law is not of faith: but, The man that doeth them shall live in them. Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree: (Gal. 3:10-13, KJV)
 
 ## Result:
-- Worthy acceptance is the affirmation of the all–sufficiency and perfection of the Feat and Sacrifice of Christ for the salvation of man.
+- Worthy acceptance is the affirmation of the all–sufficiency and perfection of Christ's Feat and Sacrifice for human salvation
 - Unworthy Acceptance is an affirmation of the insufficiency and imperfection of the Feat and Sacrifice of Christ for the salvation of man.
 
 ## 5) God's command to perform Communion
 
-### (1) God's natural action is to help focus on the Word of God, the Covenant, Christ, the importance of a deep understanding of the Word of God, the Covenant, Christ
+### (1) God's natural action is to help you focus on the Word of God, the Covenant, and Christ, and the importance of a deep understanding of the Word of God, the Covenant, and Christ
 
 ### (2) God's supernatural action is helping to change a person's life (the entire trimeria and all spheres of life), the importance of God's faith and the importance of fulfilling his destiny
 
-## 6) Communion is a visible affirmation of acceptance of the Word of God, the Covenant, Christ and participation in the Covenant with God
+## 6) Communion is a visible affirmation of acceptance of the Word of God, the Covenant, and Christ and participation in the Covenant with God.
 
 ### (1) Confession (knowledge, transmission of the Word of God, Covenant, Christ) – constantly
 
@@ -165,6 +165,6 @@
 
 ## Conclusion:
 
-### (1) The importance of understanding the Word of God, the Covenant, Christ
+### (1) The importance of understanding the Word of God, the Covenant, and Christ
 
-### (2) The importance of fulfilling the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the importance of explaining the Word of God to every person
+### (2) The importance of fulfilling the destiny of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the importance of explaining the Word of God to every person

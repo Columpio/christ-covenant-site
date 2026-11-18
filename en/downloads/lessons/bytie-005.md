@@ -1,6 +1,6 @@
-# 5. Gen. 5, - Covenant race, Christ, understanding of death, Antediluvian period (about 1600 years)
+# 5. Gen. 5, - The Family of the Covenant, Christ, the understanding of death, the Antediluvian period (about 1600 years)
 
-## 1) Gen. 5:3, 32, - transmission of the Word of God, the Covenant, Christ, Adam's sermon Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 1) Gen. 5:3, 32, - transmission of the Word of God, the Covenant, Christ, the preaching of Adam Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > And Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth: (Gen. 5:3, KJV)
 > And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth. (Gen. 5:32, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
@@ -13,15 +13,15 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-### (1) Acceptance of the Word of God, the Covenant, Christ, the children of God, the generation of the Covenant, Christ – the coming of Christ (fulfillment of the Word of God), the minority (Seth – Noah) Matt. 7:13-14, - Luke 3:23, 36-37
+### (1) Acceptance of the Word of God, the Covenant, Christ, children of God, the generation of the Covenant, Christ – the coming of Christ (fulfillment of the Word of God), the minority (Seth – Noah) Matt. 7:13-14, - Luke 3:23, 36-37
 > Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it. (Matt. 7:13-14, KJV)
 > And Jesus himself began to be about thirty years of age, being (as was supposed) the son of Joseph, which was the son of Heli, (Luke 3:23, KJV)
 > Which was the son of Cainan, which was the son of Arphaxad, which was the son of Sem, which was the son of Noe, which was the son of Lamech, Which was the son of Mathusala, which was the son of Enoch, which was the son of Jared, which was the son of Maleleel, which was the son of Cainan, (Luke 3:36-37, KJV)
 
-### (2) Rejection of the Word of God, the Covenant, Christ, the children of the devil, the family of unbelief – the majority (the holy remnant – Noah and his family). 1 Pet. 3:20
+### (2) The rejection of the Word of God, the Covenant, Christ, the children of the devil, the family of unbelief – the majority (the holy remnant – Noah and his family). 1 Pet. 3:20
 > Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water. (1 Pet. 3:20, KJV)
 
-## 2) The importance of understanding the essence and meaning of the Covenant, Christ (The contract between God and man, initiated by God)
+## 2) The importance of understanding the essence and meaning of the Covenant, of Christ (the Contract between God and man, initiated by God)
 
 # 1. God's Side
 
@@ -33,15 +33,15 @@
 
 ### (1) Acceptance of the Divinity of Christ
 
-### (2) The acceptance of the solution of all human problems in Christ, the all–sufficiency of His Sacrifice – the forgiveness of all sins (past, present and future) and the solution of all problems (the power of Satan, death and hell, curses, etc.) The choice of man - acceptance, non-acceptance of the Word of God, the Covenant, Christ Meaning of life – preparation for eternity (Where? And with whom?)
-- The purpose of man is Emmanuel, the knowledge and transmission of the Word of God, the Covenant, Christ, the glorification of God
+### (2) The acceptance of the solution of all human problems in Christ, the all–sufficiency of His Sacrifice – the forgiveness of all sins (past, present and future) and the solution of all problems (the power of Satan, death and hell, curses, etc.) The choice of man – acceptance, rejection of the Word of God, the Covenant, Christ Meaning of life - preparation for eternity (Where? And with whom?)
+- The purpose of man is Emmanuel, the knowledge and transmission of the Word of God, the Covenant, Christ, and the glorification of God
 
 ## 3) The importance of doing God's will. 1 Tim. 2:4
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 
 ### (1) Entering into the Covenant of God - accepting the Divinity of Christ and the All-Sufficiency of His Sacrifice (solutions to all human problems in Christ)
 
-### (2) Entering into the destiny – knowing and transmitting the Word of God, the Covenant, Christ, the glorification of God
+### (2) Entering into destiny – learning and transmitting the Word of God, the Covenant, Christ, and glorifying God
 
 ## 4) Gen. 5:5, - the importance of understanding death correctly
 > And all the days that Adam lived were nine hundred and thirty years: and he died. (Gen. 5:5, KJV)
@@ -68,7 +68,7 @@
 
 #### (c) The nullification of all human earthly achievements outside of Christ
 
-#### (d) Transition to eternity, separation of soul and body, God establishing 2 Cor. 5:1, Phil. 3:20, - Rom. 8:28
+#### (d) The passage into eternity, the separation of soul and body, God's institution 2 Cor. 5:1,Phil. 3:20, - Rom. 8:28
 > For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens. (2 Cor. 5:1, KJV)
 > For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ: (Phil. 3:20, KJV)
 > And we know that all things work together for good to them that love God, to them who are the called according to his purpose. (Rom. 8:28, KJV)
@@ -90,10 +90,10 @@
 
 ## Conclusion:
 
-### (1) The importance of accepting the Word of God, the Covenant, Christ (Acceptance, non–acceptance of the Word of God, the Covenant, Christ is a person's right to choose)
+### (1) The importance of accepting the Word of God, the Covenant, and Christ (Acceptance, non–acceptance of the Word of God, the Covenant, and Christ is a person's right to choose)
 
-### (2) The family of the Covenant, Christ, the people of God – the coming of Christ, the fulfillment of the Word of God
+### (2) The family of the Covenant, of Christ, of the people of God – the coming of Christ, the fulfillment of the Word of God
 
-### (3) The importance of understanding the meaning of the Covenant, Christ is the side of God and the side of man (the importance of understanding God's conditions)
+### (3) The importance of understanding the meaning of the Covenant, Christ – the side of God and the side of man (the importance of understanding God's conditions)
 
 ### (4) The importance of understanding Death and God's method of Solution

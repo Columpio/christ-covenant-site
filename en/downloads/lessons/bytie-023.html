@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -259,9 +261,9 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>Yahweh God commanded the man, saying, “You may freely eat of every tree of the garden; but you shall not eat of the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”</p><cite>Gen. 2:16-17 · WEB</cite></blockquote>
 <h4>(a) "The right to choose" - spiritual (priority), mental, physical. (Parents, country, race, society, epoch – no choice)</h4>
 <h4>(b) The "right to choose" - to accept or not to accept the Word of God</h4>
-<h4>(c) The "right to choose" - at the time of the proposal, the initiator is God. (God sovereignty is a "de jure" choice and a "de facto" choice)</h4>
+<h4>(c) The "right to choose" - at the time of the proposal, the initiator is God. (God's sovereignty is a "de jure" choice and a "de facto" choice)</h4>
 <h4>(d) Understanding the perfect and permissible will of God. (Affirmation of the gift of free will, acceptance of God's choice of man)</h4>
-<h3>(2) Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), - God admission, right of choice</h3>
+<h3>(2) Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), - God's permission, the right to choose</h3>
 <blockquote data-v="kjv"><p>Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the fruit of the trees of the garden: But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die. And the serpent said unto the woman, Ye shall not surely die: For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil. And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat. And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.</p><cite>Gen. 3:1-7 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Now the serpent was more crafty than any beast of the field that the LORD God had made. And he said to the woman, “Did God really say, ‘You must not eat from any tree in the garden?’” The woman answered the serpent, “We may eat the fruit of the trees of the garden, but about the fruit of the tree in the middle of the garden, God has said, ‘You must not eat of it or touch it, or you will die.’” “You will not surely die,” the serpent told the woman. “For God knows that in the day you eat of it, your eyes will be opened and you will be like God, knowing good and evil.” When the woman saw that the tree was good for food and pleasing to the eyes, and that it was desirable for obtaining wisdom, she took the fruit and ate it. She also gave some to her husband who was with her, and he ate it. And the eyes of both of them were opened, and they knew that they were naked; so they sewed together fig leaves and made coverings for themselves.</p><cite>Gen. 3:1-7 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Now the serpent was more subtle than any animal of the field which Yahweh God had made. He said to the woman, “Has God really said, ‘You shall not eat of any tree of the garden’?” The woman said to the serpent, “We may eat fruit from the trees of the garden, but not the fruit of the tree which is in the middle of the garden. God has said, ‘You shall not eat of it. You shall not touch it, lest you die.’” The serpent said to the woman, “You won’t really die, for God knows that in the day you eat it, your eyes will be opened, and you will be like God, knowing good and evil.” When the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took some of its fruit, and ate. Then she gave some to her husband with her, and he ate it, too. Their eyes were opened, and they both knew that they were naked. They sewed fig leaves together, and made coverings for themselves.</p><cite>Gen. 3:1-7 · WEB</cite></blockquote>
@@ -274,10 +276,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:</p><cite>Eph. 2:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>in which you used to walk when you conformed to the ways of this world and of the ruler of the power of the air, the spirit who is now at work in the sons of disobedience.</p><cite>Eph. 2:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the children of disobedience.</p><cite>Eph. 2:2 · WEB</cite></blockquote>
-<h4>(a) Admission is Satan, the right to choose is man for Satan, Satan for man</h4>
-<h4>(b) The power of Satan, the control of man is the restriction of the right to choose. (God's sovereignty is a "de jure" choice and a "de facto" choice)</h4>
-<h4>(c) God's acceptance of Satan's actions is a consequence of man's choice. (Legitimate action by Satan, serving God, affirming the right to choose)</h4>
-<h3>(3) Gen. 3:15, 21,Matt. 16:16,John 19:30, - the right to choose, the initiator is God</h3>
+<h4>(a) Admission of Satan, the right to choose - man for Satan, Satan for man</h4>
+<h4>(b) The power of Satan, the control of man, is the restriction of the right to choose. (God's sovereignty is a "de jure" choice and a "de facto" choice)</h4>
+<h4>(c) God's acceptance of Satan's actions is a consequence of man's choice. (Legitimate act of Satan, serving God, affirming the right to choose)</h4>
+<h3>(3) Gen. 3:15, 21,Matt. 16:16,John 19:30, - the right to choose, the initiator of God</h3>
 <blockquote data-v="kjv"><p>And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.</p><cite>Gen. 3:15 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And I will put enmity between you and the woman, and between your seed and her seed. He will crush your head, and you will strike his heel.”</p><cite>Gen. 3:15 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I will put hostility between you and the woman, and between your offspring and her offspring. He will bruise your head, and you will bruise his heel.”</p><cite>Gen. 3:15 · WEB</cite></blockquote>
@@ -292,7 +294,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>When Jesus therefore had received the vinegar, he said, “It is finished!” Then he bowed his head and gave up his spirit.</p><cite>John 19:30 · WEB</cite></blockquote>
 <h4>(a) "The right to choose" - spiritual (priority), mental, physical. (Parents, country, race, society, epoch – no choice)</h4>
 <h4>(b) The "right to choose" - to accept or not to accept the Word of God</h4>
-<h4>(c) "The right to choose" - at the time of the offer. Eph. 2:8,John 15:5. (God sovereignty is a "de jure" choice and a "de facto" choice)</h4>
+<h4>(c) "The right to choose" - at the time of the offer. Eph. 2:8,John 15:5. (God's sovereignty is a "de jure" choice and a "de facto" choice)</h4>
 <blockquote data-v="kjv"><p>For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:</p><cite>Eph. 2:8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For it is by grace you have been saved through faith, and this not from yourselves; it is the gift of God,</p><cite>Eph. 2:8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>for by grace you have been saved through faith, and that not of yourselves; it is the gift of God,</p><cite>Eph. 2:8 · WEB</cite></blockquote>
@@ -322,7 +324,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren. Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified. What shall we then say to these things? If God be for us, who can be against us?</p><cite>Rom. 8:29-31 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For those God foreknew, He also predestined to be conformed to the image of His Son, so that He would be the firstborn among many brothers. And those He predestined, He also called; those He called, He also justified; those He justified, He also glorified. What then shall we say in response to these things? If God is for us, who can be against us?</p><cite>Rom. 8:29-31 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For whom he foreknew, he also predestined to be conformed to the image of his Son, that he might be the firstborn among many brothers. Whom he predestined, those he also called. Whom he called, those he also justified. Whom he justified, those he also glorified. What then shall we say about these things? If God is for us, who can be against us?</p><cite>Rom. 8:29-31 · WEB</cite></blockquote>
-<h3>(1) God's foreknowledge is the knowledge of a person's choice in accepting the Word of God, the Covenant, Christ through the action of God's grace Eph. 1:4; 2:8,John 15:5</h3>
+<h3>(1) God's foreknowledge is the knowledge of a person's choice in accepting the Word of God, the Covenant, and Christ through the action of God's grace Eph. 1:4; 2:8,John 15:5</h3>
 <blockquote data-v="kjv"><p>According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:</p><cite>Eph. 1:4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For He chose us in Him before the foundation of the world to be holy and blameless in His presence. In love</p><cite>Eph. 1:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>even as he chose us in him before the foundation of the world, that we would be holy and without defect before him in love,</p><cite>Eph. 1:4 · WEB</cite></blockquote>
@@ -388,7 +390,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.</p><cite>Rom. 9:17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For the Scripture says to Pharaoh: “I raised you up for this very purpose, that I might display My power in you, and that My name might be proclaimed in all the earth.”</p><cite>Rom. 9:17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For the Scripture says to Pharaoh, “For this very purpose I caused you to be raised up, that I might show in you my power, and that my name might be proclaimed in all the earth.”</p><cite>Rom. 9:17 · WEB</cite></blockquote>
-<h4>(c) Human predestination is God's mystery, the importance of proclaiming the Word of God, the Covenant, Christ (the Robber, Judas) 1 Cor. 6:2</h4>
+<h4>(c) Human predestination is God's mystery, the importance of proclaiming the Word of God, the Covenant, and Christ (the robber, Judas) 1 Cor. 6:2</h4>
 <blockquote data-v="kjv"><p>Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the smallest matters?</p><cite>1 Cor. 6:2 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Do you not know that the saints will judge the world? And if you are to judge the world, are you not competent to judge trivial cases?</p><cite>1 Cor. 6:2 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Don’t you know that the saints will judge the world? And if the world is judged by you, are you unworthy to judge the smallest matters?</p><cite>1 Cor. 6:2 · WEB</cite></blockquote>
@@ -406,7 +408,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity. But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour.</p><cite>2 Tim. 2:19-20 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Nevertheless, God’s firm foundation stands, bearing this seal: “The Lord knows those who are His,” and, “Everyone who calls on the name of the Lord must turn away from iniquity.” A large house contains not only vessels of gold and silver, but also of wood and clay. Some indeed are for honorable use, but others are for common use.</p><cite>2 Tim. 2:19-20 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>However, God’s firm foundation stands, having this seal: “The Lord knows those who are his,” and, “Let every one who names the name of the Lord depart from unrighteousness.” Now in a large house there are not only vessels of gold and of silver, but also of wood and of clay. Some are for honor and some for dishonor.</p><cite>2 Tim. 2:19-20 · WEB</cite></blockquote>
-<h4>(b) God's calling - God's sovereignty, schedule of times and meetings Luke 24:45,Acts 13:48; 16:14,1 Pet. 2:9,Rom. 8:28</h4>
+<h4>(b) God's calling – God's sovereignty, schedule of times and meetings Luke 24:45,Acts 13:48; 16:14,1 Pet. 2:9,Rom. 8:28</h4>
 <blockquote data-v="kjv"><p>Then opened he their understanding, that they might understand the scriptures,</p><cite>Luke 24:45 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Then He opened their minds to understand the Scriptures.</p><cite>Luke 24:45 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Then he opened their minds, that they might understand the Scriptures.</p><cite>Luke 24:45 · WEB</cite></blockquote>
@@ -422,14 +424,14 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And we know that all things work together for good to them that love God, to them who are the called according to his purpose.</p><cite>Rom. 8:28 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And we know that God works all things together for the good of those who love Him, who are called according to His purpose.</p><cite>Rom. 8:28 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>We know that all things work together for good for those who love God, for those who are called according to his purpose.</p><cite>Rom. 8:28 · WEB</cite></blockquote>
-<h4>(c) God is justification – the proclamation of the Covenant, Christ, the forgiveness of all sins</h4>
-<h4>(d) God's glorification – bringing a person into the glory of God, fulfilling the destiny of God's people (Abraham, Paul)</h4>
+<h4>(c) God's justification is the presentation of the Covenant, Christ, and the forgiveness of all sins</h4>
+<h4>(d) God's glorification – bringing man into the glory of God, fulfilling the destiny of God's people (Abraham, Paul)</h4>
 <h3>(3) Correct understanding of human destiny</h3>
-<h4>(a) Life on earth with God – eternity with God (eternal life)</h4>
-<h4>(b) Life on earth outside of God – eternity outside of God (eternal destruction)</h4>
-<h4>(c) The quality and number of years of life is an incorrect (incomplete) understanding of human fate, the action of Satan</h4>
+<h4>(a) Life on earth with God is eternity with God (eternal life)</h4>
+<h4>(b) Life on earth outside of God is eternity outside of God (eternal destruction)</h4>
+<h4>(c) The quality and number of years of life is an incorrect (incomplete) understanding of human fate, an act of Satan</h4>
 <h2 id="s3">3) Understanding the circumstances in a person's life</h2>
-<h3>(1) Circumstances – causal relationship (person's choice)</h3>
+<h3>(1) Circumstances – causal relationship (human choice)</h3>
 <h4>(a) The importance of doing the right thing in a person's life</h4>
 <h4>(b) The importance of understanding the Word of God, the Covenant, Christ, God's Wisdom</h4>
 <h3>(2) Understanding the causes of difficult circumstances</h3>
@@ -446,11 +448,11 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And we know that all things work together for good to them that love God, to them who are the called according to his purpose.</p><cite>Rom. 8:28 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And we know that God works all things together for the good of those who love Him, who are called according to His purpose.</p><cite>Rom. 8:28 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>We know that all things work together for good for those who love God, for those who are called according to his purpose.</p><cite>Rom. 8:28 · WEB</cite></blockquote>
-<h4>(b) Children are the devil – all circumstances are for evil. Gal. 6:7-8</h4>
+<h4>(b) Children of the devil – all circumstances are for evil. Gal. 6:7-8</h4>
 <blockquote data-v="kjv"><p>Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap. For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.</p><cite>Gal. 6:7-8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Do not be deceived: God is not to be mocked. Whatever a man sows, he will reap in return. The one who sows to please his flesh, from the flesh will reap destruction; but the one who sows to please the Spirit, from the Spirit will reap eternal life.</p><cite>Gal. 6:7-8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Don’t be deceived. God is not mocked, for whatever a man sows, that he will also reap. For he who sows to his own flesh will from the flesh reap corruption. But he who sows to the Spirit will from the Spirit reap eternal life.</p><cite>Gal. 6:7-8 · WEB</cite></blockquote>
-<h4>(c) God controls circumstances. Matt. 10:28,1 Cor. 10:13,Heb. 13:5</h4>
+<h4>(c) God's control of circumstances. Matt. 10:28,1 Cor. 10:13,Heb. 13:5</h4>
 <blockquote data-v="kjv"><p>And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell.</p><cite>Matt. 10:28 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Do not be afraid of those who kill the body but cannot kill the soul. Instead, fear the One who can destroy both soul and body in hell.</p><cite>Matt. 10:28 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Don’t be afraid of those who kill the body, but are not able to kill the soul. Rather, fear him who is able to destroy both soul and body in Gehenna.</p><cite>Matt. 10:28 · WEB</cite></blockquote>
@@ -473,12 +475,12 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h3>(1) The existence and action of Satan is the realization of a person's right to choose</h3>
 <h3>(2) The meaning of the Church is the realization of a person's right to choose, the judgment of God</h3>
 <h3>(3) Life on earth is a preparation for eternity, the right to choose</h3>
-<h3>(4) The reason for not accepting the Word of God, the Covenant, Christ</h3>
+<h3>(4) The reason for the rejection of the Word of God, the Covenant, and Christ</h3>
 <h4>(a) Not the time (God's plan - time schedule, prayer)</h4>
 <h4>(b) Will never accept (fate, human responsibility)</h4>
 <h2 id="s5">Conclusion:</h2>
 <h3>(1) God's predestination is the knowledge of a person's choice in accepting the Word of God, the Covenant, and Christ through the action of God's grace</h3>
-<h3>(2) "The right to choose" - at the time of the proposal, the initiator is God. (God sovereignty is a "de jure" choice and a "de facto" choice)</h3>
+<h3>(2) "The right to choose" - at the time of the proposal, the initiator is God. (God's sovereignty is a "de jure" choice and a "de facto" choice)</h3>
 <h3>(3) The immutability of fate and the circumstances of life is the result of a person's choice and responsibility.</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>

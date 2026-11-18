@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -330,7 +332,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h2 id="s2">Result:</h2>
 <h3>(1) A person does all good at the expense of the True Master of everything, i.e., the Holy and True God</h3>
 <h3>(2) Unrighteous wealth – the life of God's people in a sinful world, the power of Satan (there is a lot wrong with the world order and the financial system of the world), the importance of understanding the Fall (the whole world lies in evil)</h3>
-<h3>(3) Unrighteous wealth must be converted into the right things – development and service to humanity, help to man, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ</h3>
+<h3>(3) Unrighteous wealth must be turned into the right things – development and service to humanity, help to man, transmission of the Word of God, the Covenant, Christ, disciples, Worldwide Evangelization, the coming of Christ</h3>
 <h2 id="s3">2) Luke 18:1-8, - about the unrighteous judge</h2>
 <blockquote data-v="kjv"><p>And he spake a parable unto them to this end, that men ought always to pray, and not to faint; Saying, There was in a city a judge, which feared not God, neither regarded man: And there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary. And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man; Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me. And the Lord said, Hear what the unjust judge saith. And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them? I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?</p><cite>Luke 18:1-8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Then Jesus told them a parable about their need to pray at all times and not lose heart: “In a certain town there was a judge who neither feared God nor respected men. And there was a widow in that town who kept appealing to him, ‘Give me justice against my adversary.’ For a while he refused, but later he said to himself, ‘Though I neither fear God nor respect men, yet because this widow keeps pestering me, I will give her justice. Otherwise, she will wear me out with her perpetual requests.’” And the Lord said, “Listen to the words of the unjust judge. Will not God bring about justice for His elect who cry out to Him day and night? Will He delay in helping them? I tell you, He will promptly carry out justice on their behalf. Nevertheless, when the Son of Man comes, will He find faith on earth?”</p><cite>Luke 18:1-8 · BSB</cite></blockquote>
@@ -339,11 +341,11 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And he spake a parable unto them to this end, that men ought always to pray, and not to faint; Saying, There was in a city a judge, which feared not God, neither regarded man: And there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary. And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man; Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me.</p><cite>Luke 18:1-5 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Then Jesus told them a parable about their need to pray at all times and not lose heart: “In a certain town there was a judge who neither feared God nor respected men. And there was a widow in that town who kept appealing to him, ‘Give me justice against my adversary.’ For a while he refused, but later he said to himself, ‘Though I neither fear God nor respect men, yet because this widow keeps pestering me, I will give her justice. Otherwise, she will wear me out with her perpetual requests.’”</p><cite>Luke 18:1-5 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He also spoke a parable to them that they must always pray and not give up, saying, “There was a judge in a certain city who didn’t fear God and didn’t respect man. A widow was in that city, and she often came to him, saying, ‘Defend me from my adversary!’ He wouldn’t for a while; but afterward he said to himself, ‘Though I neither fear God nor respect man, yet because this widow bothers me, I will defend her, or else she will wear me out by her continual coming.’”</p><cite>Luke 18:1-5 · WEB</cite></blockquote>
-<h3>(2) Luke 18:6-7, - nature is God, love and mercy (comparison)</h3>
+<h3>(2) Luke 18:6-7, - the nature of God, love and mercy (comparison)</h3>
 <blockquote data-v="kjv"><p>And the Lord said, Hear what the unjust judge saith. And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them?</p><cite>Luke 18:6-7 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And the Lord said, “Listen to the words of the unjust judge. Will not God bring about justice for His elect who cry out to Him day and night? Will He delay in helping them?</p><cite>Luke 18:6-7 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>The Lord said, “Listen to what the unrighteous judge says. Won’t God avenge his chosen ones who are crying out to him day and night, and yet he exercises patience with them?</p><cite>Luke 18:6-7 · WEB</cite></blockquote>
-<h3>(3) Luke 18:8, - God's understanding of sovereignty and time schedule</h3>
+<h3>(3) Luke 18:8, - Understanding God's sovereignty and time schedule</h3>
 <blockquote data-v="kjv"><p>I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?</p><cite>Luke 18:8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>I tell you, He will promptly carry out justice on their behalf. Nevertheless, when the Son of Man comes, will He find faith on earth?”</p><cite>Luke 18:8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I tell you that he will avenge them quickly. Nevertheless, when the Son of Man comes, will he find faith on the earth?”</p><cite>Luke 18:8 · WEB</cite></blockquote>
@@ -360,7 +362,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>He also spoke this parable to certain people who were convinced of their own righteousness, and who despised all others: “Two men went up into the temple to pray; one was a Pharisee, and the other was a tax collector. The Pharisee stood and prayed by himself like this: ‘God, I thank you that I am not like the rest of men: extortionists, unrighteous, adulterers, or even like this tax collector. I fast twice a week. I give tithes of all that I get.’ But the tax collector, standing far away, wouldn’t even lift up his eyes to heaven, but beat his chest, saying, ‘God, be merciful to me, a sinner!’ I tell you, this man went down to his house justified rather than the other; for everyone who exalts himself will be humbled, but he who humbles himself will be exalted.”</p><cite>Luke 18:9-14 · WEB</cite></blockquote>
 <h3>(1) Pharisee – religion, status, personal affairs and deeds</h3>
 <h3>(2) The publican – awareness of sinfulness, trust in God</h3>
-<h3>(3) God's judgment – acceptance or non-acceptance of the Word of God, the Covenant, Christ</h3>
+<h3>(3) God's judgment is the acceptance or non–acceptance of the Word of God, the Covenant, and Christ</h3>
 <h2 id="s5">4) Luke 19:12-27, - about ten mines</h2>
 <blockquote data-v="kjv"><p>He said therefore, A certain nobleman went into a far country to receive for himself a kingdom, and to return. And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come. But his citizens hated him, and sent a message after him, saying, We will not have this man to reign over us. And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading. Then came the first, saying, Lord, thy pound hath gained ten pounds. And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities. And the second came, saying, Lord, thy pound hath gained five pounds. And he said likewise to him, Be thou also over five cities. And another came, saying, Lord, behold, here is thy pound, which I have kept laid up in a napkin: For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow. And he saith unto him, Out of thine own mouth will I judge thee, thou wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow: Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury? And he said unto them that stood by, Take from him the pound, and give it to him that hath ten pounds. (And they said unto him, Lord, he hath ten pounds.) For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him. But those mine enemies, which would not that I should reign over them, bring hither, and slay them before me.</p><cite>Luke 19:12-27 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>So He said, “A man of noble birth went to a distant country to lay claim to his kingship and then return. Beforehand, he called ten of his servants and gave them ten minas. ‘Conduct business with this until I return,’ he said. But his subjects hated him and sent a delegation after him to say, ‘We do not want this man to rule over us.’ When he returned from procuring his kingship, he summoned the servants to whom he had given the money, to find out what each one had earned. The first servant came forward and said, ‘Master, your mina has produced ten more minas.’ His master replied, ‘Well done, good servant! Because you have been faithful in a very small matter, you shall have authority over ten cities.’ The second servant came and said, ‘Master, your mina has made five minas.’ And to this one he said, ‘You shall have authority over five cities.’ Then another servant came and said, ‘Master, here is your mina, which I have laid away in a piece of cloth. For I was afraid of you, because you are a harsh man. You withdraw what you did not deposit and reap what you did not sow.’ His master replied, ‘You wicked servant, I will judge you by your own words. So you knew that I am a harsh man, withdrawing what I did not deposit and reaping what I did not sow? Why then did you not deposit my money in the bank, and upon my return I could have collected it with interest?’ Then he told those standing by, ‘Take the mina from him and give it to the one who has ten minas.’ ‘Master,’ they said, ‘he already has ten!’ He replied, ‘I tell you that everyone who has will be given more; but the one who does not have, even what he has will be taken away from him. And these enemies of mine who were unwilling for me to rule over them, bring them here and slay them in front of me.’”</p><cite>Luke 19:12-27 · BSB</cite></blockquote>
@@ -373,7 +375,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come.</p><cite>Luke 19:13 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Beforehand, he called ten of his servants and gave them ten minas. ‘Conduct business with this until I return,’ he said.</p><cite>Luke 19:13 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He called ten servants of his and gave them ten mina coins, and told them, ‘Conduct business until I come.’</p><cite>Luke 19:13 · WEB</cite></blockquote>
-<h3>(3) Luke 19:14, - non-acceptance of the Word of God, the Covenant, Christ, man's right to choose</h3>
+<h3>(3) Luke 19:14, - rejection of the Word of God, the Covenant, Christ, the right to choose a person</h3>
 <blockquote data-v="kjv"><p>But his citizens hated him, and sent a message after him, saying, We will not have this man to reign over us.</p><cite>Luke 19:14 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But his subjects hated him and sent a delegation after him to say, ‘We do not want this man to rule over us.’</p><cite>Luke 19:14 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But his citizens hated him, and sent an envoy after him, saying, ‘We don’t want this man to reign over us.’</p><cite>Luke 19:14 · WEB</cite></blockquote>
@@ -385,7 +387,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Then came the first, saying, Lord, thy pound hath gained ten pounds. And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities. And the second came, saying, Lord, thy pound hath gained five pounds. And he said likewise to him, Be thou also over five cities.</p><cite>Luke 19:16-19 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>The first servant came forward and said, ‘Master, your mina has produced ten more minas.’ His master replied, ‘Well done, good servant! Because you have been faithful in a very small matter, you shall have authority over ten cities.’ The second servant came and said, ‘Master, your mina has made five minas.’ And to this one he said, ‘You shall have authority over five cities.’</p><cite>Luke 19:16-19 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>The first came before him, saying, ‘Lord, your mina has made ten more minas.’ “He said to him, ‘Well done, you good servant! Because you were found faithful with very little, you shall have authority over ten cities.’ “The second came, saying, ‘Your mina, Lord, has made five minas.’ “So he said to him, ‘And you are to be over five cities.’</p><cite>Luke 19:16-19 · WEB</cite></blockquote>
-<h3>(6) The importance of knowing and transmitting the Word of God, the Covenant, Christ, the importance of fulfilling destiny, understanding the options for man</h3>
+<h3>(6) The importance of knowing and transmitting the Word of God, the Covenant, and Christ, the importance of fulfilling a purpose, and understanding human options</h3>
 <h4>(a) Luke 19:20-26, - there is no fulfillment of destiny, there is no fruit, the condemnation of God, but saved as if from fire (Lot, Saul) 1 Cor. 3:10-15</h4>
 <blockquote data-v="kjv"><p>And another came, saying, Lord, behold, here is thy pound, which I have kept laid up in a napkin: For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow. And he saith unto him, Out of thine own mouth will I judge thee, thou wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow: Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury? And he said unto them that stood by, Take from him the pound, and give it to him that hath ten pounds. (And they said unto him, Lord, he hath ten pounds.) For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.</p><cite>Luke 19:20-26 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Then another servant came and said, ‘Master, here is your mina, which I have laid away in a piece of cloth. For I was afraid of you, because you are a harsh man. You withdraw what you did not deposit and reap what you did not sow.’ His master replied, ‘You wicked servant, I will judge you by your own words. So you knew that I am a harsh man, withdrawing what I did not deposit and reaping what I did not sow? Why then did you not deposit my money in the bank, and upon my return I could have collected it with interest?’ Then he told those standing by, ‘Take the mina from him and give it to the one who has ten minas.’ ‘Master,’ they said, ‘he already has ten!’ He replied, ‘I tell you that everyone who has will be given more; but the one who does not have, even what he has will be taken away from him.</p><cite>Luke 19:20-26 · BSB</cite></blockquote>
@@ -411,9 +413,9 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>And these enemies of mine who were unwilling for me to rule over them, bring them here and slay them in front of me.’”</p><cite>Luke 19:27 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But bring those enemies of mine who didn’t want me to reign over them here, and kill them before me.’”</p><cite>Luke 19:27 · WEB</cite></blockquote>
 <h2 id="s6">Conclusion:</h2>
-<h3>(1) Parables – understanding the Word of God, the Covenant, Christ, God sovereignty</h3>
+<h3>(1) Parables – understanding the Word of God, the Covenant, Christ, God's Sovereignty</h3>
 <h3>(2) The importance of understanding the meaning of life and eternity (intended)</h3>
-<h3>(3) The importance of properly understanding and following the Word of God</h3>
+<h3>(3) The importance of properly understanding and fulfilling the Word of God</h3>
 </main>
 <script>if(/[?&]print\b/.test(location.search))window.addEventListener('load',function(){window.print()});</script>
 </body>

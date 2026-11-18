@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,16 +233,16 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
 <main>
 <h1>1 Pet. 4–5</h1>
-<h2 id="s1">4.1) 1 Pet. 4:1-6, - the importance of conveying the Word of God, the Covenant, Christ</h2>
+<h2 id="s1">4.1) 1 Pet. 4:1-6, - the importance of conveying the Word of God, the Covenant, and Christ</h2>
 <blockquote data-v="kjv"><p>Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin; That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God. For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries: Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you: Who shall give account to him that is ready to judge the quick and the dead. For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.</p><cite>1 Pet. 4:1-6 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Therefore, since Christ suffered in His body, arm yourselves with the same resolve, because anyone who has suffered in his body is done with sin. Consequently, he does not live out his remaining time on earth for human passions, but for the will of God. For you have spent enough time in the past carrying out the same desires as the Gentiles: living in debauchery, lust, drunkenness, orgies, carousing, and detestable idolatry. Because of this, they consider it strange of you not to plunge with them into the same flood of reckless indiscretion, and they heap abuse on you. But they will have to give an account to Him who is ready to judge the living and the dead. That is why the gospel was preached even to those who are now dead, so that they might be judged as men in the flesh, but live according to God in the spirit.</p><cite>1 Pet. 4:1-6 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Therefore, since Christ suffered for us in the flesh, arm yourselves also with the same mind; for he who has suffered in the flesh has ceased from sin, that you no longer should live the rest of your time in the flesh for the lusts of men, but for the will of God. For we have spent enough of our past time doing the desire of the Gentiles, and having walked in lewdness, lusts, drunken binges, orgies, carousings, and abominable idolatries. They think it is strange that you don’t run with them into the same excess of riot, speaking evil of you. They will give account to him who is ready to judge the living and the dead. For to this end the Good News was preached even to the dead, that they might be judged indeed as men in the flesh, but live as to God in the spirit.</p><cite>1 Pet. 4:1-6 · WEB</cite></blockquote>
@@ -295,7 +297,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.</p><cite>Rom. 10:9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>that if you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised Him from the dead, you will be saved.</p><cite>Rom. 10:9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>that if you will confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.</p><cite>Rom. 10:9 · WEB</cite></blockquote>
-<h3>(2) 1 Pet. 4:3-5, - rejection of the Word of God, the Covenant, Christ, a different ideology and value system, a different way of life, an understanding of God's judgment</h3>
+<h3>(2) 1 Pet. 4:3-5, - rejection of the Word of God, the Covenant, Christ, different ideology and value system, different way of life, understanding of God's judgment</h3>
 <blockquote data-v="kjv"><p>For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries: Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you: Who shall give account to him that is ready to judge the quick and the dead.</p><cite>1 Pet. 4:3-5 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For you have spent enough time in the past carrying out the same desires as the Gentiles: living in debauchery, lust, drunkenness, orgies, carousing, and detestable idolatry. Because of this, they consider it strange of you not to plunge with them into the same flood of reckless indiscretion, and they heap abuse on you. But they will have to give an account to Him who is ready to judge the living and the dead.</p><cite>1 Pet. 4:3-5 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For we have spent enough of our past time doing the desire of the Gentiles, and having walked in lewdness, lusts, drunken binges, orgies, carousings, and abominable idolatries. They think it is strange that you don’t run with them into the same excess of riot, speaking evil of you. They will give account to him who is ready to judge the living and the dead.</p><cite>1 Pet. 4:3-5 · WEB</cite></blockquote>
@@ -310,13 +312,13 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>By which also he went and preached unto the spirits in prison;</p><cite>1 Pet. 3:19 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>in whom He also went and preached to the spirits in prison</p><cite>1 Pet. 3:19 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>in whom he also went and preached to the spirits in prison,</p><cite>1 Pet. 3:19 · WEB</cite></blockquote>
-<h4>(b) God's judgment of the flesh is the death of the old, carnal man (spirit and physical).</h4>
+<h4>(b) God's judgment of the flesh is the death of the old, carnal man (spirit and physical)</h4>
 <h4>(c) Living according to the Spirit is for God the salvation and rebirth of man</h4>
 <h2 id="s2">2) 1 Pet. 4:7-11, - understanding the purpose of the Church of God</h2>
 <blockquote data-v="kjv"><p>But the end of all things is at hand: be ye therefore sober, and watch unto prayer. And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins. Use hospitality one to another without grudging. As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God. If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.</p><cite>1 Pet. 4:7-11 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>The end of all things is near. Therefore be clear-minded and sober, so that you can pray. Above all, love one another deeply, because love covers over a multitude of sins. Show hospitality to one another without complaining. As good stewards of the manifold grace of God, each of you should use whatever gift he has received to serve one another. If anyone speaks, he should speak as one conveying the words of God. If anyone serves, he should serve with the strength God provides, so that in all things God may be glorified through Jesus Christ, to whom be the glory and the power forever and ever. Amen.</p><cite>1 Pet. 4:7-11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But the end of all things is near. Therefore be of sound mind, self-controlled, and sober in prayer. And above all things be earnest in your love among yourselves, for love covers a multitude of sins. Be hospitable to one another without grumbling. As each has received a gift, employ it in serving one another, as good managers of the grace of God in its various forms. If anyone speaks, let it be as it were the very words of God. If anyone serves, let it be as of the strength which God supplies, that in all things God may be glorified through Jesus Christ, to whom belong the glory and the dominion forever and ever. Amen.</p><cite>1 Pet. 4:7-11 · WEB</cite></blockquote>
-<h3>(1) 1 Pet. 4:7, - the importance of constantly abiding in the Word of God</h3>
+<h3>(1) 1 Pet. 4:7, - the importance of abiding in the Word of God</h3>
 <blockquote data-v="kjv"><p>But the end of all things is at hand: be ye therefore sober, and watch unto prayer.</p><cite>1 Pet. 4:7 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>The end of all things is near. Therefore be clear-minded and sober, so that you can pray.</p><cite>1 Pet. 4:7 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But the end of all things is near. Therefore be of sound mind, self-controlled, and sober in prayer.</p><cite>1 Pet. 4:7 · WEB</cite></blockquote>
@@ -324,7 +326,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins. Use hospitality one to another without grudging. As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God. If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.</p><cite>1 Pet. 4:8-11 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Above all, love one another deeply, because love covers over a multitude of sins. Show hospitality to one another without complaining. As good stewards of the manifold grace of God, each of you should use whatever gift he has received to serve one another. If anyone speaks, he should speak as one conveying the words of God. If anyone serves, he should serve with the strength God provides, so that in all things God may be glorified through Jesus Christ, to whom be the glory and the power forever and ever. Amen.</p><cite>1 Pet. 4:8-11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>And above all things be earnest in your love among yourselves, for love covers a multitude of sins. Be hospitable to one another without grumbling. As each has received a gift, employ it in serving one another, as good managers of the grace of God in its various forms. If anyone speaks, let it be as it were the very words of God. If anyone serves, let it be as of the strength which God supplies, that in all things God may be glorified through Jesus Christ, to whom belong the glory and the dominion forever and ever. Amen.</p><cite>1 Pet. 4:8-11 · WEB</cite></blockquote>
-<h4>(a) The Importance of the love of God – the importance of knowing and communicating the Word of God, the Covenant, Christ, the right relationship</h4>
+<h4>(a) The Importance of the love of God – the importance of knowing and communicating the Word of God, the Covenant, Christ, and the right relationship</h4>
 <h4>(b) Serving in the gifts of God – glorifying Christ and God</h4>
 <h4>(c) The importance of understanding the manifold grace of God – universal, calling, saving, teaching, preaching, testing, preserving. (Grace is the undeserved grace of Communion with God)</h4>
 <h2 id="s3">3) 1 Pet. 4:12-19, - the importance of fulfilling the purpose</h2>
@@ -339,7 +341,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>For the time is come that judgment must begin at the house of God: and if it first begin at us, what shall the end be of them that obey not the gospel of God?</p><cite>1 Pet. 4:17 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For it is time for judgment to begin with the family of God; and if it begins with us, what will the outcome be for those who disobey the gospel of God?</p><cite>1 Pet. 4:17 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For the time has come for judgment to begin with the household of God. If it begins first with us, what will happen to those who don’t obey the Good News of God?</p><cite>1 Pet. 4:17 · WEB</cite></blockquote>
-<h4>(a) The acceptance of the Word of God, the Covenant, Christ, the fulfillment of the judgment of God. John 3:18</h4>
+<h4>(a) Acceptance of the Word of God, the Covenant, Christ, and the fulfillment of God's judgment. John 3:18</h4>
 <blockquote data-v="kjv"><p>He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God.</p><cite>John 3:18 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Whoever believes in Him is not condemned, but whoever does not believe has already been condemned, because he has not believed in the name of God’s one and only Son.</p><cite>John 3:18 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the only born Son of God.</p><cite>John 3:18 · WEB</cite></blockquote>
@@ -358,8 +360,8 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>And, “If it is hard for the righteous to be saved, what will become of the ungodly and the sinner?”</p><cite>1 Pet. 4:18 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“If it is hard for the righteous to be saved, what will happen to the ungodly and the sinner?”</p><cite>1 Pet. 4:18 · WEB</cite></blockquote>
 <h4>(a) The righteous are God's foreknowledge of every human being</h4>
-<h4>(b) The importance of entering into the purity of the teachings of the Word of God, the Covenant, Christ, God's action and grace (understanding the action of Satan)</h4>
-<h4>(c) The importance of preserving the purity of the teachings of the Word of God, the Covenant, Christ, God's action and grace (understanding the action of Satan)</h4>
+<h4>(b) The importance of entering into the purity of the teaching of the Word of God, the Covenant, Christ, God's action and grace (understanding the work of Satan)</h4>
+<h4>(c) The importance of preserving the purity of the teaching of the Word of God, the Covenant, Christ, God's action and grace (understanding the work of Satan)</h4>
 <h4>(d) The importance of living the right life and fulfilling one's destiny (the problem of temptations), God's action and grace</h4>
 <h3>(5) 1 Pet. 4:19, - the importance of understanding and accepting God's sovereignty and control (suffering according to God's will), the importance of confidence in salvation, God's guidance and victory (the faithful Creator and Savior of mankind). 1 Tim. 2:4</h3>
 <blockquote data-v="kjv"><p>Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator.</p><cite>1 Pet. 4:19 · KJV</cite></blockquote>
@@ -368,7 +370,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Who will have all men to be saved, and to come unto the knowledge of the truth.</p><cite>1 Tim. 2:4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>who wants everyone to be saved and to come to the knowledge of the truth.</p><cite>1 Tim. 2:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>who desires all people to be saved and come to full knowledge of the truth.</p><cite>1 Tim. 2:4 · WEB</cite></blockquote>
-<h2 id="s4">4) 1 Pet. 5, - knowledge and transmission of the Word of God, the Covenant, Christ (intended)</h2>
+<h2 id="s4">4) 1 Pet. 5, - knowledge and transmission of the Word of God, the Covenant, and Christ (intended)</h2>
 <h3>(1) 1 Pet. 5:1-4, - Understanding pastoral ministry</h3>
 <blockquote data-v="kjv"><p>The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed: Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind; Neither as being lords over God’s heritage, but being ensamples to the flock. And when the chief Shepherd shall appear, ye shall receive a crown of glory that fadeth not away.</p><cite>1 Pet. 5:1-4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>As a fellow elder, a witness of Christ’s sufferings, and a partaker of the glory to be revealed, I appeal to the elders among you: Be shepherds of God’s flock that is among you, watching over them not out of compulsion, but willingly, as God would have you; not out of greed, but out of eagerness; not lording it over those entrusted to you, but being examples to the flock. And when the Chief Shepherd appears, you will receive the crown of glory that will never fade away.</p><cite>1 Pet. 5:1-4 · BSB</cite></blockquote>
@@ -376,24 +378,24 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h4>(a) The right motives for service</h4>
 <h4>(b) A personal example of Christian life</h4>
 <h4>(c) Understanding God's Reward</h4>
-<h3>(2) 1 Pet. 5:5-7, - the right relationship among the people of God</h3>
+<h3>(2) 1 Pet. 5:5-7, - the right relationship among God's people</h3>
 <blockquote data-v="kjv"><p>Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble. Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time: Casting all your care upon him; for he careth for you.</p><cite>1 Pet. 5:5-7 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Young men, in the same way, submit yourselves to your elders. And all of you, clothe yourselves with humility toward one another, because, “God opposes the proud, but gives grace to the humble.” Humble yourselves, therefore, under God’s mighty hand, so that in due time He may exalt you. Cast all your anxiety on Him, because He cares for you.</p><cite>1 Pet. 5:5-7 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Likewise, you younger ones, be subject to the elder. Yes, all of you clothe yourselves with humility and subject yourselves to one another; for “God resists the proud, but gives grace to the humble.” Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time, casting all your worries on him, because he cares for you.</p><cite>1 Pet. 5:5-7 · WEB</cite></blockquote>
 <h4>(a) A proper understanding of the authority of pastors (teaching, Worship)</h4>
 <h4>(b) Understanding equality and brotherhood among God's people</h4>
-<h4>(c) Humility before God – full acceptance of God's Word, Covenant, and Xp, acceptance of God's sovereignty and control</h4>
-<h4>(d) Pride – non-acceptance of God's Word, Covenant, Christ, non-acceptance of God's sovereignty and control</h4>
+<h4>(c) Humility before God is the complete acceptance of God's Word, Covenant, Xp, and acceptance of God's sovereignty and control</h4>
+<h4>(d) Pride – non-acceptance of the Word of God, the Covenant, Christ, non-acceptance of God's sovereignty and control</h4>
 <h4>(e) Humility before God is the help of God's grace, pride is God's resistance and the education of man.</h4>
 <h4>(e) The importance of understanding God's love and care (cares for us)</h4>
 <h3>(3) 1 Pet. 5:8-9, - understanding of Satan's actions, false teachings</h3>
 <blockquote data-v="kjv"><p>Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world.</p><cite>1 Pet. 5:8-9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Be sober-minded and alert. Your adversary the devil prowls around like a roaring lion, seeking someone to devour. Resist him, standing firm in your faith and in the knowledge that your brothers throughout the world are undergoing the same kinds of suffering.</p><cite>1 Pet. 5:8-9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Be sober and self-controlled. Be watchful. Your adversary, the devil, walks around like a roaring lion, seeking whom he may devour. Withstand him steadfast in your faith, knowing that your brothers who are in the world are undergoing the same sufferings.</p><cite>1 Pet. 5:8-9 · WEB</cite></blockquote>
-<h4>(a) Consume those who are not his - bringing the children of God back into his power, abandoning the Word of God, the Covenant, Christ (sin unto death)</h4>
+<h4>(a) To devour those who do not belong to him – to bring the children of God back into his power, abandoning the Word of God, the Covenant, Christ (sin to death)</h4>
 <h4>(b) Firm faith – knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, understanding and fulfilling the destiny of God's people</h4>
 <h4>(c) God's control, protection, and support of God's people</h4>
-<h3>(4) 1 Pet. 5:10-11, - the importance of conveying the Word of God, the Covenant, Christ</h3>
+<h3>(4) 1 Pet. 5:10-11, - the importance of conveying the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you. To him be glory and dominion for ever and ever. Amen.</p><cite>1 Pet. 5:10-11 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>And after you have suffered for a little while, the God of all grace, who has called you to His eternal glory in Christ, will Himself restore you, secure you, strengthen you, and establish you. To Him be the power forever and ever. Amen.</p><cite>1 Pet. 5:10-11 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But may the God of all grace, who called you to his eternal glory by Christ Jesus, after you have suffered a little while, perfect, establish, strengthen, and settle you. To him be the glory and the power forever and ever. Amen.</p><cite>1 Pet. 5:10-11 · WEB</cite></blockquote>

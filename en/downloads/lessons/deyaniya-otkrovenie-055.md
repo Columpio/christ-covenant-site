@@ -1,5 +1,5 @@
 # 1 Cor. 4–5
-## 4.1) 1 Cor. 4, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 4.1) 1 Cor. 4, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
 ### (1) 1 Cor. 4:1-6, - fulfillment of the destiny of God's people
 > Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God. Moreover it is required in stewards, that a man be found faithful. But with me it is a very small thing that I should be judged of you, or of man’s judgment: yea, I judge not mine own self. For I know nothing by myself; yet am I not hereby justified: but he that judgeth me is the Lord. Therefore judge nothing before the time, until the Lord come, who both will bring to light the hidden things of darkness, and will make manifest the counsels of the hearts: and then shall every man have praise of God. And these things, brethren, I have in a figure transferred to myself and to Apollos for your sakes; that ye might learn in us not to think of men above that which is written, that no one of you be puffed up for one against another. (1 Cor. 4:1-6, KJV)
@@ -22,7 +22,7 @@
 #### (b) 1 Cor. 4:2, - the importance of a person’s loyalty to God under any circumstances, situations, etc.
 > Moreover it is required in stewards, that a man be found faithful. (1 Cor. 4:2, KJV)
 
-#### (c) 1 Cor. 4:3, - the importance of fulfilling one’s destiny regardless of the opinions of other people, the importance of conforming a person’s life to the standards and norms of the Word of God
+#### (c) 1 Cor. 4:3, - the importance of fulfilling a destiny regardless of the opinions of other people, the importance of conforming a person's life to the standards and norms of the Word of God
 > But with me it is a very small thing that I should be judged of you, or of man’s judgment: yea, I judge not mine own self. (1 Cor. 4:3, KJV)
 
 #### (d) 1 Cor. 4:4-5, - the importance of God's opinion, understanding God's judgment on every human being
@@ -37,33 +37,33 @@
 #### (a) 1 Cor. 4:7-8, - the pride and arrogance of the Corinthians, the opinion about the omniscience, autonomy and uselessness of the ministry of the Apostle Paul in the Corinthian Church
 > For who maketh thee to differ from another? and what hast thou that thou didst not receive? now if thou didst receive it, why dost thou glory, as if thou hadst not received it? Now ye are full, now ye are rich, ye have reigned as kings without us: and I would to God ye did reign, that we also might reign with you. (1 Cor. 4:7-8, KJV)
 
-#### (b) 1 Cor. 4:9-13, is an example of the true ministry of the people of God, the importance of Worldwide Evangelization, the fulfillment of destiny. (Rejection of the Word of God, the Covenant, Christ by the majority of people – humiliation, insults, physical and spiritual difficulties of the people of God)
+#### (b) 1 Cor. 4:9-13, is an example of the true ministry of the people of God, the importance of Worldwide Evangelization, and the fulfillment of destiny. (Rejection of the Word of God, the Covenant, and Christ by the majority of people – humiliation, insults, and physical and spiritual difficulties of God's people)
 > For I think that God hath set forth us the apostles last, as it were appointed to death: for we are made a spectacle unto the world, and to angels, and to men. We are fools for Christ’s sake, but ye are wise in Christ; we are weak, but ye are strong; ye are honourable, but we are despised. Even unto this present hour we both hunger, and thirst, and are naked, and are buffeted, and have no certain dwellingplace; And labour, working with our own hands: being reviled, we bless; being persecuted, we suffer it: Being defamed, we intreat: we are made as the filth of the world, and are the offscouring of all things unto this day. (1 Cor. 4:9-13, KJV)
 
 #### (c) 1 Cor. 4:14-15, - the importance of fulfilling the destiny, and not the lofty reasoning and idleness of the people of God. (The importance of educating and supporting God's people)
 > I write not these things to shame you, but as my beloved sons I warn you. For though ye have ten thousand instructers in Christ, yet have ye not many fathers: for in Christ Jesus I have begotten you through the gospel. (1 Cor. 4:14-15, KJV)
 
-#### (d) 1 Cor. 4:15, - the importance of being born again and saved, the importance of hearing and accepting the Word of God, the Covenant, Christ
+#### (d) 1 Cor. 4:15, - the importance of being born again and saved, the importance of hearing and accepting the Word of God, the Covenant, and Christ
 > For though ye have ten thousand instructers in Christ, yet have ye not many fathers: for in Christ Jesus I have begotten you through the gospel. (1 Cor. 4:15, KJV)
 
 #### (e) 1 Cor. 4:16, - the importance of imitating Christ, living for God and man, fulfilling destiny (the life of Paul)
 > Wherefore I beseech you, be ye followers of me. (1 Cor. 4:16, KJV)
 
-#### (e) 1 Cor. 4:17, - the importance of prepared disciples, a deep understanding of the Word of God, the Covenant, Christ, the possibility of serving the people of God
+#### (e) 1 Cor. 4:17, - the importance of prepared disciples, a deep understanding of the Word of God, the Covenant, Christ, and the opportunity to serve God's people
 > For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord, who shall bring you into remembrance of my ways which be in Christ, as I teach every where in every church. (1 Cor. 4:17, KJV)
 
-#### (g) 1 Cor. 4:18-21, - the importance of understanding the power of God, the knowledge and transmission of the Word of God, the Covenant, Christ, fulfillment of purpose, rather than high reasoning and wisdom
+#### (g) 1 Cor. 4:18-21, - the importance of understanding the power of God, the knowledge and transmission of the Word of God, the Covenant, Christ, the fulfillment of purpose, and not high reasoning and wisdom
 > Now some are puffed up, as though I would not come to you. But I will come to you shortly, if the Lord will, and will know, not the speech of them which are puffed up, but the power. For the kingdom of God is not in word, but in power. What will ye? shall I come unto you with a rod, or in love, and in the spirit of meekness? (1 Cor. 4:18-21, KJV)
 
-## 2) 1 Cor. 5, - the importance of accepting the Word of God, the Covenant, Christ
+## 2) 1 Cor. 5, - the importance of accepting the Word of God, the Covenant, and Christ
 
 ### (1) 1 Cor. 5:1, - the influence of the world, Satan and the remnants of sinful essence on the people of God (insane acts, incest)
 > It is reported commonly that there is fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father’s wife. (1 Cor. 5:1, KJV)
 
-### (2) 1 Cor. 5:2, - inaccurate understanding of the Word of God, misunderstanding of good and evil, importance of the commandments of God (V.Z.)
+### (2) 1 Cor. 5:2, - inaccurate understanding of God's Word, misunderstanding of good and evil, importance of God's commandments (V.Z.)
 > And ye are puffed up, and have not rather mourned, that he that hath done this deed might be taken away from among you. (1 Cor. 5:2, KJV)
 
-### (3) 1 Cor. 5:3-5, - the importance of educating God, the importance of accepting the standards of the Word of God, God's acceptance of Satan's actions from the outside on the people of God (the goal is to educate and preserve salvation)
+### (3) 1 Cor. 5:3-5, - the importance of educating God, the importance of accepting the standards of God's Word, God's acceptance of Satan's actions from outside on God's people (the goal is to educate and preserve salvation)
 > For I verily, as absent in body, but present in spirit, have judged already, as though I were present, concerning him that hath so done this deed, In the name of our Lord Jesus Christ, when ye are gathered together, and my spirit, with the power of our Lord Jesus Christ, To deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus. (1 Cor. 5:3-5, KJV)
 
 ### (4) 1 Cor. 5:6-8, - The importance of life change for God's children
@@ -71,18 +71,18 @@
 
 #### (a) Leaven is the prototype of sin
 
-#### (b) The new sourdough dough – the rebirth, the salvation of man
+#### (b) New sourdough dough – rebirth, human salvation
 
 #### (c) The true Easter is Christ, the understanding of God's only method of salvation and rebirth for man
 
-#### (d) The importance of celebrating purity and truth with unleavened bread – a proper life according to the standards of the Word of God, purpose
+#### (d) The importance of celebrating purity and truth with unleavened bread – the right life according to the standards of the Word of God, the purpose
 
 ### (5) 1 Cor. 5:9-11, - the importance of correct communication and life, the importance of understanding Church discipline
 > I wrote unto you in an epistle not to company with fornicators: Yet not altogether with the fornicators of this world, or with the covetous, or extortioners, or with idolaters; for then must ye needs go out of the world. But now I have written unto you not to keep company, if any man that is called a brother be a fornicator, or covetous, or an idolater, or a railer, or a drunkard, or an extortioner; with such an one no not to eat. (1 Cor. 5:9-11, KJV)
 
 #### (a) The importance of understanding the depravity of the world
 
-#### (b) The importance of understanding the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization (not a monastery)
+#### (b) The importance of understanding the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization (not a monastery)
 
 #### (c) The importance of avoiding false brethren in the local Church, understanding the negative influence and temptation of God's people. (False brothers – there is no salvation and no rebirth, worldly ideology and actions, wrong purpose and meaning of life)
 

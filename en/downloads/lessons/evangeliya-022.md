@@ -1,9 +1,9 @@
 # 22. Matthew 18 chapter
 
-## 1) Matt. 18:1-5, - the importance of understanding the Word of God, the Covenant, Christ
+## 1) Matt. 18:1-5, - the importance of understanding the Word of God, the Covenant, and Christ
 > At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven? And Jesus called a little child unto him, and set him in the midst of them, And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven. Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven. And whoso shall receive one such little child in my name receiveth me. (Matt. 18:1-5, KJV)
 
-### (1) Matt. 18:1, - inaccurate understanding of the Word of God, the Testament, Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+### (1) Matt. 18:1, - inaccurate understanding of the Word of God, the Covenant, Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven? (Matt. 18:1, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -15,7 +15,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-### (2) Matt. 18:2-4, - the importance of understanding the Word of God, the Covenant, Christ
+### (2) Matt. 18:2-4, - the importance of understanding the Word of God, the Covenant, and Christ
 > And Jesus called a little child unto him, and set him in the midst of them, And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven. Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven. (Matt. 18:2-4, KJV)
 
 #### (a) Conversion – acceptance of the Word of God, the Covenant, Christ, being born again
@@ -30,7 +30,7 @@
 ## 2) Matt. 18:6-10, - the importance of understanding and fulfilling the Word of God
 > But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea. Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh! Wherefore if thy hand or thy foot offend thee, cut them off, and cast them from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire. And if thine eye offend thee, pluck it out, and cast it from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire. Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven. (Matt. 18:6-10, KJV)
 
-### (1) Matt. 18:6, - seduction of children by God (act of Satan, false teachings)
+### (1) Matt. 18:6, - seduction of God's children (act of Satan, false teachings)
 > But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea. (Matt. 18:6, KJV)
 
 ### (2) Matt. 18:7, - The importance of understanding Satan's actions
@@ -45,19 +45,19 @@
 ### (3) Matt. 18:8-9, - the importance of sanctification (knowledge of the Word of God, the Covenant, Christ)
 > Wherefore if thy hand or thy foot offend thee, cut them off, and cast them from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire. And if thine eye offend thee, pluck it out, and cast it from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire. (Matt. 18:8-9, KJV)
 
-### (4) Matt. 18:10, - the importance of understanding the ministry of angels to the children of God
+### (4) Matt. 18:10, - the importance of understanding the service of angels to the children of God
 > Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven. (Matt. 18:10, KJV)
 
-## 3) Matt. 18:11-14, - affirmation of the Word of God, the Covenant, Christ
+## 3) Matt. 18:11-14, - affirmation of the Word of God, the Covenant, of Christ
 > For the Son of man is come to save that which was lost. How think ye? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray? And if so be that he find it, verily I say unto you, he rejoiceth more of that sheep, than of the ninety and nine which went not astray. Even so it is not the will of your Father which is in heaven, that one of these little ones should perish. (Matt. 18:11-14, KJV)
 
 ### (1) Matt. 18:11, - the importance of understanding the mission of Christ
 > For the Son of man is come to save that which was lost. (Matt. 18:11, KJV)
 
-### (2) Matt. 18:12-14, - the importance of preserving the Word of God, the Covenant, Christ
+### (2) Matt. 18:12-14, - the importance of preserving the Word of God, the Covenant, and Christ
 > How think ye? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray? And if so be that he find it, verily I say unto you, he rejoiceth more of that sheep, than of the ninety and nine which went not astray. Even so it is not the will of your Father which is in heaven, that one of these little ones should perish. (Matt. 18:12-14, KJV)
 
-#### (a) The possibility of getting lost is the effect of Satan, temptation
+#### (a) The possibility of getting lost is an act of Satan, temptation
 
 #### (b) If they find it, they can get completely lost. (Understanding the possibility of falling away from Christ)
 
@@ -67,7 +67,7 @@
 ## 4) Matt. 18:15-20, - the importance of understanding the Church of God
 > Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother. But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established. And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican. Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven. Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven. For where two or three are gathered together in my name, there am I in the midst of them. (Matt. 18:15-20, KJV)
 
-### (1) Matt. 18:15-17, - God's understanding of the order of chastisement of the people of God
+### (1) Matt. 18:15-17, - understanding God's order of chastisement of God's people
 > Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother. But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established. And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican. (Matt. 18:15-17, KJV)
 
 #### (a) The 1st stage is personal admonition
@@ -78,7 +78,7 @@
 
 #### (d) Stage 4 – exclusion from membership of the local Church
 
-### (2) Matt. 18:18, - understanding the authority of the Church of God. (Bind or allow – to voice the spiritual state of a person)
+### (2) Matt. 18:18, - understanding the authority of the Church of God. (Bind or allow – to voice a person's spiritual state)
 > Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven. (Matt. 18:18, KJV)
 
 ### (3) Matt. 18:19, - joint prayer, affirmation of the will of God (not man)
@@ -114,7 +114,7 @@
 
 ## Conclusion:
 
-### (1) The importance of knowing and communicating the Word of God, the Covenant, Christ, World Evangelism, understanding and fulfilling the purpose of God's people
+### (1) The importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, understanding and fulfilling the destiny of God's people
 
 ### (2) The importance of understanding Satan's actions
 

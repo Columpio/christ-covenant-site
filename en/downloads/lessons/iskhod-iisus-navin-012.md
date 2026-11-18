@@ -5,7 +5,7 @@
 ### (1) John 5:39, - all the Scriptures speak about Christ
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 
-### (2) Col. 1:26-27,Eph. 3:8-9, - Christ, the mystery of God revealed by God Himself, God's sovereignty and control. (The impossibility of understanding the Word of God, the Covenant, Christ without the grace of God)
+### (2) Col. 1:26-27,Eph. 3:8-9, - Christ, the mystery of God revealed by God Himself, God's sovereignty and control. (The impossibility of understanding the Word of God, the Covenant, and Christ without the grace of God)
 > Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints: To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory: (Col. 1:26-27, KJV)
 > Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ; And to make all men see what is the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ: (Eph. 3:8-9, KJV)
 
@@ -15,9 +15,9 @@
 
 ### (1) Life outside of Christ is slavery (Adam, Abraham)
 
-#### (a) The importance of the Word of God, the Covenant, Christ for man – Emmanuel
+#### (a) The importance of the Word of God, the Covenant, and Christ for man – Emmanuel
 
-#### (b) An inaccurate understanding of the Word of God. The Covenant, Christ is slavery, there is no Emmanuel
+#### (b) An inaccurate understanding of God's Word. There is no covenant, there is no Christ, there is no Emmanuel
 
 ### (2) Christ as the Only Mediator between His people and God (Moses)
 
@@ -65,9 +65,9 @@
 
 #### (a) Judgment by water, Flood – rejection of the Word of God, the Covenant, Christ
 
-#### (b) Judgment by Blood, Golgotha – the importance of accepting the Word of God, the Covenant, Christ
+#### (b) Judgment by Blood, Golgotha – the importance of accepting the Word of God, the Covenant, and Christ
 
-#### (c) Judgment by fire, Great Throne - non-acceptance of the Word of God, Covenant, Christ John 12:48, - Deut. 30:19
+#### (c) Judgment by fire, the Great Throne – rejection of the Word of God, the Covenant, Christ John 12:48, - Deut. 30:19
 > He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day. (John 12:48, KJV)
 > I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live: (Deut. 30:19, KJV)
 
@@ -98,14 +98,14 @@
 
 #### (b) The desert is God's will for every human being
 
-#### (c) The end of the desert - Canaan, the fulfillment of destiny. (Knowledge and transmission of the Word of God, the Covenant, Christ, preparation for the coming of Christ)
+#### (c) The end of the desert is Canaan, the fulfillment of destiny. (Knowledge and transmission of the Word of God, the Covenant, Christ, preparation for the coming of Christ)
 
 ### (11) Christ is like the Bread that came down from heaven.
 
 #### (a) The True Bread of Life is Jesus Christ. John 6:33-35
 > For the bread of God is he which cometh down from heaven, and giveth life unto the world. Then said they unto him, Lord, evermore give us this bread. And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst. (John 6:33-35, KJV)
 
-#### (b) The importance of the True Bread of Life for man – the importance of knowing and transmitting the Word of God, the Covenant, Christ
+#### (b) The importance of the True Bread of Life for man – the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
 ### (12) Christ as a Fountain of Living Water
 
@@ -144,7 +144,7 @@
 
 ### (15) Christ as the Law of God, the expression of God
 
-#### (a) Decalogue (Ten Notes) – (1) understanding of good and evil, awareness of sin and the impossibility of salvation by one's own efforts, (2) right living, the possibility of serving God and man
+#### (a) Decalogue (Ten Commandments) – (1) understanding of good and evil, awareness of sin and the impossibility of salvation by one's own efforts, (2) right living, the possibility of serving God and man
 
 #### (b) The Liturgical Law – the importance of proper service to the Holy God
 
@@ -178,7 +178,7 @@
 
 ### (1) The importance of studying the Scriptures
 
-### (2) The Importance of Understanding the Word of God, the Covenant, Christ John 5:39
+### (2) The Importance of Understanding the Word of God, the Covenant, and Christ John 5:39
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)
 
 ### (3) The importance of understanding Christ from the Beginning, the Importance of understanding God's plan for humanity Amos 3:7,Jer. 29:11

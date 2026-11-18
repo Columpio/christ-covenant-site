@@ -1,6 +1,6 @@
 # 14. 2 Sam. 24: An overview of David's life
 
-## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -12,7 +12,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-## 2) 2 Sam. 21-23, - the war with the Philistines, the action of Satan (Fulfilling the destiny of the people of God – spiritual warfare)
+## 2) 2 Sam. 21-23, - the war with the Philistines, the act of Satan (Fulfilling the destiny of God's people – spiritual warfare)
 
 ### (1) 2 Sam. 21:1-9, - violation of the Word of God, problems for posterity
 > Then there was a famine in the days of David three years, year after year; and David enquired of the LORD. And the LORD answered, It is for Saul, and for his bloody house, because he slew the Gibeonites. And the king called the Gibeonites, and said unto them; (now the Gibeonites were not of the children of Israel, but of the remnant of the Amorites; and the children of Israel had sworn unto them: and Saul sought to slay them in his zeal to the children of Israel and Judah.) Wherefore David said unto the Gibeonites, What shall I do for you? and wherewith shall I make the atonement, that ye may bless the inheritance of the LORD? And the Gibeonites said unto him, We will have no silver nor gold of Saul, nor of his house; neither for us shalt thou kill any man in Israel. And he said, What ye shall say, that will I do for you. And they answered the king, The man that consumed us, and that devised against us that we should be destroyed from remaining in any of the coasts of Israel, Let seven men of his sons be delivered unto us, and we will hang them up unto the LORD in Gibeah of Saul, whom the LORD did choose. And the king said, I will give them. But the king spared Mephibosheth, the son of Jonathan the son of Saul, because of the LORD’s oath that was between them, between David and Jonathan the son of Saul. But the king took the two sons of Rizpah the daughter of Aiah, whom she bare unto Saul, Armoni and Mephibosheth; and the five sons of Michal the daughter of Saul, whom she brought up for Adriel the son of Barzillai the Meholathite: And he delivered them into the hands of the Gibeonites, and they hanged them in the hill before the LORD: and they fell all seven together, and were put to death in the days of harvest, in the first days, in the beginning of barley harvest. (2 Sam. 21:1-9, KJV)
@@ -20,7 +20,7 @@
 #### (a) 2 Sam. 21:1, - famine, the wrath of God against the house of Saul, the importance of understanding the justice of God
 > Then there was a famine in the days of David three years, year after year; and David enquired of the LORD. And the LORD answered, It is for Saul, and for his bloody house, because he slew the Gibeonites. (2 Sam. 21:1, KJV)
 
-#### (b) 2 Sam. 21:1-2, - Gibeonites, accepting the Word of God, the Covenant, Christ, the lawful people of God. Josh. 9-10
+#### (b) 2 Sam. 21:1-2, - Gibeonites, acceptance of the Word of God, the Covenant, Christ, the legitimate people of God. Josh. 9-10
 > Then there was a famine in the days of David three years, year after year; and David enquired of the LORD. And the LORD answered, It is for Saul, and for his bloody house, because he slew the Gibeonites. And the king called the Gibeonites, and said unto them; (now the Gibeonites were not of the children of Israel, but of the remnant of the Amorites; and the children of Israel had sworn unto them: and Saul sought to slay them in his zeal to the children of Israel and Judah.) (2 Sam. 21:1-2, KJV)
 
 #### (c) Saul's actions are a violation of the Word of God, an attempt to exterminate the Gibeonites, human self–will (God's protection of the Gibeonites)
@@ -28,15 +28,15 @@
 #### (d) 2 Sam. 21:3-9, - impartiality and faithfulness of God, the death of all the descendants of Saul except Mephibosheth
 > Wherefore David said unto the Gibeonites, What shall I do for you? and wherewith shall I make the atonement, that ye may bless the inheritance of the LORD? And the Gibeonites said unto him, We will have no silver nor gold of Saul, nor of his house; neither for us shalt thou kill any man in Israel. And he said, What ye shall say, that will I do for you. And they answered the king, The man that consumed us, and that devised against us that we should be destroyed from remaining in any of the coasts of Israel, Let seven men of his sons be delivered unto us, and we will hang them up unto the LORD in Gibeah of Saul, whom the LORD did choose. And the king said, I will give them. But the king spared Mephibosheth, the son of Jonathan the son of Saul, because of the LORD’s oath that was between them, between David and Jonathan the son of Saul. But the king took the two sons of Rizpah the daughter of Aiah, whom she bare unto Saul, Armoni and Mephibosheth; and the five sons of Michal the daughter of Saul, whom she brought up for Adriel the son of Barzillai the Meholathite: And he delivered them into the hands of the Gibeonites, and they hanged them in the hill before the LORD: and they fell all seven together, and were put to death in the days of harvest, in the first days, in the beginning of barley harvest. (2 Sam. 21:3-9, KJV)
 
-#### (e) Mephibosheth is the son of Jonathan, a participant in the Covenant, God's love and mercy, the importance of accepting the Word of God, the Covenant, Christ
+#### (e) Mephibosheth is the son of Jonathan, a participant in the Covenant, God's love and mercy, and the importance of accepting the Word of God, the Covenant, and Christ
 
-#### (e) 2 Sam. 21:10-14, - fulfillment of the justice of God, the disappearance of the house of Saul except Mephibosheth, the importance of accurately understanding and fulfilling the Word of God for the people of God
+#### (e) 2 Sam. 21:10-14, - the fulfillment of God's justice, the disappearance of the house of Saul except for Mephibosheth, the importance of accurately understanding and fulfilling the Word of God for the people of God
 > And Rizpah the daughter of Aiah took sackcloth, and spread it for her upon the rock, from the beginning of harvest until water dropped upon them out of heaven, and suffered neither the birds of the air to rest on them by day, nor the beasts of the field by night. And it was told David what Rizpah the daughter of Aiah, the concubine of Saul, had done. And David went and took the bones of Saul and the bones of Jonathan his son from the men of Jabesh-gilead, which had stolen them from the street of Beth-shan, where the Philistines had hanged them, when the Philistines had slain Saul in Gilboa: And he brought up from thence the bones of Saul and the bones of Jonathan his son; and they gathered the bones of them that were hanged. And the bones of Saul and Jonathan his son buried they in the country of Benjamin in Zelah, in the sepulchre of Kish his father: and they performed all that the king commanded. And after that God was intreated for the land. (2 Sam. 21:10-14, KJV)
 
 ### (2) 2 Sam. 21:15-22, - war with the Philistines, giants
 > Moreover the Philistines had yet war again with Israel; and David went down, and his servants with him, and fought against the Philistines: and David waxed faint. And Ishbi-benob, which was of the sons of the giant, the weight of whose spear weighed three hundred shekels of brass in weight, he being girded with a new sword, thought to have slain David. But Abishai the son of Zeruiah succoured him, and smote the Philistine, and killed him. Then the men of David sware unto him, saying, Thou shalt go no more out with us to battle, that thou quench not the light of Israel. And it came to pass after this, that there was again a battle with the Philistines at Gob: then Sibbechai the Hushathite slew Saph, which was of the sons of the giant. And there was again a battle in Gob with the Philistines, where Elhanan the son of Jaare-oregim, a Beth-lehemite, slew the brother of Goliath the Gittite, the staff of whose spear was like a weaver’s beam. And there was yet a battle in Gath, where was a man of great stature, that had on every hand six fingers, and on every foot six toes, four and twenty in number; and he also was born to the giant. And when he defied Israel, Jonathan the son of Shimea the brother of David slew him. These four were born to the giant in Gath, and fell by the hand of David, and by the hand of his servants. (2 Sam. 21:15-22, KJV)
 
-#### (a) The Philistines are descendants of Ham, rejecting the Word of God Gen. 10:6-14
+#### (a) Philistines – descendants of Ham, rejection of the Word of God Gen. 10:6-14
 > And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan. And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan. And Cush begat Nimrod: he began to be a mighty one in the earth. He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD. And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar. Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah, And Resen between Nineveh and Calah: the same is a great city. And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim, And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim. (Gen. 10:6-14, KJV)
 
 #### (b) God's love and mercy for the Philistines, the possibility of accepting the Word of God (Abraham's Covenant with Abimelech). Gen. 21:22-32
@@ -68,7 +68,7 @@
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul? (Matt. 16:26, KJV)
 
-### (4) 2 Sam. 23:1-2, - the importance of accepting the Word of God, the Covenant, Christ, understanding David's spiritual status
+### (4) 2 Sam. 23:1-2, - the importance of accepting the Word of God, the Covenant, Christ, and understanding David's spiritual status
 > Now these be the last words of David. David the son of Jesse said, and the man who was raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said, The Spirit of the LORD spake by me, and his word was in my tongue. (2 Sam. 23:1-2, KJV)
 
 #### (a) The Spirit of God in David is Emmanuel, a child of God, a saved and Born-again man (faith in the coming Christ)
@@ -80,10 +80,10 @@
 
 ## 3) 2 Sam. 24 (1 Chr. 21), is the sinful essence of man
 
-### (1) 2 Sam. 24:1, - careless attitude to the Word of God, the Covenant, Christ and the destiny of God's people, God's wrath, consequences for any person
+### (1) 2 Sam. 24:1, - careless attitude towards the Word of God, the Covenant, Christ and the destiny of God's people, God's wrath, consequences for any person
 > And again the anger of the LORD was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah. (2 Sam. 24:1, KJV)
 
-### (2) 1 Chr. 21:1, - God sovereignty and control of Satan (Saul, David, Job)
+### (2) 1 Chr. 21:1, - God's sovereignty and Satan's control (Saul, David, Job)
 > And Satan stood up against Israel, and provoked David to number Israel. (1 Chr. 21:1, KJV)
 
 ### (3) 2 Sam. 24:2-10 (1 Chr. 21:2-8), - self-reliance
@@ -99,7 +99,7 @@
 ### (6) 2 Sam. 24:17-25, - the importance of sacrifice, God's forgiveness
 > And David spake unto the LORD when he saw the angel that smote the people, and said, Lo, I have sinned, and I have done wickedly: but these sheep, what have they done? let thine hand, I pray thee, be against me, and against my father’s house. And Gad came that day to David, and said unto him, Go up, rear an altar unto the LORD in the threshingfloor of Araunah the Jebusite. And David, according to the saying of Gad, went up as the LORD commanded. And Araunah looked, and saw the king and his servants coming on toward him: and Araunah went out, and bowed himself before the king on his face upon the ground. And Araunah said, Wherefore is my lord the king come to his servant? And David said, To buy the threshingfloor of thee, to build an altar unto the LORD, that the plague may be stayed from the people. And Araunah said unto David, Let my lord the king take and offer up what seemeth good unto him: behold, here be oxen for burnt sacrifice, and threshing instruments and other instruments of the oxen for wood. All these things did Araunah, as a king, give unto the king. And Araunah said unto the king, The LORD thy God accept thee. And the king said unto Araunah, Nay; but I will surely buy it of thee at a price: neither will I offer burnt offerings unto the LORD my God of that which doth cost me nothing. So David bought the threshingfloor and the oxen for fifty shekels of silver. And David built there an altar unto the LORD, and offered burnt offerings and peace offerings. So the LORD was intreated for the land, and the plague was stayed from Israel. (2 Sam. 24:17-25, KJV)
 
-#### (a) The Sacrifice of Christ – the importance of understanding God's love and mercy
+#### (a) The sacrifice of Christ – the importance of understanding God's love and mercy
 
 #### (b) Orna's threshing floor – Mount Moriah, Temple construction, Cross Gen. 22:1-13 (2), 2 Chr. 3:1
 > And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am. And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of. And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him. Then on the third day Abraham lifted up his eyes, and saw the place afar off. And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you. And Abraham took the wood of the burnt offering, and laid it upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together. And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering? And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together. And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood. And Abraham stretched forth his hand, and took the knife to slay his son. And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I. And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me. And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son. (Gen. 22:1-13, KJV)
@@ -107,7 +107,7 @@
 
 ## 4) An overview of David's life (David's faith)
 
-### (1) Understanding the Word of God, the Covenant, Christ – Emmanuel
+### (1) Understanding the Word of God, the Covenant, and Christ – Emmanuel
 
 #### (a) 2 Sam. 23:2,1 Pet. 1:10-11,Acts 10:43; 2:29-32, -a child and a prophet of God
 > The Spirit of the LORD spake by me, and his word was in my tongue. (2 Sam. 23:2, KJV)
@@ -121,14 +121,14 @@
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
 
-#### (c) Ps. 2:12; 110:1 (109:1), Rom. 4:6-8, is the decision of Christ (the righteousness of David)
+#### (c) Ps. 2:12; 110:1 (109:1), Rom. 4:6-8, is the judgment of Christ (the righteousness of David)
 > Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him. (Ps. 2:12, KJV)
 > A Psalm of David. The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool. (Ps. 110:1, KJV)
 > Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works, Saying, Blessed are they whose iniquities are forgiven, and whose sins are covered. Blessed is the man to whom the Lord will not impute sin. (Rom. 4:6-8, KJV)
 
 #### (d) The Importance of the Ark of the Covenant, the Tabernacle, the Temple
 
-### (2) Sin. is. David – The importance of understanding the Word of God, the Covenant, Christ
+### (2) Sin. is. David – the importance of understanding the Word of God, the Covenant, and Christ
 
 #### (a) 1 Sam. 28-29, - war against the people of God
 
@@ -136,9 +136,9 @@
 
 #### (c) 2 Sam. 24 (1 Chr. 21), - self-reliance, vanity
 
-### (3) Execution of the intended purpose. – preservation and transmission of the Covenant, Christ
+### (3) Execution of the intended purpose. – preservation and transmission of the Covenant, of Christ
 
-#### (a) The extermination of giants – the importance of the Word of God, the Covenant, Christ
+#### (a) The extermination of giants – the importance of the Word of God, the Covenant, and Christ
 
 #### (b) The Message of the Word of God – the Book of Psalms
 
@@ -146,7 +146,7 @@
 
 #### (d) The Ark and the Tabernacle of David – the importance of understanding Christ
 
-#### (e) The Temple is the goal of David's life, the true glorification of God (The Temple is the knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization) 1 Chr. 28,John 15:8,Acts 2:5-11
+#### (e) The Temple is the goal of David's life, the true glorification of God (the Temple is the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization) 1 Chr. 28,John 15:8,Acts 2:5-11
 > Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples. (John 15:8, KJV)
 > And there were dwelling at Jerusalem Jews, devout men, out of every nation under heaven. Now when this was noised abroad, the multitude came together, and were confounded, because that every man heard them speak in his own language. And they were all amazed and marvelled, saying one to another, Behold, are not all these which speak Galilæans? And how hear we every man in our own tongue, wherein we were born? Parthians, and Medes, and Elamites, and the dwellers in Mesopotamia, and in Judæa, and Cappadocia, in Pontus, and Asia, Phrygia, and Pamphylia, in Egypt, and in the parts of Libya about Cyrene, and strangers of Rome, Jews and proselytes, Cretes and Arabians, we do hear them speak in our tongues the wonderful works of God. (Acts 2:5-11, KJV)
 
@@ -164,4 +164,4 @@
 
 ### (1) The importance of accepting the Word of God, the Covenant, and Christ for man
 
-### (2) The importance of understanding and fulfilling purpose. (Knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the Coming of Christ)
+### (2) The importance of understanding and fulfilling purpose. (Knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ)

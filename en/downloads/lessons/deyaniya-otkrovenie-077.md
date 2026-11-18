@@ -1,7 +1,7 @@
 # 2 Cor. 11–13
-## 5.1) 2 Cor. 11, - the importance of transmitting the Word of God. Of the Covenant, Christ
+## 5.1) 2 Cor. 11, - the importance of conveying the Word of God. Of the Covenant, of Christ
 
-### (1) 2 Cor. 11:1-2, - the importance of fulfilling destiny, knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
+### (1) 2 Cor. 11:1-2, - importance of fulfilling destiny, knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
 > Would to God ye could bear with me a little in my folly: and indeed bear with me. For I am jealous over you with godly jealousy: for I have espoused you to one husband, that I may present you as a chaste virgin to Christ. (2 Cor. 11:1-2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -20,10 +20,10 @@
 ### (2) 2 Cor. 11:2, - acceptance of the Word of God, the Covenant, Christ, the prototype of the wedding of Christ and the Church, the wedding feast, eternal life with Christ
 > For I am jealous over you with godly jealousy: for I have espoused you to one husband, that I may present you as a chaste virgin to Christ. (2 Cor. 11:2, KJV)
 
-### (3) 2 Cor. 11:3, - the importance of understanding and accepting the simplicity of the Word of God, the Covenant, Christ, God's plan for the salvation of man (the Sacrifice of Christ)
+### (3) 2 Cor. 11:3, - the importance of understanding and accepting the simplicity of God's Word, Covenant, Christ, God's plan for human salvation (Christ's Sacrifice)
 > But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ. (2 Cor. 11:3, KJV)
 
-### (4) 2 Cor. 11:3-4, - understanding the actions of Satan, resisting the Word of God, the Covenant, Christ, God's permission, man's right to choose
+### (4) 2 Cor. 11:3-4, - understanding the actions of Satan, resisting the Word of God, the Covenant, Christ, God's permission, the right to choose a person
 > But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ. For if he that cometh preacheth another Jesus, whom we have not preached, or if ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him. (2 Cor. 11:3-4, KJV)
 
 ### (5) 2 Cor. 11:5, - the action of false teachers, the rejection of the Word of God, the Covenant, Christ, Paul's accusation of false apostleship (12 Ap.)
@@ -32,27 +32,27 @@
 ### (6) 2 Cor. 11:6, - lack of eloquence in Paul's ministry, deep understanding of the Word of God, the Covenant, Christ, affirmation of the truth
 > But though I be rude in speech, yet not in knowledge; but we have been throughly made manifest among you in all things. (2 Cor. 11:6, KJV)
 
-### (7) 2 Cor. 11:7-10, - the importance of fulfilling one's destiny, properly understanding and fulfilling one's final ministry
+### (7) 2 Cor. 11:7-10, - the importance of fulfilling the purpose, proper understanding and fulfillment of financial service
 > Have I committed an offence in abasing myself that ye might be exalted, because I have preached to you the gospel of God freely? I robbed other churches, taking wages of them, to do you service. And when I was present with you, and wanted, I was chargeable to no man: for that which was lacking to me the brethren which came from Macedonia supplied: and in all things I have kept myself from being burdensome unto you, and so will I keep myself. As the truth of Christ is in me, no man shall stop me of this boasting in the regions of Achaia. (2 Cor. 11:7-10, KJV)
 
 #### (a) 2 Cor. 11:7, - the importance of preaching the Word of God free of charge, understanding and fulfilling the destiny of God's people
 > Have I committed an offence in abasing myself that ye might be exalted, because I have preached to you the gospel of God freely? (2 Cor. 11:7, KJV)
 
-#### (b) 2 Cor. 11:8-10, - filling Paul's needs with other Kings, fulfilling his destiny, and financially serving the people of God
+#### (b) 2 Cor. 11:8-10, - filling Paul's needs with other Kings, fulfilling his destiny, and serving God's people financially
 > I robbed other churches, taking wages of them, to do you service. And when I was present with you, and wanted, I was chargeable to no man: for that which was lacking to me the brethren which came from Macedonia supplied: and in all things I have kept myself from being burdensome unto you, and so will I keep myself. As the truth of Christ is in me, no man shall stop me of this boasting in the regions of Achaia. (2 Cor. 11:8-10, KJV)
 
-### (8) 2 Cor. 11:11-15, - the actions of false apostles, serving for money (emphasis on attention, extortion, etc.), false teachings, the action of Satan, resisting the Word of God, the Covenant, Christ
+### (8) 2 Cor. 11:11-15, - actions of false apostles, serving for money (emphasis on attention, extortion, etc.), false teachings, the action of Satan, resisting the Word of God, the Covenant, Christ
 > Wherefore? because I love you not? God knoweth. But what I do, that I will do, that I may cut off occasion from them which desire occasion; that wherein they glory, they may be found even as we. For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ. And no marvel; for Satan himself is transformed into an angel of light. Therefore it is no great thing if his ministers also be transformed as the ministers of righteousness; whose end shall be according to their works. (2 Cor. 11:11-15, KJV)
 
 ### (9) 2 Cor. 11:16-32, - the importance of fulfilling the destiny of God's people, the life of faith
 > I say again, Let no man think me a fool; if otherwise, yet as a fool receive me, that I may boast myself a little. That which I speak, I speak it not after the Lord, but as it were foolishly, in this confidence of boasting. Seeing that many glory after the flesh, I will glory also. For ye suffer fools gladly, seeing ye yourselves are wise. For ye suffer, if a man bring you into bondage, if a man devour you, if a man take of you, if a man exalt himself, if a man smite you on the face. I speak as concerning reproach, as though we had been weak. Howbeit whereinsoever any is bold, (I speak foolishly,) I am bold also. Are they Hebrews? so am I. Are they Israelites? so am I. Are they the seed of Abraham? so am I. Are they ministers of Christ? (I speak as a fool) I am more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths oft. Of the Jews five times received I forty stripes save one. Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep; In journeyings often, in perils of waters, in perils of robbers, in perils by mine own countrymen, in perils by the heathen, in perils in the city, in perils in the wilderness, in perils in the sea, in perils among false brethren; In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness. Beside those things that are without, that which cometh upon me daily, the care of all the churches. Who is weak, and I am not weak? who is offended, and I burn not? If I must needs glory, I will glory of the things which concern mine infirmities. The God and Father of our Lord Jesus Christ, which is blessed for evermore, knoweth that I lie not. In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me: (2 Cor. 11:16-32, KJV)
 
-## 2) 2 Cor. 12, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 2) 2 Cor. 12, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
 ### (1) 2 Cor. 12:1-6, - Paul's rapture into the Kingdom of heaven, God's sovereignty, the importance of understanding spiritual reality
 > It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord. I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such an one caught up to the third heaven. And I knew such a man, (whether in the body, or out of the body, I cannot tell: God knoweth;) How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter. Of such an one will I glory: yet of myself I will not glory, but in mine infirmities. For though I would desire to glory, I shall not be a fool; for I will say the truth: but now I forbear, lest any man should think of me above that which he seeth me to be, or that he heareth of me. (2 Cor. 12:1-6, KJV)
 
-### (2) 2 Cor. 12:7, - the problem of exaltation by the enormity of revelations, Paul's sin (remnants of sinful essence), the effect of demons from outside on Paul's flesh, God's permission
+### (2) 2 Cor. 12:7, - the problem of exaltation by the extreme of revelations, Paul's sin (remnants of sinful essence), the action of demons from outside on Paul's flesh, God's permission
 > And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure. (2 Cor. 12:7, KJV)
 
 ### (3) 2 Cor. 12:8-10, - Paul's physical infirmity, upbringing and control of God, understanding of God's love and mercy
@@ -61,12 +61,12 @@
 ### (4) 2 Cor. 12:11-19, - the importance of fulfilling one's destiny, the right motives, the abomination of avarice and covetousness
 > I am become a fool in glorying; ye have compelled me: for I ought to have been commended of you: for in nothing am I behind the very chiefest apostles, though I be nothing. Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds. For what is it wherein ye were inferior to other churches, except it be that I myself was not burdensome to you? forgive me this wrong. Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not yours, but you: for the children ought not to lay up for the parents, but the parents for the children. And I will very gladly spend and be spent for you; though the more abundantly I love you, the less I be loved. But be it so, I did not burden you: nevertheless, being crafty, I caught you with guile. Did I make a gain of you by any of them whom I sent unto you? I desired Titus, and with him I sent a brother. Did Titus make a gain of you? walked we not in the same spirit? walked we not in the same steps? Again, think ye that we excuse ourselves unto you? we speak before God in Christ: but we do all things, dearly beloved, for your edifying. (2 Cor. 12:11-19, KJV)
 
-### (5) 2 Cor. 12:20-21, - the importance of the right life of the people of God, the fulfillment of destiny, the preservation of the faith of God
+### (5) 2 Cor. 12:20-21, - the importance of the right life of God's people, the fulfillment of destiny, and the preservation of God's faith
 > For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found unto you such as ye would not: lest there be debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults: And lest, when I come again, my God will humble me among you, and that I shall bewail many which have sinned already, and have not repented of the uncleanness and fornication and lasciviousness which they have committed. (2 Cor. 12:20-21, KJV)
 
-## 3) 2 Cor. 13, - affirmation of the Word of God, the Covenant, Christ
+## 3) 2 Cor. 13, - affirmation of the Word of God, the Covenant, of Christ
 
-### (1) 2 Cor. 13:1-2, - the importance of God's order and Church discipline, the importance of fulfilling the destiny of God's people (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization)
+### (1) 2 Cor. 13:1-2, - the importance of God's order and Church discipline, the importance of fulfilling the destiny of God's people (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 > This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established. I told you before, and foretell you, as if I were present, the second time; and being absent now I write to them which heretofore have sinned, and to all other, that, if I come again, I will not spare: (2 Cor. 13:1-2, KJV)
 
 ### (2) 2 Cor. 13:3-4, - the importance of understanding the working of the power of God in the people of God, living the right life, fulfilling the purpose, the importance of understanding Emmanuel
@@ -80,21 +80,21 @@
 ### (4) 2 Cor. 13:7, - the importance of the right motives of God's people, understanding and fulfilling their destiny
 > Now I pray to God that ye do no evil; not that we should appear approved, but that ye should do that which is honest, though we be as reprobates. (2 Cor. 13:7, KJV)
 
-### (5) 2 Cor. 13:8-10, - the importance of the right life of the people of God, the fulfillment of destiny, the preservation of the faith of God
+### (5) 2 Cor. 13:8-10, - the importance of the right life of God's people, the fulfillment of destiny, and the preservation of God's faith
 > For we can do nothing against the truth, but for the truth. For we are glad, when we are weak, and ye are strong: and this also we wish, even your perfection. Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction. (2 Cor. 13:8-10, KJV)
 
 ### (6) 2 Cor. 13:11-13, - the importance of the spiritual growth of God's people, the fulfillment of destiny, the importance of Emmanuel
 > Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you. Greet one another with an holy kiss. All the saints salute you. (2 Cor. 13:11-13, KJV)
 
-### (7) 2 Cor. 13:14, - the importance of understanding the Trinity of the Holy, True God (three eternal differences in the one being God)
+### (7) 2 Cor. 13:14, - the importance of understanding the Trinity of the Holy, True God (three eternal differences in the one being of God)
 > The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen. (2 Cor. 13:14, KJV)
 
-### (8) 2 Cor. 13:14, - the importance of properly understanding the grace, love, and fellowship of God. (Emmanuel, knowledge and transmission of the Word of God, the Covenant, the Disciples, World Evangelization)
+### (8) 2 Cor. 13:14, - the importance of properly understanding the grace, love, and fellowship of God. (Emmanuel, knowledge and transmission of the Word of God, the Covenant, the Disciples, Worldwide Evangelization)
 > The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen. (2 Cor. 13:14, KJV)
 
 ## Conclusion:
 
-### (1) The importance of understanding the Word of God, the Covenant, Christ (simplicity)
+### (1) The importance of understanding the Word of God, the Covenant, and Christ (simplicity)
 
 ### (2) The importance of understanding Satan's actions
 

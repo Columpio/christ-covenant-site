@@ -23,7 +23,7 @@
 ### (2) Acts 17:18-21, - philosophy (no answer), desire for reasoning
 > Then certain philosophers of the Epicureans, and of the Stoicks, encountered him. And some said, What will this babbler say? other some, He seemeth to be a setter forth of strange gods: because he preached unto them Jesus, and the resurrection. And they took him, and brought him unto Areopagus, saying, May we know what this new doctrine, whereof thou speakest, is? For thou bringest certain strange things to our ears: we would know therefore what these things mean. (For all the Athenians and strangers which were there spent their time in nothing else, but either to tell, or to hear some new thing.) (Acts 17:18-21, KJV)
 
-### (3) Acts 17:22-31, - transmission of the Word of God, the Covenant, Christ (Paul's sermon)
+### (3) Acts 17:22-31, - transmission of the Word of God, the Covenant, and Christ (Paul's sermon)
 > Then Paul stood in the midst of Mars’ hill, and said, Ye men of Athens, I perceive that in all things ye are too superstitious. For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you. God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands; Neither is worshipped with men’s hands, as though he needed any thing, seeing he giveth to all life, and breath, and all things; And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation; That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us: For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring. Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man’s device. And the times of this ignorance God winked at; but now commandeth all men every where to repent: Because he hath appointed a day, in the which he will judge the world in righteousness by that man whom he hath ordained; whereof he hath given assurance unto all men, in that he hath raised him from the dead. (Acts 17:22-31, KJV)
 
 #### (a) Acts 17:22-23, - piety, no understanding of salvation
@@ -32,7 +32,7 @@
 #### (b) Acts 17:24-31, - Creation, Fall, Restoration
 > God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands; Neither is worshipped with men’s hands, as though he needed any thing, seeing he giveth to all life, and breath, and all things; And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation; That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us: For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring. Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man’s device. And the times of this ignorance God winked at; but now commandeth all men every where to repent: Because he hath appointed a day, in the which he will judge the world in righteousness by that man whom he hath ordained; whereof he hath given assurance unto all men, in that he hath raised him from the dead. (Acts 17:24-31, KJV)
 
-### (4) Acts 17:32-33, - non-acceptance of the Word of God, the Covenant, Christ, the right to choose
+### (4) Acts 17:32-33, - rejection of the Word of God, the Covenant, Christ, the right to choose
 > And when they heard of the resurrection of the dead, some mocked: and others said, We will hear thee again of this matter. So Paul departed from among them. (Acts 17:32-33, KJV)
 
 ### (5) Acts 17:34, - acceptance of the Word of God, the Covenant, Christ (Dionysius, Damar)
@@ -47,13 +47,13 @@
 ### (2) Acts 18:4, - transmission of the Word of God, the Covenant, Christ (believers, synagogue)
 > And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks. (Acts 18:4, KJV)
 
-### (3) Acts 18:5-6, - non-acceptance of the Word of God, the Covenant, Christ, the right to choose
+### (3) Acts 18:5-6, - rejection of the Word of God, the Covenant, Christ, the right to choose
 > And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ. And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean: from henceforth I will go unto the Gentiles. (Acts 18:5-6, KJV)
 
 ### (4) Acts 18:7-8, - God's sovereignty (disciples of Justus, Crispus)
 > And he departed thence, and entered into a certain man’s house, named Justus, one that worshipped God, whose house joined hard to the synagogue. And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized. (Acts 18:7-8, KJV)
 
-### (5) Acts 18:9-11, - God sovereignty, students, the importance of learning
+### (5) Acts 18:9-11, - God's sovereignty, disciples, the importance of learning
 > Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace: For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city. And he continued there a year and six months, teaching the word of God among them. (Acts 18:9-11, KJV)
 
 #### (a) The birth of the Church of Jesus Christ in Corinth
@@ -61,9 +61,9 @@
 #### (b) The most problematic Church is the depraved culture of the city of Corinth (divisions, fornication, idolatry, etc.) 1 Cor. 1:2
 > Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours: (1 Cor. 1:2, KJV)
 
-#### (c) The importance of understanding the reason for salvation – acceptance of the Word of God, the Covenant, Christ (the Divinity of Christ and the Sufficiency of His sacrifice), the undoubted importance of sanctifying the people of God (the possibility of serving God and man, purpose)
+#### (c) The importance of understanding the reason for salvation – acceptance of the Word of God, the Covenant, Christ (the Divinity of Christ and the Sufficiency of His sacrifice), the undoubted importance of sanctifying the people of God (the opportunity to serve God and man, purpose)
 
-### (6) Acts 18:12-13, - Satan's action, stop the transmission of the Covenant, Christ
+### (6) Acts 18:12-13, - the action of Satan, to stop the transmission of the Covenant, of Christ
 > And when Gallio was the deputy of Achaia, the Jews made insurrection with one accord against Paul, and brought him to the judgment seat, Saying, This fellow persuadeth men to worship God contrary to the law. (Acts 18:12-13, KJV)
 
 ### (7) Acts 18:14-17, - God's sovereignty and control
@@ -72,7 +72,7 @@
 ## 3) Acts 18:18-23, - completion of the 2nd missionary journey, the importance of fulfilling one’s destiny
 > And Paul after this tarried there yet a good while, and then took his leave of the brethren, and sailed thence into Syria, and with him Priscilla and Aquila; having shorn his head in Cenchrea: for he had a vow. And he came to Ephesus, and left them there: but he himself entered into the synagogue, and reasoned with the Jews. When they desired him to tarry longer time with them, he consented not; But bade them farewell, saying, I must by all means keep this feast that cometh in Jerusalem: but I will return again unto you, if God will. And he sailed from Ephesus. And when he had landed at Cæsarea, and gone up, and saluted the church, he went down to Antioch. And after he had spent some time there, he departed, and went over all the country of Galatia and Phrygia in order, strengthening all the disciples. (Acts 18:18-23, KJV)
 
-### (1) Acts 18:18-21, - God's Guidance and Control of Worldwide Evangelization
+### (1) Acts 18:18-21, - God's guidance and Control of Worldwide Evangelization
 > And Paul after this tarried there yet a good while, and then took his leave of the brethren, and sailed thence into Syria, and with him Priscilla and Aquila; having shorn his head in Cenchrea: for he had a vow. And he came to Ephesus, and left them there: but he himself entered into the synagogue, and reasoned with the Jews. When they desired him to tarry longer time with them, he consented not; But bade them farewell, saying, I must by all means keep this feast that cometh in Jerusalem: but I will return again unto you, if God will. And he sailed from Ephesus. (Acts 18:18-21, KJV)
 
 ### (2) Acts 18:22, - report in Jerusalem, the importance of the fellowship of God's people, return to the Antiochian Church
@@ -80,8 +80,8 @@
 
 ## Conclusion:
 
-### (1) The importance of learning, understanding, and fulfilling a mission. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+### (1) The importance of learning, understanding, and fulfilling a mission. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 
 ### (2) God's Method of Worldwide Evangelization (Church level) – Synagogues
 
-### (3) The importance of understanding the Goddess and the timetable of time
+### (3) The importance of understanding God's Sovereignty and Time schedule

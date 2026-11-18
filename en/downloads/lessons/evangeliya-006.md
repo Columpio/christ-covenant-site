@@ -28,7 +28,7 @@
 > And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece. Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim. And he saith unto them, Draw out now, and bear unto the governor of the feast. And they bare it. When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom, And saith unto him, Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: but thou hast kept the good wine until now. This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him. (John 2:6-11, KJV)
 > And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me. Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you. (Luke 22:19-20, KJV)
 
-## 3) John 2:12-17 (Matt. 21:12), - transmission of the Word of God, the Covenant, Christ (predestined Ts.)
+## 3) John 2:12-17 (Matt. 21:12), - transmission of the Word of God, the Covenant, Christ (intended by Ts.)
 > After this he went down to Capernaum, he, and his mother, and his brethren, and his disciples: and they continued there not many days. And the Jews’ passover was at hand, and Jesus went up to Jerusalem, And found in the temple those that sold oxen and sheep and doves, and the changers of money sitting: And when he had made a scourge of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers’ money, and overthrew the tables; And said unto them that sold doves, Take these things hence; make not my Father’s house an house of merchandise. And his disciples remembered that it was written, The zeal of thine house hath eaten me up. (John 2:12-17, KJV)
 > And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves, (Matt. 21:12, KJV)
 
@@ -38,7 +38,7 @@
 
 #### (b) Sacrifice is Christ, the only solution
 
-### (2) Pharisees and Sadducees – rejection of the Word of God, the Covenant, Christ, man's faith
+### (2) Pharisees and Sadducees – rejection of the Word of God, the Covenant, Christ, and human faith
 
 #### (a) Non-acceptance of the Divinity of Christ. John 10:33 (Matt. 22:41-46)
 > The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. (John 10:33, KJV)
@@ -77,7 +77,7 @@
 ## 4) John 3:1-10, - The Covenant, Christ, understanding salvation, rebirth
 > There was a man of the Pharisees, named Nicodemus, a ruler of the Jews: The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him. Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God. Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother’s womb, and be born? Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. That which is born of the flesh is flesh; and that which is born of the Spirit is spirit. Marvel not that I said unto thee, Ye must be born again. The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit. Nicodemus answered and said unto him, How can these things be? Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things? (John 3:1-10, KJV)
 
-### (1) Salvation, being born again - accepting the Word of God, the Covenant, Christ 1 Pet. 1:23, Jas. 1:18, Gal. 3:2, - John 1:12
+### (1) Salvation, rebirth – acceptance of the Word of God, the Covenant, Christ 1 Pet. 1:23,Jas. 1:18,Gal. 3:2, - John 1:12
 > Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever. (1 Pet. 1:23, KJV)
 > Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures. (Jas. 1:18, KJV)
 > This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith? (Gal. 3:2, KJV)
@@ -95,11 +95,11 @@
 > But at the last Daniel came in before me, whose name was Belteshazzar, according to the name of my god, and in whom is the spirit of the holy gods: and before him I told the dream, saying, (Dan. 4:8, KJV)
 > There is a man in thy kingdom, in whom is the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, I say, thy father, made master of the magicians, astrologers, Chaldeans, and soothsayers; (Dan. 5:11, KJV)
 
-### (3) Understanding Salvation and the Baptism of the Holy Spirit
+### (3) Understanding salvation and the baptism of the Holy Spirit
 
 #### (a) V.Z. – The Holy Spirit in believers (salvation, rebirth), and only on selected people (the power of God - kings, priests, prophets)
 
-#### (b) The Ministry of Christ is the Holy Spirit in believers (salvation, rebirth), and only on Christ (the power of God is the anointed God, the Messiah) John 7:39
+#### (b) Serving Christ – The Holy Spirit in believers (salvation, rebirth), and only in Christ (the power of God is God's anointed one, the Messiah) John 7:39
 > (But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet given; because that Jesus was not yet glorified.) (John 7:39, KJV)
 
 #### (c) N.Z. – The Holy Spirit in believers (salvation, rebirth), and on all believers (the power of God – the royal priesthood). 1 Pet. 2:9
@@ -107,9 +107,9 @@
 
 ### (4) God's method of receiving the Holy Spirit
 
-#### (a) Acceptance of the Holy Spirit, salvation (The Holy Spirit in man) – acceptance of the Divinity of Jesus Christ and the All-sufficiency of His Sacrifice (forgiveness of all sins and solution of all problems)
+#### (a) Receiving the Holy Spirit, salvation (The Holy Spirit in man) – accepting the Divinity of Jesus Christ and the All-sufficiency of His Sacrifice (the forgiveness of all sins and the solution of all problems)
 
-#### (b) Receiving the Holy Spirit, Baptizing the Holy Spirit (the Holy Spirit on a person) is the choice and desire to fulfill the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization)
+#### (b) Receiving the Holy Spirit, the Baptism of the Holy Spirit (the Holy Spirit on a person) is the choice and desire to fulfill the destiny of God's people. (Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization)
 
 ## 5) John 3:11-17, - the importance of Christ (the only way of salvation)
 > Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness. If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things? And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven. And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up: That whosoever believeth in him should not perish, but have eternal life. For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. For God sent not his Son into the world to condemn the world; but that the world through him might be saved. (John 3:11-17, KJV)
@@ -117,10 +117,10 @@
 ### (1) John 3:11-13, - The True God who came down from heaven
 > Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness. If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things? And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven. (John 3:11-13, KJV)
 
-### (2) John 3:14, - the importance of executing the sentence of the Word of God (death of Christ)
+### (2) John 3:14, - the importance of fulfilling the sentence of the Word of God (the death of Christ)
 > And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up: (John 3:14, KJV)
 
-### (3) John 3:15-17, - God's love, the salvation of mankind
+### (3) John 3:15-17, - the love of God, the salvation of mankind
 > That whosoever believeth in him should not perish, but have eternal life. For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. For God sent not his Son into the world to condemn the world; but that the world through him might be saved. (John 3:15-17, KJV)
 
 ## Conclusion:

@@ -1,6 +1,6 @@
 # 28. John 10 chapter
 
-## 1) John 10:1-18, - the importance of understanding the Word of God, the Covenant, Christ (parable)
+## 1) John 10:1-18, - the importance of understanding the Word of God, the Covenant, and Christ (parable)
 > Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber. But he that entereth in by the door is the shepherd of the sheep. To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out. And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice. And a stranger will they not follow, but will flee from him: for they know not the voice of strangers. This parable spake Jesus unto them: but they understood not what things they were which he spake unto them. Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep. All that ever came before me are thieves and robbers: but the sheep did not hear them. I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture. The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly. I am the good shepherd: the good shepherd giveth his life for the sheep. But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep. The hireling fleeth, because he is an hireling, and careth not for the sheep. I am the good shepherd, and know my sheep, and am known of mine. As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep. And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd. Therefore doth my Father love me, because I lay down my life, that I might take it again. No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father. (John 10:1-18, KJV)
 
 ### (1) John 10:1, - sheep yard (place of God's people, Church)
@@ -12,7 +12,7 @@
 ### (3) John 10:1, - The door (The Word of God)
 > Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber. (John 10:1, KJV)
 
-### (4) John 10:1-2, - enter through the door (matching the Word of God), the true Shepherd, Christ (matching the Word of God, the action of God) Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+### (4) John 10:1-2, - enter through the door (conformity to the Word of God), the true Shepherd, Christ (full conformity to the Word of God, the action of God) Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber. But he that entereth in by the door is the shepherd of the sheep. (John 10:1-2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -24,13 +24,13 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-### (5) John 10:1, - climb the indus (inconsistency of the Word of God, another word), thief and robber (false teachers and false prophets, the action of Satan)
+### (5) John 10:1, - climb the indus (inconsistency with the Word of God, another word), thief and robber (false teachers and false prophets, the action of Satan)
 > Verily, verily, I say unto you, He that entereth not by the door into the sheepfold, but climbeth up some other way, the same is a thief and a robber. (John 10:1, KJV)
 
 ### (6) John 10:3, - the doorkeeper opens (the action of the Holy Spirit, the action of the grace of God, to open the way to the sheep for Christ)
 > To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out. (John 10:3, KJV)
 
-### (7) John 10:3, - the sheep listen to His voice (hearing, accepting, understanding, and following the Word of God, the people of God). John 8:47
+### (7) John 10:3, - the sheep listen to His voice (hearing, accepting, understanding and following the Word of God, the people of God). John 8:47
 > To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out. (John 10:3, KJV)
 > He that is of God heareth God’s words: ye therefore hear them not, because ye are not of God. (John 8:47, KJV)
 
@@ -40,14 +40,14 @@
 ### (9) John 10:3-4, - leads them out, goes before them, the sheep follow Him. (God's guidance and control of the lives of God's people)
 > To him the porter openeth; and the sheep hear his voice: and he calleth his own sheep by name, and leadeth them out. And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice. (John 10:3-4, KJV)
 
-### (10) John 10:5, - they don't follow someone else, they run away from him, someone else's voice. (The importance of conforming to the Word of God, the Covenant, Christ, Spiritual understanding)
+### (10) John 10:5, - they don't follow someone else, they run away from him, someone else's voice. (The importance of conformity to the Word of God, the Covenant, Christ, spiritual understanding)
 > And a stranger will they not follow, but will flee from him: for they know not the voice of strangers. (John 10:5, KJV)
 
 ### (11) John 10:6-9, - Christ is the only door for every person to meet God (the Word of God in the flesh). John 1:14
 > This parable spake Jesus unto them: but they understood not what things they were which he spake unto them. Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep. All that ever came before me are thieves and robbers: but the sheep did not hear them. I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture. (John 10:6-9, KJV)
 > And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth. (John 1:14, KJV)
 
-### (12) John 10:8, - the importance of understanding the work of Satan (False teachers and false prophets, another word, disobedience is the Word of God)
+### (12) John 10:8, - the importance of understanding the work of Satan (False teachers and false prophets, another word, opposition to the Word of God)
 > All that ever came before me are thieves and robbers: but the sheep did not hear them. (John 10:8, KJV)
 
 ### (13) John 10:9, - will enter (into salvation) and come out (into the field of God, fulfillment of destiny), will find pasture (all the answers)
@@ -60,7 +60,7 @@
 
 #### (b) Christ is life in abundance for man, Emmanuel
 
-### (15) John 10:11-13, - understanding the Word of God, the Covenant, Christ, motivation of man
+### (15) John 10:11-13, - understanding the Word of God, the Covenant, Christ, human motivation
 > I am the good shepherd: the good shepherd giveth his life for the sheep. But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep. The hireling fleeth, because he is an hireling, and careth not for the sheep. (John 10:11-13, KJV)
 
 #### (a) The motive of Christ is love for man, the importance of salvation
@@ -76,13 +76,13 @@
 ### (18) John 10:15, - Christ, the knowledge of the Father and the fulfillment of His will. (Death on the Cross, execution of the sentence of the Word of God, the redemption of man)
 > As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep. (John 10:15, KJV)
 
-### (19) John 10:16, - sheep of another fold (pagans), the accomplishment of World Evangelization, the transmission of the Word of God, the Covenant, Christ, salvation (one flock and one Shepherd)
+### (19) John 10:16, - sheep of another fold (pagans), the accomplishment of Worldwide Evangelization, the transmission of the Word of God, the Covenant, Christ, salvation (one flock and one Shepherd)
 > And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd. (John 10:16, KJV)
 
-### (20) John 10:17-18, - the destiny of Christ, the fulfillment of the Word of God (Death and resurrection of Christ, God's will and God's plan)
+### (20) John 10:17-18, - the destiny of Christ, the fulfillment of the Word of God (The death and resurrection of Christ, God's will and God's plan)
 > Therefore doth my Father love me, because I lay down my life, that I might take it again. No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father. (John 10:17-18, KJV)
 
-## 2) John 10:19-42, - the importance of understanding the Word of God, the Covenant, Christ
+## 2) John 10:19-42, - the importance of understanding the Word of God, the Covenant, and Christ
 > There was a division therefore again among the Jews for these sayings. And many of them said, He hath a devil, and is mad; why hear ye him? Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind? And it was at Jerusalem the feast of the dedication, and it was winter. And Jesus walked in the temple in Solomon’s porch. Then came the Jews round about him, and said unto him, How long dost thou make us to doubt? If thou be the Christ, tell us plainly. Jesus answered them, I told you, and ye believed not: the works that I do in my Father’s name, they bear witness of me. But ye believe not, because ye are not of my sheep, as I said unto you. My sheep hear my voice, and I know them, and they follow me: And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand. My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father’s hand. I and my Father are one. Then the Jews took up stones again to stone him. Jesus answered them, Many good works have I shewed you from my Father; for which of those works do ye stone me? The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. Jesus answered them, Is it not written in your law, I said, Ye are gods? If he called them gods, unto whom the word of God came, and the scripture cannot be broken; Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God? If I do not the works of my Father, believe me not. But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him. Therefore they sought again to take him: but he escaped out of their hand, And went away again beyond Jordan into the place where John at first baptized; and there he abode. And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true. And many believed on him there. (John 10:19-42, KJV)
 
 ### (1) John 10:19-24, - non-acceptance of Jesus as the Christ (Jews)
@@ -135,7 +135,7 @@
 > But that ye may know that the Son of man hath power on earth to forgive sins, (then saith he to the sick of the palsy,) Arise, take up thy bed, and go unto thine house. (Matt. 9:6, KJV)
 > While the Pharisees were gathered together, Jesus asked them, Saying, What think ye of Christ? whose son is he? They say unto him, The Son of David. He saith unto them, How then doth David in spirit call him Lord, saying, The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool? If David then call him Lord, how is he his son? And no man was able to answer him a word, neither durst any man from that day forth ask him any more questions. (Matt. 22:41-46, KJV)
 
-### (5) John 10:31-40 (Ps. 82:1, 6-7), - non-acceptance of the Word of God, the Covenant, Christ
+### (5) John 10:31-40 (Ps. 82:1, 6-7), - rejection of the Word of God, the Covenant, Christ
 > Then the Jews took up stones again to stone him. Jesus answered them, Many good works have I shewed you from my Father; for which of those works do ye stone me? The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. Jesus answered them, Is it not written in your law, I said, Ye are gods? If he called them gods, unto whom the word of God came, and the scripture cannot be broken; Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God? If I do not the works of my Father, believe me not. But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him. Therefore they sought again to take him: but he escaped out of their hand, And went away again beyond Jordan into the place where John at first baptized; and there he abode. (John 10:31-40, KJV)
 > A Psalm of Asaph. God standeth in the congregation of the mighty; he judgeth among the gods. (Ps. 82:1, KJV)
 > I have said, Ye are gods; and all of you are children of the most High. But ye shall die like men, and fall like one of the princes. (Ps. 82:6-7, KJV)
@@ -144,7 +144,7 @@
 
 #### (a) The understanding of Creation is the children of God, "the gods on earth." (Not in essence, but in status – an understanding of God's mercy and love)
 
-#### (b) Understanding the Fall and Restoration – the seed of the woman, God in the flesh, the fulfillment of the Word of God, the salvation of mankind. Gen. 3:15
+#### (b) Understanding the Fall and Restoration – the seed of the woman, God in the flesh, the fulfillment of God's Word, the salvation of mankind. Gen. 3:15
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 
 ### (6) John 10:41-42, - acceptance of the Word of God, the Covenant, Christ, the ministry of John Kr

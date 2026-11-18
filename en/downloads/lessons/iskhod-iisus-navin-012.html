@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -245,7 +247,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.</p><cite>John 5:39 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>You pore over the Scriptures because you presume that by them you possess eternal life. These are the very words that testify about Me,</p><cite>John 5:39 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“You search the Scriptures, because you think that in them you have eternal life; and these are they which testify about me.</p><cite>John 5:39 · WEB</cite></blockquote>
-<h3>(2) Col. 1:26-27,Eph. 3:8-9, - Christ, the mystery of God revealed by God Himself, God's sovereignty and control. (The impossibility of understanding the Word of God, the Covenant, Christ without the grace of God)</h3>
+<h3>(2) Col. 1:26-27,Eph. 3:8-9, - Christ, the mystery of God revealed by God Himself, God's sovereignty and control. (The impossibility of understanding the Word of God, the Covenant, and Christ without the grace of God)</h3>
 <blockquote data-v="kjv"><p>Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints: To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:</p><cite>Col. 1:26-27 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>the mystery that was hidden for ages and generations but is now revealed to His saints. To them God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory.</p><cite>Col. 1:26-27 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>the mystery which has been hidden for ages and generations. But now it has been revealed to his saints, to whom God was pleased to make known what are the riches of the glory of this mystery among the Gentiles, which is Christ in you, the hope of glory.</p><cite>Col. 1:26-27 · WEB</cite></blockquote>
@@ -255,8 +257,8 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h3>(3) The Sermon of the First Apostolic Church – the book of Genesis, Exodus Acts 7</h3>
 <h2 id="s2">2) The importance of understanding Christ in the Book of Exodus</h2>
 <h3>(1) Life outside of Christ is slavery (Adam, Abraham)</h3>
-<h4>(a) The importance of the Word of God, the Covenant, Christ for man – Emmanuel</h4>
-<h4>(b) An inaccurate understanding of the Word of God. The Covenant, Christ is slavery, there is no Emmanuel</h4>
+<h4>(a) The importance of the Word of God, the Covenant, and Christ for man – Emmanuel</h4>
+<h4>(b) An inaccurate understanding of God's Word. There is no covenant, there is no Christ, there is no Emmanuel</h4>
 <h3>(2) Christ as the Only Mediator between His people and God (Moses)</h3>
 <h4>(a) Christ as the Only Mediator and the Only Method of man's being with God – Emmanuel 1 Tim. 2:5,John 14:6</h4>
 <blockquote data-v="kjv"><p>For there is one God, and one mediator between God and men, the man Christ Jesus;</p><cite>1 Tim. 2:5 · KJV</cite></blockquote>
@@ -310,8 +312,8 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h4>(c) The action of Christ is the crushing of idols, the salvation of man</h4>
 <h3>(6) Christ as the Judgment of God</h3>
 <h4>(a) Judgment by water, Flood – rejection of the Word of God, the Covenant, Christ</h4>
-<h4>(b) Judgment by Blood, Golgotha – the importance of accepting the Word of God, the Covenant, Christ</h4>
-<h4>(c) Judgment by fire, Great Throne - non-acceptance of the Word of God, Covenant, Christ John 12:48, - Deut. 30:19</h4>
+<h4>(b) Judgment by Blood, Golgotha – the importance of accepting the Word of God, the Covenant, and Christ</h4>
+<h4>(c) Judgment by fire, the Great Throne – rejection of the Word of God, the Covenant, Christ John 12:48, - Deut. 30:19</h4>
 <blockquote data-v="kjv"><p>He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day.</p><cite>John 12:48 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>There is a judge for the one who rejects Me and does not receive My words: The word that I have spoken will judge him on the last day.</p><cite>John 12:48 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>He who rejects me, and doesn’t receive my sayings, has one who judges him. The word that I spoke will judge him in the last day.</p><cite>John 12:48 · WEB</cite></blockquote>
@@ -334,13 +336,13 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <h3>(10) Christ as a Seeker of Hearts (desert)</h3>
 <h4>(a) The importance of the desert is to prepare for the service of God and man, to educate and test the motives of every human being</h4>
 <h4>(b) The desert is God's will for every human being</h4>
-<h4>(c) The end of the desert - Canaan, the fulfillment of destiny. (Knowledge and transmission of the Word of God, the Covenant, Christ, preparation for the coming of Christ)</h4>
+<h4>(c) The end of the desert is Canaan, the fulfillment of destiny. (Knowledge and transmission of the Word of God, the Covenant, Christ, preparation for the coming of Christ)</h4>
 <h3>(11) Christ is like the Bread that came down from heaven.</h3>
 <h4>(a) The True Bread of Life is Jesus Christ. John 6:33-35</h4>
 <blockquote data-v="kjv"><p>For the bread of God is he which cometh down from heaven, and giveth life unto the world. Then said they unto him, Lord, evermore give us this bread. And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.</p><cite>John 6:33-35 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For the bread of God is He who comes down from heaven and gives life to the world.” “Sir,” they said, “give us this bread at all times.” Jesus answered, “I am the bread of life. Whoever comes to Me will never hunger, and whoever believes in Me will never thirst.</p><cite>John 6:33-35 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>For the bread of God is that which comes down out of heaven and gives life to the world.” They said therefore to him, “Lord, always give us this bread.” Jesus said to them, “I am the bread of life. Whoever comes to me will not be hungry, and whoever believes in me will never be thirsty.</p><cite>John 6:33-35 · WEB</cite></blockquote>
-<h4>(b) The importance of the True Bread of Life for man – the importance of knowing and transmitting the Word of God, the Covenant, Christ</h4>
+<h4>(b) The importance of the True Bread of Life for man – the importance of knowing and transmitting the Word of God, the Covenant, and Christ</h4>
 <h3>(12) Christ as a Fountain of Living Water</h3>
 <h4>(a) The importance of understanding the Living Water is Christ. Jer. 2:13</h4>
 <blockquote data-v="kjv"><p>For my people have committed two evils; they have forsaken me the fountain of living waters, and hewed them out cisterns, broken cisterns, that can hold no water.</p><cite>Jer. 2:13 · KJV</cite></blockquote>
@@ -402,7 +404,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>While they were eating, Jesus took bread, spoke a blessing and broke it, and gave it to the disciples, saying, “Take and eat; this is My body.” Then He took the cup, gave thanks, and gave it to them, saying, “Drink from it, all of you. This is My blood of the covenant, which is poured out for many for the forgiveness of sins.</p><cite>Matt. 26:26-28 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>As they were eating, Jesus took bread, gave thanks for it, and broke it. He gave to the disciples and said, “Take, eat; this is my body.” He took the cup, gave thanks, and gave to them, saying, “All of you drink it, for this is my blood of the new covenant, which is poured out for many for the remission of sins.</p><cite>Matt. 26:26-28 · WEB</cite></blockquote>
 <h3>(15) Christ as the Law of God, the expression of God</h3>
-<h4>(a) Decalogue (Ten Notes) – (1) understanding of good and evil, awareness of sin and the impossibility of salvation by one's own efforts, (2) right living, the possibility of serving God and man</h4>
+<h4>(a) Decalogue (Ten Commandments) – (1) understanding of good and evil, awareness of sin and the impossibility of salvation by one's own efforts, (2) right living, the possibility of serving God and man</h4>
 <h4>(b) The Liturgical Law – the importance of proper service to the Holy God</h4>
 <h4>(c) Socio-legal Law - the importance of correct relationships between people</h4>
 <h3>(16) Christ as the Tabernacle</h3>
@@ -429,7 +431,7 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="web"><p>My little children, I write these things to you so that you may not sin. If anyone sins, we have a Counselor with the Father, Jesus Christ, the righteous. And he is the atoning sacrifice for our sins, and not for ours only, but also for the whole world.</p><cite>1 John 2:1-2 · WEB</cite></blockquote>
 <h2 id="s3">Conclusion:</h2>
 <h3>(1) The importance of studying the Scriptures</h3>
-<h3>(2) The Importance of Understanding the Word of God, the Covenant, Christ John 5:39</h3>
+<h3>(2) The Importance of Understanding the Word of God, the Covenant, and Christ John 5:39</h3>
 <blockquote data-v="kjv"><p>Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.</p><cite>John 5:39 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>You pore over the Scriptures because you presume that by them you possess eternal life. These are the very words that testify about Me,</p><cite>John 5:39 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“You search the Scriptures, because you think that in them you have eternal life; and these are they which testify about me.</p><cite>John 5:39 · WEB</cite></blockquote>

@@ -1,5 +1,5 @@
 # 1 John 1–2
-## 1.1) 1 John 1, - the statement of the Word of God, the Covenant, Christ
+## 1.1) 1 John 1, is the affirmation of the Word of God, the Covenant, and Christ
 
 ### (1) 1 John 1:1-2, - fulfillment of the Word of God, the Covenant, Christ, the Divinity of Christ Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
 > That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life; (For the life was manifested, and we have seen it, and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;) (1 John 1:1-2, KJV)
@@ -25,21 +25,21 @@
 > (For the life was manifested, and we have seen it, and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;) (1 John 1:2, KJV)
 > Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me. (John 14:6, KJV)
 
-### (2) 1 John 1:3-4, - the importance of understanding the Word of God, the Covenant, Christ
+### (2) 1 John 1:3-4, - the importance of understanding the Word of God, the Covenant, and Christ
 > That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ. And these things write we unto you, that your joy may be full. (1 John 1:3-4, KJV)
 
 #### (a) The importance of communion with God and the people of God, the importance of fulfilling the purpose (knowledge and transmission of the Word of God)
 
 #### (b) The importance of understanding the cause of human joy – communion with God (Emmanuel, fulfillment of God's will), communion with God's people, fulfillment of destiny
 
-### (3) 1 John 1:5-7, - the importance of accepting the Word of God, the Covenant, Christ
+### (3) 1 John 1:5-7, - the importance of accepting the Word of God, the Covenant, and Christ
 > This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all. If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth: But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin. (1 John 1:5-7, KJV)
 
 #### (a) God is light and there is no darkness in Him – the importance of understanding the causes of evil, sin and all the problems of creation. (The wrong choice of God's creation, the consequences, the attempt to accuse God of creating evil, sin, etc.)
 
-#### (b) Walking in darkness (outside of Christ) – non-acceptance of the Word of God, the Covenant, Christ (no confession and works of faith), lack of communion with God, Emmanuel and eternal life (human self-deception)
+#### (b) Walking in darkness (outside of Christ) – non-acceptance of the Word of God, the Covenant, Christ (no confession and works of faith), lack of communion with God, Emmanuel and eternal life (self-deception of man)
 
-#### (c) To walk in the light (in Christ) – acceptance of the Word of God, the Covenant, Christ (confession and works of faith), communion with God and the people of God, the constant action of the Word of God, the Covenant, Christ in human life. (The constant washing and cleansing of man by the Blood of Christ)
+#### (c) To walk in the light (in Christ) is the acceptance of the Word of God, the Covenant, of Christ (confession and works of faith), communion with God and the people of God, the constant action of the Word of God, the Covenant, of Christ in human life. (The constant washing and cleansing of man by the Blood of Christ)
 
 ### (4) 1 John 1:8-10, - the importance of understanding a spiritual problem
 > If we say that we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness. If we say that we have not sinned, we make him a liar, and his word is not in us. (1 John 1:8-10, KJV)
@@ -47,10 +47,10 @@
 #### (a) 1 John 1:8, - denial of sin and transgressions, the action of Satan, walking in darkness, self-deception of man. (Complete lack of truth in man, hypocrisy and madness)
 > If we say that we have no sin, we deceive ourselves, and the truth is not in us. (1 John 1:8, KJV)
 
-#### (b) 1 John 1:9, - the importance of confessing sins before God (sinners, repentance), the importance of accepting and constantly affirming the Word of God, the Covenant, Christ, man's choice (1st opinion). (Accepting the Sacrifice of Christ, forgiving all human sins – past, present and future, solving all problems)
+#### (b) 1 John 1:9, - the importance of confessing sins before God (sinners, repentance), the importance of accepting and constantly affirming the Word of God, the Covenant, Christ, and human choice (1st opinion). (Accepting the Sacrifice of Christ, forgiving all human sins – past, present and future, solving all problems)
 > If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness. (1 John 1:9, KJV)
 
-#### (c) 1 John 1:9, - the importance of confessing sins before God (the people of God, confession of sins), the importance of accepting and constantly affirming the Word of God, the Covenant, Christ, solving the physical consequences of the sins of the people of God (2nd opinion). (Understanding man's imperfections, accepting Christ's Sacrifice, forgiving all man's sins – past, present, and future)
+#### (c) 1 John 1:9, - the importance of confessing sins before God (the people of God, confession of sins), the importance of accepting and constantly affirming the Word of God, the Covenant, Christ, solving the physical consequences of the sins of the people of God (2nd opinion). (Understanding human imperfection, accepting Christ's Sacrifice, forgiving all human sins – past, present, and future)
 > If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness. (1 John 1:9, KJV)
 
 #### (d) 1 John 1:10, - denial of sin and the sin of man, the absence of the Word of God in man, accusing God of lying
@@ -63,7 +63,7 @@
 
 ### (2) The importance of understanding Christ as an Advocate for every human being
 
-### (3) The importance of understanding the Sacrifice of Christ, the atonement of all the sins of the world (past, present, future), the importance of faith in God
+### (3) The importance of understanding Christ's Sacrifice, the atonement of all the sins of the world (past, present, and future), and the importance of God's faith
 
 ## Conclusion:
 

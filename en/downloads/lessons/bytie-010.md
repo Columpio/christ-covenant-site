@@ -17,7 +17,7 @@
 > I am Alpha and Omega, the beginning and the end, the first and the last. (Rev. 22:13, KJV)
 > That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth; (Phil. 2:10, KJV)
 
-### (2) Gen. 1:27; 2:7, 9, 16-17, - the importance of the Word of God, the Covenant, Christ
+### (2) Gen. 1:27; 2:7, 9, 16-17, - the importance of the Word of God, the Covenant, and Christ
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil. (Gen. 2:9, KJV)
@@ -38,7 +38,7 @@
 #### (a) Rejecting the Word of God is living outside of God, choosing a part of the angels. (The judgment of God is eternity outside of God, eternal fire). Matt. 25:41
 > Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels: (Matt. 25:41, KJV)
 
-#### (b) Rejection of the Word of God, the Covenant, Christ – life outside of God, man's choice. (The judgment of God is eternity outside of God, eternal fire). Matt. 25:41
+#### (b) Rejection of the Word of God, the Covenant, Christ – life outside of God, human choice. (The judgment of God is eternity outside of God, eternal fire). Matt. 25:41
 > Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels: (Matt. 25:41, KJV)
 
 #### (c) The loss of the meaning of the eternal creation's life in time – a choice regarding eternity (eternal separation from God)
@@ -49,7 +49,7 @@
 > And Simon Peter answered and said, Thou art the Christ, the Son of the living God. (Matt. 16:16, KJV)
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 
-#### (a) The created eternal angels are placed in time – the right of man's choice, opposition to the Word of God, the Covenant, Christ
+#### (a) The created eternal angels are placed in time – the right of man's choice, opposition to the Word of God, the Covenant, and Christ
 
 #### (b) Created eternal people are placed in time – the right to choose, the chance of salvation, the preparation for eternity
 
@@ -59,7 +59,7 @@
 
 ### (1) The first men and angels (the Daybreak) did not sin
 
-#### (a) Humanity is born in God's plan – a set number of people, confirmation of each person's choice (the possibility of choosing life outside the Word of God), Adam as a priest in the Garden of Eden (the prototype of the Temple, trees), the transition to eternity beyond death
+#### (a) Humanity is born in God's plan – a set number of people, confirmation of each person's choice (the possibility of choosing a life outside the Word of God), Adam as a priest in the Garden of Eden (the prototype of the Temple, the trees), the passage to eternity beyond death
 
 #### (b) Angels – remain in time until the birth of the last person, confirmation of choice (the possibility of choosing a life outside the Word of God, i.e. to take the place of Satan and demons), transition and further life in eternity
 
@@ -72,9 +72,9 @@
 
 ### (2) The first men did not sin, but the angels did.
 
-#### (a) Humanity is born in God's plan – a set number of people, confirmation of each person's choice (the possibility of choosing life outside the Word of God), Adam as a priest in the Garden of Eden (the prototype of the Temple, trees), the transition to eternity beyond death
+#### (a) Humanity is born in God's plan – a set number of people, confirmation of each person's choice (the possibility of choosing a life outside the Word of God), Adam as a priest in the Garden of Eden (the prototype of the Temple, the trees), the passage to eternity beyond death
 
-#### (b) Fallen angels - remain in time until the birth of the last person, confirmation of the right to choose, transition to eternal fire, execution of the sentence of the Word of God
+#### (b) Fallen angels – remain in time until the birth of the last person, confirmation of the right to choose, transition to eternal flame, fulfillment of the sentence of the Word of God
 
 ### (3) The first people did not sin, and some of their descendants fell into sin.
 
@@ -82,7 +82,7 @@
 
 #### (b) The coming of Christ, His Sacrifice, even for the sake of one person. (The variant of Eve's Fall and Restoration is descendants in glorified bodies, the transmission of sin through the male seed)
 
-#### (c) Fallen angels - remain in time until the birth of the last person, confirmation of the right to choose, transition to eternal fire, execution of the sentence of the Word of God
+#### (c) Fallen angels – remain in time until the birth of the last person, confirmation of the right to choose, transition to eternal flame, fulfillment of the sentence of the Word of God
 
 ## 3) The importance of understanding God's Perfect and Permissible Will
 
@@ -95,12 +95,12 @@
 
 ## 4) The importance of understanding the meaning of time
 
-### (1) Time is God's institution, preparation for eternity, a person's right to choose (acceptance or non–acceptance of the Word of God, the Covenant, Christ)
+### (1) Time is God's institution, preparation for eternity, and a person's right to choose (whether or not to accept the Word of God, the Covenant, or Christ)
 
 ### (2) Christmas, Pentecost and a person's birthday – the importance of time control and analysis, the importance of fulfilling the purpose (acceptance, knowledge and transmission of the Word of God, the Covenant, Christ) Eph. 5:15-16
 > See then that ye walk circumspectly, not as fools, but as wise, Redeeming the time, because the days are evil. (Eph. 5:15-16, KJV)
 
-### (3) God's sovereignty and time control of human history – God's plan (1st and 2nd coming of Jesus Christ), the importance of understanding the prophecies of the Scriptures. Matt. 24:32-36
+### (3) God's sovereignty and Time Control of human history – God's plan (1st and 2nd coming of Jesus Christ), the importance of understanding the prophecies of the Scriptures. Matt. 24:32-36
 > Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer is nigh: So likewise ye, when ye shall see all these things, know that it is near, even at the doors. Verily I say unto you, This generation shall not pass, till all these things be fulfilled. Heaven and earth shall pass away, but my words shall not pass away. But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only. (Matt. 24:32-36, KJV)
 
 ## 5) Understanding Satan's actions in relation to time

@@ -1,6 +1,6 @@
 # The 2nd and 3rd Epistles of the Apostle John
 
-## 1) 2 John 1, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 1) 2 John 1, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
 ### (1) 2 John 1:1, - the chosen lady and her children, the Church of Christ, the importance of the people of God (God's election)
 > The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth; (2 John 1:1, KJV)
@@ -33,16 +33,16 @@
 > So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs. He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep. He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep. (John 21:15-17, KJV)
 
 #### (b) The importance of keeping God's Commandments
-- The commandments of the Covenant – the acceptance of Christ (Emmanuel), the importance of knowing and transmitting the Word of God, the Covenant, Christ, the 100% possibility of fulfillment for man with the assistance of the grace of God
-- The Commandments of the Law – The Decalogue, God's standards, the impossibility of 100% fulfillment for man, the process of sanctification
+- The commandments of the Covenant are the acceptance of Christ (Emmanuel), the importance of knowing and transmitting the Word of God, the Covenant, Christ, and the 100% possibility of fulfillment for a person with the assistance of God's grace
+- The Commandments of the Law – the Decalogue, God's standards, the impossibility of 100% fulfillment for man, the process of sanctification
 
-### (5) 2 John 1:7, - non-acceptance of the Word of God, the Covenant, Christ, false teachings
+### (5) 2 John 1:7, - rejection of the Word of God, the Covenant, Christ, and false teachings
 > For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist. (2 John 1:7, KJV)
 
 ### (6) 2 John 1:8-9, - rejection of the Word of God, the Covenant, Christ (loss of salvation)
 > Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward. Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son. (2 John 1:8-9, KJV)
 
-### (7) 2 John 1:10-11, - understanding the Word of God, the Covenant, Christ, purity of teaching. (Rejection and non-acceptance of false teachings and false teachers)
+### (7) 2 John 1:10-11, - understanding of the Word of God, the Covenant, Christ, purity of teaching. (Rejection and non-acceptance of false teachings and false teachers)
 > If there come any unto you, and bring not this doctrine, receive him not into your house, neither bid him God speed: For he that biddeth him God speed is partaker of his evil deeds. (2 John 1:10-11, KJV)
 
 ### (8) 2 John 1:12-13, - knowledge of the Word of God, the Covenant, Christ, the importance of the fellowship of the people of God, the local Churches. (The chosen sister and her children are the Church of Christ, the people of God)
@@ -50,28 +50,28 @@
 
 ## Result:
 
-### (1) The importance of the people of God, the fulfillment of destiny – the knowledge and transmission of the Word of God, the Covenants, Christ, the Disciples, World Evangelization
+### (1) The importance of the people of God, the fulfillment of the mission – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization
 
-### (2) The importance of understanding and preserving the Truth for the people of God
+### (2) The importance of understanding and preserving the Truth for God's people
 
 ### (3) The importance of God's love, the importance of fulfilling God's commandments
 
 ### (4) The importance of understanding the actions of Satan, the false teacher, the false teaching
 
-### (5) The importance of keeping the Word of God, the Covenant, and Christ pure
+### (5) The importance of preserving the purity of the Word of God, the Covenant, and Christ
 
-## 2) 3 John 1, - transmission of the Word of God, the Covenant, Christ, destiny
+## 2) 3 John 1, - transmission of the Word of God, the Covenant, Christ, purpose
 
 ### (1) 3 John 1:1-4, - the importance of transmitting the Word of God, the Covenant, Christ, the disciples
 > The elder unto the wellbeloved Gaius, whom I love in the truth. Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth. For I rejoiced greatly, when the brethren came and testified of the truth that is in thee, even as thou walkest in the truth. I have no greater joy than to hear that my children walk in truth. (3 John 1:1-4, KJV)
 
-### (2) 3 John 1:5-8, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, and the spiritual, mental, and physical participation of God's people. (Prayer, Communication, finances, and personal involvement in World Evangelism)
+### (2) 3 John 1:5-8, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, and the spiritual, spiritual, and physical participation of God's people. (Prayer, communication, finances, and personal involvement in Worldwide Evangelization)
 > Beloved, thou doest faithfully whatsoever thou doest to the brethren, and to strangers; Which have borne witness of thy charity before the church: whom if thou bring forward on their journey after a godly sort, thou shalt do well: Because that for his name’s sake they went forth, taking nothing of the Gentiles. We therefore ought to receive such, that we might be fellowhelpers to the truth. (3 John 1:5-8, KJV)
 
-### (3) 3 John 1:9-10, - non-acceptance of the Word of God, Covenant, Christ, false minister, Diotrephes (false accusations of the children of God, opposition to the transmission of the Word of God, Covenant, Christ, non-acceptance of strangers, expulsion from the congregation)
+### (3) 3 John 1:9-10, - non-acceptance of the Word of God, the Covenant, Christ, false minister, Diotrephes (false accusations of the children of God, opposition to the transmission of the Word of God, the Covenant, Christ, non-acceptance of strangers, expulsion from the assembly)
 > I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not. Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church. (3 John 1:9-10, KJV)
 
-### (4) 3 John 1:11-12, - knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, Demetrius, disciple of John, fulfillment of destiny
+### (4) 3 John 1:11-12, - knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, Demetrius, disciple of John, fulfillment of destiny
 > Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God. Demetrius hath good report of all men, and of the truth itself: yea, and we also bear record; and ye know that our record is true. (3 John 1:11-12, KJV)
 
 ### (5) 3 John 1:13-14, - knowledge of the Word of God, the Covenant, Christ, the importance of the fellowship of God's people, local Churches
@@ -79,7 +79,7 @@
 
 ## Result:
 
-### (1) The importance of the people of God, the fulfillment of destiny – the knowledge and transmission of the Word of God, the Covenants, Christ, the Disciples, World Evangelization
+### (1) The importance of the people of God, the fulfillment of the mission – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization
 
 ### (2) The importance of understanding false ministers and the true people of God (confession, the essence of teaching, the fruits of life)
 - Conclusion (review of the Epistles of the Apostle John the Theologian)
@@ -94,15 +94,15 @@
 
 ### (5) The importance of sanctification and spiritual growth (children, youth, fathers)
 
-### (6) The importance of understanding the actions of Satan (false teachings, temptations)
+### (6) The importance of understanding Satan's actions (false teachings, temptations)
 
-### (7) The Importance of understanding the testimony of the Holy Spirit (anointing)
+### (7) The importance of understanding the testimony of the Holy Spirit (anointing)
 
 ### (8) The importance of understanding the reason for a person's spiritual status
 
 ### (9) The importance of understanding human affairs – the affairs of truth and evil
 
-### (10) The importance of loving God and one's neighbor is fulfilled. God's Commandments
+### (10) The importance of loving God and one's neighbor, fulfilling The Commandments of God
 
 ### (11) The importance of human confession, the test of spirits
 
@@ -114,4 +114,4 @@
 
 ### (15) The importance of understanding the problem of idolatry
 
-### (16) The importance of understanding the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization
+### (16) The importance of understanding the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization

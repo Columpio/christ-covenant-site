@@ -1,5 +1,5 @@
 # Heb. 13
-## 11.1) Heb. 13:1-7, - the importance of knowing and transmitting the Word of God
+## 11.1) Heb. 13:1-7, - the importance of knowing and communicating the Word of God
 > Let brotherly love continue. Be not forgetful to entertain strangers: for thereby some have entertained angels unawares. Remember them that are in bonds, as bound with them; and them which suffer adversity, as being yourselves also in the body. Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge. Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee. So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me. Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of their conversation. (Heb. 13:1-7, KJV)
 
 ### (1) Heb. 13:1, - the importance of proper relationships among God's people, fulfillment of purpose Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
@@ -34,7 +34,7 @@
 ### (6) Heb. 13:5-6, - the importance of treating money and material things properly, the importance of understanding God's love and care, and understanding God's sovereignty and control
 > Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee. So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me. (Heb. 13:5-6, KJV)
 
-### (7) Heb. 13:7, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, the importance of fulfilling the purpose (example of the servants of God)
+### (7) Heb. 13:7, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, the importance of fulfilling the purpose (example of servants of God)
 > Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of their conversation. (Heb. 13:7, KJV)
 
 ## 2) Heb. 13:8-14, - the importance of understanding Christ and the action of N.Z.
@@ -43,7 +43,7 @@
 ### (1) Heb. 13:8, - the understanding of the constancy and immutability of Christ, God in the flesh, the fullness of the Godhead bodily, the image of the invisible God
 > Jesus Christ the same yesterday, and to day, and for ever. (Heb. 13:8, KJV)
 
-### (2) Heb. 13:9, - the importance of preserving the purity of the teaching and faith of God, the importance of knowing and transmitting the Word of God, the Covenant, Christ (to be strengthened by the grace of God), the rejection of emphasis on the visible things of the world (gluttony, avarice, etc.)
+### (2) Heb. 13:9, - the importance of preserving the purity of God's teaching and faith, the importance of knowing and transmitting the Word of God, the Covenant, and Christ (to be strengthened by the grace of God), the rejection of emphasis on visible things of the world (gluttony, avarice, etc.)
 > Be not carried about with divers and strange doctrines. For it is a good thing that the heart be established with grace; not with meats, which have not profited them that have been occupied therein. (Heb. 13:9, KJV)
 
 ### (3) Heb. 13:10, - the importance of understanding the N.Z. altar (the Cross), the impossibility of communion with the True God through the service of the tabernacle, V.Z. (it is impossible to eat from N.Z. while in V.Z.)
@@ -70,7 +70,7 @@
 ### (2) Heb. 13:16, - the importance of charity, helping people
 > But to do good and to communicate forget not: for with such sacrifices God is well pleased. (Heb. 13:16, KJV)
 
-#### (a) Non–believers - the possibility of accepting the Word of God, the Covenant, Christ
+#### (a) Non–believers - the possibility of accepting the Word of God, the Covenant, and Christ
 
 #### (b) Believers – the possibility of fulfilling a destiny
 
@@ -87,7 +87,7 @@
 ### (5) Heb. 13:18-21, - the importance of prayer, the affirmation of God's will
 > Pray for us: for we trust we have a good conscience, in all things willing to live honestly. But I beseech you the rather to do this, that I may be restored to you the sooner. Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant, Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom be glory for ever and ever. Amen. (Heb. 13:18-21, KJV)
 
-### (6) Heb. 13:22, - the importance of accepting the entire Word of God, the canon of the Bible
+### (6) Heb. 13:22, - the importance of accepting the whole Word of God, the canon of the Bible
 > And I beseech you, brethren, suffer the word of exhortation: for I have written a letter unto you in few words. (Heb. 13:22, KJV)
 
 ### (7) Heb. 13:23-25, - the importance of fulfilling the destiny of the people of God (knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization)
@@ -113,5 +113,5 @@
 
 ### (9) Heb. 12, - Christ is the Ruler and Finisher of the faith of God's people (the importance of understanding God's upbringing)
 
-### (10) Heb. 12-13, - Christ, this is the meaning of knowledge and transmission of the Word of God, the Testament, Christ John 5:39
+### (10) Heb. 12-13, - Christ, is the meaning of the knowledge and transmission of the Word of God, the Covenant, Christ John 5:39
 > Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me. (John 5:39, KJV)

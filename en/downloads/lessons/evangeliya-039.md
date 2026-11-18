@@ -1,9 +1,9 @@
 # 34. Matt. 24: Last week, understanding the future
 
-## 1) Matt. 24:1-2, - non-acceptance of the Word of God, the Covenant, Christ, loss of destiny
+## 1) Matt. 24:1-2, - rejection of the Word of God, the Covenant, Christ, loss of destiny
 > And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple. And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down. (Matt. 24:1-2, KJV)
 
-### (1) The importance of understanding the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the coming of Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21. (Adam – Seth – Noah – Abraham – Moses – David – Solomon, etc.)
+### (1) The importance of understanding the destiny of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21. (Adam – Seth – Noah – Abraham – Moses – David – Solomon, etc.)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
 > But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die. (Gen. 2:17, KJV)
@@ -14,11 +14,11 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-### (2) Tabernacle, Temple – knowledge and transmission of the Word of God, the Covenant, Christ (Sacrifice, Holy of Holies, High Priest – the prototype of Christ)
+### (2) The Tabernacle, the Temple – the knowledge and transmission of the Word of God, the Covenant, Christ (Sacrifice, the Holy of Holies, the High Priest – the prototype of Christ)
 
 ### (3) The 1st destruction of the Temple (586 BC), the Babylonian Empire, King Nebuchadnezzar, renunciation of destiny, the judgment of God (70 l.)
 
-### (4) Restoration of the Temple (516 BC), God's love and mercy, return to destiny (Zerubbabel, Zechariah Ave., Haggai)
+### (4) Restoration of the Temple (516 B.C.), God's love and mercy, return to destiny (Zerubbabel, Zechariah Ave., Haggai)
 
 ### (5) The 2nd destruction of the Temple (70 A.D.), the Roman Empire, the commander Titus, the rejection of destiny, the rejection of Christ, the judgment of God. Matt. 22:41-46,John 10:33,Rom. 9:30-33
 > While the Pharisees were gathered together, Jesus asked them, Saying, What think ye of Christ? whose son is he? They say unto him, The Son of David. He saith unto them, How then doth David in spirit call him Lord, saying, The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool? If David then call him Lord, how is he his son? And no man was able to answer him a word, neither durst any man from that day forth ask him any more questions. (Matt. 22:41-46, KJV)
@@ -67,7 +67,7 @@
 > Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name’s sake. And then shall many be offended, and shall betray one another, and shall hate one another. And many false prophets shall rise, and shall deceive many. And because iniquity shall abound, the love of many shall wax cold. But he that shall endure unto the end, the same shall be saved. (Matt. 24:9-13, KJV)
 > And I will give power unto my two witnesses, and they shall prophesy a thousand two hundred and threescore days, clothed in sackcloth. These are the two olive trees, and the two candlesticks standing before the God of the earth. And if any man will hurt them, fire proceedeth out of their mouth, and devoureth their enemies: and if any man will hurt them, he must in this manner be killed. These have power to shut heaven, that it rain not in the days of their prophecy: and have power over waters to turn them to blood, and to smite the earth with all plagues, as often as they will. And when they shall have finished their testimony, the beast that ascendeth out of the bottomless pit shall make war against them, and shall overcome them, and kill them. And their dead bodies shall lie in the street of the great city, which spiritually is called Sodom and Egypt, where also our Lord was crucified. (Rev. 11:3-8, KJV)
 
-### (4) Matt. 24:14, - transmission of the Word of God, the Covenant, Christ, God sovereignty
+### (4) Matt. 24:14, - transmission of the Word of God, the Covenant, Christ, God's sovereignty
 > And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come. (Matt. 24:14, KJV)
 
 ## 4) Matt. 24:15-28, is the 2nd half of the last week. Rev. 13-19
@@ -78,7 +78,7 @@
 > And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the consummation, and that determined shall be poured upon the desolate. (Dan. 9:27, KJV)
 > And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who is like unto the beast? who is able to make war with him? And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months. And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven. And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations. And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world. (Rev. 13:4-8, KJV)
 
-### (2) Matt. 24:16-22, - the Great Tribulation (3.5), God sovereignty
+### (2) Matt. 24:16-22, - the Great Tribulation (3.5), God's sovereignty
 > Then let them which be in Judaea flee into the mountains: Let him which is on the housetop not come down to take any thing out of his house: Neither let him which is in the field return back to take his clothes. And woe unto them that are with child, and to them that give suck in those days! But pray ye that your flight be not in the winter, neither on the sabbath day: For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be. And except those days should be shortened, there should no flesh be saved: but for the elect’s sake those days shall be shortened. (Matt. 24:16-22, KJV)
 
 ### (3) Matt. 24:23-28, - false Christ, antichrist, pretension to God
@@ -109,7 +109,7 @@
 > For as the lightning, that lighteneth out of the one part under heaven, shineth unto the other part under heaven; so shall also the Son of man be in his day. But first must he suffer many things, and be rejected of this generation. (Luke 17:24-25, KJV)
 > Then answered all the people, and said, His blood be on us, and on our children. (Matt. 27:25, KJV)
 
-### (4) Matt. 24:35, - God's affirmation of the inevitability of fulfillment of God's Word, Covenant, Christ, understanding of God's sovereignty and control
+### (4) Matt. 24:35, is God's affirmation of the inevitability of the fulfillment of God's Word, Covenant, and Christ, and an understanding of God's sovereignty and control
 > Heaven and earth shall pass away, but my words shall not pass away. (Matt. 24:35, KJV)
 
 ### (5) Matt. 24:36, - the human nature of Christ, the absence of contradictions in the Gospels, the exact explanation of the essence of Christ – the divine and human nature in one Person of Jesus Christ, God in the flesh. 1 Tim. 3:16
@@ -133,8 +133,8 @@
 
 ## Conclusion:
 
-### (1) The importance of understanding the past, present, and future for every human being – the importance of God's Word, teaching
+### (1) The importance of understanding the past, present and future for every human being – the importance of the Word of God, teaching
 
-### (2) Trying to find an answer outside of the Word of God is deception, ruin
+### (2) Trying to find an answer outside of the Word of God is deceit, ruin
 
-### (3) The importance of understanding and fulfilling the purpose – knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ
+### (3) The importance of understanding and fulfilling the purpose of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, the coming of Christ

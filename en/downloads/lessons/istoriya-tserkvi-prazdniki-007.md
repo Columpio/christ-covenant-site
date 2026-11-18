@@ -68,7 +68,7 @@
 > My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous: And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world. (1 John 2:1-2, KJV)
 > And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses; (Col. 2:13, KJV)
 
-### (3) The belief that Jesus Christ descended into hell to preach the Word of God, the Covenant, the Christ, and to lead the righteous out of hell in Central Asia 1 Pet. 3:19
+### (3) The belief that Jesus Christ descended into hell to preach the Word of God, the Covenant, and Christ and lead the righteous out of hell in Central Asia 1 Pet. 3:19
 > By which also he went and preached unto the spirits in prison; (1 Pet. 3:19, KJV)
 
 ### (4) The belief that there is no other way of salvation than through the Sacrifice of Jesus Christ (all religions are human works). Gal. 2:21,John 14:6
@@ -93,12 +93,12 @@
 
 ### (1) Belief in the Ascension of Jesus Christ and the continuation of His Heavenly Ministry as Man
 
-#### (a) The true King is the destruction of Satan's power in people's lives and taking care of them
+#### (a) The true King is to destroy the power of Satan in people's lives and take care of them
 
 #### (b) A true High Priest is the solution to the problem of sin in human life. Heb. 7:21-28
 > (For those priests were made without an oath; but this with an oath by him that said unto him, The Lord sware and will not repent, Thou art a priest for ever after the order of Melchisedec:) By so much was Jesus made a surety of a better testament. And they truly were many priests, because they were not suffered to continue by reason of death: But this man, because he continueth ever, hath an unchangeable priesthood. Wherefore he is able also to save them to the uttermost that come unto God by him, seeing he ever liveth to make intercession for them. For such an high priest became us, who is holy, harmless, undefiled, separate from sinners, and made higher than the heavens; Who needeth not daily, as those high priests, to offer up sacrifice, first for his own sins, and then for the people’s: for this he did once, when he offered up himself. For the law maketh men high priests which have infirmity; but the word of the oath, which was since the law, maketh the Son, who is consecrated for evermore. (Heb. 7:21-28, KJV)
 
-#### (c) A true Prophet is the proclamation of the truest prophetic Word, the explanation of the past, present and future, and the indication of the Only way to meet with God.
+#### (c) A true Prophet is the proclamation of the truest prophetic Word, the clarification of the past, present and future, and the indication of the Only way to meet God.
 
 #### (d) The only Teacher and Mentor is the teaching of man ONLY through the Word of God, the Covenant, Christ John 1:1-3, 14
 > In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made. (John 1:1-3, KJV)
@@ -145,7 +145,7 @@
 
 ## 8) And in the Holy Spirit, the Lord, the Giver of Life, who proceeds from the Father and the Son, who, together with the Father and the Son, deserves worship and glory, Who spoke through the prophets in the Holy Scriptures of the Old and New Testaments.
 
-### (1) Belief in God the Holy Spirit as the Third Person of the Holy, Triune God. Acts 5:1-4; 13:2,John 15:26; 16:8-11
+### (1) Faith in the God of the Holy Spirit as the Third Hypostasis of the Holy, Triune God. Acts 5:1-4; 13:2,John 15:26; 16:8-11
 > But a certain man named Ananias, with Sapphira his wife, sold a possession, And kept back part of the price, his wife also being privy to it, and brought a certain part, and laid it at the apostles’ feet. But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back part of the price of the land? Whiles it remained, was it not thine own? and after it was sold, was it not in thine own power? why hast thou conceived this thing in thine heart? thou hast not lied unto men, but unto God. (Acts 5:1-4, KJV)
 > As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them. (Acts 13:2, KJV)
 > But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me: (John 15:26, KJV)
@@ -170,10 +170,10 @@
 
 ### (1) Faith in God's ordinances as visible evidence of abiding in God's Covenant and forgiveness of all sins – past, present, and future (God's will)
 
-#### (a) The One Breaking of Bread is the affirmation of the Word of God, the Covenant, Christ, the complete denial of the transubstantiation. Heb. 10:14
+#### (a) The Breaking of Bread is the affirmation of the Word of God, the Covenant, and Christ, and the complete denial of the transubstantiation. Heb. 10:14
 > For by one offering he hath perfected for ever them that are sanctified. (Heb. 10:14, KJV)
 
-#### (b) One Baptism – acceptance of the Word of God, the Covenant, Christ, confirmation of being in the Covenant of God through acceptance of the Divinity of Christ and the All-sufficiency of His Sacrifice
+#### (b) One Baptism is the acceptance of the Word of God, the Covenant, of Christ, the confirmation of being in the Covenant of God through the acceptance of the Divinity of Christ and the All–sufficiency of His Sacrifice
 
 ### (2) Faith in Jesus Christ as the Image of the Invisible God and the Fullness of the Divine Body – the Image of the Holy, True, Triune God (Father, Son or Word, Holy Spirit) 1 John 5:7
 > For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one. (1 John 5:7, KJV)
@@ -205,6 +205,6 @@
 
 ## Conclusion:
 
-### (1) The importance of understanding the Word of God, the Covenant, Christ, understanding the faith of God
+### (1) The importance of understanding the Word of God, the Covenant, Christ, and understanding God's Faith
 
-### (2) The importance of knowing and communicating the Word of God, the Covenant, Christ - a deep understanding and communication of the faith of God (God's purpose for children)
+### (2) The importance of knowing and transmitting the Word of God, the Covenant, and Christ – a deep understanding and communication of God's faith (the purpose of God's children)

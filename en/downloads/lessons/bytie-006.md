@@ -26,12 +26,12 @@
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
 
-### (1) The appearance of sin and evil are phenomena caused by the choice of the angel of the Day, life outside the Word of God Heb. 1:14,Isa. 14:12-14, – 1 John 3:8. (An example of creating an explosive package – combining peaceful things in a certain order causes a force that a person cannot control and falls under its action himself)
+### (1) The appearance of sin and evil are phenomena caused by the choice of the angel of the Day, life outside the Word of God Heb. 1:14,Isa. 14:12-14, – 1 John 3:8. (An example of creating an explosive package - combining peaceful things in a certain order causes a force that a person cannot control and falls under its influence himself)
 > Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation? (Heb. 1:14, KJV)
 > How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations! For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north: I will ascend above the heights of the clouds; I will be like the most High. (Isa. 14:12-14, KJV)
 > He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil. (1 John 3:8, KJV)
 
-### (2) Living outside the Word of God, outside of God is living in evil, full control of the evil forces of God's creation (fallen angels and sinners)
+### (2) Living outside of the Word of God, outside of God is living in evil, full control of the evil forces of God's creation (fallen angels and sinners)
 
 ### (3) Knowledge of good and evil, the will of God for man – the importance of theoretical rather than practical knowledge (parenting)
 
@@ -80,12 +80,12 @@
 
 ### (3) The impossibility of repentance and restoration of Satan and demons
 
-#### (a) The lack of God's solution to salvation for Satan and demons Luke 12:48
+#### (a) The lack of God's solution of salvation for Satan and demons Luke 12:48
 > But he that knew not, and did commit things worthy of stripes, shall be beaten with few stripes. For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more. (Luke 12:48, KJV)
 
 #### (b) The absence of a mechanism of salvation – there is no redemption for Satan and demons
 
-#### (c) The lack of action of God's grace for Satan and demons (God's call)
+#### (c) The absence of the grace of God for Satan and demons (God's call)
 
 ## 4) God's sovereignty and Control – Using evil for good. Rom. 8:28
 > And we know that all things work together for good to them that love God, to them who are the called according to his purpose. (Rom. 8:28, KJV)
@@ -98,7 +98,7 @@
 #### (b) Serving God is the whole creation without exception. 2 Tim. 2:20. (Moses – Pharaoh, Pharisees and Scribes – Paul and the Apostles)
 > But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour. (2 Tim. 2:20, KJV)
 
-### (2) Accepting the Word of God, the Covenant, Christ – any evil will turn into good
+### (2) Accepting the Word of God, the Covenant, and Christ – any evil will turn into good
 
 #### (a) Joseph's betrayal, slavery, and prison. Gen. 50:20
 > But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive. (Gen. 50:20, KJV)
@@ -109,7 +109,7 @@
 #### (c) Alcohol, drugs – many have come to God. Ps. 118:5
 > I called upon the LORD in distress: the LORD answered me, and set me in a large place. (Ps. 118:5, KJV)
 
-### (3) Rejection of the Word of God, the Covenant, Christ – any good will turn into evil
+### (3) Rejection of the Word of God, the Covenant, and Christ – any good will turn to evil
 
 #### (a) Judas Iscariot, disciple of Jesus Christ – the betrayal of Christ, the importance of fulfilling the Word of God, the redemption of mankind
 
@@ -125,10 +125,10 @@
 
 ### (1) The spiritual part (a person's daily choice)
 
-#### (a) Acceptance of the Word of God, the Covenant, Christ –salvation and rebirth, the importance of Emmanuel. Rom. 8:2
+#### (a) Acceptance of the Word of God, the Covenant, Christ – salvation and rebirth, the importance of Emmanuel. Rom. 8:2
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
 
-#### (b) Knowledge and transmission of the Word of God, the Covenants, Christ, the Disciples, Worldwide Evangelization, preparation for the coming of Christ – fulfillment of destiny John 8:31-32,1 Tim. 4:16, - Matt. 28:19-20,2 Tim. 2:2
+#### (b) Knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ – fulfillment of destiny John 8:31-32,1 Tim. 4:16, - Matt. 28:19-20,2 Tim. 2:2
 > Then said Jesus to those Jews which believed on him, If ye continue in my word, then are ye my disciples indeed; And ye shall know the truth, and the truth shall make you free. (John 8:31-32, KJV)
 > Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee. (1 Tim. 4:16, KJV)
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
@@ -136,11 +136,11 @@
 
 ### (2) The soul part (a person's daily choice)
 
-#### (a) The choice and formation of the mindset of the people of God – the ideology of God, acceptance of the teachings of the Word of God, "to die for evil." (Ideology, value system – thoughts – desires – actions) Col. 3:1-4,Rom. 6:11
+#### (a) The choice and formation of the mindset of the people of God is the ideology of God, acceptance of the teachings of the Word of God, "to die for evil." (Ideology, value system – thoughts – desires – actions) Col. 3:1-4,Rom. 6:11
 > If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God. Set your affection on things above, not on things on the earth. For ye are dead, and your life is hid with Christ in God. When Christ, who is our life, shall appear, then shall ye also appear with him in glory. (Col. 3:1-4, KJV)
 > Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord. (Rom. 6:11, KJV)
 
-#### (b) Choosing the right communication and friendship is setting standards for the Word of God in the lives of God's people. Ps. 1:1-3
+#### (b) Choosing the right communication and friendship is to establish the standards of the Word of God in the lives of God's people. Ps. 1:1-3
 > Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful. But his delight is in the law of the LORD; and in his law doth he meditate day and night. And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper. (Ps. 1:1-3, KJV)
 
 ### (3) The physical part (a person's daily choice)
@@ -154,9 +154,9 @@
 
 ## Result:
 
-### (1) The impossibility of defeating evil without God, the importance of accepting the Word of God, the Covenant, Christ (Emmanuel)
+### (1) The impossibility of defeating evil without God, the importance of accepting the Word of God, the Covenant, and Christ (Emmanuel)
 
-### (2) The importance of understanding the destiny of God's people – the knowledge and transmission of the Word of God, the Covenant, Christ (salvation, Emmanuel)
+### (2) The importance of understanding the destiny of God's people – the knowledge and transmission of God's Word, Covenant, and Christ (salvation, Emmanuel)
 
 ### (3) The written Word of God (the Bible) is the only criterion of every person's life (spiritual, mental and physical)
 
@@ -178,7 +178,7 @@
 ### (3) Jesus Christ died for all people – God's mechanism of liberation from evil for every human being. Rom. 8:2
 > For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death. (Rom. 8:2, KJV)
 
-### (4) The action of the Holy Spirit is the knowledge and transmission of the Word of God, the Covenant, Christ, the possibility of accepting Christ and legitimate liberation from evil for every human being. Rev. 3:20
+### (4) The action of the Holy Spirit is the knowledge and transmission of the Word of God, the Covenant, and Christ, the possibility of accepting Christ and legitimately freeing everyone from evil. Rev. 3:20
 > Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me. (Rev. 3:20, KJV)
 
 ### (5) Life outside of evil is the will of God, the importance of understanding the right of choice of each person. Deut. 30:19
@@ -188,7 +188,7 @@
 
 ### (1) The importance of understanding the root causes of evil and its forces – choosing the angel of the Day, living outside the Word of God (sin)
 
-### (2) The importance of understanding God's method of deliverance from evil – the knowledge and transmission of the Word of God, the Covenant, Christ (Emmanuel)
+### (2) The importance of understanding God's method of deliverance from evil – the knowledge and transmission of God's Word, Covenant, and Christ (Emmanuel)
 
 ### (3) The importance of understanding the reason for the existence of good and evil – God's sovereignty and control, man's right to choose
 

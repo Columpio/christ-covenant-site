@@ -13,7 +13,7 @@
 
 ### (1) Rejection of the Word of God, the Covenant, Christ, loss of purpose – slavery
 
-### (2) The preservation of the Covenant family, Christ – the knowledge and transmission of the Word of God (Daniel, Shadrach, Mesach, Abednego, Ezra, Nehemiah. Mordecai, etc.)
+### (2) The preservation of the family of the Covenant, of Christ, is the knowledge and transmission of the Word of God (Daniel, Shadrach, Mesach, Abednego, Ezra, Nehemiah. Mordecai, etc.)
 
 ## 2) The stages of the return of God's people
 
@@ -35,7 +35,7 @@
 
 ### (1) Neh. 7, - the census of the people of God, the 1st return of the Jews. (Zerubbabel, Joshua the son of Jozadak, Zechariah, Haggai, the people of God)
 
-#### (a) The importance of the people of God – the preservation and transmission of the Word of God, the Covenant, Christ
+#### (a) The importance of God's people is the preservation and transmission of God's Word, Covenant, and Christ
 
 #### (b) Fulfillment of destiny – the right to choose a person
 
@@ -45,11 +45,11 @@
 
 #### (a) Ezra is a priest (descendant of Aaron), a scribe, understanding the importance of knowing and transmitting the Word of God, the Covenant, Christ, the coming of Christ
 
-#### (b) 1 and 2 Par., Ezra, canon V.Z. (Tanakh), the struggle against the apocrypha – the importance of purity of the Word of God, the fulfillment of the destiny of the people of God
+#### (b) 1 and 2 Par., Ezra, canon V.Z. (Tanakh), the struggle against the apocrypha – the importance of the purity of the Word of God, the fulfillment of the destiny of God's people
 
 #### (c) The Book of the Law, the constant abiding of the people in the Word of God
 
-#### (d) The importance of properly understanding the Word of God, the Covenant, Christ, Teaching
+#### (d) The importance of properly understanding the Word of God, the Covenant, Christ, and teaching
 
 #### (e) The Feast of Tabernacles – the temporality of the visible, the importance of the Word of God
 
@@ -59,27 +59,27 @@
 
 #### (b) Understanding the importance of returning to God, knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ
 
-#### (c) God's preservation of the people is the grace, mercy, and love of God
+#### (c) The preservation of God's people is the grace, mercy, and love of God
 
-### (4) Neh. 10, - affirmation of the Word of God, the Covenant, Christ
+### (4) Neh. 10, is the affirmation of the Word of God, the Covenant, and Christ
 
-#### (a) The list of participants in the affirmation of the Word of God, the Covenant, Christ – the separation of the people of God, the fulfillment of destiny, the correct ideology and worldview, the purity of teaching
+#### (a) The list of participants in the affirmation of the Word of God, the Covenant, and Christ – the separation of the people of God, the fulfillment of destiny, the correct ideology and worldview, and the purity of teaching
 
 #### (b) The importance of marriages, the Seventh Day, and the Tithes of God's people
 
-### (5) Neh. 11 (1-19,20-36), - the importance of transmitting the Word of God, the Covenant, Christ (The importance of the settlement of Jerusalem and Canaan, the Temple, Worldwide Evangelization, preparation for the coming of Christ, fulfillment of destiny)
+### (5) Neh. 11 (1-19,20-36), - the importance of transmitting the Word of God, the Covenant, and Christ (The importance of settling Jerusalem and Canaan, the Temple, Worldwide Evangelization, preparation for the coming of Christ, and fulfillment of destiny)
 
-### (6) Neh. 12, - the importance of conveying the Word of God, the Covenant, Christ
+### (6) Neh. 12, - the importance of conveying the Word of God, the Covenant, and Christ
 
 #### (a) Neh. 12 (1-26), - the importance of priests, the affirmation of the Word of God, the Covenant, Christ, the fulfillment of the destiny of the people of God
 
-#### (b) Neh. 12 (27-43), - consecration of the rebuilt walls of Jerusalem, praise of God, Sacrifice, understanding the Word of God, the Covenant, Christ
+#### (b) Neh. 12 (27-43), - consecration of the rebuilt walls of Jerusalem, praise of God, Sacrifice, understanding of the Word of God, the Covenant, Christ
 
 #### (c) Neh. 12 (44-47), - the importance of financial service to the people of God, the importance of fulfilling the destiny
 
 ### (7) Neh. 13, - affirmation of the Word of God, the Covenant, Christ, the reform of Nehemiah
 
-#### (a) Neh. 13:1-3, - separation of the alien, importance of the people of God, purity of teaching, understanding and fulfillment of destiny
+#### (a) Neh. 13:1-3, - separation of the alien, importance of God's people, purity of teaching, understanding and fulfillment of destiny
 > On that day they read in the book of Moses in the audience of the people; and therein was found written, that the Ammonite and the Moabite should not come into the congregation of God for ever; Because they met not the children of Israel with bread and with water, but hired Balaam against them, that he should curse them: howbeit our God turned the curse into a blessing. Now it came to pass, when they had heard the law, that they separated from Israel all the mixed multitude. (Neh. 13:1-3, KJV)
 
 #### (b) Neh. 13:4-9, - the importance of the Temple and Worship, the importance of the exact fulfillment of the Word of God for the people of God (Tobias the Ammonite)
@@ -88,7 +88,7 @@
 #### (c) Neh. 13:10-14, - the importance of financial service to the people of God, the importance of understanding and fulfilling the purpose
 > And I perceived that the portions of the Levites had not been given them: for the Levites and the singers, that did the work, were fled every one to his field. Then contended I with the rulers, and said, Why is the house of God forsaken? And I gathered them together, and set them in their place. Then brought all Judah the tithe of the corn and the new wine and the oil unto the treasuries. And I made treasurers over the treasuries, Shelemiah the priest, and Zadok the scribe, and of the Levites, Pedaiah: and next to them was Hanan the son of Zaccur, the son of Mattaniah: for they were counted faithful, and their office was to distribute unto their brethren. Remember me, O my God, concerning this, and wipe not out my good deeds that I have done for the house of my God, and for the offices thereof. (Neh. 13:10-14, KJV)
 
-#### (d) Neh. 13:15-22, - the importance of the seventh day for the people of God, the importance of worship and the exact fulfillment of the Word of God
+#### (d) Neh. 13:15-22, - the importance of the seventh day for the people of God, the importance of worship and the faithful fulfillment of the Word of God
 > In those days saw I in Judah some treading wine presses on the sabbath, and bringing in sheaves, and lading asses; as also wine, grapes, and figs, and all manner of burdens, which they brought into Jerusalem on the sabbath day: and I testified against them in the day wherein they sold victuals. There dwelt men of Tyre also therein, which brought fish, and all manner of ware, and sold on the sabbath unto the children of Judah, and in Jerusalem. Then I contended with the nobles of Judah, and said unto them, What evil thing is this that ye do, and profane the sabbath day? Did not your fathers thus, and did not our God bring all this evil upon us, and upon this city? yet ye bring more wrath upon Israel by profaning the sabbath. And it came to pass, that when the gates of Jerusalem began to be dark before the sabbath, I commanded that the gates should be shut, and charged that they should not be opened till after the sabbath: and some of my servants set I at the gates, that there should no burden be brought in on the sabbath day. So the merchants and sellers of all kind of ware lodged without Jerusalem once or twice. Then I testified against them, and said unto them, Why lodge ye about the wall? if ye do so again, I will lay hands on you. From that time forth came they no more on the sabbath. And I commanded the Levites that they should cleanse themselves, and that they should come and keep the gates, to sanctify the sabbath day. Remember me, O my God, concerning this also, and spare me according to the greatness of thy mercy. (Neh. 13:15-22, KJV)
 
 #### (e) Neh. 13:23-31, - the importance of proper marriages for the people of God, fulfillment of destiny, ideology and value system, the importance of proper upbringing of descendants
@@ -96,24 +96,24 @@
 
 ## 5) The importance of understanding the meaning of the books of Ezra, Esther, Nehemiah for the people of God in the New Testament
 
-### (1) The importance of the conquest of Canaan, the importance of rebuilding the Altar, the Temple, and Jerusalem – knowledge and transmission of the Word of God, the Covenants, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ
+### (1) The importance of the conquest of Canaan, the importance of rebuilding the Altar, the Temple, and Jerusalem – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, and preparation for the coming of Christ
 
 ### (2) Canaan in N.Z. – the whole world, the importance of local Churches to the ends of the earth, Worldwide Evangelization, fulfillment of destiny
 
-### (3) The Altar and Sacrifice in N.Z. – the importance of understanding Jesus Christ and His Sacrifice on the Cross of Calvary, the importance of properly understanding the Word of God, the Covenant, and Christ for man
+### (3) The Altar and Sacrifice in N.Z. – the importance of understanding Jesus Christ and His Sacrifice on the Cross of Calvary, the importance of a proper understanding of the Word of God, the Covenant, and Christ for man
 
 ### (4) The Temple and Jerusalem in N.Z. – the house of prayer, the local Churches, the central place of God's faith, the self-awareness of God's people, the importance of fulfilling the destiny
 
 ### (5) The Walls of Jerusalem in N.Z. – spiritual warfare, protection of the faith of God, the importance of proper Liturgy in N.Z. Acts 2:42
 > And they continued stedfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers. (Acts 2:42, KJV)
 
-### (6) The Book of Esther in N.Z. – understanding the unchanging actions of Satan, the attempt to destroy the people of God, stopping the knowledge and transmission of the Word of God, the Covenant, Christ (God's sovereignty and control)
+### (6) The Book of Esther in N.Z. – understanding the unchanging work of Satan, an attempt to destroy the people of God, stopping the knowledge and transmission of the Word of God, the Covenant, Christ (God's sovereignty and control)
 
 ## Conclusion:
 
-### (1) The importance of Understanding God's Sovereignty and Control – rebuilding the Temple and Jerusalem, fulfilling God's Word Dan. 9:25
+### (1) The importance of understanding God's Sovereignty and Control – rebuilding the Temple and Jerusalem, fulfilling God's Word Dan. 9:25
 > Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times. (Dan. 9:25, KJV)
 
-### (2) Nehemiah – fulfilling the destiny of God's people, affirming and transmitting the Word of God, the Covenant, Christ, the walls of Jerusalem
+### (2) Nehemiah is the fulfillment of the destiny of the people of God, the affirmation and transmission of the Word of God, the Covenant, Christ, and the walls of Jerusalem
 
-### (3) The action of Satan is to stop the transmission of the Word of God, the Covenant, Christ, World Evangelization
+### (3) Satan's action is to stop the transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization

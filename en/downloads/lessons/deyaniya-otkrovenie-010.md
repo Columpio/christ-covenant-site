@@ -1,11 +1,11 @@
 # 9. Acts 15, - The Apostolic Council in Jerusalem, initiated by the Apostle Paul, A.D. 50
 
-## 1) Acts 15, - the statement of the Word of God (Apostolic Council, A.D. 50)
+## 1) Acts 15, - the affirmation of the Word of God (Apostolic Council, A.D. 50)
 
-### (1) Acts 15:1-5, - non-acceptance of the Word of God, the Covenant, Christ
+### (1) Acts 15:1-5, - rejection of the Word of God, the Covenant, and Christ
 > And certain men which came down from Judæa taught the brethren, and said, Except ye be circumcised after the manner of Moses, ye cannot be saved. When therefore Paul and Barnabas had no small dissension and disputation with them, they determined that Paul and Barnabas, and certain other of them, should go up to Jerusalem unto the apostles and elders about this question. And being brought on their way by the church, they passed through Phenice and Samaria, declaring the conversion of the Gentiles: and they caused great joy unto all the brethren. And when they were come to Jerusalem, they were received of the church, and of the apostles and elders, and they declared all things that God had done with them. But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command them to keep the law of Moses. (Acts 15:1-5, KJV)
 
-#### (a) Acts 15:1, - rejection and distortion of the Word of God, the Covenant, Christ, the mixed gospel, false teachers and false teaching, the action of Satan Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
+#### (a) Acts 15:1, - rejection and distortion of the Word of God, the Covenant, Christ, mixed gospel, false teachers and false teaching, the work of Satan Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21, Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
 > And certain men which came down from Judæa taught the brethren, and said, Except ye be circumcised after the manner of Moses, ye cannot be saved. (Acts 15:1, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -22,10 +22,10 @@
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-#### (b) False disciples, false teaching (Pharisees' heresy) - religion, mixed gospel, circumcision as a condition for salvation, distortion of the Word of God, the Covenant, Christ Gal. 5:4
+#### (b) False disciples, false teaching (Pharisaic heresy) – religion, mixed gospel, circumcision as a condition for salvation, distortion of the Word of God, the Covenant, Christ Gal. 5:4
 > Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace. (Gal. 5:4, KJV)
 
-#### (c) Circumcision V.Z. and Water Baptism were never God's condition for man's salvation, the importance of faith in God (Accepting Christ as God and accepting His Sacrifice)
+#### (c) V.Z. Circumcision and Water Baptism have never been God's condition for human salvation, the importance of God's faith (Accepting Christ as God and accepting His Sacrifice)
 
 #### (d) The importance of understanding the change from V.Z. circumcision to N.Z. Circumcision – The Water Cross, God's Sovereignty and Control. Col. 2:11-13
 > In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ: Buried with him in baptism, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead. And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses; (Col. 2:11-13, KJV)
@@ -34,12 +34,12 @@
 
 ### (2) Central First Apostolic Churches
 
-#### (a) Jerusalem Church – Peter, James. Acts 11:2; 15:1,Gal. 2:11. (Inaccurate understanding of the Word of God, the Covenant, Christ – the Law, Jews)
+#### (a) The Jerusalem Church – Peter, James. Acts 11:2; 15:1,Gal. 2:11. (Inaccurate understanding of the Word of God, the Covenant, Christ – the Law, Jews)
 > And when Peter was come up to Jerusalem, they that were of the circumcision contended with him, (Acts 11:2, KJV)
 > And certain men which came down from Judæa taught the brethren, and said, Except ye be circumcised after the manner of Moses, ye cannot be saved. (Acts 15:1, KJV)
 > But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed. (Gal. 2:11, KJV)
 
-#### (b) The Church of Antioch – Barnabas, Paul. (Accurate understanding of the Word of God, the Covenant, Christ is the Good News, the Gentiles)
+#### (b) The Church of Antioch – Barnabas, Paul. (Accurate understanding of the Word of God, the Covenant, Christ – Good News, Gentiles)
 
 ### (3) Acts 15:2-5, - the importance of fulfilling the purpose
 > When therefore Paul and Barnabas had no small dissension and disputation with them, they determined that Paul and Barnabas, and certain other of them, should go up to Jerusalem unto the apostles and elders about this question. And being brought on their way by the church, they passed through Phenice and Samaria, declaring the conversion of the Gentiles: and they caused great joy unto all the brethren. And when they were come to Jerusalem, they were received of the church, and of the apostles and elders, and they declared all things that God had done with them. But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command them to keep the law of Moses. (Acts 15:2-5, KJV)
@@ -82,7 +82,7 @@
 ### (10) 48 A.D. – visit to the Ap. Peter of the Antiochian Church, the chastisement of Ap. By Paul in relation to the Gentiles (Gal. 2:11-14)
 > But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed. For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision. And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation. But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews? (Gal. 2:11-14, KJV)
 
-### (11) 48 A.D. – Epistle of Ap. St. Paul's Galatians, the affirmation of the Word of God, the Covenant, Christ, the importance of accepting the Sacrifice and the Feat of Christ. (False teachers, affirmation of the "mixed gospel" in Galatian Churches, circumcision as a condition for salvation)
+### (11) 48 A.D. – Epistle of Ap. St. Paul's Galatians, the affirmation of the Word of God, the Covenant, Christ, the importance of accepting the Sacrifice and Asceticism of Christ. (False teachers, affirmation of the "mixed gospel" in Galatian Churches, circumcision as a condition for salvation)
 
 ### (12) A.D. 50 – Apostolic Council in Jerusalem (Acts 15)
 
@@ -91,7 +91,7 @@
 ### (1) Acts 15:6-12, - statement of the Word of God, the Covenant, Christ, Peter's speech
 > And the apostles and elders came together for to consider of this matter. And when there had been much disputing, Peter rose up, and said unto them, Men and brethren, ye know how that a good while ago God made choice among us, that the Gentiles by my mouth should hear the word of the gospel, and believe. And God, which knoweth the hearts, bare them witness, giving them the Holy Ghost, even as he did unto us; And put no difference between us and them, purifying their hearts by faith. Now therefore why tempt ye God, to put a yoke upon the neck of the disciples, which neither our fathers nor we were able to bear? But we believe that through the grace of the Lord Jesus Christ we shall be saved, even as they. Then all the multitude kept silence, and gave audience to Barnabas and Paul, declaring what miracles and wonders God had wrought among the Gentiles by them. (Acts 15:6-12, KJV)
 
-#### (a) Acts 15:7-11, - affirmation of the destiny of the people of God, the importance of transmitting the Word of God, the Covenant, Christ, World Evangelization, pagans, the importance of faith and the grace of God for the salvation of every human being
+#### (a) Acts 15:7-11, - affirmation of the destiny of the people of God, the importance of transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, pagans, the importance of faith and the grace of God for the salvation of every human being
 > And when there had been much disputing, Peter rose up, and said unto them, Men and brethren, ye know how that a good while ago God made choice among us, that the Gentiles by my mouth should hear the word of the gospel, and believe. And God, which knoweth the hearts, bare them witness, giving them the Holy Ghost, even as he did unto us; And put no difference between us and them, purifying their hearts by faith. Now therefore why tempt ye God, to put a yoke upon the neck of the disciples, which neither our fathers nor we were able to bear? But we believe that through the grace of the Lord Jesus Christ we shall be saved, even as they. (Acts 15:7-11, KJV)
 
 #### (b) Acts 15:10, - the impossibility of salvation through the fulfillment of the Law, the faith and understanding of the Apostle Peter
@@ -107,7 +107,7 @@
 > Then all the multitude kept silence, and gave audience to Barnabas and Paul, declaring what miracles and wonders God had wrought among the Gentiles by them. (Acts 15:12, KJV)
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 
-### (2) Acts 15:13-18, - affirmation of the Word of God, the Covenant, Christ, the speech of Jacob, understanding God's plan for the salvation of the Gentiles, the importance of understanding the meaning of the Tabernacle of David. (2 Sam. 6:17,1 Chr. 15-17)
+### (2) Acts 15:13-18, - the affirmation of the Word of God, the Covenant, Christ, the speech of Jacob, the understanding of God's plan for the salvation of the Gentiles, the importance of understanding the meaning of the Tabernacle of David. (2 Sam. 6:17,1 Chr. 15-17)
 > And after they had held their peace, James answered, saying, Men and brethren, hearken unto me: Simeon hath declared how God at the first did visit the Gentiles, to take out of them a people for his name. And to this agree the words of the prophets; as it is written, After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins thereof, and I will set it up: That the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called, saith the Lord, who doeth all these things. Known unto God are all his works from the beginning of the world. (Acts 15:13-18, KJV)
 > And they brought in the ark of the LORD, and set it in his place, in the midst of the tabernacle that David had pitched for it: and David offered burnt offerings and peace offerings before the LORD. (2 Sam. 6:17, KJV)
 
@@ -115,7 +115,7 @@
 
 #### (b) The Tabernacle of David – Jerusalem (Assaf, 40 years old). (The absence of a veil between the Ark and the people, the free entry of any person into the presence of God – status, race, gender)
 
-#### (c) The prototype of the actual execution of the sentence is the Word of God, free entry into the Central Church and eternity with God. Matt. 27:51. (David's Actions – Revelation of the Holy Spirit, V.Z. Theology)
+#### (c) The prototype of the actual execution of the sentence of the Word of God, free entry into the Church and eternity with God. Matt. 27:51. (David's actions are the revelation of the Holy Spirit, V.Z. Theology)
 > And, behold, the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent; (Matt. 27:51, KJV)
 
 #### (d) V.Z. – the closed entrance to the Central Church, the bosom of Abraham, the absence of the actual execution of the sentence of the Word of God Luke 16:23,Gen. 37:35
@@ -125,7 +125,7 @@
 #### (e) Jesus Christ is the restored Tabernacle of David. Amos 9:11. (Many believers' misunderstanding of the true meaning and essence of the Tabernacle of David, attempts to build visible buildings)
 > In that day will I raise up the tabernacle of David that is fallen, and close up the breaches thereof; and I will raise up his ruins, and I will build it as in the days of old: (Amos 9:11, KJV)
 
-### (3) Acts 15:19-20, - affirmation of the Word of God, the Covenant, Christ
+### (3) Acts 15:19-20, is the affirmation of the Word of God, the Covenant, and Christ
 > Wherefore my sentence is, that we trouble not them, which from among the Gentiles are turned to God: But that we write unto them, that they abstain from pollutions of idols, and from fornication, and from things strangled, and from blood. (Acts 15:19-20, KJV)
 
 #### (a) Prohibition of idolatry
@@ -154,11 +154,11 @@
 ## 4) Acts 15:22-31, - conclusion of the Ap. The Cathedral in Jerusalem
 > Then pleased it the apostles and elders, with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas; namely, Judas surnamed Barsabas, and Silas, chief men among the brethren: And they wrote letters by them after this manner; The apostles and elders and brethren send greeting unto the brethren which are of the Gentiles in Antioch and Syria and Cilicia: Forasmuch as we have heard, that certain which went out from us have troubled you with words, subverting your souls, saying, Ye must be circumcised, and keep the law: to whom we gave no such commandment: It seemed good unto us, being assembled with one accord, to send chosen men unto you with our beloved Barnabas and Paul, Men that have hazarded their lives for the name of our Lord Jesus Christ. We have sent therefore Judas and Silas, who shall also tell you the same things by mouth. For it seemed good to the Holy Ghost, and to us, to lay upon you no greater burden than these necessary things; That ye abstain from meats offered to idols, and from blood, and from things strangled, and from fornication: from which if ye keep yourselves, ye shall do well. Fare ye well. So when they were dismissed, they came to Antioch: and when they had gathered the multitude together, they delivered the epistle: Which when they had read, they rejoiced for the consolation. (Acts 15:22-31, KJV)
 
-### (1) The condemnation of legalism as a condition for salvation, the importance of accepting the Word of God, the Covenant, Christ (the oneness of Christ)
+### (1) The condemnation of legalism as a condition for salvation, the importance of accepting the Word of God, the Covenant, and Christ (the oneness of Christ)
 
 ### (2) The rule for ecclesiastical pagans is to abstain from fornication, idolatry, and strangulation, and not to act with others as you do not wish for yourself.
 
-### (3) Understanding the Law – the right way of life, serving God (The abolition of the Liturgical and social-legal law, the tightening of the Decalogue – God's institution of the N.Z.)
+### (3) Understanding the Law – the right way of life, service to God (The abolition of the Liturgical and social-legal law, the tightening of the Decalogue – God's decree of N.Z.)
 
 ## 5) Acts 15:32-35, - the importance of fulfilling the destiny of the people of God, the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization
 > And Judas and Silas, being prophets also themselves, exhorted the brethren with many words, and confirmed them. And after they had tarried there a space, they were let go in peace from the brethren unto the apostles. Notwithstanding it pleased Silas to abide there still. Paul also and Barnabas continued in Antioch, teaching and preaching the word of the Lord, with many others also. (Acts 15:32-35, KJV)
@@ -171,7 +171,7 @@
 
 ## Conclusion:
 
-### (1) The importance of learning, understanding, and fulfilling a mission. (Knowledge, transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, the coming of Christ)
+### (1) The importance of learning, understanding, and fulfilling a mission. (Knowledge, transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, the coming of Christ)
 
 ### (2) The importance of purity of teaching, understanding the work of Satan
 

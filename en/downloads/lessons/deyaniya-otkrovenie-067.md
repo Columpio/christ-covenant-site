@@ -1,7 +1,7 @@
 # 15. 1 Cor. 13: Understanding the love of God
-- Love – responsibility and indifference
-- God's Love (agape) – unconditional and boundless love
-- God's love is the love of parents for children (close comparison)
+- Love is responsibility and caring
+- The Love of God (agape) is unconditional and boundless love
+- The love of God is the love of parents for children (close comparison)
 
 #### (a) The human understanding of love – feelings and emotions
 
@@ -20,9 +20,9 @@
 #### (a) Love is the essence and nature of God. 1 John 4:10
 > Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins. (1 John 4:10, KJV)
 
-#### (b) Proclaiming the Word of God, the Covenant, Christ – proclaiming the love of God. (The Divinity of Christ and all the answers for man in Christ)
+#### (b) Proclaiming the Word of God, the Covenant, and Christ – proclaiming the love of God. (The Divinity of Christ and all the answers for man in Christ)
 
-#### (c) Acceptance, knowledge and transmission of the Word of God, the Covenant, Christ – acceptance, abiding and transmission of the love of God (Emmanuel)
+#### (c) Accepting, knowing, and transmitting the Word of God, the Covenant, and Christ –accepting, abiding, and transmitting the love of God (Emmanuel)
 
 #### (d) The will of God for man is eternal abiding in the love of God (God is the source of God's love, man is the guide)
 
@@ -34,21 +34,21 @@
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 > Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience: (Eph. 2:2, KJV)
 
-#### (a) S. – God is the source of love's resistance
+#### (a) S. is a source of resistance to God's love
 
-#### (b) Non–acceptance of the Word of God, the Covenant, Christ - non-acceptance and life outside the love of God (state of sin and death)
+#### (b) Non–acceptance of the Word of God, the Covenant, and Christ - non-acceptance and living outside the love of God (a state of sin and death)
 
 ### (3) Gen. 3:15, 21, - the importance of God's love
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-#### (a) Proclaiming the Word of God, the Covenant, Christ – proclaiming the love of God. (The Divinity of Christ and the Sufficiency of His Sacrifice)
+#### (a) Proclaiming the Word of God, the Covenant, and Christ is proclaiming the love of God. (The Divinity of Christ and the Sufficiency of His Sacrifice)
 
-#### (b) Acceptance, knowledge and transmission of the Word of God, the Covenant, Christ – acceptance, abiding and transmission of the love of God (Emmanuel)
+#### (b) Acceptance, knowledge, and transmission of the Word of God, the Covenant, and Christ– acceptance, abiding, and transmission of God's love (Emmanuel)
 
 #### (c) The will of God for man is eternal abiding in the love of God (God is the source of God's love, man is the guide)
 
-#### (d) The actual proof of God's love is the execution of the sentence, the Word of God, the Sacrifice and the Feat of Christ Matt. 16:16,John 19:30, - John 3:16,1 John 4:9-10,Rom. 5:8
+#### (d) The actual proof of God's love is the fulfillment of the sentence of the Word of God, the Sacrifice and the Feat of Christ Matt. 16:16,John 19:30, - John 3:16,1 John 4:9-10,Rom. 5:8
 > And Simon Peter answered and said, Thou art the Christ, the Son of the living God. (Matt. 16:16, KJV)
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. (John 3:16, KJV)
@@ -68,7 +68,7 @@
 > Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him. He that loveth me not keepeth not my sayings: and the word which ye hear is not mine, but the Father’s which sent me. (John 14:23-24, KJV)
 > So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs. He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep. He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep. (John 21:15-17, KJV)
 
-### (2) Love for one's neighbor – acceptance, knowledge and transmission of the Word of God, the Covenant, Christ, responsibility and indifference to any person, the possibility of human salvation. Matt. 16:26. (The Divinity of Christ and the Sufficiency of His Sacrifice)
+### (2) Love for one's neighbor – acceptance, knowledge and transmission of the Word of God, the Covenant, Christ, responsibility and care for any person, the possibility of human salvation. Matt. 16:26. (The Divinity of Christ and the Sufficiency of His Sacrifice)
 > For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul? (Matt. 16:26, KJV)
 
 #### (a) The spiritual part is the acceptance, knowledge and transmission of the Word of God, the Covenant, Christ, the possibility of salvation (physical and mental things cannot solve a person's spiritual problem). Rom. 5:8
@@ -78,17 +78,17 @@
 > Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets. (Matt. 7:12, KJV)
 > Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head. (Rom. 12:20, KJV)
 
-#### (c) The physical part – right actions and actions towards people, the possibility of accepting the Word of God, the Covenant, Christ, the salvation of man
+#### (c) The physical part is the right actions and actions towards people, the possibility of accepting the Word of God, the Covenant, Christ, and human salvation
 
 ## 3) The importance of growing in the love of God, the importance of understanding the primacy of the Word of God for man
 
-### (1) Love for the Word of God, the Covenant, Christ – love for God
+### (1) Love for the Word of God, the Covenant, and Christ – love for God
 
 ### (2) Knowledge of the Word of God, of the Covenant, of Christ – knowledge of the love of God
 
-### (3) Acceptance of the Word of God, the Covenant, Christ – acceptance of the love of God
+### (3) Accepting the Word of God, the Covenant, and Christ is accepting the love of God.
 
-### (4) Transmission of the Word of God, the Covenant, Christ – transmission of the love of God
+### (4) The transmission of God's Word, Covenant, and Christ is the transmission of God's love
 
 ### (5) Knowledge and transmission of the Word of God, the Covenant, Christ, fulfillment of destiny – growth in the love of God
 
@@ -105,7 +105,7 @@
 
 ### (5) The futility of self-sacrifice without the love of God
 
-## 5) The qualities of God's love (God is an action in man)
+## 5) The qualities of God's love (God's action in man)
 
 ### (1) Long-suffering and endures everything. 1 Cor. 13:4
 > Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up, (1 Cor. 13:4, KJV)
@@ -118,52 +118,52 @@
 > Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up, (1 Cor. 13:4, KJV)
 > Beareth all things, believeth all things, hopeth all things, endureth all things. (1 Cor. 13:7, KJV)
 
-#### (a) Understanding the Word of God, the Covenant, Christ, understanding spiritual reality – the spiritual problem of man (the power of sin, death and hell, Satan)
+#### (a) Understanding the Word of God, the Covenant, Christ, understanding spiritual reality is a spiritual problem of man (the power of sin, death and hell, Satan)
 
-#### (b) Understanding God's will and the destiny of God's people – knowing and transmitting the Word of God, the Covenant, Christ, and the salvation of mankind
+#### (b) Understanding God's will and the destiny of God's people – the knowledge and transmission of God's Word, Covenant, Christ, and the salvation of mankind
 
 ### (3) Not jealous. 1 Cor. 13:4
 > Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up, (1 Cor. 13:4, KJV)
 
-#### (a) Understanding the Word of God, the Covenant, Christ, God sovereignty and control of human life (given everything necessary for life and piety)
+#### (a) Understanding of the Word of God, the Covenant, Christ, God's sovereignty and control of human life (everything necessary for life and piety is given)
 
-#### (b) The priority of life is a person's right to choose and responsibility, with an emphasis on the invisible and eternal. Matt. 16:28
+#### (b) The priority of life is human choice and responsibility, with an emphasis on the invisible and eternal. Matt. 16:28
 > Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom. (Matt. 16:28, KJV)
 
 ### (4) Do not be arrogant or proud. 1 Cor. 13:4
 > Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up, (1 Cor. 13:4, KJV)
 
-#### (a) Understanding the Word of God, the Covenant, Christ – the Lordship of God, man's complete dependence on the Creator (the life and ministry of God's people)
+#### (a) Understanding the Word of God, the Covenant, and Christ – God's Dominion, man's complete dependence on the Creator (the life and ministry of God's people)
 
-#### (b) Understanding the work of Satan – vanity, excessive deification of creation, complete opposition to the Word of God
+#### (b) Understanding Satan's actions – vanity, excessive deification of creation, complete opposition to the Word of God
 
 ### (5) Does not rampage. 1 Cor. 13:5
 > Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil; (1 Cor. 13:5, KJV)
 
-#### (a) Understanding the Word of God, the Covenant, Christ, understanding the purpose of the people of God – knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, the importance of living a right life
+#### (a) Understanding the Word of God, the Covenant, Christ, understanding the purpose of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the importance of the right life
 
 #### (b) The importance of being born again (salvation) – a new creation, the death of the old nature, the constant process of sanctification
 
 ### (6) Not looking for his own. 1 Cor. 13:5
 > Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil; (1 Cor. 13:5, KJV)
 
-#### (a) Understanding the Word of God, the Covenant, Christ – life in the will of God, the best for man (Creator and Father)
+#### (a) Understanding the Word of God, the Covenant, and Christ is living in the will of God, the best thing for man (Creator and Father)
 
-#### (b) Understanding the actions of Satan – resisting the will of God, "his vision and understanding," problems and destruction for man
+#### (b) Understanding the actions of Satan – resisting the will of God, "one's own vision and understanding," problems and destruction for man
 
 ### (7) Does not get irritated. 1 Cor. 13:5
 > Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil; (1 Cor. 13:5, KJV)
 
-#### (a) Understanding the Word of God, the Covenant, Christ, understanding the purpose of the people of God – knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, the importance of living a right life
+#### (a) Understanding the Word of God, the Covenant, Christ, understanding the purpose of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the importance of the right life
 
 #### (b) The importance of being born again (salvation) – a new creation, the death of the old nature, the constant process of sanctification
 
 ### (8) He does not think evil and does not rejoice in unrighteousness, but rejoices with the truth. 1 Cor. 13:5-6
 > Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil; Rejoiceth not in iniquity, but rejoiceth in the truth; (1 Cor. 13:5-6, KJV)
 
-#### (a) Understanding the Word of God, the Covenant, Christ, understanding the purpose of the people of God – knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization, the importance of living a right life
+#### (a) Understanding the Word of God, the Covenant, Christ, understanding the purpose of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization, the importance of the right life
 
-#### (b) Understanding the actions of Satan – non-acceptance of the Word of God, the Covenant, Christ, lies
+#### (b) Understanding Satan's actions – not accepting the Word of God, the Covenant, Christ, lying
 - ("Their plans", the desire to be visible by any means)
 
 ### (9) He believes everything and hopes everything. 1 Cor. 13:7
@@ -171,12 +171,12 @@
 
 #### (a) The importance of understanding the Word of God, the Covenant, Christ – God's sovereignty and control, complete trust in God and His Word
 
-#### (b) Understanding the actions of Satan – resisting the Word of God, the Covenant, Christ, another word, lack of clear answers and understanding of eternity, fear
+#### (b) Understanding Satan's actions – resisting the Word of God, the Covenant, Christ, another word, lack of clear answers and understanding of eternity, fear
 
 ### (10) Never stops. 1 Cor. 13:8-13
 > Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away. For we know in part, and we prophesy in part. But when that which is perfect is come, then that which is in part shall be done away. When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things. For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known. And now abideth faith, hope, charity, these three; but the greatest of these is charity. (1 Cor. 13:8-13, KJV)
 
-#### (a) The importance of understanding the Word of God, the Covenant, Christ – eternal Communion with God and Knowledge of God (the abolition of the universe – the abolition of gifts)
+#### (a) The importance of understanding the Word of God, the Covenant, and Christ – eternal Communion with God and Knowledge of God (the abolition of the universe – the abolition of gifts)
 
 #### (b) The importance of understanding and fulfilling destiny – understanding the life of the future age, the continuation of creation
 
@@ -184,12 +184,12 @@
 
 ### (1) The Importance of Understanding the Love of God – Christ
 
-### (2) The importance of loving God and Neighbor – knowing and transmitting the Word of God, the Covenant, Christ
+### (2) The importance of loving God and one's neighbor is the knowledge and transmission of the Word of God, the Covenant, and Christ
 
-### (3) The Importance of Growing in the love of God – the importance of knowing and transmitting the Word of God, the Covenant, Christ
+### (3) The Importance of Growing in the love of God – the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
 ### (4) The importance of understanding the futility of service and gifts without the love of God (knowledge and transmission of the Word of God, the Covenant, Christ)
 
-### (5) The importance of understanding the qualities and manifestations of God's love in man
+### (5) The importance of understanding the qualities and manifestation of God's love in man
 
 ### (6) The importance of understanding examples of love for God and man – Christ and the Apostles (examples of life)

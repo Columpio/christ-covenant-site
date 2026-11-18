@@ -1,8 +1,8 @@
-# 1 Cor. 16: Baptism of the Holy Spirit Salvation is the Holy Spirit in man.
-## 19.1) 1 Cor. 15:35-41, - the importance of understanding the Word of God, the Covenant, Christ
+# 1 Cor. 16: The Baptism of the Holy Spirit Salvation is the Holy Spirit in man.
+## 19.1) 1 Cor. 15:35-41, - the importance of understanding the Word of God, the Covenant, and Christ
 > But some man will say, How are the dead raised up? and with what body do they come? Thou fool, that which thou sowest is not quickened, except it die: And that which thou sowest, thou sowest not that body that shall be, but bare grain, it may chance of wheat, or of some other grain: But God giveth it a body as it hath pleased him, and to every seed his own body. All flesh is not the same flesh: but there is one kind of flesh of men, another flesh of beasts, another of fishes, and another of birds. There are also celestial bodies, and bodies terrestrial: but the glory of the celestial is one, and the glory of the terrestrial is another. There is one glory of the sun, and another glory of the moon, and another glory of the stars: for one star differeth from another star in glory. (1 Cor. 15:35-41, KJV)
 
-### (1) 1 Cor. 15:35, - the importance of the Word of God, the Covenant, Christ for man, salvation and rebirth, the importance of the resurrection.1 Cor. 2:14. (The problem of non-acceptance of the teaching of the Word of God on the resurrection of the dead) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
+### (1) 1 Cor. 15:35, - the importance of the Word of God, the Covenant, and Christ for man, salvation and rebirth, and the importance of the resurrection.1 Cor. 2:14. (The problem of non-acceptance of the teaching of the Word of God on the resurrection of the dead) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
 > But some man will say, How are the dead raised up? and with what body do they come? (1 Cor. 15:35, KJV)
 > But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned. (1 Cor. 2:14, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
@@ -29,7 +29,7 @@
 
 #### (c) the 2nd coming of Christ, the resurrection from the dead – a new body, the complete restoration of the human trimeria (spirit, soul and body), the completion of the salvation process, eternity with God
 
-### (3) 1 Cor. 15:36, - the importance of understanding the Word of God, the Covenant, Christ, the execution of the sentence of the Word of God (the human body) Gen. 3:19
+### (3) 1 Cor. 15:36, - the importance of understanding the Word of God, the Covenant, Christ, and fulfilling the sentence of the Word of God (the human body) Gen. 3:19
 > Thou fool, that which thou sowest is not quickened, except it die: (1 Cor. 15:36, KJV)
 > In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return. (Gen. 3:19, KJV)
 
@@ -52,7 +52,7 @@
 
 #### (b) Resurrection in a new body, incorruptible, in glory and power
 
-### (2) 1 Cor. 15:44-45, - affirmation of the Word of God, the Covenant, Christ
+### (2) 1 Cor. 15:44-45, is the affirmation of the Word of God, the Covenant, and Christ
 > It is sown a natural body; it is raised a spiritual body. There is a natural body, and there is a spiritual body. And so it is written, The first man Adam was made a living soul; the last Adam was made a quickening spirit. (1 Cor. 15:44-45, KJV)
 
 #### (a) Death of the soul body and resurrection in the spiritual body
@@ -61,7 +61,7 @@
 
 #### (c) The spiritual body is the Creation and Restoration of man. (The Last Adam is Christ and His Resurrection from the Dead)
 
-### (3) 1 Cor. 15:46-50, - affirmation of the Word of God, the Covenant, Christ
+### (3) 1 Cor. 15:46-50, is the affirmation of the Word of God, the Covenant, and Christ
 > Howbeit that was not first which is spiritual, but that which is natural; and afterward that which is spiritual. The first man is of the earth, earthy: the second man is the Lord from heaven. As is the earthy, such are they also that are earthy: and as is the heavenly, such are they also that are heavenly. And as we have borne the image of the earthy, we shall also bear the image of the heavenly. Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption. (1 Cor. 15:46-50, KJV)
 
 #### (a) 1 Cor. 15:46-47, - the importance of understanding the Word of God, the Covenant, Christ, understanding the Fall and Restoration
@@ -70,7 +70,7 @@
 #### (b) 1 Cor. 15:48-50, - the importance of salvation and rebirth, the importance of resurrection from the dead for the people of God
 > As is the earthy, such are they also that are earthy: and as is the heavenly, such are they also that are heavenly. And as we have borne the image of the earthy, we shall also bear the image of the heavenly. Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption. (1 Cor. 15:48-50, KJV)
 
-## 3) 1 Cor. 15:51-58, - the importance of understanding the Word of God, the Covenant, Christ
+## 3) 1 Cor. 15:51-58, - the importance of understanding the Word of God, the Covenant, and Christ
 > Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed, In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed. For this corruptible must put on incorruption, and this mortal must put on immortality. So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory. O death, where is thy sting? O grave, where is thy victory? The sting of death is sin; and the strength of sin is the law. But thanks be to God, which giveth us the victory through our Lord Jesus Christ. Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord. (1 Cor. 15:51-58, KJV)
 
 ### (1) 1 Cor. 15:51-53, - the importance of understanding the mystery of the rapture of the Church of Christ and the resurrection of the people of God
@@ -78,13 +78,13 @@
 
 #### (a) Body Change – receiving a glorified body without passing through physical death, completing salvation and restoring a person to their original form
 
-#### (b) The resurrection of God's people – receiving a glorified body, completing salvation and restoring man to his original form, fulfilling the Word of God, the Covenant, Christ
+#### (b) The resurrection of God's people is the receiving of a glorified body, the completion of salvation and restoration of man to his original form, the fulfillment of the Word of God, the Covenant, and Christ
 
 #### (c) At the last trumpet - the end of the first half of the last week of the Great Tribulation. Rev. 10:5-7; 11:15
 > And the angel which I saw stand upon the sea and upon the earth lifted up his hand to heaven, And sware by him that liveth for ever and ever, who created heaven, and the things that therein are, and the earth, and the things that therein are, and the sea, and the things which are therein, that there should be time no longer: But in the days of the voice of the seventh angel, when he shall begin to sound, the mystery of God should be finished, as he hath declared to his servants the prophets. (Rev. 10:5-7, KJV)
 > And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become the kingdoms of our Lord, and of his Christ; and he shall reign for ever and ever. (Rev. 11:15, KJV)
 
-### (2) 1 Cor. 15:54-56, - the importance of understanding the Word of God, the Covenant, Christ
+### (2) 1 Cor. 15:54-56, - the importance of understanding the Word of God, the Covenant, and Christ
 > So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory. O death, where is thy sting? O grave, where is thy victory? The sting of death is sin; and the strength of sin is the law. (1 Cor. 15:54-56, KJV)
 
 #### (a) 1 Cor. 15:54-55, - the inevitable fulfillment of the Word of God, the Covenant, Christ, the solution to the problem of sin, death and hell, Satan
@@ -107,23 +107,23 @@
 > For all have sinned, and come short of the glory of God; (Rom. 3:23, KJV)
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
-#### (b) Solving the problem of sin – past, present, and future (execution of the sentence of the Word of God, the triumph of God's justice), the impossibility of imputing sin to the people of God. Rom. 4:6-8. (Lawful deprivation of the power of death and hell over the people of God)
+#### (b) The solution to the problem of sin – past, present, and future (the fulfillment of the sentence of the Word of God, the triumph of God's justice), the impossibility of imputing sin to the people of God. Rom. 4:6-8. (The lawful deprivation of the power of death and hell over the people of God)
 > Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works, Saying, Blessed are they whose iniquities are forgiven, and whose sins are covered. Blessed is the man to whom the Lord will not impute sin. (Rom. 4:6-8, KJV)
 
 #### (c) The importance of understanding and fulfilling purpose
 
 ## 4) 1 Cor. 16, - the special importance of understanding and fulfilling the purpose of God's people
 
-### (1) 1 Cor. 16:1-4, - the importance of financial service to the people of God, the accomplishment of World Evangelization, the fulfillment of destiny
+### (1) 1 Cor. 16:1-4, - the importance of financial service to the people of God, the accomplishment of Worldwide Evangelization, the fulfillment of destiny
 > Now concerning the collection for the saints, as I have given order to the churches of Galatia, even so do ye. Upon the first day of the week let every one of you lay by him in store, as God hath prospered him, that there be no gatherings when I come. And when I come, whomsoever ye shall approve by your letters, them will I send to bring your liberality unto Jerusalem. And if it be meet that I go also, they shall go with me. (1 Cor. 16:1-4, KJV)
 
-### (2) 1 Cor. 16:5-9, - the special importance of knowing and transmitting the Word of God, the Covenant, Christ, the fulfillment of World Evangelization, understanding Paul's actions
+### (2) 1 Cor. 16:5-9, - the special importance of knowing and transmitting the Word of God, the Covenant, and Christ, achieving Worldwide Evangelization, and understanding Paul's actions
 > Now I will come unto you, when I shall pass through Macedonia: for I do pass through Macedonia. And it may be that I will abide, yea, and winter with you, that ye may bring me on my journey whithersoever I go. For I will not see you now by the way; but I trust to tarry a while with you, if the Lord permit. But I will tarry at Ephesus until Pentecost. For a great door and effectual is opened unto me, and there are many adversaries. (1 Cor. 16:5-9, KJV)
 
-### (3) 1 Cor. 16:10-21, - the special importance of preparing and educating disciples, the accomplishment of Worldwide Evangelization by distance and time (Timothy, Apollos, the Stefanov family, etc.)
+### (3) 1 Cor. 16:10-21, - the special importance of training and educating students, the accomplishment of Worldwide Evangelization by distance and time (Timothy, Apollos, the Stefanov family, etc.)
 > Now if Timotheus come, see that he may be with you without fear: for he worketh the work of the Lord, as I also do. Let no man therefore despise him: but conduct him forth in peace, that he may come unto me: for I look for him with the brethren. As touching our brother Apollos, I greatly desired him to come unto you with the brethren: but his will was not at all to come at this time; but he will come when he shall have convenient time. Watch ye, stand fast in the faith, quit you like men, be strong. Let all your things be done with charity. I beseech you, brethren, (ye know the house of Stephanas, that it is the firstfruits of Achaia, and that they have addicted themselves to the ministry of the saints,) That ye submit yourselves unto such, and to every one that helpeth with us, and laboureth. I am glad of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on your part they have supplied. For they have refreshed my spirit and yours: therefore acknowledge ye them that are such. The churches of Asia salute you. Aquila and Priscilla salute you much in the Lord, with the church that is in their house. All the brethren greet you. Greet ye one another with an holy kiss. The salutation of me Paul with mine own hand. (1 Cor. 16:10-21, KJV)
 
-### (4) 1 Cor. 16:19, - the special importance of the local Churches, the knowledge and transmission of the Word of God, the Covenants, Christ, the disciples, the fulfillment of World Evangelization, the 2nd coming of Jesus Christ (fulfillment of destiny)
+### (4) 1 Cor. 16:19, - the special importance of the local Churches, the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, the accomplishment of Worldwide Evangelization, the 2nd coming of Jesus Christ (fulfillment of destiny)
 > The churches of Asia salute you. Aquila and Priscilla salute you much in the Lord, with the church that is in their house. (1 Cor. 16:19, KJV)
 
 ### (5) 1 Cor. 16:22, - non-acceptance of the Word of God, the Covenant, Christ, non-acceptance of God's love (eternal destruction, the right to choose a person)
@@ -138,6 +138,6 @@
 
 ### (2) The importance of understanding the resurrection from the dead and the life of the next age (understanding the past, present, and future)
 
-### (3) The importance of understanding the solution to all human problems through the Sacrifice of Jesus Christ (the power of sin, death and hell, Satan)
+### (3) The importance of understanding the solution of all human problems through the Sacrifice of Jesus Christ (the power of sin, death and hell, Satan)
 
 ### (4) The importance of understanding and fulfilling purpose

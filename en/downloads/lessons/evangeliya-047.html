@@ -82,7 +82,8 @@ html:not([data-bv]) blockquote[data-v=kjv],html[data-bv=kjv] blockquote[data-v=k
 .lang-full{white-space:nowrap}
 
 .hero{position:relative;display:grid;grid-template-columns:minmax(0,1fr) 17rem;gap:2rem;align-items:end;margin:.6rem 0 1.6rem}
-.hero h1{margin:0 0 .8rem;font:700 clamp(2.8rem,7vw,5.2rem)/.98 var(--uni);letter-spacing:.01em}
+.hero h1{margin:0 0 .8rem;font:700 clamp(2.3rem,5.6vw,4.4rem)/1 var(--uni);letter-spacing:.01em}
+.hero .tagline{margin:0 0 1rem;max-width:36rem;font:400 clamp(1.1rem,2.2vw,1.35rem)/1.45 var(--serif);color:var(--ink2)}
 .scene{position:relative;width:17rem;height:19rem;justify-self:end}
 .window{position:absolute;inset:0 1.1rem 1.1rem;overflow:hidden;border-radius:7.4rem 7.4rem 0 0;
 background:radial-gradient(circle at 68% 90%,#FFFBE8 0 1rem,rgba(255,236,170,.9) 3.2rem,rgba(255,214,150,0) 8rem),linear-gradient(180deg,#9FC2D8 0%,#F2D7B0 55%,#FFC98A 100%);
@@ -108,10 +109,6 @@ background:linear-gradient(180deg,rgba(255,240,180,.85),rgba(255,240,180,0))}
 .rays i:nth-child(3){--a:-68deg;width:10rem}
 @keyframes flicker{0%,100%{transform:translate(-50%,-92%) scale(1,1)}25%{transform:translate(-50%,-92%) scale(.9,1.1) rotate(-2deg)}55%{transform:translate(-50%,-92%) scale(1.06,.94) rotate(2deg)}80%{transform:translate(-50%,-92%) scale(.96,1.05)}}
 @keyframes glow{0%,100%{opacity:1}50%{opacity:.82}}
-.wall-lamp{position:absolute;right:1.6rem;top:-.4rem;width:5.4rem}
-.wall-lamp .lamp{position:relative;left:auto;width:100%}
-.wall-lamp img{display:block;width:100%;height:auto;filter:drop-shadow(.25rem .3rem .2rem rgba(40,25,10,.45))}
-.wall-lamp::after{content:"";position:absolute;left:-.3rem;right:-.3rem;top:100%;height:.6rem;margin-top:-.25rem;border-radius:.2rem;background:linear-gradient(#8A5A32,#4A2D18);box-shadow:0 .5rem .6rem -.3rem rgba(30,18,6,.6)}
 .jump{display:flex;flex-wrap:wrap;gap:.6rem;margin:0 0 .9rem}
 .jump a,.search{border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1.05rem var(--sans);
 background:#F7EDD0;box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
@@ -179,6 +176,8 @@ background:linear-gradient(180deg,rgba(255,252,240,.55),rgba(255,252,240,.25)),u
 .toc li::marker{color:var(--cdd);font-weight:700}
 .toc a{color:var(--ink);text-decoration:none}
 .toc a:hover{color:var(--cdd);text-decoration:underline}
+.advanced ul{padding-left:1.4rem}
+.advanced li{margin:.4rem 0}
 .btn,details.download summary{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.5rem 1.1rem;border:1.5px solid var(--wood);border-radius:.35rem;color:var(--ink);font:700 1rem/1.3 var(--sans);text-decoration:none;cursor:pointer;
 background:linear-gradient(rgba(255,250,235,.55),rgba(255,250,235,.3)),url(img/parchment.webp) var(--parch);box-shadow:0 .15rem 0 rgba(63,38,20,.5)}
 .btn:hover,details.download summary:hover{background-color:#F6E9C2}
@@ -211,7 +210,10 @@ body.plain::before{display:none}
 body.plain main{margin:0 auto;padding:2rem 1.25rem;background:none;box-shadow:none}
 body.plain main::before{display:none}
 
-@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays,.wall-lamp{display:none}}
+.hero .about{margin:0 0 1rem}
+.hero .about a{color:var(--cdd);font:700 1.05rem var(--sans);text-underline-offset:3px}
+
+@media(max-width:900px){.hero{grid-template-columns:1fr}.scene,.rays{display:none}}
 @media(max-width:1180px){main.wide{border-inline-width:.5rem;padding-inline:1.25rem}}
 @media(max-width:640px){
 body{font-size:1.12rem}
@@ -231,10 +233,10 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 .scrolls a::before{left:-.55rem}.scrolls a::after{right:-.55rem}
 .scrolls .count{min-width:1.7rem;height:1.7rem;font-size:.85rem}
 .book-head{padding:1.1rem;gap:.9rem}.book-head .emblem{width:3.1rem;height:3.1rem}}
-@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary{padding-inline:.8rem}}
+@media(max-width:420px){.tools{gap:.35rem}.tools .lang,.bv-select{padding:0 .5rem}details.download summary,.tools .copy{padding-inline:.8rem}}
 @media(max-height:500px){header.top{position:static}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
-@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.wall-lamp,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
+@media print{body{background:#fff}body::before{display:none}.lang-full,header.top,.pager,.float,.toc,.skip,.search,.jump,.scene,.rays,.credits{display:none}main{max-width:none;padding:0;margin:0;background:none;box-shadow:none}main::before{display:none}blockquote{break-inside:avoid;background:none;border-left:2px solid #000;box-shadow:none}h2,h3,h4{break-after:avoid}}
 </style>
 </head>
 <body class="plain">
@@ -244,12 +246,12 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee: As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him. And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent. I have glorified thee on the earth: I have finished the work which thou gavest me to do. And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was. I have manifested thy name unto the men which thou gavest me out of the world: thine they were, and thou gavest them me; and they have kept thy word. Now they have known that all things whatsoever thou hast given me are of thee. For I have given unto them the words which thou gavest me; and they have received them, and have known surely that I came out from thee, and they have believed that thou didst send me. I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine. And all mine are thine, and thine are mine; and I am glorified in them.</p><cite>John 17:1-10 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>When Jesus had spoken these things, He lifted up His eyes to heaven and said, “Father, the hour has come. Glorify Your Son, that Your Son may glorify You. For You granted Him authority over all people, so that He may give eternal life to all those You have given Him. Now this is eternal life, that they may know You, the only true God, and Jesus Christ, whom You have sent. I have glorified You on earth by accomplishing the work You gave Me to do. And now, Father, glorify Me in Your presence with the glory I had with You before the world existed. I have revealed Your name to those You have given Me out of the world. They were Yours; You gave them to Me, and they have kept Your word. Now they know that everything You have given Me comes from You. For I have given them the words You gave Me, and they have received them. They knew with certainty that I came from You, and they believed that You sent Me. I ask on their behalf. I do not ask on behalf of the world, but on behalf of those You have given Me; for they are Yours. All I have is Yours, and all You have is Mine; and in them I have been glorified.</p><cite>John 17:1-10 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Jesus said these things, then lifting up his eyes to heaven, he said, “Father, the time has come. Glorify your Son, that your Son may also glorify you; even as you gave him authority over all flesh, so he will give eternal life to all whom you have given him. This is eternal life, that they should know you, the only true God, and him whom you sent, Jesus Christ. I glorified you on the earth. I have accomplished the work which you have given me to do. Now, Father, glorify me with your own self with the glory which I had with you before the world existed. “I revealed your name to the people whom you have given me out of the world. They were yours, and you have given them to me. They have kept your word. Now they have known that all things whatever you have given me are from you, for the words which you have given me I have given to them; and they received them, and knew for sure that I came from you. They have believed that you sent me. I pray for them. I don’t pray for the world, but for those whom you have given me, for they are yours. All things that are mine are yours, and yours are mine, and I am glorified in them.</p><cite>John 17:1-10 · WEB</cite></blockquote>
-<h3>(1) John 17:1, - the importance of understanding the Word of God, the Covenant, Christ</h3>
+<h3>(1) John 17:1, - the importance of understanding the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:</p><cite>John 17:1 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>When Jesus had spoken these things, He lifted up His eyes to heaven and said, “Father, the hour has come. Glorify Your Son, that Your Son may glorify You.</p><cite>John 17:1 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Jesus said these things, then lifting up his eyes to heaven, he said, “Father, the time has come. Glorify your Son, that your Son may also glorify you;</p><cite>John 17:1 · WEB</cite></blockquote>
 <h4>(a) To glorify – to make known</h4>
-<h4>(b) Glorification – God is action, God is sovereignty, sign. time</h4>
+<h4>(b) Glorification is God's action, God's sovereignty, and a sign. time</h4>
 <h4>(c) The glorification of Christ and God – the knowledge of Christ and God, the understanding of God's will, the Sacrifice and the Feat of Christ</h4>
 <h3>(2) John 17:2-3, - the importance of understanding and fulfilling the purpose. (The essence of man's eternal life is the knowledge and glorification of God) Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21</h3>
 <blockquote data-v="kjv"><p>As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him. And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.</p><cite>John 17:2-3 · KJV</cite></blockquote>
@@ -311,11 +313,11 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;</p><cite>Titus 2:13 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>as we await the blessed hope and glorious appearance of our great God and Savior Jesus Christ.</p><cite>Titus 2:13 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>looking for the blessed hope and appearing of the glory of our great God and Savior, Jesus Christ,</p><cite>Titus 2:13 · WEB</cite></blockquote>
-<h3>(3) John 17:4, - affirmation of the Word of God, the Covenant, Christ, fulfillment of the predestined</h3>
+<h3>(3) John 17:4, - the affirmation of the Word of God, the Covenant, of Christ, the fulfillment of the predestined</h3>
 <blockquote data-v="kjv"><p>I have glorified thee on the earth: I have finished the work which thou gavest me to do.</p><cite>John 17:4 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>I have glorified You on earth by accomplishing the work You gave Me to do.</p><cite>John 17:4 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I glorified you on the earth. I have accomplished the work which you have given me to do.</p><cite>John 17:4 · WEB</cite></blockquote>
-<h4>(a) Establishment and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization</h4>
+<h4>(a) The affirmation and transmission of the Word of God, the Covenant, Christ, the Disciples, and Worldwide Evangelization</h4>
 <h4>(b) The execution of the sentence of the Word of God, the redemption of mankind</h4>
 <h3>(4) John 17:5, - the importance of understanding Jesus Christ for a person</h3>
 <blockquote data-v="kjv"><p>And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was.</p><cite>John 17:5 · KJV</cite></blockquote>
@@ -340,23 +342,23 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>I have manifested thy name unto the men which thou gavest me out of the world: thine they were, and thou gavest them me; and they have kept thy word. Now they have known that all things whatsoever thou hast given me are of thee.</p><cite>John 17:6-7 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>I have revealed Your name to those You have given Me out of the world. They were Yours; You gave them to Me, and they have kept Your word. Now they know that everything You have given Me comes from You.</p><cite>John 17:6-7 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“I revealed your name to the people whom you have given me out of the world. They were yours, and you have given them to me. They have kept your word. Now they have known that all things whatever you have given me are from you,</p><cite>John 17:6-7 · WEB</cite></blockquote>
-<h4>(a) The action of Christ, the Word of God, is to reveal the Name of God, understanding the Word of God, the Covenant, Christ, understanding the purpose</h4>
+<h4>(a) The action of Christ, the Word of God, is to reveal the Name of God, the understanding of the Word of God, the Covenant, Christ, the understanding of destiny</h4>
 <h4>(b) Understanding God's foreknowledge and election – God's knowledge and calling of his people, God's timetable of time</h4>
 <h4>(c) Understanding God's sovereignty and control</h4>
-<h3>(6) John 17:8, - the importance of understanding the destiny of the people of God</h3>
+<h3>(6) John 17:8, - the importance of understanding the destiny of God's people</h3>
 <blockquote data-v="kjv"><p>For I have given unto them the words which thou gavest me; and they have received them, and have known surely that I came out from thee, and they have believed that thou didst send me.</p><cite>John 17:8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>For I have given them the words You gave Me, and they have received them. They knew with certainty that I came from You, and they believed that You sent Me.</p><cite>John 17:8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>for the words which you have given me I have given to them; and they received them, and knew for sure that I came from you. They have believed that you sent me.</p><cite>John 17:8 · WEB</cite></blockquote>
-<h4>(a) Importance of transmitting the Word of God, the Covenant, Christ, the disciples, World Evangelism</h4>
+<h4>(a) The importance of transmitting the Word of God, the Covenant, Christ, the Disciples, and Worldwide Evangelization</h4>
 <h4>(b) The importance of accepting the Word of God, the Covenant, Christ, the importance of the disciple</h4>
-<h3>(7) John 17:9-10, - the importance of conveying the Word of God, the Covenant, Christ</h3>
+<h3>(7) John 17:9-10, - the importance of conveying the Word of God, the Covenant, and Christ</h3>
 <blockquote data-v="kjv"><p>I pray for them: I pray not for the world, but for them which thou hast given me; for they are thine. And all mine are thine, and thine are mine; and I am glorified in them.</p><cite>John 17:9-10 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>I ask on their behalf. I do not ask on behalf of the world, but on behalf of those You have given Me; for they are Yours. All I have is Yours, and all You have is Mine; and in them I have been glorified.</p><cite>John 17:9-10 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I pray for them. I don’t pray for the world, but for those whom you have given me, for they are yours. All things that are mine are yours, and yours are mine, and I am glorified in them.</p><cite>John 17:9-10 · WEB</cite></blockquote>
-<h4>(a) God's sovereignty, prayer for the disciples – the importance of knowing and transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization</h4>
+<h4>(a) God's sovereignty, prayer for the disciples – the importance of learning and transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization</h4>
 <h4>(b) The belonging of the people of God to Christ and God – the children of God, the importance of understanding the status of the people of God</h4>
 <h4>(c) Glorifying Christ and God through God's people – the importance of understanding and fulfilling destiny</h4>
-<h2 id="s2">2) John 17:11-19, - the importance of understanding the Word of God, the Covenant, Christ</h2>
+<h2 id="s2">2) John 17:11-19, - the importance of understanding the Word of God, the Covenant, and Christ</h2>
 <blockquote data-v="kjv"><p>And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we are. While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled. And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves. I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world. I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil. They are not of the world, even as I am not of the world. Sanctify them through thy truth: thy word is truth. As thou hast sent me into the world, even so have I also sent them into the world. And for their sakes I sanctify myself, that they also might be sanctified through the truth.</p><cite>John 17:11-19 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>I will no longer be in the world, but they are in the world, and I am coming to You. Holy Father, protect them by Your name, the name You gave Me, so that they may be one as We are one. While I was with them, I protected and preserved them by Your name, the name You gave Me. Not one of them has been lost, except the son of destruction, so that the Scripture would be fulfilled. But now I am coming to You; and I am saying these things while I am in the world, so that they may have My joy fulfilled within them. I have given them Your word and the world has hated them. For they are not of the world, just as I am not of the world. I am not asking that You take them out of the world, but that You keep them from the evil one. They are not of the world, just as I am not of the world. Sanctify them by the truth; Your word is truth. As You sent Me into the world, I have also sent them into the world. For them I sanctify Myself, so that they too may be sanctified by the truth.</p><cite>John 17:11-19 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I am no more in the world, but these are in the world, and I am coming to you. Holy Father, keep them through your name which you have given me, that they may be one, even as we are. While I was with them in the world, I kept them in your name. I have kept those whom you have given me. None of them is lost except the son of destruction, that the Scripture might be fulfilled. But now I come to you, and I say these things in the world, that they may have my joy made full in themselves. I have given them your word. The world hated them because they are not of the world, even as I am not of the world. I pray not that you would take them from the world, but that you would keep them from the evil one. They are not of the world, even as I am not of the world. Sanctify them in your truth. Your word is truth. As you sent me into the world, even so I have sent them into the world. For their sakes I sanctify myself, that they themselves also may be sanctified in truth.</p><cite>John 17:11-19 · WEB</cite></blockquote>
@@ -364,9 +366,9 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="kjv"><p>And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we are. While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.</p><cite>John 17:11-12 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>I will no longer be in the world, but they are in the world, and I am coming to You. Holy Father, protect them by Your name, the name You gave Me, so that they may be one as We are one. While I was with them, I protected and preserved them by Your name, the name You gave Me. Not one of them has been lost, except the son of destruction, so that the Scripture would be fulfilled.</p><cite>John 17:11-12 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I am no more in the world, but these are in the world, and I am coming to you. Holy Father, keep them through your name which you have given me, that they may be one, even as we are. While I was with them in the world, I kept them in your name. I have kept those whom you have given me. None of them is lost except the son of destruction, that the Scripture might be fulfilled.</p><cite>John 17:11-12 · WEB</cite></blockquote>
-<h4>(a) The unchanging fulfillment of the Word of God, the Covenant, Christ – the death and resurrection of Christ, the fulfillment of the sentence of the Word of God</h4>
-<h4>(b) The importance of Emmanuel – unity with God, God sovereignty</h4>
-<h4>(c) God's foreknowledge, the unfailing fulfillment of the Word of God– Judas Iscariot, the son of perdition. Ps. 41:9</h4>
+<h4>(a) The unchanging fulfillment of the Word of God, the Covenant, of Christ – the death and resurrection of Christ, the fulfillment of the sentence of the Word of God</h4>
+<h4>(b) The importance of Emmanuel – unity with God, God's sovereignty</h4>
+<h4>(c) God's foreknowledge, the unfailing fulfillment of God's Word–Judas Iscariot, the son of perdition. Ps. 41:9</h4>
 <blockquote data-v="kjv"><p>Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up his heel against me.</p><cite>Ps. 41:9 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Even my close friend whom I trusted, the one who shared my bread, has lifted up his heel against me.</p><cite>Ps. 41:9 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Yes, my own familiar friend, in whom I trusted, who ate bread with me, has lifted up his heel against me.</p><cite>Ps. 41:9 · WEB</cite></blockquote>
@@ -375,43 +377,43 @@ main:not(.wide){margin:0 auto 5rem;border-radius:0}
 <blockquote data-v="bsb"><p>But now I am coming to You; and I am saying these things while I am in the world, so that they may have My joy fulfilled within them.</p><cite>John 17:13 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But now I come to you, and I say these things in the world, that they may have my joy made full in themselves.</p><cite>John 17:13 · WEB</cite></blockquote>
 <h4>(a) Understanding and accepting Christ – forgiveness of all sins and salvation, reconciliation with God, Emmanuel and eternal life</h4>
-<h4>(b) Knowledge and transmission of the Word of God, the Covenant, Christ, the purpose of saving many people, Worldwide Evangelization, preparation for the coming of Christ</h4>
+<h4>(b) Knowledge and transmission of the Word of God, the Covenant, and Christ, the purpose of saving many people, Worldwide Evangelization, and preparation for the coming of Christ</h4>
 <h4>(c) Understanding God's sovereignty – confidence in God's guidance and victory, understanding the future</h4>
-<h3>(3) John 17:14-16, - understanding the actions of Satan</h3>
+<h3>(3) John 17:14-16, - understanding the work of Satan</h3>
 <blockquote data-v="kjv"><p>I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world. I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil. They are not of the world, even as I am not of the world.</p><cite>John 17:14-16 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>I have given them Your word and the world has hated them. For they are not of the world, just as I am not of the world. I am not asking that You take them out of the world, but that You keep them from the evil one. They are not of the world, just as I am not of the world.</p><cite>John 17:14-16 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>I have given them your word. The world hated them because they are not of the world, even as I am not of the world. I pray not that you would take them from the world, but that you would keep them from the evil one. They are not of the world, even as I am not of the world.</p><cite>John 17:14-16 · WEB</cite></blockquote>
-<h4>(a) Understanding the action of Satan - opposition to the knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, ideology of the world</h4>
+<h4>(a) Understanding the work of Satan – resisting the knowledge and transmission of the Word of God, the Covenant, Christ, World Evangelization, the ideology of peace</h4>
 <h4>(b) God's sovereignty and control – preservation from evil</h4>
-<h4>(c) The importance of salvation and rebirth – the legitimate belonging of man to God (children of God, the status of the people of God)</h4>
+<h4>(c) The importance of salvation and rebirth – the legitimate belonging of man to God (children of God, the status of God's people)</h4>
 <h3>(4) John 17:17-19, - the importance of fulfilling the purpose</h3>
 <blockquote data-v="kjv"><p>Sanctify them through thy truth: thy word is truth. As thou hast sent me into the world, even so have I also sent them into the world. And for their sakes I sanctify myself, that they also might be sanctified through the truth.</p><cite>John 17:17-19 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Sanctify them by the truth; Your word is truth. As You sent Me into the world, I have also sent them into the world. For them I sanctify Myself, so that they too may be sanctified by the truth.</p><cite>John 17:17-19 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Sanctify them in your truth. Your word is truth. As you sent me into the world, even so I have sent them into the world. For their sakes I sanctify myself, that they themselves also may be sanctified in truth.</p><cite>John 17:17-19 · WEB</cite></blockquote>
 <h4>(a) Sanctification is the will of God for the people of God, the action of God</h4>
 <h4>(b) Sanctification is only through the knowledge of the truth of the Word of God, the importance of knowing and transmitting the Word of God, the Covenant, and Christ to the people of God</h4>
-<h4>(c) The importance of understanding and fulfilling the purpose. The people of God are those sent into the world by Christ for the proclamation of the Word of God, the Covenant, Christ</h4>
+<h4>(c) The importance of understanding and fulfilling the purpose. the people of God are those sent into the world by Christ for the proclamation of the Word of God, the Covenant, and Christ</h4>
 <h4>(d) The death of Christ is a legitimate right to salvation and sanctification</h4>
 <h2 id="s3">3) John 17:20-26, - understanding the Word of God, the Covenant, Christ, understanding the will of God</h2>
 <blockquote data-v="kjv"><p>Neither pray I for these alone, but for them also which shall believe on me through their word; That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me. And the glory which thou gavest me I have given them; that they may be one, even as we are one: I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me. Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world. O righteous Father, the world hath not known thee: but I have known thee, and these have known that thou hast sent me. And I have declared unto them thy name, and will declare it: that the love wherewith thou hast loved me may be in them, and I in them.</p><cite>John 17:20-26 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>I am not asking on behalf of them alone, but also on behalf of those who will believe in Me through their message, that all of them may be one, as You, Father, are in Me, and I am in You. May they also be in Us, so that the world may believe that You sent Me. I have given them the glory You gave Me, so that they may be one as We are one— I in them and You in Me—that they may be perfectly united, so that the world may know that You sent Me and have loved them just as You have loved Me. Father, I want those You have given Me to be with Me where I am, that they may see the glory You gave Me because You loved Me before the foundation of the world. Righteous Father, although the world has not known You, I know You, and they know that You sent Me. And I have made Your name known to them and will continue to make it known, so that the love You have for Me may be in them, and I in them.”</p><cite>John 17:20-26 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“Not for these only do I pray, but for those also who will believe in me through their word, that they may all be one; even as you, Father, are in me, and I in you, that they also may be one in us; that the world may believe that you sent me. The glory which you have given me, I have given to them, that they may be one, even as we are one, I in them, and you in me, that they may be perfected into one, that the world may know that you sent me and loved them, even as you loved me. Father, I desire that they also whom you have given me be with me where I am, that they may see my glory which you have given me, for you loved me before the foundation of the world. Righteous Father, the world hasn’t known you, but I knew you; and these knew that you sent me. I made known to them your name, and will make it known; that the love with which you loved me may be in them, and I in them.”</p><cite>John 17:20-26 · WEB</cite></blockquote>
-<h3>(1) John 17:20-23, - statement of the Word of God, Covenant, Xp, understanding of the will of God</h3>
+<h3>(1) John 17:20-23, - affirmation of God's Word, Covenant, Xp, understanding of God's will</h3>
 <blockquote data-v="kjv"><p>Neither pray I for these alone, but for them also which shall believe on me through their word; That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me. And the glory which thou gavest me I have given them; that they may be one, even as we are one: I in them, and thou in me, that they may be made perfect in one; and that the world may know that thou hast sent me, and hast loved them, as thou hast loved me.</p><cite>John 17:20-23 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>I am not asking on behalf of them alone, but also on behalf of those who will believe in Me through their message, that all of them may be one, as You, Father, are in Me, and I am in You. May they also be in Us, so that the world may believe that You sent Me. I have given them the glory You gave Me, so that they may be one as We are one— I in them and You in Me—that they may be perfectly united, so that the world may know that You sent Me and have loved them just as You have loved Me.</p><cite>John 17:20-23 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>“Not for these only do I pray, but for those also who will believe in me through their word, that they may all be one; even as you, Father, are in me, and I in you, that they also may be one in us; that the world may believe that you sent me. The glory which you have given me, I have given to them, that they may be one, even as we are one, I in them, and you in me, that they may be perfected into one, that the world may know that you sent me and loved them, even as you loved me.</p><cite>John 17:20-23 · WEB</cite></blockquote>
-<h4>(a) The importance of Emmanuel – the knowledge and transmission of the Word of God, the Covenant, Christ (Christ's prayer for believers N.Z., understanding the will of God)</h4>
+<h4>(a) The importance of Emmanuel is the knowledge and transmission of the Word of God, the Covenant, and Christ (Christ's prayer for believers, understanding the will of God)</h4>
 <h4>(b) The importance of understanding the love of God for the people of God – The Sacrifice and Labor of Christ, redemption and salvation. Rom. 5:8</h4>
 <blockquote data-v="kjv"><p>But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.</p><cite>Rom. 5:8 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>But God proves His love for us in this: While we were still sinners, Christ died for us.</p><cite>Rom. 5:8 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>But God commends his own love toward us, in that while we were yet sinners, Christ died for us.</p><cite>Rom. 5:8 · WEB</cite></blockquote>
-<h3>(2) John 17:24-26, - statement of the Word of God, Covenant, Xp, understanding of the will of God</h3>
+<h3>(2) John 17:24-26, - affirmation of God's Word, Covenant, Xp, understanding of God's will</h3>
 <blockquote data-v="kjv"><p>Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world. O righteous Father, the world hath not known thee: but I have known thee, and these have known that thou hast sent me. And I have declared unto them thy name, and will declare it: that the love wherewith thou hast loved me may be in them, and I in them.</p><cite>John 17:24-26 · KJV</cite></blockquote>
 <blockquote data-v="bsb"><p>Father, I want those You have given Me to be with Me where I am, that they may see the glory You gave Me because You loved Me before the foundation of the world. Righteous Father, although the world has not known You, I know You, and they know that You sent Me. And I have made Your name known to them and will continue to make it known, so that the love You have for Me may be in them, and I in them.”</p><cite>John 17:24-26 · BSB</cite></blockquote>
 <blockquote data-v="web"><p>Father, I desire that they also whom you have given me be with me where I am, that they may see my glory which you have given me, for you loved me before the foundation of the world. Righteous Father, the world hasn’t known you, but I knew you; and these knew that you sent me. I made known to them your name, and will make it known; that the love with which you loved me may be in them, and I in them.”</p><cite>John 17:24-26 · WEB</cite></blockquote>
-<h4>(a) Eternity with Christ is God's will for the people of God</h4>
+<h4>(a) Eternity with Christ is God's will for God's people</h4>
 <h4>(b) The existence of Christ in eternity before the creation of the world</h4>
-<h4>(b) Non–acceptance of the Word of God, the Covenant, Christ, refusal to know God is sin</h4>
+<h4>(b) Not accepting the Word of God, the Covenant, Christ, and refusing to know God is a sin.</h4>
 <h4>(c) Acceptance of the Word of God, the Covenant, Christ, knowledge of God and His love – the purpose and meaning of human life, the importance of Emmanuel</h4>
 <h2 id="s4">Conclusion:</h2>
 <h3>(1) The importance of properly understanding the glorification of God</h3>

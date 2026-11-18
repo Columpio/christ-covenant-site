@@ -1,7 +1,7 @@
 # 2 Tim. 3–4
-## 2.1) 2 Tim. 3, - the importance of understanding the Word of God, the Covenant, Christ
+## 2.1) 2 Tim. 3, - the importance of understanding the Word of God, the Covenant, and Christ
 
-### (1) 2 Tim. 3:1-5, - non-acceptance of the Word of God, the Covenant, Christ, visible, external godliness without Christ Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
+### (1) 2 Tim. 3:1-5, - rejection of the Word of God, the Covenant, Christ, visible, external piety without Christ Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
 > This know also, that in the last days perilous times shall come. For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy, Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good, Traitors, heady, highminded, lovers of pleasures more than lovers of God; Having a form of godliness, but denying the power thereof: from such turn away. (2 Tim. 3:1-5, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -18,27 +18,27 @@
 > When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost. (John 19:30, KJV)
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-### (2) 2 Tim. 3:6-9, - rejection of the Word of God, the Covenant, Christ, opposition to the truth, the right of choice of each person. (John and Jambry– the Magi of Egypt, resisting Moses)
+### (2) 2 Tim. 3:6-9, - rejection of the Word of God, the Covenant, Christ, opposition to the truth, the right of choice of each person. (John and Jambry – the magi of Egypt, resisting Moses)
 > For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts, Ever learning, and never able to come to the knowledge of the truth. Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith. But they shall proceed no further: for their folly shall be manifest unto all men, as theirs also was. (2 Tim. 3:6-9, KJV)
 
-### (3) 2 Tim. 3:10-12, - the importance of the disciple, knowledge and transmission of the Word of God, the Covenant, Christ, spiritual warfare (persecution)
+### (3) 2 Tim. 3:10-12, - the importance of the disciple, the knowledge and transmission of the Word of God, the Covenant, Christ, spiritual warfare (persecution)
 > But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience, Persecutions, afflictions, which came unto me at Antioch, at Iconium, at Lystra; what persecutions I endured: but out of them all the Lord delivered me. Yea, and all that will live godly in Christ Jesus shall suffer persecution. (2 Tim. 3:10-12, KJV)
 
 ### (4) 2 Tim. 3:13, - the importance of understanding God's sovereignty and control, the success of the world (God's acceptance, the right to choose)
 > But evil men and seducers shall wax worse and worse, deceiving, and being deceived. (2 Tim. 3:13, KJV)
 
-### (5) 2 Tim. 3:14-17, - the importance of knowing and transmitting the Word of God, the Covenant, Christ (destiny), all the answers for man
+### (5) 2 Tim. 3:14-17, - the importance of knowing and transmitting the Word of God, the Covenant, Christ (purpose), all the answers for man
 > But continue thou in the things which thou hast learned and hast been assured of, knowing of whom thou hast learned them; And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus. All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness: That the man of God may be perfect, throughly furnished unto all good works. (2 Tim. 3:14-17, KJV)
 
-## 2) 2 Tim. 4, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 2) 2 Tim. 4, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
 ### (1) 2 Tim. 4:1, - the importance of understanding the Second Coming of Christ, the importance of understanding the inevitable judgment of God
 > I charge thee therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom; (2 Tim. 4:1, KJV)
 
-### (2) 2 Tim. 4:2, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, the possibility of salvation for every person on earth
+### (2) 2 Tim. 4:2, - the importance of knowing and transmitting the Word of God, the Covenant, Christ, and the possibility of salvation for every person on earth
 > Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine. (2 Tim. 4:2, KJV)
 
-### (3) 2 Tim. 4:3-4, - non-acceptance of the Word of God. Testaments, Christ, false teachings and fables, the action of Satan, the right to choose a person
+### (3) 2 Tim. 4:3-4, - rejection of the Word of God. The Covenant, Christ, false teachings and fables, the action of Satan, the right to choose a person
 > For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears; And they shall turn away their ears from the truth, and shall be turned unto fables. (2 Tim. 4:3-4, KJV)
 
 ### (4) 2 Tim. 4:5, - the importance of fulfilling the destiny of God's people in all circumstances and epochs of time
@@ -51,13 +51,13 @@
 ### (6) 2 Tim. 4:7, - the importance of fulfilling the purpose
 > I have fought a good fight, I have finished my course, I have kept the faith: (2 Tim. 4:7, KJV)
 
-#### (a) To strive by heroic deeds is to know and transmit the Word of God, the Covenant, and Christ under all circumstances and conditions of life
+#### (a) Asceticism is the knowledge and transmission of the Word of God, the Covenant, and Christ under any circumstances and conditions of life
 
-#### (b) To make a flow – the acceptance and transmission of the Word of God, the Covenant, Christ, the preparation and education of disciples, the transmission of the Word of God in time
+#### (b) To make a flow – the acceptance and transmission of the Word of God, the Covenant, Christ, the preparation and education of disciples, the transmission of the Word of God according to time
 
-#### (c) Preserve faith – living a life, faithfulness and service to God, preserving the purity of the Word of God, the Covenant, Christ
+#### (c) To preserve faith is to live a life lived, to be faithful and serve God, to preserve the purity of the Word of God, the Covenant, and Christ
 
-### (7) 2 Tim. 4:8, - the importance of understanding God's reward, the importance of knowing and transmitting the Word of God, the Covenant, Christ, the Disciples, Worldwide Evangelization
+### (7) 2 Tim. 4:8, - the importance of understanding God's reward, the importance of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, and Worldwide Evangelization
 > Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing. (2 Tim. 4:8, KJV)
 
 ### (8) 2 Tim. 4:9-22, - the importance of the disciples, the importance of fulfilling the destiny of the people of God, fulfilling the will of God
@@ -65,7 +65,7 @@
 
 #### (a) Crescens, Titus, Luke, Mark, Tychicus, Carp, Priscilla and Aquila, House of Onesiphorus, Erast, Trofim, Eubulus, Pud, Linus, Claudius – disciples of Christ, service to God, fulfillment of destiny
 
-#### (b) Demas – rejection of the Word of God, the Covenant, Christ, the visible. Col. 4:14
+#### (b) Demas is the rejection of the Word of God, the Covenant, Christ, the visible. Col. 4:14
 > Luke, the beloved physician, and Demas, greet you. (Col. 4:14, KJV)
 
 #### (c) Alexander Mednik is a child of Satan, resisting the Word of God, the Covenant, Christ, resisting the fulfillment of the destiny of God's people
@@ -78,7 +78,7 @@
 
 ## Conclusion:
 
-### (1) The importance of understanding the Word of God, the Covenant, Christ
+### (1) The importance of understanding the Word of God, the Covenant, and Christ
 
 ### (2) The importance of understanding the future, God's sovereignty and control
 
@@ -86,4 +86,4 @@
 
 ### (4) The importance of understanding God's acceptance, the prosperity of evil, the importance of understanding everyone's right to choose
 
-### (5) The importance of fulfilling the destiny of God's people in all circumstances, the importance of disciples, the importance of transmitting the Word of God, the Covenant, the Christ by distance and time
+### (5) The importance of fulfilling the destiny of God's people in all circumstances, the importance of disciples, the importance of transmitting the Word of God, the Covenant, and Christ by distance and time

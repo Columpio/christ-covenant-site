@@ -1,6 +1,6 @@
 # 17. The Epistle to Titus
 
-## 1) Titus 1, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 1) Titus 1, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
 ### (1) Titus 1:1, - the importance of understanding God's foreknowledge and election (Paul is a servant of God, chosen by God by faith), the importance of knowing the truth of God's Word related to piety. (God in the flesh, eternal life with God, intended.) 1 Tim. 3:16 Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16 (1 Tim. 3:16), John 19:30, - Rom. 10:9
 > Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and the acknowledging of the truth which is after godliness; (Titus 1:1, KJV)
@@ -23,13 +23,13 @@
 ### (2) Titus 1:2, - the importance of understanding eternal life together with God, the importance of understanding the purpose and meaning of life on earth in time (Where is a person's choice regarding eternity? With whom?)
 > In hope of eternal life, which God, that cannot lie, promised before the world began; (Titus 1:2, KJV)
 
-### (3) Titus 1:3, - the importance of conveying the Word of God, the Covenant, Christ, the preaching of N.Z., God's sovereignty and the control of the preaching trust
+### (3) Titus 1:3, - the importance of conveying the Word of God, the Covenant, Christ, the preaching of N.Z., God's sovereignty and control of the preaching trust
 > But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour; (Titus 1:3, KJV)
 
 ### (4) Titus 1:4, - the importance of the disciple, the transmission of the Word of God, the Covenant, Christ (Titus)
 > To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour. (Titus 1:4, KJV)
 
-### (5) Titus 1:5-9, - the importance of God's order of the Church of Christ, the importance of elders and bishops, the importance of knowing and transmitting the Word of God, the Covenants, Christ, the Disciples, Worldwide Evangelization
+### (5) Titus 1:5-9, - the importance of God's order of the Church of Christ, the importance of elders and bishops, the importance of knowing and transmitting the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization
 > For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee: If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly. For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre; But a lover of hospitality, a lover of good men, sober, just, holy, temperate; Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers. (Titus 1:5-9, KJV)
 
 #### (a) Presbyter and bishop - the importance of God's order in the Church of God, God's establishment
@@ -39,12 +39,12 @@
 ### (6) Titus 1:10-16, - rejection of the Word of God, the Covenant, Christ (empty-mouthed and deceivers, teach what should not be out of shameful self-interest), false teaching of the mixed gospel (Jewish fables), negative fruits of life, the importance of understanding the actions of Satan
 > For there are many unruly and vain talkers and deceivers, specially they of the circumcision: Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre’s sake. One of themselves, even a prophet of their own, said, The Cretians are alway liars, evil beasts, slow bellies. This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith; Not giving heed to Jewish fables, and commandments of men, that turn from the truth. Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled. They profess that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate. (Titus 1:10-16, KJV)
 
-## 2) Titus 2, - the importance of knowing and transmitting the Word of God, the Covenant, Christ
+## 2) Titus 2, - the importance of knowing and transmitting the Word of God, the Covenant, and Christ
 
-### (1) Titus 2:1-6, - the importance of living a right life, fulfilling one's destiny (knowing and transmitting the Word of God, the Covenant, Christ), serving God and people, fulfilling God's will
+### (1) Titus 2:1-6, - the importance of living a right life, fulfilling one's destiny (knowing and transmitting the Word of God, the Covenant, and Christ), serving God and people, and fulfilling God's will
 > But speak thou the things which become sound doctrine: That the aged men be sober, grave, temperate, sound in faith, in charity, in patience. The aged women likewise, that they be in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things; That they may teach the young women to be sober, to love their husbands, to love their children, To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed. Young men likewise exhort to be sober minded. (Titus 2:1-6, KJV)
 
-### (2) Titus 2:7-8, - the importance of fulfilling the purpose, the importance of correctly communicating the Word of God, the Covenant, Christ, the authority of the Church, God
+### (2) Titus 2:7-8, - the importance of fulfilling the purpose, the importance of correctly communicating the Word of God, the Covenant, Christ, the authority of the Church of God
 > In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity, Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you. (Titus 2:7-8, KJV)
 
 ### (3) Titus 2:9-10, - the importance of proper working relationships, the importance of fulfilling the destiny of God's people
@@ -53,7 +53,7 @@
 ### (4) Titus 2:11, - the importance of accepting the Word of God, the Covenant, Christ, the saving grace of God for all people, the importance of salvation and eternal life together with God
 > For the grace of God that bringeth salvation hath appeared to all men, (Titus 2:11, KJV)
 
-### (5) Titus 2:12, - the importance of understanding the work of God's grace – human teaching (the importance of the Word of God, the Covenant, Christ), the importance of living a right life (serving God and people), the importance of fulfilling a destiny
+### (5) Titus 2:12, - the importance of understanding the work of God's grace – human learning (the importance of the Word of God, the Covenant, Christ), the importance of living a right life (serving God and people), the importance of fulfilling a destiny
 > Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world; (Titus 2:12, KJV)
 
 ### (6) Titus 2:13, - the importance of understanding and waiting for the Second Coming of Jesus Christ (the Great God and Savior), the resurrection of the dead, eternal life with God
@@ -65,7 +65,7 @@
 ### (8) Titus 2:15, - the importance of proclaiming the Word of God, the Covenant, Christ, the importance of fulfilling the destiny of God's people
 > These things speak, and exhort, and rebuke with all authority. Let no man despise thee. (Titus 2:15, KJV)
 
-## 3) Titus 3, - the importance of understanding the Word of God, the Covenant, Christ
+## 3) Titus 3, - the importance of understanding the Word of God, the Covenant, and Christ
 
 ### (1) Titus 3:1-2, - the importance of living a right life, fulfilling one’s destiny, serving God and people
 > Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work, To speak evil of no man, to be no brawlers, but gentle, shewing all meekness unto all men. (Titus 3:1-2, KJV)
@@ -82,7 +82,7 @@
 ### (5) Titus 3:10-11, - rejection of the Word of God, the Covenant, Christ, heretics, the importance of proper chastisement and admonition
 > A man that is an heretick after the first and second admonition reject; Knowing that he that is such is subverted, and sinneth, being condemned of himself. (Titus 3:10-11, KJV)
 
-### (6) Titus 3:12-15, - the importance of disciples, the importance of fulfilling destiny, knowledge and transmission of the Word of God, the Covenant, Christ, Worldwide Evangelization
+### (6) Titus 3:12-15, - the importance of disciples, the importance of fulfilling destiny, learning and transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization
 > When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter. Bring Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them. And let ours also learn to maintain good works for necessary uses, that they be not unfruitful. All that are with me salute thee. Greet them that love us in the faith. Grace be with you all. Amen. (Titus 3:12-15, KJV)
 
 ## Conclusion:

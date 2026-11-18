@@ -2,7 +2,7 @@
 ## 6.1) Rom. 7:1-8, - the importance of understanding the Word of God, the Covenant, Christ, understanding the Law and the consequences of the fall for the people of God
 > Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth? For the woman which hath an husband is bound by the law to her husband so long as he liveth; but if the husband be dead, she is loosed from the law of her husband. So then if, while her husband liveth, she be married to another man, she shall be called an adulteress: but if her husband be dead, she is free from that law; so that she is no adulteress, though she be married to another man. Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, even to him who is raised from the dead, that we should bring forth fruit unto God. For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death. But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter. What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet. But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead. (Rom. 7:1-8, KJV)
 
-### (1) Rom. 7:1-4, - acceptance of the Word of God, the Covenant, Christ, the death of the old man, lawful liberation from the law and its consequences. (An example of the legal termination of marriage in a person's life) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
+### (1) Rom. 7:1-4, - acceptance of the Word of God, the Covenant, Christ, the death of the old man, legitimate liberation from the law and its consequences. (Example of the legal termination of marriage in a person's life) Gen. 1:27; 2:7, 9, 16-17, - Gen. 3:1-7 (Rom. 5:12; 6:23,Eph. 2:2), -Gen. 3:15, 21,Matt. 16:16,John 19:30, - Rom. 10:9
 > Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth? For the woman which hath an husband is bound by the law to her husband so long as he liveth; but if the husband be dead, she is loosed from the law of her husband. So then if, while her husband liveth, she be married to another man, she shall be called an adulteress: but if her husband be dead, she is free from that law; so that she is no adulteress, though she be married to another man. Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, even to him who is raised from the dead, that we should bring forth fruit unto God. (Rom. 7:1-4, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -27,7 +27,7 @@
 ### (4) Rom. 7:7-8, - the special importance of correctly understanding the purpose of the Law (commandments), awareness of the problem of sin and the impossibility of salvation on one’s own
 > What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet. But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead. (Rom. 7:7-8, KJV)
 
-## 2) Rom. 7:9-13, - the importance of understanding sin and spiritual problems
+## 2) Rom. 7:9-13, - the importance of understanding sin and the spiritual problem
 > For I was alive without the law once: but when the commandment came, sin revived, and I died. And the commandment, which was ordained to life, I found to be unto death. For sin, taking occasion by the commandment, deceived me, and by it slew me. Wherefore the law is holy, and the commandment holy, and just, and good. Was then that which is good made death unto me? God forbid. But sin, that it might appear sin, working death in me by that which is good; that sin by the commandment might become exceeding sinful. (Rom. 7:9-13, KJV)
 
 ### (1) Rom. 7:9, - the absence of the Law does not mean the absence of sin (I once lived without the law – the childhood of the Apostle Paul), the importance of understanding the problem of man's original sin. Rom. 5:12
@@ -40,7 +40,7 @@
 ### (3) Rom. 7:10, - the importance of understanding the verdict of the Word of God regarding the violation of the Commandments of the Law (I am dead – awareness of the spiritual state and consequences of violating the Commandments of God)
 > And the commandment, which was ordained to life, I found to be unto death. (Rom. 7:10, KJV)
 
-### (4) Rom. 7:10, - understanding the correctness and justice of God's commandments (given to man for life), the inability of man to live by the norms and standards of God, the importance of awareness of spiritual problems (served me to death). Rom. 6:23
+### (4) Rom. 7:10, - understanding the correctness and justice of God's commandments (given to man for life), the inability of man to live by the norms and standards of God, the importance of realizing a spiritual problem (served me to death). Rom. 6:23
 > And the commandment, which was ordained to life, I found to be unto death. (Rom. 7:10, KJV)
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
@@ -83,7 +83,7 @@
 > As it is written, There is none righteous, no, not one: (Rom. 3:10, KJV)
 > For all have sinned, and come short of the glory of God; (Rom. 3:23, KJV)
 
-#### (b) Sanctification is a process derived from holiness, the change and separation of man from the world to serve God through the knowledge and transmission of the Word of God, the Covenant, Christ (the image of Christ, the fruits of the Holy Spirit) Rev. 22:11,1 Thess. 4:3; 5:23-24, - John 8:31-32,1 Tim. 4:16
+#### (b) Sanctification is a process derived from holiness, the change and separation of man from the world to serve God through the knowledge and transmission of the Word of God, the Covenant, Christ (the reflection of Christ, the fruits of the Holy Spirit) Rev. 22:11,1 Thess. 4:3; 5:23-24, - John 8:31-32,1 Tim. 4:16
 > He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still. (Rev. 22:11, KJV)
 > For this is the will of God, even your sanctification, that ye should abstain from fornication: (1 Thess. 4:3, KJV)
 > And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ. Faithful is he that calleth you, who also will do it. (1 Thess. 5:23-24, KJV)
@@ -92,7 +92,7 @@
 
 #### (c) Sanctification, the transformation of a person is not a condition for salvation, the impossibility of completely ridding oneself of the remnants of sinful essence on earth, the constant reminder of the importance of Christ, the complete completion of man's sanctification in Central Asia, the resurrection from the dead, a new glorified body
 
-### (2) The loss of Righteousness and Holiness is the rejection of the Word of God, the Covenant, Christ
+### (2) The loss of Righteousness and Holiness is the abandonment of the Word of God, the Covenant, and Christ
 
 ## Conclusion:
 
@@ -100,4 +100,4 @@
 
 ### (2) The importance of sanctification and service to God, the importance of understanding and fulfilling the destiny of God's people
 
-### (3) The importance of understanding the Word of God, the Covenant, Christ, understanding the Law and the consequences of the fall for the people of God, the effect of the remnants of sinful essence in the children of God
+### (3) The importance of understanding the Word of God, the Covenant, and Christ, understanding the Law and the consequences of the fall for God's people, and the effect of the remnants of sin in God's children

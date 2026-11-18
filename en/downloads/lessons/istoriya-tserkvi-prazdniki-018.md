@@ -14,7 +14,7 @@
 
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-- The purpose of the Church (the people of God) is to preserve, know and transmit the Word of God, the Covenants, Christ, the disciples, World Evangelization, and preparation for the coming of Christ. 1 Tim. 2:4
+- The purpose of the Church (the people of God) is to preserve, know and transmit the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, and preparation for the coming of Christ. 1 Tim. 2:4
 
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 
@@ -72,11 +72,11 @@
 ### (8) The Church is the body of Jesus Christ, and Jesus Christ is the head of the Church, leading the Church through the Word of God and God's plan (circumstances). Eph. 1:22-23
 > And hath put all things under his feet, and gave him to be the head over all things to the church, Which is his body, the fulness of him that filleth all in all. (Eph. 1:22-23, KJV)
 
-### (9) The mission of the Church of Christ (the people of God) is to preserve, know and transmit the Word of God, the Covenants, Christ, the disciples, World Evangelization, and preparation for the Second Coming of Jesus Christ. 1 Tim. 2:4
+### (9) The mission of the Church of Christ (the people of God) is to preserve, know and transmit the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, and preparation for the Second Coming of Jesus Christ. 1 Tim. 2:4
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 
-## 3) Understanding Salvation and Baptism Holy Spirit Salvation is the Holy Spirit in man. (Salvation is Emmanuel, God together with man, rebirth, restoration to his original form, lawful liberation from the power of sin, death and hell, Satan)
-- Baptism of the Holy Spirit is the Holy Spirit on a person. (Acceptance of the power of God – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ, fulfillment of the will of God)
+## 3) Understanding salvation and the Baptism of the Holy Spirit Salvation is the Holy Spirit in man. (Salvation is Emmanuel, God together with man, rebirth, restoration to his original form, lawful liberation from the power of sin, death and hell, Satan)
+- The baptism of the Holy Spirit is the Holy Spirit on a person. (Receiving the power of God – knowing and transmitting the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparing for the coming of Christ, fulfilling God's will)
 
 ### (1) V.Z. – The Holy Spirit in believers (salvation, rebirth), and only on selected people (the power of God - kings, priests, prophets) 1 Pet. 1:10-11,Acts 10:43, - Judg. 11:29,1 Sam. 10:9-10; 16:13, Isa. 61:1,Luke 2:25
 > Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. (1 Pet. 1:10-11, KJV)
@@ -91,7 +91,7 @@
 > And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham. (Luke 19:9, KJV)
 > (But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet given; because that Jesus was not yet glorified.) (John 7:39, KJV)
 
-### (3) N.Z. – The Holy Spirit in believers (salvation, rebirth), and on all believers (the power of God to preserve, know and transmit the Word of God, the Covenant, Christ – kings, priests, prophets) 1 Cor. 3:16,Acts 2:1-4,1 Pet. 2:9, - Acts 1:8,Rom. 1:16, 1 Cor. 1:18, - 1 Tim. 2:4
+### (3) N.Z. – The Holy Spirit in believers (salvation, rebirth), and on all believers (the power of God to preserve, know, and transmit the Word of God, the Covenant, and Christ – kings, priests, and prophets) 1 Cor. 3:16,Acts 2:1-4,1 Pet. 2:9, - Acts 1:8,Rom. 1:16, 1 Cor. 1:18, - 1 Tim. 2:4
 > Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you? (1 Cor. 3:16, KJV)
 > And when the day of Pentecost was fully come, they were all with one accord in one place. And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting. And there appeared unto them cloven tongues like as of fire, and it sat upon each of them. And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance. (Acts 2:1-4, KJV)
 > But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light: (1 Pet. 2:9, KJV)
@@ -100,7 +100,7 @@
 > For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God. (1 Cor. 1:18, KJV)
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 
-#### (a) The power and gifts of the Holy Spirit for the preservation, knowledge and transmission of the Word of God, the Covenant, Christ, the Disciples, World Evangelization, preparation for the coming of Christ Eph. 4:11-13,1 Cor. 12:4-11, 28-30
+#### (a) The power and gifts of the Holy Spirit for the preservation, knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ Eph. 4:11-13,1 Cor. 12:4-11, 28-30
 > And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers; For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ: Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ: (Eph. 4:11-13, KJV)
 > Now there are diversities of gifts, but the same Spirit. And there are differences of administrations, but the same Lord. And there are diversities of operations, but it is the same God which worketh all in all. But the manifestation of the Spirit is given to every man to profit withal. For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit; To another faith by the same Spirit; to another the gifts of healing by the same Spirit; To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues: But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will. (1 Cor. 12:4-11, KJV)
 > And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues. Are all apostles? are all prophets? are all teachers? are all workers of miracles? Have all the gifts of healing? do all speak with tongues? do all interpret? (1 Cor. 12:28-30, KJV)
@@ -116,10 +116,10 @@
 ### (1) Regarding salvation, it is the acceptance of Jesus Christ as God and the acceptance of the All–sufficiency of His Sacrifice. (The result is salvation and rebirth, the forgiveness of all sins, justification, adoption and the Church of man). Rom. 10:9
 > That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved. (Rom. 10:9, KJV)
 
-### (2) With regard to Baptism, the Holy Spirit is the desire to know and transmit the Word of God, the Covenant, the Christ, the desire to serve God and fulfill His will. (The result is the knowledge and transmission of the Word of God, the Covenants, Christ, the disciples, All. Ev, receiving power from God to fulfill his destiny, the effect of the gifts of power and the gifts of service in the lives of God's children) Luke 11:11-13
+### (2) With regard to the Baptism of the Holy Spirit, there is a desire to know and impart the Word of God, the Covenant, and Christ, and a desire to serve God and fulfill His will. (The result is the knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, all of them, receiving power from God to fulfill his destiny, the effect of the gifts of power and the gifts of service in the lives of God's children) Luke 11:11-13
 > If a son shall ask bread of any of you that is a father, will he give him a stone? or if he ask a fish, will he for a fish give him a serpent? Or if he shall ask an egg, will he offer him a scorpion? If ye then, being evil, know how to give good gifts unto your children: how much more shall your heavenly Father give the Holy Spirit to them that ask him? (Luke 11:11-13, KJV)
 
-## 5) Understanding the meaning of Pentecost – Jesus of Nazareth is the Christ (God in the flesh, the actual execution of the sentence of the Word of God), the birth of the Church of Jesus Christ
+## 5) Understanding the meaning of Pentecost – Jesus of Nazareth is the Christ (God in the flesh, the actual fulfillment of the sentence of the Word of God), the birth of the Church of Jesus Christ
 
 ### (1) Cancellation of the Temple of V.Z., Worship in any place
 
@@ -137,13 +137,13 @@
 ### (6) The N.Z. Canon, the fullness of Holy Scripture. 2 Tim. 3:16
 > All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness: (2 Tim. 3:16, KJV)
 
-### (7) The encouragement of the peoples of the earth is the continuation of Worldwide Evangelization on a large scale, God's love and mercy, the fulfillment of God's will 1 Tim. 2:4, - Matt. 28:19-20,Acts 1:8, - Gen. 9:27
+### (7) Encouragement of the peoples of the earth – continuation of Worldwide Evangelization on a large scale, God's love and mercy, fulfillment of God's will 1 Tim. 2:4, - Matt. 28:19-20,Acts 1:8, - Gen. 9:27
 > Who will have all men to be saved, and to come unto the knowledge of the truth. (1 Tim. 2:4, KJV)
 > Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen. (Matt. 28:19-20, KJV)
 > But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and in Samaria, and unto the uttermost part of the earth. (Acts 1:8, KJV)
 > God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant. (Gen. 9:27, KJV)
 
-### (8) Denunciation of the Jews, non-acceptance of the Word of God, the Covenant, Christ Isa. 28:7-12, - John 10:33, Rom. 9:30-33, - Acts 2:12-36
+### (8) Chastisement of the Jews, rejection of the Word of God, the Covenant, Christ Isa. 28:7-12, - John 10:33,Rom. 9:30-33, - Acts 2:12-36
 > But they also have erred through wine, and through strong drink are out of the way; the priest and the prophet have erred through strong drink, they are swallowed up of wine, they are out of the way through strong drink; they err in vision, they stumble in judgment. For all tables are full of vomit and filthiness, so that there is no place clean. Whom shall he teach knowledge? and whom shall he make to understand doctrine? them that are weaned from the milk, and drawn from the breasts. For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little: For with stammering lips and another tongue will he speak to this people. To whom he said, This is the rest wherewith ye may cause the weary to rest; and this is the refreshing: yet they would not hear. (Isa. 28:7-12, KJV)
 > The Jews answered him, saying, For a good work we stone thee not; but for blasphemy; and because that thou, being a man, makest thyself God. (John 10:33, KJV)
 > What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith. But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness. Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone; As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed. (Rom. 9:30-33, KJV)
@@ -154,4 +154,4 @@
 ### (1) The special importance of understanding the day of Pentecost (Shavuot, the feast of the first fruits) is the birth of the Church, the "first fruits" of the New Testament (The Day of Pentecost in the twentieth Century – receiving the Law on Mount Sinai, the "first fruits"
 - V.Z.)
 
-### (2) Understanding the purpose of the Church, the power and gifts of the Holy Spirit – the preservation, knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, World Evangelization, preparation for the Second Coming of Jesus Christ
+### (2) Understanding the purpose of the Church, the power and gifts of the Holy Spirit – the preservation, knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, preparation for the Second Coming of Jesus Christ

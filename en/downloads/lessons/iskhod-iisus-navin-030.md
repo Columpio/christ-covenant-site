@@ -1,5 +1,5 @@
 # Num. 32–36
-## 10.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, World Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
+## 10.1) The purpose of the people of God is to know and transmit the Word of God, the Covenant, Christ, Canaan, Worldwide Evangelization, the disciples, and the coming of Christ. Rom. 3:2 Gen. 1:27; 2:7, 17 (Gen. 3:1-7, - Rom. 5:12; 6:23,Eph. 2:2), - Gen. 3:15, 21
 > Much every way: chiefly, because that unto them were committed the oracles of God. (Rom. 3:2, KJV)
 > So God created man in his own image, in the image of God created he him; male and female created he them. (Gen. 1:27, KJV)
 > And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul. (Gen. 2:7, KJV)
@@ -11,7 +11,7 @@
 > And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. (Gen. 3:15, KJV)
 > Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them. (Gen. 3:21, KJV)
 
-## 2) Num. 31, - fulfillment of the Word of God, the Covenant, Christ
+## 2) Num. 31, - fulfillment of the Word of God, the Covenant, of Christ
 
 ### (1) The Midians are descendants of Abraham. Gen. 25:1-2
 > Then again Abraham took a wife, and her name was Keturah. And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. (Gen. 25:1-2, KJV)
@@ -29,10 +29,10 @@
 > And they slew the kings of Midian, beside the rest of them that were slain; namely, Evi, and Rekem, and Zur, and Hur, and Reba, five kings of Midian: Balaam also the son of Beor they slew with the sword. (Num. 31:8, KJV)
 > Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against the LORD in the matter of Peor, and there was a plague among the congregation of the LORD. (Num. 31:16, KJV)
 
-### (4) The Unfailing fulfillment of the Word of God Rom. 6:23
+### (4) The unfailing fulfillment of the Word of God Rom. 6:23
 > For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. (Rom. 6:23, KJV)
 
-## 3) Num. 32, - the importance of Canaan, World Evangelization, the coming of Christ (life’s work)
+## 3) Num. 32, - the importance of Canaan, World Evangelization, the coming of Christ (the work of life)
 
 ### (1) Num. 32:1-5, - the influence of the visible on a person
 > Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place was a place for cattle; The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying, Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon, Even the country which the LORD smote before the congregation of Israel, is a land for cattle, and thy servants have cattle: Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, and bring us not over Jordan. (Num. 32:1-5, KJV)
@@ -43,17 +43,17 @@
 ### (3) Num. 32:16-42, - the importance of understanding, fulfilling the purpose
 > And they came near unto him, and said, We will build sheepfolds here for our cattle, and cities for our little ones: But we ourselves will go ready armed before the children of Israel, until we have brought them unto their place: and our little ones shall dwell in the fenced cities because of the inhabitants of the land. We will not return unto our houses, until the children of Israel have inherited every man his inheritance. For we will not inherit with them on yonder side Jordan, or forward; because our inheritance is fallen to us on this side Jordan eastward. And Moses said unto them, If ye will do this thing, if ye will go armed before the LORD to war, And will go all of you armed over Jordan before the LORD, until he hath driven out his enemies from before him, And the land be subdued before the LORD: then afterward ye shall return, and be guiltless before the LORD, and before Israel; and this land shall be your possession before the LORD. But if ye will not do so, behold, ye have sinned against the LORD: and be sure your sin will find you out. Build you cities for your little ones, and folds for your sheep; and do that which hath proceeded out of your mouth. And the children of Gad and the children of Reuben spake unto Moses, saying, Thy servants will do as my lord commandeth. Our little ones, our wives, our flocks, and all our cattle, shall be there in the cities of Gilead: But thy servants will pass over, every man armed for war, before the LORD to battle, as my lord saith. So concerning them Moses commanded Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel: And Moses said unto them, If the children of Gad and the children of Reuben will pass with you over Jordan, every man armed to battle, before the LORD, and the land shall be subdued before you; then ye shall give them the land of Gilead for a possession: But if they will not pass over with you armed, they shall have possessions among you in the land of Canaan. And the children of Gad and the children of Reuben answered, saying, As the LORD hath said unto thy servants, so will we do. We will pass over armed before the LORD into the land of Canaan, that the possession of our inheritance on this side Jordan may be ours. And Moses gave unto them, even to the children of Gad, and to the children of Reuben, and unto half the tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan, the land, with the cities thereof in the coasts, even the cities of the country round about. And the children of Gad built Dibon, and Ataroth, and Aroer, And Atroth, Shophan, and Jaazer, and Jogbehah, And Beth-nimrah, and Beth-haran, fenced cities: and folds for sheep. And the children of Reuben built Heshbon, and Elealeh, and Kirjathaim, And Nebo, and Baal-meon, (their names being changed,) and Shibmah: and gave other names unto the cities which they builded. And the children of Machir the son of Manasseh went to Gilead, and took it, and dispossessed the Amorite which was in it. And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein. And Jair the son of Manasseh went and took the small towns thereof, and called them Havoth-jair. And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name. (Num. 32:16-42, KJV)
 
-## 4) Num. 33-35, - section of Canaan, fulfillment of the Word of God, the Covenant, Christ
+## 4) Num. 33-35, - the section of Canaan, the fulfillment of the Word of God, the Covenant, of Christ
 
-### (1) Finding God's people all over the earth is God's sovereignty
+### (1) The presence of God's people all over the earth is God's sovereignty
 
 ### (2) Understanding prepared people in every place
 
-### (3) Cities for the Levites in all the inheritances of the land of the people of God Num. 35. (Prototype of the local Church, transmission of the Covenant, Christ, refuge, salvation)
+### (3) Cities for the Levites in all the land of the people of God Num. 35. (Prototype of the local Church, transmission of the Covenant, Christ, refuge, salvation)
 
-## 5) Num. 36 (6-10), - the importance of transmitting the Word of God, the Covenant, Christ
+## 5) Num. 36 (6-10), - the importance of conveying the Word of God, the Covenant, and Christ
 
-### (1) The importance of preserving all the tribes of God's people is the importance of fulfilling the purpose of all of God's people. (In the absence of sons, the wife's husband takes the wife's surname and continues the wife's family, the marriage is only from the same tribe of the people of God) Neh. 7:63
+### (1) The importance of preserving all the tribes of God's people is the importance of fulfilling the purpose of all of God's people. (In the absence of sons, the wife's husband takes the wife's surname and continues the wife's family, the marriage is only from the same tribe of God's people) Neh. 7:63
 > And of the priests: the children of Habaiah, the children of Koz, the children of Barzillai, which took one of the daughters of Barzillai the Gileadite to wife, and was called after their name. (Neh. 7:63, KJV)
 
 ### (2) The importance of understanding the genealogy of Jesus Christ
@@ -66,8 +66,8 @@
 
 ## Conclusion:
 
-### (1) The importance of the people of God – the knowledge and transmission of the Word of God, the Covenant, Christ (Understanding the purpose of Canaan, the Disciples, World Evangelization)
+### (1) The importance of the people of God is the knowledge and transmission of the Word of God, the Covenant, and Christ (Understanding the purpose of Canaan, the Disciples, and Worldwide Evangelization)
 
-### (2) The action of Satan is to stop the transmission of the Word of God, the Covenant, Christ (Circumstances, ministers, loved ones)
+### (2) Satan's action is to stop the transmission of the Word of God, the Covenant, Christ (Circumstances, minister, loved ones)
 
-### (3) Worldwide Evangelization, Canaan, the coming of Christ – God sovereignty. (With or without us, it's better to participate)
+### (3) Worldwide Evangelization, Canaan, the coming of Christ – God's sovereignty. (With or without us, it's better to participate)

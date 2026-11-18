@@ -13,7 +13,7 @@
 
 ### (1) Rejection of the Word of God, the Covenant, Christ, loss of purpose – slavery
 
-### (2) The preservation of the Covenant family, Christ – the knowledge and transmission of the Word of God (Daniel, Shadrach, Mesach, Abednego, Ezra, Nehemiah. Mordecai, etc.)
+### (2) The preservation of the family of the Covenant, of Christ, is the knowledge and transmission of the Word of God (Daniel, Shadrach, Mesach, Abednego, Ezra, Nehemiah. Mordecai, etc.)
 
 ## 2) The stages of the return of God's people
 
@@ -33,50 +33,50 @@
 
 ## 4) Nehemiah – the Third Return of the Jews (444 BC)
 
-### (1) Neh. 1, - understanding the Word of God, the Covenant, Christ
+### (1) Neh. 1, - understanding the Word of God, the Covenant, and Christ
 
 #### (a) Fasting and prayer – understanding the problem, renouncing the Covenant, Christ
 
 #### (b) Understanding the decision – accepting the Word of God, the Covenant, Christ, destiny
 
-### (2) Neh. 2, - purpose of the people of God, World Evangelism, the coming of Christ
+### (2) Neh. 2, - the destiny of God's people, Worldwide Evangelization, the coming of Christ
 
 #### (a) God's sovereignty and Control – Nehemiah the king's Cupbearer
 
-#### (b) Artaxerxes 1, Esther's stepson, Mordecai's preaching, Esther, understanding the Word of God, the Covenant, Christ, Nehemiah's assistance in the cause of God
+#### (b) Artaxerxes 1, Esther's stepson, the preaching of Mordecai, Esther, understanding the Word of God, the Covenant, Christ, Nehemiah's assistance in the cause of God
 
-#### (c) The importance of rebuilding Jerusalem – the coming of Christ, the fulfillment of the Word of God, the importance of transmitting the Word of God, the Covenant, Christ, Worldwide Evangelization
+#### (c) The importance of the restoration of Jerusalem – the coming of Christ, the fulfillment of the Word of God, the importance of transmitting the Word of God, the Covenant, Christ, and Worldwide Evangelization
 
 #### (d) Nehemiah– ruler of Judea (satrapy of Persia)
 
-#### (e) The action of Satan is opposition to the Word of God, the Covenant, Christ Dan. 9:25. (Sanaballat, Tobiah, Geshem - pagan peoples, non-acceptance of the Word of God)
+#### (e) The act of Satan is to resist the Word of God, the Covenant, and Christ Dan. 9:25. (Sanavallat, Tobiah, Geshem – yazych. nations, rejection of the Word of God)
 > Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times. (Dan. 9:25, KJV)
 
 ### (3) Neh. 3, - God's sovereignty and control, the fulfillment of God's Word
 
-#### (a) God's list of people – understanding, fulfillment of destiny
+#### (a) The list of God's people – understanding, fulfillment of destiny
 
-#### (b) The rebuilding of Jerusalem is God's will, the coming of Christ. Dan. 9:25
+#### (b) The rebuilding of Jerusalem is the will of God, the coming of Christ. Dan. 9:25
 > Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times. (Dan. 9:25, KJV)
 
-### (4) Neh. 4, - the action of Satan, stop the transmission of the Word of God, the Covenant, Christ
+### (4) Neh. 4, - the action of Satan, to stop the transmission of the Word of God, the Covenant, Christ
 
-#### (a) Pagan nations – rejection of the Word of God, the Covenant, Christ
+#### (a) Pagan peoples – rejection of the Word of God, the Covenant, and Christ
 
 #### (b) Samaritans, Ammonites, and Arabians are the threat of war. (The prototype of spiritual warfare is the destiny of God's people)
 
-### (5) Neh. 5, - the action of Satan, stop the transmission of the Word of God, the Covenant, Christ
+### (5) Neh. 5, - the action of Satan, to stop the transmission of the Word of God, the Covenant, Christ
 
 #### (a) The oppression of God's people – the leaders, Mammon
 
 #### (b) The importance of proper relationships among God's people
 
-### (6) Neh. 6, - Satan's action, attempts to discredit Nehemiah
+### (6) Neh. 6, - the action of Satan, attempts to discredit Nehemiah
 
 #### (a) Neh. 6:1-4, - attempts to kill Nehemiah
 > Now it came to pass, when Sanballat, and Tobiah, and Geshem the Arabian, and the rest of our enemies, heard that I had builded the wall, and that there was no breach left therein; (though at that time I had not set up the doors upon the gates;) That Sanballat and Geshem sent unto me, saying, Come, let us meet together in some one of the villages in the plain of Ono. But they thought to do me mischief. And I sent messengers unto them, saying, I am doing a great work, so that I cannot come down: why should the work cease, whilst I leave it, and come down to you? Yet they sent unto me four times after this sort; and I answered them after the same manner. (Neh. 6:1-4, KJV)
 
-#### (b) Neh. 6:5-9, is an attempt to accuse Nehemiah of wanting to rebel against Persia and declare himself the king of the Jews, vanity
+#### (b) Neh. 6:5-9, is an attempt to accuse Nehemiah of wanting to rebel against Persia and declare himself king of the Jews, vanity
 > Then sent Sanballat his servant unto me in like manner the fifth time with an open letter in his hand; Wherein was written, It is reported among the heathen, and Gashmu saith it, that thou and the Jews think to rebel: for which cause thou buildest the wall, that thou mayest be their king, according to these words. And thou hast also appointed prophets to preach of thee at Jerusalem, saying, There is a king in Judah: and now shall it be reported to the king according to these words. Come now therefore, and let us take counsel together. Then I sent unto him, saying, There are no such things done as thou sayest, but thou feignest them out of thine own heart. For they all made us afraid, saying, Their hands shall be weakened from the work, that it be not done. Now therefore, O God, strengthen my hands. (Neh. 6:5-9, KJV)
 
 #### (c) Neh. 6:10-14, - false prophets, an attempt to frighten Nehemiah with the fear of death, a call to hide in the Temple. (An attempt to accuse cowardice and violation of the Word of God is the right to enter the Temple only for the priests of God)
@@ -90,24 +90,24 @@
 
 ## 5) The importance of understanding the meaning of the books of Ezra, Esther, Nehemiah for the people of God in the New Testament
 
-### (1) The importance of the conquest of Canaan, the importance of rebuilding the Altar, the Temple, and Jerusalem – knowledge and transmission of the Word of God, the Covenants, Christ, the disciples, Worldwide Evangelization, preparation for the coming of Christ
+### (1) The importance of the conquest of Canaan, the importance of rebuilding the Altar, the Temple, and Jerusalem – knowledge and transmission of the Word of God, the Covenant, Christ, the disciples, Worldwide Evangelization, and preparation for the coming of Christ
 
 ### (2) Canaan in N.Z. – the whole world, the importance of local Churches to the ends of the earth, Worldwide Evangelization, fulfillment of destiny
 
-### (3) The Altar and Sacrifice in N.Z. – the importance of understanding Jesus Christ and His Sacrifice on the Cross of Calvary, the importance of properly understanding the Word of God, the Covenant, and Christ for man
+### (3) The Altar and Sacrifice in N.Z. – the importance of understanding Jesus Christ and His Sacrifice on the Cross of Calvary, the importance of a proper understanding of the Word of God, the Covenant, and Christ for man
 
 ### (4) The Temple and Jerusalem in N.Z. – the house of prayer, the local Churches, the central place of God's faith, the self-awareness of God's people, the importance of fulfilling the destiny
 
 ### (5) The Walls of Jerusalem in N.Z. – spiritual warfare, protection of the faith of God, the importance of proper Liturgy in N.Z. Acts 2:42
 > And they continued stedfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers. (Acts 2:42, KJV)
 
-### (6) The Book of Esther in N.Z. – understanding the unchanging actions of Satan, the attempt to destroy the people of God, stopping the knowledge and transmission of the Word of God, the Covenant, Christ (God's sovereignty and control)
+### (6) The Book of Esther in N.Z. – understanding the unchanging work of Satan, an attempt to destroy the people of God, stopping the knowledge and transmission of the Word of God, the Covenant, Christ (God's sovereignty and control)
 
 ## Conclusion:
 
-### (1) The importance of Understanding God's Sovereignty and Control – rebuilding the Temple and Jerusalem, fulfilling God's Word Dan. 9:25
+### (1) The importance of understanding God's Sovereignty and Control – rebuilding the Temple and Jerusalem, fulfilling God's Word Dan. 9:25
 > Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times. (Dan. 9:25, KJV)
 
-### (2) Nehemiah – fulfilling the destiny of God's people, affirming and transmitting the Word of God, the Covenant, Christ, the walls of Jerusalem
+### (2) Nehemiah is the fulfillment of the destiny of the people of God, the affirmation and transmission of the Word of God, the Covenant, Christ, and the walls of Jerusalem
 
-### (3) The action of Satan is to stop the transmission of the Word of God, the Covenant, Christ, World Evangelization
+### (3) Satan's action is to stop the transmission of the Word of God, the Covenant, Christ, and Worldwide Evangelization
